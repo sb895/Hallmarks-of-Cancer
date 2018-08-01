@@ -1,0 +1,8 @@
+The generation and detection of mechanical forces is a ubiquitous aspect of cell physiology , with direct relevance to cancer metastasis(1) , atherogenesis(2) and wound healing(3) .
+In each of these examples , cells both exert force on their surroundings and simultaneously enzymatically remodel the extracellular matrix ( ECM ) .
+The effect of forces on ECM has thus become an area of considerable interest due to its likely biological and medical importance(4-7) .
+Single molecule techniques such as optical trapping(8) , atomic force microscopy(9) , and magnetic tweezers(10,11) allow researchers to probe the function of enzymes at a molecular level by exerting forces on individual proteins .
+Of these techniques , magnetic tweezers ( MT ) are notable for their low cost and high throughput .
+MT exert forces in the range of pN and can provide millisecond temporal resolution , qualities that are well matched to the study of enzyme mechanism at the single-molecule level(12) .
+Here we report a highly parallelizable MT assay to study the effect of force on the proteolysis of single protein molecules .
+We present the specific example of the proteolysis of a trimeric collagen peptide by matrix metalloproteinase 1 ( MMP-1 ) ; however , this assay can be easily adapted to study other substrates and proteases .

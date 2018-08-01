@@ -1,0 +1,10 @@
+Continuous exposure to high concentrations of hexavalent chromium [ Cr(VI) ] in drinking water results in intestinal tumors in mice but not rats .
+Concentration-dependent gene expression effects were evaluated in female F344 rat duodenal and jejunal epithelia following 7 and 90 days of exposure to 0.3-520 mg/L ( as sodium dichromate dihydrate , SDD ) in drinking water .
+Whole-genome microarrays identified 3269 and 1815 duodenal , and 4557 and 1534 jejunal differentially expressed genes at 8 and 91 days , respectively , with significant overlaps between the intestinal segments .
+Functional annotation identified gene expression changes associated with oxidative stress , cell cycle , cell death , and immune response that were consistent with reported changes in redox status and histopathology .
+Comparative analysis with B6C3F1 mouse data from a similarly designed study identified 2790 differentially expressed rat orthologs in the duodenum compared to 5013 mouse orthologs at day 8 , and only 1504 rat and 3484 mouse orthologs at day 91 .
+Automated dose-response modeling resulted in similar median EC₅₀s in the rodent duodenal and jejunal mucosae .
+Comparative examination of differentially expressed genes also identified divergently regulated orthologs .
+Comparable numbers of differentially expressed genes were observed at equivalent Cr concentrations ( μg Cr/g duodenum ) .
+However , mice accumulated higher Cr levels than rats at ≥ 170 mg/L SDD , resulting in a increase in the number of differentially expressed genes .
+These qualitative and quantitative differences in differential gene expression , which correlate with differences in tissue dose , likely contribute to the disparate intestinal tumor outcomes .

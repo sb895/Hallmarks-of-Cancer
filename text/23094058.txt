@@ -1,0 +1,9 @@
+Angiogenesis is a crucial step in the growth and metastasis of cancers , since it enables the growing tumor to receive oxygen and nutrients .
+Cancer prevention using natural products has become an integral part of cancer control .
+We studied the antiangiogenic activity of quercetin using ex vivo , in vivo and in vitro models .
+Rat aortic ring assay showed that quercetin at non-toxic concentrations significantly inhibited microvessel sprouting and exhibited a significant inhibition in the proliferation , migration , invasion and tube formation of endothelial cells , which are key events in the process of angiogenesis .
+Most importantly , quercetin treatment inhibited ex vivo angiogenesis as revealed by chicken egg chorioallantoic membrane assay ( CAM ) and matrigel plug assay .
+Western blot analysis showed that quercetin suppressed VEGF induced phosphorylation of VEGF receptor 2 and their downstream protein kinases AKT , mTOR , and ribosomal protein S6 kinase in HUVECs .
+Quercetin ( 20 mg/kg/d ) significantly reduced the volume and the weight of solid tumors in prostate xenograft mouse model , indicating that quercetin inhibited tumorigenesis by targeting angiogenesis .
+Furthermore , quercetin reduced the cell viability and induced apoptosis in prostate cancer cells , which were correlated with the downregulation of AKT , mTOR and P70S6K expressions .
+Collectively the findings in the present study suggest that quercetin inhibits tumor growth and angiogenesis by targeting VEGF-R2 regulated AKT/mTOR/P70S6K signaling pathway , and could be used as a potential drug candidate for cancer therapy .

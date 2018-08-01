@@ -1,0 +1,6 @@
+The homodimeric bc(1) complexes are membrane proteins essential in respiration and photosynthesis .
+The distance between the two b(L)-hemes of the dimer opens the possibility of electron transfer between them , but contradictory reports make such inter-monomer electron transfer controversial .
+We have constructed in Rhodobacter sphaeroides a heterodimeric expression system similar to those used before , in which the bc(1) complex can be mutated differentially in the two copies of cyt b to test for inter-monomer electron transfer , but found that genetic recombination by cross-over then occurs to produce wild-type homodimer .
+Selection pressure under photosynthetic growth always favored the homodimer over heterodimeric variants enforcing inter-monomer electron transfer , showing that the latter are not competitive .
+These results , together with kinetic analysis of myxothiazol titrations , demonstrate that inter-monomer electron transfer does not occur at rates competitive with monomeric turnover .
+We examine the results from other groups interpreted as demonstrating rapid inter-monomer electron transfer , conclude that similar mechanisms are likely to be in play , and suggest that such claims might need to be re-examined .

@@ -1,0 +1,3 @@
+The multi-kinase inhibitor dasatinib induced a variable but significant decrease of viability in both p53(wild-type) ( EHEB , JVM-2 , JVM-3 ) and p53(mutated) ( MEC-1 , MEC-2 , BJAB ) prolymphocytic B leukemic cells , due to a combination of cell cycle block in G1 and apoptosis .
+Antibody phospho-kinase array analysis revealed that dasatinib inhibited the phosphorylation of various kinases , including ERK1/2 and p38/MAPK as well as of STAT3 transcription factors , in both p53(wild-type) and p53(mutated) cells .
+Therefore , dasatinib might offer a novel therapeutic strategy not only for p53(wild-type) , but also for p53(mutated) B malignancies that have the worst prognosis and urgently need innovative therapeutic approaches .

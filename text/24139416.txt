@@ -1,0 +1,13 @@
+Metastasis is the most lethal attribute of human malignancy .
+High-level expression of survivin is involved in both carcinogenesis and angiogenesis in cancer .
+Previous studies indicate that a mutation of the threonine residue at position 34 ( Thr34Ala ) of survivin generates a dominant-negative mutant that induces apoptosis , inhibits angiogenesis , and suppresses highly metastatic breast carcinoma in mouse models .
+We investigated the efficacy of gene therapy with a survivin dominant-negative mutant and possible factors related to lymph node metastasis .
+The metastasis rate was compared between each group in order to find a survivin-targeted therapy against lymphangiogenesis in its earliest stages .
+We established lymph node metastasis models and treated animals with H22 tumors with Lip-mSurvivinT34A ( Lip-mS ) , Lip-plasmid ( Lip-P ) , or normal saline ( NS ) .
+Eight days after the last dose , five randomly chosen mice from each group were sacrificed .
+We detected the apoptotic index , microvessel density ( MVD ) , lymphatic microvessel density ( LMVD ) , and the expression of VEGF-D with immunohistochemistry .
+After the remaining animals were sacrificed , we compared the tumor-infiltrated lymph nodes in each group .
+Administration of mSurvivinT34A plasmid complexed with cationic liposome ( DOTAP/chol ) resulted in the efficacious inhibition of tumor growth and lymph node metastasis within the mouse H22 tumor model .
+These responses were associated with tumor cell apoptosis , and angiogenesis and lymphangiogenesis inhibition .
+Our results suggested that Lip-mSurvivinT34A induced apoptosis and inhibited tumor angiogenesis and lymphangiogenesis , thus suppressing tumor growth and lymphatic metastasis .
+The mSurvivinT34A survivin mutant is a promising strategy of gene therapy to inhibit lymphatic metastasis .

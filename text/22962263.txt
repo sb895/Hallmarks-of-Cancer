@@ -1,0 +1,6 @@
+Hypoxia in the tumor microenvironment plays a central role in the evolution of immune escape mechanisms by tumor cells .
+In this study , we report the definition of miR-210 as a miRNA regulated by hypoxia in lung cancer and melanoma , documenting its involvement in blunting the susceptibility of tumor cells to lysis by antigen-specific cytotoxic T lymphocytes ( CTL). miR-210 was induced in hypoxic zones of human tumor tissues .
+Its attenuation in hypoxic cells significantly restored susceptibility to autologous CTL-mediated lysis , independent of tumor cell recognition and CTL reactivity .
+A comprehensive approach using transcriptome analysis , argonaute protein immunoprecipitation , and luciferase reporter assay revealed that the genes PTPN1 , HOXA1 , and TP53I11 were miR-210 target genes regulated in hypoxic cells .
+In support of their primary importance in mediating the immunosuppressive effects of miR-210 , coordinate silencing of PTPN1 , HOXA1 , and TP53I11 dramatically decreased tumor cell susceptibility to CTL-mediated lysis .
+Our findings show how miR-210 induction links hypoxia to immune escape from CTL-mediated lysis , by providing a mechanistic understanding of how this miRNA mediates immunosuppression in oxygen-deprived regions of tumors where cancer stem-like cells and metastatic cellular behaviors are known to evolve .

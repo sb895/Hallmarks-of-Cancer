@@ -1,0 +1,5 @@
+Although regulatory T cells ( T(regs) ) are known to suppress self-reactive autoimmune responses , their role during T cell responses to nonself antigens is not well understood .
+We show that T(regs) play a critical role during the priming of immune responses in mice .
+T(reg) depletion induced the activation and expansion of a population of low-avidity CD8(+) T cells because of overproduction of CCL-3/4/5 chemokines , which stabilized the interactions between antigen-presenting dendritic cells and low-avidity T cells .
+In the absence of T(regs) , the avidity of the primary immune response was impaired , which resulted in reduced memory to Listeria monocytogenes .
+These results suggest that T(regs) are important regulators of the homeostasis of CD8(+) T cell priming and play a critical role in the induction of high-avidity primary responses and effective memory .

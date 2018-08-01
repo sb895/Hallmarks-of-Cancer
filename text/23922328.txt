@@ -1,0 +1,4 @@
+Oncogene-induced senescence is now recognized as being an important mechanism in protecting against cancer .
+The phenotypic consequences , i.e. , the inhibition of cell proliferation , are well described in model systems and specific events/key players defined .
+However , there is still the need to understand , at a more global level , the network of events involved both in terms of cause and consequence .
+This paper shows the power of systematic proteomic analyses , both targeted and global , in addressing such biological questions , highlighting the widespread nature of histone acetylation changes , and the opposite metabolic changes to those seen in the Warburg effect .

@@ -1,0 +1,8 @@
+A new line of human ovarian serous adenocarcinoma cells , TU-OS-4 , was established and characterized .
+The cells showed a short , spindle-shaped morphology and grew in monolayers without contact inhibition while forming an arrangement resembling a jigsaw puzzle .
+Chromosome numbers ranged from 55 to 73 .
+The proliferation rate was lower than other serous adenocarcinoma cell lines tested ( KF , SHIN-3 , and SK-OV-3 ) , and the doubling time was 53.3 h .
+Western blot analysis showed that TU-OS-4 cells overexpressed epidermal growth factor receptor , human epidermal growth factor receptor ( HER ) 2 , and phosphorylated HER2 protein .
+The IC(50) values to cisplatin , paclitaxel , and lapatinib were 25.8 \u03bcM , 686 nM , and 183 nM , respectively .
+Heterotransplantation in nude mice reflected the original tumor of the cells .
+These results suggested that this cell line would be useful to study chemoresistant mechanisms and contribute to establishing novel treatment strategies for patients with ovarian cancer .

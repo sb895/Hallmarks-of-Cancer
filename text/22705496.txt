@@ -1,0 +1,10 @@
+DNA double-strand breaks ( DSBs ) in embryonic stem ( ES ) cells are repaired primarily by homologous recombination ( HR ) .
+The mechanism by which HR is regulated in these cells , however , remains enigmatic .
+To gain insight into such regulatory mechanisms , we have asked how protein levels of Rad51 , a key component of HR , are controlled in mouse ES cells and mouse embryo fibroblasts ( MEFs ) .
+The Rad51 protein level is about 15-fold higher in ES cells than in MEFs .
+The level of Rad51 mRNA , however , is only higher , indicating that the differences in mRNA levels due to rates of transcription or mRNA stability are not sufficient to account for the large difference in the abundance of Rad51 protein .
+Comparison of Rad51 half-lives between ES cells and MEFs also did not explain the elevated level of Rad51 protein in the ES cells .
+A comparative assessment of the Rad51 translation level demonstrated that it is translated with much greater efficacy in ES cells than in MEFs .
+To determine whether this high level of translation in ES cells is a general phenomenon in these cells or whether it is a characteristic of specific proteins , such as those involved with recombination and cell cycle progression , we compared mechanisms that regulate the level of Pcna in ES cells with those that regulate Rad51 .
+The half-life of Pcna and its rate of synthesis were considerably different from those of Rad51 in ES cells , demonstrating that regulation of Rad51 abundance cannot be generalized to other ES cell proteins and not to proteins involved in DNA replication and cell cycle control .
+Finally , we show that only a small proportion of the abundant Rad51 protein population is activated under basal conditions in ES cells and recruited to DNA DSBs and/or stalled replication forks .

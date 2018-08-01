@@ -1,0 +1,7 @@
+Vascular endothelial growth factor A ( VEGF-A ) and its receptor tyrosine kinases located on endothelial cells seem to play an important role in the multistep pathway of angiogenesis .
+SU5416 is a small molecule which inhibits angiogenesis by acting as an inhibitor of VEGF receptor-2 tyrosine kinase .
+We have developed a reproducible murine model for neuroblastoma , a childhood cancer , based on s.c. xenotransplantation of SH-SY5Y neuroblastoma cells .
+We found that SH-SY5Y cells expressed VEGF-A on both the mRNA and protein levels , that plasma concentrations of VEGF-A were significantly elevated in animals with neuroblastoma with a volume > 1.4 ml , and that there was a correlation between VEGF-A levels in plasma and tumor size in untreated tumor-bearing animals .
+Treatment with SU5416 reduced the growth of neuroblastoma tumors by 65% without apparent toxicity .
+SU5416 treatment also suppressed tumor angiogenesis , despite an increase in plasma VEGF-A levels per ml tumor volume during therapy .
+Our experimental data suggest that the angiogenesis inhibitor SU5416 may be beneficial in the treatment of solid tumors of childhood such as neuroblastoma .

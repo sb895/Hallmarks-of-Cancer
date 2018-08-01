@@ -1,0 +1,5 @@
+The down-regulation of dominant oncogenes , including C-MYC , in tumor cells often leads to the induction of senescence via mechanisms that are not completely identified .
+In the current study , we demonstrate that MYC-depleted melanoma cells undergo extensive DNA damage that is caused by the underexpression of thymidylate synthase ( TS ) and ribonucleotide reductase ( RR ) and subsequent depletion of deoxyribonucleoside triphosphate pools .
+Simultaneous genetic inhibition of TS and RR in melanoma cells induced DNA damage and senescence phenotypes very similar to the ones caused by MYC-depletion .
+Reciprocally , overexpression of TS and RR in melanoma cells or addition of deoxyribo-nucleosides to culture media substantially inhibited DNA damage and senescence-associated phenotypes caused by C-MYC depletion .
+Our data demonstrate the essential role of TS and RR in C-MYC-dependent suppression of senescence in melanoma cells .

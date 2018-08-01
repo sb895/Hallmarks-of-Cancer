@@ -1,0 +1,13 @@
+Whole body hyperthermia ( WBH ) has been used as an adjunct to radio-/chemotherapy in patients with various malignant diseases .
+Although clear evidence is still missing , it has been hypothesized that an activation of the immune system might contribute to the therapeutic effect of WBH .
+To examine whether a treatment with 60-minute 41.8 degrees C WBH as an adjunct to chemotherapy ( WBH-CT ) induces an activation of T cells , blood samples were collected at numerous time points before and up to 48 h post-treatment .
+The aim of this study was to examine the effect of WBH-CT on the expression of a broad range of activation markers on peripheral blood lymphocytes ( PBL ) , on serum cytokines and intracellular cytokine levels in T cells , and the capacity of these cells to proliferate .
+Immediately after 41.8 degrees C WBH-CT treatment , a drastic increase in peripheral natural killer ( NK ) cells ( P<0.05 ) and CD56+ cytotoxic T lymphocytes ( CTL ; P<0.01 ) in the patients ' peripheral blood was observed .
+At 5 h post-treatment , the percentages of both effector cell types had returned to baseline levels .
+This transient phenomenon was accompanied by a short period of reduced T cell activity , indicated by diminished serum levels of soluble interleukin-2 receptors ( sIL-2R ) at 3 h post-WBH-CT ( P<0.05 ) and decreased lymphocytic proliferation at the same point in time .
+This first phase was followed by a marked but short-lived increase in the patients ' serum levels of interleukin-6 ( IL-6 ; P<0.01 ) during the first 5 h following treatment , with a subsequent decrease to baseline levels at 24 h and significantly increased serum levels of tumor necrosis factor-alpha ( TNF-alpha ) at 0 h ( P<0.01 ) , 3 h ( P<0.05 ) , 5 h ( P<0.05 ) and 24 h ( P<0.01 ) post-WBH-CT .
+The third phase of the immunological consequences of WBH-CT consisted of an increase in the percentage of peripheral cytotoxic T lymphocytes ( CTL ) expressing CD56 , reaching a maximum at 48 h post-WBH ( P<0.01 ) .
+Furthermore , the percentage of CD4+ T cells expressing the T cell activation marker CD69 increased nearly two-fold over time , reaching its maximum at 48 h ( P<0.05 ) .
+As an additional marker for T cell activation , serum levels of sIL-2R increased markedly ( P<0.01 ) , reaching maximum levels at the same point in time .
+Elevated intracellular concentrations of interferon-gamma ( IFN-gamma ) and/or TNF-alpha in CD8+ T cells were found in 4 out of 5 patients at 24 h post-WBH-CT .
+Since similar changes were not observed in patients receiving chemotherapy alone , this is the first study to provide evidence for prolonged WBH-CT-induced activation of human T cells .

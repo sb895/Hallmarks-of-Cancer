@@ -1,0 +1,8 @@
+Adults and children with high-risk CRLF2-rearranged acute lymphoblastic leukemia ( ALL ) respond poorly to current cytotoxic chemotherapy and suffer unacceptably high rates of relapse , supporting the need to use alternative therapies .
+CRLF2 encodes the thymic stromal lymphopoietin ( TSLP ) receptor , which activates cell signaling in normal lymphocytes on binding its ligand , TSLP .
+We hypothesized that aberrant cell signaling occurs in CRLF2-rearranged ALL and can be targeted by signal transduction inhibitors of this pathway .
+In a large number of primary CRLF2-rearranged ALL samples , we observed increased basal levels of pJAK2 , pSTAT5 , and pS6 .
+We thus characterized the biochemical sequelae of CRLF2 and JAK alterations in CRLF2-rearranged ALL primary patient samples via analysis of TSLP-mediated signal transduction .
+TSLP stimulation of these leukemias further induced robust JAK/STAT and PI3K/mTOR pathway signaling .
+JAK inhibition abrogated phosphorylation of JAK/STAT and , surprisingly , of PI3K/mTOR pathway members , suggesting an interconnection between these signaling networks and providing a rationale for testing JAK inhibitors in clinical trials .
+The PI3K/mTOR pathway inhibitors rapamycin , PI103 , and PP242 also inhibited activated signal transduction and translational machinery proteins of the PI3K/mTOR pathway , suggesting that signal transduction inhibitors targeting this pathway also may have therapeutic relevance for patients with CRLF2-rearranged ALL and merit further preclinical testing .

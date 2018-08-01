@@ -1,0 +1,11 @@
+PURPOSE Monoclonal anti-CD33 antibodies conjugated with toxic calicheamicin derivative ( gemtuzumab ozogamicin , GO ) are a novel therapy option for acute myeloid leukaemia ( AML ) .
+Key prognostic factors for patients with AML are high CD33 expression on the leukaemic cells and the ability to overcome mechanisms of resistance to cytotoxic chemotherapies , including drug efflux or other mechanisms decreasing apoptosis .
+Alpha particle-emitting radionuclides overwhelm such anti-apoptotic mechanisms by producing numerous DNA double-stranded breaks ( DSBs ) accompanied by decreased DNA repair .
+METHODS We labelled anti-CD33 antibodies with the alpha-emitter ( 211)At and compared survival of leukaemic HL-60 and K-562 cells treated with the ( 211)At-labelled antibodies , GO or unlabelled antibodies as controls .
+We also measured caspase-3/7 activity , DNA fragmentation and necrosis in HL-60 cells after treatment with the different antibodies or with free ( 211)At .
+RESULTS The mean labelling ratio of ( 211)At-labelled antibodies was 1:1,090 +/- 364 ( range : 1:738-1:1,722 ) in comparison to 2-3:1 for GO .
+Tumour cell binding of ( 211)At-anti-CD33 was high in the presence of abundant CD33 expression and could be specifically blocked by unlabelled anti-CD33 .
+( 211)At-anti-CD33 decreased survival significantly more than did GO at comparable dilution ( 1:1,000 ) .
+No significant differences in induction of apoptosis or necrosis or DNA DSB or in decreased survival were observed after ( 211)At-anti-CD33 ( 1:1,090 ) versus GO ( 1:1 ) treatment .
+CONCLUSION Our results suggest that ( 211)At is a promising , highly cytotoxic radioimmunotherapy in CD33-positive leukaemia and kills tumour cells more efficiently than does calicheamicin-conjugated antibody .
+Labelling techniques leading to higher chemical yield and specific activities must be developed to increase ( 211)At-anti-CD33 therapeutic effects .

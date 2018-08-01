@@ -1,0 +1,8 @@
+The tumor suppressor gene p53 has been implicated in the regulation of epithelial-mesenchymal transition ( EMT ) and tumor metastasis by regulating microRNA ( miRNA ) expression .
+Here , we report that mutant p53 exerts oncogenic functions and promotes EMT in endometrial cancer ( EC ) by directly binding to the promoter of miR-130b ( a negative regulator of ZEB1 ) and inhibiting its transcription .
+We transduced p53 mutants into p53-null EC cells , profiled the miRNA expression by miRNA microarray and identified miR-130b as a potential target of mutant p53 .
+Ectopic expression of p53 mutants repressed the expression of miR-130b and triggered ZEB1-dependent EMT and cancer cell invasion .
+Loss of an endogenous p53 mutation increased the expression of miR-130b , which resulted in reduced ZEB1 expression and attenuation of the EMT phenotype .
+Furthermore , re-expression of miR-130b suppressed mutant p53-induced EMT and ZEB1 expression .
+Importantly , the expression of miR-130 was significantly reduced in EC tissues , and patients with higher expression levels of miR-130b survived longer .
+These data provide a novel understanding of the roles of p53 gain-of-function mutations in accelerating tumor progression and metastasis through modulation of the miR-130b-ZEB1 axis .

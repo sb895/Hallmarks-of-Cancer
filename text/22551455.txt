@@ -1,0 +1,13 @@
+Post-translational modification of proteins by ubiquitin ( Ub ) regulates a host of cellular processes , including protein quality control , DNA repair , endocytosis , and cellular signaling .
+In the ubiquitination cascade , a thioester-linked conjugate between the C-terminus of Ub and the active site cysteine of a ubiquitin-conjugating enzyme ( E2 ) is formed .
+The E2 conjugate interacts with a ubiquitin ligase ( E3 ) to transfer Ub to a lysine residue on a target protein .
+The flexibly linked E2 conjugates have been shown to form a range of structures in solution .
+In addition , select E2 conjugates oligomerize through a noncovalent " backside " interaction between Ub and E2 components of different conjugates .
+Additional studies are needed to bridge the gap between the dynamic monomeric conjugates , E2 oligomers , and the mechanisms of ubiquitination .
+We present a new 2.35 Å crystal structure of an oligomeric UbcH5c conjugate .
+The conjugate forms a staggered linear oligomer that differs substantially from the " infinite spiral " helical arrangement of the only previously reported structure of an oligomeric conjugate .
+Our structure also differs in intraconjugate conformation from other structurally characterized conjugates .
+Despite these differences , we find that the backside interaction mode is conserved in different conjugate oligomers and is independent of intraconjugate relative E2-Ub orientations .
+We delineate a common intraconjugate E2-binding surface on Ub .
+In addition , we demonstrate that an E3 CHIP ( carboxyl terminus of Hsp70 interacting protein ) interacts directly with UbcH5c oligomers , not only with conjugate monomers .
+These results provide insights into the conformational diversity of E2 conjugates and conjugate oligomers , and into their compatibility and interactions with E3s , which have important consequences for the ubiquitination process .

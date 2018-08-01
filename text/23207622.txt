@@ -1,0 +1,8 @@
+AIM To investigate the role of delta-like ligand 4 ( DLL4 ) in the angiogenesis of high-grade malignant glioma .
+MATERIALS AND METHODS DLL4 expression and microvessel density ( MVD ) were detected by immunohistochemistry in 51 human high-grade malignant glioma tissue samples .
+The vessel maturation index ( VMI ) was calculated as the percentage of a-smooth muscle actin ( a-SMA)-positive vessels in relation to the amount of CD31-positive vessels .
+Double fluorescent immunostaining for CD31 and EphrinB2 or EphB4 was performed to identify the arterial ( EphrinB2 ) or venous ( EphB4 ) origins of glioma microvessels .
+RESULTS Strong immunostaining of DLL4 and a positive correlation of DLL4 with the MVD were observed in high-grade malignant gliomas .
+The VMI of the DLL4-positive group was significantly higher than that of the DLL4-negative group .
+However , no significant association was found between DLL4 and EphrinB2 or EphB4 in high-grade gliomas .
+CONCLUSION DLL4 may be an important regulator for vessel proliferation and maturation in human high-grade malignant gliomas .

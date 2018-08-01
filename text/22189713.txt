@@ -1,0 +1,10 @@
+A distinct group of breast cancers , called " basal " or " triple-negative " ( TN ) cancers express both basal cytokeratins and the epidermal growth factor receptor , but fail to express estrogen receptors , progesterone receptors or HER2 and have stem-like or mesenchymal features .
+They are particularly aggressive , are frequently chemo-resistant , with p53 mutation , up-regulation of IL-6 and Stat3 .
+Because TN cells are particularly sensitive to the anti-diabetic agent metformin , we hypothesized that it may target JAK2/Stat3 signaling .
+The effects of metformin upon Stat3 expression and activation were examined in four human TN cell lines .
+Metformin's effects were also studied in sublines with forced over-expression of constitutively active ( CA ) Stat3 , as well as lines with stable knockdown of Stat3 .
+Metformin inhibited Stat3 activation ( P-Stat3 ) at Tyr705 and Ser727 and downstream signaling in each of the four parental cell lines .
+CA-Stat3 transfection attenuated , whereas Stat3 knockdown enhanced , the effects of metformin upon growth inhibition and apoptosis induction .
+A Stat3 specific inhibitor acted synergistically with metformin in reducing cell growth and inducing apoptosis .
+An mTOR inhibitor showed no significant interaction with metformin .
+In summary , Stat3 is a critical regulator of metformin action in TN cancer cells , providing the potential for enhancing metformin's efficacy in the clinical setting .

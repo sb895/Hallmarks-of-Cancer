@@ -1,0 +1,6 @@
+Onions ( Allium cepa L. ) are widely used in the food industry for its nutritional and aromatic properties .
+Our studies showed that ethyl acetate extract of onion ( EEO ) had potent inhibitory effects on animal fatty acid synthase ( FAS ) , and could induce apoptosis in FAS over-expressing human breast cancer MDA-MB-231 cells .
+Furthermore , this apoptosis was accompanied by reduction of intracellular FAS activity and could be rescued by 25 mM or 50 mM exogenous palmitic acids , the final product of FAS catalyzed synthesis .
+These results suggest that the apoptosis induced by EEO occurs via inhibition of FAS .
+We also found that EEO could suppress lipid accumulation during the differentiation of 3T3-L1 adipocytes , which was also related to its inhibition of intracellular FAS activity .
+Since obesity is closely related to breast cancer and obese patients are at elevated risk of developing various cancers , these findings suggested that onion might be useful for preventing obesity-related malignancy .

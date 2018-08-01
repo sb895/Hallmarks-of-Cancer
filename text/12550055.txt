@@ -1,0 +1,8 @@
+Epidemiological studies suggest that dietary polyunsaturated fatty acids ( PUFA ) may influence breast cancer progression and prognosis .
+In order to study potential mechanisms of action of fatty acid modulation of tumor growth , we studied , in vitro , the influence of n-3 and n-6 fatty acids on proliferation , cell cycle , differentiation and apoptosis of MCF-7 human breast cancer cells .
+Both eicosapentaenoic acid ( EPA ) and docosahexaenoic acid ( DHA ) inhibited the MCF-7 cell growth by 30% and 54% , respectively , while linoleic acid ( LA ) had no effect and arachidonic acid ( AA ) inhibited the cell growth by 30% ( p < 0.05 ) .
+The addition of vitamin E ( 10uM ) to cancer cells slightly restored cell growth .
+The incubation of MCF-7 cells with PUFAs did not alter the cell cycle parameters or induce cell apoptosis .
+However , the growth inhibitory effects of EPA , DHA and AA were associated with cell differentiation as indicated by positive Oil-Red-O staining of the cells .
+Lipid droplet accumulation was increased by 65% , 30% and 15% in the presence of DHA , EPA and AA , respectively ; ( p < 0.05 ) .
+These observations suggest that fatty acids may influence cellular processes at a molecular level , capable of modulating breast cancer cell growth .

@@ -1,0 +1,14 @@
+INTRODUCTION Statins are cholesterol-lowering drugs with pleiotropic activities including inhibition of isoprenylation and reduction of signals driving cell proliferation and survival responses .
+METHODS In this study we evaluated the effects of lovastatin acid and lactone on breast cancer MDAMB231 and MDAMB468 cells using a combination of proteomic and metabonomic profiling techniques .
+RESULTS Lovastatin inhibited proliferation of breast cancer cell lines .
+MDAMB231 cells were more sensitive to its effects , and in most cases lovastatin acid showed more potency towards the manipulation of protein expression than lovastatin lactone .
+Increased expression of Rho inhibitor GDI-2 stabilized the non-active Ras homolog gene family member A ( RhoA ) leading to a decreased expression of its active , membrane-bound form .
+Its downstream targets cofilin , CDC42 and G3BP1 are members of the GTPase family affected by lovastatin .
+Our data indicated that lovastatin modulated the E2F1-pathway through the regulation of expression of prohibitin and retinoblastoma ( Rb ) .
+This subsequently leads to changes of E2F-downstream targets minichromosome maintenance protein 7 ( MCM7 ) and MutS homolog 2 ( MSH2 ) .
+Lovastatin also regulated the AKT-signaling pathway .
+Increased phosphatase and tensin homolog ( PTEN ) and decreased DJ-1 expression lead to a down-regulation of the active pAkt .
+Lovastatin's involvement in the AKT-signaling pathway was confirmed by an upregulation of its downstream target , tumor progressor NDRG1 .
+Metabolic consequences to lovastatin exposure included suppression of glycolytic and Krebs cycle activity , and lipid biosynthesis .
+CONCLUSIONS The combination of proteomics and metabonomics enabled us to identify several key targets essential to the antitumor activity of lovastatin .
+Our results imply that lovastatin has the potential to reduce the growth of breast cancer cells .

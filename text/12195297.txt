@@ -1,0 +1,9 @@
+The knowledge of alterations in regulation of autophagy during tumorigenesis may also help our understanding of its normal control .
+We established an experimental system and reported recently that autophagic capacity , measured as the cell's capability of increasing segregation ( formation of autophagosomes ) and subsequent degradation of cytoplasmic quanta were highly increased in premalignant nodule cells 6 months after initiation by azaserine in the rat pancreas in vivo .
+In the present study , we followed changes of these autophagic functions throughout the tumour progression .
+We carried out electron-microscopic morphometrical analysis of the expansion of autophagic vacuole compartment and subcompartments induced by vinblastine ( an in vivo segregation enhancer ) , as well as their regression upon segregation-inhibitor cycloheximide post-treatment .
+Premalignant tumour samples were taken at month 5 , month 8 ( nodules ) , month 10 and month 15 ( adenomas ) after initiation .
+In all these stages , a highly increased and varying autophagic capacity was found compared with the host tissue .
+The basal ( non-stimulated ) autophagic compartment was measurable only at month 5 and month 15 , and its regression upon cycloheximide was consistent with increased basal autophagic activity .
+Compared with the host tissue , autophagic capacity profoundly decreased in the differentiated and anaplastic adenocarcinomas at month 20 , when , surprisingly , cycloheximide was unable to inhibit segregation .
+Our conclusion is that down-regulation of the cycloheximide sensitive segregation and a partly compensatory up-regulation of an alternative pathway of segregation might occur along with malignant transformation .

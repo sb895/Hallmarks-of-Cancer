@@ -1,0 +1,6 @@
+Mps one binder 1a ( MOB1A ) and MOB1B are key components of the Hippo signaling pathway and are mutated or inactivated in many human cancers .
+Here we show that intact Mob1a or Mob1b is essential for murine embryogenesis and that loss of the remaining WT Mob1 allele in Mob1a(\u0394/\u0394)1b(tr/+) or Mob1a(\u0394/+)1b(tr/tr) mice results in tumor development .
+Because most of these cancers resembled trichilemmal carcinomas , we generated double-mutant mice bearing tamoxifen-inducible , keratinocyte-specific homozygous-null mutations of Mob1a and Mob1b ( kDKO mice). kDKO mice showed hyperplastic keratinocyte progenitors and defective keratinocyte terminal differentiation and soon died of malnutrition. kDKO keratinocytes exhibited hyperproliferation , apoptotic resistance , impaired contact inhibition , enhanced progenitor self renewal , and increased centrosomes .
+Examination of Hippo pathway signaling in kDKO keratinocytes revealed that loss of Mob1a/b altered the activities of the downstream Hippo mediators LATS and YAP1 .
+Similarly , YAP1 was activated in some human trichilemmal carcinomas , and some of these also exhibited MOB1A/1B inactivation .
+Our results clearly demonstrate that MOB1A and MOB1B have overlapping functions in skin homeostasis , and exert their roles as tumor suppressors by regulating downstream elements of the Hippo pathway .

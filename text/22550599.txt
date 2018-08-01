@@ -1,0 +1,10 @@
+Even when patients with nonsmall cell lung cancer undergo surgical resection at an early stage , recurrent disease often impairs the clinical outcome .
+There are numerous causes potentially responsible for a relapse of the disease , one of them being extensive angiogenesis .
+The balance of at least two systems , VEGF VEGFR and Ang Tie , regulates vessel formation .
+The aim of this study was to determine the impact of surgery on the plasma levels of the main angiogenic factors during the first month after surgery in nonsmall cell lung cancer patients .
+The study group consisted of 37 patients with stage I nonsmall cell lung cancer .
+Plasma concentrations of Ang1 , Ang2 , sTie2 , VEGF , and sVEGF R1 were evaluated by ELISA three times : before surgical resection and on postoperative days 7 and 30 .
+The median of Ang2 and VEGF concentrations increased on postoperative day 7 and decreased on day 30 .
+On the other hand , the concentration of sTie2 decreased on the 7th day after resection and did not change statistically later on .
+The concentrations of Ang1 and sVEGF R1 did not change after the surgery .
+Lung cancer resection results in proangiogenic plasma protein changes that may stimulate tumor recurrences and metastases after early resection .

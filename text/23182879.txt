@@ -1,0 +1,7 @@
+Endoplasmic reticulum ( ER ) stress induces both autophagy and apoptosis yet the molecular mechanisms and pathways underlying the regulation of these two cellular processes in cells undergoing ER stress remain less clear .
+We report here that eukaryotic elongation factor-2 kinase ( EEF2K ) is a critical controller of the ER stress-induced autophagy and apoptosis in tumor cells .
+DDIT4 , a stress-induced protein , was required for transducing the signal for activation of EEF2K under ER stress .
+We further showed that phosphorylation of EEF2K at Ser398 was essential for induction of autophagy , while phosphorylation of the kinase at Ser366 and Ser78 exerted an inhibitory effect on autophagy .
+Suppression of the ER stress-activated autophagy via silencing of EEF2K aggravated ER stress and promoted apoptotic cell death in tumor cells .
+Moreover , inhibiting EEF2K by either RNAi or NH125 , a small molecule inhibitor of the enzyme , rendered tumor cells more sensitive to curcumin and velcade , two anticancer agents that possess ER stress-inducing action .
+Our study indicated that the DDIT4-EEF2K pathway was essential for inducing autophagy and for determining the fate of tumor cells under ER stress , and suggested that inhibiting the EEF2K-mediated autophagy can deteriorate ER stress and lead to a greater apoptotic response , thereby potentiating the efficacy of the ER stress-inducing agents against cancer .

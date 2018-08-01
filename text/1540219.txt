@@ -1,0 +1,6 @@
+Glutathione S-transferase ( GST ) class Mu activity was determined in 145 unrelated hospital patients in Berlin by measuring their conjugation activity towards the specific substrate trans-stilbene oxide ( TSO ) with two substrate concentrations ( 50 and 250 microM ) in homogenates prepared from lymphocytes .
+Eighty individuals ( 55.2% ) had an activity lower than 10 pmol/min/10(6) lymphocytes and were classified as GST class Mu deficient .
+In 142 of 145 cases , phenotype was confirmed by the results of a genotyping procedure using the polymerase chain reaction technique .
+Two fragments of 273 and about 650 bp including one and two introns , respectively , could always be amplified from genomic DNA in individuals with high GST class Mu activity and could not be amplified in persons with impaired glutathione-TSO conjugation activity .
+This indicates that persons with low activity carry a large deletion mutation within the GST class Mu gene .
+The enzymatically determined antimode between low and high activity determined as 10 pmol/min/1 million lymphocytes in the assay with 50 microM TSO could be clearly confirmed by genotyping .

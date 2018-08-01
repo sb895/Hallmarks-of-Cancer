@@ -1,0 +1,13 @@
+Cav-1 ( -/- ) deficient stromal cells are a new genetic model for myofibroblasts and cancer-associated fibroblasts .
+Using an unbiased informatics analysis of the transcriptional profile of Cav-1 ( -/- ) deficient mesenchymal stromal cells , we have now identified many of the major signaling pathways that are activated by a loss of Cav-1 , under conditions of metabolic restriction ( with low glucose media ) .
+Our informatics analysis suggests that a loss of Cav-1 induces oxidative stress , which mimics a constitutive pseudo-hypoxic state , leading to ( 1 ) aerobic glycolysis and ( 2 ) inflammation in the tumor stromal microenvironment .
+This occurs via the activation of two major transcription factors , namely HIF ( aerobic glycolysis ) and NFκB ( inflammation ) in Cav-1 ( -/- ) stromal fibroblastic cells .
+Experimentally , we show that Cav-1 deficient stromal cells may possess defective mitochondria , due to the over-production of nitric oxide ( NO ) , resulting in the tyrosine nitration of the mitochondrial respiratory chain components ( such as complex I ) .
+Elevated levels of nitro-tyrosine were observed both in Cav-1 ( -/- ) stromal cells , and via acute knock-down with siRNA targeting Cav-1 .
+Finally , metabolic restriction with mitochondrial ( complex I ) and glycolysis inhibitors was synthetically lethal with a Cav-1 ( -/- ) deficiency in mice .
+As such , Cav-1 deficient mice show a dramatically reduced mitochondrial reserve capacity .
+Thus , a mitochondrial defect in Cav-1 deficient stromal cells could drive oxidative stress , leading to aerobic glycolysis , and inflammation , in the tumor microenvironment .
+These stromal alterations may underlie the molecular basis of the " reverse Warburg effect " , and could provide the key to targeted anti-cancer therapies using metabolic inhibitors .
+In direct support of these findings , the transcriptional profile of Cav-1 ( -/- ) stromal cells overlaps significantly with Alzheimer disease , which is characterized by oxidative stress , NO over-production ( peroxynitrite formation ) , inflammation , hypoxia and mitochondrial dysfunction .
+We conclude that Cav-1 ( -/- ) deficient mice are a new whole-body animal model for an activated lethal tumor microenvironment , i.e. , " tumor stroma " without the tumor .
+Since Cav-1 ( -/- ) mice are also an established animal model for profibrotic disease , our current results may have implications for understanding the pathogenesis of scleroderma ( systemic sclerosis ) and pulmonary fibrosis , which are also related to abnormal mesenchymal stem cell function .

@@ -1,0 +1,5 @@
+The Sonic hedgehog ( SHH ) pathway is implicated in the etiology of the most common human cancer in Caucasians , the basal cell carcinoma ( BCC ) .
+Mutations in the receptor of SHH , the patched gene , have been characterized in sporadic BCCs as well as those from patients with the rare genetic syndromes nevoid BCC and xeroderma pigmentosum ( XP ) .
+To elucidate the role of UV in the deregulation of the SHH pathway , we analyzed for alterations of smoothened , a transmembrane signaling component regulated by patched , in BCCs and squamous cell carcinomas from UV hypersensitive XP patients .
+We find UV-specific smoothened mutations in 30% of XP BCCs , three times higher than those in sporadic Caucasian BCCs , confirming the high rate of UV-induced mutations in DNA repair-deficient XP patients .
+No alteration was found in XP squamous cell carcinomas , indicating the involvement of smoothened specifically in the development of BCC .

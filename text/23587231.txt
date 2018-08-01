@@ -1,0 +1,13 @@
+BACKGROUND Angiogenesis is an essential process in cancer growth maintenance , and metastasis .
+Angiopoietin-2 promotes tumor angiogenesis by priming the vasculature and potentiating the effects of cytokines at the front of active neovascularization .
+Enhanced expression of angiopoietin-2 has been reported in lung cancer tissue .
+Survivin is one of the inhibitors of apoptosis protein that has been shown to play a key role in cancer progression , and in tumor angiogenesis .
+Also plays a key role in tumor cell resistance to anticancer agents and ionizing radiation .
+AIM To measure the serum levels of angiopoietin-2 and survivin as possible angiogenic factors in lung cancer patients with the assessment of their interrelationships and clinical significance .
+PATIENTS AND METHODS Patients with lung cancer as NSCLC ( n=70 ) and healthy volunteers ( n=10 ) were enrolled .
+Serum angiopoietin-2 and survivin concentrations were measured using enzyme-linked immunosorbent assay ( ELIZA ) .
+RESULTS Median serum angiopoietin-2 levels with lung cancer ( 2730pg/mL ) ranged from 1171 to 6541pg/mL was higher than the median of the control group ( 1795pg/mL ) ranged from 1076 to 2730/mL , p<0.001 .
+Median serum survivin levels were also higher in patients with lung cancer ( 53.0pg/mL ) ranged from 39.3 to 96.3pg/mL than the median of the control group ( 48.8pg/mL ) ranged from 38.0 to 74.6pg/mL , but did not reach statistical significance p=0.206 .
+In all patients with lung cancer , serum angiopoietin-2 was not significantly correlated with survivin ( r=0.073 , p=0.657 ) .
+Neither serum angiopoietin-2 nor survivin showed significant relation with the serum angiopoietin-2 or survivin levels depending on the cell types , stage progression , and metastasis among the patients with NSCLC .
+CONCLUSIONS Our study suggests that serum angiopoietin-2 is a useful marker for the diagnosis of NSCLC by ELIZA technique .

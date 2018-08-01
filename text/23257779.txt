@@ -1,0 +1,10 @@
+Metformin is a well-established diabetes drug that prevents the onset of most types of human cancers in diabetic patients , especially by targeting cancer stem cells .
+Metformin exerts its protective effects by functioning as a weak " mitochondrial poison, " as it acts as a complex I inhibitor and prevents oxidative mitochondrial metabolism ( OXPHOS ) .
+Thus , mitochondrial metabolism must play an essential role in promoting tumor growth .
+To determine the functional role of " mitochondrial health " in breast cancer pathogenesis , here we used mitochondrial uncoupling proteins ( UCPs ) to genetically induce mitochondrial dysfunction in either human breast cancer cells ( MDA-MB-231 ) or cancer-associated fibroblasts ( hTERT-BJ1 cells ) .
+Our results directly show that all three UCP family members ( UCP-1/2/3 ) induce autophagy and mitochondrial dysfunction in human breast cancer cells , which results in significant reductions in tumor growth .
+Conversely , induction of mitochondrial dysfunction in cancer-associated fibroblasts has just the opposite effect .
+More specifically , overexpression of UCP-1 in stromal fibroblasts increases β-oxidation , ketone body production and the release of ATP-rich vesicles , which " fuels " tumor growth by providing high-energy nutrients in a paracrine fashion to epithelial cancer cells .
+Hence , the effects of mitochondrial dysfunction are truly compartment-specific .
+Thus , we conclude that the beneficial anticancer effects of mitochondrial inhibitors ( such as metformin ) may be attributed to the induction of mitochondrial dysfunction in the epithelial cancer cell compartment .
+Our studies identify cancer cell mitochondria as a clear target for drug discovery and for novel therapeutic interventions .

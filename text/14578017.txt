@@ -1,0 +1,9 @@
+We wanted to investigate the effects of gamma radiation on DNA single-strand breaks ( SSB ) and glutathione ( GSH ) levels in mononuclear blood cells ( MNC ) of radiotherapy technicians .
+DNA SSB in MNC of radiotherapy technicians who use ( 60)Co-gamma source in their works were detected by alkaline filter elution and compared to control subjects .
+In addition , GSH levels were measured using the enzymatic method in MNC .
+Blood samples were collected from radiotherapy technicians on Monday and Friday .
+DNA SSB levels were found to be significantly higher in smoking controls compared to non-smoking controls .
+Significant increases of 36% and 49% in DNA SSB were detected from Monday to Friday for non-smoking and smoking radiotherapy technicians , respectively .
+GSH levels were found to be decreased significantly from Monday to Friday .
+Gamma-radiation resulted in increased DNA SSB levels of MNC in radiotherapy technicians throughout the working week and these breaks have been observed to be repaired at the weekend .
+Smoking habit caused an additional increase in the SSBs observed in radiotherapy technicians .

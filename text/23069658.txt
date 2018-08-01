@@ -1,0 +1,8 @@
+Although prostate cancer ( CaP ) is the most frequently diagnosed malignant tumor in American men , the mechanisms underlying the development and progression of CaP remain largely unknown .
+Recent studies have shown that downregulation of the microRNA miR-124 occurs in several types of human cancer , suggesting a tumor suppressive function of miR-124 .
+Until now , however , it has been unclear whether miR-124 is associated with CaP .
+In the present study , we completed a series of experiments to understand the functional role of miR-124 in CaP .
+We detected the expression level of miR-124 in clinical CaP tissues , evaluated the influence of miR-124 on the growth of CaP cells and investigated the mechanism underlying the dysregulation of miR-124 .
+We found that ( i ) miR-124 directly targets the androgen receptor ( AR ) and subsequently induces an upregulation of p53 ; ( ii ) miR-124 is significantly downregulated in malignant prostatic cells compared to benign cells , and DNA methylation causes the reduced expression of miR-124 ; and ( iii ) miR-124 can inhibit the growth of CaP cells in vitro and in vivo .
+Data from this study revealed that loss of miR-124 expression is a common event in CaP , which may contribute to the pathogenesis of CaP .
+Our studies also suggest that miR-124 is a potential tumor suppressive gene in CaP , and restoration of miR-124 expression may represent a novel strategy for CaP therapy.Oncogene advance online publication , 15 October 2012 ; doi:10.1038/onc.2012.425 .

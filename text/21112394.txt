@@ -1,0 +1,9 @@
+It has been demonstrated that growth factors produced by breast cancer cells stimulate aromatase expression in both breast cancer and adjacent adipose fibroblasts and stromal cells .
+However , whether these growth factors affect aromatase activity by other mechanisms still remain unclear .
+In the current study , MCF-7aro and T47Daro aromatase transfected breast carcinoma cells were used to explore the mechanisms of post-transcriptional regulation of aromatase activity by growth factor pathways .
+Our study reveals that PI3K/Akt and MAPK inhibitors suppressed aromatase activity in MCF-7aro cells .
+However , PI3K/Akt pathway inhibitors stimulated aromatase activity in T47Daro cells .
+This is due to enhanced MAPK phosphorylation as compensation after the PI3K/Akt pathway has been blocked .
+IGF-1 treatment increased aromatase activity in both breast cancer cell lines .
+In addition , LTEDaro cells ( long-term estrogen deprived MCF-7aro cells ) which have enhanced MAPK activity , show higher aromatase activity compared to parental MCF-7aro cells , but the aromatase protein level remains the same .
+These results suggest that aromatase activity could be enhanced by growth factor signaling pathways via post-transcriptional mechanisms .

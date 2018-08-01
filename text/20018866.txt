@@ -1,0 +1,11 @@
+The high glucose consumption of tumor cells even in an oxygen-rich environment , referred to as the Warburg effect , has been noted as a nearly universal biochemical characteristic of cancer cells .
+Targeting the glycolysis pathway has been explored as an anti-cancer therapeutic strategy to eradicate cancer based on this fundamental biochemical property of cancer cells .
+Oncoproteins such as Akt and c-Myc regulate cell metabolism .
+Accumulating studies have uncovered various molecular mechanisms by which oncoproteins affect cellular metabolism , raising a concern as to whether targeting glycolysis will be equally effective in treating cancers arising from different oncogenic activities .
+Here , we established a dual-regulatable FL5.12 pre-B cell line in which myristoylated Akt is expressed under the control of doxycycline , and c-Myc , fused to the hormone-binding domain of the human estrogen receptor , is activated by 4-hydroxytamoxifen .
+Using this system , we directly compared the effect of these oncoproteins on cell metabolism in an isogenic background .
+Activation of either Akt or c-Myc leads to the Warburg effect as indicated by increased cellular glucose uptake , glycolysis , and lactate generation .
+When cells are treated with glycolysis inhibitors , Akt sensitizes cells to apoptosis , whereas c-Myc does not .
+In contrast , c-Myc but not Akt sensitizes cells to the inhibition of mitochondrial function .
+This is correlated with enhanced mitochondrial activities in c-Myc cells .
+Hence , although both Akt and c-Myc promote aerobic glycolysis , they differentially affect mitochondrial functions and render cells susceptible to the perturbation of cellular metabolic programs .

@@ -1,0 +1,8 @@
+RKIP-1 is a metastasis suppressor that is frequently downregulated in aggressive cancers .
+However , the consequences of RKIP loss in primary or immortalized cells have not yet been explored .
+Using HEK-293 RKIP depleted ( termed HEK-499 ) and Flp-In T-Rex-293 RKIP inducible cell lines combined with whole transcriptome analysis , we show that RKIP-1 silencing accelerates DNA synthesis and G1/S transition entry by inducing the expression of cdc6 , MCM 2 , 4 , 6 , 7 , cdc45L , cyclin D2 , cyclin E2 , cyclin D1 , SKP2 and the downregulation of p21(cip1) .
+Moreover , RKIP depletion accelerates the time from nuclear envelop breakdown ( NEB ) to anaphase markedly , while the upregulation of RKIP shortened the NEB to anaphase time .
+We show that RKIP depletion induces the expression of NEK6 , a molecule known to enhance G2/M transition , and down-regulates G2/M checkpoint molecules like Aurora B , cyclin G1 and sertuin that slow the G2/M transition time .
+These subtle changes in the kinetics of the cell cycle culminate in a higher proliferation rate of HEK-499 compared to control cells .
+Finally , we show that RKIP depletion enhances cellular motility by inducing the expression/stabilization of β-catenin , vimentin , MET and PAK1 .
+Overall , our data suggest that modulation of the cell cycle checkpoints and motility by RKIP may be fundamental to its metastasis suppressive function in cancer and that RKIP role in a cell is more intricate and diverse than previously thought .

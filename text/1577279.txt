@@ -1,0 +1,6 @@
+Clones of mortal chicken fibroblasts and erythroblasts transformed by temperature-sensitive v-src and v-erb B oncoproteins have been developed into immortal cell lines that retain the conditional transformed phenotype .
+The expressions of two tumor suppressor genes , the retinoblastoma ( Rb ) gene and the p53 gene , were investigated during senescence , crisis , and cell line establishment .
+In temperature-sensitive ( ts)-v-erb B erythroblasts and ts-v-src fibroblasts ( as well as in v-myc macrophages ) , loss of p53 mRNA or expression of a mutated p53 gene invariably occurred in the early phase of immortalization .
+In contrast , expression of the Rb gene was unchanged at all stages of immortalization .
+Inactivation of the original temperature-sensitive oncogene led to loss of the transformed phenotype in fibroblasts and to differentiation in erythroblasts , even in lines that were immortal and lacked p53 .
+The results demonstrate that the process of immortalization is distinct from cell transformation , probably requiring different mutational events .

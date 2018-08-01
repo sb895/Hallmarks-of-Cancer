@@ -1,0 +1,8 @@
+The ALKBH family of proteins are highly expressed in various types of human cancer where they are involved in tumor growth and progression .
+However , multiple isoforms of ALKBH exist and the effect of individual isoforms on the development of urinary bladder cancer is unknown , particularly the molecular mechanisms involved in the progression from a noninvasive to invasive phenotype .
+We examined the role and function of ALKBH2 in human bladder cancer development in vitro and provide the first report that suppression of ALKBH2 in a human urothelial carcinoma cell line , KU7 , reduced the expression of the transmembrane mucin protein , MUC1 , and induced G1 cell cycle arrest .
+Moreover , reduction of ALKBH2 suppressed epithelial to mesenchymal transition ( EMT ) via increasing E-cadherin and decreasing vimentin expression .
+Transfection of MUC1 siRNA inhibited cell proliferation and EMT to the same extent as ALKBH2 gene silencing in vitro .
+ALKBH2 knockdown significantly suppressed MUC1 expression and tumor volume of bladder cancers in vivo as assessed in an orthotopic mouse model using ALKBH2 shRNA transfected KU7 cells .
+Immunohistochemical examination showed high expression levels of ALKBH2 in human urothelial carcinoma samples , especially in high-grade , superficially and deeply invasive carcinomas ( pT(1) and >pT(2) ) , and in carcinoma in situ but not in normal urothelium .
+This study demonstrates that ALKBH2 is an upstream molecule of the oncoprotein , MUC1 , and regulates cell cycle and EMT , resulting in progression of urothelial carcinomas .

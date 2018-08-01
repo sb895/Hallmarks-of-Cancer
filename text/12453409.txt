@@ -1,0 +1,5 @@
+We identified REDD1 as a novel transcriptional target of p53 induced following DNA damage .
+During embryogenesis , REDD1 expression mirrors the tissue-specific pattern of the p53 family member p63 , and TP63 null embryos show virtually no expression of REDD1 , which is restored in mouse embryo fibroblasts following p63 expression .
+In differentiating primary keratinocytes , TP63 and REDD1 expression are coordinately downregulated , and ectopic expression of either gene inhibits in vitro differentiation .
+REDD1 appears to function in the regulation of reactive oxygen species ( ROS ) ; we show that TP63 null fibroblasts have decreased ROS levels and reduced sensitivity to oxidative stress , which are both increased following ectopic expression of either TP63 or REDD1 .
+Thus , REDD1 encodes a shared transcriptional target that implicates ROS in the p53-dependent DNA damage response and in p63-mediated regulation of epithelial differentiation .

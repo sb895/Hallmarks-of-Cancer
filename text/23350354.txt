@@ -1,0 +1,13 @@
+Cellular redox changes have emerged as a pivotal and proximal event in cancer .
+PKI 166 is used to determine the effects of redox sensitive inhibition of EGFR , metastasis and apoptosis in epidermoid carcinoma .
+Cytotoxicity study of PKI 166 ( IC50 1.0 microM ) treated A431 cells were performed by MTT assay for 48 and 72 hrs .
+Morphological analysis of PKI 166 treated A431 cells for 48 hrs. revealed the cell shrinkage , loss of filopodia and lamellipodia by phase contrast and SEM images in dose dependent manner .
+It has cytotoxic effects through inhibiting cellular proliferation , leads to the induction of apoptosis , as increased fraction of sub-G1 phase of the cell cycle , chromatin condensation and DNA ladder .
+It inhibited cyclin-D1 and cyclin-E expression and induced p53 , p21 expression in dose dependent manner .
+Consequently , an imbalance of Bax/Bcl-2 ratio triggered caspase cascade and subsequent cleavage of PARP , thereby shifting the balance in favour of apoptosis .
+PKI 166 treatment actively stimulated reactive oxygen species ( ROS ) and mitochondrial membrane depolarization .
+It inhibited some metastatic properties of A431 cells supressing colony formation by soft agar assay and inhibition of MMP 9 activity by gelatin zymography and western blot analysis .
+PKI 166 inhibited growth factor induced phosphorylation of EGFR , Akt , MAPK , JNK and colony formation in A431 cells .
+Thus the inhibition of proliferation was associated with redox regulation of the caspase cascade , EGFR , Akt/PI3K , MAPK/ ERK and JNK pathway .
+On the other hand , increased antioxidant activity leads to decreased ROS generation inhibit the anti-proliferative and apoptotic properties of PKI 166 in A431 cells .
+These observations indicated PKI 166 induced redox signalling dependent inhibition of cell proliferation , metastatic properties and induction of apoptotic potential in epidermoid carcinoma .

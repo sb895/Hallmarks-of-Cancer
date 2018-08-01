@@ -1,0 +1,7 @@
+OBJECTIVE To study the effects of angiostatin(AS) gene mediated by liposome on human pancreatic cancer cell line SW1990 .
+METHODS Angiostatin gene was cloned into the eukaryotic expression vector pRC/CMV .
+The recombinant of pRC/CMV-AS was introduced into the pancreatic cancer cell line , SW1990 .
+The mechanism of anti-tumor was studied and tested .
+RESULTS The eukaryotic expression vector pRC/CMV-AS was identified by the restriction digest. pRC/CMV-AS was stably integrated into the target cells and expressed by Western blot and drug-sensitivity tests , and inhibited the vascular endothelial cells proliferation in vitro .
+In addition , the effects of the angiostatin vector on reducing the volume of tumors implanted in nude mouse models were also noted .
+CONCLUSION This study demonstrated that the recombinant pRC/CMV-AS mediated by liposome may play a potential role in the treatment of pancreatic cancer in the future .

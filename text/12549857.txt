@@ -1,0 +1,9 @@
+An in vitro angiogenesis system was designed for screening angiogenic agonists and antagonists .
+In order to obtain large quantities of cells and reproducibility , human endothelial cells with extended life spans were developed by retroviral transfection .
+The resulting cells grown in a serum-free medium containing endothelial cell growth supplement ( ECGS ) have a telomerase activity , extended life spans of at least 21 passages , and an endothelial cell phenotype ( diI-acetylated-LDL upake , factor VIII-related antigen , VEGFR-1 and R-2 , and tissue-type plasminogen activator ( tPA) ) that resembled that of unaltered primary endothelial cells .
+Exceptions were ( i ) a higher expression of tPA , and ( ii ) a non-significant growth response to FGF-2 or VEGF stimulation .
+Within three-dimensional fibrin gels , specific cell clones rapidly formed tubular structures in a more reproducible manner than those observed with low-passage primary cells .
+Tube formation by primary endothelial cells and those with extended life spans was dependent upon FGF-2 and ECGS , respectively .
+Both cell types produced FGF-2 and VEGF cytokines .
+Increasing doses of suramin significantly decreased the size of microvessels formed by both cell lines .
+These functional results indicate that a vascular matrix system containing human cells with extended life spans can be successfully utilized as an in vitro assay for antiangiogenic compounds .

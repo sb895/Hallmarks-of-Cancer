@@ -1,0 +1,6 @@
+To assess the immune function of microglia and macrophages in brain tumors , the expression of MHC class II and B7 costimulatory molecules in three rodent glioma models was examined .
+Microglia and macrophages , which accounted for 5-12% of total cells , expressed B7.1 and MHC class II molecules in the C6 and 9L tumors , but not RG2 gliomas .
+Interestingly , the expression of B7.1 and MHC class II molecules by microglia and macrophage was associated with an increase in the number of tumor-infiltrating lymphocytes in C6 and 9L tumors .
+B7.2 expression , which was present at low levels on microglia and macrophages in normal brain , did not significantly change in tumors .
+Interestingly , the expression of all three surface antigens increased after microglia were isolated from intracranial C6 tumors and cultured for a short period of time .
+We conclude that microglia immune activity may be suppressed in gliomas and directly correlates to the immunogenecity of experimental brain tumors .

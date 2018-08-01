@@ -1,0 +1,11 @@
+The functional and therapeutic importance of the Warburg effect is increasingly recognized , and glycolysis has become a target of anticancer strategies .
+We recently reported the identification of a group of novel small compounds that inhibit basal glucose transport and reduce cancer cell growth by a glucose deprivation-like mechanism .
+We hypothesized that the compounds target Glut1 and are efficacious in vivo as anticancer agents .
+Here , we report that a novel representative compound WZB117 not only inhibited cell growth in cancer cell lines but also inhibited cancer growth in a nude mouse model .
+Daily intraperitoneal injection of WZB117 at 10 mg/kg resulted in a more than 70% reduction in the size of human lung cancer of A549 cell origin .
+Mechanism studies showed that WZB117 inhibited glucose transport in human red blood cells ( RBC ) , which express Glut1 as their sole glucose transporter .
+Cancer cell treatment with WZB117 led to decreases in levels of Glut1 protein , intracellular ATP , and glycolytic enzymes .
+All these changes were followed by increase in ATP-sensing enzyme AMP-activated protein kinase ( AMPK ) and declines in cyclin E2 as well as phosphorylated retinoblastoma , resulting in cell-cycle arrest , senescence , and necrosis .
+Addition of extracellular ATP rescued compound-treated cancer cells , suggesting that the reduction of intracellular ATP plays an important role in the anticancer mechanism of the molecule .
+Senescence induction and the essential role of ATP were reported for the first time in Glut1 inhibitor-treated cancer cells .
+Thus , WZB117 is a prototype for further development of anticancer therapeutics targeting Glut1-mediated glucose transport and glucose metabolism .

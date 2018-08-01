@@ -1,0 +1,11 @@
+The anthracycline doxorubicin is a widely used effective anti-cancer drug .
+However , its application and dosage are severely limited due to its cardiotoxicity .
+The exact mechanisms of doxorubicin-induced cardiotoxic side effects remain poorly understood .
+Even less is known about the impact of doxorubicin treatment on vascular damage .
+We found that low doses of doxorubicin induced a senescent response in human primary vascular smooth muscle cells ( VSMC ) .
+We observed that expression of urokinase receptor ( uPAR ) was upregulated in response to doxorubicin .
+Furthermore , the level of uPAR expression played a decisive role in developing doxorubicin-induced senescence. uPAR silencing in human VSMC by means of RNA interference as well as uPAR knockout in mouse VSMC resulted in abrogation of doxorubicin-induced cellular senescence .
+On the contrary , uPAR overexpression promoted VSMC senescence .
+We further found that proteasomal degradation of telomeric repeat binding factor 2 ( TRF2 ) mediates doxorubicin-induced VSMC senescence .
+Our results demonstrate that uPAR controls the ubiquitin-proteasome system in VSMC and regulates doxorubicin-induced TRF2 ubiquitination and proteasomal degradation via this mechanism .
+Therefore , VSMC senescence induced by low doses of doxorubicin may contribute to vascular damage upon doxorubicin treatment. uPAR-mediated TRF2 ubiquitination and proteasomal degradation are further identified as a molecular mechanism underlying this process .

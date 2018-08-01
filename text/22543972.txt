@@ -1,0 +1,10 @@
+We have identified a rare small ( kb unique sequence ) recurrent deletion in a previously linked attention-deficit hyperactivity disorder ( ADHD ) locus at 2q21.1 in five unrelated families with developmental delay ( DD)/intellectual disability ( ID ) , ADHD , epilepsy and other neurobehavioral abnormalities from 17 035 samples referred for clinical chromosomal microarray analysis .
+Additionally , a DECIPHER ( http://decipher.sanger.ac.uk ) patient 2311 was found to have the same deletion and presented with aggressive behavior .
+The deletion was not found in either six control groups consisting of 13 999 healthy individuals or in the DGV database .
+We have also identified reciprocal duplications in five unrelated families with autism , developmental delay ( DD ) , seizures and ADHD .
+This genomic region is flanked by large , complex low-copy repeats ( LCRs ) with directly oriented subunits of kb in size that have 97.7% DNA sequence identity .
+We sequenced the deletion breakpoints within the directly oriented paralogous subunits of the flanking LCR clusters , demonstrating non-allelic homologous recombination as a mechanism of formation .
+The rearranged segment harbors five genes : GPR148 , FAM123C , ARHGEF4 , FAM168B and PLEKHB2 .
+Expression of ARHGEF4 ( Rho guanine nucleotide exchange factor 4 ) is restricted to the brain and may regulate the actin cytoskeletal network , cell morphology and migration , and neuronal function .
+GPR148 encodes a G-protein-coupled receptor protein expressed in the brain and testes .
+We suggest that small rare recurrent deletion of 2q21.1 is pathogenic for DD/ID , ADHD , epilepsy and other neurobehavioral abnormalities and , because of its small size , low frequency and more severe phenotype might have been missed in other previous genome-wide screening studies using single-nucleotide polymorphism analyses .

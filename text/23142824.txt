@@ -1,0 +1,9 @@
+Cellular senescence is a permanent out-of-cycle state regulated by molecular circuits acting during the G1 phase of the cell cycle .
+Cdt1 is a central regulator of DNA replication licensing acting during the G1 phase and it is negatively controlled by Geminin .
+Here , we characterize the cell cycle expression pattern of Cdt1 and Geminin during successive passages of primary fibroblasts and compare it to tumour-derived cell lines .
+Cdt1 and Geminin are strictly expressed in distinct subpopulations of young fibroblasts , similarly to cancer cells , with Geminin accumulating shortly after the onset of S phase .
+Cdt1 and Geminin are down-regulated when primary human and mouse fibroblasts undergo replicative or stress-induced senescence .
+RNAi-mediated Geminin knock-down in human cells enhances the appearance of phenotypic and molecular features of senescence .
+Mouse embryonic fibroblasts heterozygous for Geminin exhibit accelerated senescence compared to control fibroblasts .
+In contrast , ectopic expression of Geminin in mouse embryonic fibroblasts delays the appearance of the senescent phenotype .
+Taken together , our data suggest that changes in Geminin expression levels affect the establishment of senescence pathways .

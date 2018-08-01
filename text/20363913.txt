@@ -1,0 +1,11 @@
+NKX3.1 is a homeodomain protein that functions as a dosage sensitive prostate-specific transcription factor .
+Diminished NKX3.1 expression is associated with prostate epithelial cell proliferation in vitro and with increasing Gleason grade in patient samples .
+Mouse Nkx3.1 also functions as a negative regulator of prostate cell growth in prostate cancer models .
+Identifying biological and environmental factors that modulate NKX3.1 accumulation is therefore central to efforts aimed at elucidating prostate growth control mechanisms .
+To determine the effect of inflammation on Nxk3.1 accumulation , bacterial prostatitis was induced by intraurethral inoculation of a uropathogenic E. coli strain in mice .
+Nkx3.1 expression was profoundly reduced in infected prostate lobes and correlated with increased expression of a proliferation marker .
+Androgen receptor levels were also reduced in concert with Nkx3.1 , and a marked increase in the basal cell marker p63 was observed .
+Analyses of the inflammatory infiltrate revealed a classic acute inflammatory response that attained characteristics of a chronic state within fourteen days postinoculation .
+Comparison of the four prostate lobes revealed clear differences in the extent of inflammation .
+These data demonstrate that acute inflammation in response to a bacterial agent in the prostate is associated with a significant diminution in the level of a key regulator of prostate cell proliferation .
+These observations provide a plausible mechanism whereby prostate inflammation may establish a local environment conducive to epithelial cell growth .

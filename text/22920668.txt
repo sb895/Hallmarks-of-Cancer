@@ -1,0 +1,13 @@
+ABSTRACT : INTRODUCTION : Retinoic acid signaling plays key roles in embryonic development and in maintaining the differentiated status of adult tissues .
+Recently , the nuclear retinoic acid receptor ( RAR ) isotypes α , β and γ were found to play specific functions in the expansion and differentiation of the stem compartments of various tissues .
+For instance , RARγ appears to be involved in stem cell compartment expansion , while RARα and RARβ are implicated in the subsequent cell differentiation .
+We found that over-expressing c-Myc in normal mouse mammary epithelium and in a c-Myc-driven transgenic model of mammary cancer , disrupts the balance between RARγ and RARα/β in favor of RARγ .
+METHODS : The effects of c-Myc on RAR isotype expression were evaluated in normal mouse mammary epithelium , mammary tumor cells obtained from the MMTV-Myc transgenic mouse model as well as human normal immortalized breast epithelial and breast cancer cell lines .
+The in vivo effect of the RARα-selective agonist 4-[(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthyl)carboxamido]benzoic acid ( Am580 ) was examined in the MMTV-Myc mouse model of mammary tumorigenesis .
+RESULTS : Modulation of the RARα/β to RARγ expression in mammary glands of normal mice , oncomice , and human mammary cell lines through the alteration of RAR-target gene expression affected cell proliferation , survival and tumor growth .
+Treatment of MMTV-Myc mice with the RARα-selective agonist Am580 led to significant inhibition of mammary tumor growth ( P<0.001 ) , lung metastasis ( P<0.01 ) and extended tumor latency in 63% of mice .
+Immunocytochemical analysis showed that in these mice , RARα responsive genes such as Cyp26A1 , E-cadherin , cellular retinol-binding protein 1 ( CRBP1 ) and p27 , were up-regulated .
+In contrast , the mammary gland tumors of mice that responded poorly to Am580 treatment ( 37% ) expressed significantly higher levels of RARγ .
+In vitro experiments indicated that the rise in RARγ was functionally linked to promotion of tumor growth and inhibition of differentiation .
+Thus , activation of the RARα pathway is linked to tumor growth inhibition , differentiation and cell death .
+CONCLUSIONS : The functional consequence of the interplay between c-Myc oncogene expression and the RARγ to RARα/β balance suggests that prevalence of RARγ over-RARα/β expression levels in breast cancer accompanied by c-Myc amplification or over-expression in breast cancer should be predictive of response to treatment with RARα-isotype-specific agonists and warrant monitoring during clinical trials.See related editorial by Garattini et al http://breast-cancer-research.com/content/14/5/111 .

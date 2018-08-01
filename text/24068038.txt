@@ -1,0 +1,15 @@
+Accumulating data suggest arsenic may be an endocrine disruptor and tentatively linked to breast cancer by some studies .
+Therefore , we tested the effects of chronic inorganic arsenic exposure on the normal estrogen receptor ( ER)-negative breast epithelial cell line , MCF-10A .
+Cells were chronically exposed to a low-level arsenite ( 500nM ) for up to 24weeks .
+Markers of cancer cell phenotype and the expression of critical genes relevant to breast cancer or stem cells ( SCs ) were examined .
+After 24weeks , chronic arsenic-exposed breast epithelial ( CABE ) cells showed increases in secreted MMP activity , colony formation , invasion , and proliferation rate , indicating an acquired cancer cell phenotype .
+These CABE cells presented with basal-like breast cancer characteristics , including ER-α , HER-2 , and progesterone receptor negativity , and overexpression of K5 and p63 .
+Putative CD44(+)/CD24(-/low) breast SCs were increased to 80% over control in CABE cells .
+CABE cells also formed multilayer cell mounds , indicative of loss of contact inhibition .
+These mounds showed high levels of K5 and p63 , indicating the potential presence of cancer stem cells ( CSCs ) .
+Epithelial-to-mesenchymal transition occurred during arsenic exposure .
+Overexpression of aromatase , a key rate-limiting enzyme in estrogen synthesis , occurred with arsenic starting early on in exposure .
+Levels of 17β-estradiol increased in CABE cells and their conditioned medium .
+The aromatase inhibitor letrozole abolished arsenic-induced increases in 17β-estradiol production and reversed cancer cell phenotype .
+Thus , chronic arsenic exposure drives human breast epithelia into a cancer cell phenotype with an apparent overabundance of putative CSCs .
+Arsenic appears to transform breast epithelia through overexpression of aromatase , thereby activating oncogenic processes independent of ER .

@@ -1,0 +1,6 @@
+The potential of cytologically reconstructed barley line D-2946 to cope with the major lesions that hamper genome integrity , namely DNA single- and double-strand breaks was investigated .
+Strand breaks induced by \u03b3-rays and Li ions were assessed by neutral and alkaline comet assay .
+Repair capacity after bleomycin treatment was evaluated by agarose gel electrophoresis under neutral and alkaline conditions .
+Frequencies of radiation-induced chromosome aberrations were also determined .
+Results indicate that radiation-mediated constitutive rearrangement of the chromosome complement has led to a substantial modulation of the sensitivity of barley genome towards DNA strand breaks , produced by ionising radiation , Li ion implantation and bleomycin in an agent-specific manner , as well as of the clastogenic response to \u03b3-rays .
+Based on these findings , reconstructed barley karyotype D-2946 can be considered a candidate radio-sensitive line with reduced ability to maintain genome integrity with respect to both DNA and chromosomal damage .

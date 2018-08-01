@@ -1,0 +1,10 @@
+DNA polymerases beta ( pol beta ) and eta ( pol eta ) are the only two eukaryotic polymerases known to efficiently bypass cisplatin and oxaliplatin adducts in vitro .
+Frameshift errors are an important aspect of mutagenesis .
+We have compared the types of frameshifts that occur during translesion synthesis past cisplatin and oxaliplatin adducts in vitro by pol beta and pol eta on a template containing multiple runs of nucleotides flanking a single platinum-GG adduct .
+Translesion synthesis past platinum adducts by pol beta resulted in approximately 50% replication products containing single-base deletions .
+For both adducts the majority of -1 frameshifts occurred in a TTT sequence 3-5 bp upstream of the DNA lesion .
+For pol eta , all of the bypass products for both cisplatin and oxaliplatin adducts contained -1 frameshifts in the upstream TTT sequence and most of the products of replication on oxaliplatin-damaged templates had multiple replication errors , both frameshifts and misinsertions .
+In addition , on platinated templates both polymerases generated replication products 4-8 bp shorter than the full-length products .
+The majority of short cisplatin-induced products contained an internal deletion which included the adduct .
+In contrast , the majority of oxaliplatin-induced short products contained a 3 ' terminal deletion .
+The implications of these in vitro results for in vivo mutagenesis are discussed .

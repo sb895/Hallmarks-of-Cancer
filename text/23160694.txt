@@ -1,0 +1,12 @@
+BACKGROUND Thymidine phosphorylase ( TYMP ) is an angiogenic factor that has potent chemotactic activity for endothelial cells and is involved in 5-fluorouracil ( 5-FU ) metabolism .
+In colorectal cancer ( CRC ) , previous studies evaluating the relationship between TYMP expression and clinicopathological features have yielded inconsistent results .
+The aim of this study was to investigate the prognostic value of TYMP , its association with other angiogenic factors , proliferation markers and , to our knowledge , for the first time its relationship with extracellular matrix components .
+MATERIALS AND METHODS Formalin-fixed , paraffin-embedded specimens from 97 patients with CRC were immunostained for TYMP , vascular endothelial growth factor ( VEGF ) , microvascular density ( CD34 ) , proliferation marker ( Ki-67 ) , proliferating cell nuclear antigen ( PCNA ) , p53 oncoprotein and extracellular matrix components ( collagen type IV , fibronectin , tenascin and laminin ) .
+Survival curves were calculated with the Kaplan-Meier method .
+RESULTS Immunoreactivity was observed in the cytoplasm ( cyt ) and nucleus ( n ) of the tumor cells , as well in the stroma ( st ) , endothelium and tumor-associated macrophages .
+High TYMPcyt expression was observed in 7.2% of the cases , moderate in 22.7% and weak in 59.9% , while 10.3% were negative .
+High TYMPst expression was observed in 58.8% of the cases .
+TYMPcyt expression was correlated with the VEGF expression of tumor cells and VEGF expression of vessels ( p=0.014 and p=0.022 , respectively ) .
+TYMPst expression was correlated with VEGF expression and tenascin ( p=0.014 and p=0.011 , respectively ) .
+Patients with higher TYMPcyt expression had a more favorable overall survival ( p=0.041 ) in univariate analysis compared to patients without TYMP expression .
+CONCLUSION These findings suggest that TYMP plays an important role in angiogenesis , extracellular matrix remodeling and in the prognosis of patients with CRC , but further studies are needed to clearly define its role in CRC .

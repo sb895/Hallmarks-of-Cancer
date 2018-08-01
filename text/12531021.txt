@@ -1,0 +1,6 @@
+We have made xeroderma pigmentosum group A gene ( XPA)-knockout mice ( XPA(-/-) mice ) .
+The XPA(-/-) mice had no detectable activity for nucleotide excision repair ( NER ) and showed a high incidence of UVB-induced skin tumorigenesis .
+We have also found that cell lines derived from skin cancers in UVB-irradiated XPA(-/-) mice become tolerant to UV-irradiation and showed abnormal UV-induced cell cycle checkpoints and decreased mismatch repair ( MMR ) activity .
+These results suggested that the MMR-downregulation may help cells escape killing by UV-irradiation and thus MMR-deficient clones are selected for during the tumorigenic transformation of XPA(-/-) cells .
+In this report , we examined whether the incidence of UVB-induced skin tumorigenesis is enhanced in XPA(-/-)MSH2(-/-) , XPA(-/-) and MSH2(-/-) mice when compared with that in wild-type mice .
+Our results indicate that the MSH2-deficiency caused a high incidence of spontaneous and UVB-induced skin tumorigenesis and the XPA and MSH2 genes have additive roles in the UV-induced skin tumorigenesis .

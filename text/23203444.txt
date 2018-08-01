@@ -1,0 +1,7 @@
+Von Hippel-Lindau ( VHL ) is a tumor suppressor that negatively regulates the production of angiogenic factors .
+Mutations in the VHL gene cause VHL syndrome , which is characterized by highly vascularized tumors .
+Here we report a c.464T>A mutation of the VHL gene in three patients with hemangioblastoma from a Chinese family .
+This mutation was not reported previously and was absent in the unaffected family members .
+The mutation is predicted to cause Val to Glu substitution at VHL protein residue 155 in a conserved region .
+Previous biochemical studies demonstrated that residue Val-155 was critical for VHL protein binding to chaperonin TRiC/CCT , an essential step for proper VHL protein folding .
+Our finding of naturally occurring VHL V155E mutation in patients with VHL syndrome supports the functional importance of Val-155 residue in VHL protein and illustrates the diversity of VHL gene defects underlying VHL syndrome .

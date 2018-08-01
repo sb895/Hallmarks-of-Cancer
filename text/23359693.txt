@@ -1,0 +1,10 @@
+The Hippo signaling pathway inhibits cell growth and regulates organ size through a kinase cascade that leads to the phosphorylation and nuclear exclusion of the growth-promoting transcriptional coactivator Yes-associated protein ( YAP)/Yorkie .
+It mediates contact inhibition of cell growth downstream of cadherin adhesion molecules and other cell surface proteins .
+Contact inhibition is often antagonized by mitogenic growth factor signaling .
+We report an important mechanism for this antagonism , inhibition of Hippo pathway signaling by mitogenic growth factors .
+EGF treatment of immortalized mammary cells triggers the rapid translocation of YAP into the nucleus along with YAP dephosphorylation , both of which depend on Lats , the terminal kinase in the Hippo pathway .
+A small-molecule inhibitor screen of downstream effector pathways shows that EGF receptor inhibits the Hippo pathway through activation of PI3-kinase ( PI3K ) and phosphoinositide-dependent kinase ( PDK1 ) , but independent of AKT activity .
+The PI3K-PDK1 pathway also mediates YAP nuclear translocation downstream of lysophosphatidic acid and serum as a result of constitutive oncogenic activation of PI3K .
+PDK1 associates with the core Hippo pathway-kinase complex through the scaffold protein Salvador .
+The entire Hippo core complex dissociates in response to EGF signaling in a PI3K-PDK1-dependent manner , leading to inactivation of Lats , dephosphorylation of YAP , and YAP nuclear accumulation and transcriptional activation of its target gene , CTGF .
+These findings show that an important activity of mitogenic signaling pathways is to inactivate the growth-inhibitory Hippo pathway and provide a mechanism for antagonism between contact inhibition and growth factor action .

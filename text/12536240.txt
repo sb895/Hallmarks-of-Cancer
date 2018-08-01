@@ -1,0 +1,8 @@
+Natural killer ( NK ) and CD56(+) T cells are thought to play a central role in antitumour immunity .
+Their cytolytic activities are controlled by a variety of receptors including CD94 and killer immunoglobulin-like receptors ( KIR ) , which bind to major histocompatibility complex ( MHC ) class I molecules on target cells and mediate cell activation or inhibition .
+We have examined the numbers , phenotypes and antitumour cytotoxic functions of hepatic NK and CD56(+) T cells isolated from 22 patients with hepatic malignancy and 19 healthy donors .
+Flow cytometry revealed that NK cell numbers were increased among hepatic mononuclear cells in malignancy compared to histologically normal livers ( mean : 38% vs 27% ; P=0.03 ) , but CD56(+) T cell numbers were not ( 28% vs 27% ) .
+NK cells and CD56(+) T cells from tumour-bearing livers exhibited lymphokine-activated killing of K562 targets and T cell receptor-mediated lysis of P815 cells .
+The expression of CD94 and the KIR isotypes CD158a , CD158b and KIR3DL1 by CD56(+) T cells and NK cells was significantly and consistently reduced in tumour-bearing livers compared to healthy livers ( P<0.05 in all cases ) .
+Simultaneous ligation of CD158a , CD158b and KIR3DL1 caused an overall partial inhibition of CD56(+) T cell cytotoxic activity , suggesting that the observed reductions in KIR(+) cell numbers in malignancy are likely to lead to enhanced cytotoxicity .
+Our results suggest that , while hepatic CD56(+) T cells are not expanded in malignancy , downregulation of KIR and CD94 expression may be a mechanism by which the hepatic immune system can be activated to facilitate tumour rejection .

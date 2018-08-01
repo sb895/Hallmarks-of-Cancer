@@ -1,0 +1,24 @@
+UNLABELLED Oxygen free radicals and their reactive derivatives participate in formation of chronic inflammation states , which facilitate development of gastrointestinal tract tumors .
+Oxidative stress is one of the main causes of damage to cell membranes in result of exacerbated lipid peroxidation process .
+End products of lipid peroxidation ( aldehydes , organic peroxides ) react with important biological macromolecules such as DNA and proteins , cause changes in cell membrane structure and properties leading to loss of its integrity .
+Intensification of the lipid peroxidation process is a factor which may also lead to a malfunction in the antioxidant barrier , which further weakens the defense of cells against oxygen free radicals and promotes the onset and development of cancer .
+The aim of the study was the determination of lipid peroxidation level in gastrointestinal tract tumors ( stomach , liver , colon , and colorectal cancer to liver metastases ) .
+MATERIAL AND METHODS Materials for studies were obtained from 150 patients with gastrointestinal tract tumors : 10 with stomach cancer , 30 with malignant and benign liver cancers , 60 with primary colorectal cancer , and 50 with metachronous colorectal cancer liver metastases .
+We also investigated 25 patients with liver cirrhosis , which was treated as a pre-cancerous condition .
+In total , 175 patients were examined .
+Tumor specimens , and normal adjacent tissues ( 6-7 cm from the edge of the tumor ) , which served as control tissue in studies , were collected from patients ( with their consent ) during surgery .
+Additionally , liver specimens were collected from patients with liver cirrhosis .
+Lipid peroxidation level was determined spectrophotometrically as a concentration of final lipid peroxidation products , which in reaction with tiobarbituric acid ( TBA ) form colour complex ( thiobarbituric acid-reactive substances - TBARS ) .
+RESULTS The study showed the highest concentration of TBARS in benign , and the lowest in malignant liver tumors .
+Other types of gastrointestinal tumors studied , were characterized by similar levels of lipid peroxidation .
+TBARS concentration in these tumors was approximately 2-fold higher than in malignant liver tumors and much lower than in benign tumors .
+In all cancers of the digestive tract with the exception of malignant liver tumors increased level of TBARS was found , comparing with control tissue .
+The concentration of TBARS in cirrhotic liver was lower than in control .
+The level of lipid peroxidation in liver cirrhosis and malignant liver tumors was similar .
+There were no significant differences in TBARS concentration in the tumors of particular sections of the intestine and normal colon .
+The highest concentration of TBARS was found in G1 grade of colorectal cancer .
+In subsequent grades of cells differentiation ( G2 and G3 ) its concentration was lower .
+The highest level of lipid peroxidation , expressed as the concentration of TBARS was found in the I stage of colorectal cancer clinical advancement .
+The significantly lowest concentration of TBARS was shown for stage II ( UICC ) .
+CONCLUSIONS The level of lipid peroxidation in cancerous cells of gastrointestinal tract indicates increased oxidative stress .
+The changes of lipid peroxidation level--a marker of oxidative stress in gastrointestinal tumors appear to be closely associated with their development stages ( liver cirrhosis/malignant liver cancer ; colorectal cancer/colorectal cancer liver metastases ) and are likely to create such conditions , in which cancerous cells may proliferate , undergo gradual dedifferentiation and malignancy , and generate metastases .

@@ -1,0 +1,6 @@
+Aurora A kinase has drawn considerable attention as a therapeutic target for cancer therapy .
+However , the underlying molecular and cellular mechanisms of the anticancer effects of Aurora A kinase inhibition are still not fully understood .
+Herein , we show that depletion of Aurora A kinase by RNA interference ( RNAi ) in hepatocellular carcinoma ( HCC ) cells upregulated FoxO1 in a p53-dependent manner , which induces cell cycle arrest .
+Introduction of an RNAi-resistant Aurora A kinase into Aurora A-knockdown cells resulted in downregulation of FoxO1 expression and rescued proliferation .
+In addition , silencing of FoxO1 in Aurora A-knockdown cells allowed the cells to exit cytostatic arrest , which , in turn , led to massive cell death .
+Our results suggest that FoxO1 is responsible for growth arrest at the G 2/M phase that is induced by Aurora A kinase inhibition .

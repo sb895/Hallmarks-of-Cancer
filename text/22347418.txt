@@ -1,0 +1,8 @@
+Estrogens play essential roles in the progression of mammary and prostatic diseases .
+The transcriptional effects of estrogens are transduced by two estrogen receptors , ERα and ERβ , which elicit opposing roles in regulating proliferation : ERα is proliferative while ERβ is anti-proliferative .
+Exogenous expression of ERβ in ERα-positive cancer cell lines inhibits cell proliferation in response to estrogen and reduces xenografted tumor growth in vivo , suggesting that ERβ might oppose ERα's proliferative effects via formation of ERα/β heterodimers .
+Despite biochemical and cellular evidence of ERα/β heterodimer formation in cells co-expressing both receptors , the biological roles of the ERα/β heterodimer remain to be elucidated .
+Here we report the identification of two phytoestrogens that selectively activate ERα/β heterodimers at specific concentrations using a cell-based , two-step high throughput small molecule screen for ER transcriptional activity and ER dimer selectivity .
+Using ERα/β heterodimer-selective ligands at defined concentrations , we demonstrate that ERα/β heterodimers are growth inhibitory in breast and prostate cells which co-express the two ER isoforms .
+Furthermore , using Automated Quantitative Analysis ( AQUA ) to examine nuclear expression of ERα and ERβ in human breast tissue microarrays , we demonstrate that ERα and ERβ are co-expressed in the same cells in breast tumors .
+The co-expression of ERα and ERβ in the same cells supports the possibility of ERα/β heterodimer formation at physio- and pathological conditions , further suggesting that targeting ERα/β heterodimers might be a novel therapeutic approach to the treatment of cancers which co-express ERα and ERβ .

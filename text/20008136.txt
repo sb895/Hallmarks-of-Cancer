@@ -1,0 +1,8 @@
+Odontogenic tumors originate from the remains of migrating enamel epithelium after the completion of normal tooth genesis .
+These enamel epithelium remnants exhibit the ability to recapitulate the events that occur during tooth formation .
+Several lines of evidence suggest that aberrance in the signaling pathways similar to the ones that are used during tooth development , including the WNT pathway , might be the cause of odontogenic tumorigenesis and maintenance .
+In this study we demonstrated that WNT5A expression was intense in both the epithelial component of ameloblastomas , the most common epithelial odontogenic tumor , and in this tumor's likely precursor cell , the enamel epithelium located at the cervical loop of normal developing human tooth buds .
+Additionally , when WNT5A was overexpressed in enamel epithelium cells ( LS-8 ) , the clones expressing high levels of WNT5A ( S ) exhibited characteristics of tumorigenic cells , including growth factor independence , loss of anchorage dependence , loss of contact inhibition , and tumor formation in immunocompromised mice .
+Moreover , overexpression of WNT5A drastically increased LS-8 cell migration and actin reorganization when compared with controls .
+Suppression of endogenous WNT5A in LS-8 cells ( AS ) greatly impaired their migration and AS cells failed to form significant actin reorganization and membrane protrusion was rarely seen .
+Taken together , our data indicate that WNT5A signaling is important in modulating tumorigenic behaviors of enamel epithelium cells in ameloblastomas .

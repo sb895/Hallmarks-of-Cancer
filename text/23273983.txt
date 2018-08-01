@@ -1,0 +1,5 @@
+To protect the genome , cells have evolved a diverse set of pathways designed to sense , signal , and repair multiple types of DNA damage .
+To assess the degree of coordination and crosstalk among these pathways , we systematically mapped changes in the cell's genetic network across a panel of different DNA-damaging agents , resulting in differential measurements .
+Each agent was associated with a distinct interaction pattern , which , unlike single-mutant phenotypes or gene expression data , has high statistical power to pinpoint the specific repair mechanisms at work .
+The agent-specific networks revealed roles for the histone acetyltranferase Rtt109 in the mutagenic bypass of DNA lesions and the neddylation machinery in cell-cycle regulation and genome stability , while the network induced by multiple agents implicates Irc21 , an uncharacterized protein , in checkpoint control and DNA repair .
+Our multiconditional genetic interaction map provides a unique resource that identifies agent-specific and general DNA damage response pathways .

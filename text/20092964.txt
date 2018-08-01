@@ -1,0 +1,12 @@
+PURPOSE Radiation therapy appears to kill cells mainly by inducing DNA double-strand breaks .
+We investigated whether the DNA repair gene expression status might influence the risk of locoregional recurrence ( LRR ) in breast cancer patients .
+METHODS AND MATERIALS We used a quantitative reverse transcriptase PCR-based approach to measure messenger RNA levels of 20 selected DNA repair genes in tumor samples from 97 breast cancer patients enrolled in a phase III trial ( Centre René Huguenin cohort ) .
+Normalized mRNA levels were tested for an association with LRR-free survival ( LRR-FS ) and overall survival ( OS ) .
+The findings were validated in comparison with those of an independent cohort ( Netherlands Cancer Institute ( NKI ) cohort ) .
+Multivariate analysis encompassing known prognostic factors was used to assess the association between DNA repair gene expression and patient outcome .
+RESULTS RAD51 was the only gene associated with LRR in both cohorts .
+With a median follow-up of 126 months in the CRH cohort , the 5-year LRR-FS and OS rates were 100% and 95% in the 61 patients with low RAD51 expression , compared with 70% and 69% in the 36 patients with high RAD51 expression , respectively ( p < 0.001 ) .
+RAD51 overexpression was associated with a higher risk of LRR ( hazard ratio [ HR ] , 12.83 ; 95% confidence interval [ CI ] , 3.6-45.6 ) and death ( HR , 4.10 ; 95% CI , 1.7-9.7 ) .
+RAD51 overexpression was also significantly associated with shorter LRR-FS and OS in the NKI cohort .
+CONCLUSIONS Overexpression of RAD51 , a key component of the homologous DNA repair pathway , is associated with poor breast cancer outcome .
+This finding warrants prospective studies of RAD51 as a prognosticator and therapeutic target .

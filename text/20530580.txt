@@ -1,0 +1,8 @@
+Autophagy is activated in response to cellular stressors and mediates lysosomal degradation and recycling of cytoplasmic material and organelles as a temporary cell survival mechanism .
+Defective autophagy is implicated in human pathology , as disruption of protein and organelle homeostasis enables disease-promoting mechanisms such as toxic protein aggregation , oxidative stress , genomic damage , and inflammation .
+We previously showed that autophagy-defective immortalized mouse mammary epithelial cells are susceptible to metabolic stress , DNA damage , and genomic instability .
+We now report that autophagy deficiency is associated with endoplasmic reticulum ( ER ) and oxidative stress , and with deregulation of p62-mediated keratin homeostasis in mammary cells , allograft tumors , and mammary tissues from genetically engineered mice .
+In human breast tumors , high phospho(Ser73)-K8 levels are inversely correlated with Beclin 1 expression .
+Thus , autophagy preserves cellular fitness by limiting ER and oxidative stress , a function potentially important in autophagy-mediated suppression of mammary tumorigenesis .
+Furthermore , autophagy regulates keratin homeostasis in the mammary gland via a p62-dependent mechanism .
+High phospho(Ser73)-K8 expression may be a marker of autophagy functional status in breast tumors and , as such , could have therapeutic implications for breast cancer patients .

@@ -1,0 +1,13 @@
+Inorganic arsenic in the drinking water is a multisite human carcinogen that potentially targets the kidney .
+Recent evidence also indicates that developmental arsenic exposure impacts renal carcinogenesis in humans and mice .
+Emerging theory indicates that cancer may be a disease of stem cells ( SCs ) and that there are abundant active SCs during early life .
+Therefore , we hypothesized that inorganic arsenic targets SCs , or partially differentiated progenitor cells ( PCs ) , for oncogenic transformation .
+Thus , a rat kidney SC/PC cell line , RIMM-18 , was chronically exposed to low-level arsenite ( 500 nM ) for up to 28 weeks .
+Multiple markers of acquired cancer phenotype were assessed biweekly during arsenic exposure , including secreted matrix metalloproteinase ( MMP ) activity , proliferation rate , colony formation in soft agar , and cellular invasiveness .
+Arsenic exposure by 10 weeks and after also induced marked and sustained increases in colony formation , indicative of the loss of contact inhibition , and increased invasiveness , both cancer cell characteristics .
+Compared to the passage-matched control , chronic arsenic exposure caused exposure-duration dependent increases in secreted MMP-2 and MMP-9 activity , Cox-2 expression , and more rapid proliferation ( all >2-fold ) , characteristics typical of cancer cells .
+Dysregulation of SC maintenance genes and signaling pathways are common during oncogenesis .
+During arsenite exposure , expression of several genes associated with normal kidney development and SC regulation and differentiation ( i.e. , Wt-1 , Wnt-4 , Bmp-7 , etc. ) were aberrantly altered .
+Arsenic-exposed renal SCs produced more nonadherent spheroid bodies that grew much more aggressively in Matrigel , typical of cancer SCs ( CSCs ) .
+The transformed cells also showed gene overexpression typical of renal SCs/CSCs ( CD24 , Osr1 , Ncam ) and arsenic adaptation such as overexpression of Mt-1 , Mt2 , Sod-1 , and Abcc2 .
+These data suggest that inorganic arsenic induced an acquired cancer phenotype in vitro in these rat kidney SCs potentially forming CSCs and , consistent with data in vivo , indicate that these multipotent SCs may be targets of arsenic during renal carcinogenesis .

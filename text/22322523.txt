@@ -1,0 +1,11 @@
+OBJECTIVES To investigate the immunoexpression of epidermal growth factor receptor ( EGFR ) in a sample of oral leukoplakias ( OL ) and to determine the receptor ' s association with dysplasia , tobacco consumption , lesion site , and proliferation rate .
+Although EGFR should be overexpressed in some oral leukoplakias , the factors that may interfere with this expression and the influence of this receptor on epithelial proliferation have yet to be investigated .
+STUDY DESIGN Samples of oral leukoplakias ( 48 ) and of normal oral epithelium ( 10 ) were immunohistologically examined for expression of EGFR .
+Immunohistochemistry for Ki-67 , and p27 were also performed in leukoplakias .
+EGFR expression was associated with clinical and pathological features .
+RESULTS EGFR was positive in 62.5% of the leukoplakias and 50% of normal oral epithelium .
+The number of EGFR positive OL located in high-risk sites was significantly higher than EGFR positive OL located in low-risk sites .
+Most of the p27 negative leukoplakias were EGFR positive , and the p27 index in the parabasal layer was diminished in the presence of dysplasia .
+Positivity for EGFR was not associated with dysplasia , tobacco exposure , or Ki-67 .
+CONCLUSION EGFR is expressed in leukoplakia regardless of dysplasia , but EGFR positivity should be more frequent in lesions sited in areas of high cancer risk .
+The association between EGFR and p27 may represent an important mechanism in the control of cellular proliferation and malignant progression of oral epithelium and therefore warrants further investigation .

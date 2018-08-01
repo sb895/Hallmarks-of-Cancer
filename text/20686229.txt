@@ -1,0 +1,9 @@
+Genipin is a metabolite of geniposide isolated from an extract of Gardenia fructus .
+Some observations suggested that genipin could induce cell apoptosis in hepatoma cells and PC3 human prostate cancer cells .
+However , the effects of genipin on HeLa human cervical carcinoma cells are still unknown .
+In this study , we provided evidences that genipin induced the death of HeLa cells through apoptotic pathway in a dose-dependent manner .
+Genipin could remarkably induce cytotoxicity in HeLa cells and inhibit its proliferation .
+Induction of the apoptosis by genipin was confirmed by analysis of DNA fragmentation and induction of sub-G(1) peak through flow cytometry .
+The results also showed that genipin-treated HeLa cells cycle was arrested at G(1) phase .
+Western blot analysis revealed that the phosphorylated c-Jun NH(2)-terminal kinase ( JNK ) protein , phospho-Jun protein , p53 protein and bax protein significantly increased in a dose-dependent manner after treatment of genipin for 24 h , and to our knowledge , the activation of JNK maybe result in the increase of the p53 protein level , and the increase of the p53 protein led to the accumulation of bax protein , bax protein further induced cell apoptotic death eventually .
+Taken all these together , it is possible to develop genipin as an anti-cancer drug .

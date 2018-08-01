@@ -1,0 +1,9 @@
+BACKGROUND Advancing age is associated with substantial increases in the incidence rates of common diseases affecting the prostate gland including benign prostatic hyperplasia ( BPH ) and prostate carcinoma .
+The prostate is comprised of a functional secretory epithelium , a basal epithelium , and a supporting stroma comprised of structural elements , and a spectrum of cell types that includes smooth muscle cells , fibroblasts , and inflammatory cells .
+As reciprocal interactions between epithelium and stromal constituents are essential for normal organogenesis and serve to maintain normal functions , discordance within the stroma could permit or promote disease processes .
+In this study we sought to identify aging-associated alterations in the mouse prostate microenvironment that could influence pathology .
+METHODOLOGY/PRINCIPAL FINDINGS We quantitated transcript levels in microdissected glandular-adjacent stroma from young ( age 4 months ) and old ( age 20-24 months ) C57BL/6 mice , and identified a significant change in the expression of 1259 genes ( p<0.05 ) .
+These included increases in transcripts encoding proteins associated with inflammation ( e.g. , Ccl8 , Ccl12 ) , genotoxic/oxidative stress ( e.g. , Apod , Serpinb5 ) and other paracrine-acting effects ( e.g. , Cyr61 ) .
+The expression of several collagen genes ( e.g. , Col1a1 and Col3a1 ) exhibited age-associated declines .
+By histology , immunofluorescence , and electron microscopy we determined that the collagen matrix is abundant and disorganized , smooth muscle cell orientation is disordered , and inflammatory infiltrates are significantly increased , and are comprised of macrophages , T cells and , to a lesser extent , B cells .
+CONCLUSION/SIGNIFICANCE These findings demonstrate that during normal aging the prostate stroma exhibits phenotypic and molecular characteristics plausibly contributing to the striking age associated pathologies affecting the prostate .

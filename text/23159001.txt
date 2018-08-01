@@ -1,0 +1,11 @@
+OBJECTIVE To explore the efficacy and side effects of icotinib hydrochloride in the treatment of patients with advanced non-small cell lung cancer ( NSCLC ) .
+METHODS The efficacy and side effects of icotinib hydrochloride in treatment of 59 cases with stage IV NSCIC and followed-up from March 2009 to January 2012 were retrospectively analyzed .
+RESULTS Twenty seven patients ( 45.8% ) showed partial response ( PR ) , 17 patients ( 28.8% ) achieved SD , and 15 ( 25.4% ) had progressive disease .
+The objective response rate ( ORR ) was 45.8% ( 27/59 ) , and disease control rate ( DCR ) was 74.6% ( 44/59 ) .
+Among the 23 patients with EGFR mutation , ORR was 73.9% ( 17/23 ) , and DCR was 95.7% ( 22/23 ) .
+Thirty six patients ( 61.0% ) achieved remission of symptoms to varying degrees .
+The main symptoms relieved were cough , asthmatic suffocating , pain and hoarseness .
+The major adverse events were mild skin rash ( 35.6% ) and diarrhea ( 15.3% ) .
+Others were dry skin , nausea and stomach problems .
+The efficacy of icotinib hydrochloride were related to the ECOG performance status , smoking history , EGFR mutation and rash significantly ( P < 0.05 ) .
+CONCLUSIONS Monotherapy with icotinib hydrochloride is effective and tolerable for patients with advanced NSCLC , especially with EGFR mutation .

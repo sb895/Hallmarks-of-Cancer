@@ -1,0 +1,9 @@
+Most cancer cells exhibit increased glycolysis for generation of their energy supply .
+This specificity could be used to preferentially kill these cells .
+In this study , we identified the signaling pathway initiated by glycolysis inhibition that results in sensitization to death receptor ( DR)-induced apoptosis .
+We showed , in several human cancer cell lines ( such as Jurkat , HeLa , U937 ) , that glucose removal or the use of nonmetabolizable form of glucose ( 2-deoxyglucose ) dramatically enhances apoptosis induced by Fas or by tumor necrosis factor-related apoptosis-inducing ligand .
+This sensitization is controlled through the adenosine monophosphate ( AMP)-activated protein kinase ( AMPK ) , which is the central energy-sensing system of the cell .
+We established the fact that AMPK is activated upon glycolysis block resulting in mammalian target of rapamycin ( mTOR ) inhibition leading to Mcl-1 decrease , but no other Bcl-2 anti-apoptotic members .
+Interestingly , we determined that , upon glycolysis inhibition , the AMPK-mTOR pathway controlled Mcl-1 levels neither through transcriptional nor through posttranslational mechanism but rather by controlling its translation .
+Therefore , our results show a novel mechanism for the sensitization to DR-induced apoptosis linking glucose metabolism to Mcl-1 downexpression .
+In addition , this study provides a rationale for the combined use of DR ligands with AMPK activators or mTOR inhibitors in the treatment of human cancers .

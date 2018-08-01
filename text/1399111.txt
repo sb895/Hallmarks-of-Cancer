@@ -1,0 +1,11 @@
+Numerous studies have reported a correlation between production of 72-kDa ( MMP-2 ) and 92-kDa ( MMP-9 ) type-IV collagenases/gelatinases and the metastatic potential of cancer cells .
+An abrogating effect of tissue inhibitors of metalloproteinases ( TIMP-1 and TIMP-2 ) on metastases has also been noted .
+In this report we have used sensitive enzyme-linked immunoassays to measure MMP-2 , MMP-9 , TIMP-1 and TIMP-2 levels in eight human lung-cancer cell lines which were characterized for biological behavior in nude mice .
+We demonstrated that the Calu-6 and A549 cell lines with the highest metastatic , invasive and tumorigenic potential secreted the highest levels of MMP-2 .
+MMP-9 and TIMP-1 secretions were comparatively low in all cell lines .
+TIMP-2 secretion , which exceeded MMP-2 secretion for all cell lines , did not correlate with metastatic potential .
+To further explore these correlations , the metastatic Calu-6 cell line was transfected with a K-rev-1 cDNA expression construct .
+The K-rev revertant cell lines demonstrated a more differentiated phenotype and were less tumorigenic , invasive and metastatic in nude mice .
+Nonetheless , the Calu-6 revertant cell lines secreted higher levels of MMP-2 than the parent cell line .
+In conclusion , invasion and metastasis by lung-cancer cells requires not only enhanced MMP production , but also other less well-understood tumorigenic characteristics .
+The multiplicity of factors required by cancer cells for dissemination helps to explain the minute fraction of cancer cells from a primary tumor that ever develop into a metastasis .

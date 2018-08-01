@@ -1,0 +1,14 @@
+BACKGROUND Γ-Ionizing radiation ( IR ) therapy is one of major therapeutic tools in cancer treatment .
+Nevertheless , γ-IR therapy failed due to occurrence of metastasis , which constitutes a significant obstacle in cancer treatment .
+The main aim of this investigation was to construct animal model which present metastasis during radiotherapy in a mouse system in vivo and establishes the molecular mechanisms involved .
+MATERIALS AND METHODS The C6L transfectant cell line expressing firefly luciferase ( fLuc ) was treated with γ-IR , followed by immunoblotting , zymography and invasion assay in vitro .
+We additionally employed the C6L transfectant cell line to construct xenografts in nude mice , which were irradiated with γ-IR .
+Irradiated xenograft-containing mice were analyzed via survival curves , measurement of tumor size , and bioluminescence imaging in vivo and ex vivo .
+Metastatic lesions in organs of mice were further assessed using RT-PCR , H & E staining and immunohistochemistry .
+RESULTS γ-IR treatment of C6L cells induced epithelial-mesenchymal transition ( EMT ) and increased cell invasion .
+In irradiated xenograft-containing mice , tumor sizes were decreased dramatically and survival rates extended .
+Almost all non-irradiated xenograft-containing control mice had died within 4 weeks .
+However , we also observed luminescence signals in about 22.5% of γ-IR-treated mice .
+Intestines or lungs of mice displaying luminescence signals contained several lesions , which expressed the fLuc gene and presented histological features of cancer tissues as well as expression of EMT markers .
+CONCLUSIONS These findings collectively indicate that occurrences of metastases during γ-IR treatment accompanied induction of EMT markers , including increased MMP activity .
+Establishment of a murine metastasis model during γ-IR treatment should aid in drug development against cancer metastasis and increase our understanding of the mechanisms underlying the metastatic process .

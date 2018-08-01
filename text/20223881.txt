@@ -1,0 +1,9 @@
+Pilocytic astrocytoma is commonly viewed as a benign lesion .
+However , disease onset is most prevalent in the first two decades of life , and children are often left with residual or recurrent disease and significant morbidity .
+The Hedgehog ( Hh ) pathway regulates the growth of higher WHO grade gliomas , and in this study , we have evaluated the activation and operational status of this regulatory pathway in pilocytic astrocytomas .
+Expression levels of the Hh pathway transcriptional target PTCH were elevated in 45% of tumor specimens analyzed ( ages 1-22 years ) and correlated inversely with patient age .
+Evaluation of a tissue array revealed oligodendroglioma-like features , pilomyxoid features , infiltration , and necrosis more commonly in specimens from younger patients ( below the median patient age of 10 years ) .
+Immunohistochemical staining for the Hh pathway components PTCH and GLI1 and the proliferation marker Ki67 demonstrated that patients diagnosed before the age of 10 had higher staining indices than those diagnosed after the age of 10 .
+A significant correlation between Ki67 and PTCH and GLI1 staining indices was measured , and 86% of Ki67-positive cells also expressed PTCH .
+The operational status of the Hh pathway was confirmed in primary cell culture and could be modulated in a manner consistent with a ligand-dependent mechanism .
+Taken together , these findings suggest that Hh pathway activation is common in pediatric pilocytic astrocytomas and may be associated with younger age at diagnosis and tumor growth .

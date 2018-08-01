@@ -1,0 +1,8 @@
+The ultraviolet ( UV ) radiation present in sunlight is immune-suppressive .
+Recently we showed that solar-simulated UV radiation ( UVA + UVB ; 295-400 nm ) , applied after immunization , suppressed immunological memory and the elicitation of delayed-type hypersensitivity to the common opportunistic pathogen , Candida albicans .
+Further , we found that wavelengths in the UVA region of the solar spectrum ( 320-400 nm ) , devoid of UVB , were equally effective in activating immune suppression as UVA + UVB radiation .
+Here we report on the mechanisms involved .
+No immune suppression was found in UV-irradiated mice injected with monoclonal anti-interleukin ( IL)-10 antibody , or mice exposed to solar-simulated UV radiation and injected with recombinant IL-12 .
+Antigen-specific suppressor T cells were found in the spleens of mice exposed to UVA + UVB radiation .
+Applying liposomes containing bacteriophage T4N5 to the skin of mice exposed to solar-simulated UVA + UVB radiation or mice exposed to UVA radiation blocked immune suppression , demonstrating an essential role for UV-induced DNA damage in the suppression of established immune reactions .
+These findings indicate that UV radiation activates similar immunological pathways to suppress the induction , or the elicitation , of the immune response .

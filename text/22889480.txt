@@ -1,0 +1,14 @@
+OBJECTIVES Lymph node metastasis is among the most important prognostic factors for patients with esophageal squamous cell carcinoma after curative esophagectomy ; however , the extent of lymphadenectomy is still controversial .
+The objective of the present study was to determine the frequency of lymphatic metastases and to study the pattern of lymph node metastasis in a large study population .
+METHODS The data from 1361 patients with thoracic esophageal squamous cell carcinoma who underwent curative R0 esophagectomy were retrospectively examined .
+Logistic regression analysis was used to identify the factors associated with lymph node metastasis .
+RESULTS Of the 1361 patients , 714 ( 52.5% ) were found to have lymph node metastasis .
+The frequency of lymph node metastasis increased as the tumor invasion increased .
+Paratracheal nodes were the most frequent metastasis nodes ( 15.9% ) .
+The frequency of lymph node metastasis was 9.8% in the neck , 18.0% in the upper mediastinum , 18.9% in the middle mediastinum , 11.8% in the lower mediastinum , and 28.4% in the abdomen .
+Of these 714 patients , 424 ( 31.2% ) presented with 1 field involvement , 255 ( 18.7% ) with 2 fields , and 35 ( 2.6% ) with 3 fields involvement .
+Logistic regression analysis revealed tumor length ( P<.001 ) , tumor invasion ( P<.001 ) , tumor differentiation ( P=.003 ) , and lymphovascular invasion ( P<.001 ) were risk factors for lymph node metastasis .
+Tumor location ( P<.001 ) , tumor invasion ( P=.003 ) , lymphovascular invasion ( P=.004 ) , and paratracheal lymph node involvement ( P=.002 ) were identified as risk factors for cervical lymph node metastasis .
+CONCLUSIONS Metastases were more frequent in the abdomen than in the neck .
+Total mediastinal and upper abdominal lymphadenectomy should be carefully conducted .
+Certain factors , such as tumor location , depth of tumor invasion , lymphovascular invasion , and paratracheal lymph node involvement , might be helpful in determining the need to perform cervical lymphadenectomy in individual patients .

@@ -1,0 +1,8 @@
+The lengths of human telomeres , which protect chromosome ends from degradation and end fusions , are crucial determinants of cell lifespan .
+During embryogenesis and in cancer , the telomerase enzyme counteracts telomeric DNA shortening .
+As shown in cancer cells , human telomerase binds the shelterin component TPP1 at telomeres during the S phase of the cell cycle , and adds nucleotides in a single round of extension , after which telomerase is turned off by unknown mechanisms .
+Here we show that the human CST ( CTC1 , STN1 and TEN1 ) complex , previously implicated in telomere protection and DNA metabolism , inhibits telomerase activity through primer sequestration and physical interaction with the protection of telomeres 1 ( POT1)–TPP1 telomerase processivity factor .
+CST competes with POT1–TPP1 for telomeric DNA , and CST–telomeric-DNA binding increases during late S/G2 phase only on telomerase action , coinciding with telomerase shut-off .
+Depletion of CST allows excessive telomerase activity , promoting telomere elongation .
+We propose that through binding of the telomerase-extended telomere , CST limits telomerase action at individual telomeres to approximately one binding and extension event per cell cycle .
+Our findings define the sequence of events that occur to first enable and then terminate telomerase-mediated telomere elongation .

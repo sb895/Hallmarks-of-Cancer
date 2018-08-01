@@ -1,0 +1,5 @@
+Colon cancer is a leading cause of morbidity and mortality in Western countries .
+Basic fibroblast growth factor ( bFGF ) was up-regulated in patients with colon cancer and was considered as a potential therapeutic target .
+In this study , we first demonstrated that a novel bFGF-binding peptide ( named P7 ) inhibited proliferation of several colon cancer cell lines including HT-29 , LoVo , and Caco2 cells stimulated by bFGF .
+Further investigations with HT-29 cells indicated that P7 arrested the cell cycle at the G0/G1 phase of bFGF-stimulated cells , reduced the levels of phospho-Erk1/Erk2 induced by bFGF , and caused significant changes in the expression of proteins related to proliferation , cell cycle , and cancer .
+Our results suggested that the bFGF-binding peptide has a potential antitumor effect on colon cancer .

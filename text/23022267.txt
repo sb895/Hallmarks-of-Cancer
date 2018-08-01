@@ -1,0 +1,5 @@
+Retinoic acid ( RA)-induced differentiation therapy is partially successful in neuroblastoma treatment .
+We found that a novel combination of vanadium-based PTP inhibitors with RA induced extensive differentiation in neuroblastoma cells .
+In contrast to RA alone , this led to either permanent differentiation or senescence after 14days of combined treatment followed by chemical removal .
+Senescence was dependent in part on synergistic AKT and ERK activation. p21 was also strongly induced , but in contrast to oncogene-induced senescence , p53 was not activated .
+Vanadium-based inhibitors thus serve strongly to enhance RA's ability to drive differentiation and a novel form of senescence in neuroblastoma cells .

@@ -1,0 +1,5 @@
+Designed from a high throughput screened hit compound , novel 2-amino-1-thiazolyl imidazoles were synthesized and demonstrated cytotoxicity against human cancer cells. 1-(4-Phenylthiazol-2-yl)-4-(thiophen-2-yl)-1H-imidazol-2-amine ( compound 2 ) , a 2-amino-1-thiazolyl imidazole , inhibited tubulin polymerization , interacted with the colchicine-binding sites of tubulins , and caused cell cycle arrest at the G(2)/M phase in human gastric cancer cells .
+Disruption of the microtubule structure in cancer cells by compound 2 was also observed .
+Compound 2 concentration-dependently inhibited the proliferation of cancer cells in histocultured human gastric and colorectal tumors .
+Given orally , compound 2 prolonged the lifespans of leukemia mice intraperitoneally inoculated with the murine P388 leukemic cells .
+We report 2-amino-1-thiazolyl imidazoles as a novel class of orally active microtubule-destabilizing anticancer agents .

@@ -1,0 +1,8 @@
+DNA repair enzymes play an important role in the development of various kinds of cancer .
+We here analyzed associations of XPD Lys751Gln , APEX1 Asp148Glu , XRCC1 Arg399Gln , and XRCC3 Thr241Met gene polymorphisms in DNA repair pathways in relation to the risk of lung cancer using PCR-RFLP .
+The study involved 104 lung cancer patients and 120 non-cancer controls divided into non-smokers and smokers .
+We found a statistically significant interaction between APEX1 Asp148Glu and the risk for lung cancer ( adjusted OR 2.78 , 95% CI 1.58-4.90 , p=0.0004 ) , of both adenocarcinoma ( adjusted OR 2.24 , 95%CI 1.18-4.25 , p=0.014 ) and squamous cell carcinoma ( adjusted OR 4.75 , 95%CI 1.79-12.6 , p=0.002 ) types .
+XRCC1 Arg399Gln showed a borderline significant association with adenocarcinoma ( adjusted OR 1.89 , 95%CI 1.00-3.57 , p=0.051 ) .
+The combined effect of smoking and presence of the APEX1 Asp148Glu demonstrated a significant association with risk of lung cancer ( adjusted OR 3.61 , 95% CI 1.74-7.50 , p=0.001 ) .
+The XPD Lys751Gln and XRCC3 Thr241Met genotypes displayed no statistically significant risk .
+Our findings suggest that the APEX1 Asp148Glu is associated with increased risk for primary lung cancer in Japanese individuals partaking in smoking .

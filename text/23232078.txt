@@ -1,0 +1,8 @@
+Adipose tissue growth and development are thought to be associated with angiogenesis and extracellular matrix remodeling .
+Because ginseng has been shown to inhibit angiogenesis and matrix metalloproteinase ( MMP ) activity , we hypothesized that adipose tissue growth and obesity can be regulated by Korean ginseng ( Panax ginseng C.A. Meyer ) .
+Wild-type C57BL/6J mice were fed for 8 weeks with a low fat diet , a high fat diet ( HFD ) , or HFD supplemented with 0.5% or 5% Korean red ginseng extract .
+We measured body weight , adipose tissue mass , food intake , MMP activity , and the expression of genes involved in angiogenesis and MMPs .
+Administering ginseng to HFD-induced obese mice produced reductions in body weight and adipose tissue mass compared with untreated counterparts .
+Ginseng treatment decreased blood vessel density and MMP activity in adipose tissues .
+Ginseng also reduced mRNA levels of angiogenic factors ( e.g. , VEGF-A and FGF-2 ) and MMPs ( e.g. , MMP-2 and MMP-9 ) , whereas it increased mRNA levels of angiogenic inhibitors ( e.g. , TSP-1 , TIMP-1 , and TIMP-2 ) in adipose tissues .
+These results demonstrate that ginseng effectively reduces adipose tissue mass and prevents obesity in diet-induced obese mice and that this process may be mediated in part through the anti-angiogenic actions of ginseng .

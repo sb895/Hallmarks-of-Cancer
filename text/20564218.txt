@@ -1,0 +1,10 @@
+Proliferation of non-transformed cells is regulated by cell-cell contacts , which are referred to as contact-inhibition .
+Vice versa , transformed cells are characterised by a loss of contact-inhibition .
+Despite its generally accepted importance for cell-cycle control , little is known about the intracellular signalling pathways involved in contact-inhibition .
+Unravelling the molecular mechanisms of contact-inhibition and its loss during tumourigenesis will be an important step towards the identification of novel target genes in tumour diagnosis and treatment .
+To better understand the underlying molecular mechanisms we identified the transcriptional programme of contact-inhibition in NIH3T3 fibroblast using high-density microarrays .
+Setting the cut off : >or=1.5-fold , P <or= 0.05 , 853 genes and 73 cDNA sequences were differentially expressed in confluent compared to exponentially growing cultures .
+Importing these data into GenMAPP software revealed a comprehensive list of cell-cycle regulatory genes mediating G0/G1 arrest , which was confirmed by RT-PCR and Western blot .
+In a narrow analysis ( cut off : >or=2-fold , P <or= 0.002 ) , we found 110 transcripts to be differentially expressed representing 107 genes and 3 cDNA sequences involved , for example , in proliferation , signal transduction , transcriptional regulation , cell adhesion and communication .
+Interestingly , the majority of genes was upregulated indicating that contact-inhibition is not a passive state , but actively induced .
+Furthermore , we confirmed differential expression of eight genes by semi-quantitative RT-PCR and identified the potential tumour suppressor transforming growth factor-beta ( TGF-beta)-1-induced clone 22 ( TSC-22 ; tgfb1i4 ) as a novel protein to be induced in contact-inhibited cells .

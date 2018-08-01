@@ -1,0 +1,11 @@
+Cyclin E2 , but not cyclin E1 , is included in several gene signatures that predict disease progression in either tamoxifen-resistant or metastatic breast cancer .
+We therefore examined the role of cyclin E2 in antiestrogen resistance in vitro and its potential for therapeutic targeting through cyclin-dependent kinase ( CDK ) inhibition .
+High expression of CCNE2 , but not CCNE1 , was characteristic of the luminal B and HER2 subtypes of breast cancer and was strongly predictive of shorter distant metastasis-free survival following endocrine therapy .
+After antiestrogen treatment of MCF-7 breast cancer cells , cyclin E2 mRNA and protein were downregulated and cyclin E2-CDK2 activity decreased .
+However , this regulation was lost in tamoxifen-resistant ( MCF-7 TAMR ) cells , which overexpressed cyclin E2 .
+Expression of either cyclin E1 or E2 in T-47D breast cancer cells conferred acute antiestrogen resistance , suggesting that cyclin E overexpression contributes to the antiestrogen resistance of tamoxifen-resistant cells .
+Ectopic expression of cyclin E1 or E2 also reduced sensitivity to CDK4 , but not CDK2 , inhibition .
+Proliferation of tamoxifen-resistant cells was inhibited by RNAi-mediated knockdown of cyclin E1 , cyclin E2 , or CDK2 .
+Furthermore , CDK2 inhibition of E-cyclin overexpressing cells and tamoxifen-resistant cells restored sensitivity to tamoxifen or CDK4 inhibition .
+Cyclin E2 overexpression is therefore a potential mechanism of resistance to both endocrine therapy and CDK4 inhibition .
+CDK2 inhibitors hold promise as a component of combination therapies in endocrine-resistant disease as they effectively inhibit cyclin E1 and E2 overexpressing cells and enhance the efficacy of other therapeutics .

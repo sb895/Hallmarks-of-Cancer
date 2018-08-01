@@ -1,0 +1,8 @@
+SMG1 is a member of the phosphoinositide kinase-like kinase family of proteins that includes ATM , ATR , and DNA-PK , proteins with known roles in DNA damage and cellular stress responses .
+SMG1 has a well-characterized role in nonsense-mediated decay as well as suggested roles in the DNA damage response , resistance to oxidative stress , regulation of hypoxic responses , and apoptosis .
+To understand the roles of SMG1 further , we generated a Genetrap Smg1 mouse model .
+Smg1 homozygous KO mice were early embryonic lethal , but Smg1 heterozygous mice showed a predisposition to a range of cancers , particularly lung and hematopoietic malignancies , as well as development of chronic inflammation .
+These mice did not display deficiencies in known roles of SMG1 , including nonsense-mediated decay .
+However , they showed elevated basal tissue and serum cytokine levels , indicating low-level inflammation before the development of tumors .
+Smg1 heterozygous mice also showed evidence of oxidative damage in tissues .
+These data suggest that the inflammation observed in Smg1 haploinsufficiency contributes to susceptibility to cancer and that Smg1-deficient animals represent a model of inflammation-enhanced cancer development .

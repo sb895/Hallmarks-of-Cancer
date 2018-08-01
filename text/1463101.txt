@@ -1,0 +1,9 @@
+Cytokines are known to play an important role in host defense by regulating the function , growth , and differentiation of the cells of the immune system .
+We hypothesize that , in the tumor microenvironment , tumor cells and resident tissue cells ( e.g. , fibroblasts ) also produce cytokines that may regulate the local immune response to tumors .
+Initially , homogenates of eight head and neck squamous cell carcinomas ( HNSCC ) were assayed for the presence of interleukin-1 ( IL-1 ) , interleukin-4 ( IL-4 ) , interleukin-6 ( IL-6 ) , and granulocyte-macrophage colony-stimulating factor ( GM-CSF ) to establish the presence of these cytokines in the tumors in vivo .
+We detected IL-1 in all tumor homogenates and IL-4 , IL-6 , and GM-CSF in some homogenates .
+To assess the ability of HNSCC to produce these cytokines , supernatants of short-term primary cultures of HNSCC were assayed for the same cytokines .
+No IL-1 was detected , although baseline levels of IL-4 , IL-6 , and GM-CSF were present .
+However , the stimulation of primary tumor cultures with exogenous IL-1 induced or significantly enhanced production of IL-4 ( p < 0.01 ) , IL-6 ( p < 0.001 ) , and GM-CSF ( p < 0.02 ) .
+These results support our hypothesis that HNSCC secrete cytokines that may influence the response of local immune cells .
+Our data also suggest that IL-1 may have a central role in regulating the local immune response through the enhancement or induction of cytokine production by tumor and/or resident tissue cells .

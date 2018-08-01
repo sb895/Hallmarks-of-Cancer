@@ -1,0 +1,11 @@
+Medulloblastomas are the most common malignant brain tumors in children .
+Several large-scale genomic studies have detailed their heterogeneity , defining multiple subtypes with unique molecular profiles and clinical behavior .
+Increased expression of the miR-183 cluster of microRNAs has been noted in several subgroups , including the most clinically aggressive subgroup associated with genetic amplification of MYC .
+To understand the contribution of miR-183 to the pathogenesis of this aggressive subtype of medulloblastoma , we analyzed global gene expression and proteomic changes that occur upon modulation of miRNAs in this cluster individually and as a group in MYC-amplified medulloblastoma cells .
+Knockdown of the full miR-183 cluster results in enrichment of genes associated with apoptosis and dysregulation of the PI3K/AKT/mTOR signaling axis .
+Conversely , there is a relative enrichment of pathways associated with migration , metastasis and epithelial to mesenchymal transition , as well as pathways associated with dysfunction of DNA repair in cells with preserved miR-183 cluster expression .
+Immunocytochemistry and FACS analysis confirm induction of apoptosis upon knockdown of the miR-183 cluster .
+Importantly , cell-based migration and invasion assays verify the positive regulation of cell motility/migration by the miR-183 cluster , which is largely mediated by miR-182 .
+We show that the effects on cell migration induced by the miR-183 cluster are coupled to the PI3K/AKT/mTOR pathway through differential regulation of AKT1 and AKT2 isoforms .
+Furthermore , we show that rapamycin inhibits cell motility/migration in medulloblastoma cells and phenocopies miR-183 cluster knockdown .
+Thus , the miR-183 cluster regulates multiple biological programs that converge to support the maintenance and metastatic potential of medulloblastoma .

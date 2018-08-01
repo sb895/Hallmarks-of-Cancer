@@ -1,0 +1,6 @@
+The development and progression of esophageal cancer is associated with multiple alterations in the genome , including loss of the tumor suppressor phosphatase and tensin homolog deleted from the chromosome 10 ( PTEN ) gene .
+The purpose of this study was to determine the effects of adenovirus-mediated MMAC/PTEN expression on the growth and survival of human esophageal cancer cells in vitro and in vivo .
+We found that compared to control cells , overexpression of PTEN significantly suppressed growth and induced apoptosis in esophageal cancer cell lines Eca-109 and TE-1 via downregulation of Bcl-2 expression and changes in cell-cycle progression .
+Adenovirus PTEN also inhibited the growth of subcutaneous tumor xenografts by significantly reducing tumor size in vivo .
+Thus our results confirm the proposed functional role of MMAC/PTEN as a regulator of esophageal cancer progression in vivo and in vitro .
+PTEN might be an important biological marker and potential therapeutic target in the treatment of human esophageal cancer .

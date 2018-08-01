@@ -1,0 +1,7 @@
+Although it has been demonstrated that discrete origins of DNA replication exist in eukaryotic cellular chromosomes , the detailed organization of a eukaryotic cellular origin remains to be determined .
+Linker substitution mutations were constructed across the entire Saccharomyces cerevisiae chromosomal origin , ARS1 .
+Functional studies of these mutants revealed one essential element ( A ) , which includes a match to the ARS consensus sequence , and three additional elements ( B1 , B2 , and B3 ) , which collectively are also essential for origin function .
+These four elements arranged exactly as in ARS1 , but surrounded by completely unrelated sequence , functioned as an efficient origin .
+Element B3 is the binding site for the transcription factor-origin binding protein ABF1 .
+Other transcription factor binding sites substitute for the B3 element and a trans-acting transcriptional activation domain is required .
+The multipartite nature of a chromosomal replication origin and the role of transcriptional activators in its function present a striking similarity to the organization of eukaryotic promoters .

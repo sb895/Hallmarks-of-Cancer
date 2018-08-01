@@ -1,0 +1,13 @@
+C-reactive protein is produced in response to cytokines such as interleukin ( IL)-6 .
+It is known that increased plasma IL-6 levels induce increased hepatic and intratumoral production of C-reactive protein .
+Cyclooxygenase enzyme-2 is induced by various stimuli , including inflammation and various growth factors .
+Expression of these two markers has not been well studied in clear cell renal cell carcinoma .
+The objective of this study is to correlate the expression of C-reactive protein and cyclooxygenase enzyme-2 in clear cell renal cell carcinoma with pathologic parameters .
+A search of the surgical pathology and consultation files at our institution was performed for nephrectomy specimens with clear cell renal cell carcinoma from 2007 to 2008 .
+Immunohistochemical stains for C-reactive protein and cyclooxygenase enzyme-2 were performed .
+Staining intensity was graded as 0 , 1+ , 2+ , and 3+ .
+The staining intensity was then correlated with pathologic stage and Fuhrman nuclear grade for each case .
+A total of 110 cases were identified .
+Strong expression of C-reactive protein was associated with higher Fuhrman nuclear grade and pathologic stage , and the strength of correlation was statistically significant ( p = 0.01 and p = 0.001 ) , respectively .
+However , cyclooxygenase enzyme-2 expression did not show statistically significant correlation with both pathologic stage and Fuhrman nuclear grade ( p = 0.1 and p = 0.15 ) , respectively .
+To our knowledge , this is the largest study to date correlating the expression of both C-reactive protein and cyclooxygenase enzyme-2 in tissue with pathologic parameters in patients with clear cell renal cell carcinoma , which could have significant prognostic and therapeutic implications .

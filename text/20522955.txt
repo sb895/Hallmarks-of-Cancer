@@ -1,0 +1,8 @@
+Overexpression/amplification of human epidermal growth factor receptor ( HER)2/neu ( erbB-2 ) oncogene plays a causal role in carcinogenesis and correlates with a poor clinical prognosis .
+However , little is known about HER2 in gastric cancer .
+In this study , we explored the pharmacological activities of natural triterpenoid corosolic acid ( CRA ) in HER2 signaling and its role in gastric cancer development and progression .
+In this study , CRA dramatically inhibited HER2 expression in a dose- and time-dependent manner , effectively inhibited cell proliferation , and induced G(0)/G(1) arrest through the induction of p27(kip1) and cyclin D(1) down-regulation .
+CRA exposure enhanced apoptotic cell death , as confirmed by caspase-3 and poly ( ADP-ribose ) polymerase cleavage activities .
+CRA inhibited signaling pathways downstream of HER2 , including phospho-proteins such as Akt and Erk .
+In addition , CRA combined with adriamycin and 5-fluorouracil enhanced this growth inhibition , but not with docetaxel and paclitaxel .
+These findings demonstrate that CRA suppresses HER2 expression , which in turn promotes cell cycle arrest and apoptotic cell death of gastric cancer cells , providing a rationale for future clinical trials of CRA in the treatment of HER2-positive gastric cancers .

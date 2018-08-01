@@ -1,0 +1,8 @@
+Dendritic cells ( DCs ) and natural killer ( NK ) cells are central components of innate immunity for controlling tumor growth .
+The therapeutic effects of certain anti-myeloma drugs are partially mediated by targeting the innate immune response .
+In addition , novel types of natural compounds have been developed that efficiently modulate the activity of both the cellular and humoral compartments of immunity .
+MGN-3 is known as an activator of natural killer cells , inducer of apoptosis and cytokine production , and modulator of dendritic cell maturation and differentiation in vitro .
+We have performed a randomized , placebo-controlled study to examine the effects of MGN-3 on innate immune system parameters in 48 multiple myeloma patients .
+We performed immunophenotypic analysis of peripheral blood samples , determined NK cell activity , and assessed the cytokine profiles of plasma before and during 3months of treatment .
+The results demonstrate a clear increase in NK activity in MGN-3-treated patients compared to the placebo group , an increased level of myeloid DCs in peripheral blood , and augmented concentrations of T helper cell type 1-related cytokines .
+The present study suggests that MGN-3 may represent an immunologically relevant product for activating innate immunity in multiple myeloma patients and warrants further testing to demonstrate clinical efficacy .

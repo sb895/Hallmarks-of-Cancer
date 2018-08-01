@@ -1,0 +1,5 @@
+Isolinderanolide B ( IOB ) , a butanolide extracted from the stems of Cinnamomum subavenium , was investigated for its antiproliferative activity in T24 human bladder cancer cells .
+To identity the anticancer mechanism of IOB , its effect on apoptosis , cell cycle distribution , and levels of p53 , p21 Waf1/Cip1 , Fas/APO-1 receptor , and Fas ligand was assayed .
+Enzyme-linked immunosorbent assay showed that the G0/G1 phase arrest is because of increase in the expression of p21 Waf1/Cip1 .
+An enhancement in Fas/APO-1 and membrane-bound Fas ligand ( mFasL ) might be responsible for the apoptotic effect induced by IOB .
+This study reports the novel finding that the induction of p21 Waf1/Cip1 and activity of the Fas/mFas ligand apoptotic system may participate in the antiproliferative activity of IOB in T24 cells .

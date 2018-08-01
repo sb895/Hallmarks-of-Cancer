@@ -1,0 +1,8 @@
+The aim of the present study was to evaluate immunomodulator ginsan , a polysaccharide extracted from Panax ginseng , on carbon tetrachloride ( CCl(4))-induced liver injury .
+BALB/c mice were injected i.p. with ginsan 24 h prior to CCl(4) administration .
+Serum liver enzyme levels , histology , expression of antioxidant enzymes , and several cytokines/chemokines were subsequently evaluated .
+Ginsan treatment markedly suppressed the serum alanine aminotransferase ( ALT ) and aspartate aminotransferase ( AST ) levels , and hepatic histological necrosis increased by CCl(4) treatment .
+Ginsan inhibited CCl(4) induced lipid peroxidation through the cytochrome P450 2E1 ( CYP2E1 ) downregulation .
+The hepatoprotective effect of ginsan was attributed to induction of anti-oxidant protein contents , such as superoxide dismutase ( SOD ) , catalase , and glutathione peroxidase ( GPX ) as well as restoration of the hepatic glutathione ( GSH ) concentration .
+The marked increase of proinflammatory cytokines ( IL-1beta , IFN-gamma ) and chemokines ( MCP-1 , MIP-2beta , KC ) in CCl(4) treated mice was additionally attenuated by ginsan , thereby preventing leukocyte infiltration and local inflammation .
+Our results suggest that ginsan effectively prevent liver injury , mainly through downregulation of oxidative stress and inflammatory response .

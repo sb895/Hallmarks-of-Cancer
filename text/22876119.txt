@@ -1,0 +1,15 @@
+PURPOSE To characterize the clinical features of a Chinese Uygur pedigree with primary open-angle glaucoma ( POAG ) and to identify mutations in two candidate genes , trabecular meshwork inducible glucocorticoid response ( MYOC/TIGR ) and human dioxin-inducible cytochrome P450 ( CYP1B1 ) .
+METHODS Twenty one members from a Chinese Uygur family of four generations were included in the study .
+All participants underwent complete ophthalmologic examinations .
+Five were diagnosed as POAG , four as glaucoma suspects , and the rest were asymptomatic .
+Molecular genetic analysis was performed on all subjects included in the study .
+All exons of CYP1B1 and MYOC were amplified by polymerase chain reaction ( PCR ) , sequenced and compared with a reference database .
+The variations detected were evaluated in available family members as well as 102 normal controls .
+Possible changes in structure and function of the protein induced by amino acid variance were predicted by bioinformatics analysis .
+RESULTS Elevated intraocular pressure and late-stage glaucomatous cupping of the optic disc were found in five patients of this family .
+A novel heterozygous missense mutation c.1151 A>G in exon 3 of MYOC was found in all five patients diagnosed as POAG and four glaucoma suspects , but not in the rest of the family members and 102 normal controls .
+This mutation caused an amino acid substitution of aspartic acid to glycine at position 384 ( p .
+D384G ) of the MYOC protein .
+This substitution may cause structural and functional changes of the protein based on bioinformatics analysis .
+No mutations were found in CYP1B1 .
+CONCLUSIONS Our study suggests that the novel mutation D384G of MYOC is likely responsible for the pathogenesis of POAG in this pedigree .

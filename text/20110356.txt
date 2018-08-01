@@ -1,0 +1,12 @@
+Cancer cells constantly adapt to oxidative phosphorylation ( OXPHOS ) suppression resulting from hypoxia or mitochondria defects .
+Under the OXPHOS suppression , AMP-activated protein kinase ( AMPK ) regulates global metabolism adjustments , but its activation has been found to be transient .
+Whether cells can maintain cellular ATP homeostasis and survive beyond the transient AMPK activation is not known .
+Here , we study the bioenergetic adaptation to the OXPHOS inhibitor oligomycin in a group of cancer cells .
+We found that oligomycin at 100 ng/ml completely inhibits OXPHOS activity in 1 h and induces various levels of glycolysis gains by 6 h , from which we calculate the bioenergetic organizations of cancer cells .
+In glycolysis-dominant cells , oligomycin does not induce much energy stress as measured by glycolysis acceleration , ATP imbalance , AMPK activation , AMPK substrate acetyl-CoA carboxylase phosphorylation at Ser(79) , and cell growth inhibition .
+In OXPHOS-dependent LKB1 wild type cells , oligomycin induces 5-8% ATP drops and transient AMPK activation during the initial 1-2 h .
+After AMPK activation is completed , oligomycin-induced increase of acetyl-CoA carboxylase phosphorylation at Ser(79) is still detected , and cellular ATP is back at preoligomycin treatment levels by sustained elevation of glycolysis .
+Cell growth , however , is inhibited without an increase in cell death and alteration in cell cycle distribution .
+In OXPHOS-dependent LKB1-null cells , no AMPK activation by oligomycin is detected , yet cells still show a similar adaptation .
+We also demonstrate that the adaptation to oligomycin does not invoke activation of hypoxia-induced factor .
+Our data suggest that cancer cells may grow and survive persistent OXPHOS suppression through an as yet unidentified regulatory mechanism .

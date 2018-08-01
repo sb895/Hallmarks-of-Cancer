@@ -1,0 +1,7 @@
+A6 is an eight amino acid peptide derived from the non-receptor binding region of urokinase plasminogen activator ( uPA ) , which interferes with the uPA/uPA receptor system .
+A6 has been synthesized as a potential anti-angiogenic , anti-cancer agent .
+The current study has investigated the potential therapeutic activity of A6 in the Lewis lung carcinoma ( 3LL ) model of pulmonary metastasis .
+A6 was found to have direct anti-tumor activity against established 3LL pulmonary metastases at a low tumor burden ( 10-20 colonies per lung ) and was therapeutic in combination with cyclophosphamide at high tumor burdens ( > 100 colonies per lung ) .
+Mechanistic studies have revealed that A6 directly inhibits the invasion of 3LL cells through a Matrigel model basement membrane by 40-45% .
+Moreover , treatment with either A6 or doxorubicin resulted in thicker tubes in endothelial tube formation studies .
+Our results suggest that A6 , by virtue of its anti-invasive and anti-angiogenic properties , might work additively or synergistically with chemotherapeutic agents and thereby contribute to enhanced therapy of established 3LL cancer metastases .

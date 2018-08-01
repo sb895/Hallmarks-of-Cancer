@@ -1,0 +1,11 @@
+Inflammatory response plays an important role not only in the normal physiology but also in the pathology such as cancers .
+As chronic inflammations are associated with malignancies , it is important to prevent inflammation-mediated neoplastic formation , promotion and/or progression .
+One possible intervention will be using cancer chemopreventive agents such as curcumin ( CUR ) , a potent anti-inflammatory and anti-oxidative stress compound .
+Polyunsaturated fatty acids ( PUFA ) such as docosahexaenoic acid ( DHA ) or eicosapentaenoic acid ( EPA ) are potent anti-inflammatory agents by decreasing the production of inflammatory eicosanoids , cytokines , and reactive oxygen species ( ROS ) .
+The present study aims at examining whether CUR with DHA or EPA would have synergistic anti-inflammatory effects in RAW 264.7 cells .
+Non-toxic concentrations of single and combination of the compounds were investigated at 6 , 12 and 24h .
+The nitric oxide ( NO ) suppression effects were most prominent at 24h .
+All the combinations of CUR and DHA or EPA with lower concentrations of CUR 5 microM and 25 microM of DHA or EPA were found to have synergistic effects in suppressing LPS-stimulated NO and endogenous NO levels .
+Importantly , very low doses of CUR 2.5 microM and DHA or EPA of 0.78 microM could synergistically suppress the LPS-induced prostaglandin E(2) ( PGE(2) ) .
+The combinations were also found to suppress iNOS , COX-2 , 5-lipoxygenase ( 5-LOX ) and cPLA(2) but induce HO-1 .
+Taken together , the present study clearly shows the synergistic anti-inflammatory as well as anti-oxidative stress effects of CUR and PUFA .

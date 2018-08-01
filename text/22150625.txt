@@ -1,0 +1,14 @@
+OBJECTIVE The HER2 receptor is involved in pathways essential for cell proliferation , and is an important predictive and prognostic factor in breast cancer .
+HER2 probably plays a critical role in many types of cancer , including urothelial carcinoma of the bladder ( UCB ) .
+Stage T1 UCB exhibits heterogeneous clinical behaviour , and the frequency of HER2 expression in such disease has not been thoroughly examined .
+The aim of this study was to use an immunohistochemical technique to evaluate the frequency of HER2 expression in a defined population-based cohort of patients registered as having primary stage T1 UCB .
+MATERIAL AND METHODS The initial study population comprised 285 patients registered as having primary stage T1 UCB .
+The original histological specimens were re-evaluated with regard to T stage and World Health Organization grade .
+Hospital records provided information on tumour size , multiplicity , possible presence of histologically proven recurrence and progression .
+The patients were followed for at least 5 years or until death .
+In tumours still considered stage T1 after re-evaluation , HER2 was investigated by immunohistochemistry of paraffin-embedded material and scored according to the guidelines used in breast cancer .
+RESULTS After histopathological re-evaluation , 201 patients were still T1 UCB and could be investigated regarding HER2 expression .
+HER2 overexpression was observed in 25 of those patients ( 12.4% ) .
+HER2 status was not significantly associated with recurrence or progression .
+CONCLUSIONS HER2 was overexpressed in 12.4% of the present cohort of patients with primary stage T1 UCB .
+There was no significant association between tumour HER2 status and prognosis .

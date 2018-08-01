@@ -1,0 +1,13 @@
+BACKGROUND Astaxanthin modulates immune response , inhibits cancer cell growth , reduces bacterial load and gastric inflammation , and protects against UVA-induced oxidative stress in in vitro and rodent models .
+Similar clinical studies in humans are unavailable .
+Our objective is to study the action of dietary astaxanthin in modulating immune response , oxidative status and inflammation in young healthy adult female human subjects .
+METHODS Participants ( averaged 21.5 yr ) received 0 , 2 , or 8 mg astaxanthin ( n = 14/diet ) daily for 8 wk in a randomized double-blind , placebo-controlled study .
+Immune response was assessed on wk 0 , 4 and 8 , and tuberculin test performed on wk 8 .
+RESULTS Plasma astaxanthin increased ( P < 0.01 ) dose-dependently after 4 or 8 wk of supplementation .
+Astaxanthin decreased a DNA damage biomarker after 4 wk but did not affect lipid peroxidation .
+Plasma C-reactive protein concentration was lower ( P < 0.05 ) on wk 8 in subjects given 2 mg astaxanthin .
+Dietary astaxanthin stimulated mitogen-induced lymphoproliferation , increased natural killer cell cytotoxic activity , and increased total T and B cell subpopulations , but did not influence populations of Thelper , Tcytotoxic or natural killer cells .
+A higher percentage of leukocytes expressed the LFA-1 marker in subjects given 2 mg astaxanthin on wk 8 .
+Subjects fed 2 mg astaxanthin had a higher tuberculin response than unsupplemented subjects .
+There was no difference in TNF and IL-2 concentrations , but plasma IFN-gamma and IL-6 increased on wk 8 in subjects given 8 mg astaxanthin .
+CONCLUSION Therefore , dietary astaxanthin decreases a DNA damage biomarker and acute phase protein , and enhances immune response in young healthy females .

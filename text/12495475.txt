@@ -1,0 +1,8 @@
+Recent studies have shown that the antiestrogen tamoxifen ( TAM ) can be used in the treatment of malignant neoplasms other than breast cancer .
+In the present study , we investigated the expression of estrogen receptor ( ER ) in six malignant rhabdoid tumor ( MRT ) cell lines .
+Alterations in MRT cell growth in response to estrogen or antiestrogens ( 4-hydroxytamoxifen ( 4-OHT ) , TAM , and ICI 182 780 ) were also investigated .
+RT-PCR and western blotting showed that ER-alpha was expressed in three of the six MRT cell lines .
+While 17-beta-estradiol ( E2 ) did not significantly alter MRT cell line proliferation , the hydroxylated tamoxifen metabolite 4-OHT significantly inhibited the growth of all 6 MRT cell lines .
+However , the steroidal antiestrogen ICI 182 780 did not alter the proliferation of any of the MRT cell lines. 4-OHT induced apoptosis in both ER-alpha-negative and ER-alpha-positive MRT cell lines , as assessed by nuclear morphology and DNA fragmentation .
+Neither growth inhibition nor induction of apoptosis due to 4-OHT was blocked by the addition of excess E2 .
+Our data suggested that 4-OHT induced cytotoxic effects against MRT cells , and that these effects were independent of ER expression .

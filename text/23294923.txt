@@ -1,0 +1,10 @@
+OBJECTIVE In addition to its effects on cholesterol levels , apoE3 has lipid-independent effects that contribute to cardiovascular protection ; one of these effects is the ability to inhibit cell cycling in VSMCs .
+The goal of this study was to identify and characterize cell cycle-regulatory mechanisms responsible for the anti-mitogenic effect of apoE .
+METHODS AND RESULTS Primary VSMCs were stimulated with serum in the absence or presence of apoE3. apoE3 upregulated expression of the cdk inhibitor , p27(kip1) , in primary VSMCs , and this effect required Cox2 and activation of PGI(2)-IP signaling .
+The microRNA family , miR221/222 has recently been identified as a post-translational regulator of p27 , and apoE3 inhibited miR221/222 expression in a Cox2- and PGI(2)/IP-dependent manner .
+Moreover , reconstituted miR222 expression was sufficient to override the effects of apoE on p27 expression and S phase entry .
+The ability to repress expression of miR221/222 is shared by apoE3-containing HDL but is absent from apoA-1 , LDL and apoE-depleted HDL .
+All three apoE isoforms regulate miR221/222 , and the effect is independent of the C-terminal lipid-binding domain. miR221/222 levels are increased in the aortae of apoE3-null mice and reduced when apoE3 expression is reconstituted by adeno-associated virus infection .
+Thus , regulation of miR221/222 by apoE3 occurs invivo as well as invitro .
+CONCLUSIONS ApoE inhibits VSMC proliferation by regulating p27 through miR221/222 .
+Control of cell cycle-regulatory microRNAs adds a new dimension to the spectrum of cardiovascular protective effects afforded by apoE and apoE-HDL .

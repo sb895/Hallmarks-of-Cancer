@@ -1,0 +1,9 @@
+BACKGROUND Knowledge of gene expression kinetics around neuronal cell birth is required to dissect mechanisms underlying progenitor fate .
+Here , we timed cell cycle and neuronal protein silencing/induction during cell birth in the developing murine retina .
+RESULTS The pan-cell cycle markers Pcna and Mcm6 were present in the post-mitotic ganglion cell layer .
+Although confined to the neuroblastic layer ( NBL ) , 6-7% of Ki67(+) cells lacked six progenitor/cell cycle markers , and expressed neuronal markers .
+To define protein extinction/induction timing , we defined G2/M length throughout retinogenesis , which was typically 1-2 h , but <10% cells took double this time .
+BrdU-chase analyses revealed that at E12.5 , Tubb3 ( Tuj1 ) appeared at M-phase , followed by Calb2 and Dcx at h , Elavl2/3/4 at h , and Map2 at h after cell birth , and these times extended with embryonic age .
+Strikingly , Ki67 was not extinguished until up to a day after cell cycle exit , coinciding with exit from the NBL and induction of late markers such as Map1b/Uchl1/Rbfox3 .
+CONCLUSIONS A minor population of progenitors transits slowly through G2/M and , most importantly , some cell cycle proteins are retained for an unexpectedly long period in post-mitotic neurons .
+The high-resolution map of cell birth kinetics reported here provides a framework to better define mechanisms that regulate neurogenesis .

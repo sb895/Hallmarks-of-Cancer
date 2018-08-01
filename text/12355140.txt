@@ -1,0 +1,13 @@
+It is still difficult to decide on the treatment modalities for advanced esophageal carcinoma when the prognostic factors of T4 esophageal cancer are not fully understood .
+In this article , we report that among 71 patients with T4 thoracic esophageal cancer , 49 underwent esophagectomy , 9 had curative resection ( R0 group ) , and 40 had palliative resection ( R1/2 group ) .
+A total of 22 patients had palliative treatments : bypass in 5 ( bypass group ) , gastrostomy or jejunostomy in 6 ( stoma group ) , and radiochemotherapy alone in 11 ( nonoperation group ) .
+Clinicopathologic characteristics were retrospectively investigated .
+Treatment-related deaths occurred in 7 ( 10% ) : none in R0 , 3 ( 8% ) in R1/2 , 3 ( 60% ) in bypass , and 1 ( 17% ) in stoma group .
+Swallowing was improved in 50 ( 70% ) patients : 9 ( 100% ) in R0 , 30 ( 75% ) in R1/2 , 1 ( 20% ) in bypass , 3 ( 50% ) in stoma , and 7 ( 64% ) in the nonoperation group .
+One- , two- , and three-year overall survival rates were 56% , 22% , and 22% in the R0 group and 35% , 19% and 6% in the R1/2 group , respectively ( p = 0.19 ) .
+In the bypass , stoma , and nonoperation groups , none survived 1.6 years .
+The factors influencing the survival rate of the 49 patients undergoing esophagectomy were grade of lymph node metastasis , amount of perioperative blood transfusion , lymph vessel , and blood vessel invasion .
+Among these , independent prognostic factors for survival were amount of blood transfusion ( -6 units vs. -7 units , p <0.0001 ) and grade of lymph node metastasis [ none- or peritumoral [ lymph nodes adjacent to the main tumor or at a nearby location ( <3 cm ) from the tumor ] metastasis vs. more distant metastasis [ lymph nodes at a distant location ( > 3 cm) ] , p = 0.016 ] .
+Bypass and stoma operation neither prolonged the survival nor improved the difficulty of swallowing compared with radiochemotherapy alone .
+Esophagectomy can achieve the best improvement of swallowing and the longest survival with an acceptable mortality rate .
+Esophageal carcinoma patients with T4 disease and distinct metastasis in the lymph nodes at a distant location ( >3 cm ) from the primary tumor may not benefit from an esophageal resection .

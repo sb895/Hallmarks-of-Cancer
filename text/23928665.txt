@@ -1,0 +1,12 @@
+CONTEXT Papillary thyroid carcinoma ( PTC ) is the most frequent thyroid tumor and is responsible for the overall increase in thyroid cancer incidence .
+S100A11 ( calgizzarin ) , a member of the S100 Ca(2+)-binding protein family , is involved in several different biological processes .
+S100A11 has been found up-regulated in PTC , both at the mRNA and protein levels .
+OBJECTIVE Through a combination of expression analysis and functional in vitro and in vivo studies , we have attempted to gain insight into the relevance of S100A11 overexpression in PTC biology .
+DESIGN The expression of the S100A11 gene in PTC was investigated in several gene expression data sets .
+The effect of S100A11 silencing on the hallmarks of the malignant phenotype of several PTC-derived cell lines was investigated .
+In NIH3T3 cells , the cooperation of S100A11 with the different PTC-specific oncogenes was assessed .
+RESULTS We found that the S100A11 gene expression is frequently up-regulated in PTC , anaplastic thyroid carcinoma , but not in follicular thyroid carcinoma .
+S100A11 overexpression was also detected in PTC-derived cell lines , which were then used for functional studies .
+S100A11 silencing in PTC-derived cell lines did not affect cell proliferation , whereas it reduced the loss of contact inhibition , anchorage-independent growth , and resistance to anoikis .
+Cotransfection experiments in NIH3T3 cells showed that overexpression of the S100A11 gene was able to enhance the transforming capabilities of the different PTC-associated oncogenes by affecting the loss of contact inhibition , anchorage-independent growth , and in vivo tumor formation .
+CONCLUSION Our data indicate that S100A11 overexpression exerts a protumoral functional role in PTC pathogenesis .

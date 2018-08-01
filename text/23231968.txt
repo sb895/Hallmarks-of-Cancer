@@ -1,0 +1,11 @@
+Bigelovin is a sesquiterpene lactone isolated from the plant Inula helianthus-aquatica which was traditionally used in cancer treatment in Yunnan , China .
+The potent apoptotic activities of bigelovin in human leukemia U937 cells were shown in our previous study .
+The present study investigated the anti-angiogenic and immunomodulatory effects of bigelovin using transgenic zebrafish Tg(fli1a:EGFP)y1 with fluorescent blood vessels and human peripheral blood mononuclear cells ( PBMCs ) , respectively .
+Furthermore , the inhibitory activities of bigelovin on the human endothelial cell adhesion molecules ( CAMs ) were also examined .
+Our results showed that the growth of subintestinal vessels of the bigelovin-treated zebrafish embryos was significantly inhibited and the gene expressions in angiogenesis signaling pathways ( e.g .
+Ang2 and Tie2 ) of the zebrafish were down-regulated after bigelovin treatment .
+Besides , the proliferation and Th1 cytokines productions ( e.g .
+IFN-γ , IL-2 and IL-12 ) were suppressed in bigelovin-treated PBMCs .
+On the other hand , bigelovin was shown to significantly inhibit the human monocyte adhesion to human endothelial cells and the gene expressions of inflammation-related CAMs ( e.g .
+ICAM-1 , VCAM-1 and E-selectin ) were significantly down-regulated in bigelovin-treated human endothelial cells .
+In summary , our data provide the first evidence that bigelovin possesses anti-angiogenic and immunomodulatory activities , suggesting bigelovin may exert multi-target functions against cancer in animal models .

@@ -1,0 +1,10 @@
+Radiotherapy is commonly used for cancer treatment .
+However , it often results in side effects due to radiation damage in normal tissue , such as bone marrow ( BM ) failure .
+Adult hematopoietic stem and progenitor cells ( HSPC ) reside in BM next to the endosteal bone surface , which is lined primarily by hematopoietic niche osteoblastic cells .
+Osteoblasts are relatively more radiation-resistant than HSPCs , but the mechanisms are not well understood .
+In the present study , we demonstrated that the stress response gene REDD1 ( regulated in development and DNA damage responses 1 ) was highly expressed in human osteoblast cell line ( hFOB ) cells after \u03b3 irradiation .
+Knockdown of REDD1 with siRNA resulted in a decrease in hFOB cell numbers , whereas transfection of PCMV6-AC-GFP-REDD1 plasmid DNA into hFOB cells inhibited mammalian target of rapamycin ( mTOR ) and p21 expression and protected these cells from radiation-induced premature senescence ( PS ) .
+The PS in irradiated hFOB cells were characterized by significant inhibition of clonogenicity , activation of senescence biomarker SA-\u03b2-gal , and the senescence-associated cytokine secretory phenotype ( SASP ) after 4 or 8 Gy irradiation .
+Immunoprecipitation assays demonstrated that the stress response proteins p53 and nuclear factor \u03ba B ( NFkB ) interacted with REDD1 in hFOB cells .
+Knockdown of NFkB or p53 gene dramatically suppressed REDD1 protein expression in these cells , indicating that REDD1 was regulated by both factors .
+Our data demonstrated that REDD1 is a protective factor in radiation-induced osteoblast cell premature senescence .

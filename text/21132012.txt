@@ -1,0 +1,7 @@
+Monoclonal antibodies ( mAbs ) to HER2 are currently used to treat breast cancer , but low clinical efficacy , along with primary and acquired resistance to therapy , commonly limit clinical applications .
+We previously reported that combinations of antibodies directed at non-overlapping epitopes of HER2 are endowed with enhanced antitumor effects , probably due to accelerated receptor degradation .
+Here , we extend these observations to three-dimensional mammary cell models , and compare the effects of single mAbs with the effects of antibody combinations .
+Collectively , our in vitro assays and computational image analyses indicate that combining mAbs against different epitopes of HER2 better inhibits invasive growth .
+Importantly , while growth factors are able to reduce intraluminal apoptosis and induce an invasive phenotype , combinations of mAbs better than single mAbs can reverse the growth factor-induced phenotypes of HER2-overexpressing spheroids .
+In conclusion , our studies propose that mAb combinations negate the biological effects of growth factors on invasive growth of HER2-overexpressing cells .
+Hence , combining mAbs offers a therapeutic strategy , potentially able to enhance clinical efficacy of existing antireceptor immunotherapeutics .

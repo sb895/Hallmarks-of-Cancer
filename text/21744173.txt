@@ -1,0 +1,8 @@
+PURPOSE To investigate the in vitro release of octreotide acetate , a somatostatin agonist , from microspheres based on a hydrophilic polyester , poly(D,L-lactide-co-hydroxymethyl glycolide ) ( PLHMGA ) .
+METHODS Spherical and non-porous octreotide-loaded PLHMGA microspheres ( 12 to 16\u03bcm ) and loading efficiency of 60-70% were prepared by a solvent evaporation .
+Octreotide release profiles were compared with commercial PLGA formulation ( Sandostatin LAR(®) ) ; possible peptide modification with lactic , glycolic and hydroxymethyl glycolic acid units was monitored .
+RESULTS PLHMGA microspheres showed burst release ( followed by sustained release for 20-60days , depending on the hydrophilicity of the polymer .
+Percentage of released loaded peptide was high ( 70-90% ) ; >\u200960% of released peptide was native octreotide .
+PLGA microspheres did not show peptide release for the first 10days , after which it was released in a sustained manner over the next 90days ; >\u200975% of released peptides were acylated adducts .
+CONCLUSIONS PLHMGA microspheres are promising controlled systems for peptides with excellent control over release kinetics .
+Moreover , substantially less peptide modification occurred in PLHMGA than in PLGA microspheres .

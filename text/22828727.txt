@@ -1,0 +1,8 @@
+Chemoresistance represents a major obstacle to successful treatment for malignant glioma with temozolomide .
+N ( 7)-methyl-G and N ( 3)-methyl-A adducts comprise more than 80% of DNA lesions induced by temozolomide and are processed by the base excision repair , suggesting that the cellular resistance could be caused , in part , by this efficient repair pathway , although few studies have focused on this subject .
+The aim of this study was to evaluate the cellular responses to temozolomide treatment associated with methoxyamine ( blocker of base excision repair ) in glioblastoma cell lines , in order to test the hypothesis that the blockage of base excision repair pathway might sensitize glioblastoma cells to temozolomide .
+For all the tested cell lines , only T98G showed significant differences between temozolomide and temozolomide plus methoxyamine treatment , observed by reduced survival rates , enhanced the levels of DNA damage , and induced an arrest at G2-phase .
+In addition , of apoptotic cells ( sub-G1 fraction ) were observed at 48h .
+Western blot analysis demonstrated that APE1 and FEN1 presented a slightly reduced expression levels under the combined treatment , probably due to AP sites blockade by methoxyamine , thus causing a minor requirement of base excision repair pathway downstream to the AP removal by APE1 .
+On the other hand , PCNA expression in temozolomide plus methoxyamine-treated cells does not rule out the possibility that such alteration might be related to the blockage of cell cycle ( G2-phase ) , as observed at 24h of recovery time .
+The results obtained in the present study demonstrated the efficiency of methoxyamine to overcome glioblastoma resistance to temozolomide treatment .

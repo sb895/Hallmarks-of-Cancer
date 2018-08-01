@@ -1,0 +1,5 @@
+Histone H3 methylation at lysine 4 ( K4 ) is associated with euchromatic regions and is thought to be important for the transcriptional activation of genes during differentiation .
+In this study , we found that di- and tri-methylation of histone H3 at K4 and acetylation of histones H3 and H4 from the promoter/enhancer to the transcribed region close to the transcription initiation site of the solute carrier family 2 , member 5 ( SLC2A5 ) gene , and its expression , were induced by differentiation of intestine-like Caco-2 cells .
+These effects were accompanied by contact inhibition of cell growth of these cells .
+Furthermore , these modifications were induced by co-treatment with a synthetic glucocorticoid hormone dexamethasone and a p44/42 mitogen-activated protein kinase inhibitor PD89059 .
+Our results suggest that methylation of histone H3 at K4 and acetylation of histones H3 and H4 are involved in SLC2A5 gene induction associated with intestinal differentiation of Caco-2 cells .

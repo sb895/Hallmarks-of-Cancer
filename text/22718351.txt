@@ -1,0 +1,10 @@
+Contact inhibition of locomotion ( CIL ) is the process by which cells stop the continual migration in the same direction after collision with another cell .
+Highly invasive malignant cells exhibit diminished CIL when they contact stromal cells , which allows invasion of the tissue by tumors .
+We show that Nm23-H1 is essential for the suppression of Rac1 through inactivation of Tiam1 at the sites of cell-cell contact , which plays a pivotal role in CIL .
+U87MG cells show CIL when they contact normal glia .
+In spheroid confrontation assays U87MG cells showed only limited invasion of the glial population , but reduction of Nm23-H1 expression in U87MG cells abrogated CIL resulting in invasion .
+In U87MG cells , Nm23-H1 is translocated to the sites of contact with glia through association with \u03b1-catenin and N-cadherin .
+Mutants of Nm23-H1 , which lacked the binding ability with Tiam1 , or \u03b1-catenin did not restore CIL .
+Moreover , the expression of ephrin-B1 in tumor cells disrupted CIL and promoted invasion .
+As one mechanism , ephrin-B1 inhibits the association of Nm23-H1 with Tiam1 , which contributes for activation of Rac1 .
+These results indicate a novel function of Nm23-H1 to control CIL , and its negative regulation by ephrin-B1 .

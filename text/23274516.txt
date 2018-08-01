@@ -1,0 +1,7 @@
+Compound C , a well-known inhibitor of the intracellular energy sensor AMP-activated protein kinase ( AMPK ) , has been reported to cause apoptotic cell death in myeloma , breast cancer cells and glioma cells .
+In this study , we have demonstrated that compound C not only induced autophagy in all tested skin cancer cell lines but also caused more apoptosis in p53 wildtype skin cancer cells than in p53-mutant skin cancer cells .
+Compound C can induce upregulation , phosphorylation and nuclear translocalization of the p53 protein and upregulate expression of p53 target genes in wildtype p53-expressing skin basal cell carcinoma ( BCC ) cells .
+The changes of p53 status were dependent on DNA damage which was caused by compound C induced reactive oxygen species ( ROS ) generation and associated with activated ataxia-telangiectasia mutated ( ATM ) protein .
+Using the wildtype p53-expressing BCC cells versus stable p53-knockdown BCC sublines , we present evidence that p53-knockdown cancer cells were much less sensitive to compound C treatment with significant G2/M cell cycle arrest and attenuated the compound C-induced apoptosis but not autophagy .
+The compound C induced G2/M arrest in p53-knockdown BCC cells was associated with the sustained inactive Tyr15 phosphor-Cdc2 expression .
+Overall , our results established that compound C-induced apoptosis in skin cancer cells was dependent on the cell's p53 status .

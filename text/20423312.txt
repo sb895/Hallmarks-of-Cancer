@@ -1,0 +1,7 @@
+Among several types of DNA lesions , the DNA double strand breaks ( DSBs ) are one of the most deleterious and harmful .
+Mammalian cells mount a coordinated response to DSBs with the aim of appropriately repair the DNA damage .
+Indeed , failure of the DNA damage response ( DDR ) can lead to the development of cancer-prone genetic diseases .
+The identification and development of drugs targeting proteins involved in the DDR is even more investigated , as it gives the possibility to specifically target cancer cells .
+Indeed , the administration of DNA repair inhibitors could be combined with chemo- and radiotherapy , thus improving the eradication of tumor cells .
+Here , we provide an overview about DSBs damage response , focusing on the role of the DSBs repair mechanisms , of chromatin modifications , and of the cancer susceptibility gene BRCA1 which plays a multifunctional role in controlling genome integrity .
+Moreover , the most investigated DSBs enzyme inhibitors tested as potential therapeutic agents for anti-cancer therapy are reported .

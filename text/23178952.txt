@@ -1,0 +1,13 @@
+PURPOSE : Previous studies have shown that the novel microtubule poison , JG-03-14 , which binds to the colchicine binding site of tubulin , has the capacity to kill breast tumor cells primarily through the promotion of autophagy .
+The current work was designed to determine whether autophagy was , in fact , the primary mode of action as well as susceptibility to JG-03-14 in two additional tumor cell models , the B16/F10 murine melanoma cell line and the HCT-116 human colon cancer cell line .
+METHODS : Drug cytotoxicity was monitored based on viable cell number and clonogenic survival .
+Apoptosis was assessed by DAPI staining , the TUNEL assay and/or FACS analysis .
+Autophagy was monitored based on staining with acridine orange , redistribution and punctuation of RFP-LC3 and electron microscopy as well as p62 degradation .
+Senescence was evaluated based on β-galactosidase staining and alterations in cell morphology .
+Drug effects were also evaluated in a murine model of B16/F10 cells that localizes to the lungs while peripheral neuropathy was assessed by three complementary behavioral assays .
+RESULTS : Both HCT-116 colon cancer cells and B16/F10 melanoma cells were sensitive to JG-03-14 in that the drug demonstrated tumor cell killing .
+However , there was minimal induction of apoptosis .
+In contrast , there was clear evidence for autophagy and autophagic flux while the residual surviving cells appeared to be in a state of irreversible senescence .
+Inhibition of drug-induced autophagy in either the melanoma cells or the colon carcinoma cells was only slightly protective as the cells instead died by apoptosis .
+JG-03-14 reduced the size of tumor nodules in mice lungs ; furthermore , the drug did not promote peripheral neuropathy .
+CONCLUSIONS : Taken together with evidence for its actions as a vascular disrupting agent , these observations support the potential utility of JG-03-14 to effectively treat malignancies that might be resistant to conventional chemotherapy through evasion of apoptosis .

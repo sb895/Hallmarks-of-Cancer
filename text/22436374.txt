@@ -1,0 +1,19 @@
+BACKGROUND The epidermal growth factor receptor ( EGFR ) is a validated therapeutic target in non-small cell lung cancer ( NSCLC ) .
+However , current single agent receptor targeting does not achieve a maximal therapeutic effect , and some mutations confer resistance to current available agents .
+In the current study we have examined , in different NSCLC cell lines , the combined effect of RNA interference targeting the EGFR mRNA , and inactivation of EGFR signaling using different receptor tyrosine kinase inhibitors ( TKIs ) or a monoclonal antibody cetuximab .
+METHODS NSCLC cells ( cell lines HCC827 , H292 , H358 , H1650 , and H1975 ) were transfected with EGFR siRNA and/or treated with the TKIs gefitinib , erlotinib , and afatinib , and/or with the monoclonal antibody cetuximab .
+The reduction of EGFR mRNA expression was measured by real-time quantitative RT-PCR .
+The down-regulation of EGFR protein expression was measured by western blot , and the proliferation , viability , caspase3/7 activity , and apoptotic morphology were monitored by spectrophotometry , fluorimetry , and fluorescence microscopy .
+The combined effect of EGFR siRNA and different drugs was evaluated using a combination index .
+RESULTS EGFR-specific siRNA strongly inhibited EGFR protein expression almost equally in all cell lines and inhibited cell growth and induced cell apoptosis in all NSCLC cell lines studied , albeit with a different magnitude .
+The effects on growth obtained with siRNA was strikingly different from the effects obtained with TKIs .
+The effects of siRNA probably correlate with the overall oncogenic significance of the receptor , which is only partly inhibited by the TKIs .
+The cells which showed weak response to TKIs , such as the H1975 cell line containing the T790M resistance mutation , were found to be responsive to siRNA knockdown of EGFR , as were cell lines with downstream TKI resistance mutations .
+The cell line HCC827 , harboring an exon 19 deletion mutation , was more than 10-fold more sensitive to TKI proliferation inhibition and apoptosis induction than any of the other cell lines .
+Cetuximab alone had no relevant in vitro activity at concentrations obtainable in the clinic .
+The addition of EGFR siRNA to either TKIs or cetuximab additively enhanced growth inhibition and induction of apoptosis in all five cell lines , independent of the EGFR mutation status ( wild-type or sensitizing mutation or resistant mutation ) .
+The strongest biological effect was observed when afatinib was combined with an EGFR-specific siRNA .
+CONCLUSIONS EGFR knockdown by siRNA further decreases the cell growth of lung cancer cells that are treated with TKIs or cetuximab alone , confirming that single agent drug targeting does not achieve a maximal biological effect .
+The siRNA inhibits EGFR oncogenic activity that bypasses downstream " resistance " mutations such as KRAS and PTEN .
+The combined treatment of siRNA and EGFR inhibitory agents is additive .
+The combination of a potent , irreversible kinase inhibitor such as afatinib , with EGFR-specific siRNAs should be further investigated as a new strategy in the treatment of lung cancer and other EGFR dependent cancers , including those with downstream resistance mutations .

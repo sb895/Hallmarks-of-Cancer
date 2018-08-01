@@ -1,0 +1,11 @@
+An epithelial cell line , referred to as A163 , was established from breast carcinoma derived from a patient with a strong family history of breast cancer but no known breast cancer susceptibility mutation .
+A163 was propagated in a serum-free culture medium including the epidermal growth factor .
+Immunophenotypic characterization demonstrated a mixed luminal and basal-like phenotype .
+When epidermal growth factor was excluded from the culture medium , A163 entered a quiescent period followed by a period of increased cell proliferation in a subpopulation of the cells .
+The epidermal growth factor-independent subpopulation retained the basal-like phenotype of the parental cell line .
+Karyotype and fluorescent in situ hybridization analysis showed an amplification of epidermal growth factor receptor on 7q in A163-S1 only , resulting in high expression of total and phosphorylated epidermal growth factor receptor .
+The A163-S1 sub-line piles up in culture , indicating a loss of contact inhibition .
+When grown on transwell filters , A163 shows basal expression of P63 and cytokeratin 14 , whereas A163-S1 expresses P63 ubiquitously , and has lost the basal specific expression of cytokeratin 14 , indicating a loss of polarity .
+Furthermore , when cultured in reconstituted basement membrane matrix , A163 form polarized normal like acini .
+In contrast , A163-S1 form large disorganized structures with lack of polarity .
+These cell lines may prove useful to understand molecular changes in breast cancer progression , in particular basal-like breast cancer subtype with bad prognosis and no current treatment options .

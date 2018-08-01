@@ -1,0 +1,15 @@
+Heparin-binding epidermal growth factor-like growth factor ( HB-EGF ) is a member of the epidermal growth factor family and has a variety of physiological and pathological functions .
+Modulation of HB-EGF activity might have a therapeutic potential in the oncology area .
+We explored the therapeutic possibilities by characterizing the in vitro biological activity of anti-HB-EGF monoclonal antibody Y-142 .
+EGF receptor ( EGFR ) ligand and species specificities of Y-142 were tested .
+Neutralizing activities of Y-142 against HB-EGF were evaluated in EGFR and ERBB4 signaling .
+Biological activities of Y-142 were assessed in cancer cell proliferation and angiogenesis assays and compared with the anti-EGFR antibody cetuximab , the HB-EGF inhibitor CRM197 , and the anti-vascular endothelial growth factor ( VEGF ) antibody bevacizumab .
+The binding epitope was determined with alanine scanning .
+Y-142 recognized HB-EGF as well as the EGFR ligand amphiregulin , and bound specifically to human HB-EGF , but not to rodent HB-EGF .
+In addition , Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and ERBB4 , and blocked their downstream ERK1/2 and AKT signaling .
+We also found that Y-142 inhibited HB-EGF-induced cancer cell proliferation , endothelial cell proliferation , tube formation , and VEGF production more effectively than cetuximab and CRM197 and that Y-142 was superior to bevacizumab in the inhibition of HB-EGF-induced tube formation .
+Six amino acids in the EGF-like domain were identified as the Y-142 binding epitope .
+Among the six amino acids , the combination of F115 and Y123 determined the amphiregulin cross-reactivity and that F115 accounted for the species selectivity .
+Furthermore , it was suggested that the potent neutralizing activity of Y-142 was derived from its recognition of R142 and Y123 and its high affinity to HB-EGF .
+Y-142 has a potent HB-EGF neutralizing activity that modulates multiple biological activities of HB-EGF including cancer cell proliferation and angiogenic activities .
+Y-142 may have a potential to be developed into a therapeutic agent for the treatment of HB-EGF-dependent cancers .

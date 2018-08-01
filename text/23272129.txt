@@ -1,0 +1,10 @@
+Human CD93 , an epidermal growth factor ( EGF)-like domain containing transmembrane protein , is predominantly expressed in the vascular endothelium .
+Studies have shown that AA4 , the homolog of CD93 in mice , may mediate cell migration and angiogenesis in endothelial cells .
+Soluble CD93 has been detected in the plasma of healthy individuals .
+However , the role of soluble CD93 in the endothelium remains unclear .
+Recombinant soluble CD93 proteins with EGF-like domains ( rCD93D123 , with domains 1 , 2 , and 3 ; and rCD93D23 , with domains 2 and 3 ) were generated to determine their functions in angiogenesis .
+We found that rCD93D23 was more potent than rCD93D123 in stimulating the proliferation and migration of human umbilical vein endothelial cells ( HUVECs ) .
+Production of matrix-metalloproteinase 2 increased after the HUVECs were treated with rCD93D23 .
+Further , in a tube formation assay , rCD93D23 induced cell differentiation of HUVECs through phosphoinositide 3-kinase/Akt/endothelial nitric oxide synthase and extracellular signal-regulated kinases-1/2 signaling .
+Moreover , rCD93D23 promoted blood vessel formation in a Matrigel-plug assay and an oxygen-induced retinopathy model in vivo .
+Our findings suggest that the soluble EGF-like domain containing CD93 protein is a novel angiogenic factor acting on the endothelium .

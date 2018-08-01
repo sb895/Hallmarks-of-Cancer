@@ -1,0 +1,14 @@
+ABSTRACT : INTRODUCTION : Tumor cell migration and invasion are critical initiation steps in the process of breast cancer metastasis , the primary cause of breast cancer morbidity and death .
+Here we investigated the role of p21Cip1 ( p21 ) , a member of the core cell cycle machinery , in transforming growth factor-beta ( TGFβ)-mediated breast cancer cell migration and invasion .
+METHODS : A mammary fat pad xenograft mouse model was used to assess the mammary tumor growth and local invasion .
+The triple negative human breast cancer cell lines MDA-MB231 and its sub-progenies SCP2 and SCP25 , SUM159PT , SUM149PT , SUM229PE and SUM1315MO2 were treated with 5 ng/ml TGFβ and the protein expression levels were measured by Western blot .
+Cell migration and invasion were examined using the scratch/wound healing and Transwell assay .
+TGFβ transcriptional activity was measured by a TGFβ/Smad reporter construct ( CAGA12-luc ) using luciferase assay. q-PCR was used for assessing TGFβ downstream target genes .
+The interactions among p21 , p/CAF and Smad3 were performed by co-immunoprecipitation .
+In addition , Smad3 on DNA binding ability was measured by DNA immunoprecipitation using biotinylated Smad binding element DNA probes .
+Finally , the association among active TGFβ/Smad signaling , p21 and p/CAF with lymph node metastasis was examined by immunohistochemistry in tissue microarray containing 50 invasive ductal breast tumors , 25 of which are lymph node positive .
+RESULTS : We found p21 expression to correlate with poor overall and distant metastasis free survival in breast cancer patients .
+Furthermore , using xenograft animal models and in vitro studies , we found p21 to be essential for tumor cell invasion .
+The invasive effects of p21 were found to correlate with Smad3 , and p/CAF interaction downstream of TGFβ. p21 and p/CAF regulates TGFβ-mediated transcription of pro-metastatic genes by controlling Smad3 acetylation , DNA binding and transcriptional activity .
+In addition , we found that active TGFβ/Smad signaling correlates with high p21 and p/CAF expression levels and lymph node involvement using tissue microarrays from breast cancer patients .
+CONCLUSIONS : Together these results highlight an important role for p21 and p/CAF in promoting breast cancer cell migration and invasion at the transcriptional level and may open new avenues for breast cancer therapy .

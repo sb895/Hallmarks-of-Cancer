@@ -1,0 +1,7 @@
+Diarylquinoline compounds are newly synthesized derivatives of the new anti-tuberculosis drug , TMC207 .
+In this study , nine diarylquinoline compounds were screened for cytotoxic activity against human tumor cells , and their mechanisms of action were investigated .
+Among the nine compounds , STM-57 [ N-((6-bromo-2-methoxyquinolin-3-yl)(phenyl)methl)-N-(3,4-dichlorophenyl)-3-(4 -methylpiperazin-1-yl)propanamide ] showed potent cytotoxic activity .
+STM-57 induced caspase-independent cell death in the human nasopharyngeal carcinoma cell line , CNE-2 .
+Further investigation showed that STM-57 induced autophagy , as determined with the increased expression of green fluorescent protein-light chain3 ( GFP-LC3 ) and increased LC3-II levels .
+STM-57 inhibited the phosphorylation of Akt and the mammalian target of rapamycin ( mTOR ) in CNE-2 cells .
+The intracellular calcium concentration and reactive oxygen species levels were increased in CNE-2 cells following treatment with STM-57 , whereas the mitochondrial transmembrane potential ( ΔΨm ) and ATP concentrations were decreased .

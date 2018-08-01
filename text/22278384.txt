@@ -1,0 +1,10 @@
+Cisplatin-based chemotherapy frequently resulted in acquired resistance of cancer cells .
+The underlying mechanism of such resistance is not fully understood especially the involvement of autophagy and autophagic cell death .
+This study thus investigated whether an alteration in autophagy could be responsible for cisplatin resistance in the long-term exposure lung carcinoma cells .
+The cisplatin resistant clone ( H460/cis ) of H460 cells was established by exposing the cells with gradually increasing concentrations of cisplatin until chemoresistance acquisition was elucidated by MTT , Hoechst 33342 staining and comet assays .
+Degree of autophagosome formation and level of LC3 marker were evaluated by acridine orange and western blot analysis , respectively .
+H460/cis cells exhibited irregular shape with resistant to cisplatin-induced apoptosis compared with H460 cells .
+Proteins analysis for LC3 indicated that the levels of LC3 in resistant cells were significantly lower than those in H460 cells .
+Moreover , autophagosome formation detected by acridine orange staining was dramatically reduced in the resistant cells , suggesting the role of autophagy in attenuating of cisplatin-induced cell death .
+Further , co-treatment of cisplatin with autophagy inducer , trifluorperazine , could resensitize H460/cis cells to cisplatin-induced cell death .
+Our findings reveal the novel mechanisms causing cisplatin resistance in lung carcinoma cells after long-term drug exposure regarding autophagy .

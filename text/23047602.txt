@@ -1,0 +1,7 @@
+Here , we identified the milk protein α-casein as a novel suppressor of tumor growth and metastasis .
+Briefly , Met-1 mammary tumor cells expressing α-casein showed a reduction in tumor growth and a near 10-fold decrease in experimental metastasis .
+To identify the molecular mechanism(s) , we performed genome-wide transcriptional profiling .
+Interestingly , our results show that α-casein upregulates gene transcripts associated with interferon/STAT1 signaling and downregulates genes associated with " stemness. "
+These findings were validated by immunoblot and FACS analysis , which showed the upregulation and hyperactivation of STAT1 and a decrease in the number of CD44(+) " cancer stem cells. "
+These gene signatures were also able to predict clinical outcome in human breast cancer patients .
+Thus , we conclude that a lactation-based therapeutic strategy using recombinant α-casein would provide a more natural and non-toxic approach to the development of novel anticancer therapies .

@@ -1,0 +1,11 @@
+Inflammatory responses and associated products have been implicated in cancer metastasis .
+However , the relationship between these two processes is uncertain due to the lack of a suitable model .
+Taking advantage of localized and controllable inflammatory responses induced by biomaterial implantation and the capability of tissue scaffolds to release a wide variety of chemokines , we report a novel system for studying the molecular mechanisms of inflammation-mediated cancer metastasis .
+The animal model is comprised of an initial subcutaneous implantation of biomaterial microspheres which prompt localized inflammatory responses , followed by the transplantation of metastatic cancer cells into the peritoneal cavity or blood circulation .
+Histological results demonstrated that substantial numbers of B16F10 cells were recruited to the site nearby biomaterial implants .
+There was a strong correlation between the degree of biomaterial-mediated inflammatory responses and number of recruited cancer cells .
+Inflammation-mediated cancer cell migration was inhibited by small molecule inhibitors of CXCR4 but not by neutralizing antibody against CCL21 .
+Using chemokine-releasing scaffolds , further studies were carried out to explore the possibility of enhancing cancer cell recruitment .
+Interestingly , erythropoietin ( EPO ) releasing scaffolds , but not stromal cell-derived factor-1α-releasing scaffolds , were found to accumulate substantially more melanoma cells than controls .
+Rather unexpectedly , perhaps by indirectly reducing circulating cancer cells , mice implanted with EPO-releasing scaffolds had longer life span than other groups .
+These results suggest that chemokine-releasing scaffolds may potentially function as implantable cancer traps and serve as powerful tools for studying cancer distraction and even selective annihilation of circulating metastatic cancer cells .

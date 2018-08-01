@@ -1,0 +1,9 @@
+The DNA repair protein Ku70 is a key player in chemoresistance to anticancer agents ( e.g. , etoposide ) or radioresistance .
+The responses of different organs to radiation vary widely and likely depend on the cell population in the organs .
+Previously , we established and characterized Ku70-deficient murine lung epithelial ( Ku70 -/- MLE ) cells and found that these cells are more sensitive than Ku70 +/- MLE cells ( control cells ) to X-irradiation , as determined by clonogenic survival assay ; however , the mechanism underlying this sensitivity remains unclear .
+In this study , we examined the mechanism by which X-irradiation triggers the death of Ku70 -/- MLE cells .
+Our results showed that Ku70 -/- MLE cells were more sensitive to radiation-induced apoptosis than control cells , although X-irradiation activated caspase-3 and caspase-7 , and cleaved PARP in both cell lines .
+We also examined the expression level of phosphorylated H2AX ( \u03b3H2AX ) , which is a marker of DSB , and observed the phosphorylation of H2AX and the elimination of \u03b3H2AX in both cell lines after X-irradiation .
+The elimination in Ku70 -/- MLE cells was slower than that in control cells , suggesting that DSB repair activity in the Ku70 -/- MLE cells is lower than that in control cells .
+These findings suggest that Ku70 might play a key role in the inhibition of apoptosis through the DSB repair pathway in lung epithelial cells .
+Our findings also suggest that these cell lines might be useful for the study of Ku70 functions and the Ku70-dependent DSB repair pathway in lung epithelial cells .

@@ -1,0 +1,10 @@
+The aim of the present study was to isolate endothelial cells from tooth buds ( unerupted deciduous teeth ) of miniature swine .
+Mandibular molar tooth buds harvested from swine fetuses at fetal days90-110 were cultured in growth medium supplemented with 15% fetal bovine serum in 100-mm culture dishes until the primary cells outgrown from the tooth buds reached confluence .
+A morphologically defined set of pavement-shaped primary cells were picked up manually with filter paper containing trypsin/ethylenediamine tetraacetic acid solution and transferred to a separate dish .
+A characterization of the cellular characteristics and a functional analysis of the cultured cells at passages 3 to 5 were performed using immunofluorescence , a reverse transcriptase polymerase chain reaction assay , a tube formation assay , and transmission electron microscopy .
+The isolated cells grew in a pavement arrangement and showed the characteristics of contact inhibition upon reaching confluence .
+The population doubling time was at passage 3 .
+As shown by immunocytostaining and western blotting with specific antibodies , the cells produced the endothelial marker proteins such as vascular endothelial cadherin , von Willebrand factor , and vascular endothelial growth factor receptor-2 .
+Observation with time-lapse images showed that small groups of cells aggregated and adhered to each other to form tube-like structures .
+Moreover , as revealed through transmission electron microscopy , these adherent cells had formed junctional complexes .
+These endothelial cells from the tooth buds of miniature swine are available as cell lines for studies on tube formation and use in regenerative medical science .

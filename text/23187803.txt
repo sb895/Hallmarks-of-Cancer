@@ -1,0 +1,11 @@
+When the cell cycle is arrested , even though growth-promoting pathways such as mTOR are still active , then cells senesce .
+For example , induction of either p21 or p16 arrests the cell cycle without inhibiting mTOR , which , in turn , converts p21/p16-induced arrest into senescence ( geroconversion ) .
+Here we show that geroconversion is accompanied by dramatic accumulation of cyclin D1 followed by cyclin E and replicative stress .
+When p21 was switched off , senescent cells ( despite their loss of proliferative potential ) progressed through S phase , and levels of cyclins D1 and E dropped .
+Most cells entered mitosis and then died , either during mitotic arrest or after mitotic slippage , or underwent endoreduplication .
+Next , we investigated whether inhibition of mTOR would prevent accumulation of cyclins and loss of mitotic competence in p21-arrested cells .
+Both nutlin-3 , which inhibits mTOR in these cells , and rapamycin suppressed geroconversion during p21-induced arrest , decelerated accumulation of cyclins D1 and E and decreased replicative stress .
+When p21 was switched off , cells successfully progressed through both S phase and mitosis .
+Also , senescent mouse embryonic fibroblasts ( MEFs ) overexpressed cyclin D1 .
+After release from cell cycle arrest , senescent MEFs entered S phase but could not undergo mitosis and did not proliferate .
+We conclude that cellular senescence is characterized by futile hyper-mitogenic drive associated with mTOR-dependent mitotic incompetence .

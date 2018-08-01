@@ -1,0 +1,15 @@
+Background .
+Multiple myeloma ( MM ) , an almost incurable disease , is the second most common blood cancer .
+Initial chemotherapeutic treatment could be successful ; however , resistance development urges the use of higher toxic doses accompanied by hematopoietic stem cell transplantation .
+The establishment of more effective treatments that can overcome or circumvent chemoresistance has become a priority .
+We recently demonstrated that venom extracted from Walterinnesia aegyptia ( WEV ) either alone or in combination with silica nanoparticles ( WEV+NPs ) mediated the growth arrest and apoptosis of prostate cancer cells .
+In the present study , we evaluated the impact of WEV alone and WEV+NP on proliferation and apoptosis of MM cells .
+Methods .
+The impacts of WEV alone and WEV+NP were monitored in MM cells from 70 diagnosed patients .
+The influences of WEV and WEV+NP were assessed with flow cytometry analysis .
+Results .
+WEV alone and WEV+NP decreased the viability of MM cells .
+Using a CFSE proliferation assay , we found that WEV+NP strongly inhibited MM cell proliferation .
+Furthermore , analysis of the cell cycle using the propidium iodide ( PI ) staining method indicated that WEV+NP strongly altered the cell cycle of MM cells and enhanced the induction of apoptosis .
+Conclusions .
+Our data reveal the biological effects of WEV and WEV+NP on MM cells that enable these compounds to function as effective treatments for MM .

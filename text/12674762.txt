@@ -1,0 +1,10 @@
+To investigate whether the Bcl-2 gene family is involved in modulating mechanism of apoptosis and change of cell cycle protein induced by curcumin in acute myeloid leukemia HL-60 cell line and primary acute myelogenous leukemic cells , the Bcl-2 family member Mcl-1 , Bax and Bak and cell cycle proteins including P27kipl , P21wafl , cyclin D3 and pRbp- were selected and their expression detected by SABC immuno-histochemical stain method .
+The attitude of sub-G1 peak in DNA histogram was determined by FCM .
+The TUNEL positive cell percentage was identified by terminal deoxynucleotidyl transferase ( TdT)-mediated Biotin dUNP end labeling technique .
+It was found that when HL-60 cells were treated with 25 mumol/L curcumin for 24 h , the expression level of Mcl-1 was down-regulated , but that of Bax and Bak up-regulated time-dependently .
+There was significant difference in the expression level of Mcl-1 , Bax and Bak between the curcumin-treated groups and control group ( P < 0.05-0.01 ) .
+At the same time , curcumin had no effect on progress of cell cycle in primaty acute myelogenous leukemia at newly diagnosis , but could increase the peak of Sub-G1 ( P < 0.05 ) , and down-regulate the expression of Mcl-1 and up-regulate the expression of Bax and Bak with the difference being statistically significant .
+The expression of P27kipl , P21wafl and pRbp- were elevated and that of cyclin D3 decreased in the presence of curcumin .
+These findings suggested that the Bcl-2 gene family indeed participated in the regulatory process of apoptosis induced by curcumin in HL-60 cells and AML cells .
+Curcumin can induce apoptosis of primary acute myelogenous leukemic cells and disturb cell cycle progression of HL-60 cells .
+The mechanism appeared to be mediated by perturbing G0/G1 phases checkpoints which associated with up-regulation of P27kipl , P21wafl and pRbp- expression , and down-regulation of cyclin D3 .

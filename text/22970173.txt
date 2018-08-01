@@ -1,0 +1,5 @@
+Cellular senescence can be a functional barrier to carcinogenesis .
+We hypothesized that inflammation modulates carcinogenesis through senescence and DNA damage response ( DDR ) .
+We examined the association between senescence and DDR with macrophage levels in inflammatory bowel disease ( IBD ) .
+In vitro experiments tested the ability of macrophages to induce senescence in primary cells .
+Inflammation modulating microRNAs were identified in senescence colon tissue for further investigation .

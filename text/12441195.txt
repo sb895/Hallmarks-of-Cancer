@@ -1,0 +1,7 @@
+We report the formation , detection , quantitation and structural characterization of products resulting from the adduction of deoxynucleosides ( deoxyadenosine , deoxyguanosine , deoxycytidine and 5-methyldeoxycytidine ) to the catechol estrogens ( CE ) of estrone , estradiol-17beta and estradiol-17 alpha .
+The crude products are obtained in a one-pot synthesis through oxidation of catechols to quinones and subsequent Michael-type reaction with the deoxynucleosides in acidic medium .
+In all experiments , adducts are detected by electrospray ionization mass spectrometry analysis after HPLC separation ( LC/ESI/MS(n) ) .
+The two pyrimidines deoxycytidine and 5-methyldeoxycytidine yield only CE adducts to deoxynucleosides , which correspond to stable adducts on DNA .
+For purines , the results depend on the CE ( 2,3- or 3,4-catechols ) used , the function and configuration on carbon 17 ( ketone for estrone , alcohol for alpha and beta isomers of estradiol ) , and on the purine itself ( deoxyadenosine or deoxyguanosine ) .
+Both stable adducts and deglycosylated adducts are formed , and therefore formation of stable adducts on DNA as well as the loss of purines from the DNA strands could be possible .
+MS(2) and MS(3) experiments prove to be relevant for further structural determinations , enabling in some cases the elucidation of the regiochemistry of adduction on the A and B rings of the steroid moiety .

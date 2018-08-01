@@ -1,0 +1,13 @@
+Background and Objective .
+The cell cycle is regulated by proteins at different checkpoints , and dysregulation of this cycle plays a role in carcinogenesis .
+Matrix metalloproteinases ( MMPs ) are enzymes that degrade collagen and promote tumour infiltration .
+The aim of this study was to evaluate the expression of various cell cycle regulators and MMPs and to correlate such expression with progression and recurrence in patients with stage T1 urothelial carcinoma of the bladder ( UCB ) .
+Patients and Methods .
+This population-based cohort study comprised 201 well-characterized patients with primary stage T1 urothelial carcinoma of the bladder .
+Immunohistochemistry was performed on formalin-fixed material to quantify expression of cell cycle regulators and two MMPs .
+Results .
+Normal expression of p53 and abnormal expression of MMP9 were associated with greater risk of tumour recurrence .
+Also , normal p16 expression was related to a lower risk of tumour progression .
+MMP2 , p21 , cyclin D1 , and pRb showed no significant results that could estimate progression or recurrence .
+Conclusions .
+Normal p16 expression is associated with a lower risk of tumour progression , but immunohistochemistry on cell cycle regulators and MMPs has little value in predicting the prognosis in stage T1 UCB .

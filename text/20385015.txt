@@ -1,0 +1,13 @@
+BACKGROUND Elevated levels of air pollution are associated with increased risk of lung cancer .
+Particulate matter ( PM ) contains transition metals that may potentiate neoplastic development through the induction of oxidative stress and inflammation , a lung cancer risk factor .
+Vanadium pentoxide ( V2O5 ) is a component of PM derived from fuel combustion as well as a source of occupational exposure in humans .
+In the current investigation we examined the influence of genetic background on susceptibility to V2O5-induced inflammation and evaluated whether V2O5 functions as a tumor promoter using a 2-stage ( initiation-promotion ) model of pulmonary neoplasia in mice .
+RESULTS A/J , BALB/cJ ( BALB ) , and C57BL/6J ( B6 ) mice were treated either with the initiator 3-methylcholanthrene ( MCA ; 10 microg/g ; i.p. ) or corn oil followed by 5 weekly aspirations of V2O5 or PBS and pulmonary tumors were enumerated 20 weeks following MCA treatment .
+Susceptibility to V2O5-induced pulmonary inflammation was assessed in bronchoalveolar lavage fluid ( BALF ) , and chemokines , transcription factor activity , and MAPK signaling were quantified in lung homogenates .
+We found that treatment of animals with MCA followed by V2O5 promoted lung tumors in both A/J ( 10.3 +/- 0.9 tumors/mouse ) and BALB ( 2.2 +/- 0.36 ) mice significantly above that observed with MCA/PBS or V2O5 alone ( P < 0.05 ) .
+No tumors were observed in the B6 mice in any of the experimental groups .
+Mice sensitive to tumor promotion by V2O5 were also found to be more susceptible to V2O5-induced pulmonary inflammation and hyperpermeability ( A/J>BALB>B6 ) .
+Differential strain responses in inflammation were positively associated with elevated levels of the chemokines KC and MCP-1 , higher NFkappaB and c-Fos binding activity , as well as sustained ERK1/2 activation in lung tissue .
+CONCLUSIONS In this study we demonstrate that V2O5 , an occupational and environmentally relevant metal oxide , functions as an in vivo lung tumor promoter among different inbred strains of mice .
+Further , we identified a positive relationship between tumor promotion and susceptibility to V2O5-induced pulmonary inflammation .
+These findings suggest that repeated exposures to V2O5 containing particles may augment lung carcinogenesis in susceptible individuals through oxidative stress mediated pathways .

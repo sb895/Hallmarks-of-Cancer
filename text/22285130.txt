@@ -1,0 +1,10 @@
+High-grade gliomas ( HGG ) , are the most common aggressive brain tumours in adults .
+Inhibitors targeting growth factor signalling pathways in glioma have shown a low clinical response rate .
+To accurately evaluate response to targeted therapies further in vitro studies are necessary .
+Growth factor pathway expression using epidermal growth factor receptor ( EGFR ) , mutant EGFR ( EGFRvIII ) , platelet derived growth factor receptor ( PDGFR ) , C-Kit and C-Abl together with phosphatase and tensin homolog ( PTEN ) expression and downstream activation of AKT and phosphorylated ribosomal protein S6 ( P70S6K ) was analysed in 26 primary glioma cultures treated with the tyrosine kinase inhibitors ( TKIs ) erlotinib , gefitinib and imatinib .
+Response to TKIs was assessed using 50% inhibitory concentrations ( IC(50) ) .
+Response for each culture was compared with the EGFR/PDGFR immunocytochemical pathway profile using hierarchical cluster analysis ( HCA ) and principal component analysis ( PCA ) .
+Erlotinib response was not strongly associated with high expression of the growth factor pathway components .
+PTEN expression did not correlate with response to any of the three TKIs .
+Increased EGFR expression was associated with gefitinib response ; increased PDGFR-α expression was associated with imatinib response .
+The results of this in vitro study suggest gefitinib and imatinib may have therapeutic potential in HGG tumours with a corresponding growth factor receptor expression profile .

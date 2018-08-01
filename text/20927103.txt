@@ -1,0 +1,8 @@
+Reciprocity of inflammation , oxidative stress and neovascularization is emerging as an important mechanism underlying numerous processes from tissue healing and remodelling to cancer progression .
+Whereas the mechanism of hypoxia-driven angiogenesis is well understood , the link between inflammation-induced oxidation and de novo blood vessel growth remains obscure .
+Here we show that the end products of lipid oxidation , ω-(2-carboxyethyl)pyrrole ( CEP ) and other related pyrroles , are generated during inflammation and wound healing and accumulate at high levels in ageing tissues in mice and in highly vascularized tumours in both murine and human melanoma .
+The molecular patterns of carboxyalkylpyrroles are recognized by Toll-like receptor 2 ( TLR2 ) , but not TLR4 or scavenger receptors on endothelial cells , leading to an angiogenic response that is independent of vascular endothelial growth factor .
+CEP promoted angiogenesis in hindlimb ischaemia and wound healing models through MyD88-dependent TLR2 signalling .
+Neutralization of endogenous carboxyalkylpyrroles impaired wound healing and tissue revascularization and diminished tumour angiogenesis .
+Both TLR2 and MyD88 are required for CEP-induced stimulation of Rac1 and endothelial migration .
+Taken together , these findings establish a new function of TLR2 as a sensor of oxidation-associated molecular patterns , providing a key link connecting inflammation , oxidative stress , innate immunity and angiogenesis .

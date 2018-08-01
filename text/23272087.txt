@@ -1,0 +1,7 @@
+The ATM/ATR DNA damage checkpoint functions in the maintenance of genetic stability and some missense variants of the ATM gene have been shown to confer a moderate increased risk of prostate cancer .
+However , whether inactivation of this checkpoint contributes directly to prostate specific cancer predisposition is still unknown .
+Here , we show that exposure of non-malignant prostate epithelial cells ( HPr-1AR ) to androgen led to activation of the ATM/ATR DNA damage response and induction of cellular senescence .
+Notably , knockdown of the ATM gene expression in HPr-1AR cells can promote androgen-induced TMPRSS2 : ERG rearrangement , a prostate-specific chromosome translocation frequently found in prostate cancer cells .
+Intriguingly , unlike the non-malignant prostate epithelial cells , the ATM/ATR DNA damage checkpoint appears to be defective in prostate cancer cells , since androgen treatment only induced a partial activation of the DNA damage response .
+This mechanism appears to preserve androgen induced autophosphorylation of ATM and phosphorylation of H2AX , lesion processing and repair pathway yet restrain ATM/CHK1/CHK2 and p53 signaling pathway .
+Our findings demonstrate that ATM/ATR inactivation is a crucial step in promoting androgen-induced genomic instability and prostate carcinogenesis .

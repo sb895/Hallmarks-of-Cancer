@@ -1,0 +1,12 @@
+TGF-β derived from bone fuels melanoma bone metastases by inducing tumor secretion of prometastatic factors that act on bone cells to change the skeletal microenvironment .
+Halofuginone is a plant alkaloid derivative that blocks TGF-β signaling with antiangiogenic and antiproliferative properties .
+Here , we show for the first time that halofuginone therapy decreases development and progression of bone metastasis caused by melanoma cells through the inhibition of TGF-β signaling .
+Halofuginone treatment of human melanoma cells inhibited cell proliferation , phosphorylation of SMAD proteins in response to TGF-β , and TGF-β-induced SMAD-driven transcription .
+In addition , halofuginone reduced expression of TGF-β target genes that enhance bone metastases , including PTHrP , CTGF , CXCR4 , and IL11 .
+Also , cell apoptosis was increased in response to halofuginone .
+In nude mice inoculated with 1205Lu melanoma cells , a preventive protocol with halofuginone inhibited bone metastasis .
+The beneficial effects of halofuginone treatment were comparable with those observed with other anti-TGF-β strategies , including systemic administration of SD208 , a small-molecule inhibitor of TGF-β receptor I kinase , or forced overexpression of Smad7 , a negative regulator of TGF-β signaling .
+Furthermore , mice with established bone metastases treated with halofuginone had significantly less osteolysis than mice receiving placebo assessed by radiography .
+Thus , halofuginone is also effective in reducing the progression of melanoma bone metastases .
+Moreover , halofuginone treatment reduced melanoma metastasis to the brain , showing the potential of this novel treatment against cancer metastasis .
+Cancer Res ; 72(23) ; 6247-56. �2012 AACR .

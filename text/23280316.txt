@@ -1,0 +1,12 @@
+Colorectal cancer ( CRC ) is one of the leading causes of cancer deaths in Western countries .
+A significant number of CRC patients undergoing curatively intended surgery subsequently develop recurrence and die from the disease .
+MicroRNAs ( miRNAs ) are aberrantly expressed in cancers and appear to have both diagnostic and prognostic significance .
+In this study , we identified novel miRNAs associated with recurrence of CRC , and their possible mechanism of action .
+TaqMan� Human MicroRNA Array Set v2.0 was used to profile the expression of 667 miRNAs in 14 normal colon mucosas and 46 microsatellite stable CRC tumors .
+Four miRNAs ( miR-362-3p , miR-570 , miR-148a* and miR-944 ) were expressed at a higher level in tumors from patients with no recurrence ( p < 0.015 ) , compared to tumors from patients with recurrence .
+A significant association with increased disease free survival was confirmed for miR-362-3p in a second independent cohort of 43 CRC patients , using single TaqMan� microRNA assays .
+In vitro functional analysis showed that over-expression of miR-362-3p in colon cancer cell lines reduced cell viability , and proliferation mainly due to cell cycle arrest .
+E2F1 , USF2 and PTPN1 were identified as potential miR-362-3p targets by mRNA profiling of HCT116 cells over-expressing miR-362-3p .
+Subsequently , these genes were confirmed as direct targets by Luciferase reporter assays .
+Their knockdown in vitro phenocopied the effects of miR-362-3p over-expression .
+We conclude that miR-362-3p may be a novel prognostic marker in CRC , and hypothesize that the positive effects of augmented miR-362-3p expression may in part be mediated through the targets E2F1 , USF2 and PTPN1. � 2012 Wiley Periodicals , Inc .

@@ -1,0 +1,9 @@
+The epidemiologic association between asbestos exposure and human malignant mesothelioma is well established .
+However , the molecular mechanisms linking asbestos exposure of humans and the subsequent mesothelioma formation is not well understood .
+The most frequent genetic changes found so far in human malignant mesothelioma ( HMM ) are deletions and point mutations in the tumor suppressor genes p16INK4a and NF2 .
+Whereas homozygous deletions appear to be the predominant mechanism leading to p16/CDKN2A inactivation , inactivating point mutations coupled with allelic loss mainly occur at the NF2 locus .
+In the present study , asbestos-treated human mesothelial cells ( HMC ) , SV40-transformed human mesothelial cells ( MeT-5A ) and a human mesothelioma cell line ( COLO ) were investigated for genetic changes of cell cycle genes ( cyclin D1 , p16INK4a , RB1 , CDK2 ) using multicolor fluorescence in situ hybridization ( mFISH ) in interphase cells .
+The results show that cyclin D1 is unaffected in all investigated cells .
+The p16INK4a gene locus was shown to be mutated in COLO cells but not in HMC .
+After labeling of CDK2 and RB1 , hemizygous loss of one allele of each gene was observed in asbestos-treated HMC whereas gene amplification of these genes was detectable in MeT-5A and COLO cells .
+Our data indicate that disarrangement of the RB1 dependent pathway seems to be involved in mesothelioma formation .

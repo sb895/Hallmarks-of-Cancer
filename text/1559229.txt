@@ -1,0 +1,16 @@
+The hypothesis that rodent cells can be immortalized by the direct induction of a single mutation-like event was tested by initiating cultures of benzo(a)pyrene treated Syrian hamster embryo cells with low inocula and expanding these few cells maximally until senescence prevented further culturing or immortalization took place .
+According to the mutation hypothesis immortalization is hardly to be expected under these conditions .
+However , immortalization was frequently observed .
+Therefore the induction of immortalization appears indirect .
+The progeny of benzo(a)pyrene treated cells immortalized with a rate of 3.9 x 10(-8)/cell/generation , which is 64 times higher than the spontaneous rate .
+The results are in line with the probabilistic theory developed in 1980 by both Fernandez et al .
+( Proc .
+Natl .
+Acad .
+Sci .
+USA , 77 : 7272-7276 , 1980 ) and Kennedy et al .
+( Proc .
+Natl .
+Acad .
+Sci .
+USA , 77 : 7262-7266 , 1980 ) , which states that treatment of cells with a carcinogen can result in a so-called activated state of the treated cells which is transmitted to the progeny and which results in an enhanced rate of transforming events .

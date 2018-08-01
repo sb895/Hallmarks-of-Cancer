@@ -1,0 +1,12 @@
+Epidermal growth factor receptor ( EGFR ) gene amplification and overexpression are commonly present in glioblastoma , and confer advantages of growth , invasiveness and radio/chemotherapy-resistance for tumour cells .
+Here , we assessed the role of EGFR activation for downstream mitogenic signalling in the commonly used glioblastoma cell line U251 .
+Despite the high expression level , activation of EGFR under standard culture conditions was low .
+Intact EGFR function was verified by the rapid phosphorylation of EGFR and downstream mitogen-activated protein(MAP) kinase ERK1/2 upon addition of exogenous EGF to serum-starved cells .
+By contrast , addition of fetal bovine serum ( FBS ) activated downstream ERK1/2 via the MAP kinase kinase without phosphorylating EGFR .
+A phosphoreceptor tyrosine kinase array showed FBS-induced activation of insulin-like growth factor-1 receptor ( IGF-1R),and the IGF-1R inhibitor AG1024 inhibited FBS-induced phosphorylation of ERK1/2 , implying IGF-1R as the major driver of FBS-associated mitogenic signalling in the absence of exogenous EGF .
+These findings have important implications for in vitro drug testing in glioblastoma .
+Moreover , activation of ERK1/2 was also strongly influenced by growth state and cell density of U251 cultures .
+Re-seeding exponentially growing cultures at high cell density induced p27/CDKN1B expression and suppressed P-ERK1/2 indicating a certain regulation of proliferation by contact inhibition .
+Strikingly , highly activated ERK1/2 signalling and cell cycle progression occurred when cells were released from plateau phase regardless of high seeding density .
+This phenomenon might implicate a proliferation response in the early recurrence observed after clinical therapy in glioblastoma patients .
+However , whether it will recapitulate in vivo remains to be demonstrated .

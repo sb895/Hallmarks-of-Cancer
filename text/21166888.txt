@@ -1,0 +1,9 @@
+Currently there is no good hepatocyte model for studying growth hormone ( GH ) function that reflects its normal physiological roles .
+Here we report the establishment of a functional hepatocyte cell line , SDRL-1 , from the liver of young male spontaneous dwarf rats ( SDR ) , with isolated GH deficiency .
+This line has been maintained in Dulbecco's Modified Eagle Medium ( DMEM)/F12 medium supplemented with 10% fetal bovine serum ( FBS ) with retention of a near diploid karyotype for extended periods of time .
+When grown as a monolayer sheet , it displayed a pavement-like appearance and contact inhibition .
+These cells have a poorly developed rough endoplasmic reticulum ( r-ER ) , few mitochondria and glycogen granules , and produce a small amount of albumin and α-fetoprotein , that is enhanced when grown on a collagen gel sponge .
+Human recombinant GH stimulated JAK2 and STAT5b tyrosine phosphorylation and IGF-I production in a concentration-dependent manner .
+When the cells were cultured with GH-supplemented medium , the number of mitochondria and glycogen granules increased together with the r-ER and Golgi apparatus .
+A number of microvilli were observed on the surface of the cultured cells , further suggesting that this cell line is composed of normally functioning hepatocytes .
+In summary , we established a novel hepatocyte cell line ( SDRL-1 ) , that appears to display normal function , which we propose can serve as a good in vitro model for studying GH-target organ interactions .

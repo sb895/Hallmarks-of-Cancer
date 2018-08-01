@@ -1,0 +1,8 @@
+Single-nucleotide polymorphisms in genes involved in DNA-damage-induced responses are reported frequently to be a risk factor in various cancer types .
+Here we analysed polymorphisms in 5 genes involved in DNA repair ( XPD Asp312Asn and Lys751Gln , XRCC1 Arg399Gln , APE1 Asp148Glu , NBS1 Glu185Gln , and XPA G-4A ) and in a gene involved in regulation of the cell-cycle ( CCND1 A870G ) .
+We compared their frequencies in groups of colon , head and neck , and breast cancer patients , and 2 healthy control groups : ( 1 ) matched healthy Polish individuals and ( 2 ) a NCBI database control group .
+Highly significant differences in the distribution of genotypes of the APE1 , XRCC1 and CCND1 genes were found between colon cancer patients and healthy individuals .
+The 148Asp APE1 allele and the 399Gln XRCC1 allele apparently increased the risk of colon cancer ( OR = 1.9-2.3 and OR = 1.5-2.1 , respectively ) .
+Additionally , frequencies of XPD genotypes differed between healthy controls and patients with colon or head and neck cancer .
+Importantly , no differences in the distribution of these polymorphisms were found between healthy controls and breast cancer patients .
+The data clearly indicate that the risk of colon cancer is associated with single-nucleotide polymorphism in genes involved in base-excision repair and DNA-damage-induced responses .

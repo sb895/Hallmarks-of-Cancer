@@ -1,0 +1,7 @@
+Schizophrenia is a complex mental disorder with high degree of genetic influence in its etiology .
+Several recent studies revealed that copy number variations ( CNVs ) of genomic DNA contributed significantly to the genetic architecture of sporadic schizophrenia .
+This study aimed to investigate whether CNVs also contribute to the familial forms of schizophrenia .
+Using array-based comparative genomic hybridization technology , we searched for pathogenic CNV associated with schizophrenia in a sample of 60 index cases from multiplex schizophrenia families .
+We detected three inherited CNVs that were associated with schizophrenia in three families , including a microdeletion of at chromosome 6q12-q13 , a microduplication of at chromosome 18q12.3 , and an interstitial duplication of at chromosome 15q11.2-q13.1 .
+Our data indicate that CNVs contribute to the genetic underpinnings of the familial forms of schizophrenia as well as of the sporadic form .
+As 15q11-13 duplication is a well-known recurrent CNV associated with autism in the literature , the detection of the 15q11.2-q13.1 duplication in our schizophrenia patients provides additional support to other studies reporting that schizophrenia is part of the clinical spectrum of 15q11-q13 duplication syndrome .

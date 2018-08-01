@@ -1,0 +1,11 @@
+We have modelled multiple stages of malignant transformation of human endothelial cells ( ECs ) by overexpressing the catalytic subunit of human telomerase ( hTERT ) , together with SV40 T antigen ( SV40T ) and oncogenic N-ras .
+Transfection with hTERT alone , led to the immortalization of two out of three cultures of bone marrow-derived ECs ( BMECs ) .
+One hTERT transduced BMEC culture underwent a long proliferative lag before resuming proliferation .
+BMECs transfected with hTERT alone were functionally and phenotypically normal .
+BMECs transfected with SV40T ( BMSVTs ) had an extended lifespan , but eventually succumbed to crisis .
+BMSVTs exhibited a partially transformed phenotype , demonstrating growth factor independence , altered antigen expression and forming tiny , infrequent colonies in vitro .
+Transduction of BMSVTs with hTERT resulted in immortalization of 4 out of 4 cultures .
+BMSVTs immortalized with hTERT formed large colonies in vitro and small transient tumours in vivo .
+BMECs co-expressing SV40T , hTERT and N-ras exhibited an overtly transformed phenotype ; forming very large colonies with an altered morphology and generating rapidly growing tumours in vivo .
+These investigations demonstrate transformation of human ECs to an overtly malignant phenotype .
+This model will be useful for understanding mechanisms underlying vascular and angiogenic neoplasias , as well as for testing drugs designed to curtail aberrant EC growth .

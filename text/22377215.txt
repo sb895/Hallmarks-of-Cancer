@@ -1,0 +1,10 @@
+Xanthone exhibits several medicinal activities and especially it inhibits the growth of cancer cells .
+However , the use of xanthone is limited because of its low aqueous solubility and systemic toxicity .
+In the present study xanthone was loaded into poly(ethylene glycol)-b-poly[N-(2-hydroxypropyl ) methacrylamide-dilactate ] mPEG-b-p(HPMAm-Lac(2)) micelles in order to overcome these drawbacks .
+It was shown that xanthone could be loaded in these micelles up to 2 mg/mL with entrapment efficiency and loading capacity .
+The average particle diameter of the xanthone loaded mPEG-b-p(HPMAm-Lac(2)) micelles as determined by dynamic light scattering ranged from 84 to 112 nm .
+In vitro assays showed that xanthone in its free form as well as loaded in polymeric micelles had a high cytotoxicity towards both doxorubicin sensitive and , importantly , resistant cancer cells .
+On the other hand empty mPEG-b-p(HPMAm-Lac(2)) micelles did not show any cytotoxicity towards normal cells ( PBMCs ) .
+Interestingly , the cytostatic effect of xanthone towards normal cells was masked when loaded in the micelles .
+The mechanism of cell growth inhibition by xanthone-loaded polymeric micelles was mediated through induction of apoptosis , as evidenced from a subdiploid peak of propidium iodide stained cells using flow cytometric analysis .
+From the results of this study it can be concluded that xanthone has potent anticancer activity not only on sensitive but also on doxorubicin resistant cancer cell lines. mPEG-b-p(HPMAm-Lac(2)) micelles are therefore attractive delivery systems of xanthone for the treatment of cancer .

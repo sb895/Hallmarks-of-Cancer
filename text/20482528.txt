@@ -1,0 +1,10 @@
+Abstract The use of immunotherapeutics in melanoma has received much attention , and recent advances to further characterize the regulatory components of the immune system and the importance of co-stimulatory molecules have opened a new area for clinical investigation .
+Cytotoxic T lymphocyte-associated antigen 4 ( CTLA-4 ) serves as a negative regulator of immunity .
+Recent trials administering fully human anti-CTLA-4 monoclonal antibodies to melanoma patients have demonstrated clinically meaningful responses .
+Treatment with CTLA-4 blocking antibodies , however , is not without potential toxicities .
+Autoimmune side-effects , the most common being colitis-associated diarrhea , are frequently associated with clinical responses .
+In efforts to build upon prior vaccination efforts as well as attempt to offer patients clinically meaningful immune responses with a CTLA-4 blockade but without significant toxicities , we conducted a clinical trial in patients who previously received autologous tumor cells engineered to secrete granulocyte-macrophage colony stimulating factor ( GVAX ; Cell Genesys , South San Francisco , CA , USA ) with periodic infusions of CTLA-4 blocking antibodies .
+This sequential treatment resulted in clinically significant anti-tumor immunity without grade 3 or 4 toxicity in most patients .
+Pathological analyses following treatment of pre-existing tumors revealed a linear correlation between tumor necrosis and the ratio of intra-tumoral CD8+ effector cells to FoxP3+ regulatory cells ( T(regs) ) .
+Effective anti-tumor immunity and serious autoimmunity can be disassociated .
+Further targeting of anti-tumor T(regs)in combinatorial therapy approaches may be a rich avenue of future investigation .

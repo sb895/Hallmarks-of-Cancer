@@ -1,0 +1,11 @@
+EBV latent antigen EBNA3C is indispensible for in vitro B-cell immortalization resulting in continuously proliferating lymphoblastoid cell lines ( LCLs ) .
+EBNA3C was previously shown to target pRb for ubiquitin-proteasome mediated degradation , which facilitates G1 to S transition controlled by the major transcriptional activator E2F1 .
+E2F1 also plays a pivotal role in regulating DNA damage induced apoptosis through both p53-dependent and -independent pathways .
+In this study , we demonstrate that in response to DNA damage LCLs knocked down for EBNA3C undergo a drastic induction of apoptosis , as a possible consequence of both p53- and E2F1-mediated activities .
+Importantly , EBNA3C was previously shown to suppress p53-induced apoptosis .
+Now , we also show that EBNA3C efficiently blocks E2F1-mediated apoptosis , as well as its anti-proliferative effects in a p53-independent manner , in response to DNA damage .
+The N- and C-terminal domains of EBNA3C form a stable pRb independent complex with the N-terminal DNA-binding region of E2F1 responsible for inducing apoptosis .
+Mechanistically , we show that EBNA3C represses E2F1 transcriptional activity via blocking its DNA-binding activity at the responsive promoters of p73 and Apaf-1 apoptosis induced genes , and also facilitates E2F1 degradation in an ubiquitin-proteasome dependent fashion .
+Moreover , in response to DNA damage , E2F1 knockdown LCLs exhibited a significant reduction in apoptosis with higher cell-viability .
+In the presence of normal mitogenic stimuli the growth rate of LCLs knockdown for E2F1 was markedly impaired ; indicating that E2F1 plays a dual role in EBV positive cells and that active engagement of the EBNA3C-E2F1 complex is crucial for inhibition of DNA damage induced E2F1-mediated apoptosis .
+This study offers novel insights into our current understanding of EBV biology and enhances the potential for development of effective therapies against EBV associated B-cell lymphomas .

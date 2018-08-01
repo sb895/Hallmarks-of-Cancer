@@ -1,0 +1,7 @@
+The Alternative Lengthening of Telomeres ( ALT ) pathway is a telomerase-independent pathway for telomere maintenance that is active in a significant subset of human cancers and in vitro immortalized cell lines .
+ALT is thought to involve templated extension of telomeres through homologous recombination , but the genetic or epigenetic changes that unleash ALT are not known .
+Recently , mutations in the ATRX/DAXX chromatin remodeling complex and histone H3.3 were found to correlate with features of ALT in pancreatic neuroendocrine cancers , pediatric glioblastomas , and other tumors of the central nervous system , suggesting that these mutations might contribute to the activation of the ALT pathway in these cancers .
+We have taken a comprehensive approach to deciphering ALT by applying genomic , molecular biological , and cell biological approaches to a panel of 22 ALT cell lines , including cell lines derived in vitro .
+Here we show that loss of ATRX protein and mutations in the ATRX gene are hallmarks of ALT-immortalized cell lines .
+In addition , ALT is associated with extensive genome rearrangements , marked micronucleation , defects in the G2/M checkpoint , and altered double-strand break ( DSB ) repair .
+These attributes will facilitate the diagnosis and treatment of ALT positive human cancers .

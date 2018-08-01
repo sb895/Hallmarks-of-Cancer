@@ -1,0 +1,9 @@
+Leptin is thought to be involved in febrigenic signaling from the periphery to the brain .
+Zucker obese rats have a so-called fatty mutation in the leptin receptor gene and express a dysfunctional protein .
+Studies comparing the fever responses of fatty ( fa/fa ) rats and of their lean ( Fa/Fa and Fa/fa ) counterparts yield contradictory results .
+To resolve these contradictions , we evaluated the effect of fatty mutation on infectious and stress-associated fevers at thermoneutrality ( 29 degrees C ) and in a cool environment ( 20 degrees C ) .
+Zucker fa/fa and Fa/ ? rats were infused with Escherichia coli lipopolysaccharide ( LPS ; 10 microg/kg ) through a jugular catheter ( infectious fever ) or with saline through the catheter ( control ) or received a painful intramuscular injection of saline ( stress fever ) .
+At thermoneutrality , the colonic temperature ( T(c) ) responses of fatty rats to all stimuli tested were no different from the responses of lean rats .
+In a cool environment , T(c) responses of fatty rats to all stimuli were degrees C lower than those of lean rats .
+The observed attenuation of LPS-induced and stress-associated fevers in Zucker fatty rats in the cold agrees with the literature data showing that brown adipose tissue ( the major heat production effector ) is morphologically and functionally defective in these rats .
+The normal febrile responses of fatty Zucker rats to pyrogenic stimuli at thermoneutrality indicate that fatty mutation does not interrupt febrigenic signaling from the periphery to the brain .

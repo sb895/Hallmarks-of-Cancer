@@ -1,0 +1,9 @@
+The solution structure of the complex of enzyme IIA of the N,N'-diacetylchitobiose ( Chb ) transporter with the histidine phosphocarrier protein HPr has been solved by NMR .
+The IIA(Chb)-HPr complex completes the structure elucidation of representative cytoplasmic complexes for all four sugar branches of the bacterial phosphoryl transfer system ( PTS ) .
+The active site His-89 of IIA(Chb) was mutated to Glu to mimic the phosphorylated state .
+IIA(Chb)(H89E) and HPr form a weak complex with a K(D) of mM .
+The interacting binding surfaces , concave for IIA(Chb) and convex for HPr , complement each other in terms of shape , residue type , and charge distribution , with predominantly hydrophobic residues , interspersed by some uncharged polar residues , located centrally , and polar and charged residues at the periphery .
+The active site histidine of HPr , His-15 , is buried within the active site cleft of IIA(Chb) formed at the interface of two adjacent subunits of the IIA(Chb) trimer , thereby coming into close proximity with the active site residue , H89E , of IIA(Chb) .
+A His89-P-His-15 pentacoordinate phosphoryl transition state can readily be modeled without necessitating any significant conformational changes , thereby facilitating rapid phosphoryl transfer .
+Comparison of the IIA(Chb)-HPr complex with the IIA(Chb)-IIB(Chb) complex , as well as with other cytoplasmic complexes of the PTS , highlights a unifying mechanism for recognition of structurally diverse partners .
+This involves generating similar binding surfaces from entirely different underlying structural elements , large interaction surfaces coupled with extensive redundancy , and side chain conformational plasticity to optimize diverse sets of intermolecular interactions .

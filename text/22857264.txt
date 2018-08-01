@@ -1,0 +1,11 @@
+BACKGROUND Greying with age in horses is an autosomal dominant trait , associated with loss of hair pigmentation , melanoma and vitiligo-like depigmentation .
+We recently identified a 4.6 kb duplication in STX17 to be associated with the phenotype .
+The aims of this study were to investigate if the duplication in Grey horses shows copy number variation and to exclude that any other polymorphism is uniquely associated with the Grey mutation .
+RESULTS We found little evidence for copy number expansion of the duplicated sequence in blood DNA from Grey horses .
+In contrast , clear evidence for copy number expansions was indicated in five out of eight tested melanoma tissues or melanoma cell lines .
+A tendency of a higher copy number in aggressive tumours was also found .
+Massively parallel resequencing of the kb Grey haplotype did not reveal any additional mutations perfectly associated with the phenotype , confirming the duplication as the true causative mutation .
+We identified three SNP alleles that were present in a subset of Grey haplotypes within the 350 kb region that shows complete linkage disequilibrium with the causative mutation .
+Thus , these three nucleotide substitutions must have occurred subsequent to the duplication , consistent with our interpretation that the Grey mutation arose more than 2,000 years before present .
+CONCLUSIONS These results suggest that the mutation acts as a melanoma-driving regulatory element .
+The elucidation of the mechanistic features of the duplication will be of considerable interest for the characterization of these horse melanomas as well as for the field of human melanoma research .

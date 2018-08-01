@@ -1,0 +1,10 @@
+The androgen receptor ( AR ) plays a central role in prostate cancer progression to the castration-resistant ( CR ) lethal state .
+L-Dopa decarboxylase ( DDC ) is an AR coactivator that increases in expression with disease progression and is coexpressed with the receptor in prostate adenocarcinoma cells , where it may enhance AR activity .
+Here , we hypothesize that the DDC enzymatic inhibitor , carbidopa , can suppress DDC-coactivation of AR and retard prostate tumor growth .
+Treating LNCaP prostate cancer cells with carbidopa in transcriptional assays suppressed the enhanced AR transactivation seen with DDC overexpression and decreased prostate-specific antigen ( PSA ) mRNA levels .
+Carbidopa dose-dependently inhibited cell growth and decreased survival in LNCaP cell proliferation and apoptosis assays .
+The inhibitory effect of carbidopa on DDC-coactivation of AR and cell growth/survival was also observed in PC3 prostate cancer cells ( stably expressing AR ) .
+In vivo studies demonstrated that serum PSA velocity and tumor growth rates elevated ∼2-fold in LNCaP xenografts , inducibly overexpressing DDC , were reverted to control levels with carbidopa administration .
+In castrated mice , treating LNCaP tumors , expressing endogenous DDC , with carbidopa delayed progression to the CR state from 6 to 10 weeks , while serum PSA and tumor growth decreased 4.3-fold and 5.4-fold , respectively .
+Our study is a first time demonstration that carbidopa can abrogate DDC-coactivation of AR in prostate cancer cells and tumors , decrease serum PSA , reduce tumor growth and delay CR progression .
+Since carbidopa is clinically approved , it may be readily used as a novel therapeutic strategy to suppress aberrant AR activity and delay prostate cancer progression .

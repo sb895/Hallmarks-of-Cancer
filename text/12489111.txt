@@ -1,0 +1,15 @@
+Food-derived heterocyclic aromatic amines ( HCAs ) have proved to be carcinogenic in both rodents and nonhuman primates .
+Two different metabolic pathways are suggested for the metabolic activation of HCA .
+The hepatic pathway proceeds via a two-step process involving N-hydroxylation by cytochrome P4501A2 and subsequent O-acetylation by N-acetyltransferase-2 .
+An alternative pathway may be of particular interest in extrahepatic tissues and proceeds via one-electron oxidation catalyzed by prostaglandin H synthase ( PHS ) , rendering free-radical metabolites .
+In this study , we investigated the metabolic activation of two HCAs , 2-amino-3-methylimidazo[4,5-f]quinoline ( IQ ) and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine ( PhIP ) , by two different enzyme systems in vitro , generating different primary and secondary reactive metabolites .
+Rat liver S9 mix and PHS were used as the activating system and represent the hepatic and extrahepatic pathways , respectively .
+Electron-spin resonance spectroscopy showed that both IQ and PhIP exerted inhibiting effects on PHS-mediated formation of hydroxyl radicals during the conversion of arachidonic acid to prostaglandins .
+Evidence for the formation of HCA free radicals was presented in an indirect way by the formation of glutathione-derived thiyl radicals , with purified PHS as the activating system .
+Activation by S9 mix did not result in the formation of detectable radical metabolites , showing that the two metabolic routes primarily led to the formation of different metabolites .
+In all electron-spin resonance experiments , IQ appeared to be more effective than PhIP .
+In contrasts , DNA adduct analysis by means of ( 32)P-postlabeling showed similar adduct patterns for S9 and PHS in single-stranded and double-stranded salmon testes DNA after incubation with PhIP , indicating the ultimate formation of a common reactive intermediate .
+For IQ , activation by PHS led to an additional adduct spot that was not present after S9 activation .
+Furthermore , activation of IQ resulted in higher adduct levels compared with PhIP for both activation pathways .
+Overall , adduct levels were higher in single-stranded DNA than double-stranded DNA .
+Our results showed that the hepatic and extrahepatic pathways resulted in different primary metabolites , while the ultimate formation of a similar reactive intermediate for PhIP , possibly an arylnitrenium ion , suggested that both pathways could play an important role in the onset of carcinogenesis .

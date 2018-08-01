@@ -1,0 +1,12 @@
+Cetuximab is a chimeric antibody registered for the therapy of advanced colorectal carcinoma .
+Cancer and anticancer therapy are associated with oxidative stress , and disorders of antioxidant balance may be involved in the toxicity associated with anticancer treatment .
+The aim of the present study was to investigate the changes of serum retinol , alpha-tocopherol and C-reactive protein during the first month of treatment with cetuximab and chemotherapy .
+Twenty-five consecutive patients with metastatic colorectal carcinoma treated with a combination of chemotherapy and cetuximab were included in the present study .
+Serum retinol and alpha-tocopherol were determined by high-performance liquid chromatography and serum C-reactive protein was determined using commercial kits .
+Significant correlation was observed between baseline concentrations of retinol and C-reactive protein ( r(s)=-0.54 , p<0.01 ) .
+Median survival of patients who had baseline serum retinol below 1.25 µmol/L was 10 mo compared to 18 mo for patients who had serum retinol equal or above 1.25 µmol/L ( p<0.05 ) ; median survival of patients who had serum C-reactive protein below 24 mg/L was significantly longer compared to patients with C-reactive protein levels equal or above 24 mg/L ( 18 vs. 7 mo , p<0.05 ) , but no difference in survival was observed based on alpha-tocopherol levels .
+Twenty-two patients had evaluation of retinol , alpha-tocopherol and C-reactive protein at least once during the follow up .
+Serum concentration of alpha-tocopherol decreased significantly during the therapy , but retinol and C-reactive protein concentrations remained unchanged .
+In conclusion , a significant correlation was observed between serum retinol and C-reactive protein .
+Serum alpha-tocopherol decreased significantly during the first month of combination therapy with cetuximab .
+Low retinol and high C-reactive protein concentrations were predictive of poor prognosis in this patient population .

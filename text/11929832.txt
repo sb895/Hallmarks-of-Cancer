@@ -1,0 +1,8 @@
+Telomerase is a ribonucleoprotein enzyme that functions to maintain telomeres , the terminal DNA that protects chromosomal integrity , regulating cellular replicative life span .
+Telomerase is not expressed in most normal human somatic cells but is active in stabilizing telomeres of certain self-renewing cell populations and most malignant cells , making the enzyme an appealing target for anticancer therapy .
+We describe here a novel cross-species approach to telomerase inhibition .
+Ectopic expression of the human telomerase catalytic reverse transcriptase component in murine cells inhibited endogenous murine telomerase activity .
+Using this approach , telomerase inhibition in immortal murine fibroblasts resulted in critical telomere shortening , leading to slowed proliferation , abnormal morphology , altered cell cycle , and telomere dysfunction with cytogenetic instability , followed by apoptotic cell death .
+Subpopulations of two telomerase-inhibited clones escaped widespread apoptosis , showing proliferative recovery in culture despite persistently inhibited telomerase activity with progressive telomere shortening and dysfunction .
+This study , by targeting immortal murine cells for telomerase inhibition , demonstrates the importance of telomerase to murine cell immortalization and telomere maintenance .
+Moreover , the murine model used here should prove useful in further evaluating telomerase inhibition as an anticancer therapy .

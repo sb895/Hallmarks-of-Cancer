@@ -1,0 +1,6 @@
+Mitochondrial dysfunction and oxidative stress have been implicated in cellular senescence , apoptosis , aging and aging-associated pathologies .
+Telomere shortening and genomic instability have also been associated with replicative senescence , aging and cancer .
+Here we show that mitochondrial dysfunction leads to telomere attrition , telomere loss , and chromosome fusion and breakage , accompanied by apoptosis .
+An antioxidant prevented telomere loss and genomic instability in cells with dysfunctional mitochondria , suggesting that reactive oxygen species are mediators linking mitochondrial dysfunction and genomic instability .
+Further , nuclear transfer protected genomes from telomere dysfunction and promoted cell survival by reconstitution with functional mitochondria .
+This work links mitochondrial dysfunction and genomic instability and may provide new therapeutic strategies to combat certain mitochondrial and aging-associated pathologies .

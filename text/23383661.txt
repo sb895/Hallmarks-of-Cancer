@@ -1,0 +1,11 @@
+The effects of genomic changes in hepatitis B virus ( HBV ) on the occurrence of hepatocellular carcinoma ( HCC ) are still unclear , especially in relation to the genotype of HBV .
+In this study , we examined the effects of genomic changes in HBV of genotype C2 on the development of HCC .
+A total of 318 patients with HBV-associated HCC and 234 patients with chronic hepatitis B ( CHB ) were studied .
+All of HCC cases were diagnosed histologically and treated with surgical resection .
+The whole of the X , S , basal core promoter ( BCP ) and precore regions of the viral genome from sera or liver tissues were sequenced .
+All subjects had HBV of genotype C2 .
+The prevalence of the T1653 mutation in the X region and the A1896 mutation in the precore region of HBV was significantly higher in the HCC group than in the control CHB group ( 22% vs 11% , P = 0.003 ; 50% vs 23% , P < 0.001 , respectively ) .
+Moreover , the T1762/A1764 mutations in the BCP region in combination with either T1653 or A1896 were more common in the HCC compared with the CHB group ( BCP+X1653 : 18% vs 11% , P = 0.05 ; BCP+PC , 40% vs 15% , P < 0.001 , respectively ) .
+In multivariate analysis , T1653 and A1896 were revealed to be independent risk factors for HCC development .
+G1896A in the precore region and C1653T mutation in the X region of genotype C2 HBV are important risk factors for HCC development .
+Also , the A1762T/G1764A double mutation may act in synergy with C1653T to increase the risk of HCC in patients chronically infected with HBV genotype C2 .

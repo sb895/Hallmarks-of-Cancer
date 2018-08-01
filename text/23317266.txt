@@ -1,0 +1,7 @@
+Breast cancer is the most commonly diagnosed cancer in women in the world and is one of the leading causes of death due to cancer .
+Health benefits have been linked to additive and synergistic combinations of phytochemicals in fruits and vegetables .
+Nigella sativa has been shown to possess anti-carcinogenic activity , inhibiting growth of several cancer cell lines in vitro .
+However , the molecular mechanisms of the anti-cancer properties of Nigella sativa phytochemical extracts have not been completely understood .
+Our data showed that Nigella sativa extracts significantly inhibited human breast cancer MDA-MB-231 cell proliferation at doses of 2.5-5 μg/mL ( P<0.05 ) .
+Apoptotic induction in MDA-MB-231 cells was observed in a dose-dependent manner after exposure to Nigella sativa extracts for 48 h .
+Real time PCR and flow cytometry analyses suggested that Nigella sativa extracts possess the ability to suppress the proliferation of human breast cancer cells through induction of apoptosis .

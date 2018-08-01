@@ -1,0 +1,9 @@
+Cancer cells require glucose to support their rapid growth through a process known as aerobic glycolysis , or the Warburg effect .
+As in ovarian cancer cells , increased metabolic activity and glucose concentration has been linked to aggressiveness of cancer .
+However , it is unclear as to whether targeting the glycolytic pathway may kill the malignant cells and likely have broad therapeutic implications against ovarian cancer metastasis .
+In the present research , we found that EF24 , a HIF-1\u03b1 inhibitor , could significantly block glucose uptake , the rate of glycolysis , and lactate production compared with vehicle treatment in SKOV-3 , A2780 and OVCAR-3 cells .
+These results might possibly contribute to the further observation that EF24 could inhibit ovarian cancer cell migration and invasion from wound healing and Transwell assays .
+Furthermore , as an important mediator of glucose metabolism , glucose transporter 1 ( Glut1 ) was found to contribute to the function of EF24 in both energy metabolism and metastasis .
+To examine the effect of EF24 and the mediated role of Glut1 in vivo in a xenograph subcutaneous tumor model , intraperitoneal metastasis and lung metastasis model were introduced .
+Our results indicated that EF24 treatment could inhibit tumor growth , intraperitoneal metastasis and lung metastasis of SKOV-3 cells , and Glut1 is a possible mediator for the role of EF24 .
+In conclusion , our results highlight that an anti-cancer reagent with an inhibiting effect on energy metabolism could inhibit metastasis , and EF24 is a possible candidate for anti-metastasis therapeutic applications for ovarian cancer .

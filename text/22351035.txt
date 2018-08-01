@@ -1,0 +1,11 @@
+Approximately 50% of human tumors have a mutation in TP53 .
+The pattern and spectra of TP53 mutations often differ between cancer types , perhaps due to different etiological factors .
+The Hupki ( human TP53 knock-in ) mouse embryo fibroblast ( HUF ) immortalization assay is useful for studying mutagenesis in the human TP53 gene by environmental carcinogens .
+Prior to initiating an immortalization assay , carcinogen treatment conditions must be optimized , which can require a large number of cells .
+As primary HUF cultures senesce within 2 weeks , restricting their use , we investigated whether immortalized HUFs retaining wild-type TP53 can be surrogates for primary HUFs in initial treatment optimization .
+DNA damage by eight compounds found in diesel exhaust , benzo[a]pyrene , 3-nitrobenzanthrone , 1-nitropyrene , 1,3-dinitropyrene , 1,6-dinitropyrene , 1,8-dinitropyrene , 6-nitrochrysene , and 3-nitrofluorene , was assessed by ( 32 ) P-postlabeling and the alkaline comet assay in primary HUFs and in an immortal HUF cell line J201 .
+For most compounds , higher levels of DNA adducts accumulated in J201 cells than in primary HUFs .
+This difference was not reflected in the comet assay or by cell viability changes .
+Experiments in three additional immortal HUF cell lines ( AAI49 , U56 , and E2-143 ) confirmed strong differences in DNA adduct levels compared with primary HUFs .
+However , these did not correlate with the protein expression of Nqo1 or Nat1/2 , or with gene expression of Cyp1a1 or Cyp1b1 .
+Our results show that using immortal HUFs as surrogates for primary HUFs in genotoxicity screening has limitations and that DNA adduct formation is the best measure of genotoxicity of the nitro-polycyclic aromatic hydrocarbons tested in HUFs .

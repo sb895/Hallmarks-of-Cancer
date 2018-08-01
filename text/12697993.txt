@@ -1,0 +1,13 @@
+Cell lines of human T-cell acute lymphoblastic leukemias ( T-ALL ) have gained high interest for study of mechanisms of cytostatic drug resistance .
+However , they should also be suited to examine the validity and reliability of molecular cytogenetic techniques in detecting genomic alterations in neoplastic cells .
+Therefore , comparative genomic hybridization ( CGH ) and 24-color-fluorescence-in-situ-hybridization ( M-FISH ) were applied to eight sublines of CCRF-CEM leukemia cells selected in vitro for drug resistance and to their drug-sensitive parental counterparts .
+All cell lines were characterized by altered chromosome numbers and by a variety of chromosomal structural aberrations as shown by M-FISH .
+The great majority of anomalies detected by this technique were confirmed by CGH .
+Interestingly , a considerable number of the rearrangements found were imbalanced .
+Amplifications of 5q13 in the six methotrexate-resistant cell lines , a del(9)(p21pter) in all lines examined , and a gain of chromosome 20 in 9 of the 10 lines examined were readily detected by both techniques .
+The same held true for losses of chromosomes 17 and 18 in the near tetraploid cell lines which could also be confirmed by CGH .
+Some imbalances of genomic material detected by CGH were , however , not observed by means of M-FISH , possibly due to the limited extension of the corresponding chromosomal segment involved or the small subpopulation of cells affected .
+On the other hand , reciprocal translocations , balanced isochromosomes , and small deletions remained mainly undetected by CGH .
+A comparison of chromosomal alterations in drug-resistant and parental cell lines showed not only amplifications of chromosomal segments harboring well-known drug resistance genes , e.g. , the dihydrofolate reductase gene , but also chromosomal changes which may involve novel genes associated with drug resistance .
+Thus , the present study has clearly unveiled the strengths and weaknesses of both techniques which can excellently complement each other .
+Their combination allowed a distinct improvement of the definition of the complex karyotypes of drug-resistant cell lines .

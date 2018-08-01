@@ -1,0 +1,9 @@
+The ligand-gated ion channels in the Cys-loop receptor superfamily mediate the effects of neurotransmitters acetylcholine , serotonin , GABA , and glycine .
+Cys-loop receptor signaling is susceptible to modulation by ligands acting through numerous allosteric sites .
+Here we report the discovery of a novel class of negative allosteric modulators of the 5-HT(3) receptors ( 5-HT(3)Rs ) .
+PU02 ( 6-[(1-naphthylmethyl)thio]-9H-purine ) is a potent and selective antagonist displaying IC(50) values of \u03bcM at 5-HT(3)Rs and substantially lower activities at other Cys-loop receptors .
+In an elaborate mutagenesis study of the 5-HT(3)A receptor guided by a homology model , PU02 is demonstrated to act through a transmembrane intersubunit site situated in the upper three helical turns of TM2 and TM3 in the ( +)-subunit and TM1 and TM2 in the ( -)-subunit .
+The Ser(248) , Leu(288) , Ile(290) , Thr(294) , and Gly(306) residues are identified as important molecular determinants of PU02 activity with minor contributions from Ser(292) and Val(310) , and we propose that the naphthalene group of PU02 docks into the hydrophobic cavity formed by these .
+Interestingly , specific mutations of Ser(248) , Thr(294) , and Gly(306) convert PU02 into a complex modulator , potentiating and inhibiting 5-HT-evoked signaling through these mutants at low and high concentrations , respectively .
+The PU02 binding site in the 5-HT(3)R corresponds to allosteric sites in anionic Cys-loop receptors , which emphasizes the uniform nature of the molecular events underlying signaling through the receptors .
+Moreover , the dramatic changes in the functional properties of PU02 induced by subtle changes in its binding site bear witness to the delicate structural discrimination between allosteric inhibition and potentiation of Cys-loop receptors .

@@ -1,0 +1,9 @@
+Tumor aerobic glycolysis , or the Warburg effect , plays important roles in tumor survival , growth , and metastasis .
+Pyruvate kinase isoenzyme M2 ( PKM2 ) is a key enzyme that regulates aerobic glycolysis in tumor cells .
+Recent research has shown that PKM2 can be used as a tumor marker for diagnosis and , in particular , as a potential target for cancer therapy .
+We investigated the effects of combining shRNA targeting PKM2 and docetaxel on human A549 lung carcinoma cells both in vivo and in vitro .
+We observed that the shRNA can significantly downregulate the expression level of PKM2 .
+The decrease of PKM2 resulted in a decrease in ATP synthesis , which caused intracellular accumulation of docetaxel .
+Furthermore , the combination of pshRNA-pkm2 and docetaxel inhibited tumor growth and promoted more cancer cell apoptosis both in vivo and in vitro .
+Our findings suggest that targeting tumor glycolysis can increase the efficacy of chemotherapy .
+In particular , the targeting of PKM2 could , to some extent , be a new way of reversing chemotherapy resistance to cancer therapy .

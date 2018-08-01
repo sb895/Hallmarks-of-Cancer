@@ -1,0 +1,10 @@
+More than 50% of adults and of children with pre-B acute lymphoblastic leukemia ( ALL ) relapse following treatment .
+Dismal outcomes for patients with relapsed or refractory disease mandate novel approaches to therapy .
+We have previously shown that the combination of the mTOR inhibitor RAD001 ( everolimus ) and the chemotherapeutic agent vincristine increases the survival of non-obese diabetic/severe combined immuno-deficient ( NOD/SCID ) mice bearing human ALL xenografts .
+We have also shown that 16 \u03bcM RAD001 synergized with agents that cause DNA damage or microtubule disruption in pre-B ALL cells in vitro .
+Here , we demonstrate that RAD001 has dose-dependent effects on the cell cycle in ALL cells , with 1.5 \u03bcM RAD001 inhibiting pRb , Ki67 and PCNA expression and increasing G0/1 cell cycle arrest , whereas 16 \u03bcM RAD001 increases pRb , cyclin D1 , Ki67 and PCNA , with no evidence of an accumulation of cells in G0/1 .
+Transition from G2 into mitosis was promoted by 16 \u03bcM RAD001 with reduced phosphorylation of cdc2 in cells with 4 N DNA content .
+However , 16 \u03bcM RAD001 preferentially induced cell death in cells undergoing mitosis .
+When combined with vincristine , 16 \u03bcM RAD001 reduced the vincristine-induced accumulation of cells in mitosis , probably as a result of increased death in this population .
+Although 16 \u03bcM RAD001 weakly activated Chk1 and Chk2 , it suppressed strong vincristine-induced activation of these cell cycle checkpoint regulators .
+We conclude that RAD001 enhances chemosensitivity at least in part through suppression of cell cycle checkpoint regulation in response to vincristine and increased progression from G2 into mitosis .

@@ -1,0 +1,14 @@
+BACKGROUND Adult human mesenchymal stem cells ( hMSC ) have been shown to home to sites of carcinoma and affect biological processes , including tumour growth and metastasis .
+Previous findings have been conflicting and a clear understanding of the effects of hMSCs on cancer remains to be established .
+Therefore , we set out to investigate the impact of hMSCs on the oestrogen receptor positive , hormone-dependent breast carcinoma cell line MCF-7 .
+RESULTS In this study , we show the effects of hMSCs on cancer cells are mediated through a secreted factor(s) which are enhanced by cancer cell-hMSC contact/communication .
+In addition to enhanced proliferation when in co-culture with hMSCs , MCF-7 cells were found to have increased migration potential in vitro .
+Inhibition of ER signalling by the pure anti-oestrogen ICI 182,780 decreased the effect of hMSCs on MCF-7 cell proliferation and migration supporting a role for ER signalling in the hMSC/MCF-7 cell interaction .
+Additionally , hMSCs have been shown to secrete a wide variety of growth factors and chemokines including stromal cell-derived factor-1 ( SDF-1 ) .
+This coupled with the knowledge that SDF-1 is an ER-mediated gene linked with hormone-independence and metastasis led to the investigation of the SDF-1/CXCR4 signalling axis in hMSC-MCF-7 cell interaction .
+Experiments revealed an increase in SDF-1 gene expression both in vivo and in vitro when MCF-7 cells were cultured with hMSCs .
+SDF-1 treatment of MCF-7 cells alone increased proliferation to just below that seen with hMSC co-culture .
+Additionally , blocking SDF-1 signalling using a CXCR4-specific inhibitor decreased hMSC induced proliferation and migration of MCF-7 .
+However , the combined treatment of ICI and AMD3100 reduced MCF-7 cell proliferation and migration below control levels , indicating targeting both the ER and CXCR4 pathways is effective in decreasing the hMSCs induction of MCF-7 cell proliferation and migration .
+CONCLUSIONS The sum of these data reveals the relationship between tumour microenvironment and tumour growth and progression .
+Better understanding of the mechanisms involved in this tumour stroma cell interaction may provide novel targets for the development of treatment strategies for oestrogen receptor positive , hormone-independent , and endocrine-resistant breast carcinoma .

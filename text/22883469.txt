@@ -1,0 +1,7 @@
+Both the deregulation of microRNAs and epidermal growth factor receptor ( EGFR ) are emerging as important factors in non-small-cell lung cancer ( NSCLC ) .
+Here , miR-133b was found to be associated with tumor stage , the extent of regional lymph node involvement , stage , visceral pleura or vessel invasion and EGFR mRNA expression in Chinese patients with NSCLC .
+Bioinformatic analysis and luciferase reporter assay revealed that miR-133b can interact specifically with the 3'-UTR of EGFR mRNA .
+Functionally , miR-133b transfection showed regulatory activity in translationally repressing EGFR mRNA .
+Moreover , miR-133b transfection may modulate apoptosis , invasion and sensitivity to EGFR-TKI through the EGFR signaling pathways , especially in EGFR-addicted NSCLC cells .
+Taken together , our findings show that miR-133b can inhibit cell growth of NSCLC through targeting EGFR and regulating its downstream signaling pathway .
+This finding has important implications for the development of targeted therapeutics for a number of EGFR-addicted cancers .

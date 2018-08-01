@@ -1,0 +1,8 @@
+Piceatannol is a stilbenoid , a metabolite of resveratrol found in red wine .
+Piceatannol and sera from rats orally given piceatannol were found to dose-dependently suppress both the proliferation and invasion of AH109A hepatoma cells in culture .
+Its antiproliferative effect was based on cell cycle arrest at lower concentration ( 25 μM ) and on apoptosis induction at higher concentration ( 100 μM ) .
+Piceatannol suppressed reactive oxygen species-potentiated invasive capacity by scavenging the intracellular reactive oxygen species .
+These results suggest that piceatannol , unlike resveratrol , has a potential to suppress the hepatoma proliferation by inducing cell cycle arrest and apoptosis induction .
+They also suggest that the antioxidative property of piceatannol , like resveratrol , may be involved in its anti-invasive action .
+Subsequently , piceatannol was found to suppress the growth of solid tumor and metastasis in hepatoma-bearing rats .
+Thus , piceatannol may be a useful anticancer natural product .

@@ -1,0 +1,10 @@
+OBJECT The intracellular events transducing mitogenic signals from platelet-derived growth factor-beta ( PDGFbeta ) receptor tyrosine kinases are not precisely known .
+In this study the authors evaluated whether the phosphatidylinositol 3-kinase ( PI3-K)-Akt-p70S6K pathway is expressed in meningiomas , regulates their growth , and transduces mitogenic signals of PDGF-BB .
+METHODS Nine meningioma tumors obtained in humans were evaluated using Western blot analysis for phosphorylated ( activated ) Akt and phosphorylated p70S6K .
+Cells cultured from seven of these meningiomas were also screened using Western blot analysis for Akt and for phosphorylated Akt and p70S6K .
+The authors also evaluated whether PDGF-BB stimulation of meningioma cells was associated with the phosphorylation of Akt and p70S6K known to activate these kinases .
+In addition , the effects of wortmannin , an inhibitor of P13-K , on proliferation and activation of Akt and p70S6K in meningioma cells stimulated with PDGF-BB were evaluated .
+Western blots of lysates from meningiomas demonstrated phosphorylated Akt and p70S6K .
+Treatment with PDGF-BB stimulated phosphorylation of Akt and p70S6K in each meningioma cell culture .
+Wortmannin ( 500 and 1000 nM ) significantly decreased PDGF-BB stimulation of meningioma cells ( p < 0.001 ) while it reduced Akt and p70S6K phosphorylation but not mitogen-activated protein kinase/extracellular signal-regulated kinase ( MAPK/ERK ) phosphorylation .
+CONCLUSIONS These findings indicate that Akt and p70S6K are constitutively expressed and activated in meningioma cells and that the PI3-K-Akt-p70S6K pathway may participate in transduction of mitogenic signals in meningiomas independent of the Raf-1-MEK-1-MAPK/ERK cascade .

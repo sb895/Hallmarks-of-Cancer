@@ -1,0 +1,6 @@
+\u03b1-Tropomyosin ( \u03b1Tm ) is central to Ca(2+)-regulation of cardiac muscle contraction .
+The familial hypertrophic cardiomyopathy mutation \u03b1Tm E180G enhances Ca(2+)-sensitivity in functional assays .
+To investigate the molecular basis , we imaged single molecules of human cardiac \u03b1Tm E180G by direct probe atomic force microscopy .
+Analyses of tangent angles along molecular contours yielded persistence length corresponding to increase in flexibility compared to wild-type .
+Increased flexibility of the mutant was confirmed by fitting end-to-end length distributions to the worm-like chain model .
+This marked increase in flexibility can significantly impact systolic and possibly diastolic phases of cardiac contraction , ultimately leading to hypertrophy .

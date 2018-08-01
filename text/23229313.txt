@@ -1,0 +1,7 @@
+Topoisomerase 1 ( Top1)-DNA cleavage complexes induced by camptothecin ( CPT ) cause DNA strand breaks during DNA replication or transcription .
+Although the cellular responses to replication-mediated DNA double-strand breaks have been well studied , the responses to transcription-mediated DNA strand breaks have not .
+Here , we show that poly ( ADP-ribose ) polymerase ( PARP ) and cockayne syndrome group B protein ( CSB ) modulate the CPT-induced formation of discrete p53-binding protein 1 ( 53BP1 ) nuclear foci at sites of transcription-mediated DNA strand breaks .
+Inhibition of PARP activity enhanced the formation of these foci , while knockdown of essential components of the base excision repair ( BER ) pathway did not .
+These findings suggest that PARP suppresses transcription-mediated 53BP1 foci formation , but that this does not occur through the BER pathway .
+In addition , knockdown of CSB , one of the key factors of transcription-coupled repair , slowed the kinetics of 53BP1 foci formation .
+These data suggest that PARP and CSB modulate the formation of 53BP1 foci during the processing of transcription-mediated DNA strand breaks .

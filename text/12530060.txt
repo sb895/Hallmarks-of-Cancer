@@ -1,0 +1,6 @@
+We have recently identified ICBP90 as being a protein able to bind in vitro a CCAAT box of the topoisomerase II alpha gene promoter .
+The aim of the present work was to check whether ICBP90 is able to regulate in vivo topoisomerase II alpha expression in human lung fibroblasts under various proliferating conditions .
+Transient transfection experiments performed on moderately growing human lung fibroblasts ( 50% of confluence ) showed that overexpression of ICBP90 is associated with an elevation of topoisomerase II alpha expression and an increase of the cell proliferation rate .
+In highly proliferating human lung fibroblasts ( 20% confluence ) overexpression of ICBP90 had no effect .
+In contrast , in non-proliferating fibroblasts ( 100% confluence ) overexpression of ICBP90 allowed recovery of topoisomerase II alpha expression levels with a concomitant overgrowth of confluent cell cultures .
+Our results show that ICBP90 regulates topoisomerase II alpha expression and is able to overcome cell contact inhibition signaling , suggesting that increased ICBP90 expression may be involved in carcinogenesis .

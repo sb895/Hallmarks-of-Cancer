@@ -1,0 +1,7 @@
+A new triphenylphosphine adduct of cyclopalladated ferrocenylpyridazine containing a chloride anion , 2a , has been synthesized from the reaction of the chloride-bridged palladacyclic dimer 1a with triphenylphosphine .
+The corresponding adducts 3a,b containing iodide anion have been readily prepared through anion exchange reactions of 2a,b with NaI in acetone .
+These complexes were characterized by elemental analysis , IR and 1H-NMR .
+Additionally , their crystal structures have been determined by X-ray diffraction and intermolecular C-H···X ( Cl , Br , I ) bonds were found in the crystals .
+The use of these palladacycles as catalysts for the Suzuki and Sonogashira reactions was examined .
+The complexes 2a,b exhibited higher catalytic activity than the corresponding 3a,b in the Suzuki reaction .
+However , the order of activity of adducts with varying halogen anions is 3a > 2a in the Sonogashira reaction .

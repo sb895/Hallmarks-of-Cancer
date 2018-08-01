@@ -1,0 +1,8 @@
+Congenital gonadotropin-releasing hormone ( GnRH ) deficiency manifests as absent or incomplete sexual maturation and infertility .
+Although the disease exhibits marked locus and allelic heterogeneity , with the causal mutations being both rare and private , one causal mutation in the prokineticin receptor , PROKR2 L173R , appears unusually prevalent among GnRH-deficient patients of diverse geographic and ethnic origins .
+To track the genetic ancestry of PROKR2 L173R , haplotype mapping was performed in 22 unrelated patients with GnRH deficiency carrying L173R and their 30 first-degree relatives .
+The mutation's age was estimated using a haplotype-decay model .
+Thirteen subjects were informative and in all of them the mutation was present on the same kb haplotype whose population frequency is \u226410% .
+Thus , PROKR2 L173R represents a founder mutation whose age is estimated at approximately 9000 years .
+Inheritance of PROKR2 L173R-associated GnRH deficiency was complex with highly variable penetrance among carriers , influenced by additional mutations in the other PROKR2 allele ( recessive inheritance ) or another gene ( digenicity ) .
+The paradoxical identification of an ancient founder mutation that impairs reproduction has intriguing implications for the inheritance mechanisms of PROKR2 L173R-associated GnRH deficiency and for the relevant processes of evolutionary selection , including potential selective advantages of mutation carriers in genes affecting reproduction .

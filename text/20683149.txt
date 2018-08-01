@@ -1,0 +1,8 @@
+The NOTCH signaling pathway plays important role in the development of multicellular organisms , as it regulates cell proliferation , survival , and differentiation .
+In adults , it is essential for the T- or B-lymphocyte lineage commitment .
+NOTCH1 and FBXW7 mutations both lead the activation of the NOTCH1 pathway and are found in the majority of T-ALL patients .
+In this study , the mutation analysis of NOTCH1 and FBXW7 genes was performed in 87 pediatric T-ALLs who were treated on the ALL-BFM protocols .
+In 19 patients ( 22% ) , activating NOTCH1 mutations were observed either in the heterodimerization domain or in the PEST domain and 7 cases ( 10% ) demonstrated FBXW7 mutations ( 2 cases had both NOTCH1 and FBXW7 mutations ) .
+We also analyzed the relationship of the mutation data between the clinical and biological data of the patients .
+NOTCH1 and FBXW7 , NOTCH1 alone were found correlated with lower initial leucocyte counts which was independent from the sex and T- cell immunophenotype .
+However , NOTCH1 and FBXW7 mutations were not predictive of outcome in the overall cohort of pediatric T-ALLs .

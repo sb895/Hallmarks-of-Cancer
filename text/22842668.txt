@@ -1,0 +1,11 @@
+Loss of heterozygosity ( LOH ) in 16q appears in cases of Wilms ' tumor .
+Within this region , known as common fragile site FRA16D , the WWOX tumor suppressor gene is located .
+Abnormalities of WWOX gene expression levels were observed in many tumor types and were associated with worse prognosis .
+The purpose of this study was to investigate the role of the WWOX tumor suppressor gene in Wilms ' tumor samples .
+We evaluated the correlation between expression of WWOX and genes involved in proliferation ( Ki67 ) , apoptosis ( BCL2 , BAX ) , signal transduction ( ERBB4 , ERBB2 , EGFR ) , cell cycle ( CCNE1 , CCND1 ) , cell adhesion ( CDH1 ) and transcription ( TP73 ) using real-time RT-PCR in 23 tumor samples .
+We also analyzed the potential causes of WWOX gene expression reduction i.e. , promoter methylation status ( MethylScreen method ) and loss of heterozygosity ( LOH ) status .
+We revealed a positive correlation between WWOX expression and BCL2 , BCL2/BAX ratio , EGFR , ERBB4 isoform JM-a , TP73 and negative correlation with both cyclins .
+Loss of heterozygosity of the WWOX gene was observed only at intron 8 , however , it had no influence on the reduction of its expression levels .
+Contrary to LOH , methylation of the region covering the 3 ' end of the promoter and part of exon 1 was associated with statistically significant reduction of WWOX gene expression levels .
+In the present study we reveal that in Wilms ' tumors the WWOX expression levels are positively associated with the process of apoptosis , signal transduction through the ErbB4 pathway and EGFR and negatively with the regulation of the cell cycle ( by cyclin E1 and D1 ) .
+Moreover , our analysis indicates that in this type of tumor the expression of the WWOX gene can be regulated by an epigenetic mechanism--its promoter methylation .

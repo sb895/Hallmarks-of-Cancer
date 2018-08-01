@@ -1,0 +1,12 @@
+OBJECTIVE To evaluate the difference of angiogenic factors PDGF/dThdPase,VEGF expression and microvessel density ( MVD ) in primary hypopharyngeal tumor and metastasis lymph nodes .
+METHOD The author studied immunohistochemically a series of 48 primary hypopharyngeal carcinoma patients and metastasis lymph nodes were calculated .
+RESULT The percentage of VEGF was 25.38% in primary tumor and 21.52% in lymph nodes .
+No significant difference was found .
+The percentage of PDGF/dThdPase was 29.59% in primary tumor and and 21.2% in lymph nodes .
+This showed significent difference .
+VEGF showed significent difference between live and death group(P < 0.05 ) and among differentiation group ( P < 0.05 ) .
+MVD showed significant difference between live and death group , early and late stage group , and T1-2 and T3-4 group ( P < 0.05 ) .
+There were statistically significant correlations between the score of PDGF/ dThdPase , or VEGF and the score of MVD respectively .
+CONCLUSION The present study suggests that there was a correlation between VEGF or PDGF and MVD .
+VEGF and MVD were possible to be prognostic discriminators in hypopharyngeal carcinoma .
+PDGF expression in lymph nodes was significant higher than in primary tumors , and MVD expression in primary tumor was significant higher than in lymph nodes .

@@ -1,0 +1,8 @@
+Human NEIL2 , one of five oxidized base-specific DNA glycosylases , is unique in preferentially repairing oxidative damage in transcribed genes .
+Here we show that depletion of NEIL2 causes a 6-7-fold increase in spontaneous mutation frequency in the HPRT gene of the V79 Chinese hamster lung cell line .
+This prompted us to screen for NEIL2 variants in lung cancer patients ' genomic DNA .
+We identified several polymorphic variants , among which R103Q and R257L were frequently observed in lung cancer patients .
+We then characterized these variants biochemically , and observed a modest decrease in DNA glycosylase activity relative to the wild type ( WT ) only with the R257L mutant protein .
+However , in reconstituted repair assays containing WT NEIL2 or its R257L and R103Q variants together with other DNA base excision repair ( BER ) proteins ( PNKP , Pol\u03b2 , Lig III\u03b1 and XRCC1 ) or using NEIL2-FLAG immunocomplexes , an decrease in repair was observed with the R257L variant compared to WT or R103Q NEIL2 , apparently due to the R257L mutant's lower affinity for other repair proteins , particularly Pol\u03b2 .
+Notably , increased endogenous DNA damage was observed in NEIL2 variant ( R257L)-expressing cells relative to WT cells .
+Taken together , our results suggest that the decreased DNA repair capacity of the R257L variant can induce mutations that lead to lung cancer development .

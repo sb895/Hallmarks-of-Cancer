@@ -1,0 +1,10 @@
+It is well established that aberrant production of inflammatory mediators has been associated with most the toxic manifestations and the genesis of different chronic diseases including cancer .
+The basic aim of the present study is to investigate the effects of soy isoflavones ( SIF ) on 12-O-tetradecanoylphorbol-13-acetate ( TPA)-induced cutaneous inflammatory responses and to explore the underlying molecular mechanisms .
+We have studied the protective effects of SIF against TPA induced oxidative stress , pro-inflammatory cytokines level , activation of NF-κB , expression of COX-2 and ki-67 in mouse skin .
+Animals were divided into five groups I-V ( n=6 ) .
+Groups II , III and IV received topical application of TPA at the dose of 10 nmol/0.2 ml of acetone/animal/day , for 2 days .
+Animals of the groups III and IV were pre-treated with SIF 1.0 μg ( D1 ) and 2.0 μg ( D2 ) topically 30 min prior to each TPA administration , while groups I and V were given acetone ( 0.2 ml ) and SIF ( D2 ) , respectively .
+We have found that SIF pretreatment significantly inhibited TPA induced oxidative stress , proinflammatory cytokines production and activation of NF-κB .
+SIF also inhibited the expression of COX-2 and ki-67 .
+Histological findings further supported the protective effects of SIF against TPA-induced cutaneous damage .
+Thus , our results suggest that inhibitory effect of SIF on TPA-induced cutaneous inflammation includes inhibition of proinflammatory cytokines , attenuation of oxidative stress , activation of NF-κB and expression of COX-2 .

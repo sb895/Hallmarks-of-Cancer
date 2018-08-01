@@ -1,0 +1,11 @@
+Liver cancer , predominantly hepatocellular carcinoma ( HCC ) , represents a complex and fatal malignancy driven primarily by oxidative stress and inflammation .
+Due to dismal prognosis and limited therapeutic intervention , chemoprevention has emerged as a viable approach to reduce the morbidity and mortality of HCC .
+Pomegranate fruit is a rich source of phytochemicals endowed with potent antioxidant and anti-inflammatory properties .
+We previously reported that pomegranate phytochemicals inhibit diethylnitrosamine ( DENA)-initiated hepatocarcinogenesis in rats though nuclear factor E2-related factor 2 ( Nrf2)-mediated antioxidant mechanisms .
+Since Nrf2 also acts as a key mediator of the nuclear factor-kappaB ( NF-κB)-regulated inflammatory pathway , our present study investigated the anti-inflammatory mechanisms of a pomegranate emulsion ( PE ) during DENA-induced rat hepatocarcinogenesis .
+Rats were administered with PE ( 1 or 10 g/kg ) 4 weeks before and 18 weeks following DENA initiation .
+There was a significant increase in hepatic expressions of inducible nitric oxide synthase , 3-nitrotyrosine , heat shock protein 70 and 90 , cyclooxygenase-2 and NF-κB in DENA-exposed rat livers .
+PE dose-dependently suppressed all aforementioned elevated inflammatory markers .
+A conspicuous finding of this study involves lack of cardiotoxicity of PE as assessed by monitoring cardiac function using noninvasive echocardiography .
+Our results provide substantial evidence that suppression of the inflammatory cascade through modulation of NF-κB signaling pathway may represent a novel mechanism of liver tumor inhibitory effects of PE against experimental hepatocarcinogenesis .
+Data presented here coupled with those of our earlier study underline the importance of simultaneously targeting two interconnected molecular circuits , namely , Nrf2-mediated redox signaling and NF-κB-regulated inflammatory pathway , by pomegranate phytoconstituents to achieve chemoprevention of HCC .

@@ -1,0 +1,12 @@
+BACKGROUND Brain-metastatic breast cancer ( BMBC ) is increasing and poses a severe clinical problem because of the lack of effective treatments and because the underlying molecular mechanisms are largely unknown .
+Recent work has demonstrated that deregulation of epidermal growth factor receptor ( EGFR ) may correlate with BMBC progression .
+However , the exact contribution that EGFR makes to BMBC remains unclear .
+METHODS The role of EGFR in BMBC was explored by serial analyses in a brain-trophic clone of human MDA-MB-231 breast carcinoma cells ( 231-BR cells ) .
+EGFR expression was inhibited by stable short-hairpin RNA transfection or by the kinase inhibitor erlotinib , and it was activated by heparin-binding epidermal growth factor-like growth factor ( HB-EGF ) .
+Cell growth and invasion activities also were analyzed in vitro and in vivo .
+RESULTS EGFR inhibition or activation strongly affected 231-BR cell migration/invasion activities as assessed by an adhesion assay , a wound-healing assay , a Boyden chamber invasion assay , and cytoskeleton staining .
+Also , EGFR inhibition significantly decreased brain metastases of 231-BR cells in vivo .
+Surprisingly , changes to EGFR expression affected cell proliferation activities less significantly as determined by a 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ( MTT ) assay , an anchorage-independent growth assay , and cell cycle analysis .
+Immunoblot analysis suggested that EGFR drives cells ' invasiveness capability mainly through phosphoinositide 3-kinase/protein kinase B and phospholipase C γ downstream pathways .
+In addition , EGFR was involved less in proliferation because of the insensitivity of the downstream mitogen-activated protein kinase pathway .
+CONCLUSIONS The current results indicated that EGFR plays more important roles in cell migration and invasion to the brain than in cell proliferation progression on 231-BR cells , providing new evidence of the potential value of EGFR inhibition in treating BMBC .

@@ -1,0 +1,11 @@
+Ionizing radiation is a potent inducer of DNA damage because it causes single- and double-strand breaks , alkali-labile sites , base damage , and crosslinks .
+The interest in ionizing radiation is due to its environmental and clinical implications .
+Single-strand breaks , which are the initial damage induced by a genotoxic agent , can be used as a biomarker of exposure , whereas the more biologically relevant double-strand breaks can be analyzed to quantify the extent of damage .
+In the present study the effects of 137CS gamma-radiation at doses of 1 , 5 , and 10 Gray on DNA and subsequent repair by C3H10T1/2 cells ( mouse embryo fibroblasts ) were investigated .
+Two versions of the comet assay , a sensitive method for evaluating DNA damage , were implemented : the alkaline one to detect single-strand breaks , and the neutral one to identify double-strand breaks .
+The results show a good linear relation between DNA damage and radiation dose , for both single-strand and double-strand breaks .
+A statistically significant difference with respect to controls was found at the lowest dose of 1 Gy .
+Heterogeneity in DNA damage within the cell population was observed as a function of radiation dose .
+Repair kinetics showed that most of the damage was repaired within 2 h after irradiation , and that the highest rejoining rate occurred with the highest dose ( 10 Gy ) .
+Single-strand breaks were completely repaired 24 h after irradiation , whereas residual double-strand breaks were still present .
+This finding needs further investigation .

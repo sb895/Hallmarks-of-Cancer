@@ -1,0 +1,13 @@
+Elevated androgen receptor ( AR ) activity in castration-resistant prostate cancer ( CRPC ) may occur through increased levels of AR coactivator proteins .
+Vav3 , a guanine nucleotide exchange factor ( GEF ) , is upregulated following progression to castration-resistance in preclinical models and is overexpressed in a significant number of human prostate cancers .
+Vav3 is a novel coactivator of the AR .
+We sought to identify Vav3 binding partners in an effort to understand the molecular mechanisms underlying Vav3 enhancement of AR activity and to identify new therapeutic targets .
+The cell division cycle 37 homolog ( Cdc37 ) , a protein kinase-specific co-chaperone for Hsp90 , was identified as a Vav3 interacting protein by yeast two hybrid screening .
+Vav3-Cdc37 interaction was confirmed by GST pulldown and , for native proteins , by coimmunoprecipitation experiments in prostate cancer cells .
+Cdc37 potentiated Vav3 coactivation of AR transcriptional activity and Vav3 enhancement of AR amino-carboxyl terminal ( N-C ) interaction , which is essential for optimal receptor transcriptional activity .
+Cdc37 increased prostate cancer cell proliferation selectively in Vav3 expressing cells .
+Cdc37 did not affect Vav3 nucleotide exchange activity , Vav3 protein levels or subcellular localization .
+Disruption of Vav3-Cdc37 interaction inhibited Vav3 enhancement of AR transcriptional activity and AR N-C interaction .
+Diminished Vav3-Cdc37 interaction also caused decreased prostate cancer cell proliferation selectively in Vav3 expressing cells .
+Taken together , we identified a novel Vav3 interacting protein that enhances Vav3 coactivation of AR and prostate cancer cell proliferation .
+Vav3-Cdc37 interaction may provide a new therapeutic target in prostate cancer .

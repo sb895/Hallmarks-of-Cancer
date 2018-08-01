@@ -1,0 +1,8 @@
+Chromatin , a complex of DNA and proteins in the eukaryotic cell nucleus governs various cellular processes including DNA replication , DNA repair and transcription .
+Chromatin architecture and dynamics dictates the timing of cellular events by regulating proteins ' accessibility to DNA as well as by acting as a scaffold for protein-protein interactions .
+Nucleosome , the basic unit of chromatin consists of a histone octamer comprised of ( H3-H4)2 tetramer and two H2A-H2B dimers on which 146 bp of DNA is wrapped around times .
+Chromatin changes brought about by histone modifications , histone-modifying enzymes , chromatin remodeling factors , histone chaperones , histone variants and chromatin dynamics influence the regulation and timing of gene expression .
+Similarly , the timing of DNA replication is dependent on the chromatin context that in turn dictates origin selection .
+Further , during the process of DNA replication , not only does an organism's DNA have to be accurately replicated but also the chromatin structure and the epigenetic marks have to be faithfully transmitted to the daughter cells .
+Active transcription has been shown to repress replication while at the same time it has been shown that when origins are located at promoters , because of enhanced chromatin accessibility , they fire efficiently .
+In this review , we focus on how chromatin modulates two fundamental processes , DNA replication and transcription .

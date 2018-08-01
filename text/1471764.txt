@@ -1,0 +1,10 @@
+Chromatographic , peptide mapping and mass spectrometric analysis were used to examine hemoglobin ( Hb ) from heavy drinkers and abstainers for alcohol consumption-related modifications .
+Heavy drinker and abstainer hemoglobin samples contained similar amounts of glycosylated Hb and significantly different ( p < 0.05 ) amounts of " fast " hemoglobin .
+The presence of higher amounts of " fast " Hb in heavy drinker relative to abstainer samples suggested the presence of alcohol-consumption related modifications .
+To further examine Hb for modifications , tryptic peptides of the " fast " hemoglobin HbA1c were isolated and analyzed by plasma desorption mass spectrometry ( PDMS). [ 14C]acetaldehyde ( AcH)-Hb was synthesized in vivo for use as a standard .
+Specific peptides were chosen based on co-migration with radiolabeled peptides from a tryptic digest of the [ 14C]acetaldehyde-Hb .
+The masses obtained by PDMS for two heavy drinker peptides were identical to two radiolabeled peptides ; the two pairs of peptides co-migrated on HPLC .
+A comparison of the observed mass for the peptides with the theoretical masses for acetaldehyde-modified Hb peptides suggested that the peptides were AcH-modified alpha and beta chain N-termini of Hb .
+The modified peptides were found in five of six heavy drinker samples .
+This is the first description of site-specific AcH-Hb adducts occurring in vivo .
+The routine detection of such adducts has potential for characterizing usual alcohol intake .

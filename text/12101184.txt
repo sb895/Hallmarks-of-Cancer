@@ -1,0 +1,8 @@
+Direct experimental evidence implicates telomere erosion as a primary cause of cellular senescence .
+Using a well characterized model system for breast cancer , we define here the molecular and cellular consequences of adriamycin treatment in breast tumor cells .
+Cells acutely exposed to adriamycin exhibited an increase in p53 activity , a decline in telomerase activity , and a dramatic increase in beta-galactosidase , a marker of senescence .
+Inactivation of wild-type p53 resulted in a transition of the cellular response to adriamycin treatment from replicative senescence to delayed apoptosis , demonstrating that p53 plays an integral role in the fate of breast tumor cells treated with DNA-damaging agents .
+Stable introduction of hTERT , the catalytic protein component of telomerase , into MCF-7 cells caused an increase in telomerase activity and telomere length .
+Treatment of MCF-7-hTERT cells with adriamycin produced an identical senescence response as controls without signs of telomere shortening , indicating that the senescence after treatment is telomere length-independent .
+However , we found that exposure to adriamycin resulted in an overrepresentation of cytogenetic changes involving telomeres , showing an altered telomere state induced by adriamycin is probably a causal factor leading to the senescence phenotype .
+To our knowledge , these data are the first to demonstrate that the mechanism of adriamycin-induced senescence is dependent on both functional p53 and telomere dysfunction rather than overall shortening .

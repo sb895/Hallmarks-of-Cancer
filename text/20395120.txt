@@ -1,0 +1,10 @@
+The hypoxic tumor microenvironment is associated with malignant progression and poor treatment response .
+The glucose transporter Glut-1 is a prognostic factor and putative hypoxia marker .
+So far , studies of Glut-1 in cancer have utilized conventional immunohistochemical analysis in a series of individual biopsy or surgical specimens .
+Tissue microarrays , however , provide a rapid , inexpensive means of profiling biomarker expression .
+To evaluate hypoxia markers , tissue cores must show the architectural features of hypoxia ; i.e. viable tissue surrounding necrotic regions .
+Glut-1 may be a useful biomarker to validate tissue microarrays for use in studies of hypoxia-regulated genes in cancer .
+In this study , we carried out immunohistochemical detection of Glut-1 protein in many tumor and normal tissue types in a range of tissue microarrays .
+Glut-1 was frequently found in peri-necrotic regions , occurring in 9/34 lymphomas , 6/12 melanomas , and 5/16 glioblastomas ; and in 43/54 lung , 22/84 colon , and 23/60 ovarian tumors .
+Expression was rare in breast ( 6/40 ) and prostate ( 1/57 ) tumors , and in normal tissue , was restricted to spleen , tongue , and CNS endothelium .
+In conclusion , tissue microarrays enable the observation of Glut-1 expression in peri-necrotic regions , which may be linked to hypoxia , and reflect previous studies showing differential Glut-1 expression across tumor types and non-malignant tissue .

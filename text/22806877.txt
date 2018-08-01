@@ -1,0 +1,10 @@
+PURPOSE We describe the anticancer activity of ganetespib , a novel non-geldanamycin heat shock protein 90 ( HSP90 ) inhibitor , in non-small cell lung cancer ( NSCLC ) models .
+EXPERIMENTAL DESIGN The activity of ganetespib was compared with that of the geldanamycin 17-AAG in biochemical assays , cell lines , and xenografts , and evaluated in an ERBB2 YVMA-driven mouse lung adenocarcinoma model .
+RESULTS Ganetespib blocked the ability of HSP90 to bind to biotinylated geldanamycin and disrupted the association of HSP90 with its cochaperone , p23 , more potently than 17-AAG .
+In genomically defined NSCLC cell lines , ganetespib caused depletion of receptor tyrosine kinases , extinguishing of downstream signaling , inhibition of proliferation and induction of apoptosis with IC(50) values ranging 2 to 30 nmol/L , substantially lower than those required for 17-AAG ( 20-3,500 nmol/L ) .
+Ganetespib was also approximately 20-fold more potent in isogenic Ba/F3 pro-B cells rendered IL-3 independent by expression of EGFR and ERBB2 mutants .
+In mice bearing NCI-H1975 ( EGFR L858R/T790M ) xenografts , ganetespib was rapidly eliminated from plasma and normal tissues but was maintained in tumor with t(1/2) 58.3 hours , supporting once-weekly dosing experiments , in which ganetespib produced greater tumor growth inhibition than 17-AAG .
+However , after a single dose , reexpression of mutant EGFR occurred by 72 hours , correlating with reversal of antiproliferative and proapoptotic effects .
+Consecutive day dosing resulted in xenograft regressions , accompanied by more sustained pharmacodynamic effects .
+Ganetespib also showed activity against mouse lung adenocarcinomas driven by oncogenic ERBB2 YVMA .
+CONCLUSIONS Ganetespib has greater potency than 17-AAG and potential efficacy against several NSCLC subsets , including those harboring EGFR or ERBB2 mutation .

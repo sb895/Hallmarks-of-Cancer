@@ -1,0 +1,6 @@
+Cold atmospheric plasma ( CAP ) , a technology based on quasi-neutral ionized gas at low temperatures , is currently being evaluated as a new highly selective alternative addition to existing cancer therapies .
+Here , we present a first attempt to identify the mechanism of CAP action .
+CAP induced a robust G2/M increase in two different types of cancer cells with different degrees of tumorigenicity .
+We hypothesize that the increased sensitivity of cancer cells to CAP treatment is caused by differences in the distribution of cancer cells and normal cells within the cell cycle .
+The expression of γH2A.X ( pSer139 ) , an oxidative stress reporter indicating S-phase damage , is enhanced specifically within CAP treated cells in the S phase of the cell cycle .
+Together with a significant decrease in EdU-incorporation after CAP , these data suggest that tumorigenic cancer cells are more susceptible to CAP treatment .

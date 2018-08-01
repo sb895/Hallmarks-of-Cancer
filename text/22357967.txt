@@ -1,0 +1,6 @@
+The covalent modification of proteins with ubiquitin is required for accurate cell division in all eukaryotes .
+Ubiquitylation depends on an enzymatic cascade , in which E3 enzymes recruit specific substrates for modification .
+Among human E3s , the SCF ( Skp1-cullin1-F-box ) and the APC/C ( anaphase-promoting complex/cyclosome ) are known for driving the degradation of cell cycle regulators to accomplish irreversible cell cycle transitions .
+The cell cycle machinery reciprocally regulates the SCF and APC/C through various mechanisms , including the modification of these E3s or the binding of specific inhibitors .
+Recent studies have provided new insight into the intricate relationship between ubiquitylation and the cell division apparatus as they revealed roles for atypical ubiquitin chains , new mechanisms of substrate and E3 regulation , as well as extensive crosstalk between ubiquitylation enzymes .
+Here , we review these emerging regulatory mechanisms of ubiquitin-dependent cell cycle control and discuss how their manipulation might provide therapeutic benefits in the future .

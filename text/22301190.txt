@@ -1,0 +1,8 @@
+p53 is a well-known transcription factor that controls cell cycle arrest and cell death in response to a wide range of stresses .
+Moreover , p53 regulates glucose metabolism and its mutation results in the metabolic switch to the Warburg effect found in cancer cells .
+Nucleotide biosynthesis is also critical for cell proliferation and the cell division cycle .
+Nonetheless , little is known about whether p53 regulates nucleotide biosynthesis .
+Here we demonstrated that p53-inducible microRNA-34a ( miR-34a ) repressed inosine 5'-monophosphate dehydrogenase ( IMPDH ) , a rate-limiting enzyme of de novo GTP biosynthesis .
+Treatment with anti-miR-34a inhibitor relieved the expression of IMPDH upon DNA damage .
+Ultimately , miR-34a-mediated inhibition of IMPDH resulted in repressed activation of the GTP-dependent Ras signaling pathway .
+In summary , we suggest that p53 has a novel function in regulating purine biosynthesis , aided by miR-34a-dependent IMPDH repression .

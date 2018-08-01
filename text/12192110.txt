@@ -1,0 +1,21 @@
+Immunosuppression has been related to the incidence of tumor apparition , including endocrine tumors .
+The intrasplenic ovarian tumor ( luteoma ) is a typical benign endocrine tumor that develops under high gonadotropin stimulation and , from the immunological perspective , is located in a critical organ involved in immune response .
+To establish if immunosuppression could alter the development of this experimental tumor , the effects of cyclosporin A ( CsA ) and dexamethasone ( Dex ) were evaluated .
+After surgery , tumor-bearing and sham animals were kept without treatment for 4 weeks ; thereafter , they were distributed into CsA ( 25 mg/kg ) , Dex ( 0.1 mg/kg ) , or vehicle ( 75:25 castor oil:ethanol ) groups and were injected on alternate days for 50 days .
+Body weight was evaluated weekly .
+Animals were sacrificed after a jugular vein blood sample was obtained .
+Thymi were weighed .
+Tumors were measured and placed in formaline for histological studies .
+Serum luteinizing hormone ( LH ) , follicle-stimulating hormone ( FSH ) , prolactin ( PRL ) , and estradiol were measured by radioimmunoassay .
+Hematological parameters were determined .
+CsA induced a significant decrease in survival rates both in tumor-bearing and sham animals ( P < 0.01 ) .
+Dex significantly impaired weight increase in both groups of animals .
+CsA induced a significant weight loss in sham animals , not observed in tumor-bearing animals .
+Dex induced thymus weight loss in both groups , whereas CsA induced thymus weight loss only in sham animals .
+Only Dex induced a decrease in lymphocyte number in both groups .
+CsA induced an increase in monocyte number only in sham animals .
+Treatments did not alter LH , FSH , or estradiol , whereas PRL was increased by CsA only in sham rats .
+Neither Dex nor CsA induced any significant variations in tumor volume , nor did they alter tumor histology .
+In addition , no visible metastases or alterations in other organs were observed .
+We conclude that , though immunological parameters were altered by the treatments , immunosuppressor drugs did not condition tumor development .
+In addition , tumors secrete one or more factor/s that counteract CsA effect .

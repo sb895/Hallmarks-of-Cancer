@@ -1,0 +1,12 @@
+Extracellular respiration of solid-phase electron acceptors in some microorganisms requires a complex chain of multiheme c-type cytochromes that span the inner and outer membranes .
+In Shewanella species , MtrA , an periplasmic decaheme c-type cytochrome , is an essential component for extracellular respiration of iron(III) .
+The exact mechanism of electron transport has not yet been resolved , but the arrangement of the polypeptide chain may have a strong influence on the capability of the MtrA cytochrome to transport electrons .
+The iron hemes of MtrA are bound to its polypeptide chain via proximal ( CXXCH ) and distal histidine residues .
+In this study , we show the effects of mutating histidine residues of MtrA to arginine on protein expression and extracellular respiration using Shewanella sp. strain ANA-3 as a model organism .
+Individual mutations to six out of nine proximal histidines in CXXCH of MtrA led to decreased protein expression .
+However , distal histidine mutations resulted in various degrees of protein expression .
+In addition , the effects of histidine mutations on extracellular respiration were tested using ferrihydrite and current production in microbial fuel cells .
+These results show that proximal histidine mutants were unable to reduce ferrihydrite .
+Mutations to the distal histidine residues resulted in various degrees of ferrihydrite reduction .
+These findings indicate that mutations to the proximal histidine residues affect MtrA expression , leading to loss of extracellular respiration ability .
+In contrast , mutations to the distal histidine residues are less detrimental to protein expression , and extracellular respiration can proceed .

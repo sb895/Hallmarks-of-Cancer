@@ -1,0 +1,10 @@
+This study aimed to analyze the role of endothelial progenitor cell ( EPC)-derived angiogenic factors and chemokines in the multistep process driving angiogenesis with a focus on the recently discovered macrophage migration inhibitory factor ( MIF)/chemokine receptor axis .
+Primary murine and murine embryonic EPCs ( eEPCs ) were analyzed for the expression of angiogenic/chemokines and components of the MIF/CXC chemokine receptor axis , focusing on the influence of hypoxic versus normoxic stimulation .
+Hypoxia induced an upregulation of CXCR2 and CXCR4 but not CD74 on EPCs and triggered the secretion of CXCL12 , CXCL1 , MIF , and vascular endothelial growth factor ( VEGF ) .
+These factors stimulated the transmigration activity and adhesive capacity of EPCs , with MIF and VEGF exhibiting the strongest effects under hypoxia .
+MIF- , VEGF- , CXCL12- , and CXCL1-stimulated EPCs enhanced tube formation , with MIF and VEGF exhibiting again the strongest effect following hypoxia .
+Tube formation following in vivo implantation utilizing angiogenic factor-loaded Matrigel plugs was only promoted by VEGF .
+Coloading of plugs with eEPCs led to enhanced tube formation only by CXCL12 , whereas MIF was the only factor which induced differentiation towards an endothelial and smooth muscle cell ( SMC ) phenotype , indicating an angiogenic and differentiation capacity in vivo .
+Surprisingly , CXCL12 , a chemoattractant for smooth muscle progenitor cells , inhibited SMC differentiation .
+We have identified a role for EPC-derived proangiogenic MIF , VEGF and MIF receptors in EPC recruitment following hypoxia , EPC differentiation and subsequent tube and vessel formation , whereas CXCL12 , a mediator of early EPC recruitment , does not contribute to the remodeling process .
+By discerning the contributions of key angiogenic chemokines and EPCs , these findings offer valuable mechanistic insight into mouse models of angiogenesis and help to define the intricate interplay between EPC-derived angiogenic cargo factors , EPCs , and the angiogenic target tissue .

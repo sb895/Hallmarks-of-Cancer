@@ -1,0 +1,10 @@
+Arginine deprivation is a promising strategy for treating ASS-negative malignant tumors including melanoma .
+However , autophagy can potentially counteract the effectiveness of this treatment by acting as a pro-survival pathway .
+By combining tumor necrosis factor-related apoptosis-inducing ligand ( TRAIL ) with arginine deprivation using ADI-PEG20 ( pegylated arginine deiminase ) , we achieved enhanced apoptosis and accelerated cell death in melanoma cell lines .
+This implies a switch from autophagy to apoptosis .
+In our current investigation , we found that TRAIL could induce the cleavage of two key autophagic proteins , Beclin-1 and Atg5 , in the combination treatment .
+Using specific inhibitors for individual caspases , we found that caspase-8 inhibitor could completely abolish the cleavage .
+Furthermore , caspase-8 inhibitor was able to fully reverse the enhanced cytotoxicity induced by TRAIL .
+Inhibitors for caspase-3 , 6 , 9 , and 10 were able to block the cleavage of these two autophagic proteins to some extent and correspondingly rescue cells from the cytotoxicity of the combination of TRAIL and arginine deprivation .
+In contrast , calpain inhibitor could not prevent the cleavage of either Beclin-1 or Atg5 , and was unable to prevent cell death .
+Overall , our data indicate that the cleavage of Beclin-1 and Atg5 by TRAIL-initiated caspase activation is one of the mechanisms that lead to the enhancement of the cytotoxicity in the combination treatment .

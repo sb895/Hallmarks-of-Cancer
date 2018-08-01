@@ -1,0 +1,12 @@
+Growth of Caco-2 and many cancer cells is inhibited by 1,25(OH)(2)D(3) .
+Whereas TGF-beta 1 inhibits normal colonic epithelial cell growth , most human colon cancer-derived cells , including Caco-2 and SW480 cells , are resistant to it .
+The mechanisms underlying these antiproliferative actions and resistance to TGF-beta growth inhibition are largely unknown .
+We observed that 1,25-dihydroxyvitamin D(3) [ 1,25(OH)(2)D(3) ] sensitized Caco-2 and SW480 cells to TGF-beta 1 growth inhibitory effects .
+Versus 1,25(OH)(2)D(3) alone , the combination of 1,25(OH)(2)D(3) and TGF-beta 1 significantly reduced cell numbers .
+Also , the amount of active TGF-beta 1 was increased ( by this secosteroid in conditioned media from Caco-2 cells .
+The 1,25(OH)(2)D(3) increased the expression of IGF-II receptors ( IGF-IIR ) , which facilitated activation of latent TGF-beta 1 , and was found to activate TGF-beta signaling in Caco-2 cells .
+By using neutralizing antibodies to human TGF-beta 1 , we showed that this cytokine contributes to secosteroid-induced inhibition of Caco-2 cell growth .
+Also , 1,25(OH)(2)D(3) was found to enhance the type I TGF-beta receptor mRNA and protein abundance in Caco-2 cells .
+Whereas the 1,25(OH)(2)D(3)-induced sensitization of Caco-2 cells to TGF-beta 1 was IGF-IIR independent , the type I TGF-beta 1 receptor was required for this sensitization .
+Thus 1,25(OH)(2)D(3) treatment of Caco-2 cells results in activation of latent TGF-beta 1 , facilitated by the enhanced expression of IGF-IIR by this secosteroid .
+Also , 1,25(OH)(2)D(3) sensitized Caco-2 cells to growth inhibitory effects of TGF-beta 1 , contributing to the inhibition of Caco-2 cell growth by this secosteroid .

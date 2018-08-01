@@ -1,0 +1,5 @@
+K-Ras dependent non-small cell lung cancer ( NSCLC ) cells are ' addicted ' to basal autophagy that reprograms cellular metabolism in a lysosomal-sensitive manner .
+Here we demonstrate that the xenophagy-associated kinase TBK1 drives basal autophagy , consistent with its known requirement in K-Ras-dependent NSCLC proliferation .
+Furthermore , basal autophagy in this context is characterised by sequestration of the xenophagy cargo receptor Ndp52 and its paralogue Tax1bp1 , which we demonstrate here to be a bona fide cargo receptor .
+Autophagy of these cargo receptors promotes non-canonical NF-κB signalling .
+We propose that this TBK1-dependent mechanism for NF-κB signalling contributes to autophagy addiction in K-Ras driven NSCLC .

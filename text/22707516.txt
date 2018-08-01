@@ -1,0 +1,14 @@
+OBJECTIVE Hepatocellular carcinoma ( HCC ) is a highly vascularized tumor in which neoangiogenesis contributes to growth and metastasis .
+We assessed the safety , efficacy , and potential biomarkers of activity of bevacizumab in patients with advanced HCC .
+METHODS In this phase II trial , eligible patients received bevacizumab , 5 mg/kg or 10 mg/kg every 2 weeks .
+The disease-control rate at 16 weeks ( 16W-DCR ) was the primary endpoint .
+Circulating endothelial cells ( CECs ) and plasma cytokines and angiogenic factors ( CAFs ) were measured at baseline and throughout treatment .
+RESULTS The 16W-DCR was 42% ( 95% confidence interval , 27%-57% ) .
+Six of the 43 patients who received bevacizumab achieved a partial response ( objective response rate [ ORR ] , 14% ) .
+Grade 3-4 asthenia , hemorrhage , and aminotransferase elevation occurred in five ( 12% ) , three ( 7% ) , and three ( 7% ) patients , respectively .
+During treatment , placental growth factor markedly increased , whereas vascular endothelial growth factor ( VEGF)-A dramatically decreased ( p < .0001 ) ; soluble VEGF receptor-2 ( p < .0001 ) and CECs ( p = .03 ) transiently increased on day 3 .
+High and increased CEC counts at day 15 were associated with the ORR ( p = .04 ) and the 16W-DCR ( p = .02 ) , respectively .
+Lower interleukin ( IL)-8 levels at baseline ( p = .01 ) and throughout treatment ( p ≤ .04 ) were associated with the 16W-DCR .
+High baseline IL-8 and IL-6 levels predicted shorter progression-free and overall survival times ( p ≤ .04 ) .
+CONCLUSION Bevacizumab is active and well tolerated in patients with advanced HCC .
+The clinical value of CECs , IL-6 , and IL-8 warrants further investigation .

@@ -1,0 +1,11 @@
+The involvement of PRL in regulating monocyte/macrophage functions is suggested by the presence of PRL-Rs in these cells .
+Here , we show that PRL , though it failed to activate mouse peritoneal resident macrophages ( RMs ) , acted as a second signal and activated mouse peritoneal inflammatory macrophages ( EMs ) to a tumoricidal state .
+The cytotoxicity of mouse tumor-associated macrophages ( TAMs ) isolated at day 1 of tumor ( Ehrlich ascites carcinoma , EAC ) growth was enhanced by PRL .
+However , with progression of tumor growth , TAMs became nonresponsive to the hormone .
+PRL-induced killing of P815 target cells by EMs and TAMs was independent of TNF but correlated with the hormone-induced augmentation of NO2(-) and O2(-) release in these macrophages .
+Administration of PRL in vivo inhibited EAC growth and augmented NO2(-) release by TAMs .
+PRL synergized with the TH1 cytokine IFN-gamma , a known activator of macrophages , in inducing tumor killing and release of NO2(-) from EMs and TAMs .
+The hormone might activate macrophages at least partially , through the release of IFN-gamma as anti-IFN-gamma blocked IFN-gamma- as well as PRL-induced cytotoxicity in EMs .
+The TH2 cytokine IL-4 suppressed PRL-induced activation of macrophages .
+PRL induced release of IL-12 from EMs also , which suggested that the hormone might drive the TH1 response through IL-12 .
+Our observations further suggest that PRL alone and in synergy with IFN-gamma , released through induction of IL-12 , may generate tumoricidal macrophages and thus regulate the antitumor immune response of tumor hosts .

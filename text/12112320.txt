@@ -1,0 +1,9 @@
+The relationship between thyroid hormone ( triiodothyronine , T(3) ) and breast cancer is unclear .
+We studied the effect of the c-erbA/TR alpha proto-oncogene encoding a functional T(3) receptor ( TR alpha 1 ) , of its ligand T(3) , and of its retroviral , mutated counterpart , the v-erbA oncogene , on the proliferation capacity of nontumorigenic mammary epithelial cells ( EpH4 ) .
+We found that EpH4 cells expressing ectopically TR ( EpH4 + TR alpha 1 ) or v-erbA ( EpH4 + v-erbA ) proliferated faster than parental EpH4 cells that contained low levels of endogenous TR .
+T(3) inhibited DNA synthesis and proliferation in EpH4 + TR alpha 1 cells but not EpH4 or EpH4 + v-erbA cells .
+The study of cell-cycle genes showed that T(3) decreased cyclin D1 RNA and protein levels in EpH4 + TR alpha 1 cells .
+In addition , T(3) downregulated the expression of T1 , a gene that is overexpressed in human breast adenocarcinomas and is induced by mitogens , serum , and several oncogenes and cytokines .
+Inhibition of the T1 gene by T(3) required both de novo mRNA and protein synthesis .
+Furthermore , T(3) abolished the induction of T1 by the tumor promoter 12-O-tetradecanoylphorbol-13-acetate and inhibited the activity of an activation protein 1-dependent promoter ( -73-Col-CAT ) in EpH4 + TR alpha 1 cells , suggesting that interference with activation protein 1 transcription factor plays a part in the inhibition of the T1 gene .
+Our results showed that T(3) reduced the proliferation of mammary epithelial cells and inhibited the expression of cyclin D1 and T1 genes .

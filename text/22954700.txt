@@ -1,0 +1,15 @@
+Cancer cells convert glucose preferentially to lactate even in the presence of oxygen ( aerobic glycolysis-Warburg effect ) .
+New concepts in cancer treatment aim at inhibition of aerobic glycolysis .
+Pyruvate dehydrogenase converts pyruvate to acetylCoA thus preventing lactate formation .
+Therefore , the aim of this study was to evaluate compounds that could activate pyruvate dehydrogenase in cancer cells .
+We investigated the effects of ( R)-(+)-α-lipoic acid ( LPA ) and dichloroacetate ( DCA ) , possible activators of pyruvate dehydrogenase , on suppression of aerobic glycolysis and induction of cell death .
+The neuroblastoma cell lines Kelly , SK-N-SH , Neuro-2a and the breast cancer cell line SkBr3 were incubated with different concentrations ( 0.1-30 mM ) of LPA and DCA .
+The effects of both compounds on cell viability/proliferation ( WST-1 assay ) , [ 18F]-FDG uptake , lactate production and induction of apoptosis ( flow cytometric detection of caspase-3 ) were evaluated .
+Furthermore , NMRI nu/nu mice that had been inoculated s.c. with SkBr3 cells were treated daily for four weeks with LPA ( i.p , 18.5 mg/kg ) starting at day 7 p.i. .
+Tumor development was measured with a sliding calliper and monitored via [ 18F]-FDG-PET .
+Residual tumors after therapy were examined histopathologically .
+These data suggests that LPA can reduce ( 1 ) cell viability/proliferation , ( 2 ) uptake of [ 18F]-FDG and ( 3 ) lactate production and increase apoptosis in all investigated cell lines .
+In contrast , DCA was almost ineffective .
+In the mouse xenograft model with s.c .
+SkBr3 cells , daily treatment with LPA retarded tumor progression .
+Therefore , LPA seems to be a promising compound for cancer treatment .

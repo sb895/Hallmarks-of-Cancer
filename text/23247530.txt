@@ -1,0 +1,15 @@
+In this study , laboratory experiments were carried out in order to come to a better understanding of the fate of polycyclic aromatic hydrocarbons ( PAHs ) in the marine environment and especially on their bioaccumulation , biotransformation and genotoxic effects in fish .
+Juveniles of turbot ( Scophthalmus maximus ) were exposed to PAHs through different routes via ( 1 ) a mixture of dissolved PAHs , ( 2 ) a PAH-polluted sediment and ( 3 ) an oil fuel elutriate .
+Fish were exposed 4 days followed by a 6-day depuration period .
+In each experiment , PAH concentrations in the seawater of the tanks were analysed regularly by gas chromatography coupled with mass spectrometry .
+Muscle and liver samples were also analysed for parent PAH levels and PAH bioconcentration factors were calculated .
+Biotransformation was evaluated by measuring the levels of PAH metabolites in fish bile .
+Genotoxicity was assessed by the alkaline comet assay .
+Regardless of exposure route , the parent PAH concentrations in the liver and muscle showed a peak level 1 day after the beginning of the exposure , followed by a decrease up to the background level towards the end of the experiment , except for the exposure to dissolved PAHs for which levels were relatively low throughout the study .
+As a consequence , no bioaccumulation was observed in fish tissues at the end of the experiment .
+In contrast , regardless of exposure routes , a rapid production of biliary metabolites was observed throughout the whole exposure experiment .
+This was especially true for 1-hydroxypyrene , the major metabolite of pyrene .
+After 6 days of recovery in clean water , a significant decrease in the total metabolite concentrations occurred in bile .
+Fish exposed through either route displayed a significant increase in DNA strand breaks after 4 days of exposure , and significant correlations were observed between the level of biliary PAH metabolites and the level of DNA lesions in fish erythrocytes .
+Overall results indicate that exposure to either a mixture of dissolved PAHs , a PAH-contaminated sediment or a dispersed oil fuel elutriate leads to biotransformation and increase in DNA damage in fish .
+The quantification of PAH metabolites in bile and DNA damage in erythrocytes appear to be suitable for environmental monitoring of marine pollution either in the case of accidental oil spills or sediment contamination .

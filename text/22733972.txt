@@ -1,0 +1,10 @@
+Elevated phosphorylation of estrogen receptor α ( ERα ) at serines 118 ( S118 ) and 167 ( S167 ) is associated with favorable outcome for tamoxifen adjuvant therapy and may serve as surrogate markers for a functional ERα signaling pathway in breast cancer .
+It is possible that loss of phosphorylation at S118 and/or S167 could disrupt ERα signaling , resulting in aggressive ERα-independent breast cancer cells .
+To this end , MCF-7 breast cancer cells were stably transfected with an ERα-specific short hairpin RNA that reduced endogenous ERα .
+The resulting cell line was stably transfected with wild-type ERα ( ER-AB cells ) , or ERα containing serine to alanine mutation at S118 or S167 ( S118A cells and S167A cells , respectively ) .
+These stable cell lines expressed approximately equivalent ERα compared with parental MCF-7 cells and were evaluated for growth , morphology , migration/invasion , and ERα-regulated gene expression .
+S118A cells and S167A cells exhibited increased growth and migration/invasion in vitro .
+Forward- and side-scatter flow cytometry revealed that S167A cells were smaller in size , and both S118A and S167A cells exhibited less cellular complexity .
+S118A and S167A cells expressed pancytokeratin and membrane localization of β-catenin and did not express vimentin , indicating retention of epithelial lineage markers .
+Expression of ERα-target genes and other genes regulated by ERα signaling or involved in breast cancer were markedly altered in both S118A and S167A cells .
+In summary , attenuated phosphorylation of ERα at S118 and S167 significantly affected cellular physiology and behavior in MCF-7 breast cancer cells , resulting in increased growth , migration/invasion , compromised expression of ERα target genes , and markedly altered gene expression patterns .

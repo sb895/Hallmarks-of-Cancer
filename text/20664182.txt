@@ -1,0 +1,8 @@
+AIMS To screen the genes and possible signal transduction pathways with which nucleostemin ( NS ) interacts and explore the mechanism of NS in prostate cancer .
+METHODS NS-specific short-hairpin RNA expression plasmid was used to downregulate the NS level in PC-3 cells and the changes of cell cycle were studied .
+After that , oligonucleotide DNA microarray was used to screen the genome changes in PC-3 cells and quantitative real-time PCR was used to further confirm the differentially expressed genes .
+RESULTS Detection of cell cycle showed a decrease of S stage and an increase of G1 stage after downregulation of NS. 219 differentially expressed genes were found and these genes were involved in cell cycle , cell proliferation , signal transduction , cell apoptosis and cell differentiation , and so on .
+Genes related to cell cycle were discussed emphatically .
+INK4 family genes ( P15 , P16 , P18 ) were upregulated while cyclin D1 HDAC1 were downregulated .
+These genes were tightly related to CDK4/6-cyclin D and pRb-E2F1 complexes .
+CONCLUSION NS is an important G1/S checkpoint regulator and it could regulate cell cycles via a p53-independent pathway in prostate cancer .

@@ -1,0 +1,11 @@
+HM781-36B is an orally administered pan-human epidermal growth factor receptor ( HER ) inhibitor .
+To explore the role of pan-HER inhibitor in breast cancer , we investigated the antitumor effect and mechanisms of HM781-36B in breast cancer cell lines .
+Six breast cancer cell lines ( BT474 , MDA-MB-453 , SK-BR-3 , T47D , MCF-7 , and MDA-MB-231 ) were tested .
+The growth inhibitory effect was assessed using the tetrazolium bromide [ 3-(4,5-dimethylthiazole-2-yl)-2,5-diphenyl-tetrazolium bromide ] assay .
+The cell cycle at various concentrations of HM781-36B was analyzed by flow cytometry , and analysis of downstream molecules was performed by western blot analysis .
+Interaction of HM781-36B with cytotoxic chemotherapeutic agents was analyzed by combination index using CalcuSyn .
+The HER2-amplified cells ( SK-BR-3 , BT474 , and MDA-MB-453 ) were sensitive to HM781-36B ( IC50=0.001 μmol/l , 0.0012 μmol/l , and 0.0095 μmol/l , respectively ) .
+HM781-36B induced G1 arrest and resulted in apoptosis .
+It reduced the level of p-HER2 , p-AKT , p-ERK , and p-STAT3 .
+HM781-36B combined with 5-fluorouracil , cisplatin , paclitaxel , or gemcitabine showed a synergistic inhibitory effect on the HER2-amplified and on some of the HER2-nonamplified breast cancer cells .
+HM781-36B could be a promising treatment for HER2-amplified breast cancer as a single agent or in combination with cytotoxic agents and can be a candidate for treatment of HER2-nonamplified breast cancer in combination with cytotoxic agents .

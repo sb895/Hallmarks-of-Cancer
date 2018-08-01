@@ -1,0 +1,9 @@
+Immortalization ( senescence bypass ) is a critical rate-limiting step in the malignant transformation of mammalian somatic cells .
+Human cells must breach at least two distinct senescence barriers to permit unfettered clonal evolution during cancer development : ( 1 ) stress- or oncogene-induced premature senescence ( SIPS/OIS ) , mediated via the p16-Rb and/or ARF-p53-p21 tumour-suppressive pathways , and ( 2 ) replicative senescence triggered by telomere shortening .
+In contrast , because their telomerase is constitutively active , cells from small rodents possess only the SIPS/OIS barrier , and are therefore useful for studying SIPS/OIS bypass in isolation .
+Dermal fibroblasts from the Syrian hamster ( SHD cells ) are exceptionally resistant to spontaneous SIPS bypass , but it can be readily induced following exposure to a wide range of chemical and physical carcinogens .
+Here we show that a spectrum of carcinogen-specific mutational and epigenetic alterations involving the INK4A ( p16 ) , p53 and INK4B ( p15 ) genes are associated with induced SIPS bypass .
+With ionizing radiation , immortalization is invariably accompanied by efficient biallelic deletion of the complete INK4/CDKN2 locus .
+In comparison , SHD cells immortalized by the powerful polycyclic hydrocarbon carcinogen benzo(a)pyrene display transversion point mutations in the DNA-binding domain of p53 coupled with INK4 alterations such as loss of expression of p15 .
+Epimutational silencing of p16 is the primary event associated with immortalization by nickel , a human non-genotoxic carcinogen .
+As SIPS/OIS bypass is a prerequisite for the immortalization of normal diploid human epithelial cells , our results with the SHD model will provide a basis for delineating combinations of key molecular changes underpinning this important event in human carcinogenesis .

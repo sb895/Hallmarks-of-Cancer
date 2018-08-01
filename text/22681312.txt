@@ -1,0 +1,9 @@
+The therapeutic principle of allogeneic haematopoietic cell transplantation ( allo-HCT ) is based on an active donor immune system that eliminates host-derived tumour cells .
+We hypothesized that in addition to the alloantigen-driven anti-tumour response , disruption of the immunological microenvironment within the tumour is responsible for its elimination after allo-HCT .
+We observed that induction of graft-versus-host disease ( GvHD ) significantly reduced the abundance of luc(+) FoxP3(+) regulatory T ( Treg ) cells in the tumour tissue , which is indicative of impaired or over-ridden tumour recruitment signals towards Treg cells .
+Analysis of the intestines and liver revealed chemokines and purine nucleotides as candidates for attracting Treg to these sites of inflammation .
+Despite its expression on tissue-residing Treg cells , the chemokine receptor CCR3 was not critical for Treg-cell function following allo-HCT .
+Extracellular ATP can attract immune cells via P2Y2 .
+P2Y2 was found to be expressed on Treg cells , and we found a partial reduction of GvHD prevention when P2Y2(-/-) rather than P2Y2(+/+) Treg cells were given .
+Exogenous local inflammation reduced Treg-cell accumulation in the tumour , suggesting a potential clinical approach to prevent Treg-cell-mediated tumour escape .
+In conclusion , we demonstrate that GvHD-related inflammation reduced Treg-cell numbers at the tumour sites , which may in turn help to explain the observation that patients with GvHD have a lower risk of tumour relapse .

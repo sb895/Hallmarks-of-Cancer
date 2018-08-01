@@ -1,0 +1,6 @@
+The protein toxins ricin , abrin , Shiga toxin , and diphtheria toxin were found to induce lysis of several cell lines in a manner characteristic for programmed cell death or apoptosis .
+The toxins induced DNA degradation , and light and electron microscopical studies revealed that lysis was preceded by reorganization of intracellular vacuoles , cell blebbing , and chromatin condensation both in Vero and in MDCK cells .
+Cell lysis was efficiently inhibited by cycloheximide and 3-methyladenine ( 3MA ) , a specific inhibitor of autophagy .
+Cycloheximide , which like 3MA inhibits autophagy , protected even when added at a time when the protein synthesis had been blocked by ricin , suggesting that the effect of cycloheximide on cell lysis is independent of its ability to inhibit protein synthesis .
+Also theophylline and dibutyryl-cGMP had some protective effect , whereas a number of compounds reported to protect against apoptosis in other systems were without protective effects .
+The data suggest that autophagy is important for the toxin-induced cell lysis .

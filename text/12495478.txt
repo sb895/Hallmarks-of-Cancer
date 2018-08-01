@@ -1,0 +1,8 @@
+cDNA microarray-based gene expression analysis has been successfully employed to explore the action mechanism and to validate the targets of several drugs .
+In the present study , we evaluated anti-angiogenic activity of demethoxycurcumin ( DC ) , a structural analog of curcumin , isolated from Curcuma aromatica , and investigated the effect of DC on genetic reprogramming in cultured human umbilical vein endothelial cells ( HUVECs ) using cDNA microarray analysis .
+Of 1024 human cancer-focused genes arrayed , 187 genes were up-regulated and 72 genes were down-regulated at least 2-fold by DC .
+Interestingly , 9 angiogenesis-related genes were down-regulated over 5-fold in response to DC , suggesting that the genetic reprogramming was crucially involved in anti-angiogenesis by the compound .
+To verify the results obtained from cDNA microarray analysis , matrix metalloproteinase-9 ( MMP-9 ) , the product of one of the angiogenesis-related genes down-regulated over 5-fold by DC , was investigated using gelatin zymography .
+DC potently inhibited the expression of MMP-9 , yet showed no direct effect on its activity .
+These data show that gene expressional change of MMP-9 is a major mediator for angiogenesis inhibition by DC .
+All genes identified and microarray data are available on the web at http://dasan.sejong.ac.kr/

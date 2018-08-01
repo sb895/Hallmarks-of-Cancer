@@ -1,0 +1,6 @@
+Despite experimental evidence that sulforaphane can exert chemopreventive effects , whether these effects are specific for neoplastic cells is not known .
+Following our previous demonstration that sulforaphane induces cell cycle arrest and apoptosis in human T lymphoblastoid Jurkat leukemia cells and increases p53 and bax protein expression , we tested sulforaphane on non-transformed phytohemagglutinin-stimulated human lymphocytes .
+Here , we demonstrate that sulforaphane arrested cell cycle progression in G , phase , through a decrease in the protein expression of cyclin D3 .
+Moreover , sulforaphane induced apoptosis ( and also necrosis ) , mediated by an increase in the expression of p53 .
+These findings suggest that sulforaphane is a growth modulator for T cells .
+Our in vitro evidence that sulforaphane is active and even cytotoxic in normal as well as transformed lymphocytes raises important questions regarding its suitability for cancer chemoprevention .

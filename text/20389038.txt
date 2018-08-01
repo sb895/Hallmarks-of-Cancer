@@ -1,0 +1,2 @@
+The mechanisms of formation of sister chromatid exchanges ( SCEs ) and chromosome aberrations following inhibition of poly(ADP-ribose) polymerase by 3-aminobenzamide were studied in Chinese hamster ovary cell lines deficient in different repair pathways .
+The results confirm earlier findings that ( a ) the ' spontaneous ' SCEs are formed due to the incorporated BrdU in the DNA , ( b ) ' spontaneous ' and induced SCEs originate from different mechanisms , and ( c ) SCEs and chromatid exchanges are formed by different pathways .

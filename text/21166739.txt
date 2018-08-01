@@ -1,0 +1,10 @@
+Radiotherapy is a useful component of treatment strategies for esophageal cancer .
+The role of autophagy in response to ionizing radiation was investigated in human esophageal squamous carcinoma cells .
+Cell viability and clonogenic survival assay were used to evaluate the radiosensitivity of autophagy inhibitor ( 3-MA ) on esophageal squamous carcinoma cells .
+The percentage of apoptotic cells and cell cycle analysis were assessed by flow cytometry ; DAPI staining was used to detect apoptotic cells .
+The expression of beclin-1 and LC3 was measured using a Western blot .
+The ultrastructural analysis was under the electron microscope. 6 Gy irradiation induced a massive accumulation of autophagosomes accompanied by strong upregulation of beclin-1 and LC3-II expression in TE-1 cells .
+Compared with radiation alone , 3-MA combined with radiation significantly decreased cell viability , as well as autophagic ratio , beclin-1 , and LC3-II protein level .
+Inhibition of autophagy increased radiation-induced apoptosis and the percentage of G2/M-phase cells .
+Blockade of autophagy with 3-MA enhanced cytotoxicity of radiotherapy in human esophageal squamous carcinoma cells .
+It suggests that inhibition of autophagy could be used as adjuvant therapy to treat esophageal squamous cell carcinoma .

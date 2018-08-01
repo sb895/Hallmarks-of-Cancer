@@ -1,0 +1,11 @@
+Breast cancer is the most common malignancy in women , and many breast cancer patients fail conventional treatment strategies of chemotherapy , radiation , and antiestrogen therapy .
+Research into the molecular pathways and biomarkers involved in the development of breast cancer should yield information that will guide therapeutic decisions .
+Epidermal growth factor receptor ( EGFR ) and cyclooxygenase-2 ( COX-2 ) are involved in the carcinogenesis of breast cancer and exist tight crosstalk with estrogen receptor ( ER ) pathway .
+Combination of EGFR and COX-2 inhibitors , therefore , could be an effective strategy for reducing cell growth in estrogen-dependent breast cancer .
+In order to verify the effects of EGFR and COX-2 inhibitors , breast cancer cells MCF-7 and SKBR-3 were characterized for receptors status and then treated with respective inhibitors ( nimotuzumab and celecoxib ) alone and in combination .
+Both cell lines were sensitive to celecoxib , but not to nimotuzumab .
+However , combination of two drugs demonstrated synergistic effects on cell killing .
+Moreover , association of two drugs resulted in SKBR-3 cells , a further G0/G1 phase arrest than one drug alone .
+Downregulation of p-EGFR , p-Akt , p-mTOR , and amplified in breast cancer 1 ( AIB1 ) were observed in both cell lines , and upregulation of E-cadherin was only found in MCF-7 , after treatment with single agent or in combination .
+These studies suggest that nimotuzumab and celecoxib exert synergistic antiproliferation effects in breast cancer , which partly correlates with ER status .
+Due to Akt/mTOR , EMT and AIB1 pathways participate in this process , therefore , E-cadherin and AIB1 may be considered as possible biomarkers to predict response in ER-positive breast cancer cells treated with EGFR and COX-2 inhibitors .

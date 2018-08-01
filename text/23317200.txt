@@ -1,0 +1,7 @@
+Luteolin is a plant flavonoid which exhibits anti-oxidative , anti-inflammatory and anti-tumor effects .
+However , the antiproliferative potential of luteolin is not fully understood .
+In this study , we investigated the effect of luteolin on cell cycling and apoptosis in human esophageal squamous carcinoma cell line Eca109 cells .
+MTT assays showed that luteolin had obvious cytotoxicity on Eca109 with an IC50 of 70.7�1.72 μM at 24 h .
+Luteolin arrested cell cycle progression in the G0/G1 phase and prevented entry into S phase in a dose- and time-dependent manner. as assessed by FCM .
+Luteolin induced apoptosis of Eca109 cells was demonstrated by AO/EB staining assay and annexin V-FITC/PI staining .
+Moreover , luteolin downregulated the expression of cyclin D1 , survivin and c-myc , and it also upregulated the expression of p53 , in line with the fact that luteolin was able to inhibit Eca109 cell proliferation .

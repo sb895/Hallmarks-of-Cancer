@@ -1,0 +1,10 @@
+Regulator of Cullins-1 ( ROC1 ) or RING box protein-1 ( RBX1 ) is an essential RING component of Cullin-RING ligase ( CRL ) .
+Our previous studies showed that ROC1 is required for the growth of several cancer cell lines while ROC1 siRNA silencing inactivates CRL , leading to cell cycle arrest , cell senescence and/or apoptosis .
+However , it is completely unknown whether ROC1 knockdown triggers autophagic response by inactivating CRL .
+Moreover , the role of ROC1 in liver cancer remains elusive .
+In this study , we reported that ROC1 knockdown significantly inhibited the growth of liver cancer cells by sequentially and independently inducing autophagy and p21-dependent cell senescence .
+Mechanism analysis revealed that ROC1 silencing triggered autophagy by inhibition of mammalian target of rapamycin ( mTOR ) activity due to accumulation of mTOR-inhibitory protein Deptor , a substrate of CRL .
+Consistently , Deptor knockdown significantly blocked autophagy response upon ROC1 silencing .
+Biologically , autophagy response upon ROC1 silencing was a survival signal , and blockage of autophagy pathway sensitized cancer cells to apoptosis .
+Finally , we demonstrated that ROC1 was overexpressed in hepatocellular carcinomas , which is associated with poor prognosis of liver cancer patients .
+These findings suggest that ROC1 is an appealing drug target for liver cancer and provide a proof-of-concept evidence for a novel drug combination of ROC1 inhibitor and an autophagy inhibitor for effective treatment of liver cancer by enhancing apoptosis.Cell Death and Differentiation advance online publication , 31 August 2012 ; doi:10.1038/cdd.2012.113 .

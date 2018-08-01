@@ -1,0 +1,12 @@
+LewisY ( LeY ) antigen is an oligosaccharide that is highly expressed at the cell surface in various human cancers .
+Increased LeY expression activates epidermal growth factor receptor ( EGFR ) and human epidermal growth factor receptor 2 ( HER2 ) and promotes cell proliferation in EGFR-overexpressing cells .
+However , the effect of downregulation of LeY expression on cell proliferation in HER2-overexpressing cells remains unknown .
+FUT1 encodes α1,2-fucosyltransferase , a key enzyme for LeY synthesis .
+We knocked down FUT1 by short interfering RNA ( siRNA ) in four HER2-overexpressing human cancer cell lines , including NCI-N87 , MKN7 , SKBr3 and BT474 .
+We investigated whether downregulation of LeY and alteration in the glycosylation status of these cells affect cell proliferation and HER2 activation .
+Knocking down FUT1 expression markedly inhibited proliferation of NCI-N87 , which highly expressed EGFR and was sensitive to EGFR deprivation .
+Furthermore , FUT1 siRNA downregulated the total amount of HER2 protein , phosphorylation of HER2 and EGFR , and phosphorylation of extracellular signal-regulated kinase ( ERK ) in this cell line .
+Moreover , the marked downregulation of phosphorylation of HER2 and ERK was observed following short-time EGF-stimulation .
+These effects were not observed in the other three cell lines .
+Our results suggest that knockdown of FUT1 downregulates HER2 signaling via EGFR downregulation .
+FUT1 may serve as a new molecular target for HER2-overexpressing human cancers with activated EGFR signaling .

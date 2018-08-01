@@ -1,0 +1,12 @@
+BACKGROUND Acrylamide is a common dietary exposure that crosses the human placenta .
+It is classified as a probable human carcinogen , and developmental toxicity has been observed in rodents .
+OBJECTIVES We examined the associations between prenatal exposure to acrylamide and birth outcomes in a prospective European mother-child study .
+METHODS Hemoglobin ( Hb ) adducts of acrylamide and its metabolite glycidamide were measured in cord blood ( reflecting cumulated exposure in the last months of pregnancy ) from 1,101 singleton pregnant women recruited in Denmark , England , Greece , Norway , and Spain during 2006-2010 .
+Maternal diet was estimated through food-frequency questionnaires .
+RESULTS Both acrylamide and glycidamide Hb adducts were associated with a statistically significant reduction in birth weight and head circumference .
+The estimated difference in birth weight for infants in the highest versus lowest quartile of acrylamide Hb adduct levels after adjusting for gestational age and country was -132 g ( 95% CI : -207 , -56 ) ; the corresponding difference for head circumference was -0.33 cm ( 95% CI : -0.61 , -0.06 ) .
+Findings were similar in infants of nonsmokers , were consistent across countries , and remained after adjustment for factors associated with reduced birth weight .
+Maternal consumption of foods rich in acrylamide , such as fried potatoes , was associated with cord blood acrylamide adduct levels and with reduced birth weight .
+CONCLUSIONS Dietary exposure to acrylamide was associated with reduced birth weight and head circumference .
+Consumption of specific foods during pregnancy was associated with higher acrylamide exposure in utero .
+If confirmed , these findings suggest that dietary intake of acrylamide should be reduced among pregnant women .

@@ -1,0 +1,10 @@
+BACKGROUND Cellular stress responses trigger signaling cascades that inhibit proliferation and protein translation to help alleviate the stress or if the stress cannot be overcome induce apoptosis .
+In recent studies , we demonstrated the ability of lovastatin , an inhibitor of mevalonate synthesis , to induce the Integrated Stress Response as well as inhibiting epidermal growth factor receptor ( EGFR ) activation .
+METHODOLOGY/PRINCIPAL FINDINGS In this study , we evaluated the effects of lovastatin on the activity of the LKB1/AMPK pathway that is activated upon cellular energy shortage and can interact with the above pathways .
+In the squamous cell carcinoma ( SCC ) cell lines SCC9 and SCC25 , lovastatin treatment ( 1-25 �M , 24 hrs ) induced LKB1 and AMPK activation similar to metformin ( 1-10 mM , 24 hrs ) , a known inducer of this pathway .
+Lovastatin treatment impaired mitochondrial function and also decreased cellular ADP/ATP ratios , common triggers of LKB1/AMPK activation .
+The cytotoxic effects of lovastatin were attenuated in LKB1 null MEFs indicating a role for this pathway in regulating lovastatin-induced cytotoxicity .
+Of clinical relevance , lovastatin induces synergistic cytotoxicity in combination with the EGFR inhibitor gefitinib .
+In LKB1 deficient ( A549 , HeLa ) and expressing ( SCC9 , SCC25 ) cell lines , metformin enhanced gefitinib cytotoxicity only in LKB1 expressing cell lines while both groups showed synergistic cytotoxic effects with lovastatin treatments .
+Furthermore , the combination of lovastatin with gefitinib induced a potent apoptotic response without significant induction of autophagy that is often induced during metabolic stress inhibiting cell death .
+CONCLUSION/SIGNIFICANCE Thus , targeting multiple metabolic stress pathways including the LKB1/AMPK pathway enhances lovastatin's ability to synergize with gefitinib in SCC cells .

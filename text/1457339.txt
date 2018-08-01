@@ -1,0 +1,13 @@
+Photodynamic therapy ( PDT ) of hepatic tumours has been restricted owing to the preferential retention of photosensitizers in liver tissue .
+We therefore investigated interstitial tumour illumination as a means of selective PDT .
+A piece of colon carcinoma CC531 was implanted in the liver of Wag/Rij rats .
+Photofrin was administered ( 5 mg kg-1 i.v. ) 2 days before laser illumination .
+Tumours with a mean ( +/- s.e. ) diameter of 5.7 +/- 0.1 mm ( n = 106 , 20 days after implantation ) were illuminated with 625 nm light , at 200 mW cm-1 from a 0.5 cm cylindrical diffuser and either 100 , 200 , 400 , 800 or 1600 J cm-1 .
+Control groups received either laser illumination only , Photofrin only or diffuser insertion only .
+Short-term effects were studied on the second day after illumination by light microscopy and computer-assisted integration of the circumference of damaged areas .
+Long-term effects were studied on day 36 .
+To determine the biochemistry of liver damage and function , serum ASAT and ALAT levels were measured on day 1 and 2 , and antipyrine clearance on day 1 .
+Tumour and surrounding liver necrosis increased with light dose delivered ( P < 0.001 ) .
+Best long-term results were obtained at 800 J cm-1 with complete tumour remission in 4 out of 6 animals .
+No deterioration in liver function was found .
+The results of this study show the ability of interstitial PDT to cause major destruction of tumour tissue in the liver combined with minimal liver damage .

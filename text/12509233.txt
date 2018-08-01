@@ -1,0 +1,7 @@
+The xeroderma pigmentosum group C ( XPC ) protein specifically involved in genome-wide damage recognition for nucleotide excision repair ( NER ) was purified as a tight complex with HR23B , one of the two mammalian homologs of RAD23 in budding yeast .
+This XPC-HR23B complex exhibits strong binding affinity for single-stranded DNA , as well as preferential binding to various types of damaged DNA .
+To examine the structure-function relationship of XPC , a series of truncated mutant proteins were generated and assayed for various binding activities .
+The two domains participating in binding to HR23B and damaged DNA , respectively , were mapped within the carboxy-terminal half of XPC , which also contains an evolutionary conserved amino acid sequence homologous to the yeast RAD4 protein .
+We established that the carboxy-terminal 125 amino acids are dispensable for both HR23B and damaged DNA binding , while interactions with transcription factor IIH ( TFIIH ) are significantly impaired by truncation of this domain .
+Furthermore , deletion of the extreme carboxy-terminal domain totally abolished XPC activity in the cell-free NER reaction .
+These results suggest that following initial damage recognition , the carboxy terminus of XPC may be essential for the recruitment of TFIIH , and that most truncation mutations identified in XP-C patients result in non-functional proteins .

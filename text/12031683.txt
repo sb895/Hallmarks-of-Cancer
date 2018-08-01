@@ -1,0 +1,9 @@
+Insulin-like growth factor I ( IGF-I ) and IGF-II stimulate cancer cell proliferation via interaction with the type I IGF receptor ( IGF-IR ) .
+We put forward the hypothesis that IGF-IR mediates cancer cell growth by regulating amino acid transport , both when sufficient nutrients are present and when key nutrients such as glutamine are in limited supply .
+We examined the effects of alphaIR3 , the monoclonal antibody recognizing IGF-IR , on cell growth and amino acid transport across the cell membrane in a human neuroblastoma cell line , SK-N-SH .
+In the presence of alphaIR3 ( 2 micro/ml ) , cell proliferation was significantly attenuated in both control ( 2 mM glutamine ) and glutamine-deprived ( 0 mM glutamine ) groups .
+Glutamine deprivation resulted in significantly increased glutamate ( system X(AG)(-) ) , MeAIB ( system A ) , and leucine ( system L ) transport , which was blocked by alphaIR3 .
+Glutamine ( system ASC ) and MeAIB transport was significantly decreased by alphaIR3 in the control group .
+Addition of alphaIR3 significantly decreased DNA and protein biosynthesis in both groups .
+Glutamine deprivation increased the IGF-IR protein on the cell surface .
+Our results suggest that activation of IGF-IR promotes neuroblastoma cell proliferation by regulating trans-membrane amino acid transport .

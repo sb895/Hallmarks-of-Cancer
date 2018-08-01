@@ -1,0 +1,7 @@
+Hypoxia and other adverse conditions are commonly encountered by rapidly growing cells .
+The RNA-binding protein RBM3 ( RNA-binding motif protein 3 ) , which is transcriptionally induced by low temperature and hypoxia , has recently been implicated in survival of colon cancer cells by mechanisms involving cyclooxygenase-2 ( COX-2 ) signaling .
+Immunohistochemically , we found strong RBM3 expression in a variety of malignant and proliferating tissues but low expression in resting and terminally differentiated cells .
+RBM3 expression in fibroblasts and human embryonal kidney ( HEK293 ) cells subjected to serum deprivation or contact inhibition closely paralleled proliferation rates , assessed by real-time RT-PCR and immunoblotting. siRNA-mediated RBM3 knockdown reduced cell viability and finally led to cell death , which did not involve caspase-3-mediated apoptosis , cell cycle arrest , or COX-2 regulation .
+In contrast , RBM3 over-expression rescued cells from death under serum starvation .
+This was associated with increased translation rates , as measured by C serine and H phenylalanine incorporation .
+Together , RBM3 is a critical factor providing cellular survival advantages in an adverse microenvironment presumably by restoring translation efficacy .

@@ -1,0 +1,10 @@
+PURPOSE Idarubicin is a synthetic anthracycline anticancer drug widely used in the treatment of some hematological malignancies .
+The studies in our laboratory have clearly demonstrated that idarubicin can undergo reductive bioactivation by NADPH-cytochrome P450 reductase to free radicals with resulting formation of DNA strand breaks , which can potentially contribute to its genotoxic effects [ Celik , H. , Arinç , E. , Bioreduction of idarubicin and formation of ROS responsible for DNA cleavage by NADPH-cytochrome P450 reductase and its potential role in the antitumor effect .
+J Pharm Pharm Sci , 11(4):68-82 , 2008 ] .
+In the current study , our aim was to investigate the possible protective effects of several phenolic antioxidants , quercetin , rutin , naringenin , resveratrol and trolox , against the DNA-damaging effect of idarubicin originating from its P450 reductase-catalyzed bioactivation .
+METHODS DNA damage was measured by detecting single-strand breaks in plasmid pBR322 DNA using a cell-free agarose gel method .
+RESULTS Our results indicated that , among the compounds tested , quercetin was the most potent antioxidant in preventing DNA damage .
+Quercetin significantly decreased the extent of DNA strand breaks in a dose-dependent manner ; 100 microM of quercetin almost completely inhibited the DNA strand breakage .
+Unlike quercetin , its glycosidated conjugate rutin , failed to provide any significant protection against idarubicin-induced DNA strand breaks except at the highest concentration tested ( 2 mM ) .
+The protective effects of other antioxidants were significantly less than that of quercetin even at high concentrations .
+Quercetin was found to be also an effective protector against DNA damage induced by mitomycin C. CONCLUSION We conclude that quercetin , one of the most abundant flavonoids in the human diet , is highly effective in reducing the DNA damage caused by the antitumor agents , idarubicin and mitomycin C , following bioactivation by P450 reductase .

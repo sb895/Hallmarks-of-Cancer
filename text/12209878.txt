@@ -1,0 +1,7 @@
+Malignant mesothelioma ( MM ) still remains a therapeutic and diagnostic problem to which new therapeutic perspectives are being continuously tried and tested .
+Three different primary cultures ( MMGe-1 , MES MM 98 , and MES 1 ) and one immortalized cell line ( MSTO 211 H ) of human MM were studied in order to evaluate the HER-2/neu expression .
+Three out of four cell lines showed a different level of c-erbB-2 expression , the highest being detected on the MSTO 211 H cell line ( fibroblastic phenotype ) , whereas MMGe-1 resulted negative .
+The effect of the anti-HER-2/neu antibody ( Trastuzumab ) alone , and in combination with cisplatin ( CDDP ) at different doses ( ranging from 0.1 to 100 microg/ml ) , was studied on all the c-erB-2 positive cell lines .
+Trastuzumab was able to inhibit cell proliferation in a time-dependent manner , with growth inhibition also obtained at low concentrations ( 0.1-1 microg/ml ) .
+Combined treatment with Trastuzumab ( 10 microg/ml ) and CDDP ( 1 microg/ml ) showed synergism .
+Our results were encouraging , and suggest a rationale for further investigations in a clinical setting .

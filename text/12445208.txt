@@ -1,0 +1,8 @@
+Rho GTPases are signaling molecules known to control cell motility .
+Several recent studies have suggested a role for Rho proteins in mediating tumor metastasis independent of their affects on cell proliferation .
+As Rho proteins require post-translational modification with a geranlygeranyl moiety for full activity , we tested the affect of blocking geranylation on localization , downstream signaling , and stimulation of invasion .
+Expression of a constitutively active Rho construct in A375 melanoma cells dramatically stimulated invasion through Matrigel membranes ; however , a constitutively active RhoA mutated so that it cannot be geranylated , failed to stimulate invasion .
+Moreover , expression of epitope or GFP tagged modifications of this nongeranylatable constitutively active Rho demonstrated that geranylation is necessary for correct cellular localization of Rho .
+Geranylation was also found to be necessary for full downstream activation of serum response factor mediated transcription .
+Pharmacologic inhibition of Rho geranylation produced similar inhibition of Rho localization , signaling , and invasion .
+Our results suggest that inhibition of Rho geranylation may be an attractive pharmacologic target for inhibiting melanoma metastasis .

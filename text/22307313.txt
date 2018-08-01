@@ -1,0 +1,11 @@
+Various endocrine disrupting chemicals ( EDCs ) are exogenous compounds found in the environment and have the potential to interfere with the endocrine system and hormonal regulation .
+Among EDCs , bisphenolA ( BPA ) and 1,1,1-trichloro-2,2-bis(4-methoxyphenol)-ethane [ methoxychlor ( MXC) ] have estrogenic activity resulting in a variety of dysfunctions in the E2-mediated response by binding to estrogen receptors ( ERs ) , causing human health problems such as abnormal reproduction and carcinogenesis .
+In this study , we investigated the effects of BPA and MXC on cell proliferation facilitated by ER signaling in human breast cancer cells .
+MCF-7 cells are known to be ERα-positive and to be a highly E2-responsive cancer cell line ; these cells are , therefore , a useful invitro model for detecting estrogenic activity in response to EDCs .
+We evaluated cancer cell proliferation following BPA and MXC treatment using an MTT assay .
+We analyzed alterations in the expression of genes associated with the cell cycle in MCF-7 cells by semi-quantitative reverse-transcription PCR following treatment with BPA or MXC compared to EtOH .
+To determine whether BPA and MXC stimulate cancer cell growth though ER signaling , we co-treated the cells with agonists ( propyl pyrazoletriol , PPT ; and diarylpropionitrile , DPN ) or an antagonist ( ICI 182,780 ) of ER signaling and reduced ERα gene expression via siRNA in MCF-7 cells before treatment with EDCs .
+These studies confirmed the carcinogenicity of EDCs invitro .
+As a result , BPA and MXC induced the cancer cell proliferation by the upregulation of genes that promote the cell cycle and the downregulation of anti-proliferative genes , especially ones affecting the G1/S transition via ERα signaling .
+These collective results confirm the carcinogenicity of these EDCs invitro .
+Further studies are required to determine whether EDCs promote carcinogenesis invivo .

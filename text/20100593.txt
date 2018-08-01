@@ -1,0 +1,10 @@
+It is thought that high linear energy transfer ( LET ) radiation induces more complex DNA damage than low-LET particles , specifically clustered DNA damage that causes cells to repair DNA double strand breaks ( DSB ) more slowly and leads to severe biological consequences .
+The present study aimed to investigate the role of exogenously added glutathione ( GSH ) on ( 12)C-beam ( 287keV/mum ) and ( 7)Li-beam ( 60keV/mum ) induced chromosome aberration ( CA ) formation , particularly on exchange aberration formation .
+In order to characterize the role of GSH in the joining of DNA DSBs , we induced DNA lesions with bleomycin ( Blem ) in conjunction with either high- or low-LET radiation ( X-rays ) since the chemistry of the free DNA ends created by Blem and X-rays is similar .
+CHO cells were exposed to reduced GSH at a concentration of 2mM for 3h before radiation .
+Treatment with Blem ( 20mug/ml ) was carried out for 2h before the cells were exposed to radiation .
+Our results show that the frequency of chromosomal aberration increases with increased LET .
+Heavy ion exposed cells show a higher frequency of CA over time than do X-irradiated cells .
+An analysis of the first post-irradiation mitosis of exposed CHO cells shows that high-LET radiation induces more breaks than exchange-type aberrations and exogenous GSH has no influence on high-LET radiation-induced DNA damage .
+The DNA lesions induced by low-LET radiation interact relatively strongly with Blem-induced lesions whereas interaction between Blem and high-LET radiations was poor .
+This could be attributed to differences in repair kinetics and qualitative differences in the DNA lesions induced by Blem and high-LET radiation .

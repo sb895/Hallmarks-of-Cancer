@@ -1,0 +1,6 @@
+Reactive oxygen species ( ROS ) produced by phagocytic cells induce oxidative stress during chronic inflammation .
+ROS play a role in the pathogenesis of a broad range of diseases including autoimmune , cardiac and neoplastic abnormalities .
+We found that sera of patients with a variety of inflammatory dermatoses contain elevated levels of antibodies ( Ab ) binding to an oxidized DNA base derivative , 5-hydroxymethyl-2'deoxyuridine ( HMdU ) coupled to bovine serum albumin , as determined by the enzyme-linked immunosorbent assay .
+Patients with immune complex diseases and a history of neoplasm elaborated the highest titers of anti-HMdU Ab .
+Titers from sera of psoriatic subjects were lower than from the aforementioned groups but were still significantly elevated ( p < 0.001 ) above those of healthy controls .
+Treatment of inflammatory dermatoses with systemic antiinflammatory and cytotoxic drugs significantly lowered the titers [ p < 0.005 ( immune complex ) or p < 0.001 ( psoriasis and neoplastic ) diseases ] , suggesting that this assay may be of value in monitoring the response to therapy in these diseases .

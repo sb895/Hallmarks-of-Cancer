@@ -1,0 +1,10 @@
+Aberrant glucose metabolism characterized by high levels of glycolysis , even in the presence of oxygen , is an important hallmark of cancer .
+This metabolic reprogramming referred to as the Warburg effect is essential to the survival of tumor cells and provides them with substrates required for biomass generation .
+Molecular mechanisms responsible for this shift in glucose metabolism remain elusive .
+As described herein , we found that aberrant expression of the proinflammatory protein transglutaminase 2 ( TG2 ) is an important regulator of the Warburg effect in mammary epithelial cells .
+Mechanistically , TG2 regulated metabolic reprogramming by constitutively activating nuclear factor ( NF)-\u03baB , which binds to the hypoxia-inducible factor ( HIF)-1\u03b1 promoter and induces its expression even under normoxic conditions .
+TG2/NF-\u03baB-induced increase in HIF-1\u03b1 expression was associated with increased glucose uptake , increased lactate production and decreased oxygen consumption by mitochondria .
+Experimental suppression of TG2 attenuated HIF-1\u03b1 expression and reversed downstream events in mammary epithelial cells .
+Moreover , downregulation of p65/RelA or HIF-1\u03b1 expression in these cells restored normal glucose uptake , lactate production , mitochondrial respiration and glycolytic protein expression .
+Our results suggest that aberrant expression of TG2 is a master regulator of metabolic reprogramming and facilitates metabolic alterations in epithelial cells even under normoxic conditions .
+A TG2-induced shift in glucose metabolism helps breast cancer cells to survive under stressful conditions and promotes their metastatic competence .

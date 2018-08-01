@@ -1,0 +1,10 @@
+We recently isolated an exon-4-deleted epidermal growth factor receptor ( EGFR ) variant , termed de4 EGFR .
+Because the extracellular domain alteration of receptors often influences the antitumor effect of therapeutic antibodies , it is essential to test the sensitivity of de4 EGFR(+) tumors to anti-EGFR antibodies .
+Therefore , in this study , the antitumor activities of mAb CH12 , an anti-EGFRvIII antibody developed in our laboratory , as well as a U.S. Food and Drug Administration-approved anti-EGFR antibody , cetuximab ( C225 ) , were characterized on de4 EGFR(+) models .
+The results of FACS assays showed that CH12 bound to de4 EGFR with a higher avidity than did C225 .
+Interestingly , CH12 , but not C225 , significantly inhibited the metastasis and growth of U87MG-de4 EGFR xenografts , with a growth-inhibition ratio of 46.48% in vivo , and prolonged the survival of the tumor-bearing mice by 37.2% .
+Treatment with CH12 significantly suppressed tumor proliferation and angiogenesis with increased tumor apoptosis .
+Mechanistically , de4 EGFR protein expression was virtually undetectable in the U87MG-de4 EGFR xenografts treated with CH12 .
+This may account for the observed reduction of Akt and Erk phosphorylation , cyclin D1 , Bcl-2 , and Bcl-x(L) expression and the increase of p27 and E-cadherin expression .
+Intriguingly , LAMP-1 , a major component of the lysosome , was significantly up-regulated in the CH12-treated group but not in the C225-treated group , suggesting its contribution to the degradation of de4 EGFR .
+Taken together , our data demonstrated that mAb CH12 is a promising therapeutic agent for treating de4 EGFR(+) gliomas .

@@ -1,0 +1,9 @@
+To determine the threshold dose of β-Naphthoflavone ( BNF ) that induces hepatocellular tumor promoting effects , reactive oxygen species ( ROS ) generation and thiobarbituric acid-reactive substance ( TBARS ) formation , and drug-metabolizing enzymes that protect against ROS generation , two-stage liver carcinogenesis model was used .
+Partial hepatectomized rats ( n = 11 to 12 ) were fed diets containing 0 , 0.03 , 0.06 , 0.125 or 0.25% BNF for 6 weeks after an intraperitoneal injection of N-diethylnitrosamine ( DEN ) to initiate hepatocarcinogenesis .
+Histopathologically , glutathione S-transferase placental form ( GST-P)-positive foci significantly increased in rats given 0.25% BNF .
+No marked changes in ROS production and TBARS contents were observed between the BNF treated and DEN alone groups .
+Real-time RT-PCR showed that the expression of Cyp1a1 , Cyp1a2 , Cyp1b1 and Nqo1 significantly increased in the groups given 0.03% BNF or more , but Ugt1a6 , Akr7a3 and Gstm1 significantly increased in the groups given 0.125% BNF or more .
+Gpx2 and Yc2 significantly increased in the groups given 0.06% BNF or more and 0.25% BNF , respectively .
+Inflammation-related genes such as Ccl2 , Mmp12 , Serpine1 and Cox-2 significantly increased in the 0.25% BNF group .
+In immunohistochemistry , the number of cyclooxygenase-2 ( COX-2)-positive cells increased in rats given 0.25% BNF .
+These results suggest that 0.25% BNF is the threshold dose for liver tumor promotion , and the fact that inflammation-related genes and COX-2 protein increased in the 0.25% BNF group strongly suggests that inflammation is involved in the liver tumor promoting effect of BNF in rats .

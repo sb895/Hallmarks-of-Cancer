@@ -1,0 +1,7 @@
+The effects of 17beta-estradiol ( E2 ) are mediated through activation of estrogen receptors ( ER ) : ERalpha and ERbeta .
+It is known that ERalpha/ERbeta ratio is higher in breast tumors than in normal tissue .
+Since antioxidant enzymes and uncoupling proteins ( UCPs ) are reactive oxygen species ( ROS ) production and mitochondrial biogenesis regulators , our aim was to study the E2-effect on oxidative stress , antioxidant enzyme expression , and UCPs in breast cancer cell lines with different ERalpha/ERbeta ratios .
+The lower ERalpha/ERbeta ratio T47D cell line showed low ROS production and high UCP5 levels .
+However , the higher ERalpha/ERbeta ratio MCF-7 cell line showed an up-regulation of antioxidant enzymes and UCPs , yet exhibited high oxidative stress .
+As a result , a decrease in antioxidant enzyme activities and UCP2 protein levels , coupled with an increase in oxidative damage was found .
+On the whole , these results show different E2-effects on oxidative stress regulation , modulating UCPs , and antioxidant enzymes , which were ERalpha/ERbeta ratio dependent in breast cancer cell lines .

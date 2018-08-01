@@ -1,0 +1,8 @@
+Cancer immunotherapies are designed to elicit T-cell responses that inhibit tumor growth .
+Previous studies have demonstrated that interleukin 21 ( IL-21 ) is a promising cytokine for cancer immunotherapy due to its ability to induce the immunity of T cells and natural killer cells , whereas blockade of the interaction of programmed death receptor-1 ( PD-1 ) with its ligand ( PD-L1 ) reduces peripheral tolerance .
+In the current study , we investigated IL-21 alone and in combination with soluble PD-1 ( sPD-1 ) for the treatment of experimental H22 murine hepatocarcinoma .
+The naked plasmids pmIL-21 and/or psPD-1 were used for local gene transfer by injection .
+In these assays , sPD-1 combined with IL-21 was found to significantly inhibit the growth of the tumors in mice .
+Combined treatment with IL-21 and sPD-1 enhanced the antitumor immune response compared with that induced by IL-21 alone .
+Combined treatment was found to increase CTL cytotoxicity , increase the number of CTLs and NK cells in splenocytes , upregulate the cytokines IFN-γ and IL-2 and downregulate IL-10 .
+Thus , immunotherapy with IL-21 in combination with sPD-1 was found to induce a more efficacious antitumor immune response , which may have potential clinical implications .

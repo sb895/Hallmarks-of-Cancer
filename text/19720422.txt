@@ -1,0 +1,13 @@
+BACKGROUND & AIMS Hepatocellular carcinoma ( HCC ) is an aggressive malignancy with few treatment options .
+As the status of the tumour immune microenvironment can affect progression of established tumours , we evaluated potential immune mechanisms associated with survival in HCC .
+METHODS Immune gene expression profiles were analyzed in tumour and non-tumour liver tissues from resected HCC patients using quantitative PCR and immunohistochemistry .
+Tumour-infiltrating leukocytes ( TILs ) were isolated to verify the expression of immune genes and to identify proliferating TILs .
+These parameters were analyzed statistically in relation with patient survival and tumour phenotype ( apoptosis and proliferation ) .
+RESULTS The immune microenvironment within tumours was found to be heterogeneous , although globally more inert compared to the adjacent non-tumour liver tissue .
+Univariate analysis in 61 patients identified a group of innate immune genes whose expression within tumours is positively associated with patient survival .
+TNF , IL6 and CCL2 are the most significant genes , with TNF being an independent predictor of survival in multivariate analysis .
+The gene set includes macrophage and NK-associated molecules such as TLR4 , TLR3 , CCR2 , NCR3 .
+Most of these molecules are expressed by TILs .
+Importantly , proliferating immune cells , predominantly NK and T cells , are present in tumours of patients with longer survival , and exclusively in areas devoid of proliferating tumour cells .
+NK and CD8(+) T cell densities are correlated positively with tumour apoptosis , and negatively with tumour proliferation .
+CONCLUSIONS Hence , an inflammatory immune microenvironment within HCC tumours could be an important means to control tumour progression via TIL activation and proliferation .

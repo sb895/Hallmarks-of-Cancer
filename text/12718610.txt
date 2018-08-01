@@ -1,0 +1,10 @@
+Investigation has been conducted to delineate the action of some phenolic compounds of natural origin in four human tumor cell lines : acute myeloblastic leukemia ( HL-60 ) , chronic myelogenic leukemia ( K-562 ) , breast adenocarcinoma ( MCF-7 ) and cervical epithelial carcinoma ( HeLa ) .
+In cells grown in appropriate media the phenolics curcumin , yakuchinone B , resveratrol and capsaicin exhibited growth inhibition as assessed by trypan blue dye exclusion .
+It was evident from the results of the MTT reduction assay and [ (3)H]thymidine incorporation into nuclear DNA that the phenolics were cytotoxic and inhibited cell proliferation .
+Dose response studies indicated curcumin to be most cytotoxic towards HL-60 , K-562 and MCF-7 but did not show much activity in HeLa cells .
+On the other hand , yakuchinone B , although less active than curcumin , displayed cytotoxicity towards all four cell lines .
+Resveratrol was cytotoxic only in leukemic cells , while capsaicin was marginally cytotoxic .
+All these phenolics did not elicit any cytotoxic activity as judged by the above parameters towards lymphocytes purified from normal human blood .
+When cells treated with phenolics were stained with propidium iodide and examined under a fluorescent microscope , characteristic apoptotic features such as chromatin condensation and nuclear fragmentation were observed .
+Scoring of cells with apoptotic and non-apoptotic features showed positive correlation of apoptotic index with dose of phenolic , and fragmented DNA extracted free of genomic DNA displayed on gel electrophoresis a typical ladder pattern .
+These phenolics which have human exposure are known cancer chemopreventive agents and their action as inducers of apoptosis in tumor cells suggest their potential use in a strategy for cancer control .

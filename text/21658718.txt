@@ -1,0 +1,21 @@
+BACKGROUND Expression of epidermal growth factor receptor ( EGFR ) , a potent regulator of cellular homeostasis , is associated with aggressive tumor behavior .
+The mechanism by which EGFR inhibition functions is unclear , with controversial results demonstrating an effect on the tumor cells , endothelial cells , or pericytes .
+EGFR activation has been linked to the expression of vascular endothelial growth factor ( VEGF ) , a known mitogen of angiogenesis , but the relationship between these factors and their effect on tumor vessel development is vague .
+We hypothesized that using an EGFR inhibitor on a human Ewing's sarcoma model would inhibit tumor growth by suppressing vessel proliferation .
+METHODS A cell proliferation assay was performed on the Ewing's sarcoma ( SK-NEP-1 ) cell line .
+Tumor cells were implanted intrarenally in athymic mice .
+Animals received daily gavage with vehicle or gefitinib 1 wk following implantation .
+Mice ( n = 12/cohort ) were euthanized 6 wk following implantation .
+Remaining mice were maintained without treatment for 2 wk .
+Vascular changes were assessed by angiography and immunohistochemically .
+EGFR and vascular endothelial growth factor ( VEGF ) expression were quantified using quantitative polymerase chain reaction ( qPCR ) .
+RESULTS Gefitinib suppressed in vitro cell growth with an IC(50) = 1.36 μM .
+Minimal tumor growth suppression was noted at 6 wk ( 6.01 � 1.2 g in control versus 4.61 � 0.9 g treated , P = 0.36 ) .
+After cessation of gefitinib , tumor growth was increased in both groups ( 7.37 � 1.62 g versus 6.77 � 1.53 g , P = 0.79 ) .
+Microvessel density was unchanged despite EGFR inhibition ( 161,000 � 16,000 pixels versus 135,000 � 18,000 pixels , P = 0.31 ) .
+At 6 wk , the vascular maturity index was similar in both groups ( 3.63 � 1.12 versus 4.09 � 1.71 , P = 0.83 ) .
+A downward trend in EGFR expression ( 49% of control ) and an upward trend in VEGF levels ( 50% of control ) occurred in the treated group .
+CONCLUSIONS EGFR expression was suppressed in cultured cells and xenograft tumors .
+Despite a cytotoxic effect on cell lines , gefitinib had little effect on tumor growth .
+No effects on the tumor vasculature were noted in the setting of EGFR suppression , suggesting that angiogenesis induced by SK-NEP-1 cells is refractory to EGFR inhibition .
+Interestingly , the resulting increase in VEGF expression following EGFR blockade , provides an alternative pro-angiogenic pathway promoting tumor survival .

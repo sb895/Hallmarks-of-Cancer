@@ -1,0 +1,5 @@
+Thrombopoietin ( TPO ) receptor agonists represent a new approach for the treatment of thrombocytopenia , which may develop as a consequence of immune thrombocytopenia , chemotherapy treatment , chronic hepatitis C infection , or myelodysplastic syndromes .
+There are concerns that use of certain growth factors can hasten disease progression in some types of hematologic malignancies and solid tumors .
+In this study , expression of MPL ( TPO-R ) mRNA was examined in tumor cell lines , patient tumor samples ( renal cell carcinoma , prostatic carcinoma , soft tissue and bony/cartilage sarcoma , colon cancer , and lymphoma ) , and normal tissues using microarray analysis and qRT-PCR .
+MPL mRNA is expressed at very low or undetectable levels compared with erythropoietin receptor ( EPOR ) , human epidermal growth factor ( ERBB2 ; HER2 ) , and insulin-like growth factor-1 receptor ( IGF1R ) in these patient samples .
+These data suggest TPO-R agonists will likely preferentially stimulate proliferation and differentiation of cells of megakaryocytic lineage , potentially demonstrating their utility for correcting thrombocytopenia in clinical settings .

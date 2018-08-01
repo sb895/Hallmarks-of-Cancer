@@ -1,0 +1,6 @@
+Treatment of cells with the anti-cancer drug camptothecin ( CPT ) induces topoisomerase I ( Top1)-mediated DNA damage , which in turn affects cell proliferation and survival .
+In this report , we demonstrate that treatment of the wild-type HCT116 ( wt HCT116 ) human colon cancer cell line and the isogenic p53(-/-) HCT116 and p21(-/-) HCT116 cell lines with a high concentration ( 250 nm ) of CPT resulted in apoptosis , indicating that apoptosis occurred by a p53- and p21-independent mechanism .
+In contrast , treatment with a low concentration ( 20 nm ) of CPT induced cell cycle arrest and senescence of the wt HCT116 cells , but apoptosis of the p53(-/-) HCT116 and p21(-/-) HCT116 cells .
+Further investigations indicated that p53-dependent expression of p21 blocked apoptosis of wt HCT116 cells treated with 20 nm , but not 250 nm CPT .
+Interestingly , blocking of the apoptotic pathway , by Z-VAD-FMK , in p21(-/-) HCT116 cells following treatment with 20 nm CPT did not permit the cells to develop properties of senescence .
+These observations demonstrated that p21 was required for senescence development of HCT116 cells following treatment with low concentrations of CPT .

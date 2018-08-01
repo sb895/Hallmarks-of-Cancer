@@ -1,0 +1,9 @@
+BACKGROUND Chronic lymphocytic leukemia cells show prolonged survival in vivo , but rapidly die by spontaneous apoptosis in vitro , unless they are co-cultured with stromal cells or non-malignant leukocytes .
+The objective of this study was to characterize the survival-inducing cross-talk of chronic lymphocytic leukemia cells with their microenvironment to identify novel therapeutic targets .
+DESIGN AND METHODS We analyzed and compared microarray-based expression profiles of chronic lymphocytic leukemia cells before and after three different survival-inducing culture conditions : ( i ) stromal cell co-culture , ( ii ) stromal cell conditioned medium and ( iii ) high cell density cultures of unsorted peripheral blood mononuclear cells .
+Cytokine antibody arrays were applied to study the composition of soluble factors present in these cultures .
+RESULTS The different survival-supportive culture conditions induced distinct gene expression changes , the majority of which were common to all three conditions .
+Pathway analyses identified - in addition to known signaling networks in chronic lymphocytic leukemia - novel pathways , of which Toll-like receptor signaling , nuclear respiratory factor-2 ( NRF2)-mediated oxidative stress response , and signaling via triggering receptor expressed on myeloid cells-1 ( TREM1 ) were the most relevant .
+A high proportion of up-regulated genes were inflammatory cytokines , of which chemokine ( C-C motif ) ligand 2 ( CCL2 ) was shown to be induced in monocytes by the presence of chronic lymphocytic leukemia cells in vitro .
+In addition , increased serum levels of this chemokine were detected in patients with chronic lymphocytic leukemia .
+CONCLUSIONS Our data provide several lines of evidence that an inflammatory microenvironment is induced in survival-supportive cultures of chronic lymphocytic leukemia cells which might be directly or indirectly involved in the prolonged survival of the malignant cells .

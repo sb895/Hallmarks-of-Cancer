@@ -1,0 +1,11 @@
+Alterations of the epidermal growth factor receptor ( EGFR ) gene are common in some forms of cancer and the most frequent is a deletion of exons 2-7 .
+We have previously shown that this mutant receptor , called DeltaEGFR , confers enhanced tumorigenicity to glioblastoma cells through elevated proliferation and reduced apoptotic rates of the tumor cells in vivo .
+To understand the molecular mechanisms that underlie DeltaEGFR-enhanced proliferation , we examined the gene products that control cell cycle progression .
+We found that levels of the cyclin-dependent kinase ( CDK ) inhibitor , p27 , were lower in U87MG.DeltaEGFR tumors than in parental U87MG or control U87MG.DK tumors .
+Consequently , CDK2-cyclin A activity was also elevated , concomitant with the RB protein hyperphosphorylation .
+In addition , activated phosphatidylinositol 3-kinase ( PI3-K ) and phosphorylated Akt levels were also elevated in the U87MG.DeltaEGFR tumors .
+U87MG.DeltaEGFR cells failed to arrest in G(1) in response to serum starvation in vitro and while maintaining high levels of PI3-K activity and hyperphosphorylated RB .
+Treatment of U87MG.DeltaEGFR cells with LY294002 , a PI3-K inhibitor , caused reduced levels of phosphorylated Akt and concomitantly up-regulated levels of p27 .
+Expression of a kinase dead dominant-negative Akt mutant in the U87MG.DeltaEGFR cells similarly resulted in up-regulation of p27 and down-regulation of tumorigenicity in vivo .
+These results suggest that the constitutively active DeltaEGFR can enhance cell proliferation in part by down-regulation of p27 through activation of the PI3-K/Akt pathway .
+This pathway may represent another therapeutic target for treatment of those aggressive glioblastomas expressing DeltaEGFR .

@@ -1,0 +1,6 @@
+Transforming growth factor-beta1 ( TGF-beta1 ) exerts potent immunosuppressive effects .
+In this study , we investigated the potential role of TGF-beta1 produced by hepatocellular carcinoma ( HCC ) cell lines in immunosuppression mechanisms .
+Using the Mv1Lu cell-growth inhibition assay and an enzyme-linked immunosorbent assay ( ELISA ) , we detected optimal levels of TGF-beta1 in the culture supernatants conditioned by the HCC cell lines PLC/PRF/5 , Hep3B , and HepG2 .
+To determine the biological activity of TGF-beta1 in the supernatants , we examined the effects of the culture supernatants on the production of interferon ( IFN)-gamma induced during the culture of peripheral blood mononuclear cells ( PBMCs ) stimulated with interleukin ( IL)-12 .
+IFN-gamma production of IL-12-stimulated PBMCs in the 1:1 dilution of the acid-activated conditioned medium of PLC/PRF/5 , Hep3B , and HepG2 reduced to 14.7 +/- 0.8 , 17.3 +/- 9.0 , and 35.9 +/- 14.6% , respectively , compared with the value in the culture with control medium ( complete culture medium ) .
+These results suggest that HCC cells producing TGF-beta1 may reduce the generation or activation of cytotoxic T lymphocytes ( CTL ) and natural killer ( NK ) cells , and thus could enhance their ability to escape immune-mediated surveillance .

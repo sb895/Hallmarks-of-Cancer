@@ -1,0 +1,12 @@
+Heart failure and arrhythmias occur at 3 to 5 times higher rates among individuals with diabetes mellitus , compared with age-matched , healthy individuals .
+Studies attribute these defects in part to alterations in the function of cardiac type 2 ryanodine receptors ( RyR2s ) , the principal Ca(2+)-release channels on the internal sarcoplasmic reticulum ( SR ) .
+To date , mechanisms underlying RyR2 dysregulation in diabetes remain poorly defined .
+A rat model of type 1 diabetes , in combination with echocardiography , in vivo and ex vivo hemodynamic studies , confocal microscopy , Western blotting , mass spectrometry , site-directed mutagenesis , and [ (3)H]ryanodine binding , lipid bilayer , and transfection assays , was used to determine whether post-translational modification by reactive carbonyl species ( RCS ) represented a contributing cause .
+After 8 weeks of diabetes , spontaneous Ca(2+) release in ventricular myocytes increased Evoked Ca(2+) release from the SR was nonuniform ( dyssynchronous ) .
+Total RyR2 protein levels remained unchanged , but the ability to bind the Ca(2+)-dependent ligand [ (3)H]ryanodine was significantly reduced .
+Western blotting and mass spectrometry revealed RCS adducts on select basic residues .
+Mutation of residues to delineate the physiochemical impact of carbonylation yielded channels with enhanced or reduced cytoplasmic Ca(2+) responsiveness .
+The prototype RCS methylglyoxal increased and then decreased the RyR2 open probability .
+Methylglyoxal also increased spontaneous Ca(2+) release and induced Ca(2+) waves in healthy myocytes .
+Treatment of diabetic rats with RCS scavengers normalized spontaneous and evoked Ca(2+) release from the SR , reduced carbonylation of RyR2s , and increased binding of [ (3)H]ryanodine to RyR2s .
+From these data , we conclude that post-translational modification by RCS contributes to the heterogeneity in RyR2 activity that is seen in experimental diabetes .

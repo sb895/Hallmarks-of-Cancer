@@ -1,0 +1,12 @@
+The Wnt/β-catenin pathway regulates the viability and radiosensitivity of head and neck squamous cancer cells ( HNSCC ) .
+Increased β-catenin predisposes HNSCC patients to poor prognosis and survival .
+This study was conducted to determine the mechanism by which β-catenin regulates the viability of HNSCC .
+AMC-HN-3 , -HN-8 , UM-SCC-38 , and -SCC-47 cells , which were established from human head and neck cancer specimens , underwent cell death following β-catenin silencing. β-Catenin silencing significantly induced G1 arrest and increased the expression of Bax and active caspase-3 , which demonstrates the sequential activation of apoptotic cascades following treatment of HNSCC with targeted siRNA .
+Intriguingly , β-catenin silencing also induced autophagy .
+Here , we confirm that the number of autophagic vacuoles and the expression of type II light chain 3 were increased in cells that were treated with β-catenin siRNA .
+These cell death modes are most likely due to the activation of LKB1-dependent AMPK following β-catenin silencing .
+The activated LKB1/AMPK pathway in AMC-HN-3 cells caused G1 arrest by phosphorylating p53 and suppressing mTOR signaling .
+In addition , treating AMC-HN-3 cells with LKB1 siRNA preserved cell viability against β-catenin silencing-induced cytotoxicity .
+Taken together , these results imply that following β-catenin silencing , HNSCC undergo both apoptotic and autophagic cell death that are under the control of LKB1/AMPK .
+To the best of our knowledge , these results suggest for the first time that novel crosstalk between β-catenin and the LKB1/AMPK pathway regulates the viability of HNSCC .
+This study thus presents new insights into our understanding of the cellular and molecular mechanisms involved in β-catenin silencing-induced cell death .

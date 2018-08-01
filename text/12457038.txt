@@ -1,0 +1,8 @@
+Estrogen affects apoptotic cell death in estrogen-responsive tissues .
+The purpose of the present study was to examine dynamic changes in apoptotic cell death in the anterior pituitary gland during the estrous cycle and to investigate neuroendocrine regulation of these changes in cycling female rats .
+Terminal deoxynucleotidyl transferase-mediated dUTP nick end-labeling ( TUNEL ) for in situ detection of DNA strand breaks revealed that the number of TUNEL-positive anterior pituitary cells was changing during the estrous cycle , with a maximum in the morning of proestrus and a minimum in the morning of estrus .
+A similar pattern was observed with Bax immunostaining ; however , no difference was observed in Bcl-2 immunostaining .
+Most of Bax-immunoreactive cells were identified as a subpopulation of gonadotropes .
+Pentobarbital administered in the afternoon of proestrus attenuated the decrease in TUNEL-positive or Bax-immunoreactive cells in the morning of estrus , although estradiol treatment failed to affect it .
+This action of pentobarbital was reduced by simultaneous treatment with an ovulation-inducing dose of gonadotropin-releasing hormone ( GnRH ) , but not with progesterone , an ovarian steroid also released after GnRH treatment .
+These results suggest that anterior pituitary cells , mostly gonadotropes , undergo a cyclic change in apoptotic cell death during the estrous cycle and that the inhibition of apoptosis on estrus is due , at least in part , to the proestrous surge of GnRH secretion .

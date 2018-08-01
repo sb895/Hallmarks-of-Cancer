@@ -1,0 +1,6 @@
+Atherosclerosis ( As ) is now widely appreciated to represent a chronic inflammatory reaction of the vascular wall in response to dyslipidemia and endothelial distress involving the inflammatory recruitment of leukocytes and the activation of resident vascular cells .
+MicroRNAs ( miRNAs ) are a group of endogenous , small ( nucleotides in length ) non-coding RNA molecules , which function specifically by base pairing with mRNA of genes , thereby induce translation repressions of the genes within metazoan cells .
+Recently , the function of miR-27 , one of the miRNAs , in the initiation and progression of atherosclerosis has been identified .
+In vivo and in vitro studies suggest that miR-27 may serve as a diagnostic and prognostic marker for atherosclerosis .
+More recently , studies have identified important roles for miR-27 in angiogenesis , adipogenesis , inflammation , lipid metabolism , oxidative stress , insulin resistance and type 2 diabetes , etc .
+In this review , we focus on the role of miR-27 in the development of vulnerable atherosclerotic plaques , potential as a disease biomarker and novel therapeutic target in atherosclerosis .

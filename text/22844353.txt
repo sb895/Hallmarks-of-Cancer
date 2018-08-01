@@ -1,0 +1,14 @@
+Interleukin-23 ( IL-23 ) plays an essential role in the mucosal immune system .
+It has been suggested that IL-23 is able to induce carcinogenesis as well as inflammation and a recent study revealed that IL-23R is expressed in colorectal carcinoma cells .
+However , neither the differences in the IL-23R expression among the patients nor the concrete functions of IL-23 in colorectal carcinoma cells have been revealed .
+The aim of the present study was to examine the characteristics of IL-23R expression in colorectal carcinoma and the direct effects of IL-23 on colorectal cancer cells .
+We examined the IL-23R expression in human colorectal cancer tissue samples by immunohistochemistry .
+Cell proliferation and invasion assays under IL-23 stimulation were performed using cultured cells derived from colorectal cancer .
+ELISA and real-time PCR were used to evaluate the transforming growth factor ( TGF)-β production due to IL-23 stimulation .
+All of the TNM stage IV patients were positive for IL-23R .
+IL-23R expression in the carcinoma tissue was also relatively high at the deepest point of invasion in certain cases .
+The proliferative and invasive activities and/or TGF-β production of DLD-1 cells increased by IL-23 stimulation , whereas no change was observed in the activities of MIP101 and KM12c cells .
+IL-23 directly enhanced the malignancy of the colon carcinoma cells .
+An autocrine mechanism via TGF-β production may underlie these effects .
+IL-23 is therefore a potential target for cancer immunotherapy .
+However , the homogeneity in IL-23R expression and the effects of IL-23 on colorectal carcinoma cells should be considered .

@@ -1,0 +1,14 @@
+Cigarette smoke ( CS ) is a rich source of radicals , predisposing the cell to oxidative stress resulting in inflammation .
+Chronic inflammation is a recognized risk factor for carcinogenesis .
+Cyclooxygenase-2 ( COX-2 ) is a mediator of inflammatory pathway and may , therefore , contribute to carcinogenesis .
+There are several reports that suggest the association between CS and COX-2 associated risk to cancer .
+In the present study , we examined the role of celecoxib ( a selective COX-2 inhibitor ) in modulating the oxidative stress caused by CS inhalation in mice .
+CS exposure for a period of 10 weeks caused oxidative stress in the pulmonary and hepatic tissues , as evident from the increase in lipid peroxidation levels ( LPO ) and decrease in reduced glutathione ( GSH ) levels .
+Celecoxib ( 125 mg/kg body weight for 8 weeks ) administration to CS inhaling mice reduced the oxidative stress by decreasing the LPO levels and enhancing the GSH levels in comparison to the CS-exposed group .
+CS exposure repressed the enzymatic antioxidant defense system , as evident from the decrease in catalase ( CAT ) and superoxide dismutase ( SOD ) activities .
+Co-adminstration of celecoxib considerably reversed the changes in the enzymatic antioxidant defense system .
+Histopathological studies of lungs showed that CS exposure induced alveolar wall destruction and air space enlargement .
+In co-treated group , the alveolar septa were thicker than normal with apparent infiltration of inflammatory cells .
+In CS-exposed group , hepatic tissue exhibited vacuolization and macrophage infiltration .
+Co-treatment with celecoxib restored the normal histoarchitechture in hepatic tissues of CS inhaling mice .
+Thus , the present study demonstrated that celecoxib adminstration reduced the oxidative stress-mediated risk to carcinogenesis , due to its ability to boost the antioxidant defense system .

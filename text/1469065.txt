@@ -1,0 +1,8 @@
+Transforming growth factor-Beta ( TGF-beta ) is a potent growth inhibitor for several cell types including epithelial cells and hematopoietic progenitor cells .
+Using a human promonocytic leukemia cell line , THP-1 , we have shown that TGF-beta inhibits their proliferation and promotes differentiation into cells exhibiting macrophage-like properties .
+Therefore , a key question is whether TGF-beta influences the expression of genes associated with proliferation and/or growth inhibition .
+TGF-beta treatment of THP-1 cells results in downregulation of expression of c-myc .
+We also observe that TGF-beta 1-treated cells express reduced levels of the cell cycle regulated histone , H2B , but express elevated levels of an RNA splicing variant of this histone that has been observed to be upregulated in growth inhibited and terminally differentiated cells .
+In addition , a nuclear protein associated with senescence and withdrawal of cells from the cell cycle , statin , is also expressed by THP-1 cells in response to TGF-beta 1 treatment .
+These results suggest that TGF-beta 1 is capable of inducing expression of specific nuclear proteins associated with differentiation and/or cessation of proliferation that may result in changes in nuclear organization and altered gene expression .
+Such changes in nuclear organization may be incompatible with continued proliferation of the cells .

@@ -1,0 +1,4 @@
+Thellungiella salsuginea , a close relative of Arabidopsis , represents an extremophile model for abiotic stress tolerance studies .
+We present the draft sequence of the T. salsuginea genome , assembled based on coverage to seven chromosomes with a coding capacity of at least 28,457 genes .
+This genome provides resources and evidence about the nature of defense mechanisms constituting the genetic basis underlying plant abiotic stress tolerance .
+Comparative genomics and experimental analyses identified genes related to cation transport , abscisic acid signaling , and wax production prominent in T. salsuginea as possible contributors to its success in stressful environments .

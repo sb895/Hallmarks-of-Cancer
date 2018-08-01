@@ -1,0 +1,10 @@
+Genetic defects in breast cancer ( BC ) susceptibility genes , most importantly BRCA1 and BRCA2 , account for of hereditary BC and ovarian cancer ( OC ) .
+Little is known about the contribution of constitutive ( soma-wide ) epimutations to the remaining cases .
+We developed bisulfite pyrosequencing assays to screen >600 affected BRCA1/BRCA2 mutation-negative patients from the German Consortium for Hereditary Breast and Ovarian Cancer for constitutive hypermethylation of ATM , BRCA1 , BRCA2 , RAD51C , PTEN and TP53 in blood cells .
+In a second step , patients with \u22656% promoter methylation were analyzed by bisulfite plasmid sequencing to demonstrate the presence of hypermethylated alleles ( epimutations ) , indicative of epigenetic gene silencing .
+Altogether we identified nine ( 1.4% ) patients with constitutive BRCA1 and three ( 0.5% ) with RAD51C hypermethylation .
+Epimutations were found in both sporadic cases , in particular in 2 ( 5.5% ) of 37 patients with early-onset BC , and familial cases , in particular 4 ( 10% ) of 39 patients with OC .
+Hypermethylation was always confined to one of the two parental alleles in a subset ( 12-40% ) of the analyzed cells .
+Because epimutations occurred in cell types from different embryonal layers , they most likely originated in single cells during early somatic development .
+We propose that analogous to germline genetic mutations constitutive epimutations may serve as the first hit of tumor development .
+Because the role of constitutive epimutations in cancer development is likely to be largely underestimated , future strategies for effective testing of susceptibility to BC and OC should include an epimutation screen .

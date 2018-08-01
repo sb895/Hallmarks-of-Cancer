@@ -1,0 +1,8 @@
+The ASPP2 ( also known as 53BP2L ) tumor suppressor is a proapoptotic member of a family of p53 binding proteins that functions in part by enhancing p53-dependent apoptosis via its C-terminal p53-binding domain .
+Mounting evidence also suggests that ASPP2 harbors important nonapoptotic p53-independent functions .
+Structural studies identify a small G protein Ras-association domain in the ASPP2 N terminus .
+Because Ras-induced senescence is a barrier to tumor formation in normal cells , we investigated whether ASPP2 could bind Ras and stimulate the protein kinase Raf/MEK/ERK signaling cascade .
+We now show that ASPP2 binds to Ras-GTP at the plasma membrane and stimulates Ras-induced signaling and pERK1/2 levels via promoting Ras-GTP loading , B-Raf/C-Raf dimerization , and C-Raf phosphorylation .
+These functions require the ASPP2 N terminus because BBP ( also known as 53BP2S ) , an alternatively spliced ASPP2 isoform lacking the N terminus , was defective in binding Ras-GTP and stimulating Raf/MEK/ERK signaling .
+Decreased ASPP2 levels attenuated H-RasV12-induced senescence in normal human fibroblasts and neonatal human epidermal keratinocytes .
+Together , our results reveal a mechanism for ASPP2 tumor suppressor function via direct interaction with Ras-GTP to stimulate Ras-induced senescence in nontransformed human cells .

@@ -1,0 +1,11 @@
+OBJECTIVES Epiphyseal cartilage is a barrier to osteosarcoma invasion , however the mechanisms behind this resistance remain unclear .
+The aim of this study was to examine the chronological and spatial patterns of osteosarcoma growth and invasion of local tissue structures including epiphyseal cartilage .
+METHODS We used an in vivomouse model of osteosarcoma to histologically examine tumors at different stages of disease progression .
+We compared the pattern of osteosarcoma penetration of epiphyseal cartilage with the expression pattern of two potent mediators of angiogenesis ; proangiogenic vascular endothelial growth factor ( VEGF ) and antiangiogenic pigment epithelium-derived factor ( PEDF ) .
+RESULTS Epiphyseal cartilage remained intact across its entire length in all sections examined , despite increasing tumor size as well as intra- and extraosseous destruction .
+In the most advanced cases , only the proangiogenic lowermost layers of the hypertrophic zone of the growth plate were eroded .
+This corresponded with the growth plate layers which highly expressed the angiogenic factor VEGF .
+In contrast , the resting , proliferative and upper hypertrophic layers were resistant to osteosarcoma invasion in all cases .
+This corresponded to the layers with the highest expression of the potent antiangiogenic factor PEDF .
+CONCLUSION Epiphyseal cartilage is resistant to local invasion by osteosarcoma .
+The balance of angiogenesis , influenced by pro- and antiangiogenic factors , is likely to play an important role in this resistance .

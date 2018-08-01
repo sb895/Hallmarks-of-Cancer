@@ -1,0 +1,6 @@
+Hormone-independent tumor growth and metastasis are associated with increased mortality in human prostate cancer .
+In this study , we evaluate a potential role for ligand-mediated activation of HER2 receptor tyrosine kinase in androgen-independent prostate cancers .
+HER2 , HER3 , and epidermal growth factor receptor were detected in the androgen-independent cell line 22Rv1 .
+Heregulin stimulation results in receptor phosphorylation and cell proliferation that is inhibited by increasing concentrations of anti-HER2 recombinant humanized monoclonal antibody ( rhuMAb ) 2C4 .
+Furthermore , inhibition of tumor growth was observed in xenografts derived from 22Rv1 cells when treated with rhuMAb 2C4 in a dose-dependent manner .
+These studies provide a framework , both in vitro and in vivo , to examine the molecular mechanisms of ligand-driven HER2 activation in androgen-independent tumorigenesis .

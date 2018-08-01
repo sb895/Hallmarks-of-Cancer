@@ -1,0 +1,10 @@
+Furan , a potent rodent liver carcinogen , is found in many cooked food items and thus represents a human cancer risk .
+Mechanisms for furan carcinogenicity were investigated in male F344 rats using the in vivo Comet and micronucleus assays , combined with analysis of histopathological and gene expression changes .
+In addition , formamidopyrimidine DNA glycosylase ( Fpg ) and endonuclease III ( EndoIII)-sensitive DNA damage was monitored as a measure of oxidative DNA damage .
+Rats were treated by gavage on four consecutive days with 2 , 4 , and 8mg/kg bw furan , doses that were tumorigenic in 2-year cancer bioassays , and with two higher doses , 12 and 16mg/kg .
+Rats were killed 3h after the last dose , a time established as producing maximum levels of DNA damage in livers of furan-treated rats .
+Liver Comet assays indicated that both DNA strand breaks and oxidized purines and pyrimidines increased in a near-linear dose-responsive fashion , with statistically significant increases detected at cancer bioassay doses .
+No DNA damage was detected in bone marrow , a non-target tissue for cancer , and peripheral blood micronucleus assays were negative .
+Histopathological evaluation of liver from furan-exposed animals produced evidence of inflammation , single-cell necrosis , apoptosis , and cell proliferation .
+In addition , genes related to apoptosis , cell-cycle checkpoints , and DNA-repair were expressed at a slightly lower level in the furan-treated livers .
+Although a mixed mode of action involving direct DNA binding cannot be ruled out , the data suggest that furan induces cancer in rat livers mainly through a secondary genotoxic mechanism involving oxidative stress , accompanied by inflammation , cell proliferation , and toxicity .

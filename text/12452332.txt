@@ -1,0 +1,8 @@
+In an attempt to find a strategy to modulate the proliferation of vascular endothelial cells , we examined whether constitutive activation of proto-oncogen protein p21 ( Ras ) induced the reentry of confluent human umbilical vascular endothelial cells ( HUVECs ) into the S phase .
+When an adenovirus construct expressing a constitutively active Ras mutant ( Ad/RasG12V ) was infected into HUVECs , their morphology changed strikingly and they appeared to be transformed .
+However , Ad/RasG12V-infected HUVECs did not enter the S phase , as determined by assessing 3H-thymidine incorporation .
+In accordance with the above results , the expression of cyclin A both at the transcript and protein levels did not increase in Ad/RasG12V-infected HUVECs relative to that in control cells , although the expression of cyclin D1 was induced in Ad/RasG12V-infected cells .
+Interestingly , the expression of the cyclin-dependent kinase ( CDK ) inhibitor p21cip1 was remarkably increased while that of p27kip1 did not decrease in Ad/RasG12V-infected HUVECs .
+Furthermore , CDK2 activity was not induced in Ad/RasG12V-infected HUVECs .
+These results suggested that the constitutive activation of Ras promoted the reentry of confluent HUVECs in the G0 phase into the G1 phase , but not into the S phase .
+The results also indicated that the constitutive activation of Ras might have induced the persistent expression of p21cip1 and p27kip1 , and that this induction of p21cip1 and p27kip1 expression possibly caused the cell cycle arrest at the G1 phase .

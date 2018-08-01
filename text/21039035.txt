@@ -1,0 +1,8 @@
+BACKGROUND Apoptosis , a widely important mechanism that contributes to cell growth reduction , is reported to be induced by Crocus sativus in different cancer types .
+The present study was designed to elucidate apoptosis induction by crocin , a main component of Crocus sativus in a human pancreatic cancer cell line ( BxPC-3 ) .
+METHODS Cell viability was measured by MTT assay , Hoechest33258 staining was used to detect the chromatin condensation characteristic of apoptosis , and DNA fragmentation was assessed by gel electrophoresis and cell cycle analysis by flow cytometry .
+RESULTS Crocin induced apoptosis and G1-phase cell cycle arrest of BxPC-3 cells , while decreasing cell viability in a dose dependent and time dependent manner .
+Cells treated with 10μg/L crocin exhibited apoptotic morphology ( brightly blue-fluorescent condensed nuclei on Hoechst 33258 staining ) and reduction of volume .
+DNA analysis revealed typical ladders as early as 12 hours after treatment indicative of apoptosis .
+CONCLUSION Our preclinical study demonstrated a pancreatic cancer cell line to be highly sensitive to crocin-mediated growth inhibition and apoptotic cell death .
+Although the molecular mechanisms of crocin action are not yet clearly understood , it appears to have potential as a therapeutic agent .

@@ -1,0 +1,9 @@
+The molecular mechanism mediating expression of senescent cell antigen-aggregated or cleaved band 3 and externalized phosphatidylserine ( PS ) on the surface of aged erythrocytes and their premature expression in certain anemias is not completely elucidated .
+The erythrocytes with these surface modifications undergo macrophage-mediated phagocytosis .
+In this study , the role of protein kinase C ( PKC ) isoforms in the expression of these surface modifications was investigated .
+Inhibition of PKC α by 30 μM rottlerin ( R30 ) and 2.3 nM G� 6976 caused expression of both the senescent cell marker-externalized PS measured by FACS analysis and aggregated band 3 detected by western blotting .
+In contrast to this observation , but in keeping with literature , PKC activation by phorbol-12-myristate-13-acetate ( PMA ) also led to the expression of senescence markers .
+We explain this antithesis by demonstrating that PMA-treated cells show reduction in the activity of PKC α , thereby simulating inhibition .
+The reduction in PKC α activity may be attributed to the known downregulation of PMA-activated PKC α , caused by its membrane translocation and proteolysis .
+We demonstrate membrane translocation of PKC α in PMA-treated cells to substantiate this inference .
+Thus loss of PKC α activity either by inhibition or downregulation can cause surface modifications which can trigger erythrophagocytosis .

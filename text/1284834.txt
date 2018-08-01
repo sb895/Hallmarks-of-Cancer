@@ -1,0 +1,6 @@
+We have examined the effect of FK506 on the Adriamycin sensitivity of the multidrug resistant human chronic myelocytic leukemia cell line ( K562/ADM ) .
+In K562/ADM cells , 1.0 microgram/ml FK506 reversed the resistance of Adriamycin , and increased the IC50 value for Adriamycin up to 17 fold .
+However , IC50 value for the parent cells ( K562 ) increased only 1.5 fold .
+By cell cycle analysis , the accumulation in late S-G2M phase was confirmed on K562/ADM cells , treated with 1.0 microgram/ml FK506 and low-dose of Adriamycin .
+Cyclosporin A ( CsA ) could also restored the Adriamycin sensitivity in the K562/ADM cells , as previously reported. 1.0 microgram/ml FK506 as well as CsA significantly increased radioactive Adriamycin accumulation in K562/ADM cells and blocked [ 3H]azidopien photoaffinity labeling of P-glycoprotein .
+These results suggest that 1.0 microgram/ml FK506 could reverse the Adriamycin resistance in a MDR human leukemia cells through the interaction with P-glycoprotein .

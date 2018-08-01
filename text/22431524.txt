@@ -1,0 +1,9 @@
+Cancer cells exhibit altered glucose metabolism characterized by a preference for aerobic glycolysis or the Warburg effect , and the cells resist matrix detachment-induced apoptosis , which is called anoikis , a barrier to metastasis .
+It remains largely unclear whether tumor metabolism influences anoikis and metastasis .
+Here we show that when detached from the matrix , untransformed mammary epithelial cells undergo metabolic reprogramming by markedly upregulating pyruvate dehydrogenase ( PDH ) kinase 4 ( PDK4 ) through estrogen-related receptor gamma ( ERR\u03b3 ) , thereby inhibiting PDH and attenuating the flux of glycolytic carbon into mitochondrial oxidation .
+To decipher the significance of this metabolic response , we found that depletion of PDK4 or activation of PDH increased mitochondrial respiration and oxidative stress in suspended cells , resulting in heightened anoikis .
+Conversely , overexpression of PDKs prolonged survival of cells in suspension .
+Therefore , decreased glucose oxidation following cell detachment confers anoikis resistance .
+Unlike untransformed cells , most cancer cells demonstrate reduced glucose oxidation even under attached conditions , and thus they inherently possess a survival advantage when suspended .
+Normalization of glucose metabolism by stimulating PDH in cancer cells restores their susceptibility to anoikis and impairs their metastatic potential .
+These results suggest that the Warburg effect , more specifically , diminished glucose oxidation , promotes anoikis resistance and metastasis and that PDKs are potential targets for antimetastasis therapy .

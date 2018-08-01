@@ -1,0 +1,10 @@
+OBJECTIVE Expression of N-myc downstream-regulated gene 1 ( NDRG1)/Cap43 is a prognostic indicator of human malignancies according to the tumor type in which it occurs .
+We investigated how NDRG1/Cap43 could affect tumor growth and angiogenesis in non-small-cell lung cancer ( NSCLC ) in vivo using an animal experimental model , and also how it could affect tumor angiogenesis and prognosis in NSCLC patients .
+METHODS AND RESULTS Knockdown of NDRG1/Cap43 in lung cancer cells using a specific small interfering RNA resulted in growth rates in culture that were similar to those of counterpart control cells , but decreased tumor growth rates in vivo markedly .
+Stable NDRG1/Cap43 knockdown did not induce consistent changes in the expression of Epidermal growth factor receptor ( EGFR ) family proteins and c-Met in two human lung cancer cell lines in vitro .
+However , cell lines with NDRG1/Cap43 knockdown showed markedly decreased production of the potent angiogenic factors vascular endothelial growth factor-A and interleukin-8 .
+Cells with knockdown of NDRG1/Cap43 showed marked reduction of tumor-induced angiogenesis .
+Using immunohistochemistry , we examined 182 surgically resected specimens of NSCLC for expression of NDRG1/Cap43 and tumor angiogenesis .
+High microvessel density in the tumor was significantly associated with nuclear positivity for NDRG1/Cap43 in both adenocarcinoma ( p = 0.003 ) and squamous cell carcinoma ( p=0.041 ) .
+For both adenocarcinoma ( p = 0.031 ) and squamous cell carcinoma ( p=0.034 ) , the survival curve of patients negative for nuclear NDRG1/Cap43 expression differed significantly from that of patients who were positive .
+CONCLUSION Therefore , the expression of NDRG1/Cap43 may be predictive of tumor angiogenesis and poor prognosis in NSCLC .

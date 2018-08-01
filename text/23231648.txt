@@ -1,0 +1,16 @@
+UNLABELLED ABSTRACT : BACKGROUND Tamoxifen is used in hormone therapy for estrogen-receptor ( ER)-positive breast cancer , but also has chemopreventative effects against ER-negative breast cancers .
+This study sought to investigate whether oral iron-saturated bovine lactoferrin ( Fe-Lf ) , a natural product which enhances chemotherapy , could improve the chemotherapeutic effects of tamoxifen in the treatment of ER-negative breast cancers .
+METHODS In a model of breast cancer prevention , female Balb/c mice treated with tamoxifen ( 5 mg/Kg ) were fed an Fe-Lf supplemented diet ( 5 g/Kg diet ) or the base diet .
+At week 2 , 4T1 mammary carcinoma cells were injected into an inguinal mammary fat pad .
+In a model of breast cancer treatment , tamoxifen treatment was not started until two weeks following tumor cell injection .
+Tumor growth , metastasis , body weight , and levels of interleukin 18 ( IL-18 ) and interferon γ ( IFN-γ ) were analyzed .
+RESULTS Tamoxifen weakly ( IC50  inhibited the proliferation of 4T1 cells at pharmacological concentrations in vitro .
+In the tumor prevention study , a Fe-Lf diet in combination with tamoxifen caused a 4 day delay in tumor formation , and significantly inhibited tumor growth and metastasis to the liver and lung by 48 , 58 , and 66% ( all P < 0.001 ) , respectively , compared to untreated controls .
+The combination therapy was significantly ( all P < 0.05 ) more effective than the respective monotherapies .
+Oral Fe-Lf attenuated the loss of body weight caused by tamoxifen and cancer cachexia .
+It prevented tamoxifen-induced reductions in serum levels of IL-18 and IFN-γ , and intestinal cells expressing IL-18 and IFN-γ .
+It increased the levels of Lf in leukocytes residing in gut-associated lymphoid tissues .
+B , T and Natural killer ( NK ) cells containing high levels of Lf were identified in 4T1 tumors , suggesting they had migrated from the intestine .
+Similar effects of Fe-Lf and tamoxifen on tumor cell viability were seen in the treatment of established tumors .
+CONCLUSIONS The results indicate that Fe-Lf is a potent natural adjuvant capable of augmenting the chemotherapeutic activity of tamoxifen .
+It could have application in delaying relapse in tamoxifen-treated breast cancer patients who are at risk of developing ER-negative tumors .

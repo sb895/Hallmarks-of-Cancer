@@ -1,0 +1,6 @@
+The BLM helicase is a member of the RecQ DNA helicase family and is mutated in the cancer-prone disorder Bloom syndrome .
+BLM plays a role in a number of cellular processes including DNA double-strand break repair , Holliday junction dissolution , and chromosome segregation .
+In Drosophila melanogaster , the BLM ortholog ( DmBlm ) is encoded by the mus309 gene .
+To study the role of DmBlm in double-strand break repair , we utilized a genetic assay in which a targeted DNA double-strand gap is created through excision of a P transposable element .
+By recovering and molecularly analyzing individual repair products from wild-type and mus309 male pre-meiotic germline cells , we demonstrated that the DmBlm helicase is involved in homologous recombination downstream of strand invasion .
+This assay can be adapted to test the roles of numerous DNA metabolic factors in DNA double-strand gap repair .

@@ -1,0 +1,15 @@
+Zinc dyshomeostasis can induce cell death .
+However , the mechanisms involved have not been fully elucidated in prostate cancer ( PCa ) cells , which differ dramatically from normal cells in their zinc handling ability .
+Here , we studied the effects of the ionophore Zn-pyrithione ( ZP ) and the chelator N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine ( TPEN ) .
+Both compounds induced cell death at micromolar concentrations when incubated with androgen-dependent ( LNCaP ) , androgen-independent ( PC3 , DU145 ) and androgen-sensitive ( C4-2 ) PCa cell-lines .
+Compared to PCa cells , RWPE1 prostate epithelial cells were less sensitive to ZP and more sensitive to TPEN , but total cellular zinc levels were changed similarly .
+ZnSO4 enhanced the toxicity of ZP , but inhibited the effects of TPEN as expected .
+The morphological/biochemical responses to ZP and TPEN differed .
+ZP decreased ATP levels and stimulated ERK , AKT and PKC phosphorylation .
+DNA laddering was observed only at low doses of ZP but all doses of TPEN .
+TPEN activated caspase 3/7 and induced PARP-cleavage , DNA-fragmentation , ROS-formation and apoptotic bodies .
+PKC and ERK-pathway inhibitors , and antioxidants protected against ZP-induced but not TPEN-induced death .
+Inhibitors of MPTP-opening protected both .
+Cell death in response to TPEN ( but not ZP ) was diminished by a calpain inhibitor and largely prevented by a caspase 3 inhibitor .
+Overall , the results indicated primarily a necrotic cell death for ZP and an apoptotic cell death for TPEN .
+The enhanced sensitivity of PCa cells to ZP and the apparent ability of ZP and TPEN to kill quiescent and rapidly dividing cells in a p53-independent manner suggest that ZP/TPEN might be used to develop adjunct treatments for PCa .

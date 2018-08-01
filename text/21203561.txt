@@ -1,0 +1,11 @@
+BACKGROUND NFκB signaling is of paramount importance in the regulation of apoptosis , proliferation , and inflammatory responses during human development and homeostasis , as well as in many human cancers .
+Receptor Tyrosine Kinases ( RTKs ) , including the Fibroblast Growth Factor Receptors ( FGFRs ) are also important in development and disease .
+However , a direct relationship between growth factor signaling pathways and NFκB activation has not been previously described , although FGFs have been known to antagonize TNFα-induced apoptosis .
+METHODOLOGY/PRINCIPAL FINDINGS Here , we demonstrate an interaction between FGFR4 and IKKβ ( Inhibitor of NFκB Kinase β subunit ) , an essential component in the NFκB pathway .
+This novel interaction was identified utilizing a yeast two-hybrid screen [ 1 ] and confirmed by coimmunoprecipitation and mass spectrometry analysis .
+We demonstrate tyrosine phosphorylation of IKKβ in the presence of activated FGFR4 , but not kinase-dead FGFR4 .
+Following stimulation by TNFα ( Tumor Necrosis Factor α ) to activate NFκB pathways , FGFR4 activation results in significant inhibition of NFκB signaling as measured by decreased nuclear NFκB localization , by reduced NFκB transcriptional activation in electophoretic mobility shift assays , and by inhibition of IKKβ kinase activity towards the substrate GST-IκBα in in vitro assays .
+FGF19 stimulation of endogenous FGFR4 in TNFα-treated DU145 prostate cancer cells also leads to a decrease in IKKβ activity , concomitant reduction in NFκB nuclear localization , and reduced apoptosis .
+Microarray analysis demonstrates that FGF19 + TNFα treatment of DU145 cells , in comparison with TNFα alone , favors proliferative genes while downregulating genes involved in apoptotic responses and NFκB signaling .
+CONCLUSIONS/SIGNIFICANCE These results identify a compelling link between FGFR4 signaling and the NFκB pathway , and reveal that FGFR4 activation leads to a negative effect on NFκB signaling including an inhibitory effect on proapoptotic signaling .
+We anticipate that this interaction between an RTK and a component of NFκB signaling will not be limited to FGFR4 alone .

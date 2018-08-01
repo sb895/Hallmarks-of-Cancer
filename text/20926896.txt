@@ -1,0 +1,6 @@
+BACKGROUND Apoptosis-stimulating protein of p53 ( ASPP ) family members can stimulate the apoptotic function of p53 but have no impact on its cell cycle arrest function .
+MATERIAL AND METHODS The expression pattern of the ASPP family consisting of ASPP1 , ASPP2 , and iASPP was examined by immunohistochemistry in 45 formalin-fixed and paraffin-embedded endometrial endometrioid adenocarcinoma ( EEA ) specimens and 26 normal endometrial tissue ( NET ) samples .
+RESULTS The expression rates of ASPP1 and ASPP2 in EEA were significantly lower than those in NET ( p < 0.05 ) .
+However , the iASPP expression rate in EEA was statistically higher in contrast to NET ( p < 0.05 ) .
+Expression of ASPP1 and iASPP in EEA had no correlation with any clinicopathological features ( p > 0.05). iASPP was associated with grade , invasion , and lymph node metastasis ( p < 0.05 ) .
+CONCLUSIONS It is a novel finding that the expression pattern of the ASPP family members has respective pathological and clinical implications in EEA , and iASPP might be a candidate target for EEA therapy .

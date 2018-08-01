@@ -1,0 +1,10 @@
+INTRODUCTION Cell-cell interaction is an essential component of atherosclerotic plaque development .
+Activated monocytes appear to play a central role in the development of atherosclerosis , not only through foam cell formation but also via the production of various growth factors that induce proliferation of different cell types that are involved in the plaque development .
+Using serum free co-culture method , we determined the effect of monocytes on endothelial cell proliferation .
+METHODS Endothelial cell proliferation is determined by the amount of [ 3H]thymidine incorporated in to the DNA .
+Basic fibroblast growth factor ( b-FGF ) , vascular endothelial growth factor ( VEGF ) and interleukin-8 ( IL-8 ) levels in the conditioned medium were determined by ELISA .
+RESULTS Conditioned medium from unactivated monocytes partially inhibited endothelial cell proliferation , whereas conditioned medium from activated monocytes promoted endothelial cell proliferation .
+The mitogenic effect of conditioned medium derived from activated monocytes is due to the presence of b-FGF , VEGF and IL-8 .
+Neutralizing antibodies against b-FGF , VEGF and IL-8 partially reversed the mitogenic effect of conditioned medium derived from activated monocytes .
+When b-FGF , VEGF and IL-8 were immunoprecipitated from conditioned medium derived from activated monocytes , it is less mitogenic to endothelial cells .
+CONCLUSION Activated monocytes may play an important role in the development of atherosclerotic plaque by producing endothelial cell growth factors .

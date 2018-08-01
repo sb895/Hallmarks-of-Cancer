@@ -1,0 +1,12 @@
+The identification of molecular markers related to critical biological processes during carcinogenesis may aid in the evaluation of carcinogenic potentials of chemicals and chemical mixtures .
+Work from our laboratory demonstrated that a single treatment with N-methyl-N'-nitro-N-nitrosoguanidine ( MNNG ) enhanced spontaneous malignant transformation of the human keratinocyte cell line RHEK-1 .
+In contrast , chronic low-level exposure of cells to arsenic alone or in a mixture containing arsenic , cadmium , chromium , and lead inhibited malignant conversion .
+To identify changes in gene expression that influence these different outcomes , cDNA microarray technology was used .
+Analysis of multiple human arrays in MNNG-transformed RHEK-1 cells , designated OM3 , and those treated with arsenic or the arsenic-containing metal mixture showed unique patterns of gene expression .
+Genes that were overexpressed in OM3 included oncogenes , cell cycle regulators , and those involved in signal transduction , whereas genes for DNA repair enzymes and inhibitors of transformation and metastasis were suppressed .
+In arsenic-treated cells , multiple DNA repair proteins were overexpressed .
+Mixture-treated cells showed increased expression of a variety of genes including metallothioneins and integrin 4 .
+These cells showed decreased expression of oncogenes , DNA repair proteins , and genes involved in the mitogen-activated protein kinase pathway .
+For comparison we are currently analyzing gene expression changes in RHEK-1 cells transformed by other means .
+The goal of these studies is to identify common batteries of genes affected by chemical modulators of the carcinogenic process .
+Mechanistic studies may allow us to correlate alterations in their expression with sequential stages in the carcinogenic process and may aid in the risk assessment of other xenobiotics .

@@ -1,0 +1,9 @@
+It is crucial for organ homeostasis that epithelia have effective mechanisms to restrict motility and cell proliferation in order to maintain tissue architecture .
+On the other hand , epithelial cells need to rapidly and transiently acquire a more mesenchymal phenotype , with high levels of cell motility and proliferation , in order to repair epithelia upon injury .
+Cross talk between cell-cell and cell-matrix signaling is crucial for regulating these transitions .
+The Pak1-betaPIX-GIT complex is an effector complex downstream of the small GTPase Rac1 .
+We previously showed that translocation of this complex from cell-matrix to cell-cell adhesion sites was required for the establishment of contact inhibition of proliferation .
+In this study , we provide evidence that this translocation depends on cadherin function .
+Cadherins do not recruit the complex by direct interaction .
+Rather , we found that inhibition of the normal function of cadherin or Pak1 leads to defects in focal adhesion turnover and to increased signaling by phosphatidylinositol 3-kinase .
+We propose that cadherins are involved in regulation of contact inhibition by controlling the function of the Pak1-betaPIX-GIT complex at focal contacts .

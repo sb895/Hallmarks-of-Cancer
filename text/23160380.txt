@@ -1,0 +1,10 @@
+Adhesion to the extracellular matrix ( ECM ) is critical for epithelial tissue homeostasis and function .
+ECM detachment induces metabolic stress and programmed cell death via anoikis .
+ECM-detached mammary epithelial cells are able to rapidly activate autophagy allowing for survival and an opportunity for re-attachment .
+However , the mechanisms controlling detachment-induced autophagy remain unclear .
+Here we uncover that the kinase PERK rapidly promotes autophagy in ECM-detached cells by activating AMP-activated protein kinase ( AMPK ) , resulting in downstream inhibition of mTORC1-p70(S6K) signaling .
+LKB1 and TSC2 , but not TSC1 , are required for PERK-mediated inhibition of mammalian target of rapamycinin MCF10A cells and mouse embryo fibroblast cells .
+Importantly , this pathway shows fast kinetics , is transcription-independent and is exclusively activated during ECM detachment , but not by canonical endoplasmic reticulum stressors .
+Moreover , enforced PERK or AMPK activation upregulates autophagy and causes luminal filling during acinar morphogenesis by perpetuating a population of surviving autophagic luminal cells that resist anoikis .
+Hence , we identify a novel pathway in which suspension-activated PERK promotes the activation of LKB1 , AMPK and TSC2 , leading to the rapid induction of detachment-induced autophagy .
+We propose that increased autophagy , secondary to persistent PERK and LKB1-AMPK signaling , can robustly protect cells from anoikis and promote luminal filling during early carcinoma progression.Oncogene advance online publication , 19 November 2012 ; doi:10.1038/onc.2012.512 .

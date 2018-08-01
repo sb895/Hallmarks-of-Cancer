@@ -1,0 +1,11 @@
+Surgery is the most effective therapy for cancer in the United States , but disease still recurs in more than 40% of patients within 5 years after resection .
+Chemotherapy is given postoperatively to prevent relapses ; however , this approach has had marginal success .
+After surgery , recurrent tumors depend on rapid neovascular proliferation to deliver nutrients and oxygen .
+Phosphatidylserine ( PS ) is exposed on the vascular endothelial cells in the tumor microenvironment but is notably absent on blood vessels in normal tissues .
+Thus , PS is an attractive target for cancer therapy after surgery .
+Syngeneic mice bearing TC1 lung cancer tumors were treated with mch1N11 ( a novel mouse chimeric monoclonal antibody that targets PS ) , cisplatin ( cis ) , or combination after surgery .
+Tumor relapses and disease progression were decreased 90% by combination therapy compared with a 50% response rate for cis alone ( P = .02 ) .
+Mice receiving postoperative mch1N11 had no wound-related complications or added systemic toxicity in comparison to control animals .
+Mechanistic studies demonstrated that the effects of mch1N11 were associated with a dense infiltration of inflammatory cells , particularly granulocytes .
+This strategy was independent of the adaptive immune system .
+Together , these data suggest that vascular-targeted strategies directed against exposed PS may be a powerful adjunct to postoperative chemotherapy in preventing relapses after cancer surgery .

@@ -1,0 +1,11 @@
+Kaposi sarcoma is the most common neoplasm caused by Kaposi sarcoma-associated herpesvirus ( KSHV ) .
+It is prevalent among the elderly in the Mediterranean , inhabitants of sub-Saharan Africa , and immunocompromised individuals such as organ transplant recipients and AIDS patients .
+Current treatments for Kaposi sarcoma can inhibit tumor growth but are not able to eliminate KSHV from the host .
+When the host's immune system weakens , KSHV begins to replicate again , and active tumor growth ensues .
+New therapeutic approaches are needed .
+Cannabidiol ( CBD ) , a plant-derived cannabinoid , exhibits promising antitumor effects without inducing psychoactive side effects .
+CBD is emerging as a novel therapeutic for various disorders , including cancer .
+In this study , we investigated the effects of CBD both on the infection of endothelial cells ( ECs ) by KSHV and on the growth and apoptosis of KSHV-infected ECs , an in vitro model for the transformation of normal endothelium to Kaposi sarcoma .
+While CBD did not affect the efficiency with which KSHV infected ECs , it reduced proliferation and induced apoptosis in those infected by the virus .
+CBD inhibited the expression of KSHV viral G protein-coupled receptor ( vGPCR ) , its agonist , the chemokine growth-regulated protein α ( GRO-α ) , vascular endothelial growth factor receptor 3 ( VEGFR-3 ) , and the VEGFR-3 ligand , vascular endothelial growth factor C ( VEGF-C ) .
+This suggests a potential mechanism by which CBD exerts its effects on KSHV-infected endothelium and supports the further examination of CBD as a novel targeted agent for the treatment of Kaposi sarcoma .

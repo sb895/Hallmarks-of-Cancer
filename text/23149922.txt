@@ -1,0 +1,8 @@
+More effective treatments for metastatic lung cancer remain a pressing clinical need .
+In this study , we identified migration inducting gene-7 ( MIG-7 ) protein as critical for COX-2/prostaglandin E2 ( PGE2)- and Akt/GSK-3β-dependent tumor invasion/metastasis .
+COX-2/PGE2 activated EP4 to enhance Akt and GSK-3β phosphorylation and β-catenin/T-cell factor/lymphoid enhancer factor signaling leading to MIG-7 upregulation .
+RNAi-mediated attenuation of MIG-7 blocked COX-2/PGE2- and Akt/GSK-3β-mediated migration/invasion effects .
+Furthermore , MIG-7 protein inhibited protein phosphatase 2A to sustain Akt/GSK-3β phosphorylation and cancer-cell migration/invasion .
+Cancer cells overexpressing MIG-7 exhibited increased expression of ZEB-1 and Twist in parallel with epithelial-mesenchymal transition , metastasis and cancer lethality .
+MIG-7 protein level positively correlated with advanced stages of human lung cancers .
+MIG-7 thus offers a theranostic target for cancer metastases arising from aberrant activation of the cellular COX-2/PGE2 and Akt/GSK-3β signaling pathways .

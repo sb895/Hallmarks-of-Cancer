@@ -1,0 +1,8 @@
+Neurofibromatosis type 2 patients develop schwannomas , meningiomas and ependymomas resulting from mutations in the tumor suppressor gene , NF2 , encoding a membrane-cytoskeleton adapter protein called merlin .
+Merlin regulates contact inhibition of growth and controls the availability of growth factor receptors at the cell surface .
+We tested if microtubule-based vesicular trafficking might be a mechanism by which merlin acts .
+We found that schwannoma cells , containing merlin mutations and constitutive activation of the Rho/Rac family of GTPases , had decreased intracellular vesicular trafficking relative to normal human Schwann cells .
+In Nf2-/- mouse Schwann ( SC4 ) cells , re-expression of merlin as well as inhibition of Rac or its effector kinases , MLK and p38(SAPK) , each increased the velocity of Rab6 positive exocytic vesicles .
+Conversely , an activated Rac mutant decreased Rab6 vesicle velocity .
+Vesicle motility assays in isolated squid axoplasm further demonstrated that both mutant merlin and active Rac specifically reduce anterograde microtubule-based transport of vesicles dependent upon the activity of p38(SAPK) kinase .
+Taken together , our data suggest loss of merlin results in the Rac-dependent decrease of anterograde trafficking of exocytic vesicles , representing a possible mechanism controlling the concentration of growth factor receptors at the cell surface .

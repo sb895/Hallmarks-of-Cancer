@@ -1,0 +1,8 @@
+We investigated the effects of valproic acid ( VPA ) , a histone deacetylase inhibitor , in combination with hydralazine , a DNA methylation inhibitor , on the expression of cell-surface Fas and MHC-class I-related chain molecules A and B ( MICA and B ) , the ligands of NKG2D which is an activating receptor of NK cells , and on production of their soluble forms in HOS , U-2 OS and SaOS-2 human osteosarcoma cell lines .
+We also examined the susceptibility of these cells to Fas- and NK cell-mediated cell death .
+VPA did not increase the expression of Fas on the surface of osteosarcoma cells , while hydralazine did , and the combination of VPA with hydralazine increased the expression of cell-surface Fas .
+In contrast , the combination of VPA with hydralazine did not increase the production of soluble Fas by osteosarcoma cells .
+Both VPA and hydralazine increased the expression of cell-surface MICA and B in osteosarcoma cells , and their combination induced a greater increase in their expression .
+VPA inhibited the production of both soluble MICA and MICB by osteosarcoma cells while hydralazine produced no effect .
+Both VPA and hydralazine enhanced the susceptibility of osteosarcoma cells to Fas- and NK cell-mediated cell death and the combination of VPA with hydralazine further enhanced the effects .
+The present results suggest that combined administration of VPA and hydrazine is valuable for enhancing the therapeutic effects of immunotherapy for osteosarcomas .

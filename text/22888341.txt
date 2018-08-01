@@ -1,0 +1,13 @@
+Objective .
+The present study was performed to investigate the effect of N-desulfated heparin on basic fibroblast growth factor ( bFGF ) expression , tumor angiogenesis and metastasis of gastric carcinoma .
+Methods .
+Human gastric cancer SGC-7901 tissues were orthotopically implanted into the stomach of NOD SCID mice .
+Twenty mice were randomly divided into two groups which received either intravenous injection of 0.9% NaCl solution ( normal saline group ) or 10 mg/kg N-desulfated heparin ( N-desulfated heparin group ) twice weekly for three weeks .
+In vitro , human gastric carcinoma SGC-7901 cells were treated with N-desulfated heparin in different concentration ( 0.1 mg/mL , 1 mg/mL , N-desulfated heparin group ) , and treated with medium ( control group ) .
+Results .
+In vivo , the tumor metastasis rates were 9/10 in normal saline group and 2/10 in N-desulfated heparin group ( P < 0.05 ) .
+The intratumoral microvessel density was higher in normal saline group than in N-desulfated heparin group ( P < 0.05). bFGF expression in gastric tissue was inhibited by N-desulfated heparin ( P < 0.05 ) .
+There was no bleeding in N-desulfated heparin group .
+In vitro , N-desulfated heparin inhibited significantly bFGF protein and mRNA expression of gastric carcinoma cells ( P < 0.05 ) .
+Conclusions .
+N-desulfated heparin can inhibit the metastasis of gastric cancer through inhibiting tumor bFGF expression and tumor angiogenesis with no obvious anticoagulant activity .

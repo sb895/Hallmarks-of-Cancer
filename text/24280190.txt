@@ -1,0 +1,13 @@
+BACKGROUND Aerobic glycolysis , namely the Warburg effect , is the main hallmark of cancer cells .
+Mitochondrial respiratory dysfunction has been proposed to be one of the major causes for such glycolytic shift .
+This hypothesis has been revisited as tumors appear to undergo waves of gene regulation during progression , some of which rely on functional mitochondria .
+In this framework , the role of mitochondrial complex I is still debated , in particular with respect to the effect of mitochondrial DNA mutations in cancer metabolism .
+The aim of this work is to provide the proof of concept that functional complex I is necessary to sustain tumor progression .
+METHODS Complex I-null osteosarcoma cells were complemented with allotopically expressed complex I subunit 1 ( MT-ND1 ) .
+Complex I re-assembly and function recovery , also in terms of NADH consumption , were assessed .
+Clones were tested for their ability to grow in soft agar and to generate tumor masses in nude mice .
+Hypoxia levels were evaluated via pimonidazole staining and hypoxia-inducible factor-1\u03b1 ( HIF-1\u03b1 ) immunoblotting and histochemical staining. 454-pyrosequencing was implemented to obtain global transcriptomic profiling of allotopic and non-allotopic xenografts .
+RESULTS Complementation of a truncative mutation in the gene encoding MT-ND1 , showed that a functional enzyme was required to perform the glycolytic shift during the hypoxia response and to induce a Warburg profile in vitro and in vivo , fostering cancer progression .
+Such trigger was mediated by HIF-1\u03b1 , whose stabilization was regulated after recovery of the balance between \u03b1-ketoglutarate and succinate due to a recuperation of NADH consumption that followed complex I rescue .
+CONCLUSION Respiratory complex I is essential for the induction of Warburg effect and adaptation to hypoxia of cancer cells , allowing them to sustain tumor growth .
+Differently from other mitochondrial tumor suppressor genes , therefore , a complex I severe mutation such as the one here reported may confer anti-tumorigenic properties , highlighting the prognostic values of such genetic markers in cancer .

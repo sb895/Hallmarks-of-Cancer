@@ -1,0 +1,4 @@
+Loss of p53 is considered to allow progression of colorectal tumors from the adenoma to the carcinoma stage .
+Using mice with an intestinal epithelial cell ( IEC)-specific p53 deletion , we demonstrate that loss ofp53 alone is insufficient to initiate intestinal tumorigenesis but markedly enhances carcinogen-induced tumor incidence and leads to invasive cancer and lymph node metastasis .
+Whereas p53 controls DNA damage and IEC survival during the initiation stage , loss of p53 during tumor progression is associated with increased intestinal permeability , causing formation of an NF-κB-dependent inflammatory microenvironment and the induction of epithelial-mesenchymal transition .
+Thus , we propose a p53-controlled tumor-suppressive function that is independent of its well-established role in cell-cycle regulation , apoptosis , and senescence .

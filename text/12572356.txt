@@ -1,0 +1,7 @@
+The effects of tea polyphenols and tea pigments on cell cycle of hepatic cancer cells were studied .
+HepG2 cells were incubated with 50 and 100 mg/L tea polyphenols and tea pigments for 48 h respectively .
+Flow cytometry , Western blot and RT-PCR analysis were used .
+Flow cytometry analysis showed that tea polyphenols and tea pigments induced G1 arrest .
+Western blot analysis showed tea polyphenols and tea pigments significantly inhibited the expression of cyclin D1 protein and induced higher expression of P21WAFI/CIPI protein .
+The result of RT-PCR analysis demonstrated that Cdk4 was significantly inhibited by tea polyphenols and tea pigments .
+It is concluded that the induction of cell cycle arrest may be an important mechanism of tea on cancer prevention .

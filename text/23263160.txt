@@ -1,0 +1,13 @@
+PURPOSE : Acid ceramidase ( AC ) occupies an important place in the control of cancer cell proliferation .
+We tested the influence of AC inhibition on the effects of PSC 833 , a P-glycoprotein antagonist with potent ceramide-generating capacity , to determine whether AC could be a therapeutic target in pancreatic cancer .
+METHODS : Ceramide metabolism was followed using ( 3)H-palmitate , and molecular species were determined by mass spectroscopy .
+Apoptosis was measured by DNA fragmentation , autophagy by acridine orange staining , and cell cycle was assessed by flow cytometry and RB phosphorylation .
+AC was measured in intact cells using fluorescent substrate .
+RESULTS : Exposure of human PANC-1 or MIA-PaCa-2 cells to PSC 833 promoted increases in de novo ( dihydro)ceramides , ( dihydro)glucosylceramides , and ( dihydro)sphingomyelins , demarking ceramide generation and robust metabolism .
+Despite the multifold increases in ( dihydro)ceramide levels , cells were refractory to PSC 833 .
+However , PSC 833 produced a dose-dependent decrease in DNA synthesis and dose- and time-dependent decreases in RB phosphorylation , consistent with cell cycle arrest as demonstrated at G1 .
+Cytostatic effects of PSC 833 were converted to cytotoxic end-point by acid ceramidase inhibition .
+Cytotoxicity was accompanied by formation of acridine orange-stained acidic vesicles and an increase in LC3 expression , indicative of autophagic response .
+Cell death was not reversed by preexposure to myriocin , which blocks PSC 833-induced ceramide generation .
+CONCLUSION : Although the role of ceramide in end-point cytotoxicity is unclear , our results suggest that acid ceramidase is a viable target in pancreatic cancer .
+We propose that AC inhibition will be effective in concert with other anticancer therapies .

@@ -1,0 +1,9 @@
+Epidermal growth factor receptor-tyrosine kinase inhibitors ( EGFR-TKIs ) show dramatic antitumor activity in a subset of patients with non-small cell lung cancer who have an active mutation in the epidermal growth factor receptor ( EGFR ) gene .
+On the other hand , some lung cancer patients with wild type EGFR also respond to EGFR-TKIs , suggesting that EGFR-TKIs have an effect on host cells as well as tumor cells .
+However , the effect of EGFR-TKIs on host microenvironments is largely unknown .
+A multiple organ metastasis model was previously established in natural killer cell-depleted severe combined immunodeficient mice using human lung cancer cells .
+This model was used to investigate the therapeutic efficacy of erlotinib , an EGFR-TKI , on multiple organ metastases induced by human small cell lung cancer cells ( SBC-5 cells ) that did not express EGFR .
+Although erlotinib did not have any effect on the proliferation of SBC-5 cells in vitro , it significantly suppressed bone and lung metastases in vivo , but not liver metastases .
+An immunohistochemical analysis revealed that , erlotinib significantly suppressed the number of osteoclasts in bone metastases , whereas no difference was seen in microvessel density .
+Moreover , erlotinib inhibited EGF-induced receptor activator of nuclear factor kappa-B expression in an osteoblastic cell line ( MC3T3-E1 cells ) .
+These results strongly suggested that erlotinib prevented bone metastases by affecting host microenvironments irrespective of its direct effect on tumor cells .

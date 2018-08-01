@@ -1,0 +1,8 @@
+BACKGROUND Methyl sulfone is a small molecule that reverses cancerous phenotypes of a melanoma cell line .
+Here , we sought to determine whether methyl sulfone was effective against human breast cancer tissue .
+METHODS We studied normal and cancerous breast tissue obtained from 17 patients .
+RESULTS Methyl sulfone introduced structural order , with cancer tissue taking on the morphology of normal in vivo breast tissue ; this structural order was sustainable over long-term culture .
+Methyl sulfone promoted proper wound healing , including migration of cells into wounded areas and establishment of stable contact inhibition once wounds were covered .
+Methyl sulfone decreased expression of two breast stem cell marker proteins , HCAM and OCT3/4 , which are associated with aberrantly rapid migration of metastatic cells .
+Finally , normal and cancerous primary breast cells remained viable and healthy in methyl sulfone culture for at least 90 days .
+CONCLUSION Methyl sulfone reintroduced a normal structural phenotype to human breast cancer tissues .

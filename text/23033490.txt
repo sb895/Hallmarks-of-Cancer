@@ -1,0 +1,13 @@
+In patients with advanced bladder cancer , glucocorticoids are frequently given to reduce acute toxicity , particularly hyperemesis , during chemotherapy , as well as to improve cachectic conditions .
+However , it remains unclear whether glucocorticoids directly affect the development and progression of bladder cancer through the glucocorticoid receptor pathway .
+Glucocorticoid receptor expression was first investigated in human bladder cancer lines and tissue microarrays .
+Then , the effects of dexamethasone on glucocorticoid receptor transcription , cell proliferation , apoptosis/cell cycle , and invasion were examined in bladder cancer lines .
+Finally , mouse xenograft models for bladder cancer were used to assess the efficacy of dexamethasone on tumor progression .
+All the cell lines and tissues examined were found to express glucocorticoid receptor .
+Dexamethasone increased glucocorticoid receptor-mediated reporter activity and cell proliferation , and inhibited apoptosis in the presence or absence of cisplatin .
+In contrast , dexamethasone suppressed cell invasion , the expression of its related genes [ MMP-2/MMP-9 , interleukin ( IL)-6 , VEGF ] , and the activity of MMP-2/MMP-9 , and also induced mesenchymal-to-epithelial transition .
+In addition , dexamethasone increased IκBα protein levels and cytosolic accumulation of NF-κB .
+In xenograft-bearing mice , dexamethasone slightly augmented the growth of the inoculated tumors but completely prevented the development of bloody ascites , suggestive of peritoneal dissemination of tumor cells , and actual metastasis .
+In all these assays , dexamethasone effects were abolished by a glucocorticoid receptor antagonist or glucocorticoid receptor knockdown via RNA interference .
+Thus , glucocorticoid receptor activation resulted in promotion of cell proliferation via inhibiting apoptosis yet repression of cell invasion and metastasis .
+These results may provide a basis of developing improved chemotherapy regimens , including or excluding glucocorticoid receptor agonists/antagonists , for urothelial carcinoma .

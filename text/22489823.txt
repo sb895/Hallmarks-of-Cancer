@@ -1,0 +1,9 @@
+Curcumin , a well-known chemopreventive agent from turmeric , inhibits the expression of several oncogenes and cell proliferation genes in tumor cells .
+This study aims to understand the precise molecular mechanism by which curcumin exerts its effects on retinoblastoma cells , by performing whole genome microarray analysis to determine the gene expression profiles altered by curcumin treatment .
+Curcumin suppressed cell viability and altered the cell cycle of retinoblastoma cells .
+We identified 903 downregulated genes and 1,319 upregulated genes when compared with the control cells after treatment with 20 μM curcumin concentration for 48 h .
+These genes were grouped into respective functional categories according to their biological function .
+We found that curcumin regulated the expression of genes that are involved in the regulation of apoptosis , tumor suppressor , cell-cycle arrest , transcription factor , and angiogenesis .
+Quantitative real-time polymerase chain reaction ( qRT-PCR ) analysis was used to validate the results of genome array , and the results were consistent with the obtained data .
+In conclusion , treatment of curcumin affects the expression of genes involved in various cellular functions and plays an important role in tumor metastasis and apoptosis .
+Thus , curcumin might be an effective chemopreventive agent for retinoblastoma cancer .

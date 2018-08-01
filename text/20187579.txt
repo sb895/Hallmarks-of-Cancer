@@ -1,0 +1,6 @@
+Hypoxia is widespread in solid tumors as a consequence of poorly structured tumor-derived neovasculature , which is recognized to play a role in the resistance of cancer cells to chemotherapy .
+Etoposide ( VP-16 ) , a drug commonly used in chemotherapy , leads to enhanced accumulation of cell populations in G2/M phase and increases levels of apoptosis as a topoisomerase II inhibitor .
+We evaluated the effects of hypoxia on the response of the neuroblastoma cell line CHP126 to VP-16 , in order to delineate the mechanisms responsible for the hypoxia-induced chemoresistance of this clinically conventional anti-cancer agent , with an insight to determining potential indications in neuroblastoma therapy .
+In this study , physiological hypoxia was shown to attenuate G2/M arrest and apoptosis induced in CHP126 cells by VP-16 .
+It suppressed drug-related Cdk1 activity with a less elevation of regulator proteins such as cyclin B1 , Cdk7 and reduced caspase activation and PARP cleavage compared to the efficiency observed in normoxic condition , which were significantly relative with hypoxia-driven inhibition of p53 and p-ERK1/2 activation .
+These results clearly demonstrated that hypoxia had a protective effect against VP-16-induced cytotoxicity , which is likely to provide a further therapeutic knowledge in neuroblastomas .

@@ -1,0 +1,7 @@
+Contact-inhibition ubiquitously exists in non-transformed cells and explains the poor regenerative capacity of in vivo human retinal pigment epithelial cells ( RPE ) during aging , injury and diseases .
+RPE injury or degeneration may unlock mitotic block mediated by contact inhibition but may also promote epithelial-mesenchymal transition ( EMT ) contributing to retinal blindness .
+Herein , we confirmed that EMT ensued in post-confluent ARPE-19 cells when contact inhibition was disrupted with EGTA followed by addition of EGF and FGF-2 because of activation of canonical Wnt and Smad/ZEB signaling .
+In contrast , knockdown of p120-catenin ( p120 ) unlocked such mitotic block by activating p120/Kaiso , but not activating canonical Wnt and Smad/ZEB signaling , thus avoiding EMT .
+Nuclear BrdU labeling was correlated with nuclear release of Kaiso through p120 nuclear translocation , which was associated with activation of RhoA-ROCK signaling , destabilization of microtubules .
+Prolonged p120 siRNA knockdown followed by withdrawal further expanded RPE into more compact monolayers with a normal phenotype and a higher density .
+This new strategy based on selective activation of p120/Kaiso but not Wnt/\u03b2-catenin signaling obviates the need of using single cells and the risk of EMT , and may be deployed to engineer surgical grafts containing RPE and other tissues .

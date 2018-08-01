@@ -1,0 +1,10 @@
+FCE 23762 ( 3 ' desamino-3'[2(s)methoxyl-4-morpholinyl]doxorubicin ) is a new doxorubicin ( Dx ) derivative that has been selected for clinical testing for its favourable antitumor characteristics , which include efficacy on Dx-resistant tumors .
+Immunosuppression is an undesirable side-effect of anti-cancer chemotherapy and the therapeutic efficacy of Dx is probably also related to its low immunotoxicity .
+It was , thus , of interest to compare the effects of FCE 23762 and its parental drug on the immune responses .
+Both compounds were injected i.v. into healthy mice at equitoxic doses and according to different treatment schedules .
+Single doses of FCE 23762 and Dx , given concomitant or after the antigen , suppressed at the same degree and dose-dependently the primary anti-SRBC antibody response .
+Following a multiple treatment schedule after the antigen , FCE 23762 was less suppressive than Dx on both primary and secondary antibody production .
+Differently from Dx , that was completely inactive , FCE 23762 moderately inhibited DTH reaction to SRBC , only at the highest single dose tested or for repeated administrations given simultaneously or after priming .
+Both drugs were totally ineffective in delaying skin allograft rejection .
+Since spleen cellularity and ex vivo lymphocyte proliferation to Con A and LPS were similarly impaired by the two drugs , the differentiated immunodepressive activity of FCE 23762 and Dx cannot be merely associated to their cytotoxic and antiproliferative action .
+The hypothesis of a selective effect on different regulatory cell subsets and/or immune mechanisms is discussed .

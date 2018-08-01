@@ -1,0 +1,10 @@
+Dietary exposure to aflatoxins is one of the major risk factors for hepatocellular carcinoma .
+Individual susceptibility to aflatoxin-induced hepatocarcinogenesis may be modulated by both genetic and environmental factors affecting metabolism .
+A cross-sectional study was performed to evaluate determinants of the formation of aflatoxin covalently bound to albumin ( AFB1-albumin adducts ) .
+A total of 474 subjects who were free of liver cancer and cirrhosis and were initially selected as controls for previous case-control studies of aflatoxin-induced hepatocarcinogenesis in Taiwan , were employed in this study .
+Aflatoxin-albumin adducts were determined by competitive enzyme-linked immunosorbent assay , hepatitis B surface antigen and antibodies to hepatitis C virus by enzyme immunoassay , as well as genotypes of glutathione S-transferase M1-1 and T1-1 by polymerase chain reaction .
+The detection rate of AFB1-albumin adducts was significantly higher in males ( 42.5% ) than in females ( 21.6% ) ( multivariate-adjusted odds ratio=2.6 , 95% confidence interval=1.4-5.0 ) .
+The formation of detectable albumin adducts was moderately higher in hepatitis B surface antigen carriers ( 42.8% ) than in non-carriers ( 36.6% ) ( multivariate-adjusted odds ratio=1.4 , 95% confidence interval=1.0-2.1 ) .
+In addition , the detection rate of AFB1-albumin adducts tended to increase with the increasing number of null genotypes of glutathione S-transferase M1-1 and glutathione S-transferase T1-1 .
+In conclusion , this cross-sectional study has assessed the relative contributions of environmental exposure and host susceptibility factors in the formation of AFB1-albumin adducts in a well characterised Chinese adult population .
+This study further emphasises the necessity to reduce aflatoxin exposure in people living in an area endemic for chronic hepatitis B virus infection .

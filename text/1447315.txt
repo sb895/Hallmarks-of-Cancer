@@ -1,0 +1,12 @@
+MCF-7 human breast cancer cells propagated in vitro were treated with adenosine derivatives added to the culture medium .
+The effects on cell proliferation , glycolysis , and glutaminolysis were investigated .
+Of all adenosine derivatives tested , AMP was the most efficient inhibitor of cell proliferation .
+In AMP-treated cells , DNA synthesis decreased , whereas RNA and protein syntheses rose normally with time .
+In terms of carbohydrate metabolism , lactate production from glucose was drastically reduced ; therefore , most of lactate produced must have been derived from glutamine .
+Increases in the enzyme activities involved in glutamate degradation and in the malate-aspartate shuttle were observed .
+In contrast , actual glycolytic flux rates declined , whereas key glycolytic enzyme activities increased .
+Metabolites such as fructose 1,6-bisphosphate and pyruvate accumulated in AMP-arrested cells .
+Based on the lowered NAD level in the AMP-treated cells , lactate dehydrogenase , but not malate dehydrogenase , was impaired ; thereby the whole of glycolysis was inhibited .
+In compensation , glutamine catabolism was increased .
+NAD concentrations fell drastically because of the known inhibition of P-ribose-PP synthesis through heightened intracellular AMP levels .
+A hypothetical metabolic scheme to explain these results and to show how extracellular AMP may influence carbohydrate metabolism and cell proliferation is presented .

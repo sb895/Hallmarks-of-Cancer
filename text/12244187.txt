@@ -1,0 +1,11 @@
+The immune system of vertebrates is able to detect bacterial DNA based on the presence of unmethylated CpG motifs .
+We examined the therapeutic potential of oligodeoxynucleotides with CpG motifs ( CpG ODN ) in a colon carcinoma model in BALB/c mice .
+Tumors were induced by s.c. injection of syngeneic C26 cells or Renca kidney cancer cells as a control .
+Injection of CpG ODN alone or in combination with irradiated tumor cells did not protect mice against subsequent tumor challenge .
+In contrast , weekly injections of CpG ODN into the margin of already established tumors resulted in regression of tumors and complete cure of mice .
+The injection site was critical , since injection of CpG ODN at distant sites was not effective .
+Mice with two bilateral C26 tumors rejected both tumors upon peritumoral injection of one tumor , indicating the development of a systemic immune response .
+The tumor specificity of the immune response was demonstrated in mice bearing a C26 tumor and a Renca tumor at the same time .
+Mice that rejected a tumor upon peritumoral CpG treatment remained tumor free and were protected against rechallenge with the same tumor cells , but not with the other tumor , demonstrating long term memory .
+Tumor-specific CD8 T cells as well as innate effector cells contributed to the antitumor activity of treatment .
+In conclusion , peritumoral CpG ODN monotherapy elicits a strong CD8 T cell response and innate effector mechanisms that seem to act in concert to overcome unresponsiveness of the immune system toward a growing tumor .

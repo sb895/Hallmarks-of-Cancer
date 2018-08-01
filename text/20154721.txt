@@ -1,0 +1,7 @@
+The neurofibromatosis type 2 ( NF2 ) tumor suppressor gene encodes merlin , a membrane/cytoskeleton protein necessary for the maintenance of contact inhibition of growth in cells .
+Bi-allelic inactivation of NF2 is known to cause multiple cancers in both humans and mice .
+However , the mechanism through which merlin exerts its tumor-suppressive function remains obscure .
+In this report , we show that NF2 knockout mouse embryonic fibroblasts lost contact inhibition of cell proliferation and contained significantly increased canonical Wnt signaling .
+Inhibition of Rac1 , the activity of which is inversely regulated by NF2 , through the use of a dominant-negative mutant , small hairpin RNA or a small molecule inhibitor in NF2-deficient cells , was able to suppress elevated Wnt signals as shown by reduced activity of the T-cell factor 4 ( TCF4 ) transcription factor .
+Dominant-negative TCF4 or Rac1 mutant , as well as a small molecule inhibition of Wnt , were able to curb NF2 deficiency-elicited cell proliferation at the confluent state .
+Thus , Rac1-mediated canonical Wnt signaling is essential for the loss of contact inhibition in NF2-deficient cells .

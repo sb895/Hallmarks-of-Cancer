@@ -1,0 +1,9 @@
+Senescence , an inherent tumor suppressive mechanism , is a critical determinant for chemotherapy .
+In the present study , we show that the monocarboxylate transporter 2 ( MCT2 ) protein was tumor-selectively expressed in human colorectal malignancies and knockdown of MCT2 induces mitochondrial dysfunction , cell-cycle arrest , and senescence without additional cellular stress in colorectal cancer cell lines .
+Moreover , the reactive oxygen species ( ROS ) scavenger , N-acetylcysteine , blocked MCT2 knockdown-induced growth arrest and cellular senescence , indicating a pivotal role of ROS in this pathway .
+Dramatic induction of mitochondrial superoxide generation and decrease in ATP production was observed , indicating that mitochondrial dysfunction is the major mechanism underlying MCT2 knockdown-induced ROS generation .
+Senescence-associated DNA damage was also evident from the increase in promyelocytic leukemia bodies , γH2AX foci , and SAHF .
+Conversely , overexpression of MCT2 prevented doxorubicin-induced ROS accumulation ( P = 0.0002 ) and cell growth inhibition ( P = 0.001 ) .
+MCT2 knockdown suppressed KRAS mutant colorectal tumor growth in vivo .
+In addition , MCT2 knockdown and cytostatic drug combination further enhanced the antitumor effect .
+These findings support the use of MCT2 as a promising target for inhibition of colorectal cancer .

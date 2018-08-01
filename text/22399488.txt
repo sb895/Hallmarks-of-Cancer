@@ -1,0 +1,12 @@
+Proliferating cell nuclear antigen ( PCNA ) , a potential anticancer target , forms a homotrimer and is required for DNA replication and numerous other cellular processes .
+The purpose of this study was to identify novel small molecules that modulate PCNA activity to affect tumor cell proliferation .
+An in silico screen of a compound library against a crystal structure of PCNA and a subsequent structural similarity search of the ZINC chemical database were carried out to derive relevant docking partners .
+Nine compounds , termed PCNA inhibitors ( PCNA-Is ) , were selected for further characterization .
+PCNA-I1 selectively bound to PCNA trimers with a dissociation constant ( K(d) ) of to 0.4 μM .
+PCNA-Is promoted the formation of SDS-refractory PCNA trimers .
+PCNA-I1 dose- and time-dependently reduced the chromatin-associated PCNA in cells .
+Consistent with its effects on PCNA trimer stabilization , PCNA-I1 inhibited the growth of tumor cells of various tissue types with an IC(50) of μM , whereas it affected the growth of nontransformed cells at significantly higher concentrations ( IC(50) , μM ) .
+Moreover , uptake of BrdU was dose-dependently reduced in cells treated with PCNA-I1 .
+Mechanistically the PCNA-Is mimicked the effect of PCNA knockdown by siRNA , inducing cancer cell arrest at both the S and G(2)/M phases .
+Thus , we have identified a class of compounds that can directly bind to PCNA , stabilize PCNA trimers , reduce PCNA association with chromatin , and inhibit tumor cell growth by inducing a cell cycle arrest .
+They are valuable tools in studying PCNA function and may be useful for future PCNA-targeted cancer therapy .

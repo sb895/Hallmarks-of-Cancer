@@ -1,0 +1,12 @@
+BACKGROUND & OBJECTIVE Hereditary non-polyposis colorectal cancer ( HNPCC or Lynch syndrome ) , is a genetically heterogeneous disorder that is believed to account for 2-10 per cent of all the colorectal cancer cases .
+The disease follows autosomal dominant inheritance pattern with high penetrance ( 85% ) and younger age of onset when compared to patients with sporadic tumours .
+HNPCC is associated with germ-line mutations in the DNA mismatch repair ( MMR ) genes namely MLH1 , MSH2 , MSH6 , and PMS2 .
+The present study was aimed at analyzing mismatch repair gene(s) in an extended Indian family satisfying the Amsterdam criteria , and extending the analysis to general population to estimate frequency of the mutations/polymorphisms observed .
+METHODS A total 12 members of the HNPCC family were studied for genetic investigation .
+Ethnically matched 250 normal individuals were also included as controls to study the observed mutations/polymorphisms at population level .
+RESULTS The analysis resulted in identification of a 1975C>T mutation in exon 17 , resulting in substitution of arginine residue with stop codon at codon 659. 655A>G substitution was also observed , resulting in replacement of isoleucine with valine at codon 219 .
+Similar analysis on 250 ethnically matched control subjects revealed complete absence of R659X mutation , while I219V variant was found in 9.8 per cent of the controls .
+INTERPRETATION & CONCLUSION R659X mutation correlates with disease phenotype , and 655A>G locus is highly polymorphic .
+Our study suggested that R659X substitution was prime cause for the disease phenotype in this family .
+I219V substitution is a polymorphism having no association with the disease onset or segregation .
+The family members harbouring this mutation were advised to be under regular medical surveillance .

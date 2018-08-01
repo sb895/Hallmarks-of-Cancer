@@ -1,0 +1,8 @@
+High-grade prostate cancers express high levels of matrix metalloproteinases ( MMPs ) , major enzymes involved in tumor invasion and metastasis .
+However , the tumor cell lines commonly employed for prostate cancer research express only small amounts of MMPs when cultivated as monolayer cultures , in common culture media .
+The present study was conducted to ascertain whether culture conditions that include fibronectin can alter MMP2 and MMP9 expression by the human prostatic epithelial cell lines RWPE-1 , LNCaP and PC-3 .
+These cells were individually seeded at 2×10(4) cells/cm(2) , cultivated until they reached 80% confluence , and then exposed for 4h to fibronectin , after which the conditioned medium was analyzed by gelatin zymography .
+Untreated cells were given common medium .
+Only RWPE-1 cells express detectable amounts of MMP9 when cultivated in common medium , whereas the addition of fibronectin induced high expression levels of pro and active forms of MMP2 in all tested cell lines .
+Our findings demonstrate that normal and tumor prostate cell lines express MMP2 activity when in contact with extracellular matrix components or blood plasma proteins such as fibronectin .
+Future studies of transcriptomes and proteomes in prostate cancer research using these cell lines should not neglect these important conclusions .

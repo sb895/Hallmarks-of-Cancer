@@ -1,0 +1,10 @@
+The phosphatidylinositol-3-kinase ( PI3K)/Akt oncogenic pathway is critical in glioblastomas .
+Loss of PTEN , a negative regulator of the PI3K pathway or activated PI3K/Akt pathway that drive increased proliferation , survival , neovascularization , glycolysis , and invasion is found in 70%-80% of malignant gliomas .
+Thus , PI3K is an attractive therapeutic target for malignant glioma .
+We report that a new irreversible PI3K inhibitor , PX-866 , shows potent inhibitory effects on the PI3K/Akt signaling pathway in glioblastoma .
+PX-866 did not induce any apoptosis in glioma cells ; however , an increase in autophagy was observed .
+PX-866 inhibited the invasive and angiogenic capabilities of cultured glioblastoma cells .
+In vivo , PX-866 inhibited subcutaneous tumor growth and increased the median survival time of animals with intracranial tumors .
+We also assessed the potential of proton magnetic resonance spectroscopy ( MRS ) as a noninvasive method to monitor response to PX-866 .
+Our findings show that PX-866 treatment causes a drop in the MRS-detectable choline-to-NAA , ratio and identify this partial normalization of the tumor metabolic profile as a biomarker of molecular drug action .
+Our studies affirm that the PI3K pathway is a highly specific molecular target for therapies for glioblastoma and other cancers with aberrant PI3K/PTEN expression .

@@ -1,0 +1,9 @@
+PURPOSE Overproduction of reactive oxygen species ( ROS ) intermediates above the functional capability of cellular antioxidants may result in instability of important macromolecules and represents the molecular basis of many diseases including inflammation processes , cardiovascular alterations , cancer etc .
+The purpose of this study was to determine plasma level of superoxide anion , hydrogen-peroxide and malondialdehyde ( MDA ) as markers of oxidative stress and activities of superoxide dismutase ( SOD ) , catalase ( CAT ) and glutathione peroxidase ( GPx ) as antioxidant enzymes in B-chronic lymphocytic leukemia ( B-CLL ) patients .
+METHODS The study included 29 untreated B-CLL patients in stage A , and 21 in stages B and C , classified according to the Binet system ; 31 healthy volunteers formed the control group .
+After centrifugation of heparinized peripheral blood , plasma levels of all investigated parameters were determined using spectrophotometric methods .
+RESULTS Plasma CAT activity was increased in B-CLL patients compared with control subjects ; also , progression of disease was related with significantly higher plasma activity of CAT .
+Also , B-CLL patients showed significantly higher plasma concentration of MDA compared with controls .
+No statistically significant differences of superoxide anion and hydrogen peroxide as well as plasma activity of SOD and GPx between the tested groups were noted .
+CONCLUSION Increase of CAT activity in B-CLL patients indicates that there is stimulation of the antioxidant enzyme system , while the increase of MDA concentration shows increased lipid peroxidation level .
+According to these results it could be concluded that an imbalance exists between oxidants and antioxidants in the plasma of B-CLL patients .

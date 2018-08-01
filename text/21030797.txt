@@ -1,0 +1,12 @@
+The purpose of this study was to evaluate the usefulness of high-resolution MRI ( HR-MRI ) and proton MR spectroscopy ( (1)H-MRS ) for monitoring the early therapeutic response to radiotherapy .
+Twenty rabbits with VX2 carcinoma were divided into control ( n = 8 ) and irradiation ( n = 12 ) groups .
+The irradiation group underwent HR-MRI and ( 1)H-MRS using a microscopy coil at 1 , 3 , 7 or 14 days after irradiation .
+Rabbits in the control group were subjected to HR-MRI and ( 1)H-MRS at the same time intervals .
+All rabbits were killed after imaging and subjected to histopathologic examinations .
+The diameter of necrosis by HR-MRI was then compared to that on the gross specimens .
+The ratios of choline/creatine ( Cho/Cr ) and lactate/creatine ( Lac/Cr ) on the tumor and necrotic area detected by in vivo ( 1)H-MRS were compared between the control and irradiation groups , respectively .
+In addition , the ratios of Cho/Cr and Lac/Cr were compared between the tumor and necrotic area in each irradiation group .
+A significant correlation was found between the diameter of necrosis in each sequence of HR-MRI and that in the gross specimens ( r = 0.84-0.91 , p = 0.03- < 0.003 ) .
+The ratios of Lac/Cr in the tumors of the irradiation groups were significantly higher than those in the control groups after 1 day and 3 days of irradiation ( p = 0.04 , and p = 0.02 ) .
+Histological analysis showed necrosis and swelling of the endothelia of capillaries and arterioles at 1 day and 3 days after irradiation .
+It was suggested that HR-MRI and ( 1)H-MRS are useful methods for monitoring the early therapeutic response to radiotherapy .

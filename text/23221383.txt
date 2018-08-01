@@ -1,0 +1,9 @@
+Tumor-infiltrating immune cells can promote chemoresistance and metastatic spread in aggressive tumors .
+Consequently , the type and quality of immune responses present in the neoplastic stroma are highly predictive of patient outcome in several cancer types .
+In addition to host immune responses , intrinsic tumor cell activities that mimic stem cell properties have been linked to chemoresistance , metastatic dissemination and the induction of immune suppression .
+Cancer stem cells are far from a static cell population ; rather , their presence appears to be controlled by highly dynamic processes that are dependent on cues from the tumor stroma .
+However , the impact immune responses have on tumor stem cell differentiation or expansion is not well understood .
+In this study , we demonstrate that targeting tumor-infiltrating macrophages and inflammatory monocytes by inhibiting either the myeloid cell receptors CSF1R or CCR2 decreases the number of tumor-initiating cells in pancreatic tumors .
+Targeting CCR2 or CSF1R improves chemotherapeutic efficacy , inhibits metastasis and increases antitumor T-cell responses .
+Tumor-educated macrophages also directly enhanced the tumor-initiating capacity of pancreatic tumor cells by activating the transcription factor STAT3 , thereby facilitating macrophage-mediated suppression of CD8+ T lymphocytes .
+Together , our findings show how targeting tumor-infiltrating macrophages can effectively overcome therapeutic resistance mediated by tumor-initiating cells .

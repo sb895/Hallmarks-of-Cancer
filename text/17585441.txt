@@ -1,0 +1,10 @@
+Novel photosensitizers Hypocrellin A ( HA ) and Hypocrellin B ( HB ) , lipid soluble perylquinone derivatives of the genus Hypericum have a strong photodynamic effect on tumors and viruses .
+However , the mechanisms of tumor cell death induced by HA and HB are still unclear .
+In this study , we attempt to elucidate the photodynamic effects of HA and HB compounds in poorly differentiated ( CNE2 ) and moderately differentiated ( TW0-1 ) human nasopharyngeal carcinoma ( NPC ) cells as well as human mucosal colon ( CCL-220.1 ) and bladder ( SD ) cells .
+Using these cell lines we investigated few hall marks of apoptotic commitments in a drug and light dose dependent manner .
+Tumor cells photoactivated with HA and HB showed cell size shrinkage and an increase in the sub-diploid DNA content .
+A loss of membrane phospholipid asymmetry associated with apoptosis was induced by all tumor cell lines as evidenced by the externalization of phosphatidylserine .
+Western blot analysis of poly ( ADP-ribose ) polymerase , a caspases substrate , showed the classical cleavage pattern ( 116 to 85kDa ) associated with apoptosis in HA and HB-treated cell lysates .
+In addition , PARP cleavage was blocked by using tetrapepdide caspases inhibitors such as DEVD or z-VAD .
+These results demonstrate that tumor cell death induced by HB and HA is mediated by caspase proteases .
+This study also identifies both colon and bladder cells were more sensitive cell lines than NPC ( CNE2 and TWO-1 ) cell lines .

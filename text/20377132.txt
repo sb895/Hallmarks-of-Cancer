@@ -1,0 +1,11 @@
+MG132 , as a proteasome inhibitor , can induce apoptotic cell death through formation of reactive oxygen species ( ROS ) .
+In this study , we investigated the effects of MAPK ( MEK , JNK , and p38 ) inhibitors on MG132-treated A549 lung cancer cells in relation to cell growth , cell death , ROS , and glutathione ( GSH ) levels .
+Treatment with 10 microM MG132 inhibited the growth of A549 cells at 24 h .
+MG132 also induced apoptosis , which was accompanied by the loss of mitochondrial membrane potential ( MMP ; deltapsi(m) ) .
+ROS were not increased in MG132-treated A549 cells .
+MG132 increased GSH-depleted cell numbers and decreased GSH levels .
+MEK and JNK inhibitors did not strongly affect cell growth , cell death , ROS , and GSH levels in MG132-treated A549 cells .
+In contrast , p38 inhibitor reduced cell growth inhibition , apoptosis , and MMP ( deltapsi(m) ) loss by MG132 .
+However , p38 inhibitor did not change ROS level and GSH content .
+In conclusion , MG132 inhibited the growth of A549 cells via apoptosis without formation of ROS .
+Treatment with p38 inhibitor rescued some cells from MG132-induced apotposis , which was not affected by ROS and GSH level changes .

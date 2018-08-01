@@ -1,0 +1,8 @@
+OBJECTIVES Recently , it was revealed that carnosine inhibits growth of cells isolated from human malignant glioma .
+In order to understand how this effect is mediated , experiments were performed that addressed a possible influence of carnosine on energy metabolism .
+METHODS Cells from the glioma line T98G and primary cultured cells from human malignant glioma were cultivated in the presence of carnosine and inhibitors of cellular energy metabolism .
+As a specific inhibitor for anaerobic glycolysis , oxamate , and as an inhibitor for mitochondrial oxidative phosphorylation , potassium cyanide , were used , and the influence on ATP production was determined using cell-based assays .
+RESULTS The experiments identified glycolysis as crucial for ATP production in gliomas .
+In addition , ATP production by mitochondrial activity did not significantly contribute to ATP production and carnosine was identified to be an inhibitor of the vital anaerobic glycolysis .
+DISCUSSION Carnosine might be considered as a potential drug for the treatment of malignant glioma or other tumors since it inhibits the glycolytic energy metabolism that is crucial for cancer cells and malignant gliomas as shown in the current study .
+This is especially interesting since the dipeptide is a naturally occurring substance that should be well tolerated .

@@ -1,0 +1,10 @@
+AIM We studied expression of molecules of the vascular endothelial growth factor ( VEGF ) pathway and its relation to vascularization , cell proliferation and patient outcome in recurring non-anaplastic meningioma .
+We studied 29 tumor specimens of 8 patients with recurring meningiomas and of 8 age- and gender-matched control patients with non-recurring meningiomas ( including meningothelial , transitional , fibroblastic and atypical subtypes ) using immunohistochemistry and in-situ hybridization .
+RESULTS VEGF protein , VEGF-mRNA , VEGF receptor ( VEGFR)-1 mRNA , VEGFR-2 mRNA and hypoxia-inducible factor ( HIF)-1-α protein were expressed in 27/29 ( 93% ) , 20/27 ( 74% ) , 9/27 ( 33.3% ) , 12/27 ( 44.4% ) and 5/29 ( 17.2% ) specimens , respectively .
+VEGFR- 2 mRNA expression was found in 6/8 tumors extracted at first operation in patients with recurring tumors and in none of the control cases ( p = 0.007 ) .
+Microvessel density ( MVD ) and Ki-67 index values were generally higher in meningiomas with expression of angiogenic factors .
+The association of high Ki-67 index values with VEGF-mRNA expression was significant ( p = 0.04 ) .
+Time to recurrence was shorter in patients with high MVD than in patients with low MVD ( p = 0.027 ) .
+CONCLUSIONS High MVD correlates with unfavorable prognosis in our series of recurring meningioma .
+VEGF and its receptors are frequently expressed in meningiomas and seem important for tumor growth and recurrence .
+Thus , anti-VEGF therapy in aggressive meningioma seems rational from a pathobiological point of view .

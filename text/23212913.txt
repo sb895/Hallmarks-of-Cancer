@@ -1,0 +1,12 @@
+MicroRNAs ( miRNAs ) are considered to be regulators of various biological processes in cancers , including the epithelial to mesenchymal transition ( EMT ) , which is a key factor in cancer metastasis .
+In this study , we aimed to clarify the potential roles of miR-490-3p in hepatocellular carcinoma ( HCC ) cells .
+Using real-time quantitative RT-PCR , we discovered that miR-490-3p was up-regulated in HCC tissues and cells compared with the adjacent non-tumor tissues and normal cells .
+We also found that overexpression of miR-490-3p led to an increase in cell proliferation , migration , and invasion abilities and that it contributed to EMT .
+The inhibition of miR-490-3p had the opposite effect on the cells .
+We identified ERGIC3 ( endoplasmic reticulum-Golgi intermediate compartment protein 3 ) as a direct target gene for miR-490-3p .
+Unlike most miRNA-mRNA interactions , miR-490-3p increased ERGIC3 mRNA and protein levels as well as the intensity of expression of the EGFP reporter gene controlled by the 3'-UTR of ERGIC3 mRNA .
+The up-regulation by miR-490-3p also required the participation of Ago2 .
+The inhibition of miR-490-3p reduced the expression of ERGIC3 .
+Overexpression of ERGIC3 led to the same effect on HCC cells as miR-490-3p overexpression , including EMT .
+Importantly , silencing ERGIC3 reversed the cellular responses mediated by miR-490-3p overexpression .
+In conclusion , our study indicated for the first time that miR-490-3p functioned like an oncogenic miRNA in HCC cells and that the inhibition of miR-490-3p might provide an potential treatment approach for HCC patients .

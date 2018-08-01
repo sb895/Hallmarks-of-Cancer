@@ -1,0 +1,12 @@
+Tumor cells are surrounded by infiltrating inflammatory cells , such as lymphocytes , neutrophils , macrophages , and mast cells .
+A body of evidence indicates that mast cells are associated with various types of tumors .
+Although role of mast cells can be directly related to their granule content , their function in angiogenesis and tumor progression remains obscure .
+This study aims to understand the role of mast cells in these processes .
+Tumors were chemically induced in BALB/c mice and tumor progression was divided into Phases I , II and III .
+Phase I tumors exhibited a large number of mast cells , which increased in phase II and remained unchanged in phase III .
+The expression of mouse mast cell protease ( mMCP)-4 , mMCP-5 , mMCP-6 , mMCP-7 , and carboxypeptidase A were analyzed at the 3 stages .
+Our results show that with the exception of mMCP-4 expression of these mast cell chymase ( mMCP-5 ) , tryptases ( mMCP-6 and 7 ) , and carboxypeptidase A ( mMC-CPA ) increased during tumor progression .
+Chymase and tryptase activity increased at all stages of tumor progression whereas the number of mast cells remained constant from phase II to III .
+The number of new blood vessels increased significantly in phase I , while in phases II and III an enlargement of existing blood vessels occurred .
+In vitro , mMCP-6 and 7 are able to induce vessel formation .
+The present study suggests that mast cells are involved in induction of angiogenesis in the early stages of tumor development and in modulating blood vessel growth in the later stages of tumor progression .

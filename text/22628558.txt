@@ -1,0 +1,8 @@
+Pyruvate constitutes a critical branch point in cellular carbon metabolism .
+We have identified two proteins , Mpc1 and Mpc2 , as essential for mitochondrial pyruvate transport in yeast , Drosophila , and humans .
+Mpc1 and Mpc2 associate to form an complex in the inner mitochondrial membrane .
+Yeast and Drosophila mutants lacking MPC1 display impaired pyruvate metabolism , with an accumulation of upstream metabolites and a depletion of tricarboxylic acid cycle intermediates .
+Loss of yeast Mpc1 results in defective mitochondrial pyruvate uptake , and silencing of MPC1 or MPC2 in mammalian cells impairs pyruvate oxidation .
+A point mutation in MPC1 provides resistance to a known inhibitor of the mitochondrial pyruvate carrier .
+Human genetic studies of three families with children suffering from lactic acidosis and hyperpyruvatemia revealed a causal locus that mapped to MPC1 , changing single amino acids that are conserved throughout eukaryotes .
+These data demonstrate that Mpc1 and Mpc2 form an essential part of the mitochondrial pyruvate carrier .

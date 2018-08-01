@@ -1,0 +1,7 @@
+Biallelic mutations in MCPH1 cause primary microcephaly ( MCPH ) with the cellular phenotype of defective chromosome condensation .
+MCPH1 encodes a multifunctional protein that notably is involved in brain development , regulation of chromosome condensation , and DNA damage response .
+In the present studies , we detected that MCPH1 encodes several distinct transcripts , including two major forms : full-length MCPH1 ( MCPH1-FL ) and a second transcript lacking the six 3 ' exons ( MCPH1\u0394e9-14 ) .
+Both variants show comparable tissue-specific expression patterns , demonstrate nuclear localization that is mediated independently via separate NLS motifs , and are more abundant in certain fetal than adult organs .
+In addition , the expression of either isoform complements the chromosome condensation defect found in genetically MCPH1-deficient or MCPH1 siRNA-depleted cells , demonstrating a redundancy of both MCPH1 isoforms for the regulation of chromosome condensation .
+Strikingly however , both transcripts are regulated antagonistically during cell-cycle progression and there are functional differences between the isoforms with regard to the DNA damage response ; MCPH1-FL localizes to phosphorylated H2AX repair foci following ionizing irradiation , while MCPH1\u0394e9-14 was evenly distributed in the nucleus .
+In summary , our results demonstrate here that MCPH1 encodes different isoforms that are differentially regulated at the transcript level and have different functions at the protein level .

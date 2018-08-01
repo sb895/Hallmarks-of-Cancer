@@ -1,0 +1,11 @@
+Bladder cancer is one of the most common tumors of the genitourinary tract ; however , the molecular events underlying growth and invasion of the tumor remain unclear .
+Here , role of the CXCR7 receptor in bladder cancer was further explored .
+CXCR7 protein expression was examined using high-density tissue microarrays .
+Expression of CXCR7 showed strong epithelial staining that correlated with bladder cancer progression .
+In vitro and in vivo studies in bladder cancer cell lines suggested that alterations in CXCR7 expression were associated with the activities of proliferation , apoptosis , migration , invasion , angiogenesis and tumor growth .
+Moreover , CXCR7 expression was able to regulate expression of the proangiogenic factors IL-8 or VEGF , which may involve in the regulation of tumor angiogenesis .
+Finally , we found that signaling by the CXCR7 in bladder cancer cells activates AKT , ERK and STAT3 pathways .
+The AKT and ERK pathways may reciprocally regulate , which are responsible for in vitro and in vivo epithelial to mesenchymal transition ( EMT ) process of bladder cancer .
+Simultaneously targeting the two pathways by using U0126 and LY294002 inhibitors or using CCX733 , a selective CXCR7 antagonist drastically reduced CXCR7-induced EMT process .
+Taken together , our data show for the first time that CXCR7 plays a role in the development of bladder cancer .
+Targeting CXCR7 or its downstream-activated AKT and ERK pathways may prove beneficial to prevent metastasis and provide a more effective therapeutic strategy for bladder cancer .

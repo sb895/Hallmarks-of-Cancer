@@ -1,0 +1,7 @@
+Several germline single nucleotide polymorphisms ( SNPs ) have been identified in the POLB gene , but little is known about their cellular and biochemical impact .
+DNA Polymerase \u03b2 ( Pol \u03b2 ) , encoded by the POLB gene , is the main gap-filling polymerase involved in base excision repair ( BER ) , a pathway that protects the genome from the consequences of oxidative DNA damage .
+In this study we tested the hypothesis that expression of the POLB germline coding SNP ( rs3136797 ) in mammalian cells could induce a cancerous phenotype .
+Expression of this SNP in both human and mouse cells induced double-strand breaks , chromosomal aberrations , and cellular transformation .
+Following treatment with an alkylating agent , cells expressing this coding SNP accumulated BER intermediate substrates , including single-strand and double-strand breaks .
+The rs3136797 SNP encodes the P242R variant Pol \u03b2 protein and biochemical analysis showed that P242R protein had a slower catalytic rate than WT , although P242R binds DNA similarly to WT .
+Our results suggest that people who carry the rs3136797 germline SNP may be at an increased risk for cancer susceptibility .

@@ -1,0 +1,11 @@
+Exposure to ultraviolet B ( UVB ) radiation ( 280-320 nm ) is the primary etiologic factor associated with the development of basal cell carcinoma ( BCC ) .
+The outgrowth of these keratinocyte-derived skin lesions is enhanced by the ability of UVB to impair an immune response that would otherwise eliminate them .
+Studies in a range of inbred mouse strains as well as mast cell-depleted mice reconstituted with mast cell precursors support a functional link between histamine-staining dermal mast cells and the extent of susceptibility to UVB-induced systemic immunomodulation .
+Humans , like mouse strains , display variations in dermal mast cell prevalence .
+In a study of Danish and South Australian BCC patients and control subjects , one 4-mm punch biopsy of non-sun-exposed buttock skin was sampled from each participant .
+This skin site was investigated to avoid any changes in mast cell prevalence caused by sun exposure .
+Two sections ( 4 microm ) per biopsy were immunohistochemically stained for detection of histamine-containing dermal mast cells .
+Computer-generated image analysis evaluated dermal mast cell prevalence in both sections by quantifying the total number of mast cells according to the total dermal area ( expressed as mast cells per square millimeter ) .
+This technique enabled us to detect heterogeneity of dermal mast cell prevalence in buttock skin between individuals and provided evidence of an association between high dermal mast cell prevalence and BCC development in two diverse populations .
+We hypothesize that mast cells function in humans , as in mouse strains , by initiating immunosuppression following UV irradiation and , thereby , allowing a permissive environment for the development of BCC .
+Thus , a high dermal mast cell prevalence as demonstrable in buttock skin is a significant predisposing factor for development of BCC in humans .

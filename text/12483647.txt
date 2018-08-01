@@ -1,0 +1,10 @@
+BACKGROUND/PURPOSE Although angiogenic factors may play an important role in the biology of neuroblastoma , which frequently spreads hematogenously , the mechanism remains unclear .
+The authors studied tumor progression and invasion from the perspective of angiogenesis and sought to understand the features of this type of tumor .
+METHODS Thirty-one specimens were resected from patients with neuroblastoma and the expression of vascular endothelial growth factor ( VEGF ) , and its receptor ( Flk-1 ) was examined using immunohistochemistry .
+The authors looked for correlations among the expressions of VEGF and its receptor with various clinicopathologic factors .
+In addition , they examined the expression and location of VEGF and Flk-1 mRNA in 10 primary neuroblastoma using in situ hybridization .
+RESULTS Both in situ hybridization and immunohistochemistry showed the presence of VEGF expression within the neuroblastoma cells .
+We found VEGF mRNA in neuroblastoma cells but not vascular endothelial cells according to in situ hybridization .
+Further , Flk-1 mRNA was present both in neuroblastoma cells and vascular endothelial cells .
+The level of VEGF expression was higher in unfavorable histology , using the criteria of Shimada , than in favorable histology .
+CONCLUSION The authors suggest that paracrine and autocrine systems are involved in the angiogenesis of neuroblastoma , and the expression of VEGF correlates with the prognosis in neuroblastoma .

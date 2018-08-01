@@ -1,0 +1,9 @@
+The cytotoxicities of highly efficient salan-Ti(IV) complexes toward a range of cell lines , including drug-resistant cells , are reported along with preliminary mechanistic insights .
+Five salan-Ti(IV) complexes were investigated toward eight different human and murine cancer-derived cell lines , including colon , ovarian , lung , cervical , pancreatic , leukemic , skin , and breast .
+The salan complexes are more active toward the cells analyzed than cisplatin and the known titanium compound ( bzac)(2 ) Ti(OiPr)(2) , and no cell line resistant to the salan complexes was identified .
+Moreover , the salan-Ti(IV) complexes are highly active toward both cisplatin-sensitive ( A2780 ) and cisplatin-resistant ( A2780CisR ) human ovarian cancer cell lines .
+Similarly , the salan complexes are cytotoxic toward multi-drug-resistant ( ABCB1-expressing ) mouse lymphoma cell lines HU-1 and HU-2 .
+Importantly , minimal or no activity was observed toward primary murine cells ( bone marrow , heart , liver , kidney , spleen , and lung ) , supporting selectivity for cancer cells .
+Additionally , the salan complexes maintain high cytotoxicity for up to 24 h following exposure to cell culture medium , whereas reference complexes ( bzac)(2 ) Ti(OiPr)(2) and Cp(2) TiCl(2) rapidly lose much of their activity upon exposure to medium , within h .
+The upregulation of p53 followed by cell-cycle arrest in G(1) phase is likely one mechanism of action of the salan complexes .
+Taken together , the results indicate that these compounds are selectively toxic to cancer cells and are able to circumvent two independent mechanisms of drug resistance , thus expanding the scope of their potential medicinal utility .

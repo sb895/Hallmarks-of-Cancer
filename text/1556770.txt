@@ -1,0 +1,13 @@
+BACKGROUND Ovarian surface epithelial cells undergo several rounds of division to repair the wound created by follicular rupture at the time of ovulation .
+This cyclical requirement for cell division , when not interrupted by the long anovulatory rest periods that occur during pregnancy and lactation , may contribute to the development of ovarian cancer .
+PURPOSE AND METHODS To test this hypothesis , we isolated rat ovarian surface epithelial cells from 10 adult female Fisher rats , initiated two mixed-population and seven clonal cell lines , and repeatedly subcultured these cells in vitro for more than 20 passages .
+We then tested them for the acquisition of the following four features associated with transformation : 1 ) the loss of contact inhibition , 2 ) the capacity for substrate-independent growth , 3 ) the ability to form tumors when injected subcutaneously and/or intraperitoneally into athymic mice , and 4 ) cytogenetic abnormalities .
+RESULTS Loss of contact inhibition was observed in all nine late-passage cell lines .
+Six of the nine late-passage , but none of the early-passage , cell lines tested exhibited a capacity for substrate-independent growth that was augmented in a dose-dependent manner by epidermal growth factor .
+Two late-passage cell lines ( clone 2 and mixed-population 2 ) generated tumors in athymic BALB/c mice within 3 weeks following subcutaneous injection of 5 x 10(6) cells , whereas similar numbers of early-passage cells from the same cell lines failed to generate palpable tumors .
+Late-passage clone 7 cells were tumorigenic when 5 x 10(7) cells were injected intraperitoneally .
+Two of the cell lines analyzed exhibited alterations involving losses of part or all of one member of the chromosome 5 pair .
+Clone 2 possessed an interstitial deletion , del(5)(q21.3q24) , consistent with the loss of an uncloned putative tumor suppressor gene at 5q22q23 previously reported to reside near the loci for the interferon alpha , interferon beta , and c-jun genes .
+Early-passage clone 7 cells exhibited chromosome 5 monosomy , while late-passage cells contained one normal chromosome 5 and a derivative ( 5q12q ) .
+Southern analysis of the three cell lines revealed no consistent loss of loci for the interferon and c-jun genes , although early-passage clone 7 cells had one half the gene copy number for the interferon beta and c-jun genes and both early- and late-passage clone 7 cells lacked DNA sequences hybridizing with the probe for interferon alpha .
+CONCLUSION This pattern of passage-dependent spontaneous transformation of rat ovarian surface epithelial cells in vitro supports the hypothesis that repetitious ovulation contributes to the etiology of human ovarian cancer .

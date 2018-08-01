@@ -1,0 +1,9 @@
+Colorectal tumors are continuously exposed to an inflammatory environment , which together with mitogenic signals sustain several cancer hallmarks .
+Nuclear factor-kappa B ( NF\u03baB ) is a major regulator of inflammation and variation in NF\u03baB-associated genes could potentially be used as biomarkers to identify patients with increased risk of colorectal cancer ( CRC ) development , and/or a rapidly progressing disease .
+In this study , 348 CRC cases and 806 randomly selected healthy individuals from southeastern Sweden were examined with regard to seven polymorphisms in NF\u03baB pathway-associated genes .
+Log-rank-tests and Cox proportional hazard regression analysis examined the association between the polymorphisms and CRC-specific survival , whereas chi-square tests and logistic regression analysis were used to test for associations between the polymorphisms and CRC susceptibility .
+Gene expression and loss of heterozygosity analyses of TNFAIP3 were carried out in a subset of tumors to assess its role as a tumor suppressor in CRC .
+Heterozygous and polymorphic TNFAIP3 ( rs6920220 ) , heterozygous NLRP3 ( Q705K ) and polymorphic NF\u03baB -94 ATTG ins/del genotypes were found to be associated with poorer survival in patients diagnosed with invasive CRC ( aHR = 5.2 , 95% CI : 2.5-10.9 , P < 0.001 ) .
+TNFAIP3 mRNA levels were significantly decreased in tumors compared with adjacent non-neoplastic mucosa ( P < 0.0001 ) and loss of heterozygosity of 6q23.3 ( TNFAIP3 ) was detected in 17% of cases , whereas only 2.5% of the investigated specimens displayed TNFAIP3 gene mutations .
+We propose that TNFAIP3 ( rs6920220 ) , NLRP3 ( Q705K ) and NF\u03baB -94 ATTG ins/del polymorphisms are associated with poor survival in patients with advanced CRC and may be used as prognostic markers .
+Experimental results indicate that TNFAIP3 may act as a tumor suppressor in CRC .

@@ -1,0 +1,12 @@
+Mutations of the thyroid hormone receptor-β gene ( THRB ) cause resistance to thyroid hormone ( RTH ) .
+A mouse model of RTH harboring a homozygous thyroid hormone receptor ( TR)-β mutation known as PV ( Thrb(PV/PV) mouse ) spontaneously develops follicular thyroid cancer ( FTC ) .
+Similar to RTH patients with mutations of two alleles of the THRB gene , the Thrb(PV/PV) mouse exhibits elevated thyroid hormones accompanied by highly nonsuppressible TSH .
+However , the heterozygous Thrb(PV/+) mouse with mildly elevated TSH ( does not develop FTC .
+The present study examined whether the mutation of a single allele of the Thrb gene is sufficient to induce FTC in Thrb(PV/+) mice under stimulation by high TSH .
+Thrb(PV/+) mice and wild-type siblings were treated with propylthiouracil ( PTU ) to elevate serum TSH .
+Thrb(PV/+)mice treated with PTU ( Thrb(PV/+)-PTU ) spontaneously developed FTC similar to human thyroid cancer , but wild-type siblings treated with PTU did not .
+Interestingly , approximately 33% of Thrb(PV/+)-PTU mice developed asymmetrical thyroid tumors , as is frequently observed in human thyroid cancer .
+Molecular analyses showed activation of the cyclin 1-cyclin-dependent kinase-4-transcription factor E2F1 pathway to increase thyroid tumor cell proliferation of Thrb(PV/+)-PTU mice .
+Moreover , via extranuclear signaling , the PV also activated the integrin-Src-focal adhesion kinase-AKT-metalloproteinase pathway to increase migration and invasion of tumor cells .
+Therefore , mutation of a single allele of the Thrb gene is sufficient to drive the TSH-simulated hyperplastic thyroid follicular cells to undergo carcinogenesis .
+The present study suggests that the Thrb(PV/+)-PTU mouse model potentially could be used to gain insights into the molecular basis underlying the association between thyroid cancer and RTH seen in some affected patients .

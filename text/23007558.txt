@@ -1,0 +1,6 @@
+Hepatocellular carcinoma ( HCC ) is the most common primary malignant tumor that accounts for of all liver cancer cases worldwide .
+It is a multifactorial disease caused by a variety of risk factors and often develops in the background of underlying cirrhosis .
+A number of cellular phenomena , such as tumor microenvironment , inflammation , oxidative stress , and hypoxia act in concert with various molecular events to facilitate tumor initiation , progression , and metastasis .
+The emergence of microRNAs and molecular-targeted therapies adds a new dimension in our efforts to combat this deadly disease .
+Intense research in this multitude of areas has led to significant progress in our understanding of cellular processes and molecular mechanisms that occur during multistage events that lead to hepatocarcinogenesis .
+In this review , we discuss the current knowledge of HCC , focusing mainly on advances that have occurred during the past 5years and on the development of novel therapeutics for liver cancer .

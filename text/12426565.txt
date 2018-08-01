@@ -1,0 +1,5 @@
+Optimal lymphocyte activation requires the simultaneous engagement of stimulatory and costimulatory receptors .
+Stimulatory immunoreceptors are usually composed of a ligand-binding transmembrane protein and noncovalently associated signal-transducing subunits .
+Here , we report that alternative splicing leads to two distinct NKG2D polypeptides that associate differentially with the DAP10 and KARAP ( also known as DAP12 ) signaling subunits .
+We found that differential expression of these isoforms and of signaling proteins determined whether NKG2D functioned as a costimulatory receptor in the adaptive immune system ( CD8+ T cells ) or as both a primary recognition structure and a costimulatory receptor in the innate immune system ( natural killer cells and macrophages ) .
+This strategy suggests a rationale for the multisubunit structure of stimulatory immunoreceptors .

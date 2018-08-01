@@ -1,0 +1,8 @@
+MD-Fraction is a highly purified soluble β-glucan derived from Grifola frondosa ( an oriental edible mushroom ) .
+Intraperitoneal ( i.p. ) injection of MD-Fraction has been reported to inhibit tumor growth via enhancement of the host immune system .
+In this study , we demonstrated that oral administration of MD-Fraction as well as i.p. injection significantly inhibited tumor growth in murine tumor models .
+After oral administration , MD-Fraction was not transferred to the blood in its free form but was captured by antigen-presenting cells such as macrophages and dendritic cells ( DCs ) present in the Peyer's patch .
+The captured MD-Fraction was then transported to the spleen , thereby inducing the systemic immune response .
+Our study showed that MD-Fraction directly induced DC maturation via a C-type lectin receptor dectin-1 pathway .
+The therapeutic response of orally administered MD-Fraction was associated with ( i ) induced systemic tumor-antigen specific T cell response via dectin-1-dependent activation of DCs , ( ii ) increased infiltration of the activated T cells into the tumor , and ( iii ) decreased number of tumor-caused immunosuppressive cells such as regulatory T cells and myeloid-derived suppressor cells .
+Our preclinical study suggests that MD-Fraction is a useful oral therapeutic agent in the management of patients with cancer. � 2012 Wiley Periodicals , Inc .

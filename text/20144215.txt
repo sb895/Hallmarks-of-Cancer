@@ -1,0 +1,13 @@
+BACKGROUND Taxol is one of the most effective chemotherapeutic agents for the treatment of patients with breast cancer .
+Despite impressive clinical responses initially , the majority of patients eventually develop resistance to Taxol .
+Lactate dehydrogenase-A ( LDH-A ) is one of the predominant isoforms of LDH expressed in breast tissue , which controls the conversion of pyruvate to lactate and plays an important role in glucose metabolism .
+In this study we investigated the role of LDH-A in mediating Taxol resistance in human breast cancer cells .
+RESULTS Taxol-resistant subclones , derived from the cancer cell line MDA-MB-435 , sustained continuous growth in high concentrations of Taxol while the Taxol-sensitive cells could not .
+The increased expression and activity of LDH-A were detected in Taxol-resistant cells when compared with their parental cells .
+The downregulation of LDH-A by siRNA significantly increased the sensitivity of Taxol-resistant cells to Taxol .
+A higher sensitivity to the specific LDH inhibitor , oxamate , was found in the Taxol-resistant cells .
+Furthermore , treating cells with the combination of Taxol and oxamate showed a synergistical inhibitory effect on Taxol-resistant breast cancer cells by promoting apoptosis in these cells .
+CONCLUSION LDH-A plays an important role in Taxol resistance and inhibition of LDH-A re-sensitizes Taxol-resistant cells to Taxol .
+This supports that Warburg effect is a property of Taxol resistant cancer cells and may play an important role in the development of Taxol resistance .
+To our knowledge , this is the first report showing that the increased expression of LDH-A plays an important role in Taxol resistance of human breast cancer cells .
+This study provides valuable information for the future development and use of targeted therapies , such as oxamate , for the treatment of patients with Taxol-resistant breast cancer .

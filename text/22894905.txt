@@ -1,0 +1,18 @@
+Hypoxia-inducible factor ( HIF ) 1α and 2α are transcription factors responsible for the cellular response to hypoxia .
+The functional roles of HIF1α and HIF2α in cancer are distinct and vary among different tumor types .
+The aim of this study was to evaluate the compartment-specific role(s) of HIF1α and HIF2α in breast cancer .
+To this end , immortalized human fibroblasts and MDA-MB-231 breast cancer cells carrying constitutively active HIF1α or HIF2α mutants were analyzed with respect to their metabolic function(s) and ability to promote tumor growth in an in vivo setting .
+We observed that activation of HIF1α , but not HIF2α , in stromal cells promotes a shift toward aerobic glycolysis , with increased L-lactate production and a loss of mitochondrial activity .
+In a xenograft model , HIF1α-activated fibroblasts promoted the tumor growth of co-injected MDA-MB-231 cells without an increase in angiogenesis .
+Conversely , HIF2α-activated stromal cells did not favor tumor growth and behaved as the empty vector controls .
+Similarly , activation of HIF1α , but not HIF2α , in MDA-MB-231 cells promoted a shift toward aerobic glycolysis , with increased glucose uptake and L-lactate production .
+In contrast , HIF2α activation in cancer cells increased the expression of EGFR , Ras and cyclin D1 , which are known markers of tumor growth and cell cycle progression .
+In a xenograft model , HIF1α activation in MDA-MB-231 cells acted as a tumor suppressor , resulting in an almost 2-fold reduction in tumor mass and volume .
+Interestingly , HIF2α activation in MDA-MB-231 cells induced a significant in tumor mass and volume .
+Analysis of mitochondrial activity in these tumor xenografts using COX ( cytochrome C oxidase ) staining demonstrated elevated mitochondrial oxidative metabolism ( OXPHOS ) in HIF2α-tumors .
+We conclude that the role(s) of HIF1α and HIF2α in tumorigenesis are compartment-specific .
+HIF1α acts as a tumor promoter in stromal cells but as a tumor suppressor in cancer cells .
+Conversely , HIF2α is a tumor promoter in cancer cells .
+Mechanistically , HIF1α-driven aerobic glycolysis in stromal cells supports cancer cell growth via the paracrine production of nutrients ( such as L-lactate ) that can " feed " cancer cells .
+However , HIF1α-driven aerobic glycolysis in cancer cells inhibits tumor growth .
+Finally , HIF2α activation in cancer cells induces the expression of known pro-oncogenic molecules and promotes the mitochondrial activity of cancer cells .

@@ -1,0 +1,12 @@
+Many viruses subvert the host cell's ability to mount and complete various DNA damage responses ( DDRs ) after infection .
+HCMV infection of permissive fibroblasts activates host DDRs at the time of viral deposition and during replication , but the DDRs remain uncompleted without arrest or apoptosis .
+We believe this was in part due to partitioning of the damage response and double strand break repair components .
+After extraction of soluble proteins , the localization of these components fell into three groups : specifically associated with the viral replication centers ( RCs ) , diffused throughout the nucleoplasm and excluded from the RCs .
+Others have shown that cells are incapable of processing exogenously introduced damage after infection .
+We hypothesized that the inability of the cells to process damage might be due to the differential association of repair components within the RCs and , in turn , potentially preferential repair of the viral genome and compromised repair of the host genome .
+To test this hypothesis we used multiple strategies to examine repair of UV-induced DNA damage in mock and virus-infected fibroblasts .
+Comet assays indicated that repair was initiated , but was not completed in infected cells .
+Quantitative analysis of immunofluorescent localization of cyclobutane pyrimidine dimers ( CPDs ) revealed that after 24 h of repair , CPDs were significantly reduced in viral DNA , but not significantly changed in the infected host DNA .
+To further quantitate CPD repair , we developed a novel dual-color Southern protocol allowing visualization of host and viral DNA simultaneously .
+Combining this Southern methodology with a CPD-specific T4 endonuclease V alkaline agarose assay to quantitate repair of adducts , we found efficient repair of CPDs from the viral DNA but not host cellular DNA .
+Our data confirm that NER functions in HCMV-infected cells and almost exclusively repairs the viral genome to the detriment of the host's genome .

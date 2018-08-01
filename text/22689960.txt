@@ -1,0 +1,11 @@
+Helicobacter hepaticus-infected Rag2(-/-) mice emulate many aspects of human inflammatory bowel disease , including the development of colitis and colon cancer .
+To elucidate mechanisms of inflammation-induced carcinogenesis , we undertook a comprehensive analysis of histopathology , molecular damage , and gene expression changes during disease progression in these mice .
+Infected mice developed severe colitis and hepatitis by 10wk post-infection , progressing into colon carcinoma by 20wk post-infection , with pronounced pathology in the cecum and proximal colon marked by infiltration of neutrophils and macrophages .
+Transcriptional profiling revealed decreased expression of DNA repair and oxidative stress response genes in colon , but not in liver .
+Mass spectrometric analysis revealed higher levels of DNA and RNA damage products in liver compared to colon and infection-induced increases in 5-chlorocytosine in DNA and RNA and hypoxanthine in DNA .
+Paradoxically , infection was associated with decreased levels of DNA etheno adducts .
+Levels of nucleic acid damage from the same chemical class were strongly correlated in both liver and colon .
+The results support a model of inflammation-mediated carcinogenesis involving infiltration of phagocytes and generation of reactive species that cause local molecular damage leading to cell dysfunction , mutation , and cell death .
+There are strong correlations among histopathology , phagocyte infiltration , and damage chemistry that suggest a major role for neutrophils in inflammation-associated cancer progression .
+Further , paradoxical changes in nucleic acid damage were observed in tissue- and chemistry-specific patterns .
+The results also reveal features of cell stress response that point to microbial pathophysiology and mechanisms of cell senescence as important mechanistic links to cancer .

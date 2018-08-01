@@ -1,0 +1,13 @@
+BACKGROUND Young age is a favorable prognostic factor for patients with glioblastoma multiforme ( GBM ) .
+We reviewed the outcomes and molecular tumor characteristics of adolescent and young adult patients with GBM treated in 2 Austrian centers .
+PATIENTS AND METHODS Data on patients with histologically proven primary GBM diagnosed from 18 through 40 years of age were retrospectively analyzed .
+All patients were treated with standard first-line therapy .
+The primary end points were overall survival ( OS ) and time to progression ( TTP ) .
+IDH1-R132H mutation status was analyzed using immunohistochemistry , and MGMT promoter methylation was assessed using methylation-specific polymerase chain reaction .
+RESULTS We included 70 patients ( 36 men and 34 women ) with a median age of 33 years .
+IDH1-R132H mutations were detected in 22 ( 39.3% ) of 56 cases and MGMT promoter methylation in 33 ( 61.1% ) of 54 cases with available tissue samples .
+In patients with wild-type IDH , median TTP was 8.2 months and median OS was 24 months , compared with 18 months and 44 months , respectively , observed in patients with mutated IDH .
+Neither IDH1 nor MGMT status showed a statistically significant association with TTP or OS .
+Of note , the social and economical situation of the young patients with GBM was alarming , because only 17% succeeded in staying employed after receiving the diagnosis .
+CONCLUSIONS We found a high frequency of IDH1 mutations and MGMT promoter methylation among young adult patients with primary GBM that may contribute to the generally favorable outcome associated with young age .
+The social and economic coverage of patients with glioma remains an unsolved socio-ethical problem .

@@ -1,0 +1,9 @@
+MicroRNAs ( miRNAs ) are 19 nt non-coding RNA molecules that regulate expression of target genes at the post-transcriptional level .
+Evidence indicates that miRNAs play an essential role in physiological and pathological conditions including pulmonary development , inflammation , fibrosis and cancer .
+The aim of the present study is to investigate the altered miRNAs expression profile in rats with experimental silicosis .
+We duplicated silicosis rat model , and identify the miRNA expression pattern of silicosis rat with miRNA microarray .
+Compared with normal lung tissue , fourteen miRNAs were found significantly up-regulated while the other twenty-five down-regulated in silicosis samples .
+The differential expression of two selected miRNAs was confirmed by stem-loop real-time reverse transcription-polymerase chain reaction .
+Our results indicate that the 39 altered miRNAs may be involved in lung fibrosis of rats that were exposed to silica dust .
+Furthermore , the microarray results provide a solid basis for further validation , such as identification of other miRNAs that may be related to inflammation and fibrosis .
+The findings are paving way for silicosis early prevention , prognosis and possible therapy .

@@ -1,0 +1,14 @@
+Ulcerative colitis ( UC ) is a major form of chronic inflammation that can frequently progress to colon cancer .
+Several studies have demonstrated massive infiltration of neutrophils and macrophages into the lamina propria and submucosa in the progression of UC-associated colon carcinogenesis .
+Macrophages contribute to the development of colitis-associated colon cancer ( CAC ) .
+However , the role of neutrophils is not well understood .
+To better understand the involvement of tumor-associated neutrophils ( TANs ) in the regulation of CAC , we used a mouse CAC model produced by administering azoxymethane ( AOM ) , followed by repeated dextran sulfate sodium ( DSS ) ingestion .
+This causes severe colonic inflammation and subsequent development of multiple tumors in mice colon .
+We observed that colorectal mucosal inflammation became increasingly severe with AOM and DSS treatment .
+Macrophages infiltrated the lamina propria and submucosa , together with a marked increase in neutrophil infiltration .
+The chemokine CXCL2 increased in the lamina propria and submucosal regions of the colons of the treated mice , together with the infiltration of neutrophils expressing CXCR2 , a specific receptor for CXCL2 .
+This process was followed by neoplastic transformation .
+After AOM and DSS treatment , the mice showed enhanced production of metalloproteinase ( MMP)-9 and neutrophil elastase ( NE ) , accompanied by excessive vessel generation and cell proliferation .
+Moreover , CXCL2 promoted neutrophil recruitment and induced neutrophils to express MMP-9 and NE in vitro .
+Furthermore , administration of neutrophil-neutralizing antibodies after the last DSS cycle markedly reduced the number and size of tumors and decreased the expression of CXCR2 , CXCL2 , MMP-9 , and NE .
+These observations indicate a crucial role for TANs in the initiation and progression of CAC and suggest that the CXCL2-CXCR2 axis might be useful in reducing the risk of UC-associated colon cancer .

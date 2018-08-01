@@ -1,0 +1,7 @@
+Mast cells ( MC ) are key effector cells in allergic reactions but also involved in host defence , tissue remodeling , angiogenesis , and fibrogenesis .
+Here , we show that human intestinal fibroblasts ( FB ) suppress apoptosis in human intestinal MC dependent on IL-6 .
+Intestinal FB produced IL-6 upon direct stimulation by intestinal MC in co-culture or by MC mediators such as TNF-α , IL-1β , tryptase or histamine .
+MC incubated with IL-6 survived for up to 3 weeks similar to MC co-cultured with FB and MC survival could be blocked by neutralizing anti-IL-6 Abs .
+Moreover , FB stimulated by MC mediators upregulated their expression of matrix metalloproteinase-1 ( MMP-1 ) , a key fibrolytic enzyme .
+Noteworthy , FB co-cultured with MC or treated with MMP-1 lost confluence and showed increased numbers of apoptotic cells .
+Our data indicate an intimate cross talk between mucosal MC and FB resulting in MC survival and induction of a fibrolytic rather than a profibrotic state in FB .

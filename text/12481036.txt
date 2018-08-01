@@ -1,0 +1,9 @@
+Approximately 10% of the U.S. population ingests <50% of the current recommended daily allowance for zinc .
+We investigate the effect of zinc deficiency on DNA damage , expression of DNA-repair enzymes , and downstream signaling events in a cell-culture model .
+Low zinc inhibited cell growth of rat glioma C6 cells and increased oxidative stress .
+Low intracellular zinc increased DNA single-strand breaks ( comet assay ) .
+Zinc-deficient C6 cells also exhibited an increase in the expression of the zinc-containing DNA-repair proteins p53 and apurinic endonuclease ( APE ) .
+Repletion with zinc restored cell growth and reversed DNA damage .
+APE is a multifunctional protein that not only repairs DNA but also controls DNA-binding activity of many transcription factors that may be involved in cancer progression .
+The ability of the transcription factors p53 , nuclear factor kappaB , and activator protein 1 ( AP1 ) to bind to consensus DNA sequences was decreased markedly with zinc deficiency , as assayed by electrophoretic mobility-shift assays .
+Thus , low intracellular zinc status causes oxidative DNA damage and induces DNA-repair protein expression , but binding of p53 and important downstream signals leading to proper DNA repair are lost without zinc .

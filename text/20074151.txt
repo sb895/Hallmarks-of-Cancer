@@ -1,0 +1,14 @@
+BACKGROUND AND AIMS Hepatitis C virus ( HCV)-induced chronic inflammation may induce oxidative stress which could compromise the repair of damaged DNA , rendering cells more susceptible to spontaneous or mutagen-induced alterations , the underlying cause of liver cirrhosis and hepatocellular carcinoma .
+In the current study we examined the induction of reactive oxygen species ( ROS ) resulting from HCV infection and evaluated its effect on the host DNA damage and repair machinery .
+METHODS HCV infected human hepatoma cells were analyzed to determine ( i ) ROS , ( ii ) 8-oxoG and ( iii ) DNA glycosylases NEIL1 , NEIL2 , OGG1 .
+Liver biopsies were analyzed for NEIL1 .
+RESULTS Human hepatoma cells infected with HCV JFH-1 showed 30-60-fold increases in ROS levels compared to uninfected cells .
+Levels of the oxidatively modified guanosine base 8-oxoguanine ( 8-oxoG ) were significantly increased sixfold in the HCV-infected cells .
+Because DNA glycosylases are the enzymes that remove oxidized nucleotides , their expression in HCV-infected cells was analyzed .
+NEIL1 but not OGG1 or NEIL2 gene expression was impaired in HCV-infected cells .
+In accordance , we found reduced glycosylase ( NEIL1-specific ) activity in HCV-infected cells .
+The antioxidant N-acetyl cystein ( NAC ) efficiently reversed the NEIL1 repression by inhibiting ROS induction by HCV .
+NEIL1 expression was also partly restored when virus-infected cells were treated with interferon ( IFN ) .
+HCV core and to a lesser extent NS3-4a and NS5A induced ROS , and downregulated NEIL1 expression .
+Liver biopsy specimens showed significant impairment of NEIL1 levels in HCV-infected patients with advanced liver disease compared to patients with no disease .
+CONCLUSION Collectively , the data indicate that HCV induction of ROS and perturbation of NEIL1 expression may be mechanistically involved in progression of liver disease and suggest that antioxidant and antiviral therapies can reverse these deleterious effects of HCV in part by restoring function of the DNA repair enzyme/s .

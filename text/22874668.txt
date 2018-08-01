@@ -1,0 +1,7 @@
+Mouse models of Alzheimer disease ( AD ) have been generated based on Amyloid-\u03b2 Precursor Protein ( A\u03b2PP ) and the Presenilin ( PSEN ) gene mutations associated with familial AD ( FAD ) .
+Such models have provided valuable insights into AD pathogenesis and represent an important research tool for the discovery of potential treatments .
+To model amyloid deposition in AD , we generated a new mouse line based on the presence of two copies of the genomic region encoding human wild-type A\u03b2PP as well as a mutation ( L166P ) in the murine Psen1 .
+By months of age , these mice have begun to develop cerebral A\u03b2 pathology with a significant increase in the levels of A\u03b2PP C-terminal fragments and A\u03b242 , as well as increase A\u03b242/A\u03b240 ratio .
+Since in the brain and other tissues of these mice , wild-type human A\u03b2PP mRNA and protein levels are comparable to those of endogenous A\u03b2PP , this model may allow studies about the role of A\u03b2PP isoforms in the pathogenesis of AD .
+This animal model may be suitable to test drugs aimed at inhibiting expression or altering splicing and processing of A\u03b2PP , without artifacts associated with the presence of mutations in A\u03b2PP or overexpression due to the use of exogenous promoters .
+These features of the new model are of critical importance in assessing the success of therapeutic interventions .

@@ -1,0 +1,9 @@
+A new cell line of human ovarian clear cell adenocarcinoma ( CCC ) , TU-OC-1 , was established and characterized .
+The cells showed a polygonal-shaped morphology and grew in monolayers without contact inhibition and were arranged like a jigsaw puzzle .
+The chromosome numbers ranged from 64 to 90 .
+A low rate of proliferation was observed , similar to other CCC cell lines tested ( OVTOKO , RMG-I , and OVAS ) , and the doubling time was 38.4h .
+The respective IC50 values of cisplatin and paclitaxel were 12.2μM and 58.3nM .
+Mutational analysis revealed that TU-OC-1 cells harbored a PIK3CA mutation at codon 542 ( E542K ) in exon 9 , which is a mutation hot spot on this gene .
+We observed that phosphorylated Akt protein was overexpressed in TU-OC-1 cells by western blot analysis .
+Heterotransplantation to nude mice produced tumors that reflected the original .
+This cell line may be useful to study the chemoresistant mechanisms of CCC and contribute to novel treatment strategies .

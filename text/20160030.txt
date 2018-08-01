@@ -1,0 +1,8 @@
+Overexpression of the adverse prognostic marker ERBB2 occurs in 30% of breast cancers ; however , therapies targeting this gene have not proved to be as effective as was initially hoped .
+Transcriptional profiling meta-analyses have shown that there are approximately 150 genes co-overexpressed with ERBB2 , suggesting that these genes may represent alternative factors influencing ERBB2-positive tumors .
+Here we describe an RNA interference-based analysis of these genes that identifies transcriptional regulators of fat synthesis and storage as being critical for the survival of these cells .
+These transcription factors , nuclear receptor subfamily 1 , group D , member 1 ( NR1D1 ) and peroxisome proliferator activated receptor gamma binding protein ( PBP ) , both reside on ERBB2-containing 17q12-21 amplicons and are part of the ERBB2 expression signature .
+We show that NR1D1 and PBP act through a common pathway in upregulating several genes in the de novo fatty acid synthesis network , which is highly active in ERBB2-positive breast cancer cells .
+Malate dehydrogenase 1 and malic enzyme 1 , enzymes that link glycolysis and fatty acid synthesis , are also regulated by NR1D1 .
+The resulting high-level fat production from increased expression of these genes likely contributes to an abnormal cellular energy metabolism based on aerobic glycolysis .
+Together , these results show that the cells of this aggressive form of breast cancer are genetically preprogrammed to depend on NR1D1 and PBP for the energy production necessary for survival .

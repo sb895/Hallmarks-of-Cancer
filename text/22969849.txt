@@ -1,0 +1,10 @@
+Liver cancer ranks as the fifth most prevalent malignancy of all cancers worldwide .
+According to the principles of traditional Chinese medicine , liver Yin deficiency is a common clinical syndrome of liver cancer , and tonifying liver Yin is a common treatment method for liver cancer .
+However , no hepatocarcinoma-specific liver Yin tonifying formula has yet been established .
+In the present study , we established a liver cancer-specific combination of herbs , which we term liver Yin tonifying formula ( LYTF ) .
+We found that LYTF inhibits the proliferation of Bel-7402 cells in a dose- and time-dependent manner .
+LYTF induces apoptosis in Bel-7402 cells , which is accompanied by activation of caspases-8 , -9 and -3 .
+Pan-caspase blocking completely abrogates LYTF-induced apoptosis and partially abrogates LYTF-induced proliferation inhibition .
+LYTF also induces cell senescence , as indicated by a large and flattened morphology , senescence-activated β-galactosidase-positive staining and G0/G1 cell cycle arrest , accompanied by the up-regulation of p16 and p21 and the down-regulation of retinoblastoma protein phosphorylation .
+These findings suggest that LYTF is effective in inhibiting the growth and survival of hepatocarcinoma cells through the induction of apoptosis and cell senescence .
+Our study also provides insight into traditional Chinese medicine methods used for the treatment of liver cancer .

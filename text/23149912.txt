@@ -1,0 +1,8 @@
+The main feedback loop driving circadian rhythm in mice is controlled , in part , by the genes encoding the cryptochromes Cry1 and Cry2 .
+Targeted mutation of both Cry1 and Cry2 delay the early onset of tumor formation in p53-null mutant mice .
+Furthermore , Ras-transformed p53- and Cry-null mouse skin fibroblasts are more sensitive than p53 mutants to apoptotic cell death initiated by agents that activate either the intrinsic or the extrinsic apoptosis pathways .
+Here , we investigated the effect of Cry1 and Cry2 mutations on cell death by other genotoxic agents that generate alkylated bases , interstrand crosslinks , DNA-protein crosslinks , and double-strand breaks .
+Both ultraviolet ( UV ) and the UV mimetic compound oxaliplatin and the radiomimetic compound doxorubicin promoted apoptosis by upregulating the tumor suppressor p73 .
+However , only the UV and oxaliplatin-induced upregulation of p73 mediated by the transcription factor Egr1 , but not the doxorubicin-induced upregulation mediated by the transcription factor E2F1 , was enhanced by Cry1/Cry2 double mutation .
+Accordingly , Egr1 downregulation reduced oxaliplatin-induced apoptosis , whereas E2F1 downregulation reduced doxorubicin-induced apoptosis .
+Our findings establish distinct roles for cryptochromes in intrinsic apoptosis induced by UV mimetic and radiomimetic agents .

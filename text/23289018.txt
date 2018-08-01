@@ -1,0 +1,6 @@
+Filamin-A cross-links actin filaments into dynamic orthogonal networks , and interacts with an array of proteins of diverse cellular functions .
+Because several filamin-A interaction partners are implicated in signaling of cell mobility regulation , we tested the hypothesis that filamin-A plays a role in cancer metastasis .
+Using four pairs of filamin-A proficient and deficient isogenic cell lines , we found that filamin-A deficiency in cancer cells significantly reduces their migration and invasion .
+Using a xenograft tumor model with subcutaneous and intracardiac injections of tumor cells , we found that the filamin-A deficiency causes significant reduction of lung , splenic and systemic metastasis in nude mice .
+We evaluated the expression of filamin-A in breast cancer tissues by immunohistochemical staining , and found that low levels of filamin-A expression in cancer cells of the tumor tissues are associated with a better distant metastasis-free survival than those with normal levels of filamin-A .
+These data not only validate filamin-A as a prognostic marker for cancer metastasis , but also suggest that inhibition of filamin-A in cancer cells may reduce metastasis and that filamin-A can be used as a therapeutic target for filamin-A positive cancer .

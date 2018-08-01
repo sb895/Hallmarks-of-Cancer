@@ -1,0 +1,11 @@
+Magnetite iron nanoparticles have been widely used as contrast agents and in thermal therapy for cancer .
+However , their adverse effects on human health have not been fully investigated .
+In this study , iron oxide nanoparticles were prepared using inorganic iron chloride ( size : 5.3+/-3.6 nm in phosphate buffered saline , surface charge : 23.14 mV ) , and their inflammatory responses were investigated .
+When mice were treated with iron oxide nanoparticles ( 250 microg/kg , 500 microg/kg , and 1mg/kg ) by a single intratracheal instillation , the level of intracellular reduced glutathione ( GSH ) was decreased in the cells of bronchoalveolar lavage ( BAL ) fluid .
+The arrest of cell cycles in G1 phase was observed , but S-phase was significantly decreased .
+The concentrations of pro-inflammatory cytokines ( IL-1 , TNF-alpha , and IL-6 ) were dose-dependently increased at day 1 after instillation in the BAL fluid and in the blood .
+During the experimental period of 28 days , pro-inflammatory cytokines ( IL-1 , TNF-alpha , and IL-6 ) , Th0 cytokine ( IL-2 ) , Th1 type cytokine ( IL-12 ) , Th2 type cytokines ( IL-4 and IL-5 ) , TGF-beta , and IgE were also elevated .
+Expressions of many genes related with inflammation or tissue damage such as heat shock protein , matrix metalloproteinase , tissue inhibitors of metalloproteinases , and serum amyloid A were significantly induced .
+Formation of microgranuloma , which is one of the indicators for chronic inflammatory response , was observed in the alveolar space .
+In addition , distribution of B cell and CD8+ T cell in blood lymphocytes was increased at day 28 .
+Based on the result , iron oxide nanoparticles may subchronic induce inflammatory responses via oxidative stress in mice by a single intratracheal instillation .

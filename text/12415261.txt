@@ -1,0 +1,8 @@
+Tumor cells are elusive targets for immunotherapy due to their heterogeneity and genetic instability .
+Here we describe a novel , oral DNA vaccine that targets stable , proliferating endothelial cells in the tumor vasculature rather than tumor cells .
+Targeting occurs through upregulated vascular-endothelial growth factor receptor 2 ( FLK-1 ) of proliferating endothelial cells in the tumor vasculature .
+This vaccine effectively protected mice from lethal challenges with melanoma , colon carcinoma and lung carcinoma cells and reduced growth of established metastases in a therapeutic setting .
+CTL-mediated killing of endothelial cells indicated breaking of peripheral immune tolerance against this self antigen , resulting in markedly reduced dissemination of spontaneous and experimental pulmonary metastases .
+Angiogenesis in the tumor vasculature was suppressed without impairment of fertility , neuromuscular performance or hematopoiesis , albeit with a slight delay in wound healing .
+Our strategy circumvents problems in targeting of genetically unstable tumor cells .
+This approach may provide a new strategy for the rational design of cancer therapies .

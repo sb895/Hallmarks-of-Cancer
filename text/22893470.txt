@@ -1,0 +1,13 @@
+BACKGROUND Cholangiocarcinoma , a type of malignant tumor , originates from epithelial cells of the bile duct .
+Perineural invasion is common path for cholangiocarcinoma metastasis , and it is highly correlated with postoperative recurrence and poor prognosis .
+It has been reported that muscarinic acetylcholine receptor M3 ( mAChR M3 ) is widely expressed in digestive tract cancer , and may play an important role in the proliferation , differentiation , transformation and carcinogenesis of tumors .
+This study was to explore the effect of mAChR M3 on the growth of cholangiocarcinoma cells in vitro and provide a new approach to the pathogenesis and treatment of cholangiocarcinoma .
+METHODS Streptavidin-biotin complex immunohistochemistry was carried out to assess the expression of mAChR M3 in surgical specimens of cholangiocarcinomas ( 40 cases ) and normal bile duct tissues ( 9 ) , as well as to investigate nerve infiltration .
+The cholangiocarcinoma cells were treated with different concentrations of selective M-receptor agonist pilocarpine and M-receptor blocker atropine sulfate to induce changes in cell proliferation .
+The experimental data were analyzed by the Chi-square test .
+RESULTS The strongly-positive expression rate of mAChR M3 was much higher in poorly-differentiated ( 69% , 9/13 ) than in well- and moderately-differentiated cholangiocarcinomas ( 30% , 8/27 ) ( X2=5.631 , P<0.05 ) .
+The strongly-positive mAChR M3 expression rate in hilar cholangiocarcinoma ( 50% , 14/28 ) was higher than that in cholangiocarcinomas from the middle and lower common bile duct ( 25% , 3/12 ) ( X2=2.148 , P<0.05 ) .
+Cholangiocarcinomas with distant metastasis had a strongly-positive expression rate ( 75% , 9/12 ) , which was much higher than those without distant metastasis ( 29% , 8/28 ) ( X2=7.410 , P<0.01 ) .
+The absorbance value in the pilocarpine+atropine group was significantly higher than the corresponding value in the pilocarpine group .
+CONCLUSIONS The expression of mAChR M3 is influenced by the extent of differentiation , distant metastasis and the site of cholangiocarcinoma .
+It also plays a key role in the proliferation and metastasis of cholangiocarcinoma .

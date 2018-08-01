@@ -1,0 +1,10 @@
+Vitexicarpin ( 3 ' , 5-dihydroxy-3 , 4 ' , 6 , 7-tetramethoxyflavone ) , a polymethoxyflavone isolated from Viticis Fructus ( Vitex rotundifolia Linne fil. ) , has long been used as an anti-inflammatory herb in traditional Chinese medicine .
+It has also been reported that vitexicarpin can inhibit the growth of various cancer cells .
+However , there is no report elucidating its effect on human prostate carcinoma cells .
+The aim of the present study was to examine the apoptotic induction activity of vitexicarpin on PC-3 cells and molecular mechanisms involved .
+MTT studies showed that vitexicarpin dose-dependently inhibited growth of PC-3 cells with an IC50 μM .
+Hoechst 33258 staining further revealed that vitexicarpin induced apoptotic cell death .
+The effect of vitexicarpin on PC-3 cells apoptosis was tested using prodium iodide ( PI)/Annexin V-FITC double staining and flow cytometry .
+The results indicated that vitexicarpin induction of apoptotic cell death in PC-3 cells was accompanied by cell cycle arrest in the G2/M phase .
+Furthermore , our study demonstrated that vitexicarpin induction of PC-3 cell apoptosis was associated with upregulation of the proapoptotic protein Bax , and downregulation of antiapoptotic protein Bcl-2 , release of Cytochrome c from mitochondria and decrease in mitochondrial membrane potential .
+Our findings suggested that vitexicarpin may become a potential leading drug in the therapy of prostate carcinoma .

@@ -1,0 +1,9 @@
+Cancers are characterized by an increasing glycolytic activity , which is called the Warburg effect .
+Although this phenomenon is well known , the mechanism of the enhanced rate of glycolysis in cancer has not yet been clearly recognized .
+The present study investigated the glycolytic rate , regulatory enzymatic activities and the expression of phosphofructokinase-1 ( PFK-1 ) in human breast cancer and paracancer tissues .
+Human breast cancer tissues have an increased degree of glycolytic efficiency and regulatory enzymatic activities , which have been shown in previous studies .
+However , the present study identified a number of novel observations .
+The total PFK-1 levels were higher in human breast cancer tissues than in paracancer tissues , and further investigations revealed differential PFK-1 isoenzyme expression patterns between human breast cancer and paracancer tissues .
+The human breast cancer and paracancer tissues mainly expressed PFK-P and PFK-L isoforms , respectively .
+Linear-regression analysis showed that , depending on the pathological stage of breast cancer , the expression of PFK-P was significantly positively correlated with the activity of PFK-1 .
+Thus , during the development of human breast cancer , the enhancement of glycolytic activity depends primarily on the conversion of the PFK-1 , from PFK-L to PFK-P .

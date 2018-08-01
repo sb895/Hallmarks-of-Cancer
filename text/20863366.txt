@@ -1,0 +1,12 @@
+INTRODUCTION IκB Kinase ε ( IKKε ) is a member of the IKK family which plays an important role in the activation of nuclear factor-κB ( NF-κB ) .
+Overexpressed in over 30% of breast cancers , IKKε has been recently identified as a potential breast cancer oncogene .
+The purpose of this study is to examine the therapeutic potential of IKKε siRNA on human breast cancer cells .
+METHODS Eight siRNAs targeting different regions of the IKKε mRNA were designed , and the silencing effect was screened by quantitative real time RT-PCR .
+The biological effects of synthetic siRNAs on human breast cancer cells were investigated by examining the cell proliferation , migration , invasion , focus formation , anchorage-independent growth(via soft agar assay ) , cell cycle arrest , apoptosis ( via annexing binding ) , NF-κB basal level , and NF-κB related gene expressions upon the IKKε silencing .
+RESULTS Silencing of IKKε in human breast cancer cells resulted in decrease of focus formation potential and clonogenicity as well as in vitro cell migration/invasion capabilities .
+Moreover , knockdown of IKKε suppressed cell proliferation .
+Cell cycle assay showed that the anti-proliferation effect of IKKε siRNA was mediated by arresting cells in G(0)/G(1) phase , which was caused by down-regulation of cyclin D(1) .
+Furthermore , we demonstrated that silencing of IKKε inhibited the NF-κB basal activity as well as the Bcl-2 expression .
+Significant apoptosis was not observed in breast cancer cells upon the silencing of IKKε .
+The present study provided the first evidence that silencing IKKε using synthetic siRNA could inhibit the invasiveness properties and proliferation of breast cancer cells .
+CONCLUSIONS Our results suggested that silencing IKKε using synthetic siRNA may offer a novel therapeutic strategy for breast cancer .

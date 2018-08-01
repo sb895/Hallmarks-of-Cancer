@@ -1,0 +1,8 @@
+PURPOSE The difference in radiosensitivity between two isogenic tumour cell lines was evaluated to determine whether factors such as sublethal and potentially damage repair , DNA double-strand break repair and fidelity of repair can be related to differences in radiosensitivity .
+MATERIALS AND METHODS The cell lines used were the ovarian carcinoma A2780s and a radiation-resistant derivative A2780cp .
+Radiation response was measured in terms of cell survival , recovery of sublethal ( SLD ) and potentially lethal damage ( PLD ) , induction of and recovery of DNA strand breaks , and fidelity of DNA repair using a cell-free plasmid assay .
+RESULTS While A2780cp was more resistant to radiation than A2780s , it showed less ability for recovery of SLD and PLD .
+DNA strand-break induction was the same for both cell lines , while only at very high doses did A2780cp show greater DNA strand-break recovery than A2780s .
+Fidelity of rejoining DNA was significantly higher in the A2780cp cell line .
+CONCLUSION The difference in radiosensitivity between these two cell lines was not related to recovery of PLD or SLD or to the induction of DNA damage .
+It appears that fidelity of DNA rejoining , which was significantly higher in the resistant cell line , may be related to the difference in radiosensitivity .

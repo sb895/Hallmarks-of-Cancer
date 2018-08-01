@@ -1,0 +1,9 @@
+Cancer cells universally increase glucose and glutamine consumption , leading to the altered metabolic state known as the Warburg effect ; one metabolic pathway , highly dependent on glucose and glutamine , is the hexosamine biosynthetic pathway .
+Increased flux through the hexosamine biosynthetic pathway leads to increases in the post-translational addition of O-linked β-N-acetylglucosamine ( O-GlcNAc ) to various nuclear and cytosolic proteins .
+A number of these target proteins are implicated in cancer , and recently , O-GlcNAcylation was shown to play a role in breast cancer ; however , O-GlcNAcylation in other cancers remains poorly defined .
+Here , we show that O-GlcNAc transferase ( OGT ) is overexpressed in prostate cancer compared with normal prostate epithelium and that OGT protein and O-GlcNAc levels are elevated in prostate carcinoma cell lines .
+Reducing O-GlcNAcylation in PC3-ML cells was associated with reduced expression of matrix metalloproteinase ( MMP)-2 , MMP-9 , and VEGF , resulting in inhibition of invasion and angiogenesis .
+OGT-mediated regulation of invasion and angiogenesis was dependent upon regulation of the oncogenic transcription factor FoxM1 , a key regulator of invasion and angiogenesis , as reducing OGT expression led to increased FoxM1 protein degradation .
+Conversely , overexpression of a degradation-resistant FoxM1 mutant abrogated OGT RNAi-mediated effects on invasion , MMP levels , angiogenesis , and VEGF expression .
+Using a mouse model of metastasis , we found that reduction of OGT expression blocked bone metastasis .
+Altogether , these data suggest that as prostate cancer cells alter glucose and glutamine levels , O-GlcNAc modifications and OGT levels become elevated and are required for regulation of malignant properties , implicating OGT as a novel therapeutic target in the treatment of cancer .

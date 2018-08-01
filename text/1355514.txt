@@ -1,0 +1,9 @@
+Three normal human diploid cell strains were transfected with an activated Ha-ras oncogene ( EJ ras ) or SV40 T-antigen .
+Multiple clones were examined for morphological alterations , growth requirements , ability to grow under anchorage independent conditions , immortality and tumorigenicity in nude mice .
+Clones expressing SV40 T-antigen alone or in combination with ras protein p21 were significantly radioresistant as compared with their parent cells or clones transfected with the neo gene only .
+This radioresistant phenotype persisted in post-crisis , immortalized cell lines .
+Cells transfected with EJ ras alone showed no morphological alterations nor significant changes in radiosensitivity .
+Cell clones expressing ras and/or SV40 T-antigen showed a reduced requirement for serum supplements , an increase in aneuploidy and chromosomal aberrations , and enhanced growth in soft agar as an early cellular response to SV40 T-antigen expression .
+The sequential order of transfection with SV40 T-antigen and ras influenced radio-sensitivity but not the induction of morphological changes .
+These data suggest that expression of the SV40 T-antigen but not activated Ha-ras plays an important role in the radiosensitivity of human diploid cells .
+The radioresistant phenotype in SV40 T transfected cells was not related to the enhanced level of genetic instability seen in pre-crisis and newly immortalized cells , nor to the process of immortalization itself .

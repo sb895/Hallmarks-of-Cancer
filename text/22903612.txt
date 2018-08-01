@@ -1,0 +1,10 @@
+The insulin-like growth factor ( IGF ) pathway represents one of the most studied molecular regulatory networks in oncology .
+Clinical trials investigating the therapeutic value of anti-IGF1 receptor ( IGF1R ) therapies in cancer , including prostate cancer , are ongoing .
+However , the multiple functions of the IGF network in the prostate are not entirely known .
+To elucidate the effects of IGF and insulin ( INS ) on prostate cells , we stimulated prostate cancer ( PC3 , DU145 , LNCaP , DUCaP ) and noncancerous prostate cells ( EP156T , RWPE-1 ) and observed differing responses : whereas cancer cells responded to IGF and INS exposure by way of enhanced cell proliferation and glucose consumption , basal to luminal differentiation was induced in noncancerous cells .
+The same diverse responses were observed when the growth factor receptors IGF1R or INSR were overexpressed .
+Down-regulation of IGF1R or INSR isoform A ( INSRA ) also inhibited only proliferation of cancer cells .
+The proliferative response induced by the INSR in cancer cells was mediated solely by the INSRA .
+Moreover we observed that the receptors of the IGF network mutually influence their expression and exert redundant functions , thus underscoring the functional molecular network formed by IGF , INS , IGF1R , and INSR .
+Collectively we found that both IGF1R and INSRA have oncogenic effects in prostate cancer , but the IGF network also has important physiological functions in the noncancerous prostate .
+These data provide new insights into the biology of the IGF network in the prostate , thereby facilitating the design and interpretation of clinical studies investigating IGF1R targeting agents .

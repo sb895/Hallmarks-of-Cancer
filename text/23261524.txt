@@ -1,0 +1,11 @@
+p53 plays an important role in regulating a wide variety of cellular processes , such as cell cycle arrest and/or apoptosis .
+Dysfunction of p53 is frequently associated with several pathologies , such as cancer and neurodegenerative diseases .
+In recent years substantial progress has been made in developing novel p53-activating molecules .
+Importantly , modulation of p53 interaction with its main inhibitor , Mdm2 , has been highlighted as a promising therapy target .
+In this regard , bimolecular fluorescence complementation ( BiFC ) analysis , by providing direct visualization of protein interactions in living cells , offers a straightforward method to identify potential modulators of protein interactions .
+In this study , we developed a simple and robust Venus-based BiFC system to screen for modulators of p53-p53 and p53-Mdm2 interactions in live mammalian cells .
+We used nutlin-3 , a well-known disruptor of p53-Mdm2 interaction , to validate the specificity of the assay .
+The reduction of BiFC signal mediated by nutlin-3 was correlated with an increase in Puma transactivation , PARP cleavage , and cell death .
+Finally , this novel BiFC approach was exploited to identify potential modulators of p53-Mdm2 complex formation among a commercially available chemical library of 33 protein phosphatase inhibitors .
+Our results constitute " proof-of-concept " that this model has strong potential as an alternative to traditional target-based drug discovery strategies .
+Identification of new modulators of p53-p53 and p53-Mdm2 interactions will be useful to achieve synergistic drug efficacy with currently used anti-tumor therapies .

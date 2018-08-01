@@ -1,0 +1,13 @@
+BACKGROUND Inactivation of p53 is involved in arsenite-induced tumorigenesis ; however , the molecular mechanisms remain poorly understood .
+OBJECTIVE We investigated the molecular mechanisms underlying the inactivation of p53 and neoplastic transformation induced by arsenite in human embryo lung fibroblast ( HELF ) cells .
+METHODS Anchorage-independent growth assays were performed , and tumorigenicity in intact animals was assessed to confirm arsenite-induced neoplastic transformation .
+We determined the levels and functions of p53 , nuclear factor-kappa B ( NF-B ; a key transcriptional regulator ) , and mot-2 ( a p53 inhibitor ) and their relationships in arsenite-induced transformed HELF cells by two-dimensional electrophoresis , reverse-transcriptase polymerase chain reaction , Western blot , immunofluorescence , and co-immunoprecipitation assays .
+RESULTS Exposure of HELF cells to low levels of arsenite increased their proliferation rate and anchorage-independent growth and disrupted normal contact inhibition .
+When introduced into nude mice , transformed cells were tumorigenic .
+We used proteomic analysis to identify proteins with altered expression between untreated and arsenite-exposed cells .
+We found decreased expression of NF-B repressing factor ( NKRF ; an inhibitor of NF-B-mediated gene transcription ) , increased expression of mot-2 , and increased activation of NF-B .
+Changes in cells exposed to 1.0 microM arsenite were more marked than changes in cells exposed to 0.5 or 2.0 microM arsenite .
+Inactivation of NF-B prevented malignant transformation induced by 1.0 microM arsenite .
+Moreover , we also identified a mechanism whereby NF-B regulated p53 .
+Specifically , activation of NF-B up-regulated mot-2 expression , which prevented nuclear translocation of p53 and switched the binding preference of the p53 and NF-B coactivator CBP [ cyclic AMP-responsive element binding protein ( CREB ) binding protein ] from p53 to NF-B .
+CONCLUSIONS mot-2-mediated cross talk between NF-B and p53 appears to be involved in arsenite-induced tumorigenesis of HELF cells .

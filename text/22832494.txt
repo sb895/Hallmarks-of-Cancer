@@ -1,0 +1,9 @@
+Nonmelanoma skin cancer ( NMSC ) is by far the most frequent type of cancer in humans .
+NMSC includes several types of malignancies with different clinical outcomes , the most frequent being basal and squamous cell carcinomas .
+We have used the Sleeping Beauty transposon/transposase system to identify somatic mutations associated with NMSC .
+Transgenic mice bearing multiple copies of a mutagenic Sleeping Beauty transposon T2Onc2 and expressing the SB11 transposase under the transcriptional control of regulatory elements from the keratin K5 promoter were treated with TPA , either in wild-type or Ha-ras mutated backgrounds .
+After several weeks of treatment , mice with transposition developed more malignant tumors with decreased latency compared with control mice .
+Transposon/transposase animals also developed basal cell carcinomas .
+Genetic analysis of the transposon integration sites in the tumors identified several genes recurrently mutated in different tumor samples , which may represent novel candidate cancer genes .
+We observed alterations in the expression levels of some of these genes in human tumors .
+Our results show that inactivating mutations in Notch1 and Nsd1 , among others , may have an important role in skin carcinogenesis .

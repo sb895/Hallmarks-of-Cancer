@@ -1,0 +1,8 @@
+Over the past two decades , bioactive natural compounds have been shown to be a plausible adjunct to the treatment of breast cancer , the second leading cause of cancer death among American women .
+This study was designed to investigate the effects of ursolic acid ( UA ) , a pentacyclic triterpene found in many foods and herbs , in a model of postmenopausal breast cancer .
+Ovariectomized C57BL/6 mice ( n = 40 ) were randomized to receive control diet ( AIN-93G ) or diet supplemented with UA at 1 of 3 doses ( wt/wt ) : 0.05% , 0.10% , or 0.25% ( ≈54 , 106 , or 266 mg/kg body weight/day , respectively ) .
+After 3 wk , syngeneic MMTV-Wnt-1 mammary tumor cells were injected in the mammary fat pad , and mice continued on their respective diets for 5 more wk .
+All UA doses decreased tumor cell proliferation , as assessed by Ki67 immunostaining ; nevertheless , UA at 0.10% was most effective in inhibiting tumor take and decreasing tumor final tumor size .
+Modulation of Akt/mTOR signaling and induction of apoptosis appeared to mediate these effects on tumor growth .
+UA potently disrupted cell cycle progression and induced necrosis in a clonal MMTV-Wnt-1 mammary tumor cell line in vitro .
+This study supports the potential of UA as an antitumorigenic agent .

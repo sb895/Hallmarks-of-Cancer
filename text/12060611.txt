@@ -1,0 +1,11 @@
+PURPOSE Astrocytoma arises in the central nervous system as a tumor of great lethality , in part because of the invasive potential of the neoplastic cells that are able to release extracellular matrix-degrading enzymes .
+Furin convertase activates several precursor matrix metalloproteases involved in the breakdown of the extracellular matrix .
+In the present study inhibition of furin was achieved by gene transfer of alpha(1)-antitrypsin Portland ( PDX ) cDNA .
+EXPERIMENTAL DESIGN This furin inhibitor was transfected into two tumorigenic astrocytoma cell lines .
+The inhibitory effect was evaluated using in vivo tumorigenicity , invasion , and proliferation assays , as well as by investigating impairment of furin substrate processing .
+RESULTS Expression of PDX prevented the s.c. growth of the transfected cells .
+Invasion assays demonstrated that PDX-transfected cells exhibited a reduced invasive ability in vitro and in vivo .
+Furthermore , s.c. growth of PDX transfectant xenotransplants showed a significant reduction in size that coincided with a significant decrease of the in vitro doubling time and of the in vivo cell proliferation ability .
+Additional studies showed that the furin substrates insulin-like growth factor IR , transforming growth factor beta and membrane type 1-matrix metalloprotease were not activated in PDX-expressing astrocytoma cells .
+CONCLUSIONS PDX expression in astrocytoma cells demonstrated a direct mechanistic link between furin inhibition , and decreased astrocytoma proliferation and invasive ability .
+Because furin inhibition inhibits both invasiveness and cell growth in astrocytoma , furin should be considered a promising target for glioblastoma therapy .

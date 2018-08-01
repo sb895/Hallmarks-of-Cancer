@@ -1,0 +1,10 @@
+We have exploited properties of photosensitizers to study an aspect of the packing of chromatin in the cell nucleus .
+The fluorescent photosensitizers mesotetra(3-hydroxyphenyl) porphyrin and Photofrin II were both localized in the nuclear membrane and other membrane structures , but could not be found inside the nuclei .
+Light exposure of cells at 1 degrees C in the presence of the sensitizers induced DNA double-strand breaks .
+The length distributions of DNA fragments were determined by pulsed field gel electrophoresis .
+Because DNA damage is produced mainly via singlet oxygen diffusing less than 0.1 microns from the sensitizer , DNA double-strand breaks were supposedly produced within this distance of the nuclear membrane .
+Consistent with this , with prolonged illumination and with increasing concentrations of sensitizer the distribution of DNA fragment lengths reached a plateau level .
+In contrast , with the hydrophilic , intranuclear sensitizer meso-tetra(4-sulphonatophenyl)porphyrin , no such plateau level was found .
+The plateau distributions of DNA fragment lengths of different cell types had the same general shape with average fragment lengths ranging from 174 to 194 kilobasepairs .
+Particular genes , c-myc , fos and p53 , were found on broad distributions of photocleaved fragment lengths .
+The results indicate that on each side of the genes the locus of the chromatin fibre situated close to the nuclear membrane , varied randomly .

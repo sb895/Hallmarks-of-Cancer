@@ -1,0 +1,8 @@
+Using monolayer cultures of clonally isolated C3 and T5 rat prostate cancer cells , we determined that acidic ( aFGF ) and basic ( bFGF ) fibroblast growth factors profoundly enhanced T5 cell thymidine incorporation with half-maximum stimulation at 0.53 and 0.35 ng/ml , respectively .
+In contrast , aFGF or bFGF enhancement of C3 cell thymidine incorporation was about 5% of that of T5 cells , and effects were principally mitogen concentration independent .
+Saturation analyses and cross-linking studies established that both C3 and T5 cells contained high-affinity FGF receptors of 120 and 145 kilodaltons and that receptor content and Kd of C3 and T5 cells were comparable. aFGF or bFGF stimulation of T5 cell thymidine incorporation profoundly decreased as cell plating density was reduced from 1.5 x 10(5) to 1.0 x 10(4) cells/well .
+The modest response of C3 cells to either aFGF or bFGF also decreased as cell plating density was reduced .
+Because heparin preserves FGF biological activity and enhances bFGF binding to high-affinity FGF receptors , we examined the effect of heparin on FGF stimulation of C3 cell thymidine incorporation .
+We found that changes in cell plating density and/or medium heparin concentration had variable , inconsistent effects .
+These were C3 cell plating density associated and included inhibition or modest enhancement of FGF effects .
+Binding analyses established that high-affinity bFGF binding of C3 and T5 cells immediately prior to assessing FGF-stimulated thymidine incorporation was comparable and independent of cell plating density , implying that C3 cell FGF insensitivity was not attributable to differences in C3 and T5 cell FGF receptor content at the time of mitogen stimulation.(ABSTRACT TRUNCATED AT 250 WORDS )

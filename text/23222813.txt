@@ -1,0 +1,8 @@
+Collagen triple helix repeat containing-1 ( CTHRC1 ) is a secreted protein involved in vascular remodeling , bone formation and developmental morphogenesis .
+CTHRC1 has recently been shown to be expressed in human cancers such as breast cancer and melanoma .
+In this study , we show that CTHRC1 is highly expressed in human pancreatic cancer tissues and plays a role in the progression and metastasis of the disease .
+CTHRC1 promoted primary tumor growth and metastatic spread of cancer cells to distant organs in orthotopic xenograft tumor mouse models .
+Overexpression of CTHRC1 in cancer cells resulted in increased motility and adhesiveness , whereas these cellular activities were diminished by down-regulation of the protein .
+CTHRC1 activated several key signaling molecules , including Src , focal adhesion kinase , paxillin , mitogen-activated protein kinase kinase ( MEK ) , extracellular signal-regulated kinase and Rac1 .
+Treatment with chemical inhibitors of Src , MEK or Rac1 and expression of dominant-negative Rac1 attenuated CTHRC1-induced cell migration and adhesion .
+Collectively , our results suggest that CTHRC1 has a role in pancreatic cancer progression and metastasis by regulating migration and adhesion activities of cancer cells .

@@ -1,0 +1,10 @@
+Cells undergoing malignant transformation often exhibit a shift in cellular metabolism from oxidative phosphorylation to glycolysis .
+This glycolytic shift , called the Warburg effect , provides a mechanistic basis for targeting glycolysis to suppress carcinogenesis through the use of dietary caloric restriction and energy restriction-mimetic agents ( ERMA ) .
+We recently reported the development of a novel class of ERMAs that exhibits high potency in eliciting starvation-associated cellular responses and epigenetic changes in cancer cells though glucose uptake inhibition .
+The lead ERMA in this class , OSU-CG5 , decreases the production of ATP and NADH in LNCaP prostate cancer cells .
+In this study , we examined the effect of OSU-CG5 on the severity of preneoplastic lesions in male transgenic adenocarcinoma of the mouse prostate ( TRAMP ) mice .
+Daily oral treatment with OSU-CG5 at 100 mg/kg from 6 to 10 weeks of age resulted in a statistically significant decrease in the weight of urogenital tract and microdissected dorsal , lateral , and anterior prostatic lobes relative to vehicle controls .
+The suppressive effect of OSU-CG5 was evidenced by marked decreases in Ki67 immunostaining and proliferating cell nuclear antigen ( PCNA ) expression in the prostate .
+OSU-CG5 treatment was not associated with evidence of systemic toxicity .
+Microarray analysis indicated a central role for Akt , and Western blot analysis showed reduced phosphorylation and/or expression levels of Akt , Src , androgen receptor , and insulin-like growth factor-1 receptor in prostate lobes .
+These findings support further investigation of OSU-CG5 as a potential chemopreventive agent .

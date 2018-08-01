@@ -1,0 +1,6 @@
+Mutation rate varies between sites in the genome .
+Part of this variation can be explained by well-recognized short nucleotide contexts , but a large component of this variation remains cryptic .
+We used data on interspecies divergence and intraspecies polymorphism in Drosophila and Hominidae to analyze variation of the average rate of the 12 possible kinds of single-nucleotide mutations and in the transition/transversion ratio \u03ba at single-nucleotide resolution .
+Both the average mutation rate and \u03ba vary by a factor of between nucleotide sites .
+The characteristic scale of variation in \u03ba is up to at least nucleotides in Drosophila and nucleotides in Hominidae .
+Genome segments with locally elevated mutation rates possess lower values of \u03ba ; however , a substantial fraction of variation in \u03ba cannot be directly explained by the local mutation rates .

@@ -1,0 +1,10 @@
+A prominent feature of inflammatory diseases is endothelial dysfunction .
+Factors associated with endothelial dysfunction include proinflammatory cytokines , adhesion molecules , and matrix degrading enzymes .
+At the transcriptional level , they are regulated by the histone deacetylase sirtuin ( SIRT ) 1 via its actions on the proinflammatory transcription factor nuclear factor-κB ( NF-κB ) .
+The role of SIRT6 , also a histone deacetylase , in regulating inflammation in endothelial cells is not known .
+The aim of this study was to determine the effect of SIRT6 knockdown on inflammatory markers in human umbilical vein endothelial cells ( HUVECs ) in the presence of lipopolysaccharide ( LPS ) .
+LPS decreased expression of SIRT6 in HUVECs .
+Knockdown of SIRT6 increased the expression of proinflammatory cytokines ( IL-1β , IL-6 , IL-8 ) , COX-prostaglandin system , ECM remodelling enzymes ( MMP-2 , MMP-9 and PAI-1 ) , the adhesion molecule ICAM-1 , and proangiogenic growth factors VEGF and FGF-2 ; cell migration ; cell adhesion to leukocytes .
+Loss of SIRT6 increased the expression of NF-κB , whereas overexpression of SIRT6 was associated with decreased NF-κB transcriptional activity .
+Taken together , these results demonstrate that the loss of SIRT6 in endothelial cells is associated with upregulation of genes involved in inflammation , vascular remodelling , and angiogenesis .
+SIRT6 may be a potential pharmacological target for inflammatory vascular diseases .

@@ -1,0 +1,13 @@
+BACKGROUND & OBJECTIVE Usually pituitary adenomas are histological benign and grow slowly , but a proportion of them will become locally aggressive , and develop into invasive pituitary adenomas .
+The reasons for these differences in tumor behavior are poorly understood .
+Pituitary adenomas are abounding blood vessels .
+Angiogenesis and tumor invasion both require degradation of the extracellular matrix components to allow cell migration .
+The matrix metalloproteinases ( MMPs ) and their nature inhibitors-the tissue inhibitors of metalloproteinases ( TIMPs ) may play a central role in these processes .
+The aggressive mechanism of pituitary adenomas was studied through investigating the expression of MMP-9 , MMP-2 , TIMP-1 , and TIMP-2 in both invasive and non-invasive adenomas .
+METHODS Sixty-one surgical removed pituitary adenomas ( forty-nine cases invasive and twelve non-invasive adenomas ) were investigated .
+Immunohistochemistry staining ( SP method ) was used to detect the expression of MMP-9 , MMP-2 , TIMP-1 , and TIMP-2 in two groups .
+The results were treated with semi-quantitative method and analyzed by using non-parameter rank sum test .
+RESULTS Immunohistochemical staining of tumor cells for MMP-9 , TIMP-1 , MMP-2 , and TIMP-2 were noted 95.9% ( 47/49 ) , 57.1% ( 28/49 ) , 75.5% ( 37/49 ) and 89.8% ( 44/49 ) in invasive adenomas , and 100% ( 12/12 ) , 91.7% ( 11/12 ) , 66.7% ( 8/12 ) , and 91.7% ( 11/12 ) in non-invasive adenomas , respectively .
+Invasive tumors were significantly less expressing TIMP-1 and TIMP-2 ( P < 0.05 ) .
+There was no significant difference for MMP-9 or MMP-2 between invasive and non-invasive groups ( P > 0.05 ) .
+CONCLUSIONS TIMP-1 and TIMP-2 may play a key role in invasive pituitary adenomas to biological behavior .

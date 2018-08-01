@@ -1,0 +1,9 @@
+DNA damage checkpoints in the cell cycle may be important barriers against cancer progression in human cells .
+Fanconi anemia ( FA ) is an inherited DNA instability disorder that is associated with bone marrow failure and a strong predisposition to cancer .
+Although FA cells experience constitutive chromosomal breaks , cell cycle arrest at the G2 DNA damage checkpoint , and an excess of cell death , some patients do become clinically stable , and the mechanisms underlying this , other than spontaneous reversion of the disease-causing mutation , are not well understood .
+Here we have defined a clonal phenotype , termed attenuation , in which FA patients acquire an abrogation of the G2 checkpoint arrest .
+Attenuated cells expressed lower levels of CHK1 ( also known as CHEK1 ) and p53 .
+The attenuation could be recapitulated by modulating the ATR/CHK1 pathway , and CHK1 inhibition protected FA cells from cell death .
+FA patients who expressed the attenuated phenotype had mild bone marrow deficiency and reached adulthood , but several of them eventually developed myelodysplasia or leukemia .
+Better understanding of attenuation might help predict a patient's clinical course and guide choice of treatment .
+Our results also highlight the importance of evaluating the cellular DNA damage checkpoint and repair pathways in cancer therapies in general .

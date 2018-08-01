@@ -1,0 +1,14 @@
+BACKGROUND Dickkopf-related protein 1 ( DKK1 ) has been reported involved in metastasis and invasion in several tumors .
+This study sought to investigate the prognostic value of DKK1 in intrahepatic cholangiocarcinoma ( ICC ) and its role in promoting ICC metastasis .
+METHODS Tissue microarrays of 138 ICC patient samples were employed to detect DKK1 , vascular endothelial growth factor C ( VEGF-C ) , and matrix metalloproteinase 9 ( MMP9 ) expression using immunohistochemistry .
+The prognostic significances were assessed by Kaplan-Meier survival estimates .
+DKK1 expression was measured in an ICC cell line ( HCCC-9810 ) and ICC tissues by immunofluorescence assay , quantitative real-time polymerase chain reaction , and western blot .
+Serum levels of DKK1 from 37 ICC patients were tested by enzyme-linked immunosorbent assay .
+The role of DKK1 in proliferation , migration , invasion , and gene expression regulation was assessed by DKK1 depletion using small interfering RNA .
+RESULTS Multivariate analyses revealed that DKK1 was an unfavorable predictor for overall survival and time to recurrence .
+The prognostic significance was retained in ICC patients with low recurrence risk ( P < .05 ) .
+DKK1 expression was elevated in an ICC cell line , tumor samples , and patient sera .
+High levels of DKK1 in ICC tissues correlated with elevated MMP9 , VEGF-C , and metastasis of hepatic hilar lymph nodes .
+DKK1 depletion caused a decrease in cell migration and invasiveness , and down-regulation of MMP9 and VEGF-C expression .
+CONCLUSIONS DKK1 is a novel prognostic biomarker for ICC , and it enhances tumor cell invasion and promotes lymph node metastasis of ICC through the induction of MMP9 and VEGF-C .
+DKK1 may be a potential therapeutic target for ICC .

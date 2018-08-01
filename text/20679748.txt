@@ -1,0 +1,10 @@
+AIM To compare the value of intravenous contrast-enhanced ultrasonography ( US ) , intravenous contrast-enhanced computed tomography ( CT ) , and magnetic resonance imaging ( MRI ) in the diagnosis of hepatic hemangiomas .
+MATERIAL AND METHODS The study enrolled 48 patients , aged between 20 and 79 years ( 35 [ 72.9% ] women , 13 [ 27.1% ] men ; mean age , 53.5+/-12.855 years ) , who were examined and treated in the Departments of Gastroenterology , Surgery , and Oncology , Hospital of Kaunas University of Medicine , in the year 2007 .
+All patients underwent intravenous contrast-enhanced US , intravenous contrast-enhanced CT , and MRI and were diagnosed with hepatic hemangioma according to the findings of these examinations .
+RESULTS The size of hemangiomas was < or =2.0 cm in 20 cases ( 41.7% ) and >2.0 cm in 28 ( 58.3% ) .
+No association between hepatic hemangioma and patient's age was found ( chi(2)=0.547 , df=2 , P=0.761 ) .
+Nearly one-third of hemangiomas were located in the segment IV of the left hepatic lobe .
+There were a few complicated hemangiomas in the study sample : 2 with calcification and 1 with necrosis .
+The sensitivity of CT in the diagnosis of hepatic hemangioma was 76.92% ; specificity , 33.3% ; positive prognostic value , 83.3% ; and negative prognostic value , 25.0% .
+The sensitivity of intravenous contrast-enhanced US in the diagnosis of hepatic hemangioma was 77.8% ; specificity , 100% ; positive prognostic value , 100% ; and negative prognostic value , 23.1% .
+CONCLUSIONS Intravenous contrast-enhanced US is more specific than intravenous contrast-enhanced CT in the diagnosis of hepatic hemangioma ( P=0.0005 ) and has a higher positive prognostic value ( P=0.001 ) .

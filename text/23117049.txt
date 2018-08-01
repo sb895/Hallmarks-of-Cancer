@@ -1,0 +1,13 @@
+Lung cancer is primarily caused by exposure to tobacco smoke .
+Tobacco smoke contains numerous carcinogens , including polycyclic aromatic hydrocarbons ( PAH ) .
+The most common PAH studied is benzo[a]pyrene ( B[a]P ) .
+B[a]P is metabolically activated through multiple routes , one of which is catalyzed by aldo-keto reductase ( AKR ) to B[a]P-7,8-dione ( BPQ ) .
+BPQ undergoes a futile redox cycle in the presence of NADPH to generate reactive oxygen species ( ROS ) .
+ROS , in turn , damages DNA .
+Studies with a yeast p53 mutagenesis system found that the generation of ROS by PAH o-quinones may contribute to lung carcinogenesis because of similarities between the patterns ( types of mutations ) and spectra ( location of mutations ) and those seen in lung cancer .
+The patterns were dominated by G to T transversions , and the spectra in the experimental system have mutations at lung cancer hotspots .
+To address repair mechanisms that are responsible for BPQ induced damage we observed the effect of mutating two DNA repair genes OGG1 and APE1 ( APN1 in yeast ) and tested them in a yeast reporter system for p53 mutagenesis .
+There was an increase in both the mutant frequency and the number of G:C/T:A transversions in p53 treated with BPQ in ogg1 yeast but not in apn1 yeast .
+Knocking out APN2 increased mutagenesis in the apn1 cells .
+In addition , we did not find a strand bias on p53 treated with BPQ in ogg1 yeast .
+These studies suggest that Ogg1 is involved in repairing the oxidative damage caused by BPQ , Apn1 and Apn2 have redundant functions and that the stand bias seen in lung cancer may not be due to impaired repair of oxidative lesions .

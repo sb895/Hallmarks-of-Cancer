@@ -1,0 +1,8 @@
+BACKGROUND AND AIM The importance of glycolysis in cancer cells is well documented .
+The effects of inhibiting glycolysis using metabolic inhibitors iodoacetate ( IAA ) , an inhibitor of GAPDHase , and 3-bromopyruvate ( 3BP ) , an inhibitor of hexokinase-II , on survival and signaling of pancreatic cancer cells ( Panc-1 ) were investigated .
+MATERIALS AND METHODS Cellular survival was evaluated using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ( MTT ) assay .
+Lactate dehydrogenase ( LDH ) assay was used to analyze the induced necrosis and protein levels were evaluated using Western blot analysis .
+RESULTS The results show that the inhibitors lowered cellular survival and increased cellular necrosis .
+Mitogenic signaling pathways were affected by 3BP but not by IAA .
+CONCLUSION We conclude that there may be a cross-talk between signaling pathways and glycolysis in regulating pancreatic cancer cell survival and signaling .
+Thus , a combination of agents that inhibit both energy production and cell signaling may provide a novel and effective approach to target pancreatic cancer effectively .

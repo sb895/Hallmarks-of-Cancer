@@ -1,0 +1,9 @@
+Senescence is a cellular response preventing tumorigenesis .
+The Ras oncogene is frequently activated or mutated in human cancers , but Ras activation is insufficient to transform primary cells .
+Ina search for cooperating oncogenes , we identify the lysine demethylase JMJD2A/KDM4A .
+We show that JMJD2A functions as a negative regulator of Ras-induced senescence and collaborates with oncogenic Ras to promote cellular transformation by negatively regulating the p53 pathway .
+We find CHD5 , a known tumor suppressor regulating p53 activity , as a target of JMJD2A .
+The expression of JMJD2A inhibits Ras-mediated CHD5 induction leading to a reduced activity of the p53 pathway .
+In addition , we show that JMJD2A is overexpressed inmouse and human lung cancers .
+Depletion of JMJD2A in the human lung cancer cell line A549 bearing an activated K-Ras allele triggers senescence .
+We propose that JMJD2A is an oncogene that represents a target for Ras-expressing tumors .

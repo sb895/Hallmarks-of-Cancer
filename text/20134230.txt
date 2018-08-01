@@ -1,0 +1,8 @@
+The contribution of a type II restriction-modification system ( R-M system ) to genome integrity and cell viability was investigated .
+We established experimental conditions which enabled the achievement of hemimethylated and unmethylated states for the specific bases of the recognition sequences of the host's DNA .
+To achieve this , we constructed the MboII R-M system containing only one ( i.e .
+M2.MboII ) out of two functional MboII methyltransferases found in Moraxella bovis .
+Using the incomplete R-M system we were able to perturb the balance between methylation and restriction in an inducible manner .
+We demonstrate that upon the SOS-induced DNA repair in the mitomycin C treated cells , restriction significantly reduces cell viability .
+Similar results for the well-studied wild type EcoRI R-M system , expressed constitutively in Escherichia coli , were obtained .
+Our data provide further insights into the benefits and disadvantages of maintaining of a type II R-M system , highlighting its impact on host cell fitness .

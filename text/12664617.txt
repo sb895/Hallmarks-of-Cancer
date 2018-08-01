@@ -1,0 +1,10 @@
+Recent epidemiological and experimental investigations suggest a close relationship between cyclooxygenase ( COX ) and pathogenesis of colorectal cancer .
+There are two isoforms , COX-1 and COX-2 , which differ in physiological functions and distribution .
+This study is to investigate the possible roles of both isoforms in the proliferation of colon carcinoma cells .
+A human colon carcinoma cell line , COLO 320DM , was transfected with an eukaryotic expression vector ( pEF-BOS ) carrying cDNA of either COX-1 or COX-2 .
+Both COX-1 and COX-2-expressing cells exhibited a similar enzyme activity , 8-10 nmol/10 min/mg of protein .
+Growth rates of both COX-expressing cells were increased by about 2 fold as compared with mock-transfected cells .
+The stimulated growth of the COX-expressing cells was confirmed by the increased DNA synthesis as assessed by [ 3H]thymidine incorporation .
+Furthermore , expression of epidermal growth factor receptor ( EGFR ) was markedly increased in the COX-expressing cells as examined by reverse transcriptase-polymerase chain reaction ( RT-PCR ) .
+A COX inhibitor , indomethacin , suppressed the stimulated growth , increased DNA synthesis and induction of epidermal growth factor receptor in the COX-1 and COX-2-transfected cells .
+These results suggest that not only COX-2 but COX-1 is involved in the proliferation of human colon carcinoma cells through the induction of EGFR .

@@ -1,0 +1,12 @@
+Prostate cancer is the most common cancer in men in Europe and the United States , and the third leading cause of death from cancer in Europe .
+Survival of prostate cancer cells is dependent on the activation of androgen receptors ( AR ) , that are overexpressed in this tumor .
+Furthermore , of prostate cancer patients that respond to first-line androgen deprivation therapy ( ADT ) undergo rapid progression .
+This condition is defined as castration-resistant prostate cancer ( CRPC ) .
+Docetaxel-based regimens significantly improve overall survival ( OS ) in patients with CRPC and represent the only treatment strategy approved by the Food and Drug Administration ( FDA ) .
+Recently , abiraterone ( second hormonal therapy ) and cabazitaxel ( new taxane ) have been shown to improve survival in patients with CRPC who progressed following docetaxel-based chemotherapy .
+Vaccine therapy has also been demonstrated to improve OS in patients with asymptomatic or minimally symptomatic metastatic CRPC .
+Additional therapeutic targets have been analyzed in prostate cancer , including apoptosis , angiogenic receptors , vitamin D and Src pathways .
+Several phase II studies are ongoing .
+The high frequency of prostate cancer-related metastatic bone disease has led to consider this pathway as a therapeutic target .
+To this end , several bone-targeted agents have been investigated , most notably zoledronic acid , which is highly effective at stabilizing the bone and preventing skeletal complications .
+More recently , a nuclear factor-β ligand ( RANKL ) inhibitor , denosumab , has been developed for the treatment of bone metastases .

@@ -1,0 +1,11 @@
+Despite an increasing incidence of human breast cancer , its etiology remains unknown .
+Since some environmental chemicals are stored in human breast fat and are rodent mammary carcinogens , determining the genotoxic potential of environmental agents in this key target tissue is important .
+An assay was developed for detecting genotoxic activity , as unscheduled DNA synthesis ( UDS ) , induced by chemicals and UV radiation in early passage cultures of normal human mammary epithelial cells ( HMEC ) derived from 5 different women .
+In order to measure UDS in culture , reduction in the percentage of cells in S-phase was accomplished either by depriving the cells of epidermal growth factor and bovine pituitary extract or by contact inhibition of growth .
+Cultures were incubated with test chemicals for 24 h in the presence of [ 3H]-thymidine .
+UDS was quantitated autoradiographically as net grains per nucleus ( nuclear grains minus cytoplasmic background , population average ) with > or = 6 net nuclear grains considered in repair for any individual cell .
+A positive response was observed with UV radiation , benzo(a)-pyrene , aflatoxin B1 , ethylmethanesulfonate , 1,6-dinitropyrene , 2-acetylaminofluorene , and tobacco smoke condensate but not 7,12-dimethylbenz(a)anthracene or 2,3,7,8-tetrachlorodibenzo-p-dioxin .
+These results demonstrate that HMEC from all 5 women examined have the ability to metabolize a variety of environmental chemicals to DNA-reactive forms .
+Furthermore , some chemicals known either to cause mammary cancer in rodents or to be contaminants in human breast tissue are genotoxic in HMEC .
+A positive response in passage 9 cultures was observed only with direct acting agents , suggesting that HMEC may lose their metabolic capabilities in longer-term cultures .
+The HMEC UDS assay may be used to address the role of environmental agents in human breast cancer by determining whether chemicals are DNA reactive or metabolized to DNA reactive species in this critical target tissue .

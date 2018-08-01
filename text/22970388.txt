@@ -1,0 +1,14 @@
+Background .
+An important goal of personalized cancer therapy is to tailor specific therapies to the mutational profile of individual patients .
+However , whole genome sequencing studies have shown that the mutational profiles of cancers evolve over time and often differ between primary and metastatic sites .
+Activating point mutations in the PIK3CA gene are common in primary breast cancer tumors , but their presence in breast cancer bone metastases has not been assessed previously .
+Results .
+Fourteen patients with breast cancer bone metastases were biopsied by three methods : CT-guided bone biopsies ; bone marrow trephine biopsies ; and bone marrow aspiration .
+Samples that were positive for cancer cells were obtained from six patients .
+Three of these patients had detectable PIK3CA mutations in bone marrow cancer cells .
+Primary tumor samples were available for four of the six patients assessed for PIK3CA status in their bone metastases .
+For each of these , the PIK3CA mutation status was the same in the primary and metastatic sites .
+Conclusions .
+PIK3CA mutations occur frequently in breast cancer bone metastases .
+The PIK3CA mutation status in bone metastases samples appears to reflect the PIK3CA mutation status in the primary tumour .
+Breast cancer patients with bone metastases may be candidates for treatment with selective PIK3CA inhibitors .

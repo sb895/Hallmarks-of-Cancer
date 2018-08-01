@@ -1,0 +1,12 @@
+Liver metastasis from colorectal cancer is a leading cause of cancer mortality .
+Myeloid cells play pivotal roles in the metastatic process , but their prometastatic functions in liver metastasis remain incompletely understood .
+To investigate their role , we simulated liver metastasis in C57BL/6 mice through intrasplenic inoculation of MC38 colon carcinoma cells .
+Among the heterogeneous myeloid infiltrate , we identified a distinct population of CD11b/Gr1(mid) cells different from other myeloid populations previously associated with liver metastasis .
+These cells increased in number dramatically during establishment of liver metastases and were recruited from bone marrow by tumor-derived CCL2 .
+Liver metastasis of Lewis lung carcinoma cells followed this pattern but this mechanism is not universal as liver colonization by B16F1 melanoma cells did not recruit similar subsets .
+Inhibition of CCL2 signaling and absence of its cognate receptor CCR2 reduced CD11b/Gr1(mid) recruitment and decreased tumor burden .
+Depletion of the CD11b/Gr1(mid) subset in a transgenic CD11b-diphtheria toxin receptor mouse model markedly reduced tumor cell proliferation .
+There was no evidence for involvement of an adaptive immune response in the prometastatic effects of CD11b/Gr1(mid) cells .
+Additionally , an analogous myeloid subset was found in liver metastases of some colorectal cancer patients .
+Conclusion : Collectively , our findings highlight the importance of myeloid cells-in this case a selective CD11b/Gr1(mid) subset-in sustaining development of colorectal cancer liver metastasis and identify a potential target for antimetastatic therapy .
+( HEPATOLOGY 2012 ) .

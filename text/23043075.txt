@@ -1,0 +1,9 @@
+High-altitude long-term hypoxia ( LTH ) is known to induce pulmonary arterial smooth muscle cell ( PASMC ) proliferation in the fetus , leading to pulmonary arterial remodeling and pulmonary hypertension of the newborn .
+The mechanisms underlying these conditions remain enigmatic however .
+We hypothesized that epigenetic alterations in fetal PASMC induced by high-altitude LTH may play an important role in modulating their proliferation during pulmonary arterial remodeling .
+To test this hypothesis , we have analyzed epigenetic alterations in the pulmonary vasculature of fetal lambs exposed to high-altitude LTH [ pregnant ewes were kept at 3,801 m altitude from to 145 days gestation ] or to sea level atmosphere .
+Intrapulmonary arteries were isolated , and fetal PASMC were cultured from both control and LTH fetuses .
+Compared with controls , in LTH fetus pulmonary arteries measurements of histone acetylation and global DNA methylation demonstrated reduced levels of global histone 4 acetylation and DNA methylation , accompanied by the loss of the cyclin-dependent kinase inhibitor p21 .
+Treatment of LTH fetal PASMCs with histone deacetylase ( HDAC ) inhibitor trichostatin A decreased their proliferation rate , in part because of altered expression of p21 at both RNA and protein level .
+In PASMC of LTH fetuses , HDAC inhibition also decreased PDGF-induced cell migration and ERK1/2 activation and modulated global DNA methylation .
+On the basis of these observations , we propose that epigenetic alterations ( reduced histone acetylation and DNA methylation ) caused by chronic hypoxia leads to fetal PASMC proliferation and vessel remodeling associated with vascular proliferative disease and that this process is regulated by p21 .

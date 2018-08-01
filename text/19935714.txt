@@ -1,0 +1,6 @@
+Inhibition of Notch signaling is effective in inhibiting colon tumorigenesis , but targeting specific components of the pathway may provide more effective strategies .
+Here we show that the expression of Jagged1 , a ligand for canonical Notch signaling , was restricted to enteroendocrine cells or undetectable in the mucosa of the human small and large intestine , respectively .
+In contrast , increased expression characterized half of human colon tumors , although not all tumors with elevated Wnt signaling displayed elevated Jagged1 .
+Increased Jagged1 was also present in intestinal tumors of Apc(1638N/+) and Apc(Min/+) mice , but to a higher level and more frequently in the former , and in 90% of mouse tumors Notch signaling was elevated when Jagged1 was elevated .
+In the human HT29Cl16E colonic carcinoma cell line , induction of goblet cell differentiation by contact inhibition of growth depended on the loss of Jagged1-mediated Notch activation , with signaling through Notch1 and Notch2 acting redundantly .
+Therefore , targeting of Jagged1 could be effective in downregulating Notch signaling in a subset of tumors , but may avoid the limiting gastrointestinal toxicity caused by pharmacological inhibition of Notch signaling .

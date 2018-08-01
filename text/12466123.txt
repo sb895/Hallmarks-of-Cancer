@@ -1,0 +1,11 @@
+Prostaglandin E(2) ( PGE(2) ) receptor subtype EP(2) , which is coupled to cAMP metabolism , is known to mediate proliferation of primary human keratinocytes in vitro .
+The effect of gain or loss of EP(2) receptors in immortalized human keratinocytes ( HaCat cells ) was examined .
+HaCat keratinocytes were transfected with sense or anti-sense constructs of the EP(2) receptor .
+Loss or gain of EP(2) expression was documented by immunoblot and associated changes in agonist-stimulated cAMP production .
+Loss or gain of EP(2) receptor expression correlated with alterations in plating efficiencies but with modest affects on growth .
+When cell lines were studied in an organ culture model , anti-sense clones were highly invasive compared with vector controls and sense transfectants .
+A marked increase in prostaglandin production is commonly seen in malignant lesions .
+Because prostaglandin receptors are known to undergo ligand-induced receptor down-regulation , we sought to determine whether EP(2) receptor down-regulation results in increased invasiveness .
+In vector controls , invasiveness was reproduced by ligand-dependent EP(2) receptor down-regulation as assessed by immunohistochemistry .
+In addition , loss of EP(2) receptor expression was associated with decreased paxillin expression , a critical component of focal adhesion assembly .
+Thus , down-regulation of EP(2) receptors represents a potential mechanism for neoplastic progression to an invasive phenotype .

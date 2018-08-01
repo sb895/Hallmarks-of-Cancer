@@ -1,0 +1,7 @@
+BACKGROUND Current treatments have a modest impact on survival of pancreatic cancer patients and this study investigates the interaction between sorafenib and gemcitabine and the molecular pharmacodynamics of this combination .
+METHODS The pancreatic cancer cells were treated with sorafenib and gemcitabine , alone or in combination .
+The effects of treatments were evaluated on cell proliferation , cell cycle , apoptosis , phosphorylation of Akt , c-Kit , ERK and VEGFR2 , and expression of genes related to drug activity .
+RESULTS Gemcitabine and sorafenib synergistically interacted on the inhibition of cell proliferation , and assessment of apoptosis demonstrated that drug associations increased the apoptotic index .
+Sorafenib reduced c-Kit , ERK and VEGFR2 activation and on the other hand , gemcitabine inhibited Akt phosphorylation .
+Moreover , quantitative PCR showed that sorafenib modulated the expression of genes related to gemcitabine activity , while gemcitabine induced the expression of RKIP .
+CONCLUSION These data demonstrate that gemcitabine and sorafenib combination displays a synergistic effect in pancreatic cancer cells .

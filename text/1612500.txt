@@ -1,0 +1,14 @@
+Considerable debate centers on the optimal treatment for vulvar melanoma , as well as those clinicopathological factors influencing prognosis .
+We reviewed 80 patients with vulvar melanoma seen between 1949 and 1990 .
+Primary tumors were assessed according to Chung ( 47 patients ) and Breslow ( 65 patients ) microstaging systems .
+Fifty-nine patients ( 76% ) underwent radical vulvectomy , ten patients ( 13% ) had a partial vulvectomy , and nine patients ( 12% ) had a wide local excision .
+Fifty-six also underwent inguinal node dissection .
+Median follow-up was 193 months .
+Median survival was 63 months .
+Ten-year survival by Chung level was as follows : I 100% ; II , 81% ; III , 87% ; IV , 11% ; V , 33% .
+Ten-year survival by tumor thickness was as follows : 0.75 mm , 48% ; 0.75-1.5 mm , 68% ; 1.51-3.0 mm , 44% ; greater than 3.0 mm , 22% .
+Increased depth of invasion was associated with increased incidence of inguinal node metastasis .
+Cox regression analysis demonstrated prognostic significance for tumor thickness ( P less than 0.001 ) , inguinal node metastasis ( P less than 0.001 ) , and older age at diagnosis ( P less than 0.001 ) .
+Radical vulvectomy did not seem to improve survival over less radical procedures .
+Based on this experience , we recommend radical local excision for patients with malignant melanoma of the vulva .
+Patients who have more than a superficially invasive melanoma should also have inguinal lymph node dissection .

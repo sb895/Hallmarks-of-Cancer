@@ -1,0 +1,9 @@
+XRCC4 , in association with DNA ligase IV , is thought to play a critical role in the ligation of two DNA ends in DNA double-strand break ( DSB ) repair through non-homologous end-joining ( NHEJ ) pathway .
+In the present study , we captured radiation-induced chromatin-recruitment of XRCC4 by biochemical fractionation using detergent Nonidet P-40 .
+A subpopulation of XRCC4 changed into a form that is resistant to the extraction with 0.5% Nonidet P-40-containing buffer after irradiation .
+This form of XRCC4 was liberated by micrococcal nuclease treatment , indicating that it had been tethered to chromatin DNA .
+This chromatin-recruitment of XRCC4 could be seen immediately ( < 0.1 hr ) after irradiation and remained up to 4 hr after 20 Gy irradiation .
+It was seen even after irradiation of small doses , i.e. , 2 Gy , but the residence of XRCC4 on chromatin was very transient after 2 Gy irradiation , returning to near normal level in 0.2-0.5 hr after irradiation .
+The chromatin-bound XRCC4 represented only approximately 1% of total XRCC4 molecules even after 20 Gy irradiation and the quantitative analysis using purified protein as the reference suggested that only a few XRCC4-DNA ligase IV complexes were recruited to each DNA end .
+We further show that the chromatin-recruitment of XRCC4 was not attenuated by wortmannin , an inhibitor of DNA-PK , or siRNA-mediated knockdown of the DNA-PK catalytic subunit ( DNA-PKcs ) , indicating that this process does not require DNA-PKcs .
+These results would provide us with useful experimental tools and important insights to understand the DNA repair process through NHEJ pathway .

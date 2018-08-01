@@ -1,0 +1,15 @@
+We have recently proposed a new model of cancer metabolism to explain the role of aerobic glycolysis and L-lactate production in fueling tumor growth and metastasis .
+In this model , cancer cells secrete hydrogen peroxide ( H2O2 ) , initiating oxidative stress and aerobic glycolysis in the tumor stroma .
+This , in turn , drives L-lactate secretion from cancer-associated fibroblasts .
+Secreted L-lactate then fuels oxidative mitochondrial metabolism ( OXPHOS ) in epithelial cancer cells , by acting as a paracrine onco-metabolite .
+We have previously termed this type of two-compartment tumor metabolism the " Reverse Warburg Effect, " as aerobic glycolysis takes place in stromal fibroblasts , rather than epithelial cancer cells .
+Here , we used MCT4 immuno-staining of human breast cancer tissue microarrays ( TMAs ; > 180 triple-negative patients ) to directly assess the prognostic value of the " Reverse Warburg Effect. "
+MCT4 expression is a functional marker of hypoxia , oxidative stress , aerobic glycolysis , and L-lactate efflux .
+Remarkably , high stromal MCT4 levels ( score = 2 ) were specifically associated with decreased overall survival ( < 18% survival at 10 y post-diagnosis ) .
+In contrast , patients with absent stromal MCT4 expression ( score = 0 ) , had 10-y survival rates of ( p-value < 10 ( -32 ) ) .
+High stromal levels of MCT4 were strictly correlated with a loss of stromal Cav-1 ( p-value < 10 ( -14 ) ) , a known marker of early tumor recurrence and metastasis .
+In fact , the combined use of stromal Cav-1 and stromal MCT4 allowed us to more precisely identify high-risk triple-negative breast cancer patients , consistent with the goal of individualized risk-assessment and personalized cancer treatment .
+However , epithelial MCT4 staining had no prognostic value , indicating that the " conventional " Warburg effect does not predict clinical outcome .
+Thus , the " Reverse Warburg Effect " or " parasitic " energy-transfer is a key determinant of poor overall patient survival .
+As MCT4 is a druggable-target , MCT4 inhibitors should be developed for the treatment of aggressive breast cancers , and possibly other types of human cancers .
+Similarly , we discuss how stromal MCT4 could be used as a biomarker for identifying high-risk cancer patients that could likely benefit from treatment with FDA-approved drugs or existing MCT-inhibitors ( such as , AR-C155858 , AR-C117977 , and AZD-3965 ) .

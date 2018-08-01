@@ -1,0 +1,15 @@
+Epithelial-mesenchymal transition ( EMT ) is a critical process providing tumor cells with the ability to migrate and escape from the primary tumor and metastasize to distant sites .
+Recently , EMT was shown to be associated with the cancer stem cell ( CSC ) phenotype in breast cancer .
+Snail is a transcription factor that mediates EMT in a number of tumor types , including colorectal cancer ( CRC ) .
+Our study was done to determine the role of Snail in mediating EMT and CSC function in CRC .
+Human CRC specimens were stained for Snail expression , and human CRC cell lines were transduced with a retroviral Snail construct or vector control .
+Cell proliferation and chemosensitivity to oxaliplatin of the infected cells were determined by the MTT ( colorimetric 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ) assay .
+Migration and invasion were determined in vitro using modified Boyden chamber assays .
+EMT and putative CSC markers were analyzed using Western blotting .
+Intravenous injection of tumor cells was done to evaluate their metastatic potential in mice .
+Snail was overexpressed in human CRC surgical specimens .
+This overexpression induced EMT and a CSC-like phenotype in human CRC cells and enhanced cell migration and invasion ( P < 0.002 vs. control ) .
+Snail overexpression also led to an increase in metastasis formation in vivo ( P < 0.002 vs. control ) .
+Furthermore , the Snail-overexpressing CRC cells were more chemoresistant to oxaliplatin than control cells .
+Increased Snail expression induces EMT and the CSC-like phenotype in CRC cells , which enhance cancer cell invasion and chemoresistance .
+Thus , Snail is a potential therapeutic target in metastatic CRC .

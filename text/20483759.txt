@@ -1,0 +1,9 @@
+Pam3CSK4 , a synthetic TLR2 ligand , has been shown to expand CD4+ regulatory T cells ( Treg cells ) .
+Less is known about the function of CD8+ Treg cells than about the function of CD4+ Treg cells generated during allergen-specific immunotherapy ( IT ) .
+This study investigated whether Dermatophagoides pteronyssinus-specific IT could expand the CD8+CD25+Foxp3+ Treg population and whether Pam3CSK4 could enhance the Treg population .
+PBMCs were isolated from healthy control subjects and from mite-sensitive asthmatic patients during IT at three specific times : before IT and 6 mo and 1 y after the maximum-tolerated dose .
+This study was performed without a placebo-controlled group .
+D. pteronyssinus-specific IT induced a significant increase in CD8+Foxp3+ Treg cells expressing intracellular IL-10 and granzyme B. Costimulation of PBMCs with Pam3CSK4 and D. pteronyssinus 2 expanded the CD8+CD25+Foxp3+ Treg population and inhibited D. pteronyssinus 2-induced IL-4 production .
+Pam3CSK4-treated CD8+CD25+ Treg cells directly suppressed CD4+ T cell proliferation by cell-contact inhibition .
+TUNEL revealed that CD8+CD25+ Treg cells , but not CD4+CD25+ Treg cells , directly induced CD4+CD45ROhi+ apoptosis .
+Our results provide direct evidence that Pam3CSK4 induces an immunomodulatory effect by inducing CD8+ Treg cells ; therefore , it may be a good adjuvant for the treatment of mite allergies .

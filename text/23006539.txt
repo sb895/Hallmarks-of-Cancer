@@ -1,0 +1,8 @@
+The suppression of MAPK and oxidative stress could be an important anti-inflammatory mechanism .
+Fucoidan regulates MAPK activity in several cell lines .
+However , the mechanism for the anti-inflammatory and oxidative stress effect of low molecular weight fucoidan ( LMWF ) is poorly understood in RAW264.7 cells .
+The objective of this study was to examine the critical role of LMWF during LPS-induced inflammation in RAW264.7 cells .
+To determine the potential role of LMWF , we analysed pro-inflammatory cytokine , transcription factor , inflammation-related and oxidative stress related protein expression in vitro during LPS-induced inflammation in RAW264.7 cells .
+In this study , we demonstrated the anti-inflammatory effects of LMWF on LPS-induced inflammation in macrophages through the regulation of signalling pathways , including its effect on the attenuation of inflammatory cytokines , such as IL-1β , IL-1 and TNF-α , and the degradation of phosphorylated p38 MAPK , ERK1/2 and JNK .
+This study also demonstrates that LMWF might block NO as well as the expression of reactive oxygen species ( ROS ) , which subsequently inhibits the iNOS and COX-2 expression induced by LPS .
+Based on these findings , we suggest that LMWF might have great potential as an external pathogen prevention and intervention agent for inflammatory diseases .

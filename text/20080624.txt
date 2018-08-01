@@ -1,0 +1,8 @@
+Ataxia-telangiectasia mutated ( ATM ) is a high molecular weight protein serine/threonine kinase that plays a central role in the maintenance of genomic integrity by activating cell cycle checkpoints and promoting repair of DNA double-strand breaks .
+Little is known about the regulatory mechanisms for ATM expression itself .
+MicroRNAs are naturally existing regulators that modulate gene expression in a sequence-specific manner .
+Here , we show that a human microRNA , miR-421 , suppresses ATM expression by targeting the 3'-untranslated region ( 3'UTR ) of ATM transcripts .
+Ectopic expression of miR-421 resulted in S-phase cell cycle checkpoint changes and an increased sensitivity to ionizing radiation , creating a cellular phenotype similar to that of cells derived from ataxia-telangiectasia ( A-T ) patients .
+Blocking the interaction between miR-421 and ATM 3'UTR with an antisense morpholino oligonucleotide rescued the defective phenotype caused by miR-421 overexpression , indicating that ATM mediates the effect of miR-421 on cell cycle checkpoint and radiosensitivity .
+Overexpression of the N-Myc transcription factor , an oncogene frequently amplified in neuroblastoma , induced miR-421 expression , which , in turn , down-regulated ATM expression , establishing a linear signaling pathway that may contribute to N-Myc-induced tumorigenesis in neuroblastoma .
+Taken together , our findings implicate a previously undescribed regulatory mechanism for ATM expression and ATM-dependent DNA damage response and provide several potential targets for treating neuroblastoma and perhaps A-T .

@@ -1,0 +1,9 @@
+HGF signaling induces epithelial cells to disassemble cadherin-based adhesion and increase cell motility and invasion , a process termed epithelial-mesenchymal transition ( EMT ) .
+EMT plays a major role in cancer metastasis , allowing individual cells to detach from the primary tumor , invade local tissue , and colonize distant tissues with new tumors .
+While invasion of vascular and lymphatic networks is the predominant route of metastasis , nerves also can act as networks for dissemination of cancer cell to distant sites in a process termed perineual invasion ( PNI ) .
+Signaling between nerves and invasive cancer cells remains poorly understood , as does cellular decision making that selects the specific route of invasion .
+Here we examine how HGF signaling contributes to PNI using reductionist culture model systems .
+We find that TGFβ , produced by PC12 cells , enhances scattering in response to HGF stimulation , increasing both cell-cell junction disassembly and cell migration .
+Further , gradients of TGFβ induce migratory mesenchymal cells to undergo chemotaxis towards the source of TGFβ .
+Interestingly , VEGF suppresses TGFβ-induced enhancement of scattering .
+These results have broad implications for how combinatorial growth factor signaling contributes to cancer metastasis , suggesting that VEGF and TGFβ might modulate HGF signaling to influence route selection during cancer progression .

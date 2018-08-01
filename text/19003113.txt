@@ -1,0 +1,8 @@
+An aqueous extract of Kefir , fermented milk originally produced in the Caucasus mountains , suppressed morphological changes of human melanoma HMV-1 and SK-MEL cells and human normal fibroblastTIG-1 cells caused by UVC-irradiation , suggesting that UV damage can be suppressed by the Kefir extract .
+The addition of the Kefir extract after UVC-irradiation of HVM-1 cells resulted in a remarkable decrease in intracellular reactive oxygen species ( ROS ) which had been increased by UVC irradiation .
+The Kefir extract also stimulated unscheduled DNA synthesis and suppressed UVC-induced apoptosis of HMV-1 cells .
+A colony formation assay revealed that the Kefir extract rescued HMV-1 cells from cell death caused by UVC irradiation .
+The Kefir extract , as well as methyl methanethiosulfonate which is known to enhance the nucleotide excision repair ( NER ) activity , exhibited strong thymine dimer repair-enhancing activity .
+Epigalocatechin exhibited a weak NER activity but vitamins A , C , and E and catechin showed no NER activity .
+The thymine dimer repair-enhancing factors in the Kefir extract were heat-stable and assumed to be molecules with a molecular weight of less than 5000 .
+The treatment of HMV-1 cells with the Kefir extract during or before UVC- irradiation also prevented the generation of ROS and thymine dimmer , and suppressed the apoptosis of HMV-1 cells , suggesting that application of Kefir can prevent UV damage .

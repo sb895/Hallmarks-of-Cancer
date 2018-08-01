@@ -1,0 +1,6 @@
+Maintaining the integrity of the cell cycle is critical for ensuring that cells only undergo DNA replication and proliferation under controlled conditions in response to discrete stimuli .
+One mechanism by which the fidelity of this process is guaranteed is through the activation of cell cycle checkpoints .
+The mitotic spindle checkpoint , which is regulated by Aurora B kinase , ensures proper kinetochore attachment to chromosomes leading to equal distribution of chromosomes to daughter cells .
+We demonstrated that the mitogen-activated protein kinase ( MAPK ) cascade regulates mitotic progression and the spindle checkpoint .
+As demonstrated by immunofluorescence at kinetochores , depletion of Raf Kinase Inhibitory Protein ( RKIP ) , an inhibitor of Raf/MEK/ERK signaling , causes an increase in MAPK activity that inhibits Aurora B kinase activity .
+By monitoring mitotic index and transit time from nuclear envelope breakdown to anaphase , we demonstrated that RKIP depletion leads to a defective spindle checkpoint and genomic instability , particularly in response to drugs that disrupt microtubule function .

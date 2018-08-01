@@ -1,0 +1,4 @@
+Liquid chromatography coupled to tandem mass spectrometry has been used for the detection and the structural characterization of T-rich model oligonucleotides covalently modified by estradiol-2,3-quinone .
+After separation by gradient elution , adducts were analyzed by negative electrospray mass spectrometry , enabling to evidence and localize the modifications in the oligonucleotide sequence .
+Modifications by one molecule of estrogen were evidenced on purines ( A , G ) whereas no reaction was observed on pyrimidic bases ( T ) .
+Isomeric adducts were differentiated using tandem mass spectrometry , and energy resolved mass spectrometry allowed to underline differences in the behavior of the adducts towards collisional excitation into an ion trap device .

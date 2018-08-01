@@ -1,0 +1,11 @@
+BACKGROUND Cisplatin chemotherapy often causes acute kidney injury in cancer patients .
+The causative mechanisms of cisplatin-induced acute kidney injury include renal inflammation , activation of p53 tumour suppressor protein and tubular apoptosis .
+Luteolin , a flavone found in medicinal herbs and plants , has been reported to exhibit anti-inflammatory , antioxidant and anticarcinogenic activities .
+The purpose of this study was to investigate the anti-apoptotic effect of luteolin on cisplatin-induced acute kidney injury and the molecular mechanism .
+METHODS C57BL/6 mice were treated with cisplatin ( 20 mg/kg ) with or without treatment with luteolin ( 50 mg/kg for 3 days ) .
+Renal function , histological changes , degree of oxidative stress and tubular apoptosis were examined .
+The effects of luteolin on cisplatin-induced expression of renal p53 , PUMA-α and Bcl-2 family proteins were evaluated .
+RESULTS Treatment of mice with cisplatin resulted in renal damage , showing an increase in blood urea nitrogen and creatinine levels , tubular damage , oxidative stress and apoptosis .
+Treatment of cisplatin-treated mice with luteolin significantly improved renal dysfunction , reducing tubular cell damage , oxidative stress and apoptosis .
+Examination of molecules involving apoptosis of the kidney revealed that treatment of cisplatin increased the levels of p53 and its phosphorylation , PUMA-α , Bax and caspase-3 activity that were significantly decreased by treatment with luteolin .
+CONCLUSION These results indicate that cisplatin induces acute kidney injury by regulation of p53-dependent renal tubular apoptosis and that luteolin ameliorates the cisplatin-mediated nephrotoxicity through down-regulation of p53-dependent apoptotic pathway in the kidney .

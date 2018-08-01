@@ -1,0 +1,9 @@
+PURPOSE Current antibody-based immunotherapeutic approaches under evaluation for breast carcinoma are limited in target scope .
+For example , administration of the human epidermal growth factor receptor ( EGFR ) antibody , alone or in combination with a chemotherapeutic drug , is thought to primarily inhibit tumor cell proliferation .
+The aim of this study was to assess the effects of a combined blockade designed to inhibit tumor growth by inhibition of proliferation rate and the proinflammatory effects of interleukin ( IL ) 8 .
+EXPERIMENTAL DESIGN A human breast carcinoma cell line that produces high levels of IL-8 was injected s.c. into severe combined immunodeficient mice .
+IL-8 has been reported to augment the progression of some human tumors ; thus , we used a human IL-8 antibody , ABXIL8 , in combination with anti-EGFR , ABXEGFR , to inhibit the metastasis of MDA231 tumors .
+RESULTS Whereas anti-IL-8 alone had no appreciable antimetastatic effect , the combination of ABXIL8 significantly enhanced the antitumor effects of ABXEGFR , resulting in greater survival of SCID tumor-bearing mice .
+This effect on survival was correlated with decreased metastatic spread and decreased tumor size in mice receiving both antibodies .
+Intriguingly , in vitro studies indicate that this antibody combination markedly inhibited matrix metalloproteinase activity associated with MDA-231 cells to a greater degree than either antibody alone .
+CONCLUSION Combined administration of these two human antibodies using growth factor blockade in conjunction with chemokine blockade may thus provide a more effective approach for treatment of metastatic human breast carcinoma .

@@ -1,0 +1,9 @@
+Contradictory results have been reported regarding the association between vascularity ( used as an index of angiogenesis ) and thrombospondin-1 ( TSP-1 ) in human tumours .
+In previous studies , the reported association was based on the estimated average TSP-1 value per tumour , with a sufficient number of specimens collectively analysed per tumour type .
+Given the extent of intra-tumour heterogeneity , we determined the association between TSP-1 and vascularity within individual specimens , based on the average values of TSP-1 and vascularity in 10-20 pre-selected areas per tumour .
+Cells expressing TSP-1 mRNA were visualised by in situ hybridisation and quantified by point counting .
+Vascularity was quantified by point counting and vessel density of von Willebrand Factor-positive vessels .
+In 10 ductal breast carcinomas , a direct correlation between TSP-1 and vascularity was found in 4 tumours , no correlation in 3 and an inverse correlation in 3 .
+The effect of TSP-1 on endothelial cell migration in vitro was assessed in the Boyden chamber assay .
+TSP-1 stimulated cell migration at low concentrations ( 0.1-10 microg/ml ) and was inhibitory at high concentrations ( 25-100 microg/ml ) .
+These results suggest that TSP-1 may elicit a concentration-dependent , bi-phasic , effect on angiogenesis .

@@ -1,0 +1,14 @@
+PURPOSE Osteosarcoma is an aggressive primary bone cancer characterized by expression of platelet-derived growth factor ( PDGF ) and its cognate receptor .
+Coexpression of the growth factor and receptor suggests their role in autocrine or paracrine growth mechanisms .
+It has been reported previously that STI571 has specific activity in inhibiting select tyrosine kinase receptors , including PDGF and c-Kit .
+Osteosarcomas express low levels of c-Kit but abundant levels of PDGF receptor ( PDGFR ) .
+EXPERIMENTAL DESIGN To investigate the potential of STI571 as therapy for osteosarcoma , we studied its effects on PDGF-mediated cell growth in vitro and in an in vivo mouse model .
+RESULTS PDGF acted as a potent mitogen in a dose-dependent manner in two osteosarcoma cell lines .
+STI571 ( 1.0 micro M ) inhibited both PDGFR-alpha and PDGFR-beta phosphorylation and the downstream phosphorylation targets extracellular signal-regulated kinase and Akt .
+STI571 also inhibited PDGF-mediated growth and induced apoptosis in vitro as determined by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide assay and terminal deoxynucleotidyl transferase-mediated nick end labeling staining .
+To study the effect of STI571 alone or in combination with Taxol in an in vivo model , an osteosarcoma cell line ( KRIB ) was transplanted into the tibia of athymic nude mice .
+Mice were treated with STI571 ( 50 mg/kg p.o. q M-F ) , Taxol ( 8 mg/kg i.p. weekly ) , or STI571 plus Taxol for 6 weeks .
+There was no significant difference in tumor size between treatment and control mice .
+Aberrant signaling pathways downstream of the PDGFR in the v-Ki-ras oncogene-transformed KRIB cell line may in part explain this finding .
+CONCLUSIONS Our data demonstrate that STI571 inhibits PDGF-mediated growth and leads to apoptosis of osteosarcoma cells in vitro by selective inhibition of the PDGFR tyrosine kinase .
+The effectiveness of STI571 in our studies suggests targeting of PDGFRs as a novel treatment for osteosarcoma .

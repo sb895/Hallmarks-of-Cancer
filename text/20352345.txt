@@ -1,0 +1,9 @@
+We have investigated the possibility that photoexcited titanium dioxide ( TiO2 ) could inhibit the growth of malignant cells .
+We studied the anti-glioma effects of nano-TiO2 excited with ultraviolet A ( UVA ) irradiation both in vitro and in vivo .
+Transmission electron microscopy demonstrated that glioma cells take up TiO2 by phagocytosis , and vital staining revealed that TiO2 alone has no effect on glioma cell proliferation .
+However , if TiO2 was combined with UVA irradiation the proliferation rate was decreased significantly compared to controls ( P<0.05 ) .
+RT-PCR suggested that TiO2 induction of glioma cell apoptosis is associated with changes in the expression of genes encoding Bcl-2 family members .
+We then investigated the in vivo antitumor effects of combined TiO2 plus UVA treatment of established glioma tumors .
+TiO2 plus UVA led to pronounced areas of necrosis , elevated indices of apoptosis , delayed tumor growth , and increased survival compared with the TiO2-alone control group ( P<0.001 ) .
+Log-rank survival analysis showed that median survival duration was prolonged ( P<0.001 ) .
+These findings suggest that nano-TiO2 based photodynamic therapy has potential in the treatment of glioma .

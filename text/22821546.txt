@@ -1,0 +1,8 @@
+Semaphorin 5A , a member of semaphorin family , was originally identified as axonal guidance factor functioning during neuronal development .
+Previously , we showed that the expression of semaphorin 5A might contribute to the metastasis of gastric cancer .
+However , its functional roles and mechanism(s) in invasion and metastasis of gastric cancer remain unclear .
+By using human gastric caner cell lines Parental SGC7901 , SGC7901-siScrambled and SGC7901-siSema 5A , we found that semaphorin 5A significantly promoted the invasive and metastatic abilities of gastric cancer cell in vitro .
+Semaphorin 5A increased the expression of MMP9 by activating phosphorylated ErK1/2 in gastric cancer cell .
+Furthermore , MEK inhibitor PD98059 and MMP9 antibody ( Ab ) significantly inhibited in vitro invasive and metastatic abilities induced by semaphorin 5A .
+Taken together , the present work revealed a novel function of semaphorin 5A that the existence of semaphorin 5A could promote invasion and metastasis of gastric cancer by regulating MMP9 expression , at least partially , via the MEK/ERKs signal transduction pathway .
+Semaphorin 5A and its regulated molecules could be the potential targets for cancer therapy .

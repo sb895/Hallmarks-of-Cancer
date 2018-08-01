@@ -1,0 +1,8 @@
+In both mitotic and meiotic processes , cellular surveillance of the integrity of genetic information transmission from parental cells to their subsequent generations is carried out by a network of proteins primarily involved in cell-cycle regulation , DNA replication , DNA repair , and chromosome segregation .
+Within this context , the mammalian MRE11 represents an essential multifunctional protein that promotes repair of DNA double-strand breaks and plays a role in the signaling of DNA damage response .
+Mutations in human hMRE11 gene could contribute to the rare " AT-like " disorder .
+However , at present time the functional roles of hMRE11 in these cellular processes are elusive .
+In the current study , we provide evidence that hMRE11 interacts physically with the mismatch repair protein hMLH1 through yeast two-hybrid analysis .
+In addition , we show that recombinant hMRE11 and hMLH1 proteins interact when these two proteins are coexpressed in bacterial cells , and both proteins can be co-immunoprecipitated from human cell extracts .
+Furthermore , hMRE11 and hMLH1 display similar expression patterns when examined with a human normal/tumor DNA array .
+Together , these data suggest that hMRE11 and hMLH1 might act in a co-operative fashion during DNA damage detection , signaling , and repair .

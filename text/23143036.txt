@@ -1,0 +1,13 @@
+DNA mismatch repair ( MMR ) of simple base mismatches and small insertion-deletion loops in eukaryotes is initiated by the binding of the MutS homolog 2 ( MSH2)-MSH6 heterodimer to mismatched DNA .
+Cadmium ( Cd ) is a genotoxic heavy metal that has been recognized as a human carcinogen .
+Oxidant stress and inhibition of DNA repair have been proposed as major factors underlying Cd genotoxicity .
+Our previous studies indicated the ability of Cd to disturb the gene expression of MSH6 in zebrafish ( Danio rerio ) embryos .
+This study was undertaken to explore if Cd-induced oxidative stress down-regulated MSH gene activities .
+Following the exposure of zebrafish embryos at 1 h post fertilization ( hpf ) to sublethal concentrations of Cd at 3-5 \u03bcM for 4 or 9 h , a parallel down-regulation of MSH2 , MSH6 and Cu/Zn superoxide dismutase ( Cu/Zn-SOD ) gene expression was detected by real-time RT-PCR and the expression levels were 40-50% of control after a 9-h exposure .
+Cd exposure also induced oxidative stress , yet no inhibition of catalase gene activity was observed .
+Whole mount in situ hybridization revealed a wide distribution of msh6 mRNA in the head regions of 10 hpf embryos and pretreatment of embryos with antioxidants butylhydroxytoluene ( BHT ) , d-mannitol or N-acetylcysteine ( NAC ) at 1-10 \u03bcM restored Cd-suppressed msh6 expression .
+QPCR confirmed the protective effects of antioxidants on Cd-suppressed msh2/msh6 mRNA production .
+Down-regulated MSH gene activities reaching about 50% of control were also induced in embryos exposed to paraquat , a reactive oxygen species ( ROS)-generating herbicide , or hydrogen peroxide at 200 \u03bcM .
+Hence , Cd at sublethal levels down-regulates msh2/msh6 expression primarily via ROS as signaling molecules .
+The transcriptional activation of human msh6 is known to be fully dependent on the specificity factor 1 ( Sp1 ) .
+Cd failed to inhibit the DNA binding activity of zebrafish Sp1 unless at lethal concentrations based on band shift assay , therefore excluding the involvement of Sp1 inactivation in Cd-induced MSH gene inhibition in zebrafish embryos .

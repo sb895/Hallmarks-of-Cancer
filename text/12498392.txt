@@ -1,0 +1,6 @@
+The colon carcinoma cell line CC531 is metastatic to liver after splenic injection in syngeneic rats .
+After repeated in vivo passages , a subline was selected that produced liver metastases at a considerably higher rate than the original cell line .
+These cells were characterized by increased intracellular glutathione , proliferation and ability to restore glutathione after exposure to oxidative stress , thus indicating an elevated resistance to oxidative stress .
+Furthermore , the increased metastatic ability was also accompanied by increased proliferation rate , adhesion to extracellular matrix proteins and endothelial cells , and secretion of a 60 kD matrix metalloproteinase .
+When cultured in vitro for a prolonged time ( more than 30 trypsinizations ) , the cells showed a reduced in vivo metastatic ability , reduced secretion of three metalloproteinases including the 60 kD proteinase , and reduced intracellular glutathione .
+These results indicate that metastatic ability can be influenced through several adaptive mechanisms , and that the cell's ability to resist oxidative stress and maintain intracellular glutathione are of central importance .

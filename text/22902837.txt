@@ -1,0 +1,11 @@
+The calcium-calmodulin activated kinase CaMKII mediates many forms of learning and memory .
+Activity-regulated translocation of CaMKII to synapses is important for its functions in synaptic plasticity .
+Here , we tested the role of the NMDA receptor subunit GluN2B in recruiting CaMKII\u03b1 to synapses with different paradigms : global bath stimulation of NMDA receptors , a chemical long term potentiation ( cLTP ) protocol that selectively activates synaptic NMDA receptors , or local stimulation of NMDA receptors at a contiguous set of synapses that triggers a propagating synaptic accumulation of CaMKII .
+Global or cLTP-induced synaptic accumulation of CaMKII\u03b1 occurred in wild-type but not sister GluN2B -/- cultured mouse hippocampal neurons .
+Expression of YFP-GluN2B , but not a similar level of YFP-GluN2A , rescued global and cLTP-induced CaMKII\u03b1 translocation .
+Using chimeric constructs , the pore-forming extracellular and membrane domains of GluN2A combined with the cytoplasmic tail of GluN2B were sufficient to rescue CaMKII\u03b1 translocation , whereas the reverse chimera was ineffective .
+Furthermore , the dual point mutation R1300Q,S1303D in GluN2B that blocks interaction of this high affinity site with CaMKII abolished rescue .
+Thus , CaMKII binding to GluN2B is required for global and cLTP-induced synaptic accumulation of CaMKII\u03b1 .
+However , surprisingly , locally induced propagating synaptic accumulation of CaMKII\u03b1 occurred normally in GluN2B -/- neurons , indistinguishably from wild-type .
+Thus , synaptic trapping of CaMKII during locally induced propagating translocation occurs by different mechanisms and molecular partners compared with global stimulation and cLTP paradigms .
+These findings underscore the complex regulatory properties and molecular interactions of CaMKII\u03b1 , a key player in synaptic plasticity .

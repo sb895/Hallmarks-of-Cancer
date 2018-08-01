@@ -1,0 +1,13 @@
+Polyphenol-enriched fractions from natural sources have been proposed to interfere with angiogenesis in pathological conditions .
+We recently reported that red propolis polyphenols ( RPP ) exert antiangiogenic activity .
+However , molecular mechanisms of this activity remain unclear .
+Here , we aimed at characterizing molecular mechanisms to explain the impact of RPP on endothelial cells ' ( EC ) physiology .
+We used in vitro and ex and in vivo models to test the hypothesis that RPP inhibit angiogenesis by affecting hypoxia-inducible factor-1α ( HIF1α ) stabilization in EC .
+RPP ( 10 mg/L ) affected angiogenesis by reducing migration and sprouting of EC , attenuated the formation of new blood vessels , and decreased the differentiation of embryonic stem cells into CD31-positive cells .
+Moreover , RPP ( 10 mg/L ) inhibited hypoxia- or dimethyloxallylglycine-induced mRNA and protein expression of the crucial angiogenesis promoter vascular endothelial growth factor ( VEGF ) in a time-dependent manner .
+Under hypoxic conditions , RPP at 10 mg/L , supplied for 1-4 h , decreased HIF1α protein accumulation , which in turn attenuated VEGF gene expression .
+In addition , RPP reduced the HIF1α protein half-life from min to 38 min under hypoxic conditions .
+The reduced HIF1α protein half-life was associated with an increase in the von Hippel-Lindau ( pVHL)-dependent proteasomal degradation of HIF1α .
+RPP ( 10 mg/L , 4 h ) downregulated Cdc42 protein expression .
+This caused a corresponding increase in pVHL protein levels and a subsequent degradation of HIF1α .
+In summary , we have elucidated the underlying mechanism for the antiangiogenic action of RPP , which attenuates HIF1α protein accumulation and signaling .

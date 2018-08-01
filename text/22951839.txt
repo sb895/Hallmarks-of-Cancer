@@ -1,0 +1,9 @@
+We examined how well the human papillomavirus ( HPV ) E6 oncogene can function in the absence of the E7 oncogene during the carcinogenic process in human keratinocytes using a common HPV variant strongly associated with cervical cancer : the Asian-American E6 variant ( AAE6 ) .
+This E6 variant is 20 times more frequently detected in cervical cancer than the prototype European E6 variant , as evidenced by independent epidemiological data .
+Using cell culture and cell-based functional assays , we assessed how this variant can perform crucial carcinogenesis steps compared to the prototype E6 variant .
+The ability to immortalize and transform primary human foreskin keratinocytes ( PHFKs ) to acquire resilient phenotypes and the ability to promote cell migration were evaluated .
+The immortalization capability was assayed based on population doublings , number of passages , surpassing mortality stages 1 and 2 , human telomerase reverse transcriptase ( hTERT ) expression , and the ability to overcome G(1) arrest via p53 degradation .
+Transformation and migration efficiency were analyzed using a combination of functional cell-based assays .
+We observed that either AAE6 or prototype E6 proteins alone were sufficient to immortalize PHFKs , although AAE6 was more potent in doing so .
+The AAE6 variant protein alone pushed PHFKs through transformation and significantly increased their migration ability over that of the E6 prototype .
+Our findings are in line with epidemiological data that the AA variant of HPV16 confers an increased risk over the European prototype for cervical cancer , as evidenced by a superior immortalization , transformation , and metastatic potential .

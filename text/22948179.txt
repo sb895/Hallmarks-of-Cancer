@@ -1,0 +1,10 @@
+The aberrant activation of sonic hedgehog ( SHH ) pathway contributes to initiation and progression of various malignancies .
+However , the roles and underlying mechanisms of SHH signaling pathway in invasion and metastasis of liver cancer have not been well understood .
+In this study , we found that SHH signaling was activated and correlated with invasion and metastasis in hepatocellular carcinoma ( HCC ) .
+Enhanced SHH signaling by recombinant human SHH N-terminal peptide ( rSHH-N ) promoted hepatoma cell adhesion , migration and invasion , whereas blockade of SHH signaling with SHH neutralizing antibody or cyclopamine suppressed hepatoma cell adhesion , migration and invasion .
+Furthermore , matrix metalloproteinase ( MMP)-2 and MMP-9 expressions and activities were upregulated and downregulated by rSHH-N and SHH signaling inhibitor , respectively .
+The rSHH-N-mediated hepatoma cell migration and invasion was blocked by MMP-specific inhibitors or neutralizing antibodies to MMP-2 and MMP-9 .
+In addition , phosphorylations of AKT and focal adhesion kinase ( FAK ) were increased and decreased by rSHH-N and SHH signaling inhibitor , respectively .
+Further investigations showed that activation of AKT and FAK were required for rSHH-N-mediated upregulation of MMP-2 and MMP-9 , cell migration and invasion .
+Finally , we found that SHH protein expression was positively correlated with phosphorylatd FAK Tyr397 , phosphorylatd AKT Ser473 , MMP-2 and MMP-9 protein expressions in HCC samples .
+Taken together , our findings suggest that SHH pathway induces cell migration and invasion through FAK/AKT signaling-mediated MMP-2 and MMP-9 production and activation in liver cancer .

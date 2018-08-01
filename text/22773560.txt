@@ -1,0 +1,7 @@
+The concept of targeting new blood vessel formation , or angiogenesis , in tumors is an important advancement in cancer therapy , resulting , in part , from the development of such biologic agents as bevacizumab , a monoclonal antibody directed against vascular endothelial growth factor ( VEGF)-A .
+The rationale for antiangiogenic therapy is based on the hypothesis that if tumors are limited in their capacity to obtain a new blood supply , so too is their capacity for growth and metastasis .
+Additional evidence suggests that pruning and/or " normalization " of irregular tumor vasculature and reduction of hypoxia may facilitate greater access of cytotoxic chemotherapy ( CT ) to the tumor .
+Indeed , for metastatic colorectal cancer , bevacizumab in combination with established CT regimens has efficacy superior to that of CT alone .
+Despite longer progression-free and overall survival times than with CT alone , patients still progress , possibly because of alternative angiogenic " escape " pathways that emerge independent of VEGF-A , or are driven by hypoxic stress on the tumor .
+Other VEGF family members may contribute to resistance , and many factors that contribute to the regulation of tumor angiogenesis function as part of a complex network , existing in different concentrations and spatiotemporal gradients and producing a wide range of biologic responses .
+Integrating these concepts into the design and evaluation of new antiangiogenic therapies may help overcome resistance mechanisms and allow for greater efficacy over longer treatment periods .

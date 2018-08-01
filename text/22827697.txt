@@ -1,0 +1,6 @@
+Epithelial-to-mesenchymal transition ( EMT ) in cancer cells is considered to be a prerequisite for acquiring invasive/migratory phenotype and subsequent metastasis .
+This study provides molecular evidence associated with the antimetastatic effect of black tea polyphenol extracts ( BTE ) , which contain polyphenols including gallic acid , gallocatechin , catechin , epigallocatechin-3-gallate , epicatechin-3-gallate , and theaflavin 3,3'-digallate , in an an oral squamous cell culture system by showing a nearly complete inhibition on the invasion ( p < 0.001 ) of SCC-4 cells via reduced activities of MMP-2 ( p < 0.001 ) and u-PA ( p < 0.001 ) .
+Immunoblot was performed to find that BTE could induce up-regulation of epithelial markers such as E-cadherin and inhibit mesenchymal markers such as snail-1 and vimentin .
+BTE inhibited p-FAK and p-paxillin , indicating the anti-EMT effect of BTE in oral squamous cell carcinoma .
+BTE was evidenced by its inhibition of the tumor growth of SCC-4 cells via cancer cell xenografted nude mice mode .
+These results suggested that BTE could reduce invasion by reversing EMT in human oral cancer cells .

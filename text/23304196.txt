@@ -1,0 +1,7 @@
+Hormone antagonist therapy for estrogen receptor positive ( ER+ ) breast cancer patients post radical surgery and radiation therapy has a poor prognosis and also causes bone loss. 1α,25-dihydroxyvitamin D(3) [ 1α,25(OH)(2)D(3) ] is a potent antitumor agent in pre-clinical studies , but caused hypercalcemia when its effective antitumor doses were used .
+Therefore , we investigated the effects of a less-calcemic 1α,25(OH)(2)D(3) analog , 19-nor-2α-(3-hydroxypropyl)-1α,25-dihydroxyvitamin D(3 )(MART-10 ) , on ER+MCF-7 cells .
+We demonstrate that MART-10 is 500- to 1000-fold more potent than 1α,25(OH)(2)D(3) in inhibiting cell growth in a dose- and time-dependent manner .
+MART-10 is also much more potent in arresting MCF-7cell cycle progression at G(0)/G(1) phase as compared to 1α,25(OH)(2)D(3) , possibly mediated by a greater induction of p21 and p27 expression .
+Moreover , MART-10 is more active than 1α,25(OH)(2)D(3) in causing cell apoptosis , likely through a higher BAX/Bcl expression ratio and the subsequent cytochrome C release from mitochondria to cytosol .
+Based on our in vitro findings , MART-10 could be a promising vitamin D analog for the potential treatment of breast cancer , for example , ER+ patients , to decrease the tumor relapse rate and the side effect on bone caused by antihormone regimens .
+Thus , further in vivo animal study is warranted .

@@ -1,0 +1,10 @@
+Despite insights into the molecular pathways regulating hypoxia-induced gene expression , it is not known which cell types accomplish oxygen sensing during neo-vasculogenesis .
+We have developed a humanized mouse model of endothelial and mesenchymal progenitor co-transplantation to delineate the cellular compartments responsible for hypoxia response during vasculogenesis .
+Mesenchymal stem/progenitor cells ( MSPCs ) accumulated nuclear hypoxia-inducible transcription factor ( HIF)-1α earlier and more sensitively than endothelial colony forming progenitor cells ( ECFCs ) in vitro and in vivo .
+Hypoxic ECFCs showed reduced function in vitro and underwent apoptosis within 24h in vivo when used without MSPCs .
+Surprisingly , only in MSPCs did pharmacologic or genetic inhibition of HIF-1α abrogate neo-vasculogenesis .
+HIF deletion in ECFCs caused no effect .
+ECFCs could be rescued from hypoxia-induced apoptosis by HIF-competent MSPCs resulting in the formation of patent perfused human vessels .
+Several angiogenic factors need to act in concert to partially substitute mesenchymal HIF-deficiency .
+Results demonstrate that ECFCs require HIF-competent vessel wall progenitors to initiate vasculogenesis in vivo and to bypass hypoxia-induced apoptosis .
+We describe a novel mechanistic role of MSPCs as oxygen sensors promoting vasculogenesis thus underscoring their importance for the development of advanced cellular therapies .

@@ -1,0 +1,10 @@
+The high affinity fibronectin receptor ( FNR ) is expressed by hematopoietic cells , fibroblasts , and proliferating epidermal cells .
+Expression of this integrin is altered by chemical and viral transformation , suggesting that FNR dysfunction may play a role in growth control .
+This study demonstrates that exposing FA-K562 cells to glycine-arginine-glycine-aspartate-serine ( GRGDS ) , a peptide ligand of the FNR , specifically stimulates p34/cdc2- and cyclin A-associated kinase activities .
+This occurs within 2 h of peptide addition .
+The 110-kDa form of the retinoblastoma protein appears within 3 h of GRGDS addition , consistent with activation of a G1/S kinase .
+DNA staining profiles demonstrate that GRGDS induces cell cycle progression within 24 h .
+Increased anchorage-independent growth is subsequently observed in GRGDS-treated FA-K562 cells .
+The control peptide , GRGES , which cannot bind the FNR , has none of these effects .
+This demonstrates that an extracellular integrin ligand can regulate cell proliferation .
+Furthermore , these results suggest that integrins link the extracellular environment and intracellular growth regulators .

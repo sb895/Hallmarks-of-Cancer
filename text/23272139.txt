@@ -1,0 +1,6 @@
+Prostate cancer is the most frequent and second most lethal cancer in men in the United States .
+Innate immunity and inflammation may increase the risk of prostate cancer .
+To determine the role of innate immunity and inflammation in advanced prostate cancer , we investigated the association of 320 single nucleotide polymorphisms , located in 46 genes involved in this pathway , with disease risk using 494 cases with advanced disease and 536 controls from Cleveland , Ohio .
+Taken together , the whole pathway was associated with advanced prostate cancer risk ( P = 0.02 ) .
+Two sub-pathways ( intracellular antiviral molecules and extracellular pattern recognition ) and four genes in these sub-pathways ( TLR1 , TLR6 , OAS1 , and OAS2 ) were nominally associated with advanced prostate cancer risk and harbor several SNPs nominally associated with advanced prostate cancer risk .
+Our results suggest that the innate immunity and inflammation pathway may play a modest role in the etiology of advanced prostate cancer through multiple small effects .

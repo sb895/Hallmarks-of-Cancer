@@ -1,0 +1,10 @@
+Mesenchymal stem cells ( MSCs ) are generally used in tissue engineering , regenerative medicine and therapy for immune disorder disease .
+MSCs are also employed as drug carriers for tumor therapy due to their ability to migrate to tumor tissue .
+However , due to the immunosuppressive function of MSCs , the application of MSCs in prostate cancer therapy remains limited .
+In this study , we investigated the underlying mechanism by which MSCs enable prostate cancer cells to escape from immune surveillance in the inflammatory microenvironment .
+Firstly , we demonstrated that compared with the control groups , MSCs pretreated with IL-1α effectively promoted the growth of the mouse prostate cancer cell line RM-1 invivo .
+Furthermore , when RM-1 prostate cancer cells were co-injected with MSCs pretreated with IL-1α , tumor incidence significantly increased in allogeneic recipients .
+In addition , we investigated the mechanism through which MSCs promote the ability of RM-1 cells to escape from immune injury .
+The results revealed that IL-1α led to the upregulation of TGF-β in MSCs .
+The inflammatory cytokine-induced promotive effect of MSCs on RM-1 cells in vivo was inhibited by TGF-β siRNA .
+The results of our study suggest that inflammatory cytokines induce the immunosuppressive function of MSCs which enables prostate cancer cells to escape from immune injury .

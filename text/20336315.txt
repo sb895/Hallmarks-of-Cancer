@@ -1,0 +1,12 @@
+PURPOSE Pyruvate kinase isoenzyme M2 ( PKM2 ) is a key enzyme in aerobic glycolysis ; inhibition of PKM2 leads to the tumor growth inhibition .
+In this study , the effects of combined treatment with cisplatin ( DDP ) and a plasmid that expresses a short hairpin RNA ( shRNA ) targeting PKM2 on the growth of human A549 xenograft lung cancer model were investigated .
+METHODS The expression of PKM2 in A549 cells was determined by immunofluorescence .
+PKM2 expression levels were evaluated by Western blot analysis .
+In a human A549 lung cancer xenograft model , the effects of treatment with shRNA , with or without cisplatin , on tumor volume were determined .
+Apoptosis and cell proliferation status were examined to determine the mechanisms of tumor growth inhibition .
+RESULTS Expression of shRNA targeting PKM2 resulted in inhibition of PKM2 expression in A549 cells .
+In the lung cancer xenograft model , average tumor volume in the group treated with both cisplatin and shRNA was statistically lower than those of other groups ( P < 0.05 ) .
+The levels of apoptotic cells were significantly higher in samples from animals in the combined treatment group than those from untreated animals ( P < 0.05 ) .
+The cell proliferation rate , as determined by counting cells labeled with an anti-phospho-histone H3 , a marker for mitosis , was lower in samples from animals treated with both cisplatin and shRNA than in samples from other groups ( P < 0.05 ) .
+CONCLUSIONS Use of RNA interfering ( RNAi ) targeting PKM2 significantly inhibited tumor growth when combined with cisplatin in a human A549 lung cancer xenograft model .
+The enhanced antitumor activity of the combined treatment compared to treatment with shRNA alone may result in part from increased induction of apoptosis and augmented inhibition of cancer cell proliferation .

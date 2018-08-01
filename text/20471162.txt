@@ -1,0 +1,5 @@
+The effect of polychlorinated biphenyls ( PCBs ) on Vero cell proliferation was investigated , with the attempts to assess the possible hormetic dose-response and to compare their structure-dependent toxicity .
+Both PCB congeners revealed low doses stimulation in our experiment .
+However , significant cytotoxicity was only observed in PCB 52 concentrations larger than 0.1 microg ml(-1) , while there was no significant inhibition in PCB 77-treated cells at concentrations selected .
+Furthermore , the time-dependent cytotoxic trends were different .
+The comparison between PCB 52 and PCB 77 indicated that the cytotoxic mechanisms involved in coplanar or non-coplanar PCB congener exposure were different , and this difference might be associated with individual genotoxicity and the release of contact inhibition , respectively .

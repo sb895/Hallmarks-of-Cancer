@@ -1,0 +1,8 @@
+1,25-Dihydroxyvitamin D(3) ( 1,25D ) , the hormonal form of vitamin D , and several analogs have failed as monotherapies for cancer because of poor efficacy or acquired resistance .
+However , 1,25D analogs are amenable to bifunctionalization .
+Preclinical studies have revealed combinatorial effects of 1,25D analogs and histone deacetylase inhibitors ( HDACi ) .
+Secosteroidal hybrid molecules combining vitamin D receptor ( VDR ) agonism with HDACi displayed enhanced efficacy but are laborious to synthesize .
+Here , we have developed easily assembled , fully integrated , non-secosteroidal VDR agonist/HDACi hybrids .
+The most promising are full VDR agonists with lower potency than 1,25D .
+Structure/function studies revealed that antiproliferative activity against 1,25D-resistant squamous carcinoma cells required VDR agonism and HDACi .
+Remarkably , modeling and X-ray crystallography reveal non-secosteroidal hybrids bind in the VDR ligand binding domain in the opposite orientation of their secosteroidal counterparts .

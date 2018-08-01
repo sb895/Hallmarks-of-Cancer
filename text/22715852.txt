@@ -1,0 +1,6 @@
+CrtJ from Rhodobacter capsulatus is a regulator of genes involved in the biosynthesis of haem , bacteriochlorophyll , carotenoids as well as structural proteins of the light harvesting-II complex .
+Fluorescence anisotropy-based DNA-binding analysis demonstrates that oxidized CrtJ exhibits increase in binding affinity over that of reduced CrtJ .
+Liquid chromatography electrospray tandem ionization mass spectrometric analysis using DAz-2 , a sulfenic acid ( -SOH)-specific probe , demonstrates that exposure of CrtJ to oxygen or to hydrogen peroxide leads to significant accumulation of a sulfenic acid derivative of Cys420 which is located in the helix-turn-helix ( HTH ) motif .
+In vivo labelling with 4-(3-azidopropyl)cyclohexane-1,3-dione ( DAz-2 ) shows that Cys420 also forms a sulfenic acid modification in vivo when cells are exposed to oxygen .
+Moreover , a Cys420 to Ala mutation leads to a reduction of DNA binding activity while a Cys to Ser substitution at position 420 that mimics a cysteine sulfenic acid results in a increase in DNA binding activity .
+These results provide the first example where sulfenic acid oxidation of a cysteine in a HTH-motif leads to differential effects on gene expression .

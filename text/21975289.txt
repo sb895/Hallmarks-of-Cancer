@@ -1,0 +1,13 @@
+BACKGROUND Hepatocellular carcinoma ( HCC ) is the most common liver cancer .
+Therapeutic results are usually unsatisfactory because liver tumors recur often .
+Immunologic factors may be related to the recurrence of HCC ; however , this possibility is mentioned only rarely .
+METHODS Thirty HCC patients undergoing hepatectomies were divided into 3 groups according to the diameters of their HCCs : group A ( n = 8 ) , diameter ≤3 cm ; group B ( n = 8 ) , diameter >3 cm and ≤5 cm ; and group C ( n = 14 ) , diameter >5 cm .
+T-lymphocytes from peripheral blood , nontumor liver tissue , and the HCC were analyzed .
+RESULTS The percentage of CD25+ in the CD4+ T cells did not differ between the peripheral blood and the nontumor liver tissue among the 3 groups .
+CD25+ cells were increased in the tumor tissue in group C patients ( range , 6-41% ; median , 22.9% ; P = .003 ) , compared to group A patients .
+The percentage of CD25+ in the CD4+ T cells in tumor tissue was positively correlated with tumor sizes ( r = 0.556 ) .
+These CD4+ CD25+ lymphocytes produced transforming growth factor-β and interferon-γ but not interleukin-10 , and were anergic to plate-coated monoclonal antibodies ( anti-CD3/anti-CD28 ) .
+The characteristics of these antibodies were comparable to those of regulatory T cells .
+When the infiltration lymphocytes including CD4+ CD25+ T cells were added to the mixed lymphocyte reaction activated by autologous tumor lysate-pulsed dendritic cells , the proliferation of lymphocytes was inhibited .
+CONCLUSION The increase of CD4+ CD25+ T cells in the tumor microenvironment correlates with tumor sizes .
+These CD4+ CD25+ regulatory T cells appeared to suppress the immune response activated by dendritic cells .

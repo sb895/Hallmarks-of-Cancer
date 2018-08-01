@@ -1,0 +1,11 @@
+Comparative mutagenesis studies of N-(2'-deoxyguanosin-8-yl)-2-acetylaminofluorene ( dG-AAF ) and N-(2'-deoxyguanosin-8-yl)-2-aminofluorene ( dG-AF ) adducts positioned in the Nar I restriction enzyme site were performed using Escherichia coli ( E. coli ) and simian kidney ( COS-7 ) cells .
+Oligodeoxynucleotides ( (5)(')TCCTCG(1)G(2)CG(3)CCTCTC ) containing a recognition sequence for the Nar I restriction enzyme were modified site-specifically with dG-AAF or dG-AF .
+Modified and unmodified oligomers inserted into single-stranded phagemid shuttle vectors were used to transform E. coli or to transfect COS-7 cells .
+Following replication in host cells , progeny plasmids were recovered and analyzed for mutations .
+In SOS-induced E. coli , dG-AAF primarily induced one- and two-base deletions .
+The mutational frequency varied , depending on the position modified in the Nar I site ; 91% two-base deletions were observed at G(3) , while 8.4% and 2.8% deletions were detected at G(2) and G(1) , respectively .
+In contrast , dG-AF at any position in the Nar I site failed to produce deletions , generating primarily G --> T transversions ( mutational frequency , 7.6-8.4% ) .
+In COS-7 cells , both dG-AAF and dG-AF primarily induced G --> T transversions .
+Mutation frequencies for dG-AAF were 9.4-24% , the highest values being at G(1) and G(3) .
+Mutation frequencies for dG-AF were 9.3-21% , the higher value at G(2) .
+We conclude from this study that the mutation potential of dG-AAF and dG-AF depends on the structure of the adduct , the sequence context of the lesion , and the host cell used for the experiment .

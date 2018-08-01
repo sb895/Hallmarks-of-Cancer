@@ -1,0 +1,8 @@
+Although the expression of extracellular matrix protein-1 ( ECM1 ) has been documented in several tumor models , the function of ECM1 has remained unclear .
+In this study , expression of ECM1 was detected by real time PCR and immunohistochemistry .
+The role and mechanism of ECM1 overexpression in cholangiocarcinoma ( CCA ) cells were assessed by wound-healing , matrigel invasion assay and Western blotting .
+Expression of ECM1 was significantly elevated in CCA tissues than that in adjacent noncancerous , cholangitis and normal bile duct tissues .
+Its overexpression was associated with poor differentiation , lymph node metastasis , poor prognosis , and the level of CA199 , MMP-9 , estrogen receptor .
+Knockdown of ECM1 suppressed migration and invasion of CCA cells .
+Using PI3K or IKK inhibitor reduced the level of phospho-Akt or phospho-IκBα as well as ECM1 .
+Taken together , overexpression of ECM1 may contribute to CCA initiation and progression through promoting migration and invasion of CCA cells , its overexpression was associated with Akt/NF-κB signaling axis .

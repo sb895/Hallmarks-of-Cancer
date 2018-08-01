@@ -1,0 +1,11 @@
+Dimethyl sulfoxide ( DMSO ) , a well-known differentiation inducer in several myeloid cells , also induces a reversible G(1) arrest in many cell lines .
+We recently showed that DMSO induces a G(1) phase arrest in Chinese hamster ovary ( CHO ) cells , by restoring contact inhibition and preventing high density-dependent apoptosis .
+CHO cells are frequently used in cell biology and mutagenesis studies due to their good growth capacity and ease of manipulation but are very difficult to synchronize by serum starvation since they detach from monolayers when they reach confluence .
+In this study we investigated the possibility of using DMSO to reversibly synchronize CHO cells in the G(1) phase of the cell cycle and analysed whether toxic effects follow the arrest using growth curve , sister chromatid exchange and micronuclei assays .
+We carried out a kinetic analysis of the arrest by DMSO and re-entry into the cell cycle after drug release by cytofluorimetric analysis of DNA content and bromodeoxyuridine incorporation .
+We show that CHO cells are efficiently and reversibly arrested in G(1) by DMSO in concentrations ranging between 1 and 2% .
+In our experiments , >90% of cells grown for 96 h in presence of the drug were arrested in G(1) and synchronously re-entered S phase approximately 8-12 h after release .
+Furthermore , expression levels of p27 were down-regulated during G(1) progression and cyclin D3 and E expression patterns were similar to those observed after serum starvation .
+No detectable cytotoxicity or genetic damage were induced in G(1) released cells as revealed by the tests employed .
+Our results show that DMSO is a very powerful inducer of G(1) synchronization in CHO cells without detectable cytotoxic or genetic effects in cell populations released from G(1) arrest .
+DMSO synchronization represents a model system in which to analyse protein activities regulating G(1) progression and investigate the response of G(1) cells to mutagen treatments .

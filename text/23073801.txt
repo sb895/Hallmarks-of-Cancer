@@ -1,0 +1,9 @@
+This study examined the possible role of p120ctn in the pathogenesis and development of pancreatic cancer .
+PANC-1 cells , a kind of human pancreatic carcinoma cell line , were cultured in this study. p120ctn was immunocytochemically detected in PANC-1 cells .
+The recombinant lentivirus vector was constructed to knock down the p120ctn expression of PANC-1 cells .
+Real-time quantitative PCR ( RQ-PCR ) and Western blotting were used to determine the expression of p120ctn and E-cadherin in PANC-1 cells after p120ctn knockdown .
+The adhesion , invasion and migration capacity of PANC-1 cells after p120ctn knockdown was detected by cell adhesion , invasion and migration assays .
+Cell growth was measured by the MTT method .
+Cell cycle and apoptosis were analyzed by fluorescence-activated cell sorting .
+The results showed that p120ctn knockdown led to significantly down-regulated E-cadherin and a reduced cell-to-cell adhesion ability in PANC-1 cells. shRNA-mediated knockdown of p120ctn reduced invasion and migration capacity of PANC-1 cells , inhibited cell growth , caused a significant decrease in the percentage of cells in G(1) , an increase in S , and promoted apoptosis of PANC-1 cells .
+It was concluded that p120ctn plays a pivotal role in the proliferation and metastasis of pancreatic carcinoma , suggesting that p120ctn is a novel target for pancreatic carcinoma treatment .

@@ -1,0 +1,7 @@
+The environmental arylamine mutagens are implicated in the etiology of various sporadic human cancers .
+Arylamine-modified dG lesions were studied in two fully paired 11-mer duplexes with a -G*CN- sequence context , in which G* is a C8-substituted dG adduct derived from fluorinated analogs of 4-aminobiphenyl ( FABP ) , 2-aminofluorene ( FAF ) or 2-acetylaminofluorene ( FAAF ) , and N is either dA or dT .
+The FABP and FAF lesions exist in a simple mixture of ' stacked ' ( S ) and ' B-type ' ( B ) conformers , whereas the N-acetylated FAAF also samples a ' wedge ' ( W ) conformer .
+FAAF is repaired three to four times more efficiently than FABP and FAF .
+A simple A- to -T polarity swap in the G*CA/G*CT transition produced a dramatic increase in syn-conformation and resulted in 2- to 3-fold lower nucleotide excision repair ( NER ) efficiencies in Escherichia coli .
+These results indicate that lesion-induced DNA bending/thermodynamic destabilization is an important DNA damage recognition factor , more so than the local S/B-conformational heterogeneity that was observed previously for FAF and FAAF in certain sequence contexts .
+This work represents a novel 3'-next flanking sequence effect as a unique NER factor for bulky arylamine lesions in E. coli .

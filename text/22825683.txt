@@ -1,0 +1,10 @@
+Genetic and epigenetic changes in the von Hippel-Lindau ( VHL ) tumour suppressor gene are common in sporadic conventional ( clear cell ) renal cell carcinoma ( ccRCC ) .
+The effects on VHL expression are unknown but increased understanding may be relevant clinically , either in terms of prognosis or in therapy selection .
+We have examined the expression of VHL mutant RNA in 84 ccRCC tumours previously screened for mutations in genomic DNA , 56 of which contained 52 unique mutations or polymorphisms .
+Based on the predicted change to the primary amino acid sequence , 24 of the mutations were missense , 11 resulted in frameshifts with premature truncation , 9 resulted in immediate truncation at the site of the mutation and 2 were frameshifts which extended the reading frame beyond the normal stop codon .
+Nine tumours had intronic variants , including substitution of invariant residues at splice sites , deletion of nucleotides spanning the exon-intron junction , an intronic variant of unknown function and the polymorphism c.463+43A>G .
+Four variants were identified which were present in genomic DNA but not in mRNA .
+Three of these , all encoding apparent missense changes to the primary amino acid sequence , were located close to the ends of exons , reduced the strength of the splice site and function as null rather than missense variants .
+One nonsense variant was not detectable in mRNA but all other mutations resulting in premature truncation codons ( PTCs ) were , suggesting truncating VHL mutations may potentially generate truncated VHL protein .
+An intronic variant , c.341\u201111T>A , previously regarded as of unknown function , is associated with an increased level of skipping of exon 2 and may , therefore , reduce production of pVHL .
+Our data show that the biological consequences of VHL mutations are not necessarily predictable from the sequence change of the mutation and that for the majority of VHL mutations , the potential for the generation of mutant protein exists .

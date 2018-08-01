@@ -1,0 +1,8 @@
+Chronic inflammation , increased reactivity to self-antigens and incidences of cancer are hallmarks of aging .
+However , the underlying mechanisms are not well understood .
+Age-associated alterations in the DNA either due to oxidative damage , defects in DNA repair or epigenetic modifications such as methylation that lead to mutations and changes in the expression of genes are thought to be partially responsible .
+Here we report that epigenetic modifications in aged DNA also increase its immunogenicity rendering it more reactive to innate immune system cells such as the dendritic cells .
+We observed increased upregulation of costimulatory molecules as well as enhanced secretion of IFN-alpha from dendritic cells in response to DNA from aged donors as compared to DNA from young donors when it was delivered intracellularly via Lipofectamine .
+Investigations into the mechanisms revealed that DNA from aged subjects is not degraded , neither is it more damaged compared to DNA from young subjects .
+However , there is significantly decreased global level of methylation suggesting that age-associated hypomethylation of the DNA may be the cause of its increased immunogenicity .
+Increased immunogenicity of self DNA may thus be another mechanism that may contribute to the increase in age-associated chronic inflammation , autoimmunity and cancer .

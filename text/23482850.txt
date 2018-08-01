@@ -1,0 +1,9 @@
+Transforming growth factor beta ( TGF-β ) signaling has been implicated in driving tumor progression and metastasis by inducing stem cell-like features in some human cancer cell lines .
+In this study , we have utilized a novel murine cell line NMuMG-ST , which acquired cancer stem cell ( CSC ) phenotypes during spontaneous transformation of the untransformed murine mammary cell line NMuMG , to investigate the role of autocrine TGF-β signaling in regulating their survival , metastatic ability , and the maintenance of cancer stem cell characteristics .
+We have retrovirally transduced a dominant-negative TGF-β type II receptor ( DNRII ) into the NMuMG-ST cell to abrogate autocrine TGF-β signaling .
+The expression of DNRII reduced TGF-β sensitivity of the NMuMG-ST cells in various cell-based assays .
+The blockade of autocrine TGF-β signaling reduced the ability of the cell to grow anchorage-independently and to resist serum deprivation-induced apoptosis .
+These phenotypes were associated with reduced levels of active and phosphorylated AKT and ERK , and Gli1 expression suggesting that these pathways contribute to the growth and survival of this model system .
+More interestingly , the abrogation of autocrine TGF-β signaling also led to the attenuation of several features associated with mammary stem cells including epithelial-mesenchymal transition , mammosphere formation , and expression of stem cell markers .
+When xenografted in athymic nude mice , the DNRII cells were also found to undergo apoptosis and induced significantly lower lung metastasis burden than the control cells even though they formed similar size of xenograft tumors .
+Thus , our results indicate that autocrine TGF-β signaling is involved in the maintenance and survival of stem-like cell population resulting in the enhanced metastatic ability of the murine breast cancer cells .

@@ -1,0 +1,6 @@
+Many cancer cells metabolize glucose preferentially via pyruvate to lactate instead to CO(2) and H(2)O ( oxidative phosphorylation ) even in the presence of oxygen ( Warburg effect ) .
+Dichloroacetate ( DCA ) is a drug which is able to shift pyruvate metabolism from lactate to acetyl-CoA ( tricarboxylic acid cycle ) by indirect activation of pyruvate dehydrogenase ( PDH ) .
+This can subsequently lead to an increased flow of oxygen in the respiratory chain , associated with enhanced generation of reactive oxygen species ( ROS ) which may cause apoptosis .
+In order to investigate if DCA may be suitable for neuroblastoma therapy , it was investigated on three human neuroblastoma cell lines whether DCA can reduce lactate production and enhance oxygen consumption .
+The data show , that DCA ( in the low millimolar range ) is able to reduce lactate production , but there was only a slight shift to increased oxygen consumption and almost no effect on cell vitality , proliferation and apoptosis of the three cell lines investigated .
+Therefore , DCA at low millimolar concentrations seems to be only of minor efficacy for neuroblastoma treatment .

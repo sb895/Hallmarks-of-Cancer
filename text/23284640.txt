@@ -1,0 +1,16 @@
+The anti-tumor antibiotic salinomycin ( Sal ) was recently identified as a selective inhibitor of breast cancer stem cells ; however , the effect of Sal on hepatocellular carcinoma ( HCC ) is not clear .
+This study aimed to determine the anti-tumor efficacy and mechanism of Sal on HCC .
+HCC cell lines ( HepG2 , SMMC-7721 , and BEL-7402 ) were treated with Sal .
+Cell doubling time was determinated by drawing growth curve , cell viability was evaluated using the Cell Counting Kit 8 .
+The fraction of CD133(+) cell subpopulations was assessed by flow cytometry .
+We found that Sal inhibits proliferation and decreases PCNA levels as well as the proportion of HCC CD133(+)cell subpopulations in HCC cells .
+Cell cycle was analyzed using flow cytometry and showed that Sal caused cell cycle arrest of the various HCC cell lines in different phases .
+Cell apoptosis was evaluated using flow cytometry and Hoechst 33342 staining .
+Sal induced apoptosis as characterized by an increase in the Bax/Bcl-2 ratio .
+Several signaling pathways were selected for further mechanistic analyses using real time-PCR and Western blot assays .
+Compared to control , β-catenin expression is significantly down-regulated upon Sal addition .
+The Ca(2+) concentration in HCC cells was examined by flow cytometry and higher Ca(2+) concentrations were observed in Sal treatment groups .
+The anti-tumor effect of Sal was further verified in vivo using the hepatoma orthotopic tumor model and the data obtained showed that the size of liver tumors in Sal-treated groups decreased compared to controls .
+Immunohistochemistry and TUNEL staining also demonstrated that Sal inhibits proliferation and induces apoptosis in vivo .
+Finally , the role of Sal on in vivo Wnt/β-catenin signaling was evaluated by Western blot and immunohistochemistry .
+This study demonstrates Sal inhibits proliferation and induces apoptosis of HCC cells in vitro and in vivo and one potential mechanism is inhibition of Wnt/β-catenin signaling via increased intracellular Ca(2+) levels .

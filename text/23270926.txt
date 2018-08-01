@@ -1,0 +1,8 @@
+MicroRNAs ( miRNAs ) are involved in cancer development and progression , acting as tumor suppressors or oncogenes .
+In this study , miRNA profiling was performed on 10 paired bladder cancer ( BC ) tissues using 20 GeneChipTM miRNA Array , and 10 differentially expressed miRNAs were identified in BC and adjacent noncancerous tissues of any disease stage/grade .
+After validated on expanded cohort of 67 paired BC tissues and 10 human BC cell lines by qRT-PCR , it was found that miR-100 was down-regulated most significantly in cancer tissues .
+Ectopic restoration of miR-100 expression in BC cells suppressed cell proliferation and motility , induced cell-cycle arrest in vitro , and inhibited tumorigenesis in vivo both in subcutaneous and intravesical passage .
+Bioinformatic analysis showed that mTOR gene was a direct target of miR-100. siRNA-mediated mTOR knockdown phenocopied the effect of miR-100 in BC cell lines .
+In addition , the cancerous metastatic nude mouse model established on the basis of primary BC cell lines suggested that miR-100/mTOR regulated cell motility and was associated with tumor metastasis .
+Both mTOR and p70S6K ( downstream messenger ) presented higher expression levels in distant metastatic foci such as in liver and kidney metastases than in primary tumor .
+Taken together , miR-100 may act as a tumor suppressor in BC , and reintroduction of this mature miRNA into tumor tissue may prove to be a therapeutic strategy by reducing the expression of target genes .

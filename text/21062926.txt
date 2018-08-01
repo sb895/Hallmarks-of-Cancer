@@ -1,0 +1,12 @@
+PURPOSE Steroid hormones and growth factors affect lung cancer , and it is possible they act in concert to influence patient outcome .
+EXPERIMENTAL DESIGN Primary lung tumors and normal lung tissue were analyzed for expression and localization of estrogen receptor α and β-1 ( ERα and ERβ ) , aromatase , progesterone receptor ( PR ) , and epidermal growth factor receptor ( EGFR ) .
+RESULTS Tumors expressed higher levels of ERβ compared to matched normal lung , whereas the reverse was true of PR .
+High cytoplasmic ERβ expression was identified as an independent negative prognostic predictor of overall survival ( OS ; HR = 1.67 ) , and low total PR was identified as an independent negative predictor of time to progression ( TTP ; HR = 1.59 ) .
+After adjusting for stage , age , sex , and smoking , combined high cytoplasmic ERβ and low total PR showed enhanced effects on OS ( HR = 2.64 ) and on TTP ( HR = 6.02 ) .
+Further effects on OS were observed when EGFR expression was included ( HR = 5.32 ) .
+Patients with low cytoplasmic ERβ , low aromatase , low EGFR , and high total PR had shorter OS than patients with the opposite pattern ( HR = 6.60 ) .
+Contribution of these markers to survival showed no significant sex differences in a multivariable model .
+ERα was elevated in tumors but was not predictive of survival , and appears to represent a variant ERα protein that is only recognized by a C-terminal antibody .
+CONCLUSIONS Hormonal and EGFR pathways together may contribute to lung cancer prognosis .
+Lung tumors with high ERβ-1/low PR may define patients with aggressive biology .
+A validation study is necessary to fully assess the predictive value of these markers .

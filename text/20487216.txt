@@ -1,0 +1,12 @@
+OBJECTIVES Toxicity caused by pharmacological and chemical substances , including carbon tetrachloride ( CCl(4) ) , is a major pathological factor for liver injury .
+Therefore , strategies to prevent toxicity are needed for maintaining a healthy liver .
+This study was designed to determine whether recombinant bovine pancreatic trypsin inhibitor ( rBPTI ) , a non-specific serine protease inhibitor , prevents CCl(4)-induced liver injury in mice .
+METHODS Mice were treated with CCl(4) in the presence or absence of co-treatment with rBPTI .
+Liver sections were prepared for histopathological assessment .
+Liver function was evaluated by detecting serum levels of alanine aminotransferase ( ALT ) and aspartate aminotransferase ( AST ) and liver index .
+Liver oxidative stress and inflammation were examined by detecting the liver malondialdehyde level and glutathione and superoxide dismutase activity , and serum tumour necrosis factor-alpha level , respectively .
+KEY FINDINGS CCl(4) induced hepatocyte necrosis , inflammatory cell infiltration and fatty degeneration , which were ameliorated by co-treatment with rBPTI in a concentration-dependent manner .
+Furthermore , rBPTI prevented CCl(4)-induced disruption of liver function .
+Importantly , rBPTI reduced CCl(4)-induced liver oxidative stress response and pro-inflammatory cytokine production .
+CONCLUSIONS These results indicated that rBPTI exerted a protective effect on CCl(4)-induced liver injury in mice .
+Thus , rBPTI may have potential application for prevention of liver injury induced by metabolism of drugs and toxic substances .

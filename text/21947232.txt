@@ -1,0 +1,9 @@
+Plasminogen activator inhibitor type 1 ( PAI-1 ) is a serpin protein , a natural inhibitor of urokinase ( uPA ) and tissue plasminogen activators ( tPA ) .
+By inhibiting uPA it can block growth of the cancer tumors by suppressing angiogenesis , while when acting on tPA in the blood it can avert conversion of plasminogen to plasmin preventing lysis of the clot .
+Furthermore , blocking PAI-1 activity can protect against thrombosis .
+Thus PAI-1 makes great impact on human homeostasis and is desirable for clinical application .
+Wild-type PAI-1 ( wt-PAI-1 ) has a short span of activity with a t1/2 of h , being spontaneously converted into a latent form .
+An enormous effort has been made to create a more stable molecule with >600 PAI-1 variants constructed to study its structure-function relationship .
+In the present study , we evaluate the structure of the active recombinant VLHL-PAI-1 ( very long half life , active >700 h ) which is glycosylated similarly to wt-PAI-1 at N232 and N288 , with the extended reactive center loop , intact engineered -S-S-bridge ( Q174C , G323C ) that precludes latency without affecting structure , and can be controlled by a reducing agent to terminate activity at will .
+We have already proven its usefulness to control cancer in human cancer cells , as well as preventing clot lysis in human whole blood and plasma and in a mouse model .
+Our results demonstrate the potential therapeutic applications ( topical or systemic ) of this protein in the treatment of cancer , for the trauma patients to ward off an excessive blood loss , or for people with the PAI-1 deficiency , especially during surgery .

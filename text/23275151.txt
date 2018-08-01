@@ -1,0 +1,8 @@
+Platinum compounds are the foundation of chemotherapy regimens for non-small cell lung cancer ( NSCLC ) despite poor response rates and limited response duration .
+It has been reported that tumor expression of ERCC1 , a key component in nucleotide excision repair , may correlate with clinical response to platinum agents .
+We found that most primary lung tumor specimens demonstrated a stronger protein expression of poly ( ADP ribose ) polymerases 1 ( PARP1 ) than their normal counterparts .
+We therefore hypothesized that combining PARP inhibition with platinum compounds may be an approach to improve platinum-based therapy for NSCLC .
+Drug combination experiments revealed that two distinct PARP inhibitors , olaparib and veliparib not only potentiated the cell killing by cisplatin but also conferred cytotoxicity as a single agent specifically in ERCC1-low HCC827 and PC9 but not in ERCC1-high A549 and H157 lung cancer cells .
+Moreover , siRNA knockdown of ERCC1 in A549 and H157 cells increased their sensitivities to both cisplatin and olaparib in a synergistic manner in our model .
+Furthermore , mechanistic studies indicated that combined PARP inhibitor and cisplatin could lead to sustained DNA double strand breaks , prolonged G2/M cell cycle arrest with distinct activation of checkpoint kinase 1 signaling , and more pronounced apoptosis preferentially in lung cancer cells with low ERCC1 expression .
+Collectively , these data suggest that there is a synergistic relationship between PARP inhibition and low ERCC1 expression in NSCLC that could be exploited for novel therapeutic approaches in lung cancer therapy based on tumor ERCC1 expression .

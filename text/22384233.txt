@@ -1,0 +1,12 @@
+BACKGROUND Surgical procedures such as liver resection and liver transplantation are the first-line treatments for hepatocellular carcinoma ( HCC ) patients .
+However , the high incidence of tumor recurrence and metastasis after liver surgery remains a major problem .
+Recent studies have shown that hepatic ischemia-reperfusion ( I/R ) injury and endothelial progenitor cells ( EPCs ) contribute to tumor growth and metastasis .
+We aim to investigate the mechanism of FTY720 , which was originally applied as an immunomodulator , on suppression of liver tumor metastasis after liver resection and partial hepatic I/R injury .
+METHODOLOGY/PRINCIPAL FINDINGS An orthotopic liver tumor model in Buffalo rat was established using the hepatocellular carcinoma cell line McA-RH7777 .
+Two weeks after orthotopic liver tumor implantation , the rats underwent liver resection for tumor-bearing lobe and partial hepatic I/R injury .
+FTY720 ( 2 mg/kg ) was administered through the inferior caval vein before and after I/R injury .
+Blood samples were taken at days 0 , 1 , 3 , 7 , 14 , 21 and 28 for detection of circulating EPCs ( CD133+CD34+ ) .
+Our results showed that intrahepatic and lung metastases were significantly inhibited together with less tumor angiogenesis by FTY720 treatment .
+The number of circulating EPCs was also significantly decreased by FTY720 treatment from day 7 to day 28 .
+Hepatic gene expressions of CXCL10 , VEGF , CXCR3 , CXCR4 induced by hepatic I/R injury were down-regulated in the treatment group .
+CONCLUSIONS/SIGNIFICANCE FTY720 suppressed liver tumor metastasis after liver resection marred by hepatic I/R injury in a rat liver tumor model by attenuating hepatic I/R injury and reducing circulating EPCs .

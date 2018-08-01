@@ -1,0 +1,10 @@
+Identification of molecular target(s) and mechanism(s) of silica-induced pulmonary toxicity is important for the intervention and/or prevention of diseases associated with exposure to silica .
+Rats were exposed to crystalline silica by inhalation ( 15 mg m(-3) , 6 h per day , 5 days ) and global gene expression profile was determined in the lungs by microarray analysis at 1 , 2 , 4 , 8 and 16 weeks following termination of silica exposure .
+The number of significantly differentially expressed genes ( >1.5-fold change and <0.01 false discovery rate P-value ) detected in the lungs during the post-exposure time intervals analyzed exhibited a steady increase in parallel with the progression of silica-induced pulmonary toxicity noticed in the rats .
+Quantitative real-time PCR analysis of a representative set of 10 genes confirmed the microarray findings .
+The number of biological functions , canonical pathways and molecular networks significantly affected by silica exposure , as identified by the bioinformatics analysis of the significantly differentially expressed genes detected during the post-exposure time intervals , also exhibited a steady increase similar to the silica-induced pulmonary toxicity .
+Genes involved in oxidative stress , inflammation , respiratory diseases , cancer , and tissue remodeling and fibrosis were significantly differentially expressed in the rat lungs ; however , unresolved inflammation was the single most significant biological response to pulmonary exposure to silica .
+Excessive mucus production , as implicated by significant overexpression of the pendrin coding gene , SLC26A4 , was identified as a potential novel mechanism for silica-induced pulmonary toxicity .
+Collectively , the findings of our study provided insights into the molecular mechanisms underlying the progression of crystalline silica-induced pulmonary toxicity in the rat .
+Published 2012 .
+This article is a US Government work and is in the public domain in the USA .

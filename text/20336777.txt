@@ -1,0 +1,9 @@
+Certain hexavalent chromium ( Cr(VI) ) compounds are well established occupational respiratory tract carcinogens .
+However , despite extensive studies , the cellular and molecular mechanisms underlying Cr(VI)-induced lung cancer remain poorly understood .
+In fact , the models used were often suboptimal and yielded conflicting results that were heavily dependent upon the system and experimental conditions employed .
+Here , we investigated the effects of chronic subcytotoxic and mildly cytotoxic ( 0.1-2 microM ) Cr(VI) exposures on cultures of human bronchial epithelial cells , the main targets of Cr(VI) carcinogenicity .
+Our studies with the nontumorigenic BEAS-2B cell line suggest that relatively short exposures ( h ) to sublethal Cr(VI) doses ( 0.1-1 microM ) may render these cells less sensitive to contact inhibition .
+We have also observed a reduced sensitivity to Cr(VI)-induced apoptosis shortly after the beginning of exposure to a mildly cytotoxic Cr(VI) dose ( 2 microM ) .
+Further studies are needed to determine whether these two phenotypes are involved in the Cr(VI)-induced carcinogenic process .
+Additionally , evidence gathered in this study strongly points to a Cr(VI) interference with cell adhesion to the substratum and with cell-cell interactions .
+Finally , by chronically exposing BEAS-2B cells to mildly cytotoxic Cr(VI) doses ( 1 and 2 microM ) , we were able to induce changes in cell morphology and pattern of growth characteristic of an early phase of pre-malignant progression .

@@ -1,0 +1,13 @@
+INTRODUCTION The progressive growth of malignancies is accompanied by a decline in the immune response through mechanisms which are poorly understood .
+Apoptosis and induction of inflammation by tumor released cytokines as tumor escape mechanisms have been proposed to play an important role in colorectal carcinogenesis .
+METHODS Expression of Tumor necrosis factor-alpha ( TNF-α ) was analyzed in colorectal cancer specimen and the cancer cell line HT-29 by immunohistochemistry and RT-PCR .
+TNF-α expression on protein and mRNA level were correlated with clinical characteristics and impact on survival .
+TNFR-1 was co-labelled with TNF-α and CD8+ cytotoxic T cells in immunofluorescence double staining experiments .
+RESULTS 94% ( n=98/104 ) of the patients with CRC expressed TNF-α .
+High TNF-α expression was significantly associated with positive lymph node stage and recurrence of the tumor .
+Multivariate analysis revealed high TNF-α expression as an independent prognostic factor .
+Immunohistochemistry was correlated with RT-PCR results ( τ=0.794 ) .
+Immunofluorescence double staining experiments revealed increased TNFR-1 expression by CD8+ cells .
+CONCLUSIONS TNF-α expression by tumor cells may be an efficient immunological escape mechanism by inflammation-enhanced metastases and probably by induction of apoptosis in tumor-infiltrating CD8+ immune cells resulting in a down regulation of the tumoral immune response .
+Our data support the role of tumor-derived TNF-α expression as an important promoter of tumoral immune escape mechanisms and malignant progression , and suggest that analysis on either protein ( immunohistochemistry ) or RNA level ( RT-PCR ) can be used effectively in this respect .
+Targeting TNF-α may be a promising option , especially in cases with high TNF-α expression and positive lymph node metastases .

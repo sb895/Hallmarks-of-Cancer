@@ -1,0 +1,9 @@
+Tumour cells primarily utilize aerobic glycolysis for energy production , a phenomenon known as the Warburg effect .
+Its mechanism is not well understood .
+The tumour suppressor gene p53 is frequently mutated in tumours .
+Many tumour-associated mutant p53 ( mutp53 ) proteins not only lose tumour suppressive function but also gain new oncogenic functions that are independent of wild-type p53 , defined as mutp53 gain of function ( GOF ) .
+Here we show that tumour-associated mutp53 stimulates the Warburg effect in cultured cells and mutp53 knockin mice as a new mutp53 GOF .
+Mutp53 stimulates the Warburg effect through promoting GLUT1 translocation to the plasma membrane , which is mediated by activated RhoA and its downstream effector ROCK .
+Inhibition of RhoA/ROCK/GLUT1 signalling largely abolishes mutp53 GOF in stimulating the Warburg effect .
+Furthermore , inhibition of glycolysis in tumour cells greatly compromises mutp53 GOF in promoting tumorigenesis .
+Thus , our results reveal a new mutp53 GOF and a mechanism for controlling the Warburg effect .

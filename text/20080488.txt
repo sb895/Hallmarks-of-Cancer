@@ -1,0 +1,8 @@
+RAD51 is a key enzyme of homologous recombination and repair of DNA double-strand breaks .
+RAD51 mRNA expression levels are significantly increased in laser-microdissected mammary simple carcinomas and their lymph node metastases when compared to adenomas or nonneoplastic mammary gland of the same dog .
+Here , RAD51 protein expression was analyzed by immunohistochemistry in paraffin-embedded mammary carcinomas and their lymph node metastases of 40 dogs , adenomas of 48 dogs , and nonneoplastic mammary gland of 88 dogs .
+Number of cells with nuclear RAD51 expression was significantly ( P < or = .05 ) increased in carcinomas when compared to adenomas and metastases .
+In contrast , no significant differences in the number of RAD51-expressing cells were detected when metastases were compared with adenomas and nonneoplastic gland .
+RAD51 expression in carcinomas was correlated with expression in metastases but not with histologic grade .
+In conclusion , the increased number of RAD51-expressing cells in carcinomas might indicate genomic instability in these cells .
+Nevertheless , the increased RAD51 mRNA expression in metastases could not be confirmed by immunohistochemistry .

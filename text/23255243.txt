@@ -1,0 +1,12 @@
+BACKGROUND: : Radiotherapy is an efficient remedy in the treatment of hepatocellular carcinoma ( Hca ) ; however , some cancer cells can still survive from the radiation and the therapeutic effect is to be improved .
+Regulatory T cell ( Tregs)-induced tumor tolerance and Akt expression play important roles in the tumor survival .
+This study aims to elucidate the role of radiation induces Akt expression in Tregs .
+METHODS: : A rat Hca model was developed .
+Hca tissue was collected from the rats with or without radiotherapy .
+The frequency of Treg and apoptotic Treg in Hca tissue was assessed by flow cytometry .
+A cell culture model was used to investigate the mechanism by which the tumor-infiltrating Tregs survive from irradiation .
+RESULTS: : After radiotherapy , the frequency of Treg was increased in Hca , the frequency of apoptotic Tregs was decreased and the expression of Akt was increased in the remaining Tregs .
+The results were reproduced in vitro with a cell culture model .
+The addition of Akt inhibitor blocked the irradiation-induced Treg survival .
+Tregs with high levels of Akt still preserve the immune suppressor function .
+CONCLUSIONS: : Akt plays an important role in the radiation-induced tumor-infiltrating Treg survival in Hca .

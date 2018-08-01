@@ -1,0 +1,8 @@
+Resveratrol , a phytoalexin found in grapes and wine , has been shown to exhibit a wide range of pharmacological properties and is believed to play a role in the chemoprevention of human cancer .
+Resveratrol has also been shown to induce antiproliferation and apoptosis of several leukemia cell lines .
+In the present study , we investigated the effect of resveratrol in adult T cell leukemia .
+Our present observations showed that resveratrol induced growth inhibition in all five human T cell lymphotrophic virus-1-infected cell lines examined , with 50% effective dose of 10.4-85.6 mM .
+In the resveratrol-treated cells , induction of apoptosis was confirmed by annexin V-based analyses and morphological changes .
+The most surprising observation was that resveratrol treatment resulted in a gradual decrease in the expression of survivin , an antiapoptotic protein , during cell apoptosis .
+These findings indicate that resveratrol inhibits the growth of human T cell lymphotrophic virus-1-infected cell lines , at least in part , by inducing apoptosis mediated by downregulation in survivin expression .
+In view of the accumulating evidence that survivin may be an important determinant of a clinical response in adult T cell leukemia , our present findings have led to the suggestion that resveratrol , a common constituent of the human diet , merits further investigation as a potential therapeutic agent for this incurable disease .

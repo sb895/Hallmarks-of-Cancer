@@ -1,0 +1,7 @@
+MDC1 ( NFBD1 ) and 53BP1 are critical mediators of the mammalian DNA damage response ( DDR ) at nuclear foci .
+Here we show by quantitative imaging assays that MDC1 and 53BP1 are similar in total copy number ( copies per focus ) , but differ substantially in dynamics at both replication-associated nuclear bodies in normal cells and DNA repair foci in ionizing radiation ( IR)-damaged cells .
+The majority of MDC1 ( is extremely mobile and under continuous exchange , with only a small fraction ( remaining immobile at foci irrespective of IR treatment .
+By contrast , 53BP1 has a smaller mobile fraction ( and a larger immobile fraction ( at nuclear bodies , and becomes more dynamic ( increase in mobile pool ) upon IR-induced DNA damage .
+More specifically , the dynamics of 53BP1 is dependent on a minimal foci-targeting region ( 1231-1709 ) , and differentially regulated by its N-terminus ( 1-1231 ) and C-terminal tBRCT domain ( 1709-1972 ) .
+Furthermore , MDC1 knockdown , or disruption of 53BP1-MDC1 interaction , reduced the number of 53BP1 molecules at foci by but only modestly affected 53BP1 retention .
+This novel in vivo evidence reveals distinct dynamics of MDC1 and 53BP1 at different types of nuclear structures , and shows that MDC1 directly recruits and retains a subset of 53BP1 for DNA repair .

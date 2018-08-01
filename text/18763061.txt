@@ -1,0 +1,7 @@
+The morphology characteristics of cell apoptosis of the malignant tumour cells in magnetic field-treated mouse was observed for the first time .
+The apoptotic cancer cell contracted , became rounder and divorced from adjacent cells ; the heterochromatin condensed and coagulated together along the inner side of the nuclear membrane ; the endoplasmic reticulums ( ER ) expanded and fused with the cellular membrane ; many apoptotic bodies which were packed by the cellular membrane appeared and were devoured by some lymphocytes and plasma .
+Apoptosis of cancer cells was detected by terminal deoxynucleotidyl transferase mediatedin situ nick end labeling ( TUNEL ) .
+It was found that the number of apoptosis cancer cells of the sample treated by the magnetic field is more than that of the control sample .
+The growth of malignant tumour in mice was inhibited and the ability of immune cell to dissolve cancer cells was improved by ultralow frequency ( ULF ) pulsed gradient magnetic field ; the nuclei DNA contents decreased , indicating that magnetic field can block DNA replication and inhibit mitosis of cancer cells .
+It was suggested that magnetic field could inhibit the metabolism of cancer cell , lower its malignancy , and restrain its rapid and heteromorphic growth .
+Since ULF pulsed gradient magnetic field can induce apoptosis of cancer cells and inhibit the growth of malignant tumour , it could be used as a new method to treat cancer .

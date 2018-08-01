@@ -1,0 +1,12 @@
+Kinins and their receptors have been recently implicated in cancer .
+Using functional and molecular approaches , we investigated the relevance of kinin B(1) and B(2) receptors in bladder cancer .
+Functional studies were conducted using bladder cancer cell lines , and human biopsies were employed for molecular studies .
+Both B(1) des-Arg(9)-BK and B(2) BK receptor agonists stimulated the proliferation of grade 3-derived T24 bladder cancer cells .
+Furthermore , treatment with B(1) and B(2) receptor antagonists ( SSR240612 and HOE140 ) markedly inhibited the proliferation of T24 cells .
+Only higher concentrations of BK increased the proliferation of the grade 1 bladder cancer cell line RT4 , while des-Arg(9)-BK completely failed to induce its proliferation .
+Real-time PCR revealed that the mRNA expression of kinin receptors , particularly B(1) receptors , was increased in T24 cells relative to RT4 cells .
+Data from bladder cancer human biopsies revealed that B(1) receptor expression was increased in all tumor samples and under conditions of chronic inflammation .
+We also show novel evidence demonstrating that the pharmacological inhibition of PI3Kγ ( phosphatidylinositol 3-kinase ) with AS252424 , concentration-dependently reduced T24 cell proliferation induced by BK or des-Arg(9)-BK .
+Finally , the incubation of T24 cells with kinin agonists led to a marked activation of the PI3K/AKT and ERK 1/2 signaling pathways , whereas p38 MAP kinase remained unaffected .
+Kinin receptors , especially B(1) receptors , appear to be implicated in bladder cancer progression .
+It is tempting to suggest that selective kinin antagonists might represent potential alternative therapies for bladder cancer .

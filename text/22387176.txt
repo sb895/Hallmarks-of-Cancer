@@ -1,0 +1,10 @@
+Partial or whole-brain irradiation is often required to treat both primary and metastatic brain cancer .
+Radiation-induced normal tissue injury , including progressive cognitive impairment , however , can significantly affect the well-being of the approximately 200,000 patients who receive these treatments each year in the United States .
+Although the exact mechanisms underlying radiation-induced late effects remain unclear , oxidative stress and inflammation are thought to play a critical role .
+Microglia are key mediators of neuroinflammation .
+Peroxisomal proliferator-activated receptor ( PPAR ) δ has been shown to be a potent regulator of anti-inflammatory responses .
+Thus , we hypothesized that PPARδ activation would modulate the radiation-induced inflammatory response in microglia .
+Incubating BV-2 murine microglial cells with the PPARδ agonist L-165041 prevented the radiation-induced increase in : ( i ) intracellular reactive oxygen species generation , ( ii ) Cox-2 and MCP-1 expression , and ( iii ) IL-1β and TNF-α message levels .
+This occurred , in part , through PPARδ-mediated modulation of stress-activated kinases and proinflammatory transcription factors .
+PPARδ inhibited NF-κB via transrepression by physically interacting with the p65 subunit and prevented activation of the PKCα/MEK1/2/ERK1/2/AP-1 pathway by inhibiting the radiation-induced increase in intracellular reactive oxygen species generation .
+These data support the hypothesis that PPARδ activation can modulate radiation-induced oxidative stress and inflammatory responses in microglia .

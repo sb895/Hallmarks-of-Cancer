@@ -1,0 +1,10 @@
+The new concept of keeping primary tumor under control in situ to suppress distant foci sheds light on the novel treatment of metastatic tumor .
+Hyperthermia is considered as one of the means for controlling tumor growth .
+In this study , a novel thermal modality was built to introduce hyperthermia effect on tumor to suppress its growth and progression using 4T1 murine mammary carcinoma , a common animal model of metastatic breast cancer .
+A mildly raised temperature ( i.e.39�C ) was imposed on the skin surface of the implanted tumor using a thermal heating pad .
+Periodic heating ( 12 hours per day ) was carried out for 3 days , 7 days , 14 days , and 21 days , respectively .
+The tumor growth rate was found significantly decreased in comparison to the control without hyperthermia .
+Biological evidences associated with tumor angiogenesis and metastasis were examined using histological analyses .
+Accordingly , the effect of mild hyperthermia on immune cell infiltration into tumors was also investigated .
+It was demonstrated that a delayed tumor growth and malignancy progression was achieved by mediating tumor cell apoptosis , vascular injury , degrading metastasis potential and as well as inhibiting the immunosuppressive cell myeloid derived suppressor cells ( MDSCs ) recruitment .
+Further mechanistic studies will be performed to explore the quantitative relationship between tumor progression and thermal dose in the near future .

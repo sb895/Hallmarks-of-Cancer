@@ -1,0 +1,8 @@
+MAP17 is a small 17 kDa non-glycosylated membrane protein previously identified as being overexpressed in carcinomas .
+Breast tumor cells that overexpress MAP17 show an increased tumoral phenotype with enhanced proliferative capabilities both in the presence or the absence of contact inhibition , decreased apoptotic sensitivity , and increased migration .
+MAP17-expressing clones also grow better in nude mice .
+The increased malignant cell behavior induced by MAP17 is associated with an increase in reactive oxygen species ( ROS ) production , and the treatment of MAP17-expressing cells with antioxidants results in a reduction in the tumorigenic properties of these cells .
+The MAP17-dependent increase in ROS and tumorigenesis relies on its PDZ-binding domain because disruption of this sequence by point mutations abolishes the ability of MAP17 to enhance ROS production and tumorigenesis .
+MAP17 is overexpressed in a great variety of human carcinomas , including breast tumors .
+Immunohistochemical analysis of MAP17 during cancer progression demonstrates that overexpression of the protein strongly correlates with tumoral progression .
+Generalized MAP17 overexpression in human carcinomas indicates that MAP17 can be a good marker for tumorigenesis and , especially , for malignant progression .

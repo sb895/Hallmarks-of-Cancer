@@ -1,0 +1,9 @@
+The goal of this study was to determine the prevalence of sequence variants in the class I beta-tubulin ( clone m40 ) gene and their occurrence in human tumors and cancer cell lines .
+DNA was isolated from 93 control individuals representing a wide variety of ethnicities , 49 paclitaxel-naive specimens ( 16 ovarian cancers , 17 non-small cell lung cancers , and 16 ovarian cancer cell lines ) , and 30 paclitaxel-resistant specimens ( 9 ovarian cancers , 9 ovarian cancer cell lines , and 12 ovarian cancer xenografts in nude mice ) .
+Denaturing high-performance liquid chromatography and direct sequence analysis detected two silent polymorphisms in exon 4 , Leu217Leu ( CTG/CTA ) and Gly400Gly ( GGC/GGT ) , with minor allele frequencies of 17 and 0.5% , respectively .
+Five nucleotide substitutions and one single-base deletion were detected in introns 1 , 2 , and 3 and in the 3 ' untranslated region .
+Analysis of 49 paclitaxel-naive and 30 paclitaxel-resistant specimens revealed no additional polymorphisms in the coding region .
+In addition , no amino acid replacements were found in chimpanzee , gorilla , and orangutan in comparison to human .
+Our data demonstrate a very high degree of sequence conservation in class I beta-tubulin , suggesting that all residues are important in tubulin structure and function .
+Individual variation in response to treatment with paclitaxel is not likely to be caused by genetic variations in the beta-tubulin drug target .
+Moreover , acquired mutations in class I beta-tubulin are unlikely to be a clinically relevant cause of drug resistance .

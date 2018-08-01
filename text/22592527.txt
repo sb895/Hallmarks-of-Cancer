@@ -1,0 +1,9 @@
+Reversine is a small synthetic molecule that inhibits multiple mitotic kinases , including MPS1 as well as Aurora kinase A and B ( AURKA and AURKB ) .
+Here , we investigated the effects of reversine on p53-deficient vs p53-proficient cancer cells .
+We found that low doses ( �M ) of reversine , which selectively inhibit MPS1 and hence impair the spindle assembly checkpoint , kill human TP53 ( -/- ) colon carcinoma cells less efficiently than their wild-type counterparts .
+In sharp contrast , high doses ( �M ) of reversine induced hyperploidization and apoptosis to a much larger extent in TP53 ( -/- ) than in TP53 ( +/+ ) cells .
+Such a selective cytotoxicity could not be reproduced by the knockdown of MPS1 , AURKA and AURKB , neither alone nor in combination , suggesting that it involves multiple ( rather than a few ) molecular targets of reversine .
+Videomicroscopy-based cell fate profiling revealed that , in response to high-dose reversine , TP53 ( -/- ) ( but not TP53 ( +/+ ) ) cells undergo several consecutive rounds of abortive mitosis , resulting in the generation of hyperpolyploid cells that are prone to succumb to apoptosis upon the activation of mitotic catastrophe .
+In line with this notion , the depletion of anti-apoptotic proteins of the BCL-2 family sensitized TP53 ( -/- ) cells to the toxic effects of high-dose reversine .
+Moreover , the knockdown of BAX or APAF-1 , as well as the chemical inhibition of caspases , limited the death of TP53 ( -/- ) cells in response to high-dose reversine .
+Altogether , these results suggest that p53-deficient cells are particularly sensitive to the simultaneous inhibition of multiple kinases , including MPS1 , as it occurs in response to high-dose reversine .

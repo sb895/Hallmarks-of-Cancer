@@ -1,0 +1,7 @@
+OBJECTIVE Although downregulation of neural cell adhesion molecule ( NCAM ) has been correlated with poor prognosis in colorectal cancer ( CRC ) , it is also possible that colon cancer spreading comes from reducing tumor cell adhesion through NCAM polysialylation , as occurs in lung carcinoma or Wilms ' tumor .
+METHODS To prove this hypothesis , we have performed a prospective study on tumor and control specimens from 39 CRC patients , which were immunostained for NCAM and PSA ( polysialic acid ) expression .
+RESULTS Tumor versus control expression of NCAM and PSA epitopes in tissue specimens , as well as correlation between tumor expression and clinicopathological features , were statistically analyzed .
+Results showed a low constitutive expression of NCAM and PSA ( PSA-NCAM ) in control tissue , which reached a statistically significant increase in the tumor tissue .
+Likewise , the presence and number of lymph node metastases at surgery were correlated with NCAM expression and PSA/NCAM coexpression .
+CONCLUSIONS These data highlight the importance of taking into account PSA-associated epitopes when dealing with NCAM cell expression studies in tumor development and progression .
+The analysis of PSA and NCAM expression in CRC suggests a new way , other than downregulation of NCAM , in order to escape contact inhibition and promote cell tumor spreading in colorectal cancer .

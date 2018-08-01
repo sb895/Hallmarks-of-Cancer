@@ -1,0 +1,6 @@
+Cancer-prone diseases ataxia-telangiectasia ( AT ) , Nijmegen breakage syndrome ( NBS ) and ataxia-telangiectasia-like disorder ( ATLD ) are defective in the repair of DNA double-stranded break ( DSB ) .
+On the other hand , arsenic ( As ) has been reported to cause DSB and to be involved in the occurrence of skin , lung and bladder cancers .
+To dissect the repair mechanism of As-induced DSB , wild type , AT and NBS cells were treated with sodium arsenite to study the complex formation and post-translational modification of Rad50/NBS1/Mre11 repair proteins .
+Our results showed that Mre11 went through cell cycle-dependent phosphorylation upon sodium arsenite treatment and this post-translational modification required NBS1 but not ATM .
+Defective As-induced Mre11 phosphorylation was rescued by reconstitution with full length NBS1 in NBS cells .
+Although As-induced Mre11 phosphorylation was not required for Rad50/NBS1/Mre11 complex formation , it might be required for the formation of Rad50/NBS1/Mre11 nuclear foci upon DNA damage .

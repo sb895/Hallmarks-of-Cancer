@@ -1,0 +1,12 @@
+Bulky DNA adducts are considered a potential biomarker of cancer risk .
+In this study , the association between various lifestyle , environmental , and genetic factors and the levels of bulky DNA adducts in peripheral leukocytes was examined in a study group nested within a population-based prospective Danish cohort .
+At enrollment , blood samples were collected and information on lifestyle , including dietary and smoking habits , obtained .
+Previously , bulky DNA adducts were measured in 245 individuals who developed lung cancer and 255 control members of the cohort .
+Of these 500 individuals , data on 375 individuals were included in this study , excluding 125 cases , which developed lung cancer within the first 3 yr after blood sampling .
+Bulky DNA adduct levels were measured by 32P-postlabeling technique and polymorphisms in carcinogen metabolism and DNA repair genes were determined .
+Potential predictors of bulky DNA adduct levels were analyzed by univariate and multivariate regression analyses .
+Women tended to have higher adduct levels than men .
+Living in central Copenhagen and surface darkness of fried meat and fish were associated with quantitative higher adduct levels .
+No significant associations were found between dietary factors or smoking and DNA adduct levels .
+Further , the results showed no prominent associations between any of 12 genetic polymorphisms and adduct levels .
+Overall , our study showed only few associations between dietary , environmental , and genetic factors and levels of bulky DNA adducts measured in peripheral leukocytes in a general Danish population .

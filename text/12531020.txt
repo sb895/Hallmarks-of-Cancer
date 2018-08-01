@@ -1,0 +1,5 @@
+Mice defective in the mismatch repair ( MMR ) gene Msh2 manifest an enhanced predisposition to skin cancer associated with exposure to UVB radiation .
+This predisposition is further heightened if the mice are additionally defective for the nucleotide excision repair gene Xpc .
+To test the hypothesis that the predisposition of Msh2 mutant mice to skin cancer reflects a mutator phenotype associated with increased proliferation of skin cells following exposure to UV radiation , Msh2 mutant mice were exposed to the tumor promoter TPA .
+Such mice showed a robust proliferative response in the skin , but did not manifest evidence of dysplasia or neoplasia .
+We conclude that the predisposition of Msh2 mice to UVB radiation-induced skin cancer reflects an interaction between the processes of mismatch repair and some other excision repair mode , the exact nature of which remains to be established .

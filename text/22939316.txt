@@ -1,0 +1,13 @@
+Elderly patients with acute myeloid leukemia generally have a poor prognosis and a highly heterogeneous clinical outcome .
+Prognostic indicators are required for and aid in patient stratification .
+However , the prognostic value of genetic mutations and immunophenotypic features in elderly normal karyotype acute myeloid leukemia , the largest cytogenetic risk group , remains unclear .
+We investigated the genetic mutations NPM1 , FLT3-ITD , and FLT3-TKD and expression of the membrane antigens CD7 , CD15 , CD34 , and CD56 in 144 elderly patients with de novo normal karyotype acute myeloid leukemia to retrospectively analyze the prognostic and clinical relevance of these parameters .
+CD7 , CD15 , CD34 , and CD56 were expressed in 24% , 47% , 52% , and 15% of patients , respectively .
+NPM1 and FLT3-ITD mutations were detected in 51% and 17% of patients , respectively .
+Complete remission was obtained in 94 patients ( 65% ) , and the median overall survival was 16.5 months .
+Univariate analysis detected 5 markers with prognostic relevance : high leukocyte count , FLT3-ITD mutations , NPM1 mutations , CD34 expression , and CD56 expression in acute myeloid leukemia blasts .
+In multivariate analysis , patients with NPM1 predicted a higher complete remission ( CR ) rate ( P = .016 ) , longer event-free survival ( P = .008 ) , and longer overall survival ( P = .049 ) .
+FLT3-ITD mutations predicted a shorter event-free survival ( P = .002 ) and shorter overall survival ( P < .001 ) .
+CD56 remained an independent predictor for lower CR rate ( P = .021 ) and shorter event-free survival ( P = .002 ) .
+Our data highlight the prognostic importance of both genetic and immunophenotypic characteristics in this population of elderly patients with newly diagnosed normal karyotype acute myeloid leukemia .
+By combining genetic and immunophenotypic markers , we can divide patients into distinct prognostic groups with important implications for prognostic stratification and risk-adapted therapy .

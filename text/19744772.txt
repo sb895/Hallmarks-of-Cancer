@@ -1,0 +1,4 @@
+PTEN loss of function enhances proliferation , but effects on cellular energy metabolism are less well characterized .
+We used an inducible PTEN expression vector in a PTEN-null glioma cell line to examine this issue .
+While proliferation of PTEN-positive cells was insensitive to increases in glucose concentration beyond 2.5mM , PTEN-null cells significantly increased proliferation with increasing glucose concentration across the normal physiologic range to approximately 10mM , coinciding with a shift to glycolysis and " glucose addiction " .
+This demonstrates that the impact of loss of function of PTEN is modified by glucose concentration , and may be relevant to epidemiologic results linking hyperglycemia to cancer risk and cancer mortality .

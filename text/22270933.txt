@@ -1,0 +1,11 @@
+Prolactin ( PRL ) promotes the proliferation and survival of breast cancer cells in part via the transactivation of human epidermal growth factor receptor 2 ( HER2 ) , also known as Neu in rodents .
+A PRL receptor ( PRLR ) antagonist , G129R , has been developed , which indirectly inhibits the tyrosine phosphorylation of HER2 ( p-HER2 ) in human breast cancer cell lines .
+In this study , we investigate the effects of cancer-associated fibroblasts ( CAFs ) upon this molecular cross-talk using tumor cells and CAFs derived from spontaneous mammary tumors of female MMTV-neu transgenic mice .
+Tumors were resected and cultured as small tumor chunks ( mm3 ) or were cultured in monolayer .
+G129R reduced tyrosine phosphorylation of Neu ( p-Neu ) in a dose-dependent manner ( IC50 μg/ml ) in tumor chunks , but had no effect on primary tumor epithelial cells grown in monolayer .
+Direct co-culture of mouse or human tumor epithelial cell lines with CAFs restored the epithelial cells ' response to G129R , similar to that observed in mouse tumor chunks .
+The addition of PRL , as expected , induced p-Neu in both the tumor chunk and co-culture models .
+The inhibitory effect of G129R was absent when CAFs were physically separated from mouse tumor epithelial cells using a transwell system , or when CAFs were replaced with normal fibroblasts in direct co-culture with human or mouse tumor epithelial cells .
+In vivo , G129R reduced p-Neu levels in primary mammary tumors of mice in a time- and dose-dependent manner .
+In conclusion , CAFs play a critical role in bridging the cross-talk between PRL and HER2/Neu in both mouse and human models of breast cancer .
+The inhibitory effects of G129R on p-Neu and on tumor growth are dependent upon interactions of tumor epithelial cells with CAFs .

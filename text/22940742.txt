@@ -1,0 +1,12 @@
+Angiogenesis is defined as the formation of new blood vessels form existing vessels surrounding a tumor .
+The process of angiogenesis is an important step for tumor growth and metastasis , as is inflammation .
+Thus , angiogenesis inhibitors that suppress inflammation have been studied as an anticancer treatment .
+Recently , many research groups have investigated the anti-angiogenic activity of natural compounds since some have been demonstrated to have anticancer properties .
+Among many natural compounds , we focused on betaine , which is known to suppress inflammation .
+Betaine , trimethylglycine ( TMG ) , was first discovered in the juice of sugar beets and was later shown to be present in wheat , shellfish and spinach .
+In Southeast Asia , betaine is used in traditional oriental medicine for the treatment of hepatic disorders .
+Here , we report the anti-angiogenic action of betaine .
+Betaine inhibited invitro angiogenic cascade , tube formation , migration and invasion of human umbilical vein endothelial cells ( HUVECs ) .
+Betaine also inhibited invivo angiogenesis in the mouse Matrigel plug assay .
+The mRNA expression levels of basic fibroblast growth factor ( bFGF ) , matrix metalloproteinase-2 ( MMP-2 ) and matrix metalloproteinase-9 ( MMP-9 ) in HUVECs were decreased by betaine treatment .
+In addition , betaine suppressed NF-κB and Akt activation .

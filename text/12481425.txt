@@ -1,0 +1,10 @@
+Ovarian hormones have a pivotal role in the control of proliferation in the mammary gland , and cumulative life-time exposure to ovarian hormones is known to be a determinant of breast cancer risk .
+We have shown previously that a p.o.-active , long-acting butyrate analogue , sodium phenylbutyrate ( PB ) , reduced proliferation in normal and malignant human breast cells in culture and reduced expression of ovarian hormone receptors , suggesting that PB had cellular effects consistent with decreasing breast cancer risk .
+The aim of this study was to determine the in vivo effects of PB in the normal mammary gland on epithelial cell proliferation , estrogen receptor alpha ( ER alpha ) expression , and cyclin D1 expression .
+BALB/c mice were treated with PB , delivered by mini-osmotic pumps , for 7 days .
+Moderate ( 250 mg/kg/day ) and high ( 500 mg/kg/day ) PB treatment resulted in a decrease in proliferation in mammary epithelial cells ( P < 0.001 ) , determined by bromodeoxyuridine incorporation .
+Analysis of ER alpha immunostaining revealed a significant reduction in moderate- and high-treatment groups ( P = 0.01 and P = 0.02 ) , and expression of cyclin D1 was virtually ablated ( P < 0.001 ) .
+Histone deacetylase inhibition is a known mechanism of butyrate action , and consistent with this , PB increased levels of acetylated histone H3 in the mammary gland .
+In summary , PB decreased proliferation in the mammary gland in vivo at clinically achievable doses .
+Decreased proliferation was accompanied by changes in the levels of ER alpha and cyclin D1 .
+These data show that PB modulates parameters thought to be involved in the carcinogenic process in the normal mammary gland , and compounds in this class may therefore be useful candidates for breast cancer chemoprevention .

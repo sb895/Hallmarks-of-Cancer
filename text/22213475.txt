@@ -1,0 +1,10 @@
+Transcriptional coactivator amplified in breast cancer 1 ( AIB1 ) plays important roles in the progression of several cancers such as prostate cancer , breast cancer , and hepatocellular carcinoma .
+However , its role in cholangiocarcinoma ( CCA ) , a chemoresistant bile duct carcinoma with a poor prognosis , remains unclear .
+In this study we found that AIB1 protein was frequently overexpressed in human CCA specimens and CCA cell lines .
+Down-regulation of AIB1 induced the G2/M arrest and decreased the expression of mitosis-promoting factors including Cyclin A , Cyclin B , and Cdk1 through suppressing the Akt pathway , which resulted in inhibiting CCA cell proliferation .
+In addition , AIB1 enhanced the chemoresistance of CCA cells at least in part through up-regulating the expression of antiapoptotic protein Bcl-2 .
+AIB1 regulated the expression of Bcl-2 in CCA cells through activating the Akt pathway as well as suppressing intracellular reactive oxygen species ( ROS ) .
+AIB1 suppressed ROS by up-regulating antioxidants such as glutathione synthetase and glutathione peroxidase , which are targets of the NF-E2-related factor 2 ( Nrf2 ) , a critical transcription factor that regulates antioxidants , detoxification enzymes , and drug efflux proteins .
+AIB1 also increased the expression of another two Nrf2 targets , ABCC2 and ABCG2 , to enhance drug efflux .
+AIB1 served as an essential coactivator for Nrf2 activation by physically interacting with Nrf2 to enhance its transcriptional activity .
+Conclusion : AIB1 plays an important role in proliferation and chemoresistance of CCA through simultaneous activation of Akt and Nrf2 pathways , suggesting that AIB1 is a potential molecular target for CCA treatment .

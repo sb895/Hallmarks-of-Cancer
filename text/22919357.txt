@@ -1,0 +1,5 @@
+To evaluate a radioprotective effect of sodium n-propyl thiosulfate ( NPTS ) and sodium 2-propenyl thiosulfate ( 2PTS ) derived from onions and garlic , respectively , rat hepatoma H4IIE cells and mouse lymphoma L5178Y cells were preincubated with each of these compounds for 48 hours at 37°C before receiving 10 Gy of X-ray irradiation .
+Cell damage caused by the irradiation was quantified as comet tail moment , which represents the degree of DNA damage .
+X-ray-induced DNA damage was significantly decreased in both H4IIE and L5178Y cells by micromolar concentrations of NPTS and 2PTS compared with the control without the compounds .
+The protective effect was more potent with 2PTS than NPTS .
+Onions and garlic have antiradiation potential .

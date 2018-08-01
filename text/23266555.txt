@@ -1,0 +1,8 @@
+Members of the Orai family are highly selective calcium ion channels that play an important role in store-operated calcium entry .
+Among the three known Orai isoforms , Orai3 has gained increased attention , notably for its emerging role in cancer .
+We recently demonstrated that Orai3 channels are over-expressed in breast cancer ( BC ) biopsies , and involved specifically in proliferation , cell cycle progression and survival of MCF-7 BC cells .
+Here , we investigate the downstream signaling mechanisms affected by Orai3 silencing , leading to the subsequent functional impact specifically seen in MCF-7 cancer cells .
+We report a correlation between Orai3 and c-myc expression in tumor tissues and in the MCF-7 cancer cell line by demonstrating that Orai3 down-regulation reduces both expression and activity of the proto-oncogene c-myc .
+This is likely mediated through the MAP Kinase pathway , as we observed decreased pERK1/2 levels and cell-cycle arrest in G1 phase after Orai3 silencing .
+Our results provide strong evidence that the c-myc proto-oncogene is influenced by the store-operated calcium entry channel Orai3 through the MAP kinase pathway .
+This connection provides new clues in the downstream mechanism linking Orai3 channels and proliferation , cell cycle progression and survival of MCF-7 BC cells .

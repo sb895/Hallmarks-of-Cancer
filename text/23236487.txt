@@ -1,0 +1,12 @@
+BACKGROUND Treatment of head and neck cancer with radiation often results in damage to surrounding normal tissues such as salivary glands .
+Permanent loss of function in the salivary glands often leads patients to discontinue treatment due to incapacitating side effects .
+It has previously been shown that IGF-1 suppresses radiation-induced apoptosis and enhances G2/M arrest leading to preservation of salivary gland function .
+In an effort to recapitulate the effects of IGF-1 , as well as increase the likelihood of translating these findings to the clinic , the small molecule therapeutic Roscovitine , is being tested .
+Roscovitine is a cyclin-dependent kinase inhibitor that acts to transiently inhibit cell cycle progression and allow for DNA repair in damaged tissues .
+METHODOLOGY/PRINCIPAL FINDINGS Treatment with Roscovitine prior to irradiation induced a significant increase in the percentage of cells in the G(2)/M phase , as demonstrated by flow cytometry .
+In contrast , mice treated with radiation exhibit no differences in the percentage of cells in G(2)/M when compared to unirradiated controls .
+Similar to previous studies utilizing IGF-1 , pretreatment with Roscovitine leads to a significant up-regulation of p21 expression and a significant decrease in the number of PCNA positive cells .
+Radiation treatment leads to a significant increase in activated caspase-3 positive salivary acinar cells , which is suppressed by pretreatment with Roscovitine .
+Administration of Roscovitine prior to targeted head and neck irradiation preserves normal tissue function in mouse parotid salivary glands , both acutely and chronically , as measured by salivary output .
+CONCLUSIONS/SIGNIFICANCE These studies suggest that induction of transient G(2)/M cell cycle arrest by Roscovitine allows for suppression of apoptosis , thus preserving normal salivary function following targeted head and neck irradiation .
+This could have an important clinical impact by preventing the negative side effects of radiation therapy in surrounding normal tissues .

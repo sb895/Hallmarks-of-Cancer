@@ -1,0 +1,8 @@
+Expression of angiogenic factors is upregulated in hyperplastic mucosa adjacent to colon cancer , and this upregulation is closely associated with cancer growth and metastasis .
+We investigated the role of histone acetylation in vascular endothelial growth factor ( VEGF ) expression in hyperplastic mucosa adjacent to orthotopic colon cancer in mice .
+In the hyperplastic mucosa adjacent to KM12SM tumor in the cecum of athymic mice , VEGF upregulation was associated with hypoxia-inducible factor ( HIF)-1alpha induction .
+The hyperplastic mucosa also showed hypoacetylation of histone H4 and reduction of both p53 and von Hippel-Lindau ( VHL ) proteins .
+To examine the effects of growth factors and cytokines on histone acetylation and levels of p53 , VHL and HIF-1alpha , the rat intestinal epithelial cell line IEC6 was treated with epidermal growth factor ( EGF ) and interleukin ( IL)-15 for 35 days .
+Acetylated histone H4 , p53 protein and ubiquitinated protein levels were reduced , whereas HIF-1alpha production was upregulated in EGF- and IL-15-treated IEC6 cells .
+These findings suggest that EGF- or IL-15-induced histone H4 hypoacetylation is associated with repression of p53 and VHL genes in intestinal epithelial cells .
+The subsequent suppression of protein ubiquitination leads to upregulation of VEGF production by HIF-1alpha retention .

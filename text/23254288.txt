@@ -1,0 +1,11 @@
+Gliomas display anoikis resistance , enhanced invasion in to the adjacent brain parenchyma and eventually recur despite using the standard therapies .
+Our studies on increased anoikis sensitization in matrix metalloproteinase-2 ( MMP-2)-knockdown 4910 and 5310 human glioma xenograft cells were interestingly correlated with p21-activated kinase 4 ( PAK4 ) inhibition , prompting us to further investigate the role of PAK4 in glioma .
+Here , we report the PAK4 upregulation in positive correlation with increasing glioma pathological grades .
+The siRNA-mediated PAK4 knockdown elevated anoikis , and inhibited invasion and migration by downregulating MMP-2 , αvβ3-integrin and phospho-epidermal growth factor receptor ( phospho-EGFR ) .
+The cDNA-PCR arrays revealed a transcriptional suppression of essential proteins involved in cell proliferation and adhesion in PAK4-knockdown cells .
+Most importantly , glutathione S-transferase pull-down assays demonstrated the MMP-2 as a new PAK4-interacting protein which binds to PAK4 kinase domain .
+Individual EGFR/ErbB2 inhibitor and αvβ3 antibody treatments in PAK4si-treated cells indicated the regulation of αvβ3/EGFR survival signaling by PAK4 .
+Overexpression of PAK4 significantly reversed the MMP2si-induced cell death in both cell lines .
+Codepletion of PAK4 and MMP-2 resulted in robust anoikis-mediated cell death , and severely inhibited invasive and migratory properties in these cells .
+PAK4si inhibited in vivo tumor growth in nude mice by inhibiting MMP-2 , β3-integrin and phospho-EGFR levels in tumors .
+Our findings indicate a physical association between PAK4 and MMP-2 , and suggest the future therapeutic potential of PAK4/MMP-2 dual targeting in glioma treatment .

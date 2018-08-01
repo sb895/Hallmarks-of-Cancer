@@ -1,0 +1,6 @@
+Breast cancer metastasis is the most common cause of cancer-related death in women .
+Thus , seeking targets of breast tumor cells is an attractive goal towards improving clinical treatment .
+The present study showed that CCL18 from tumor-associated macrophages could promote breast cancer metastasis via PITPNM3 .
+In addition , we found that pachymic acid ( PA ) could dose-dependently inhibit migration and invasion of MDA-MB-231 cells , with or without rCCL18 stimulation .
+Furthermore , evidence was obtained that PA could suppress the phosphorylation of PITPNM3 and the combination of CCL18 and PITPNM3 .
+Therefore , we speculate that PA could inhibit breast cancer metastasis via PITPNM3 .

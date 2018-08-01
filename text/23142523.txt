@@ -1,0 +1,9 @@
+BACKGROUND AND AIMS : Impairment of the immune system may contribute to the risk for having cancer as Toll-like receptors are important for innate immunity .
+We examined the association between candidate disease-susceptibility polymorphisms in the single nucleotide polymorphism ( SNPs ) like TLR2 ( -196 to-174del ) , TLR3 ( C1377T ) , TLR4 ( Thr399Ile ) and TLR9 ( G2848A ) genes in patients with bladder cancer in a North Indian population .
+METHODS : SNPs were comprised of TLR2 ( -196 to -174 Del ) , TLR3(C1377T) , TLR4 ( Thr399Ile ) and TLR9 ( G2848A ) genes .
+Allelic and genotypic frequencies of these TLRs SNP from histopathologically confirmed patients of bladder cancer ( n=200 ) and unrelated healthy controls of similar ethnicity ( n=200 ) were genotyped by polymerase chain reaction restriction fragment length polymorphism ( PCR-RFLP ) analysis .
+RESULTS : In TLR2 I/D gene polymorphism , the combination of ID+DD showed a significant 3-fold increased risk ( p=0.001 ) .
+TLR2 with heterozygous genotype ID showed a 3-fold risk and combination of heterozygous and variant genotype ( ID+DD ) also showed a 5-fold risk with tumor stage/grade of patients with bladder cancer .
+The other genotypes of TLR3 , 4 and 9 did not exhibit any significant association with bladder cancer risk .
+CONCLUSIONS : Our results suggested the involvement of TLR2 ( -196 to-174 del ) in bladder cancer susceptibility ; however , TLR3 , 4 and 9 genes were not associated with risk of bladder cancer , implicating that polymorphisms in these tested TLRs genes are not likely to be associated with increased risk for developing bladder cancer .
+Functional studies in ethnically diverse populations may provide a more comprehensive involvement of innate immunity in identifying the disease-associated variants for the etiology of bladder cancer .

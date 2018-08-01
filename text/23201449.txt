@@ -1,0 +1,10 @@
+Phyllanthus urinaria is widely used as anti-inflammatory , antiviral , antibacterial , and anti-hepatotoxic medicines in almost every tropical country .
+However , scientific evidence supporting its use in cancer metastasis is limited , particularly osteosarcoma .
+We investigated the effect of P. urinaria extract ( PUE ) on cell viability , invasion , and migration in the human osteosarcoma Saos-2 cell line , and looked at the impact of PUE on several relevant proteases and signaling pathways .
+This study demonstrates that PUE , at a range of concentrations ( from 0 to 100 μg/ml ) , concentration-dependently inhibited the migration/invasion capacities of Saos-2 without cytotoxic effects .
+Zymographic and western blot analyses revealed that PUE inhibited the urokinase-type plasminogen activator ( u-PA ) and matrix metalloproteinase-2 ( MMP-2 ) enzyme activity , as well as protein expression .
+Western blot analysis also showed that PUE inhibits phosphorylation of ERK1/2 and Akt .
+Testing of mRNA level , quantitative real-time PCR , and promoter assays evaluated the inhibitory effects of PUE on u-PA expression in Saos-2 cells .
+The chromatin immunoprecipitation ( ChIP ) assay was reactive to the transcription protein SP-1 , which was inhibited by PUE .
+In conclusion , PUE suppresses human osteosarcoma Saos-2 cell invasion and migration by transcriptionally inhibiting u-PA via ERK and Akt signaling pathways .
+Therefore , PUE produces anti-metastatic activity in Saos-2 cells .

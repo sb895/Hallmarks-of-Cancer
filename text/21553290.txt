@@ -1,0 +1,14 @@
+E6-associated protein ( E6-AP ) is a dual function protein .
+It acts as an E3 ubiquitin-protein ligase enzyme and coactivator of steroid hormone receptors such as estrogen ( ERα ) and progesterone ( PR ) receptors .
+It promotes the degradation of ERα and PR through the ubiquitin-proteasome pathway .
+Furthermore , it has been shown that the levels of E6-AP are inversely associated with that of ERα in human breast tumors .
+But the role of wild-type human E6-AP and its ubiquitin-protein ligase activity in mammary tumorigenesis is still unknown .
+To investigate this role , the authors utilized transgenic mice lines that specifically overexpress either the wild-type human E6-AP ( E6-AP(WT) ) or the ubiquitin-protein ligase defective E6-AP that contains C833S mutation ( E6-AP(C833S) ) in the mammary gland .
+To further substantiate the role of E6-AP in the development of breast tumorigenesis , it was also examined the expression of E6-AP in a large cohort of human breast cancer samples .
+The transgenic mice that overexpress wild-type E6-AP ( E6-AP(WT) ) fail to develop mammary tumors .
+Unlike the E6-AP(WT) mice , the E6-AP(C833S) mice that overexpress ubiquitin-protein ligase defective E6-AP protein develop mammary hyperplasia with a median latency of 18months .
+These observations suggest that the inactivation of the ubiquitin-protein ligase function of E6-AP is sufficient to initiate the process of mammary tumor development .
+Furthermore , the data also suggests that E6-AP exerts its effects on target cells by modulating the protein levels and functions of ERα and PR .
+In addition , it was found in human breast cancer patients that the level of E6-AP is decreased in invasive breast tumors compared to normal breast tissue .
+Moreover , the authors also show that the survival patterns for E6-AP negative patients were worse compared to E6-AP positive patients .
+Taken together , these data suggests that E6-AP may act as a tumor suppressor in breast .

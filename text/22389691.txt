@@ -1,0 +1,9 @@
+DNA double strand breaks ( DSBs ) occur constantly in eukaryotes .
+These potentially lethal DNA lesions are repaired efficiently by two major DSB repair pathways : homologous recombination and non-homologous end joining ( NHEJ ) .
+We investigated NHEJ in Arabidopsis thaliana and tobacco ( Nicotiana tabacum ) by introducing DNA double-strand breaks through inducible expression of I-SceI , followed by amplification of individual repair junction sequences by single-molecule PCR .
+Using this process over 300 NHEJ repair junctions were analysed in each species .
+In contrast to previously published variation in DSB repair between Arabidopsis and tobacco , the two species displayed similar DSB repair profiles in our experiments .
+The majority of repair events resulted in no loss of sequence and small ( 1-20 bp ) deletions occurred at a minority ( 25-45% ) of repair junctions .
+Approximately of the observed repair events contained larger deletions ( >20 bp ) and a similar percentage contained insertions .
+Strikingly , insertion events in tobacco were associated with large genomic deletions at the site of the DSB that resulted in increased micro-homology at the sequence junctions suggesting the involvement of a non-classical NHEJ repair pathway .
+The generation of DSBs through inducible expression of I-SceI , in combination with single molecule PCR , provides an effective and efficient method for analysis of individual repair junctions and will prove a useful tool in the analysis of NHEJ .

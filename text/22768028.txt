@@ -1,0 +1,9 @@
+Vascular endothelial growth factor ( VEGF ) is one of the most important mediators of angiogenesis .
+Single-chain ( sc)-VEGF protein containing an N-terminal Cys-tag has been designed for site-specific modification with a variety of imaging and therapeutic moieties .
+Site-specific labeling of scVEGF with thiol-reactive prosthetic group , N-[2-(4-(18)F-fluorobenzamido) ethyl ] maleimide ( [ (18)F]FBEM ) for positron emission tomography ( PET ) imaging of VEFGR may provide a new tracer which has great potential for clinical translation.Methods : [ (18)F]FBEM-scVEGF was synthesized by site-specific conjugation of ( 18)F-FBEM to a thiol group in Cys-tag of scVEGF at room temperature .
+The functional activity after labeling was tested by immunofluorescence staining , cellular uptake and efflux .
+The tumor targeting and in vivo properties were evaluated by biodistribution and microPET studies in tumor-bearing mice.Results : The radiolabeling yield and specific activity of [ (18)F]FBEM-scVEGF were 20.6 � 15.1% ( based on starting [ (18)F]FBEM , uncorrected , n = 5 ) and 58.8 � 12.4 GBq/�mol , respectively .
+Noninvasive microPET and direct tissue sampling experiments demonstrated that [ (18)F]FBEM-scVEGF had VEGFR specific tumor uptake in MDA-MB-435 , U87MG and 4T1 xenograft models .
+The optimal tumor uptake was achieved at 2 h p.i. , which can be partially , but significantly blocked by co-injection of non-labeled scVEGF protein .
+Overall , [ (18)F]FBEM-scVEGF showed VEGFR specific tumor uptake.Conclusion : The scVEGF was site-specifically labeled with ( 18)F via [ (18)F]FBEM prosthetic group and the tracer [ (18)F]FBEM-scVEGF exhibited high receptor binding affinity and tumor targeting efficacy .
+Further study of [ (18)F ] FBEM-scVEGF to evaluate angiogenesis in cancer and other disease types is warranted .

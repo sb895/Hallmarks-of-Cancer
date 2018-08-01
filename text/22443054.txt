@@ -1,0 +1,7 @@
+OBJECTIVE To investigate the effects of CdTe QDs ( cadmium telluride quantum dots ) on oxidative stress and DNA damage of liver cells in mice .
+METHODS Thirty ICR male mice were randomly divided into 5 groups : one negative control ( normal saline ) group .
+Three CdTe QDs groups ( exposed by intravenous injection of 0.2 ml of CdTe QDs at the concentration of 3.75 , 37.5 and 375 nmol/ml respectively ) for electron paramagnetic resonance ( EPR ) test , and another positive control group ( exposed by intravenous injection of 0.2 ml of cyclophosphamide 20 mg/ml ) for single cell gel electrophoresis ( SCGE ) test .
+All mice were decapitated 24h after the injection , free radicals and DNA damage of liver cells were detected by EPR and SCGE .
+RESULTS The levels of oxygen free radicals detected by EPR were increased with the increase of CdTe QDs .
+The tail length , olive tail moment , tail DNA ( % ) and the ratio of tail/head examined by SCGE were also increased with the increase of the dosage of CdTe QDs ( P < 0.01 ) .
+CONCLUSION CdTe QDs could induce oxidative stress and DNA damage of liver cells in mice with a dose-effect relationship .

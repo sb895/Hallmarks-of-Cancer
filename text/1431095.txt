@@ -1,0 +1,12 @@
+Apoptosis , programmed cell death , was previously shown to be induced by the mAb anti-APO-1 ( IgG3 , kappa ) by binding to the APO-1 cell surface Ag , a new member of the nerve growth factor/TNF receptor superfamily .
+To investigate the role of the Ig H chain Fc regions we compared induction of apoptosis by the original mAb IgG3 anti-APO-1 with anti-APO-1 F(ab')2 fragments and different anti-APO-1 isotypes ( IgG1 , IgG2b , IgG2a , and IgA ) isolated by sequential sublining .
+We found that IgG3 was the most active isotype ; IgG1 , IgG2a , and IgA showed intermediate activity , and IgG2b and F(ab')2 were inactive .
+Cytotoxic activity of the inactive or less active antibody preparations was fully reconstituted by protein A , anti-mouse Ig , or anti-mouse Ig F(ab')2 , respectively .
+Thus , APO-1-mediated induction of apoptosis was dependent on efficient cross-linking of APO-1 cell surface Ag , indirectly augmented by anti-APO-1 Fc-Fc self-aggregation .
+Because of their different in vitro activity we selected IgG3- , IgG2b- , and IgA anti-APO-1 to test their antitumor activity against solid human B lymphoblastoid tumors in SCID mice .
+The isotypes showed a different serum half-life ( IgG3 : 9.2-10.4 days , IgG2b : 1.9-2.6 days , and IgA : 14.1-29.2 h ) and a different initial tumor localization 4 h after i.p. injection ( IgG3 around the blood vessels , IgG2b homogeneously , and IgA heterogeneously distributed in the tumor ) .
+All antibody preparations induced tumor regression by induction of apoptosis , even IgG2b anti-APO-1 inactive in vitro without cross-linking .
+The activity of IgA anti-APO-1 , which did not mediate complement-dependent cytotoxicity or antibody-dependent cellular cytotoxicity indicates that apoptosis may be used as the main if not the only mechanism of induction of tumor regression in vivo .
+As with in vitro , IgG3 anti-APO-1 was the most effective isotype also in vivo .
+This result suggests that cross-linking of APO-1 on the tumor cell surface may also be required for tumor regression by apoptosis in vivo .
+Taken together , our data show that selective targeting of apoptosis to tumors may be an efficient antitumor mechanism .

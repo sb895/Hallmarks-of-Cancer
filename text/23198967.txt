@@ -1,0 +1,12 @@
+Bisphenol A is a monomer used in the production of polycarbonate plastics , epoxy resins , and flame retardants .
+It is an endocrine disruptor with a variety of other effects , including genotoxicity .
+Oxidative metabolism of bisphenol A yields electophilic bisphenol A-3,4-quinone ( BPAQ ) , which may cause genotoxicity .
+To determine the genotoxic potential of bisphenol A , the mechanism of the reaction between the BPAQ and deoxyadenosine ( dA ) was studied in detail .
+The most probable reaction pathway was determined using quantum chemical methods .
+Our results demonstrate that the rate limiting step is Michael addition between BPAQ and dA , the main product being the unstable N7-modified adduct that rapidly undergoes depurination .
+In addition , our calculations provide strong evidence for protonation of the adducts prior to depurination , which indicates pH dependence of the reaction .
+The calculated activation barrier for Michael addition is 28.7 kcal/mol , indicating that the reaction with dA is very slow .
+Comparison with the activation energy of 23.1 kcal/mol for the corresponding deoxyguanosine reaction indicates that most of the DNA damage by BPAQ will occur at the guanine site .
+The detoxification reactions with glutathione compete with reactions between BPAQ and DNA .
+The calculated free energy of activation for the reaction with glutathione is significantly lower than that for the corresponding reaction with dA .
+This indicates that BPAQ will preferably react with glutathione and will only react with DNA when the level of glutathione in the cell is low .

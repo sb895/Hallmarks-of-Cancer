@@ -1,0 +1,15 @@
+The endothelial cell-specific microRNA ( miRNA ) , miR-126 , is considered a master regulator of physiological angiogenesis .
+Transplanted mesenchymal stem cells ( MSCs ) release soluble factors contributing to neoangiogenesis and cardiac repair .
+Therefore , we hypothesized that the over-expression of miR-126 may prolong MSC survival and enhance the cell secretome , thereby improving post-infarction angiogenesis and cardiac function .
+In this study , MSCs harvested from male C57BL/6 mouse bone marrow were infected in vitro with miR-126 ( MSC(miR-126) ) by using recombinant lentiviral vectors ; the control cells were either non-transfected or transduced with mock vectors ( MSC(null) ) .
+The results showed an increased secretion of angiogenic factors and a higher resistance against hypoxia in MSC(miR-126) compared with the control cells .
+The expression of the Notch ligand Delta-like ( Dll)-4 in the MSC(miR-126) group was also increased .
+For in vivo experiments , MSC(miR-126) cultures were intramyocardially injected into the infarct region of the hearts of female C57BL/6 mice ( an acute myocardial infarction model ) who had undergone ligation of the left anterior descending coronary artery .
+The survival of MSC(miR-126) cultures , determined by Sry expression , was increased at 7 days after transplantation .
+MSC(miR-126)-treated animals showed significantly improved cardiac function as assessed by echocardiography 2 weeks later .
+The expression levels of angiogenic factors and Dll-4 in the infarcted myocardium were further increased by MSC(miR-126) compared with MSCs or MSC(null) cultures .
+Furthermore , fluorescent microsphere and histological studies revealed that myocardial blood flow and microvessel density were significantly increased in the MSC(miR-126)-transplanted animals .
+In addition , we found increased immature vessel proliferation following the transplantation of MSC(miR-126) cultures in which the expression of Dll-4 had been knocked down .
+However , blood vessels with lumen were barely detected , which indicated that Dll-4 plays a key role in tubulogenesis .
+We conclude that the transplantation of MSCs overexpressing miR-126 can further enhance functional angiogenesis in the ischemic myocardium possibly by the secretion of angiogenic factors and the activation of Dll-4 , thus increasing MSC survival .
+Therefore , MSCs modified with miR-126 may represent a novel and efficient therapeutic approach for ischemic angiogenesis and the improvement of cardiac function .

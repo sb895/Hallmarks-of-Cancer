@@ -1,0 +1,8 @@
+Polycyclic aromatic hydrocarbons ( PAHs ) are widely distributed immunotoxic and carcinogenic environmental contaminants , known to affect macrophages .
+In order to identify their molecular targets in such cells , we have analyzed gene expression profile of primary human macrophages treated by the prototypical PAH benzo(a)pyrene ( BaP ) , using pangenomic oligonucleotides microarrays .
+Exposure of macrophages to BaP for 8 and 24 h resulted in 96 and 1100 genes , differentially expressed by at least a twofold change factor , respectively .
+Some of these targets , including the chemokine receptor CXCR5 , the G protein-coupled receptor 35 ( GPR35 ) , and the Ras regulator RASAL1 , have not been previously shown to be affected by PAHs , in contrast to others , such as interleukin-1beta and the aryl hydrocarbon receptor ( AhR ) repressor .
+These BaP-mediated gene regulations were fully validated by reverse transcription-quantitative polymerase chain reaction assays for some selected genes .
+Their bioinformatic analysis indicated that biological functions linked to immunity , inflammation , and cell death were among the most affected by BaP in human macrophages and that the AhR and p53 signaling pathways were the most significant canonical pathways activated by the PAH .
+AhR and p53 implications were moreover fully confirmed by the prevention of BaP-related upregulation of some selected target genes by AhR silencing or the use of pifithrin-alpha , an inhibitor of PAH bioactivation-related DNA damage/p53 pathways .
+Overall , these data , through identifying genes and signaling pathways targeted by PAHs in human macrophages , may contribute to better understand the molecular basis of the immunotoxicity of these environmental contaminants .

@@ -1,0 +1,7 @@
+Airway mucin secretion and MC ( mast cell ) degranulation must be tightly controlled for homoeostasis of the lungs and immune system respectively .
+We found the exocytic protein Munc18b to be highly expressed in mouse airway epithelial cells and MCs , and localized to the apical pole of airway secretory cells .
+To address its functions , we created a mouse with a severely hypomorphic Munc18b allele such that protein expression in heterozygotes was reduced by Homozygous mutant mice were not viable , but heterozygotes showed a reduction in stimulated release of mucin from epithelial cells and granule contents from MCs .
+The defect in MCs affected only regulated secretion and not constitutive or transporter-mediated secretion .
+The severity of passive cutaneous anaphylaxis was also reduced by showing that reduction of Munc18b expression results in an attenuation of physiological responses dependent on MC degranulation .
+The Munc18b promoter is controlled by INR ( initiator ) , Sp1 ( specificity protein 1 ) , Ets , CRE ( cAMP-response element ) , GRE ( glucocorticoid-response element ) , GATA and E-box elements in airway epithelial cells ; however , protein levels did not change during mucous metaplasia induced by allergic inflammation .
+Taken together , the results of the present study identify Munc18b as an essential gene that is a limiting component of the exocytic machinery of epithelial cells and MCs .

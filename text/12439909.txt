@@ -1,0 +1,18 @@
+AIM To investigate the progressive transformation of immortal cells of human fetal esophageal epithelium induced by human papillomavirus , and to examine biological criteria of sequential passage of cells , including cellular phenotype , proliferative rate , telomerase , chromosome and tumorigenicity .
+METHODS The SHEE cell series consisted of immortalized embryonic esophageal epithelium which was in malignant transformation when cultivated over sixty passages without co-carcinogens .
+Cells of the 10th , 31st , 60th and 85th passages were present in progressive development after being transfected with HPV .
+Cells were cultivated in a culture flask and 24-hole cultural plates .
+Progressive changes of morphology , cell growth , contact-inhibition , and anchorage-dependent growth characteristics were examined by phase contrast microscopy .
+The cell proliferation rate was assayed by flow cytometry .
+The modal number of chromosomes was analyzed .
+HPV18E(6)E(7) was detected by Western blot methods and activities of telomerase were analyzed by TRAP .
+Tumorigenicity of cells was detected with soft agar plates cultivated and with tumor formation in SCID mice .
+RESULTS In morphological examination the 10th passage cells were in good differentiation , the 60th and 85th passages cells were in relatively poor differentiation , and the 31st passage cells had two distinct differentiations .
+The characteristics of the 85th and 60th passage cells were weakened at contact-inhibition and anchorage-dependent growth .
+Karyotypes of four stages of cells belonged to hyperdiploid or hypotriploid , and bimodal distribution of chromosomes appeared in the 31st and 60th passage cells .
+All of these characteristics combined with a increasing trend .
+The activities of telomerase were expressed in the latter three passages .
+Four fourths of SCID mice in the 85th passage cells and one fourth of SCID mice in the 60th passage cells developed tumors , but the cells in the 10th and 31st passage displayed no tumor formation .
+CONCLUSION In continual cultivation of fetal esophageal epithelial cells with transduction of HPV18E(6)E(7) , cells from the 10th to the 85th passage were changed gradually from preimmortal , immortal , precancerous to malignantly transformed stages .
+All of these changes were in a dynamic progressive process .
+The establishment of a continuous line of esophageal epithelium may provide a in vitro model of carcinogenesis induced by HPV .

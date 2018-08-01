@@ -1,0 +1,11 @@
+Accumulating evidence from epidemiological studies indicates that chronic inflammation and oxidative stress play critical roles in neoplastic development .
+The aim of this study was to investigate the anti-inflammatory , anti-oxidative stress activities , and differential regulation of Nrf2-mediated genes by tea Chrysanthemum zawadskii ( CZ ) and licorice Glycyrrhiza uralensis ( LE ) extracts .
+The anti-inflammatory and anti-oxidative stress activities of hexane/ethanol extracts of CZ and LE were investigated using in vitro and in vivo approaches , including quantitative real-time PCR ( qPCR ) and microarray .
+Additionally , the role of the transcriptional factor Nrf2 ( nuclear erythroid-related factor 2 ) signaling pathways was examined .
+Our results show that CZ and LE extracts exhibited potent anti-inflammatory activities by suppressing the mRNA and protein expression levels of pro-inflammatory biomarkers IL-1β , IL-6 , COX-2 and iNOS in LPS-stimulated murine RAW 264.7 macrophage cells .
+CZ and LE also significantly suppressed the NO production of LPS-stimulated RAW 264.7 cells .
+Additionally , CZ and LE suppressed the NF-κB luciferase activity in human HT-29 colon cancer cells .
+Both extracts also showed strong Nrf2-mediated antioxidant/Phase II detoxifying enzymes induction .
+CZ and LE induced NQO1 , Nrf2 , and UGT and antioxidant response element ( ARE)-luciferase activity in human hepatoma HepG2 C8 cells .
+Using Nrf2 knockout [ Nrf2 ( -/-) ] and Nrf2 wild-type ( +/+ ) mice , LE and CZ showed Nrf2-dependent transactivation of Nrf2-mediated antioxidant and phase II detoxifying genes .
+In summary , CZ and LE possess strong inhibitory effects against NF-κB-mediated inflammatory as well as strong activation of the Nrf2-ARE-anti-oxidative stress signaling pathways , which would contribute to their overall health promoting pharmacological effects against diseases including cancer .

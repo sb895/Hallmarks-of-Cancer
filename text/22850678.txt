@@ -1,0 +1,7 @@
+Gene therapy vectors based on the adeno-associated virus ( AAV ) are extremely efficient for gene transfer into post-mitotic cells of heart , muscle , brain , and retina .
+The reason for their exquisite tropism for these cells has long remained elusive .
+Here , we show that upon terminal differentiation , cardiac and skeletal myocytes downregulate proteins of the DNA damage response ( DDR ) and that this markedly induces permissivity to AAV transduction .
+We observed that expression of members of the MRN complex ( Mre11 , Rad50 , Nbs1 ) , which bind the incoming AAV genomes , faded in cardiomyocytes at weeks after birth , as well as upon myoblast differentiation in vitro ; in both cases , withdrawal of the cells from the cell cycle coincided with increased AAV permissivity .
+Treatment of proliferating cells with short-interfering RNAs ( siRNAs ) against the MRN proteins , or with microRNA-24 , which is normally upregulated upon terminal differentiation and negatively controls the Nbs1 levels , significantly increased permissivity to AAV transduction .
+Consistently , delivery of these small RNAs to the juvenile liver concomitant with AAV markedly improved in vivo hepatocyte transduction .
+Collectively , these findings support the conclusion that cellular DDR proteins inhibit AAV transduction and that terminal cell differentiation relieves this restriction .

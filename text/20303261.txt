@@ -1,0 +1,18 @@
+PURPOSE Tamoxifen , a selective oestrogen receptor modulator ( SERM ) , and brivanib alaninate , a vascular endothelial growth factor receptor 2 ( VEGFR-2 ) inhibitor , are two target specific agents that result in a substantial decrease in tumour growth when given alone .
+Tamoxifen activates SERM stimulated breast and endometrial tumour growth .
+Tamoxifen and brivanib alaninate have side-effects that can affect therapeutic outcomes .
+The primary goal of the current study was to evaluate the therapeutic effects of lower doses of both agents when given in combination to mice with SERM sensitive , oestrogen stimulated tumour xenografts ( MCF-7 E2 tumours ) .
+Experiments were conducted to evaluate the response of SERM stimulated breast ( MCF-7 Tam , MCF-7 Ral ) and endometrial tumours ( EnCa 101 ) to demonstrate the activity of brivanib alaninate in SERM resistant models .
+EXPERIMENTAL DESIGN In the current study , tumour xenografts were minced and bi-transplanted into the mammary fat pads of athymic , ovariectomised mice .
+Preliminary experiments were conducted to determine an effective oral dose of tamoxifen and brivanib alaninate that had minimal effect on tumour growth .
+Doses of 125 microg of tamoxifen and 0.05 mg/g of brivanib alaninate were evaluated .
+An experiment was designed to evaluate the effect of the two agents together when started at the time of tumour implantation .
+An additional experiment was done in which tumours were already established and then treated , to obtain enough tumour tissue for molecular analysis .
+RESULTS Brivanib alaninate was effective at inhibiting tumour growth in SERM sensitive ( MCF-7 E2 ) and SERM stimulated ( EnCa 101 , MCF-7 Ral , MCF-7 Tam ) models .
+The effect of the low dose drug combination as an anti-tumour strategy for SERM sensitive ( MCF-7 E2 ) in early treatment was as effective as higher doses of either drug used alone .
+In established tumours , the combination is successful at decreasing tumour growth , while neither agent alone is effective .
+Molecular analysis revealed a decreased phosphorylation of VEGFR-2 in tumours that were treated with brivanib alaninate and an increase in VEGFA transcription to compensate for the blockade of VEGFR-2 by increasing the transcription of VEGFA .
+Tamoxifen increases the phosphorylation of VEGFR-2 and this effect is abrogated by brivanib alaninate .
+There was also increased necrosis in tumours treated with brivanib alaninate .
+CONCLUSION Historically , tamoxifen has a role in blocking angiogenesis as well as the blockade of the ER .
+Tamoxifen and a low dose of an angiogenesis inhibitor , brivanib alaninate , can potentially be combined not only to maximise therapeutic efficacy but also to retard SERM resistant tumour growth .

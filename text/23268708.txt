@@ -1,0 +1,11 @@
+Abstract Purpose : Cell death is one of the most important endpoints of radiosensitivity .
+The tumor suppressor p53 participates not only in regulation of apoptosis , but also in autophagy mechanism .
+In this study , H1299-P53 ( with wild-type p53 ) and H1299-175H ( with mutant 175H ) were used , and the effects of p53 on radiosensitivity were analyzed .
+Methods : Cell models with different p53 status were established by gene engineering , and cell viability was examined by colony formation assay , and cell counting kit-8 ( CCK-8 ) , 3-Methyladenine , and Z-VAD were used to block autophagy and apoptosis , respectively .
+Western blot was used to detect protein expression ; monodansylcadaverine ( MDC ) staining was used to analyze autophagy rate ; DAPI/Propidium Iodide ( PI ) staining and flow cytometry were used to assess apoptosis and necrosis .
+Results : In parental H1299 , H1299-P53 , and H1299-175H cells , radiosensitivity exhibited different by colony formation and CCK-8 assay ( D0 : 1.764 Gy , 1.407 Gy and 1.695 Gy ; Dq : 2.977 Gy , 1.199 Gy and 2.312 Gy in turn ) .
+The radiosensitization of p53 was associated with the increase of MDM2 and P21 expression .
+The ionizing radiation ( IR)-induced apoptosis was significant in H1299-P53 compared with in H1299 and H199-175H ( p<0.05 ) by flow cytometry , and the expression of cleaved-caspase3 was increased in H1299-P53 cells .
+While the IR-induced autophagy was significant in H1299 cells ( p<0.01 ) and decreased in H1299-P53 and H1299-175H cells ( p<0.01 ) by MDC staining , the expression of MAPLC3II and Beclin-1 increased in H1299 , but not in H1299-p53 and H199-175H cells .
+The IR-induced cell survival was significantly increased by Z-VAD-FMK and decreased by 3MA in H1299-P53 cells ; IR- induced autophagy was significantly increased by Z-VAD-FMK in H1299-P53 cells ( p<0.01 ) , but not changed in H1299 cells .
+Conclusion : p53 could regulate radiosensitivity by inhibiting autophagy and activating apoptosis ; autophagy provides a prosurvival mechanism , and p53 potently abrogated the IR-induced autophagy , while mutant 175H shown no effect on radiosensitivity , suggesting that individual treatment strategies should be based on p53 status in patients .

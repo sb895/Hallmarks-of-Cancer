@@ -1,0 +1,11 @@
+Mutations in adenomatous polyposis coli ( APC ) gene are found in more than 80% of colorectal cancer ( CRC ) patients .
+The nuclear transcription factor Nrf2 plays a central role in the regulation of oxidative stress and inflammation .
+Previously , we have shown that chronic inflammation in Nrf2(-/-) ( Nrf2 knockout ; KO ) mice resulted in higher expression of inflammatory markers and cytokines , coupled with higher inflammatory damage to the colonic crypt cells , as compared to the Nrf2(+/+) ( wild type ; WT ) mice .
+Induction of mutation in the colon by administration of carcinogen , AOM prior to DSS-induced inflammation resulted in higher tumor incidence and numbers in Nrf2KO mice .
+These results indicate that Nrf2-dependent inhibition of inflammation appears to be critical in inhibiting mutation-initiated colorectal carcinogenesis .
+In this study , we aim to investigate if loss of Nrf2 would dose-dependently promote intestinal tumorigenesis in Apc(min/+) mice .
+To demonstrate the in vivo mechanisms , we constructed both Apc mutated and Nrf2 deficient strain Apc(min/+) mice with C57BL/6 Nrf2KO mice to obtain F1 , Apc(min/+) ;Nrf2(+/-) and F2 , Apc(min/+) ;Nrf2(-/-) mice .
+Nrf2KO decreased the protein expression of antioxidant enzyme NQO1 in Apc(min/+) .
+In contrast , Nrf2KO enhanced the expression of inflammatory markers such as COX-2 , cPLA , LTB(4) in Apc(min/+) .
+Finally , Nrf2KO resulted in higher level of PCNA and c-Myc expression in intestinal tissue , indicating the deficiency of Nrf2 promotes proliferation of intestinal crypt cells in Apc(min/+) .
+Taken together , our results suggest that Nrf2KO attenuates anti-oxidative stress pathway , induces inflammation , and increases proliferative potential in the intestinal crypts leading to enhanced intestinal carcinogenesis and adenomas in Apc(min/+) . © 2012 Wiley Periodicals , Inc .

@@ -1,0 +1,13 @@
+Meningiomas constitute of primary intracranial tumors and are associated with increased mortality in NF2 patients .
+To evaluate potential medical therapies for these tumors , we have established a quantifiable orthotopic model for NF2-deficient meningiomas .
+We showed that telomerase-immortalized Ben-Men-1 benign meningioma cells harbored a single nucleotide deletion in NF2 exon 7 and did not express the NF2 protein , merlin .
+We also demonstrated that AR-42 , a pan-histone deacetylase inhibitor , inhibited proliferation of both Ben-Men-1 and normal meningeal cells by increasing expression of p16INK4A , p21CIP1/WAF1 , and p27KIP1 .
+Also , AR-42 increased pro-apoptotic Bim expression and decreased anti-apoptotic BclXL levels .
+However , AR-42 predominantly arrested Ben-Men-1 cells at G2/M , while inducing cell-cycle arrest at G1 in meningeal cells .
+Consistently , AR-42 substantially decreased the levels of cyclin D1 , E , and A , and PCNA in meningeal cells while significantly reducing the expression of cyclin B , important for progression through G2 , in Ben-Men-1 cells .
+In addition , AR-42 decreased Aurora A and B expression .
+To compare the in vivo efficacies of AR-42 and AR-12 , a PDK1 inhibitor , we generated and used luciferase-expressing Ben-Men-1-LucB cells to establish intracranial xenografts that grew over time .
+While AR-12 treatment moderately slowed tumor growth , AR-42 caused regression of Ben-Men-1-LucB tumors .
+Importantly , AR-42-treated tumors showed minimal regrowth when xenograft-bearing mice were switched to normal diet .
+Together , these results suggest that AR-42 is a potential therapy for meningiomas .
+The differential effect of AR-42 on cell-cycle progression of normal meningeal and meningioma cells may have implications for why AR-42 is well-tolerated while it potently inhibits tumor growth .

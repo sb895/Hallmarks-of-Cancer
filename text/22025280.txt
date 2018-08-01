@@ -1,0 +1,10 @@
+Nitric oxide ( NO ) shows tumoricidal activity .
+We had previously reported that NO downregulates the phosphatidylinositol-3-kinase/Akt pathway , but upregulates the MEK/ERK pathway downstream of growth factor signaling .
+We hypothesized that NO donor and MEK inhibitor in combination synergistically inhibit the viability of cancer cells compared to either NO donor or MEK inhibitor alone .
+We determined the effects of S-nitrosoglutathione ( GSNO , NO-donor ) and U0126 ( MEK inhibitor ) on insulin-like growth factor-I ( IGF-I ) and epidermal growth factor ( EGF ) signaling , proliferation and invasion in cancer cell lines .
+GSNO inhibits phosphorylation of IGF-I receptor ( IGF-IR ) , EGF receptor ( EGFR ) and Akt , but upregulates ERK1/2 phosphorylation in MIAPaCa-2 and HCT-116 cells after stimulation by IGF-I and EGF .
+On the other hand , U0126 inhibits phosphorylation of ERK1/2 , but upregulates phosphorylation of IGF-IR and EGFR in MIAPaCa-2 and HCT-116 cells .
+The combination of GSNO and U0126 downregulates phosphorylation of IGF-IR , EGFR , Akt and ERK1/2 after stimulation by IGF-I and EGF .
+GSNO as well as U0126 , inhibits the proliferation of MIAPaCa-2 , HCT-116 , Panc-1 , MCF-7 , HT-29 and AGS cells in a dose-dependent manner .
+GSNO and U0126 in combination synergistically inhibit proliferation and invasion of cancer cells .
+These results indicate that the combined treatment of NO donor and MEK inhibitor may be promising in cancer therapy .

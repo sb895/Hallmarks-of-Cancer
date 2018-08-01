@@ -1,0 +1,12 @@
+AIM To elucidate the roles of receptor tyrosine kinases RET and VEGFR2 and the RAF/MEK/ERK signaling cascade in cancer treatment with sorafenib .
+METHODS The cell lines A549 , HeLa , and HepG2 were tested .
+The enzyme activity was examined under cell-free conditions using 384-well microplate assays .
+Cell proliferation was evaluated using the Invitrogen Alarmar Blue assay .
+Gene expression was analyzed using the Invitrogen SYBR Green expression assays with a sequence detection system .
+Protein expression analysis was performed using Western blotting .
+RESULTS Sorafenib potently suppressed the activities of cRAF , VEGFR2 , and RET with IC(50) values of 20.9 , 4 and 0.4 nmol/L , respectively .
+Sorafenib inhibited cRAF , VEGFR2 , and RET via non-ATP-competitive , ATP-competitive and mixed-type modes , respectively .
+In contrast , sorafenib exerted only moderate cytotoxic effects on the proliferation of the 3 cell lines .
+The IC(50) values for inhibition of A549 , HeLa , and HepG2 cells were 8572 , 4163 , and 8338 nmol/L , respectively .
+In the 3 cell lines , sorafenib suppressed the cell proliferation mainly by blocking the MEK/ERK downstream pathway at the posttranscriptional level , which in turn regulated related gene expression via a feed-back mechanism .
+CONCLUSION This study provides novel evidence that protein kinases RET and VEGFR2 play crucial roles in cancer treatment with sorafenib .

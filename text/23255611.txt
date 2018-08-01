@@ -1,0 +1,7 @@
+cAMP-signaling plays an essential role in modulating the proliferation of different cell types , including cancer cells .
+Until now , the regulation of this pathway was restricted to the transmembrane class of adenylyl cyclases .
+In the present study , a significant overexpression of soluble adenylyl cyclase ( sAC ) , an alternative source of cAMP , was found in human prostate carcinoma and , therefore , the contribution of this cyclase was investigated in the prostate carcinoma cell lines LNCaP and PC3 .
+Suppression of sAC activity by treatment with the sAC-specific inhibitor KH7 or by sAC-specific knockdown mediated by siRNA or shRNA transfection prevented the proliferation of prostate carcinoma cells , led to lactate dehydrogenase release , and induced apoptosis .
+Cell cycle analysis revealed a significant rise in the G2-phase population 12 hours after sAC inhibition , which was accompanied by the down-regulation of cyclin B1 and CDK1. sAC-dependent regulation of proliferation involves the EPAC/Rap-1/B-Raf signaling pathway .
+In contrast , protein kinase A does not play a role .
+In conclusion , the present study suggests a novel sAC-dependent signaling pathway that controls the proliferation of prostate carcinoma cells .

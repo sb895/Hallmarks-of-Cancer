@@ -1,0 +1,8 @@
+Elevated insulin-like growth factor binding protein-related protein 1 ( IGFBP-rP1 ) mRNA in senescent human mammary epithelial cells suggested that the IGFBP-3 gene product may inhibit cell proliferation .
+To test this hypothesis , we used a retroviral vector to express IGFBP-rP1 cDNA in the IGFBP-rP1-deficient MCF-7 breast cancer cell line .
+Compared with control vector-transduced cells , cumulative cell numbers for IGFBP-rP1-transduced polyclonal or clonal cell cultures were reduced by 39 and 74% , respectively , after 1 week .
+Medium conditioned by IGFBP-rP1-producing cultures reduced cumulative cell numbers in parental MCF-7 cultures by 20% compared with medium from cultures of a control vector-transduced cell line .
+Nuclear fragmentation analysis and cell proliferation assays completed in the presence of the pan-caspase inhibitor benzyloxycarbonyl-Val-Ala-Asp(OMe)-fluoromethylketone excluded apoptosis as the responsible mechanism .
+The percentage of cells containing senescence-associated beta-galactosidase activity was doubled compared with control cell cultures .
+Flow cytometry analysis indicated that twice as many noncycling cells were present in the IGFBP-rP1-transduced MCF-7 cell cultures compared with controls .
+These findings indicate that IGFBP-rP1 is an inhibitor of MCF-7 breast cancer cell proliferation and may act via a cellular senescence-like mechanism .

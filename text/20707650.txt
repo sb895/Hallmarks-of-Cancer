@@ -1,0 +1,11 @@
+PURPOSE The cytotoxic effect of the combination treatment of TNF-alpha and hyperthermia on L929 and TNF-alpha-resistant L929 ( rL929 ) cells was investigated .
+MATERIALS AND METHODS L929 cells were treated with TNF-alpha ( 5 ng/mL ) , heating at 43 degrees C or the combination of TNF-alpha and heating .
+The cells were harvested at different time within the 24-hour period .
+The viability and the type of cell death of the harvested cells were examined .
+RESULTS When L929 cells were treated with a combination of TNF-alpha and heating the cells died quickly and apoptosis increased to an overwhelming extent , especially in the group pre-treated with TNF-alpha for 1 h prior to heating .
+Although rL929 cells were resistant to TNF-alpha alone , the cells became sensitive to TNF-alpha treatment when combined with heating .
+Similar to the L929 cell , the cells also died rapidly and exhibited apoptosis to a higher extent .
+Using an Annexin-V-FITC kit and flow cytometer , we found that both necrosis and apoptosis occurred .
+Agarose gel electrophoresis of DNA extracted from treated cells showed that the DNA fragments were multiples of approximately 200 bp .
+Furthermore , by studying the kinetics of cell death and apoptosis , we found that the loss of cell membrane integrity preceded the DNA fragmentation in both L929 and rL929 cells .
+CONCLUSION The results suggested that hyperthermia may enhance the necrotic and apoptotic effects of TNF-alpha on some tumour cells and overcome the resistance of some tumour cells to TNF-alpha .

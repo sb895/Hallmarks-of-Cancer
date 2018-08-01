@@ -1,0 +1,7 @@
+Genetic immunotherapy with tumor antigen gene-modified dendritic cells ( DC ) generates robust immunity , although antitumor protection is not complete in all models .
+Previous experience in a model in which C57BL/6 mice immunized with DC transduced with adenoviral vectors expressing MART-1 demonstrated a 20-40% complete protection to a tumor challenge with B16 melanoma cells .
+Tumors that did develop in immunized mice had slower growth kinetics compared to tumors implanted in na�ve mice .
+In the present study , we wished to determine if the supraphysiological production of the Th1-skewing cytokine interleukin-12 ( IL-12 ) could enhance immune activation and antitumor protection in this model .
+In a series of experiments immunizing mice with DC cotransduced with MART-1 and IL-12 , antitumor protection and antigen-specific splenocyte cytotoxicity and interferon gamma production inversely correlated with the amount of IL-12 produced by DC .
+This adverse effect of IL-12 could not be explained by a direct cytotoxic effect of natural killer cells directed towards DC , nor the production of nitric oxide leading to down-regulation of the immune response - the two mechanisms previously recognized to explain immune-suppressive effects of IL-12-based vaccine therapy .
+In conclusion , in this animal model , IL-12 production by gene-modified DC leads to a cytokine-induced dose-dependent inhibition of antigen-specific antitumor protection .

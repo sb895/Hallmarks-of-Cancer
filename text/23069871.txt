@@ -1,0 +1,8 @@
+There is a complex interplay between the immune system and a developing tumor that is manifest in the way that the balance of Tcell subsets in the local tumor environment reflects clinical outcome .
+Tumor infiltration by CD8(+) Tcells and regulatory Tcells ( Treg ) is associated with improved and reduced survival , respectively , in many cancer types .
+However , little is known of the prognostic value of immunological parameters measured in peripheral blood .
+In this study , peripheral CD8(+) T cells and Treg from 43 patients with malignant mesothelioma or advanced non-small-cell lung cancer scheduled to commence palliative chemotherapy were assessed by flow cytometry and evaluated for association with patient survival .
+Patients had a higher proportion of peripheral Treg , proliferating CD8(+) Tcells and CD8(+) Tcells with an activated effector phenotype compared with age-matched healthy controls .
+Higher proportions of Treg and proliferating CD8(+) Tcells were both associated with poor survival in univariate analyses ( hazard ratio [ HR ] 3.81 , 95% CI 1.69-8.57 ; p<0.01 and HR 2.86 , 95% CI 1.26-6.50 ; p<0.05 , respectively ) .
+CD8(+) Tcell proliferation was independently predictive of reduced survival in multivariate analysis ( HR 2.58 , 95% CI 1.01-6.61 ; p<0.05 ) .
+These findings suggest that peripheral CD8(+) T cell proliferation can be a useful prognostic marker in patients with thoracic malignancies planned for palliative chemotherapy .

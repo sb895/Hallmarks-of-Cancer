@@ -1,0 +1,8 @@
+Estrogen receptor ( ER ) and NF-κB are transcription factors with profound effects on breast cancer cell proliferation and survival .
+While many studies demonstrate that ER and NF-κB can repress each other , we previously identified a gene signature that is synergistically upregulated by these two factors in more aggressive luminal B breast tumors .
+Herein , we examine a novel mechanism of cross talk between ER and NF-κB that results in the upregulation of the antiapoptotic gene BIRC3 ( also known as cIAP2 ) .
+We demonstrate that NF-κB , acting through two response elements , is required for ER recruitment to an adjacent estrogen response element ( ERE ) in the BIRC3 promoter .
+This effect is accompanied by a major increase in NF-κB-dependent histone acetylation around the ERE .
+Interestingly , CBP , a histone acetyltransferase previously implicated in repressive interactions between ER and NF-κB , plays a permissive role by promoting histone acetylation and ER recruitment , as well as enhanced expression of BIRC3 .
+These findings suggest a new gene regulatory mechanism by which inflammation and NF-κB activation can influence ER recruitment to inherently inactive ER binding sites .
+This fine-tuning mechanism may explain how two factors that generally repress each other's activity may work together on certain genes to promote breast cancer cell survival and tumor progression .

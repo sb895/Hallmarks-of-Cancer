@@ -1,0 +1,13 @@
+Advanced or metastatic prostate cancer is treated by androgen deprivation ; however , patients inevitably relapse with castration-resistant prostate cancer ( CRPC ) .
+CRPC remains dependent on androgen receptor ( AR ) signaling , which may include constitutive , ligand-independent action of naturally occurring AR splice variants .
+For example , the AR splice variant AR3 ( also termed AR-V7 ) is expressed in CRPC and is linked to poor prognosis .
+Vav3 , a Rho GTPase guanine nucleotide exchange factor , is an AR coactivator that is up-regulated in human prostate cancer compared with benign tissue and in preclinical models of CRPC .
+Vav3 confers castration-resistant growth to androgen-dependent human prostate cancer cells .
+Despite the importance of AR coactivators in promoting CRPC , the potential role of these regulatory proteins in modulating AR splice variant activity is unknown .
+We examined the contributions of Vav3 to AR activity in two CRPC cell lines that naturally express relatively high levels of Vav3 and AR3 .
+Vav3 or AR3 knockdown greatly attenuated cell proliferation , soft agar growth , and ligand-independent AR activity .
+Vav3 potently enhanced the transcriptional activity of AR3 and another clinically relevant AR splice variant , ARv567es .
+Vav3 knockdown resulted in lowered nuclear AR3 levels , whereas total AR3 levels remained similar .
+Conversely , overexpression of Vav3 resulted in increased nuclear AR3 .
+Coimmunoprecipitation revealed that AR3 and Vav3 interact .
+These novel data demonstrating physical and functional interactions between Vav3 , a unique AR coactivator , and an AR splice variant provide insights into the mechanisms by which Vav3 exploits and enhances AR signaling in the progression to CRPC .

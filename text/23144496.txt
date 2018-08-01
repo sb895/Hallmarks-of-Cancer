@@ -1,0 +1,9 @@
+Adoptive T cell therapy uses the specificity of the adaptive immune system to target cancer and virally infected cells .
+Yet the mechanism and means by which to enhance T cell function are incompletely described , especially in the skin .
+In this study , we use a murine model of immunotherapy to optimize cell-mediated immunity in the skin .
+We show that in vitro-derived central but not effector memory-like T cells bring about rapid regression of skin-expressing cognate Ag as a transgene in keratinocytes .
+Local inflammation induced by the TLR7 receptor agonist imiquimod subtly yet reproducibly decreases time to skin graft rejection elicited by central but not effector memory T cells in an immunodeficient mouse model .
+Local CCL4 , a chemokine liberated by TLR7 agonism , similarly enhances central memory T cell function .
+In this model , IL-2 facilitates the development in vivo of effector function from central memory but not effector memory T cells .
+In a model of T cell tolerogenesis , we further show that adoptively transferred central but not effector memory T cells can give rise to successful cutaneous immunity , which is dependent on a local inflammatory cue in the target tissue at the time of adoptive T cell transfer .
+Thus , adoptive T cell therapy efficacy can be enhanced if CD8(+) T cells with a central memory T cell phenotype are transferred , and IL-2 is present with contemporaneous local inflammation .

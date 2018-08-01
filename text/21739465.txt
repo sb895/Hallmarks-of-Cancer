@@ -1,0 +1,10 @@
+BACKGROUND Androgens and the androgen receptor ( AR ) play important roles in the development of male urogenital organs .
+We previously found that mice with total AR knockout ( ARKO ) and epithelial ARKO failed to develop normal prostate with loss of differentiation .
+We have recently knocked out AR gene in smooth muscle cells and found the reduced luminal infolding and IGF-1 production in the mouse prostate .
+However , AR roles of stromal fibroblasts in prostate development remain unclear .
+METHODS To further probe the stromal fibroblast AR roles in prostate development , we generated tissue-selective knockout mice with the AR gene deleted in stromal fibroblasts ( FSP-ARKO ) .
+We also used primary culture stromal cells to confirm the in vivo data and investigate mechanisms related to prostate development .
+RESULTS The results showed cellular alterations in the FSP-ARKO mouse prostate with decreased epithelial proliferation , increased apoptosis , and decreased collagen composition .
+Further mechanistic studies demonstrated that FSP-ARKO mice have defects in the expression of prostate stromal growth factors .
+To further confirm these in vivo findings , we prepared primary cultured mouse prostate stromal cells and found knocking down the stromal AR could result in growth retardation of prostate stromal cells and co-cultured prostate epithelial cells , as well as decrease of some stromal growth factors .
+CONCLUSIONS Our FSP-ARKO mice not only provide the first in vivo evidence in Cre-loxP knockout system for the requirement of stromal fibroblast AR to maintain the normal development of the prostate , but may also suggest the selective knockdown of stromal AR might become a potential therapeutic approach to battle prostate hyperplasia and cancer .

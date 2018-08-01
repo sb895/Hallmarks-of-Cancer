@@ -1,0 +1,12 @@
+BCL6 is the product of a proto-oncogene implicated in the pathogenesis of human B-cell lymphomas .
+By binding specific DNA sequences , BCL6 controls the transcription of a variety of genes involved in B-cell development , differentiation and activation .
+BCL6 is overexpressed in the majority of patients with aggressive diffuse large B-cell lymphoma ( DLBCL ) , the most common lymphoma in adulthood , and transgenic mice constitutively expressing BCL6 in B cells develop DLBCLs similar to the human disease .
+In many DLBCL patients , BCL6 overexpression is achieved through translocation ( or hypermutation of its promoter ( However , many other DLBCLs overexpress BCL6 through an unknown mechanism .
+Here we show that BCL6 is targeted for ubiquitylation and proteasomal degradation by a SKP1–CUL1–F-box protein ( SCF ) ubiquitin ligase complex that contains the orphan F-box protein FBXO11 ( refs 5 , 6 ) .
+The gene encoding FBXO11 was found to be deleted or mutated in multiple DLBCL cell lines , and this inactivation of FBXO11 correlated with increased levels and stability of BCL6 .
+Similarly , FBXO11 was either deleted or mutated in primary DLBCLs .
+Notably , tumour-derived FBXO11 mutants displayed an impaired ability to induce BCL6 degradation .
+Reconstitution of FBXO11 expression in FBXO11-deleted DLBCL cells promoted BCL6 ubiquitylation and degradation , inhibited cell proliferation , and induced cell death .
+FBXO11-deleted DLBCL cells generated tumours in immunodeficient mice , and the tumorigenicity was suppressed by FBXO11 reconstitution .
+We reveal a molecular mechanism controlling BCL6 stability and propose that mutations and deletions in FBXO11 contribute to lymphomagenesis through BCL6 stabilization .
+The deletions/mutations found in DLBCLs are largely monoallelic , indicating that FBXO11 is a haplo-insufficient tumour suppressor gene .

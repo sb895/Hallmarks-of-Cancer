@@ -1,0 +1,7 @@
+Modulation of the balance between pro- and antiangiogenic factors holds great promise for the treatment of a broad spectrum of human disease ranging from ischemic heart disease to cancer .
+This requires both the identification of angiogenic regulators and their efficient delivery to target organs .
+Here , we demonstrate the use of a noncatalytic fragment of matrix metalloproteinase 2 ( termed PEX ) delivered by lentiviral vectors in different angiogenesis models .
+Transduction of human endothelial cells with PEX virus suppressed endothelial invasion and formation of capillary-like structures without affecting chemotaxis in vitro .
+Lentiviral delivery of PEX blocked basic fibroblast growth factor-induced matrix metalloproteinase 2 activation and angiogenesis on chicken chorioallantoic membranes .
+PEX expression also inhibited tumor-induced angiogenesis and tumor growth in a nude mouse model .
+Thus , our study shows that lentiviral vectors can deliver sufficient quantities of antiangiogenic substances to achieve therapeutic effects in vivo .

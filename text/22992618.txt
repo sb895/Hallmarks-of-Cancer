@@ -1,0 +1,12 @@
+Chronic inflammation is a risk factor for the development of colon cancer , providing genotoxic insults , growth and pro-angiogenic factors that can promote tumorigenesis and tumor growth .
+Immunomodulatory agents can interfere with the inflammation that feeds cancer , but their impact on the transformed cell is poorly understood .
+The calcium/calcineurin signaling pathway , through activation of NFAT , is essential for effective immune responses , and its inhibitors cyclosporin A ( CsA ) and FK506 are used in the clinics to suppress immunity .
+Moreover , the kinases GSK3β and mTOR , modulated by PI-3K/Akt , can inhibit NFAT activity , suggesting a cross-talk between the calcium and growth factor signaling pathways .
+Both NFAT and mTOR activity have been associated with tumorigenesis .
+We therefore investigated the impact of calcineurin and PI-3K/mTOR inhibition in growth of human colon carcinoma cells .
+We show that despite the efficient inhibition of NFAT1 activity , FK506 promotes tumor growth , whereas CsA inhibits it due to a delay in cell cycle progression and induction of necroptosis .
+We found NFκB activation and mTORC1 activity not to be altered by CsA or FK506 .
+Similarly , changes to mitochondrial homeostasis were equivalent upon treatment with these drugs .
+We further show that , in our model , NFAT1 activation is not modulated by PI3K/mTOR .
+We conclude that CsA slows cell cycle progression and induces necroptosis of human carcinoma cell lines in a TGFβ- , NFAT- , NFκB- and PI3K/mTOR-independent fashion .
+Nevertheless , our data suggest that CsA , in addition to its anti-inflammatory capacity , may target transformed colon and esophagus carcinoma cells without affecting non-transformed cells , promoting beneficial tumoristatic effects .

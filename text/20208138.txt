@@ -1,0 +1,9 @@
+BACKGROUND The pTalpha/preTCR regulates the beta-selection , a crucial T-cell developmental checkpoint , providing a most potent survival advantage to thymocytes mediated by the src-kinase p56(Lck) .
+METHODS To define the relevance of pTalpha in human T-cell lymphoblastic leukemia ( T-ALL ) , we analyzed in T-ALL cell lines ( n=14 ) pTalpha and p56(Lck) mRNA and protein expression as also the tyrosine-phosphorylation .
+The p56(Lck) specific src-protein-tyrosine kinase inhibitor ( PTK-I ) PP1 was used in growth inhibition assays .
+IC(50) value determination , cell cycle- and apoptosis analyses were performed in T-ALL- , non-T-ALL- and murine transgenic cell lines .
+RESULTS pTalpha expression patterns were markedly different in T-ALL cell lines as compared to those reported for normal lymphoid counterparts .
+PP1 induced in 6/11 T-ALL cell lines a survival disadvantage resulting from a cell cycle arrest in the G(1/0) phase in thymic lymphoblastic cells and apoptosis induction in the immature cell line HSB-2 , respectively .
+PP1 sensitive cell lines expressed the target protein p56(Lck) and showed a corresponding P-Tyr signal .
+CONCLUSION Sensitivity of thymic T-ALLs to PP1 clearly underlines the impact of pTalpha mediated proliferation in this leukemic sub-type .
+In addition , p56(Lck) represents also independently of pTalpha a promising therapeutical target for the src-kinase inhibitors in neoplastic lymphoid diseases .

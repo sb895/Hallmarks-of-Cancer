@@ -1,0 +1,8 @@
+OBJECTIVE The aim of this retrospective study is to analyze the clinical and pathological factors related to the prognosis of Chinese patients with stage Ib to IIb cervical cancer .
+METHODS AND RESULTS 13 clinical pathological factors in 255 patients with stage Ib to IIb cervical cancer undergoing radical hysterectomy and systematic lymphadenectomy were analyzed to screen for factors related to prognosis .
+The cumulative 5-year survival of the 255 patients was 75.7% .
+The result of the univariate analysis suggested that clinical stage , cell differentiation , depth of cervical stromal invasion , parametrial tissue involvement , and lymph node metastasis were prognostic factors for patients with stage Ib to IIb cervical cancer ( P<0.05 ) .
+Compared with cases with involvement of iliac nodes , obturator nodes , or inguinal lymph nodes , cases with metastasis to the common iliac lymph nodes had a poorer prognosis ( P<0.05 ) .
+Cases with involvement of four or more lymph nodes had a poorer prognosis than those with involvement of three or fewer lymph nodes ( P<0.05 ) .
+Using multivariate Cox proportional hazards model regression analysis , non-squamous histological type , poor differentiation , parametrial tissue involvement , and outer 1/3 stromal invasion were found to be independently related to patients poor prognosis ( P<0.05 ) .
+CONCLUSION Non-squamous histological type , poor cell differentiation , parametrial tissue involvement , and outer 1/3 stromal invasion are the independent poor prognostic factors for patients with stage Ib to IIb cervical cancer .

@@ -1,0 +1,10 @@
+Hepatocellular carcinoma ( HCC ) remains a common malignant cancer worldwide .
+There is an urgent need to identify new molecular targets for the development of novel therapeutic approaches .
+Herein , we review the structure , function and biology of glypican-3 ( GPC3 ) and its role in human cancer with a focus on its potential as a therapeutic target for immunotherapy .
+GPC3 is a cell-surface protein that is over-expressed in HCC .
+Loss-of-function mutations of GPC3 cause Simpson-Golabi-Behmel syndrome ( SGBS ) , a rare X-linked overgrowth condition .
+GPC3 binds Wnt and Hedgehog ( Hh ) signalling proteins .
+GPC3 is also able to bind basic growth factors such as fibroblast growth factor 2 through its heparan sulphate glycan chains .
+GPC3 is a promising candidate for liver cancer therapy given that it shows high expression in HCC .
+An anti-GPC3 monoclonal antibody has shown anti-cancer activity in mice and its humanised IgG molecule is currently undergoing clinical evaluation in patients with HCC .
+There is also evidence that soluble GPC3 may be a useful serum biomarker for HCC .

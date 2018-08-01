@@ -1,0 +1,11 @@
+Urokinase-type plasminogen activator ( u-PA ) plays an important role in tumor growth and metastasis .
+The aim of this work was to study the u-PA production , in vitro and in vivo , in a transplantable murine mammary adenocarcinoma ( M3 ) , moderately metastatic to lung , and in a related tumor variant ( MM3 ) , highly metastatic to the same organ , during tumor development .
+At different times post-transplantation , tumors were employed to prepare either primary cell cultures or homogenates .
+PA activity from conditioned media ( CM ) , cell lysates ( CLs ) and tumor homogenates ( THs ) was quantitated by means of a fibrinolytic assay .
+Immunoneutralization and zymographic assays were performed to identify the PA present in both tumors .
+PA activity in CM , CLs and THs , that was undetectable at early stages , increased significantly along the growth of M3 adenocarcinoma .
+Secreted PA activity in MM3 CM was measurable at early stages and consistently increased up to 37 days post-transplantation , but a marked fall of activity was found at 48 days .
+PA activity in MM3 THs exhibited the same enhancement and late fall found in vitro .
+A positive correlation was observed between tumor size and THs PA values in both tumors .
+The PA present in cell cultures and THs was identified as of the u-PA type .
+These results support the hypothesis that high u-PA levels are important for tumor invasion and that the stage of tumor development is a critical factor in their PA activity .

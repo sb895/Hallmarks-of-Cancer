@@ -1,0 +1,9 @@
+Prostate cancer ( PCA ) is the most common invasive malignancy and the second leading cause of cancer-related death in males .
+The present study investigated the effects of fangchinoline ( Fan ) , an important compound in Stephania Tetradra S. Moore ( Fenfangji ) with pain-relieving , blood pressure-depressing , and antibiotic activities , on human PCA .
+It was found that Fan inhibited human prostate cancer cell lines ( PC3 ) cell proliferation in a dose- and time-dependent manner .
+Studies of cell-cycle progression showed that the anti-proliferative effect of Fan was associated with an increase in the G1/S phase of PC3 cells .
+Western blot results indicated that Fan-induced G1/S phase arrest was mediated through inhibition of cyclin-regulated signaling pathways .
+Fan induced p27 expression and inhibited cyclin D and proliferating cell nuclear antigen ( PCNA ) expression in PC3 cells .
+Increased exposure time to Fan caused apoptosis of PC3 cells , which was associated with up-regulation of pro-apoptotic proteins Bax and caspase 3 , and down-regulation of anti-apoptotic protein Bcl-2 .
+Furthermore , Fan had anti-tumorigenic activity in vivo , including reduction of tumor volume and pro-apoptotic and anti-proliferative effects in a PC3 nude mouse xenograft .
+Taking all this together , it can be concluded that Fan is an effective anti-proliferative agent that modulates cell growth regulators in prostate cancer cells .

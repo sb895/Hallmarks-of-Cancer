@@ -1,0 +1,9 @@
+A predictive mathematical model of the transition from the G2 phase in the cell cycle to mitosis ( M ) was constructed from the known interactions of the proteins that are thought to play significant roles in the G2 to M transition as well as the DNA damage- induced G2 checkpoint .
+The model simulates the accumulation of active cyclin B1/Cdk1 ( MPF ) complexes in the nucleus to activate mitosis , the inhibition of this process by DNA damage , and transport of component proteins between cytoplasm and nucleus .
+Interactions in the model are based on activities of individual phospho-epitopes and binding sites of proteins involved in G2/M .
+Because tracking phosphoforms leads to combinatorial explosion , we employ a rule-based approach using the BioNetGen software .
+The model was used to determine the effects of depletion or over-expression of selected proteins involved in the regulation of the G2 to M transition in the presence and absence of DNA damage .
+Depletion of Plk1 delayed mitotic entry and recovery from the DNA damage-induced G2 arrest and over-expression of MPF attenuated the DNA damage-induced G2 delay .
+The model recapitulates the G2 delay observed in the biological response to varying levels of a DNA damage signal .
+The model produced the novel prediction that depletion of pkMyt1 results in an abnormal biological state in which G2 cells with DNA damage accumulate inactive nuclear MPF .
+Such a detailed model may prove useful for predicting DNA damage G2 checkpoint function in cancer and , therefore , sensitivity to cancer therapy .

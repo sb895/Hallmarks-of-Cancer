@@ -1,0 +1,12 @@
+Current palliative chemotherapy ( CT ) regimens achieve clinical benefits in less than 50% of patients treated for metastatic gastric cancers , and long-term survivals are anecdotical .
+Genetic polymorphisms and differences at the level of transcription in genes involved in biological processes of drug metabolism , DNA repair and drug resistance can explain the observed individual differences in response to drugs , in survival and in different susceptibility to the toxic effects of CT .
+The possibility to classify patients on the basis of genetic signatures could help in choosing the CT regimen .
+We present herein an analysis of genetic and expression profiling of three patients affected by metastatic gastric cancer , treated with CT and alive , disease-free , at 66-82 months .
+Four patients with typical clinical outcome represented the control group .
+Expression profiling from paraffin-embedded tumor tissues was performed on an ad hoc set of genes involved in drug metabolism and resistance , DNA repair , cell cycle regulation and growth factors signalling .
+Genetic polymorphism analysis on DNA extracted from peripheral blood was done by pyrosequencing of genetic markers predictive of drug response .
+Expression analysis in long-term survivors revealed a significant upregulation of PTEN , TP63 , GADD45a and MAPK1 genes .
+We found also an upregulation of CYP1A1 , CYP3A4 and ERBB4 genes .
+EGF was found to be down-regulated in long-term survivors .
+ERCC1 C8092A polymorphism seems to be associated with survival in our set of patients .
+The present study shed light on a set of genes , which could have a predictive role in survival of patients with metastatic gastric tumors .

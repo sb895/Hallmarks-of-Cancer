@@ -1,0 +1,13 @@
+OBJECTIVE Overexpression of epidermal growth factor receptor ( EGFR ) in glioblastoma multiforme ( GBM ) secondary to EGFR gene amplification is associated with a more aggressive tumor phenotype and a worse clinical outcome .
+The purpose of this study was to analyze whether blocking this receptor with the anti-EGFR chimeric monoclonal antibody C225 would decrease proliferation and increase apoptosis in GBM cells .
+METHODS EGFR expression and amplification were analyzed for seven human GBM cell lines .
+These lines were then exposed to different concentrations of C225 for 48 hours , 72 hours , and 7 days , after which time cytotoxicity , apoptosis , and vascular endothelial growth factor expression were assessed in vitro .
+Two EGFR-amplified human GBM were implanted in the flanks of nude mice , and the animals received C225 twice per week intraperitoneally for 5 weeks .
+Tumor volumes and survival times were compared with those of sham-treated mice .
+RESULTS EGFR gene amplification was demonstrated in three of the primary GBM lines .
+C225 treatment produced significant cytotoxicity in all three EGFR-amplified GBM lines , but not in unamplified lines .
+Flow cytometry demonstrated increased apoptosis in C225-treated , EGFR-amplified GBM lines , but not in unamplified lines .
+There was a decrease in vascular endothelial growth factor expression in all GBM lines with exposure to C225 .
+Tumor-bearing mice treated with C225 experienced significant inhibition of tumor growth as well as a 200% increase in median survival .
+CONCLUSION Blocking EGFR in GBM cells that overexpress this receptor significantly changes tumor cell biology by promoting apoptosis while decreasing proliferation and vascular endothelial growth factor expression .
+This approach holds great promise for the treatment of patients with GBMs .

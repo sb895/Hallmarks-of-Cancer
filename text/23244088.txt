@@ -1,0 +1,11 @@
+OBJECTIVE Lung cancer is a deadly cancer , whose kills more people worldwide than any other malignancy .
+SLUG ( SNAI2 , Snail2 ) is involved in the epithelial mesenchymal transition in physiological and in pathological contexts and is implicated in the development and progression of lung cancer .
+METHODS We constructed a lentivirus vector with SLUG shRNA ( LV-shSLUG ) .
+LV-shSLUG and a control lentivirus were infected into the non-small cell lung cancer cell A549 and real-time PCR , Western blot and IHC were applied to assess expression of the SLUG gene .
+Cell proliferation and migration were detected using MTT and clony formation methods .
+RESULTS Real-time PCR , Western Blot and IHC results confirmed down-regulation of SLUG expression by its shRNA by about 80% at both the mRNA and protein levels .
+Knockdown of SLUG significantly suppressed lung cancer cell proliferation .
+Furthermore , knockdown of SLUG significantly inhibited lung cancer cell invasion and metastasis .
+Finally , knockdown of SLUG induced the down-regulation of Bcl-2 and up-regulation of E-cadherin .
+CONCLUSION These results indicate that SLUG is a newly identified gene associated with lung cancer growth and metastasis .
+SLUG may serve as a new therapeutic target for the treatment of lung cancer in the future .

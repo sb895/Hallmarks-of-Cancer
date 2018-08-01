@@ -1,0 +1,12 @@
+Dietary antioxidants , such as the carotenoids , may protect DNA from oxidative damage .
+This has been proposed to explain the epidemiological association between higher consumption of fruits and vegetables , which are rich in antioxidants , and lower incidence of cancer .
+However , this remains to be demonstrated conclusively .
+The effects of carotenoid supplementation on 1 ) baseline DNA damage , 2 ) susceptibility of cellular DNA to oxidative attack , and 3 ) DNA repair were measured in the human lymphocyte cell line Molt-17 .
+Baseline DNA damage , susceptibility to oxidant attack ( 100 mumol/l H2O2 for 5 min at 4 degrees C ) , and disappearance of DNA single-strand breaks ( SSB ) after oxidative challenge were monitored by single-cell gel electrophoresis .
+DNA repair patch synthesis activity in cell extracts was determined using assays that measure nucleotide incorporation during repair of oxidative lesions in template DNA .
+Unlike single-cell gel electrophoresis , the parameters measured with these assays are not dependent on strand break religation .
+There was no evidence that beta-carotene , lutein , or beta-cryptoxanthin supplementation protected cellular DNA from oxidation under basal conditions or after oxidative challenge .
+However , only carotenoid-supplemented cells exhibited a significant decrease in numbers of SSB over a 2-h period after treatment with H2O2 .
+Carotenoid supplementation did not provoke any detectable change in repair patch synthesis activity .
+We conclude that supplementation with carotenoids at 8 mumol/l does not provide significant antioxidant protection for DNA in Molt-17 lymphocytes but may enhance recovery of cells from oxidative challenge , as measured by loss of SSB .
+We argue that these data are most consistent with carotenoids acting to enhance DNA strand break repair .

@@ -1,0 +1,10 @@
+DNA-protein cross-links ( DPCs ) are formed upon exposure to a variety of chemical and physical agents and pose a threat to genomic integrity .
+In particular , acrolein and related aldehydes produce DPCs , although the chemical linkages for such cross-links have not been identified .
+Here , we report that oligodeoxynucleotides containing 1,N(2)-deoxyguanosine adducts of acrolein , crotonaldehyde , and trans-4-hydroxynonenal can form cross-links with the tetrapeptide Lys-Trp-Lys-Lys .
+We concluded that complex formation is mediated by a Schiff base linkage because DNA-peptide complexes were covalently trapped following reduction with sodium cyanoborohydride , and pre-reduction of adducted DNAs inhibited complex formation .
+A previous NMR study demonstrated that duplex DNA catalyzes ring opening for the acrolein-derived gamma-hydroxy-1,N(2)-propanodeoxyguanosine adduct to yield an aldehydic function ( de los Santos , C. , Zaliznyak , T. , and Johnson , F .
+( 2001 ) J. Biol .
+Chem. 276 , 9077-9082 ) .
+Consistent with this earlier observation , the adducts under investigation were more reactive in duplex DNA than in single-stranded DNA , and we concluded that the ring-open aldehydic moiety is the induced tautomer in duplex DNA for adducts exhibiting high relative reactivity .
+Adducted DNA cross-linked to Arg-Trp-Arg-Arg and Lys-Trp-Lys-Lys with comparable efficiency , and N(alpha)-acetylation of peptides dramatically inhibited trapping ; thus , the reactive nucleophile is located at the N-terminal alpha-amine of the peptide .
+These data suggest that Schiff base chemistry can mediate DPC formation in vivo following the formation of stable aldehyde-derived DNA adducts .

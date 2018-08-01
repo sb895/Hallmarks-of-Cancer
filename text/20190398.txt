@@ -1,0 +1,10 @@
+The aryl hydrocarbon receptor ( AhR ) is a ligand-activated transcription factor that mediates a spectrum of toxic and biological effects of 2,3,7,8-tetrachlorodibenzo-p-dioxin and related compounds .
+Several reports have shown that the AhR plays an important role in the control of cell-cycle progression , and this function is thought to be partly associated with the tumor promotion activity of dioxin .
+However , the underling mechanisms are not fully understood .
+We have previously shown that overexpression of AhR , as well as AhR ligand treatment , stimulates cell proliferation of human lung cancer A549 cells .
+In AhR-activated cells , the expression levels of DNA synthesis-related genes such as proliferating cell nuclear antigen ( PCNA ) and RFC38 are notably increased .
+Expression of these genes is mainly regulated by E2F1 , a transcription factor that is crucial for transition of the cell cycle from G1 to S phase .
+We show here that the transcriptional activity of E2F1 is increased by the AhR agonist treatment and that this effect depends on the presence of AhR .
+Functional mapping of AhR showed that the Per-Arnt-Sim ( PAS ) B domain is required for promotion of E2F1 activity .
+The mechanism involves formation of a complex of AhR and E2F1 on the regulatory region in the E2F1 target gene , followed by recruitment of coactivator activator for thyroid hormone and retinoid receptors ( ACTR ) .
+Consequently , the results in this study indicate the physiological function of AhR as a potent transcriptional coactivator of E2F1-dependent transcription and implicate the AhR-E2F1 interaction as a part of the mechanism by which AhR/Arnt promotes cell proliferation .

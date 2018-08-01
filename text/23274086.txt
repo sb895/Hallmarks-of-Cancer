@@ -1,0 +1,7 @@
+AMPK is a metabolic sensor that helps maintain cellular energy homeostasis .
+Despite evidence linking AMPK with tumor suppressor functions , the role of AMPK in tumorigenesis and tumor metabolism isunknown .
+Here we show that AMPK negatively regulates aerobic glycolysis ( the Warburg effect ) in cancer cells and suppresses tumor growth invivo .
+Genetic ablation of the \u03b11 catalytic subunit of AMPK accelerates Myc-induced lymphomagenesis .
+Inactivation of AMPK\u03b1 in both transformed and nontransformed cells promotes a metabolic shift to aerobic glycolysis , increased allocation of glucose carbon into lipids , and biomass accumulation .
+These metabolic effects require normoxic stabilization of the hypoxia-inducible factor-1\u03b1 ( HIF-1\u03b1 ) , as silencing HIF-1\u03b1 reverses the shift to aerobic glycolysis and the biosynthetic and proliferative advantages conferred by reduced AMPK\u03b1 signaling .
+Together our findings suggest that AMPK activity opposes tumor development and that its loss fosters tumor progression in part by regulating cellular metabolic pathways that support cell growth and proliferation .

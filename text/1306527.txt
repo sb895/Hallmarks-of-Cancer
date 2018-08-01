@@ -1,0 +1,7 @@
+The effects of high and low dietary fat ( 20% vs. 0.5% corn oil ) , and of the prostaglandin synthetase inhibitor indomethacin ( 0.005% w/w ) , on tumour incidence , tumour growth , hormone-receptor status and growth-factor expression were examined in dimethylbenzanthracene ( DMBA)-induced rat breast cancer .
+The high dietary-fat group showed a significantly higher tumour incidence , larger tumour size and larger number of bromodeoxyuridine(BrdU)-positive cells of tumours as compared with those in the low dietary-fat group .
+Indomethacin reduced tumour incidence significantly , but conversely increased the tumour size and the number of BrdU-positive cells in both the high and the low dietary-fat groups .
+No significant difference was noted in the hormone-receptor status of the tumours .
+Growth factors ( TGF-alpha and IGF-II ) were somewhat highly expressed in the high dietary-fat group as compared with the low dietary-fat group , but indomethacin rather reduced the growth-factor expression .
+It is concluded that high dietary fat stimulates tumour incidence and tumour proliferation , while indomethacin has dual effects : a stimulating effect on tumour proliferation , but an inhibiting effect on tumour incidence .
+It is also suggested that hormone-receptor status and growth-factor expression do not play an important role in their stimulating effects on tumour proliferation .

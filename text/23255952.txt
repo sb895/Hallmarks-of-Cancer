@@ -1,0 +1,7 @@
+Gefitinib , the specific inhibitor of the epidermal growth factor receptor ( EGFR ) , may cause growth delay in cancer cell lines .
+Thorough understanding of the downstream cellular signaling of gefitinib will facilitate the discovery of biomarkers for predicting outcomes and monitoring anti-EGFR therapies , and provide information for key targets for therapeutic intervention .
+In this study , we investigated the role of transducer of erbB2.1 ( TOB1 ) in gefitinib therapy .
+Using the lung carcinoma cell lines A549 and NCI-H1975 , the results suggested that gefitinib might mediate cell cycle arrest in lung cancer cells at least by targeting TOB1 expression .
+Gefitinib treatment caused cell cycle arrest predominantly at the G1 phase , which is associated with TOB1 nuclear translocation and its interaction with cyclin D1 .
+We also showed that knockdown of TOB1 expression by RNAi rescued lung cancer cells from gefitinib-induced cell-proliferative arrest .
+These results suggest that TOB1 interaction with cyclin D1 and nuclear translocation is directly involved in the gefitinib-induced anti-proliferative cell cycle arrest .

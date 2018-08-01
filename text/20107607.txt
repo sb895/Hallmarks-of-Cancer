@@ -1,0 +1,11 @@
+BRIT1 protein ( also known as MCPH1 ) contains 3 BRCT domains which are conserved in BRCA1 , BRCA2 , and other important molecules involved in DNA damage signaling , DNA repair , and tumor suppression .
+BRIT1 mutations or aberrant expression are found in primary microcephaly patients as well as in cancer patients .
+Recent in vitro studies suggest that BRIT1/MCPH1 functions as a novel key regulator in the DNA damage response pathways .
+To investigate its physiological role and dissect the underlying mechanisms , we generated BRIT1(-/-) mice and identified its essential roles in mitotic and meiotic recombination DNA repair and in maintaining genomic stability .
+Both BRIT1(-/-) mice and mouse embryonic fibroblasts ( MEFs ) were hypersensitive to gamma-irradiation .
+BRIT1(-/-) MEFs and T lymphocytes exhibited severe chromatid breaks and reduced RAD51 foci formation after irradiation .
+Notably , BRIT1(-/-) mice were infertile and meiotic homologous recombination was impaired .
+BRIT1-deficient spermatocytes exhibited a failure of chromosomal synapsis , and meiosis was arrested at late zygotene of prophase I accompanied by apoptosis .
+In mutant spermatocytes , DNA double-strand breaks ( DSBs ) were formed , but localization of RAD51 or BRCA2 to meiotic chromosomes was severely impaired .
+In addition , we found that BRIT1 could bind to RAD51/BRCA2 complexes and that , in the absence of BRIT1 , recruitment of RAD51 and BRCA2 to chromatin was reduced while their protein levels were not altered , indicating that BRIT1 is involved in mediating recruitment of RAD51/BRCA2 to the damage site .
+Collectively , our BRIT1-null mouse model demonstrates that BRIT1 is essential for maintaining genomic stability in vivo to protect the hosts from both programmed and irradiation-induced DNA damages , and its depletion causes a failure in both mitotic and meiotic recombination DNA repair via impairing RAD51/BRCA2's function and as a result leads to infertility and genomic instability in mice .

@@ -1,0 +1,13 @@
+OBJECTIVE To analyze the profiles of interleukin-2 ( IL-2 ) , IL-6 , IL-8 , IL-10 , tumor necrosis factor-alpha ( TNF-alpha ) , transforming growth factor-beta1 ( TGF-beta1 ) and interferon-gamma ( IFN-gamma ) in serum and the tumor microenvironment ( cyst fluid , ascites ) in women with ovarian cancer or benign ovarian tumors to find the differences in their immunological status .
+We also estimated serum cytokines as biomarkers to distinguish preoperatively between malignant or benign character of tumors .
+DESIGN Prospective study .
+SETTING Tertiary referral hospital .
+POPULATION 51 women with epithelial ovarian cancer , 26 with benign ovarian tumors of epithelial origin and 21 healthy controls .
+METHODS The levels of cytokines were measured using ELISA sets .
+RESULTS We did not found differences in the levels of IFN-gamma , TNF-alpha and IL-2 in all fluids isolated from patients with malignant or benign tumors .
+Women with advanced cancer had significantly higher serum IL-6 , IL-10 and TGF-beta1 levels than women with early stages or benign tumors .
+Moreover , women with very advanced cancer in whom the optimal cytoreduction was disabled had the highest serum levels of IL-10 , TGF-beta1 and IL-8 .
+The concentrations of IL-6 and IL-8 were higher in ascites of cancer patients than in ascites of women with benign tumors .
+The areas under curves constructed for the selected cutoff serum cytokines levels ( AUC-ROC ) showed good predictive values for IL-6 ( 0.87 ) , IL-10 ( 0.836 ) and IL-8 ( 0.797 ) .
+CONCLUSIONS Our results indicate on intensified inflammatory process in women with ovarian cancer ( accompanied by their immunosuppression ) .
+Preoperative analysis of serum IL-6 , IL-10 and IL-8 may improve the differential diagnosis of ovarian tumors .

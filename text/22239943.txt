@@ -1,0 +1,10 @@
+Hypoxic events frequently occur in the aquatic environment in association with micro pollutants , including heavy metals .
+Only a few studies are however available on the uptake and biological responses of heavy metals under hypoxic conditions .
+To elucidate the phenomenon , mirror carp Cyprinus carpio L .
+( 16.13-16.22 g ) were exposed chronically to dietary copper ( Cu ; 250 and 500 mg kg dry wt.(-1) ) for 30 d under normoxic ( 8.25 mg O(2) L(-1) ) and hypoxic ( mg O(2) L(-1) ) conditions and adopting an integrated approach , sub-lethal biomarker responses were determined at different levels of biological organisation .
+Level of oxidative DNA damage ( as determined by modified Comet assay ) showed strong significant difference following exposure to dietary Cu level under normoxic ( 1.6-fold ) as well as under hypoxic condition at both Cu levels ( 2.1 and 2.5-folds respectively ) .
+Significant difference was also observed for haematological parameters ( i.e. increased red and white blood cells , haematocrit value and haemoglobin concentration ) .
+Quantitative histology revealed alterations in tissues ( i.e. liver and gills ) for hypoxic and all dietary Cu treatment groups under both normoxic and hypoxic conditions suggesting a compensatory response to these organs ( p<0.05 ) .
+The order of Cu accumulation in tissues ( as determined by ICP-OES ) was liver>intestine>kidney>gill .
+Interestingly , SGR under both normoxic and hypoxic conditions reduced with elevating Cu levels ( p=0.019 ) .
+Overall , the results provide evidence for enhanced toxicological responses in fish following exposure to Cu either alone or in combination with hypoxic condition and lends support to the evolving viewpoint that many water quality guidelines should be revisited in terms of new ecotoxicological criteria .

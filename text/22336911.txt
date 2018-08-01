@@ -1,0 +1,10 @@
+Plitidepsin ( Aplidin ) , an antitumor agent of marine origin , presently is undergoing phase II/III clinical trials , and has shown promise for the treatment of lymphoma .
+Here , we describe the antitumor effects of plitidepsin alone and in combination with rituximab and investigated the effects of each drug and the combination on the cell cycle and mechanism of cell death .
+Several Diffuse Large Cell Lymphoma ( DLCL ) lines and Burkitt cell lines were tested for sensitivity to plitidepsin and rituximab .
+All DLCL and Burkitt lymphoma cell lines were inhibited by plitidepsin in nanomolar concentrations , while rituximab sensitivity varied among different cell lines .
+Ramos and the RL cell lines proved sensitive to rituximab and were used to test the effects of each of the two drugs .
+The two agents exhibited synergism at all tested concentrations .
+For in vivo studies , irradiated athymic nude mice were engrafted with the Ramos lymphoma .
+Treatment was initiated when the tumors were cm in diameter , and toxic and therapeutic effects were monitored .
+In the in vivo study , additive effects of the combined two drugs , was demonstrated without an increase in host toxicity .
+The in vitro synergy and the in vivo additive antitumor effects without an increase in host toxicity with two relatively non-marrow suppressive agents encourages further development of this combination for treatment of aggressive B-cell lymphomas .

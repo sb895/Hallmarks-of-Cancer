@@ -1,0 +1,7 @@
+To elucidate the function of MAS-related GPCR , member D ( MRGD ) in cancers , we investigated the in vitro and in vivo oncogenic function of MRGD using murine fibroblast cell line NIH3T3 in which MRGD is stably expressed .
+The expression pattern of MRGD in clinical samples was also analyzed .
+We found that overexpression of MRGD in NIH3T3 induced focus formation and multi-cellular spheroid formation , and promoted tumors in nude mice .
+In other words , overexpression of MRGD in NIH3T3 induced the loss of contact inhibition , anchorage-independent growth and in vivo tumorigenesis .
+Furthermore , it was found that the ligand of MRGD , beta-alanine , enhanced spheroid formation in MRGD-expressing NIH3T3 cells .
+From investigation of clinical cancer tissues , we found high expression of MRGD in several lung cancers by immunohistochemistry as well as real time PCR .
+Based on these results , MRGD could be involved in tumorigenesis and could also be a novel anticancer drug target .

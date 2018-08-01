@@ -1,0 +1,7 @@
+Intra-arterial infusion with cisplatin ( CDDP ) and bleomycin ( BLM ) was carried out in 21 patients with locally recurrent uterine cervical cancer who were previously treated with irradiation alone .
+Patients were treated with a bolus infusion into both internal iliac arteries of 50 mg/m2 of CDDP and 30 mg/m2 of BLM .
+Two to four courses of the infusion therapy were given to each patient , and the response rate , the tumor and serum drug concentrations , and the cell kinetics in tumor tissue were evaluated .
+The response rate ( CR+PR ) was 71.4% according to the WHO criteria .
+There was no difference , in the tumor tissue concentrations of CDDP and BLM between responders and nonresponders .
+Although the DNA ploidy of tumor cells was not significantly different between the two groups before treatment , both the labeling index with BrdU and the proliferation index with flow cytometry significantly increased 24 hours after treatment in responding tumors but not in nonresponding tumors .
+These results show that intra-arterial infusion with CDDP and BLM improves the prognosis of recurrent cervical cancer and that labeling and proliferation indices may be useful for determining the response of cervical cancer to intra-arterial chemotherapy .

@@ -1,0 +1,10 @@
+BACKGROUND Modulation of the expression of retinoic acid receptors ( RAR ) alpha and gamma in adult rat prostate by testosterone ( T ) suggests that RAR signaling events might mediate some of the androgen effects on prostate cells .
+METHOD In this study , we examined the interactions between T and retinoic acid ( RA ) in cell growth of human prostate carcinoma cells , LNCaP , and their relationship with the expression of RAR and epidermal growth factor receptor ( EGF-R ) .
+RESULTS Both T and RA , when administered alone , stimulated 3H-thymidine incorporation in LNCaP cells in a dose-dependent manner ; the effect of each agent was reciprocally attenuated by the other agent .
+Testosterone treatment of LNCaP cells also resulted in dose dependent , biphasic increases in RAR alpha and gamma mRNAs ; increases paralleled that of 3H-thymidine incorporation and were attenuated by the presence of 100 nM RA .
+These results suggest a link between RAR signaling and the effect of T on LNCaP cell growth .
+Gel electrophoretic mobility shift assays revealed the presence of putative androgen responsive element ( ARE ) in the promoter region of RAR alpha gene , suggesting that a direct AR-DNA interaction might mediate the effects of T on RAR alpha gene .
+Furthermore , treatment of LNCaP cells with 20 nM T resulted in an increase in EGF-R .
+In contrast , EGF-R was suppressed by 100 nM RA that also suppressed the effect of T. CONCLUSIONS Current results demonstrate interactions between T and RA in the expression of RARs and cell growth in LNCaP cells .
+The presence of putative ARE in the promoter of the RAR alpha gene suggests that AR-DNA interaction might mediate the effects of T on RAR alpha gene .
+The opposite effects of T and RA on the expression of RAR and EGF-R suggest that signal events of these receptors might be involved in the interaction between T and RA in the control of LNCaP cell growth .

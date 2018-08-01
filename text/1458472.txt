@@ -1,0 +1,10 @@
+We found that the human colon cancer cell line SW480 consists of two distinct subpopulations which we have designated E-type ( epithelial ) and R-type ( round ) .
+Pure cultures of each type were obtained by subcloning , and both have maintained their characteristic phenotypes for at least 1 year ( 40 passages ) .
+E-type cells are the major ( > 98% ) type in the parental SW480 cell line .
+They form flat epithelial-like colonies .
+In contrast , R-type cells , which constitute a minor fraction ( < 2% ) of the parental cell line , have a rounded shape and grow in clusters of piled-up cells .
+Compared to E-type cells or the parental SW480 cells , isolated R-type cells display decreased doubling time , loss of contact inhibition , less adhesiveness to culture plates , higher anchorage-independent growth in soft agar , and a much more aneuploid karyotype .
+When injected s.c. into nude mice , R-type cells produce much larger tumors within the same period of time than E-type cells , and the tumors are less differentiated than those produced by the E-type cells .
+Cell fusion experiments between R-type and E-type cells revealed that the R-type phenotype is dominant , and the results suggest that this is due to one or a few genetic changes .
+Taken together , these findings suggest that the R-type cells represent a more malignant variant of the E-type cells .
+They may be useful , therefore , for studying mechanisms involved in tumor progression .

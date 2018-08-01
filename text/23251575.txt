@@ -1,0 +1,11 @@
+Testicular Germ Cell Tumors ( TGCT ) and patient-derived cell lines are extremely sensitive to cisplatin and other interstrand cross-link ( ICL ) inducing agents .
+Nevertheless , a subset of TGCTs are either innately resistant or acquire resistance to cisplatin during treatment .
+Understanding the mechanisms underlying TGCT sensitivity/resistance to cisplatin as well as the identification of novel strategies to target cisplatin-resistant TGCTs have major clinical implications .
+Herein , we have examined the proficiency of five embryonal carcinoma ( EC ) cell lines to repair cisplatin-induced ICLs .
+Using \u03b3H2AX staining as a marker of double strand break formation , we found that EC cell lines were either incapable of or had a reduced ability to repair ICL-induced damage .
+The defect correlated with reduced Homologous Recombination ( HR ) repair , as demonstrated by the reduction of RAD51 foci formation and by direct evaluation of HR efficiency using a GFP-reporter substrate .
+HR-defective tumors cells are known to be sensitive to the treatment with poly(ADP-ribose) polymerase ( PARP ) inhibitor .
+In line with this observation , we found that EC cell lines were also sensitive to PARP inhibitor monotherapy .
+The magnitude of sensitivity correlated with HR-repair reduced proficiency and with the expression levels and activity of PARP1 protein .
+In addition , we found that PARP inhibition strongly enhanced the response of the most resistant EC cells to cisplatin , by reducing their ability to overcome the damage .
+These results point to a reduced proficiency of HR repair as a source of sensitivity of ECs to ICL-inducing agents and PARP inhibitor monotherapy , and suggest that pharmacological inhibition of PARP can be exploited to target the stem cell component of the TGCTs ( namely ECs ) and to enhance the sensitivity of cisplatin-resistant TGCTs to standard treatments .

@@ -1,0 +1,6 @@
+The transcription factor NF-kappaB is constitutively active in pancreatic adenocarcinoma .
+Here we explore the contribution of NF-kappaB to the malignant phenotype of pancreatic cancer cells in addition to its anti-apoptotic role .
+Block of NF-kappaB signalling by non-destructible IkappaBalpha rendered cells resistant to TGF-beta-induced epithelial-mesenchymal transition ( EMT ) .
+In contrast , NF-kappaB activation by TNF-alpha or expression of constitutively active IKK2 induced an EMT-phenotype with up-regulation of vimentin and ZEB1 , and down-regulation of E-cadherin .
+EMT could also be induced in cells with defective TGF-beta signalling .
+Functional assays demonstrated reduced or strongly enhanced migration and invasion upon NF-kappaB inhibition or activation , respectively .

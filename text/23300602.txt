@@ -1,0 +1,9 @@
+Activation of p53 effectively inhibits tumor angiogenesis that is necessary for tumor growth and metastasis .
+Reactivation of the p53 by small molecules has emerged as a promising new strategy for cancer therapy .
+Several classes of small-molecules that activate the p53 pathway have been discovered using various approaches .
+Here , we identified harmine ( β-carboline alkaloid ) as a novel activator of p53 signaling involved in inhibition of angiogenesis and tumor growth .
+Harmine induced p53 phosphorylation and disrupted the p53-MDM2 interaction .
+Harmine also prevented p53 degradation in the presence of cycloheximide and activated nuclear accumulation of p53 followed by increasing its transcriptional activity in endothelial cells .
+Moreover , harmine not only induced endothelial cell cycle arrest and apoptosis , but also suppressed endothelial cell migration and tube formation as well as induction of neovascularity in a mouse corneal micropocket assay .
+Finally , harmine inhibited tumor growth by reducing tumor angiogenesis , as demonstrated by a xenograft tumor model .
+Our results suggested a novel mechanism and bioactivity of harmine , which inhibited tumor growth by activating the p53 signaling pathway and blocking angiogenesis in endothelial cells .

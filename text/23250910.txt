@@ -1,0 +1,9 @@
+MicroRNAs ( miRNAs or miR ) have been integrated into tumorigenic programs as either oncogenes or tumor suppressor genes .
+The miR-124 was reported to be attenuated in several tumors , such as glioma , medulloblastoma and hepatocellular carcinoma .
+However , its role in cancer remains greatly elusive .
+In this study , we show that the miR-124 expression is significantly suppressed in human breast cancer specimens , which is reversely correlated to histological grade of the cancer .
+More intriguingly , ectopic expression of miR-124 in aggressive breast cancer cell lines MDA-MB-231 and BT-549 strongly inhibits cell motility and invasive capacity , as well as the epithelial-mesenchymal transition process .
+Also , lentivirus-delivered miR-124 endows MDA-MB-231 cells with the ability to suppress cell colony formation in vitro and pulmonary metastasis in vivo .
+Further studies have identified the E-cadherin transcription repressor Slug as a direct target gene of miR-124 ; its downregulation by miR-124 increases the expression of E-cadherin , a hallmark of epithelial cells and a repressor of cell invasion and metastasis .
+Moreover , knockdown of Slug notably impairs the motility of MDA-MB-231 cells , whereas re-expression of Slug abrogates the reduction of motility and invasion ability induced by miR-124 in MDA-MB-231 cells .
+These findings highlight an important role for miR-124 in the regulation of invasive and metastatic potential of breast cancer and suggest a potential application of miR-124 in cancer treatment .

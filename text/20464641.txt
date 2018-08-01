@@ -1,0 +1,9 @@
+Oral squamous cell carcinoma ( OSCC ) is the most common malignant tumor in the oral and maxillofacial region .
+The mechanism of carcinogenesis of OSCC is still unclear .
+Based on the previous cell line , HIOEC-B(a)P-96 ( HB96 ) , which we obtained by HPV16 E6/E7-immortalized human oral epithelial cells ( HIOEC ) and benzo(a)pyrene inducement , we prepared a new HB-second generation cancer cell line ( HB-2 ) by continuous passage .
+Its characteristics such as morphology , proliferation activity , karyotype , and tumorigenesis were studied .
+The HB-2 cells displayed uncontrolled cell division and lost contact inhibition leading to cell overlap .
+Cells were polygonal and unevenly shaped , with an increased nucleus versus plasma ratio .
+Increased proliferative activity was confirmed by MTT assays .
+The tumorigenicity was confirmed by tumor growth experiments in nude mice .
+Therefore , the HB-2 and HB96 cell lines are useful tools to study the mechanism of carcinogenesis of OSCC in vitro for future genomic and proteomic analyses .

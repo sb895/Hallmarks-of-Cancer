@@ -1,0 +1,9 @@
+This study aimed to investigate the mechanism by which the human lung cancer drug resistance-related gene BC006151 regulates chemosensitivity by down-regulating BC006151 expression via antisense gene transfer in H446/(C)DDP cells .
+A retroviral vector containing the antisense BC006151 sequence was constructed and transfected into H446/(C)DDP cells .
+Transfection of the empty vector served as a negative control .
+The two groups of transfected cells were treated with various chemotherapeutic agents , after which morphological changes in cell ultrastructure were compared by transmission electron microscopy , cell proliferation and chemosensitivity to particular chemotherapeutic agents were compared by the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide method , the effects of chemotherapy on cell cycle and apoptosis were compared by flow cytometry , and Bcl-2 was evaluated by immunohistochemistry and Western blot analysis .
+Results showed that apoptotic body-like structures were identified by transmission electron microscopy in the antisense gene-transfected cells .
+MTT founded that these cells exhibited a significantly lower level of proliferation than the control cells ( p<0.01 ) , together with a markedly increased sensitivity to various chemotherapeutic agents ( p<0.01 ) .
+Flow cytometry analysis revealed that a G1 phase arrest accounted for the reduction in proliferation in the antisense gene-transfected cells ; increased apoptosis was also detected ( p<0.01 ) .
+Both immunohistochemistry and western blot analysis confirmed that Bcl-2 expression was significantly down-regulated in the antisense gene-transfected cells compared to controls .
+In a word , down-regulation of BC006151 can significantly inhibit proliferation and increase apoptosis of H446/(C)DDP cells after chemotherapy , and this gene may play an important role in the development of multidrug resistance in lung cancer .

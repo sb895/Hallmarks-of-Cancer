@@ -1,0 +1,10 @@
+Tumor cells exhibit enhanced glucose consumption and lactate production even when supplied with adequate oxygen ( a phenomenon known as the Warburg effect , or aerobic glycolysis ) .
+Pharmacological inhibition of aerobic glycolysis represents a potential tumor-selective approach that targets the metabolic differences between normal and malignant tissues .
+Human breast tumor MDA-MB-231 cells were used to develop an assay system to discover natural product-based glycolysis inhibitors .
+The assay employed was based on hypersensitivity to glycolytic inhibition in tumor cells treated with the mitochondrial electron transport inhibitor rotenone .
+Under such conditions , ATP supply , and hence cell viability , depends exclusively on glycolysis .
+This assay system was used to evaluate 10648 plant and marine organism extracts from the U.S. National Cancer Institute's Open Repository .
+Bioassay-guided isolation of an active Moronobea coccinea extract yielded the new bis-geranylacylphloroglucinol derivative moronone ( 1 ) .
+Compound 1 exhibited enhanced antiproliferative/cytotoxic activity in the presence of rotenone-imposed metabolic stress on tumor cells .
+Surprisingly , mechanistic studies revealed that 1 did not inhibit glycolysis , but rather functions as a protonophore that dissipates the mitochondrial proton gradient .
+In the presence of rotenone , tumor cells may be hypersensitive to protonophores due to increased ATP utilization by the ATP synthase .

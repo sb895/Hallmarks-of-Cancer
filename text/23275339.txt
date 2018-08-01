@@ -1,0 +1,7 @@
+Peroxisome proliferator activated receptor γ ( PPARγ ) , a subgroup of ligand-activated nuclear receptors , plays critical roles in cell cycle regulation , differentiation , apoptosis and invasion .
+PPARγ is involved in tumorigenesis and is a potent target for cancer therapy .
+PPARγ transactivation of KLF4 has been demonstrated in various studies ; however , how PPARγ regulates KLF4 expression is not clear .
+In this study , we revealed that PPARγ regulates the expression of KLF4 by binding directly to the PPAR response element ( PPRE ) within the KLF4 promoter .
+The PPRE resided at -1657bp to -1669bp upstream of the KLF4 ATG codon , which is essential for the transactivation of TGZ-induced KLF4 expression .
+Furthermore , we found that stable silencing of KLF4 obviously suppressed the G1/S arrest and anti-proliferation effects induced by PPARγ ligands .
+Taken together , our data indicated that upregulating KLF4 upon PPARγ activation is mediated through PPRE in KLF4 promoter , thus providing further insights into PPARγ signal transduction pathway as well as a novel cancer therapeutic strategy .

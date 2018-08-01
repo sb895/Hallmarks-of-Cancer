@@ -1,0 +1,10 @@
+BACKGROUND CDC4/FBXW7 , encoding a ubiquitin ligase , maps to 4q32 and has been implicated as a tumor suppressor gene and therapeutic target in many tumor types .
+Mutations in colonic adenomas , and the frequent losses on 4q described in gastric cancer prompt speculation about the role of CDC4/FBXW7 in gastric carcinogenesis .
+METHODS We assessed the role of CDC4/FBXW7 in gastric cancer , through loss of heterozygosity ( LOH ) and multiplex ligation-dependent probe amplification ( MLPA ) on 47 flow-sorted gastric carcinomas including early-onset gastric cancers ( EOGC ) and xenografted conventional gastric carcinomas .
+Ploidy analysis was carried out on 39 EOGCs and immunohistochemistry of CDC4/FBXW7 and its substrates c-myc , c-jun , Notch and cyclin E was performed on 204 gastric carcinomas using tissue microarrays ( TMAs ) .
+Sequence analysis of CDC4/FBXW7 was carried out on gastric carcinoma cell lines and xenografts .
+RESULTS Loss of heterozygosity of CDC4/FBXW7 occurred in 32% of EOGCs , and correlated with loss of expression in 26% .
+Loss of expression was frequent in both EOGC and conventional gastric cancers .
+No CDC4/FBXW7 mutations were found and loss of CDC4/FBXW7 did not correlate with ploidy status .
+There was a significant correlation between loss of CDC4/FBXW7 expression and upregulation of c-myc .
+CONCLUSION Loss of CDC4/FBXW7 appears to play a role in both EOGC and conventional gastric carcinogenesis , and c-myc overexpression is likely to be an important oncogenic consequence of CDC4/FBXW7 loss .

@@ -1,0 +1,9 @@
+The Salmonella type III secretion system ( T3SS ) efficiently translocates heterologous proteins into the cytosol of eukaryotic cells .
+This leads to an antigen-specific CD8 T-cell induction in mice orally immunized with recombinant Salmonella .
+Recently , we have used Salmonella's T3SS as a prophylactic and therapeutic intervention against a murine fibrosarcoma .
+In this study , we constructed a recombinant Salmonella strain translocating the immunogenic H-2D(b)-specific CD8 T-cell epitope VILTNPISM ( KDR2 ) from the murine vascular endothelial growth factor receptor 2 ( VEGFR2 ) .
+VEGFR2 is a member of the tyrosine protein kinase family and is upregulated on proliferating endothelial cells of the tumor vasculature .
+After single orogastric vaccination , we detected significant numbers of KDR2-tetramer-positive CD8 T cells in the spleens of immunized mice .
+The efficacy of these cytotoxic T cells was evaluated in a prophylactic setting to protect mice from challenges with B16F10 melanoma cells in a flank tumor model , and to reduce dissemination of spontaneous pulmonary melanoma metastases .
+Vaccinated mice revealed a reduction of angiogenesis by 62% in the solid tumor and consequently a significant decrease of tumor growth as compared to non-immunized mice .
+Moreover , in the lung metastasis model , immunization with recombinant Salmonella resulted in a reduction of the metastatic melanoma burden by approximately 60% .

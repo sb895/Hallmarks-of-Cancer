@@ -1,0 +1,10 @@
+Numerous small potentially bioactive peptides are derived from the selective processing of the amino acid secretogranin II ( SgII ) precursor , but only the 31-42 amino acid segment termed secretoneurin ( SN ) is well-conserved from sharks to mammals .
+Both SNa and SNb paralogs have been identified in some teleosts , likely arising as a result of the specific genome duplication event in this lineage .
+Only one copy of the putative lamprey SgII ( 188 amino acids ) could be identified which gives rise to a divergent agnathan SN that contains the signature YTPQ-X-LA-X(7)-EL sequence typical of the central core of all known SN peptides .
+In rodent models , SN has regulatory effects on neuroinflammation and neurotransmitter release , and possesses therapeutic potential for the induction of angiogenesis .
+The wide distribution of SN in neuroendocrine neurons and pituitary cells suggests important endocrine roles .
+The clearest example of the endocrine action of SN is the stimulatory effects on pituitary luteinizing hormone release from goldfish pituitary and mouse LβT2 gonadotroph cells , indicative of an important role in reproduction .
+Several lines of evidence suggest that the SN receptor is most likely a G-protein coupled protein .
+Microarray analysis of SN effects on dispersed goldfish pituitary cells in vitro reveals novel SN actions that include effects on genes involved in notch signaling and the guanylate cyclase pathway .
+Intracerebroventricular injection of SN increases feeding and locomotory behaviors in goldfish .
+Given that SgII appeared early in vertebrate evolution , SN is an old peptide with emerging implications as a new multifunctional hormone .

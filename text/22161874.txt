@@ -1,0 +1,12 @@
+Human carcinomas are defined by recurrent chromosomal aneuploidies , which result in a tissue-specific distribution of genomic imbalances .
+In order to develop models for these genome mutations and to determine their role in tumorigenesis , we generated 45 spontaneously transformed murine cell lines from normal epithelial cells derived from bladder , cervix , colon , kidney , lung , and mammary gland .
+Phenotypic changes , chromosomal aberrations , centrosome number , and telomerase activity were assayed in control uncultured cells and in three subsequent stages of transformation .
+Supernumerary centrosomes , binucleate cells , and tetraploidy were observed as early as 48 hr after explantation .
+In addition , telomerase activity increased throughout progression .
+Live-cell imaging revealed that failure of cytokinesis , not cell fusion , promoted genome duplication .
+Spectral karyotyping demonstrated that aneuploidy preceded immortalization , consisting predominantly of whole chromosome losses ( 4 , 9 , 12 , 13 , 16 , and Y ) and gains ( 1 , 10 , 15 , and 19 ) .
+After transformation , focal amplifications of the oncogenes Myc and Mdm2 were frequently detected .
+Fifty percent of the transformed lines resulted in tumors on injection into immunocompromised mice .
+The phenotypic and genomic alterations observed in spontaneously transformed murine epithelial cells recapitulated the aberration pattern observed during human carcinogenesis .
+The dominant aberration of these cell lines was the presence of specific chromosomal aneuploidies .
+We propose that our newly derived cancer models will be useful tools to dissect the sequential steps of genome mutations during malignant transformation , and also to identify cancer-specific genes , signaling pathways , and the role of chromosomal instability in this process .

@@ -1,0 +1,13 @@
+Tumor metastasis represents a complex multistep process that requires migration , invasion , and angiogenesis .
+In this study , we examined the impact of molecular blockade of the epidermal growth factor receptor on the invasive and metastatic capacity of human squamous cell carcinoma ( SCC ) of the head and neck using in vitro and in vivo model systems .
+Treatment with the anti-epidermal growth factor receptor antibody C225 attenuated the migration of SCC-1 tumor cells through a chemotaxis chamber in a dose-dependent manner .
+Incubation of SCC cells with 10-100 nM C225 for 4 h resulted in 40-60% inhibition of cell migration .
+Furthermore , in the presence of C225 , the capacity of SCC-1 to invade across a layer of extracellular matrix ( Matrigel ) was significantly inhibited .
+Using an in vivo orthotopic floor-of-mouth xenograft model , locoregional tumor invasion of SCC-1 into muscle , vessel , bone , and perineural tissues was inhibited in C225-treated mice .
+This inhibition was additionally characterized by down-regulation in the expression of matrix metalloproteinase-9 .
+These data suggest that inhibition of metastatic potential by C225 may be mediated via decreased migration and invasion of SCC cells .
+Regarding angiogenesis in vitro , we first studied human umbilical vascular endothelial cells , which established a capillary-like network structure ( tube formation ) in the presence of reconstituted Matrigel .
+Treatment with C225 reduced cell-to-cell interaction of human umbilical vascular endothelial cells , resulting in disruption of tube formation .
+The effect of C225 was additionally examined using an in vivo tumor xenograft neovascularization model of angiogenesis .
+Systemic treatment with C225 not only reduced tumor growth and the number of blood capillaries but also hindered the growth of established vessels toward the tumor .
+Taken together , these results provide evidence that C225 can suppress tumor-induced neovascularization and metastasis in SCC of the head and neck .

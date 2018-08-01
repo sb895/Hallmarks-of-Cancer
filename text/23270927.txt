@@ -1,0 +1,8 @@
+Diffuse intrinsic pontine glioma ( DIPG ) is a fatal pediatric disease .
+Thus far no therapeutic agent has proven beneficial in the treatment of this malignancy .
+Hence , conventional DNA-damaging radiotherapy ( RT ) remains the standard treatment , providing transient neurological improvement without improving probability of overall survival .
+During RT , WEE1 kinase controls the G2 cell cycle checkpoint allowing for repair of irradiation ( IR)-induced DNA damage .
+Here we show that WEE1 kinase is one of the highest overexpressed kinases in primary DIPG tissues as compared to matching non-neoplastic brain tissues .
+Inhibition of WEE1 by MK-1775 treatment of DIPG cells inhibited the IR-induced WEE1-mediated phosphorylation of CDC2 , resulting in reduced G2/M arrest and decreased cell viability .
+Finally , we demonstrate that MK-1775 enhances the radiation response of E98-Fluc-mCherry DIPG mouse xenografts .
+Altogether , these results show that inhibition of WEE1 kinase in conjunction with RT holds potential as a therapeutic approach for the treatment of DIPG .

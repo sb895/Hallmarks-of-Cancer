@@ -1,0 +1,16 @@
+Waxy mutants , in which endosperm starch contains amylopectin rather than the wild-type composition of amylopectin and amylose , occur in many domesticated cereals .
+The cultivation of waxy varieties is concentrated in east Asia , where there is a culinary preference for glutinous-textured foods that may have developed from ancient food processing traditions .
+The waxy phenotype results from mutations in the GBSSI gene , which catalyzes amylose synthesis .
+Broomcorn or proso millet ( Panicum miliaceum L. ) is one of the world's oldest cultivated cereals , which spread across Eurasia early in prehistory .
+Recent phylogeographic analysis has shown strong genetic structuring that likely reflects ancient expansion patterns .
+Broomcorn millet is highly unusual in being an allotetraploid cereal with fully waxy varieties .
+Previous work characterized two homeologous GBSSI loci , with multiple alleles at each , but could not determine whether both loci contributed to GBSSI function .
+We first tested the relative contribution of the two GBSSI loci to amylose synthesis and second tested the association between GBSSI alleles and phylogeographic structure inferred from simple sequence repeats ( SSRs ) .
+We evaluated the phenotype of all known GBSSI genotypes in broomcorn millet by assaying starch composition and protein function .
+The results showed that the GBSSI-S locus is the major locus controlling endosperm amylose content , and the GBSSI-L locus has strongly reduced synthesis capacity .
+We genotyped 178 individuals from landraces from across Eurasia for the 2 GBSSI and 16 SSR loci and analyzed phylogeographic structuring and the geographic and phylogenetic distribution of GBSSI alleles .
+We found that GBSSI alleles have distinct spatial distributions and strong associations with particular genetic clusters defined by SSRs .
+The combination of alleles that results in a partially waxy phenotype does not exist in landrace populations .
+Our data suggest that broomcorn millet is a system in the process of becoming diploidized for the GBSSI locus responsible for grain amylose .
+Mutant alleles show some exchange between genetic groups , which was favored by selection for the waxy phenotype in particular regions .
+Partially waxy phenotypes were probably selected against-this unexpected finding shows that better understanding is needed of the human biology of this phenomenon that distinguishes cereal use in eastern and western cultures .

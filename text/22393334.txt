@@ -1,0 +1,10 @@
+Although interferon ( IFN ) has been often used as immunotherapy for bladder cancer , its efficacy is rather unsatisfactory , demanding further improvement .
+Combination therapy is one of viable options , and grape seed proanthocyanidin ( GSP ) could be such an agent to be used with IFN because it has been shown to have anticancer activity .
+We thus investigated whether combination of IFN and GSP might enhance the overall antiproliferative effect on bladder cancer cells in vitro .
+Human bladder cancer T24 cells were employed and treated with the varying concentrations of recombinant IFN-α(2b) ( 0-100,000 IU/ml ) , GSP ( 0-100 μg/ml ) , or their combinations .
+IFN-α(2b) alone led to a growth reduction at 20,000 ( 20K ) IU/ml , which further declined to at ≥50K IU/ml .
+Similarly , GSP alone induced a and growth reduction at 25 and ≥50 μg/ml , respectively .
+When IFN-α(2b) and GSP were then combined , combination of 50K IU/ml IFN-α(2b) and 25 μg/ml GSP resulted in a drastic >95% growth reduction .
+Cell cycle analysis indicated that such an enhanced growth inhibition was accompanied by a G(1) cell cycle arrest .
+This was further confirmed by Western blot analysis revealing that expressions of G(1)-specific cell cycle regulators ( CDK2 , CDK4 , cyclin E and p27/Kip1 ) were distinctly modulated with such IFN-α(2b)/GSP treatment .
+Therefore , these findings support the notion that combination of IFN-α(2b) and GSP is capable of additively enhancing antiproliferative effect on T24 cells with a G(1) cell cycle arrest , implying an adjuvant therapeutic modality for superficial bladder cancer .

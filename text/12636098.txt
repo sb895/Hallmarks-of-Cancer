@@ -1,0 +1,5 @@
+Purpose of this work was to synthesize several cis-/trans- isomer pairs of the platinum(II) complexes , and study the extent and the mode of their antiproliferative activity on HeLa cells .
+Six platinum(II) isomer pairs have a general formula cis-/trans-[PtA2X2] , where A is ligand : ammonia ( NH3 ) , pyridine ( Py ) ; and X is ligand : chloride ion ( Cl- ) , bromide ion ( Br- ) , iodide ion ( I- ) , thiocyanato ion ( SCN- ) ; four compounds have different structural formulas , and these are cis-/trans-[Pt(NH2OH)2(NH3)2]Cl2 , and cis-/trans-Pt(Gly)2 , where Gly is bidentate glycinato ligand .
+Results of the MTT assay , showed that six cis- and one trans-platinum(II) complexes exhibited cytotoxicity ( IC50 ) ranging between 5 and 33 microM .
+Most of the cis-platinum(II) isomers caused significant alteration of cell cycle phases progression , and induced apoptosis in degree that varied among different compounds , as evaluated using flowcytometry and morphological study .
+Spectrophotometric analysis ( AAS ) indicated that there is no correlation between intracellular platinum(II) accumulation and cytotoxicity of tested complexes .

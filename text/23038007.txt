@@ -1,0 +1,12 @@
+The goal of the present study was to examine hepatic differential gene expression patterns in Fisher-344 rats in response to dietary 2-aminoanthracene ( 2AA ) ingestion for 14 and 28 days .
+Twenty four post-weaning 3-4 week old F-344 male rats were exposed to 0 mgkg(-1)-diet ( control ) , 50 mgkg(-1)-diet ( low dose ) , 75 mgkg(-1)-diet ( medium dose ) and 100 mgkg(-1)-diet ( high dose ) 2AA for 14 and 28 days .
+This was followed by analysis of the liver for global gene expression changes .
+In both time points , the numbers of genes affected seem to correlate with the dose of 2AA .
+Sixteen mRNAs were differentially expressed in all treatment groups for the short-term exposure group .
+Similarly , 51 genes were commonly expressed in all 28-day exposure group .
+Almost all the genes seem to have higher expression relative to the controls .
+In contrast , cytochrome P450 family 4 , subfamily a , polypeptide 8 ( Cyp4a8 ) , and monocyte to macrophage differentiation-associated ( Mmd2 ) were down-regulated relative to controls .
+Differentially expressed mRNAs were further analyzed for associations via DAVID .
+GO categories show the effect of 2AA to be linked with genes responsible for carbohydrate utilization and transport , lipid metabolic processes , stress responses such as inflammation and apoptosis processes , immune system response , DNA damage response , cancer processes and circadian rhythm .
+The data from the current study identified altered hepatic gene expression profiles that may be associated with carcinoma , autoimmune response , and/or type 2 diabetes .
+Possible biomarkers due to 2AA toxicity in the liver for future study include Abcb1a , Nhej1 , Adam8 , Cdkn1a , Mgmt , and Nrcam .

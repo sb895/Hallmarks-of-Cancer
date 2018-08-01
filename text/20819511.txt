@@ -1,0 +1,10 @@
+BACKGROUND Oxidative stress and inflammation are important steps in the pathogenesis of atherosclerosis .
+We postulated that therapeutic concentrations of aspirin and pravastatin , especially in combination , may suppress oxidative stress and inflammation in endothelial cells , and this concept was examined in human coronary artery endothelial cells ( HCAECs ) .
+METHODS Human coronary artery endothelial cells were cultured and treated with oxidized-low density lipoprotein ( ox-LDL , 60 microg/ml for 24 hours ) alone , or pre-treated with aspirin ( 1 , 2 or 5 mmol/L ) , pravastatin ( 1 , 5 or 10 micromol/L ) or their combination ( 1 mmol/L aspirin and 5 micromol/L pravastatin ) , followed by ox-LDL treatment .
+After respective treatment , superoxide anion production , p38 mitogen activated protein kinase and transcription factor NF-kappaB activation , protein expression of lectin-like ox-LDL receptor-1 ( LOX-1 ) and adhesion molecules , and monocyte adhesion were measured .
+RESULTS Ox-LDL treatment greatly elicited its receptor LOX-1 expression , superoxide anion production and inflammatory response , which were minimally affected by low concentration of aspirin ( 1 mmol/L ) or pravastatin ( 5 micromol/L ) , but were markedly decreased by their combination .
+Activation of p38 mitogen activated protein kinase and NF-kappaB , the expression of intercellular adhesion molecule-1 and monocyte chemotactic protein-1 , which were only mildly affected by aspirin or pravastatin alone , were significantly attenuated by their combination .
+As a consequence , monocyte adhesion to endothelial cells was markedly attenuated by the combination of the two agents .
+Well-known anti-oxidants alpha-tocopherol and gamma-tocopherol had similar inhibitory effects on ox-LDL-mediated oxidative stress and LOX-1 expression as well as monocyte adhesion as did the combination of aspirin and pravastatin .
+CONCLUSIONS These studies point to a positive interaction between aspirin and pravastatin with regard to endothelial biology .
+Anti-oxidant and subsequent anti-inflammatory effect may be one of the potential underling mechanisms .

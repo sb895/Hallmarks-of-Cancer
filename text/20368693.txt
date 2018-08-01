@@ -1,0 +1,6 @@
+The tumor suppressor LKB1 is inactivated in 90% of Peutz-Jeghers cancer syndrome , 30-40% of non-small cell lung carcinoma , and a variety of other cancers , indicating the loss of LKB1 activity is a critical step in oncogenesis .
+However , current understanding of LKB1 function is largely limited to the results from cancer cells , and how LKB1 inactivation initiates malignant transformation in normal cells remains unclear .
+Here we ablated endogenous expression of LKB1 in two normal cell lines : human embryonic kidney 293T cells ( HEK-293T cells ) and human umbilical vein endothelial cells ( HUVECs ) by LKB1-specific short hairpin RNAs .
+Downregulation of endogenous LKB1 lead to a facilitated G(1)/S transition , accompanied by a concomitant increase in Rb phosphorylation ( Ser(807/811) ) .
+Furthermore , reduced expression of p53 and p16 was observed in LKB1 ablated cells , while no differences were detected for cyclin D1 and cyclin E. These results jointly suggest that endogenous LKB1 knockdown accelerates cell cycle progression through G(1)/S checkpoint in HEK-293T cells and HUVECs , which is at least in part , mediated by decline of p53 and p16 pathways .
+Our findings provided a plausible mechanism by which loss of LKB1 expression in normal cells contributes to the formation of malignancies .

@@ -1,0 +1,16 @@
+BACKGROUND Colorectal cancer is one of the main cancers in the Western world .
+About 90% of the deaths arise from formation of distant metastasis .
+The expression of the newly identified gene metastasis associated in colon cancer 1 ( MACC1 ) is a prognostic indicator for colon cancer metastasis .
+Here , we analyzed for the first time the impact of single nucleotide polymorphisms ( SNPs ) in the coding region of MACC1 for clinical outcome of colorectal cancer patients .
+Additionally , we screened met proto-oncogene ( Met ) , the transcriptional target gene of MACC1 , for mutations .
+METHODS We sequenced the coding exons of MACC1 in 154 colorectal tumors ( stages I , II and III ) and the crucial exons of Met in 60 colorectal tumors ( stages I , II and III ) .
+We analyzed the association of MACC1 polymorphisms with clinical data , including metachronous metastasis , UICC stages , tumor invasion , lymph node metastasis and patients ' survival ( n = 154 , stages I , II and III ) .
+Furthermore , we performed biological assays in order to evaluate the functional impact of MACC1 SNPs on the motility of colorectal cancer cells .
+RESULTS We genotyped three MACC1 SNPs in the coding region .
+Thirteen % of the tumors had the genotype cg ( rs4721888 , L31V ) , 48% a ct genotype ( rs975263 , S515L ) and 84% a gc or cc genotype ( rs3735615 , R804T ) .
+We found no association of these SNPs with clinicopathological parameters or with patients ' survival , when analyzing the entire patients ' cohort .
+An increased risk for a shorter metastasis-free survival of patients with a ct genotype ( rs975263 ) was observed in younger colon cancer patients with stage I or II ( P = 0.041 , n = 18 ) .
+In cell culture , MACC1 SNPs did not affect MACC1-induced cell motility and proliferation .
+CONCLUSION In summary , the identification of coding MACC1 SNPs in primary colorectal tumors does not improve the prediction for metastasis formation or for patients ' survival compared to MACC1 expression analysis alone .
+The ct genotype ( rs975263 ) might be associated with a reduced survival for younger colon cancer patients in early stages .
+However , further studies with larger sample sizes are needed .

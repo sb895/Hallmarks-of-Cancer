@@ -1,0 +1,8 @@
+Endothelial cells respond to hypoxic changes with resultant accumulation of several metabolites and switch over to angiogenic phenotype .
+Although certain intermediates of glycolytic and oxidative metabolic pathways have been known to affect angiogenesis , the effect of citrate , which accumulates in certain tumors , on angiogenesis is not known .
+Therefore , the effect of citrate on angiogenesis was studied using different model systems .
+Increased vascularization in chorioallantoic membrane assay , increased endothelial sprouting in rat aortic rings , and increased expression of CD31 , E-selectin in endothelial cells suggested a possible proangiogenic effect of citrate .
+Upregulation of angiogenic factors such as vascular endothelial growth factor and fibroblast growth factor suggested that the effect of citrate involves modulation of expression of angiogenic growth factors .
+LY 294002 , an inhibitor of PI3K-Akt pathway , and wortmannin , an inhibitor of Akt pathway , reversed the effect of citrate in human umbilical vein endothelial cells .
+Citrate induced significant upregulation and activation of Akt in endothelial cells .
+Rapamycin , an inhibitor of mTOR , also reversed the effect of citrate in human umbilical vein endothelial cells and sprouting of aortic rings suggesting that the angiogenic effect of citrate involves activation of PI3K-Akt-mTOR pathway .

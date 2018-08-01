@@ -1,0 +1,13 @@
+BACKGROUND Glioblastoma is the most common and most aggressive form of malignant glioma and is very difficult to treat .
+Controlling tumour cell invasion and angiogenesis is essential to improve the prognosis of glioblastoma patients .
+Since constitutive activation of nuclear factor-κB ( NF-κB ) is necessary for tumour progression , NF-κB may be an important pharmacological target for this disease .
+Our study aimed to evaluate the antitumour effects of parthenolide , a NF-κB inhibitor , in two human glioblastoma cell lines ( U87MG and U373 ) and in glioblastoma xenografts .
+Furthermore , we aimed to investigate the molecular mechanisms underlying these effects .
+METHODS The anti-invasive and anti-angiogenic effects of parthenolide were analysed using in vitro invasion and angiogenesis assays .
+Parthenolide-induced growth inhibition of glioblastoma cells in vitro was determined using the MTT ( methyl thiazolyl tetrazolium ) assay .
+In addition , the effect of parthenolide on orthotropic implantation in vivo was evaluated using an intracerebral human glioblastoma xenograft model .
+RESULTS We found that parthenolide suppresses proliferation , invasion , and tumour- induced angiogenesis of glioblastoma cells .
+Molecular studies demonstrated that parthenolide suppresses gene and protein expression of angiogenic factors .
+Furthermore , parthenolide reduced Akt phosphorylation and activated mitochondrial signalling , suggesting that the antitumour function of parthenolide may be mediated not only by the inhibition of NF-κB but also by the inhibition of Akt signalling and the activation of apoptotic proteins .
+Parthenolide suppressed neovascularity and tumour growth in glioblastoma xenografts .
+CONCLUSION The present study identified parthenolide as a new therapeutic agent for glioblastomas .

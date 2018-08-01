@@ -1,0 +1,11 @@
+Progression to malignancy requires that cells overcome senescence and switch to an immortal phenotype .
+Thus , exploring the genetic and epigenetic changes that occur during senescence/immortalization may help elucidate crucial events that lead to cell transformation .
+In the present study , we have globally profiled DNA methylation in relation to gene expression in primary , senescent and immortalized mouse embryonic fibroblasts .
+Using a high-resolution genome-wide mapping technique , followed by extensive locus-specific validation assays , we have identified 24 CpG islands that display significantly higher levels of CpG methylation in immortalized cell lines as compared to primary murine fibroblasts .
+Several of these hypermethylated CpG islands are associated with genes involved in the MEK-ERK pathway , one of the most frequently disrupted pathways in cancer .
+Approximately half of the hypermethylated targets are developmental regulators , and bind to the repressive Polycomb group ( PcG ) proteins , often in the context of bivalent chromatin in mouse embryonic stem cells .
+Because PcG-associated aberrant DNA methylation is a hallmark of several human malignancies , our methylation data suggest that epigenetic reprogramming of pluripotency genes may initiate cell immortalization .
+Consistent with methylome alterations , global gene expression analysis reveals that the vast majority of genes dysregulated during cell immortalization belongs to gene families that converge into the MEK-ERK pathway .
+Additionally , several dysregulated members of the MAP kinase network show concomitant hypermethylation of CpG islands .
+Unlocking alternative epigenetic routes for cell immortalization will be paramount for understanding crucial events leading to cell transformation .
+Unlike genetic alterations , epigenetic changes are reversible events , and as such , can be amenable to pharmacological interventions , which makes them appealing targets for cancer therapy when genetic approaches prove inadequate .

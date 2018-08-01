@@ -1,0 +1,9 @@
+Epidemiological studies have indicated that obesity is associated with colorectal cancer .
+The obesity hormone leptin is considered as a key mediator for cancer development and progression .
+The present study aims to investigate regulatory effects of leptin on colorectal carcinoma .
+The expression of leptin and its receptor Ob-R was examined by immunohistochemistry in 108 Chinese patients with colorectal carcinoma .
+The results showed that leptin/Ob-R expression was significantly associated with T stage , TNM stage , lymph node metastasis , distant metastasis , differentiation and expression of p-mTOR , p-70S6 kinase , and p-Akt .
+Furthermore , the effects of leptin on proliferation and apoptosis of HCT-116 colon carcinoma cells were determined .
+The results showed that leptin could stimulate the proliferation and inhibit the apoptosis of HCT-116 colon cells through the PI3K/Akt/mTOR pathway .
+Ly294002 ( a PI3K inhibitor ) and rapamycin ( an mTOR inhibitor ) could prevent the regulatory effects of leptin on the proliferation and apoptosis of HCT-116 cells via abrogating leptin-mediated PI3K/Akt/mTOR pathway .
+All these results indicated that leptin could regulate proliferation and apoptosis of colorectal carcinoma through the PI3K/Akt/ mTOR signalling pathway .

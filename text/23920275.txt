@@ -1,0 +1,10 @@
+Hypoxia-inducible factor-1 ( HIF-1 ) plays a critical role in reprogramming cancer metabolism toward aerobic glycolysis ( i.e. , the Warburg effect ) , which is critical to supplying cancer cells with the biomass needed for proliferation .
+Previous studies have shown that cetuximab , an EGF receptor-blocking monoclonal antibody , downregulates the alpha subunit of HIF-1 ( HIF-1\u03b1 ) through the inhibition of EGF receptor downstream cell signaling and that downregulation of HIF-1\u03b1 is required for cetuximab-induced antiproliferative effects .
+However , the mechanism underlying these actions has yet to be identified .
+In this study , we used the Seahorse XF96 extracellular flux analyzer to assess the effect of cetuximab treatment on changes in glycolysis and mitochondrial respiration , the two major energy-producing pathways , in live cells .
+We found that cetuximab downregulated lactate dehydrogenase A ( LDH-A ) and inhibited glycolysis in cetuximab-sensitive head and neck squamous cell carcinoma ( HNSCC ) cells in an HIF-1\u03b1 downregulation-dependent manner .
+HNSCC cells with acquired cetuximab resistance expressed a high level of HIF-1\u03b1 and were highly glycolytic .
+Overexpression of a HIF-1\u03b1 mutant ( HIF-1\u03b1/\u0394ODD ) conferred resistance to cetuximab-induced G1 phase cell-cycle arrest , which could be overcome by knockdown of LDH-A expression .
+Inhibition of LDH-A activity with oxamate enhanced the response of cetuximab-resistant cells to cetuximab .
+Cetuximab had no noticeable inhibitory effect on glycolysis in nontransformed cells .
+These findings provide novel mechanistic insights into cetuximab-induced cell-cycle arrest from the perspective of cancer metabolism and suggest novel strategies for enhancing cetuximab response .

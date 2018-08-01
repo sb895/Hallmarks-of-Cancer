@@ -1,0 +1,13 @@
+Reactive oxygen species ( ROS ) such as hydrogen peroxide ( H(2)O(2) ) , O(*-)(2) and OH(*) participate in the pathogenesis of ischemia/reperfusion injury , inflammation and atherosclerosis .
+Our previous studies have suggested that increased angiotensin II ( Ang II)-forming chymase may be involved in the development of atherosclerosis .
+However , the regulatory mechanism of chymase expression has not yet been clarified .
+In this study , we tested whether oxidative stress upregulates mouse mast cell proteinase chymase , mouse mast cell proteinase ( MMCP)-5 or MMCP-4 .
+We also examined the expression and activity of these proteins after treatment .
+Cultured mouse mastocytoma cells ( MMC ) displaying chymase-dependent Ang II-forming activity were treated with H(2)O(2) and several aminothiols with or without anti-oxidants .
+The levels of MMCP-5 and MMCP-4 expression were determined by quantitative RT-PCR ; the level of chymase-dependent Ang II-forming activity was measured by high performance liquid chromatography using Ang I as a substrate .
+Treatment of MMC with homocysteine ( 0.1-3 mmol l(-1) ) significantly increased MMCP-5 and MMCP-4 expression , as well as Ang II-forming activity .
+These effects were significantly inhibited by the addition of catalase and further suppressed by the combination of catalase and superoxide dismutase .
+Incubation with hydrogen peroxide alone caused a significant increase in Ang II-forming activity , which was completely suppressed by co-treatment with catalase .
+Furthermore , MMCP-5 and MMCP-4 expression levels were drastically suppressed and chymase induction by homocysteine was diminished under the GATA-inhibited condition .
+Homocysteine increased mast cell chymase expression and activity through the mechanism of oxidative stress .
+Our results suggest that there is a biochemical link between oxidative stress and the local Ang II-forming system .

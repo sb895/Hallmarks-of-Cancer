@@ -1,0 +1,11 @@
+The vast majority of breast cancers are carcinomas that arise from mammary epithelial cells ( MECs ) .
+One of the key early events in tumorigenic transformation is the ability of cells to overcome replicative senescence .
+However , the precise genetic changes that are responsible for this event in MECs is largely unknown .
+Here , we report that Bmi-1 , originally identified as a c-Myc cooperating oncoprotein , can bypass senescence , extend the replicative life span , and immortalize MECs .
+Furthermore , Bmi-1 was overexpressed in immortal MECs and several breast cancer cell lines .
+Overexpression of Bmi-1 in MECs led to activation of human telomerase reverse transcriptase ( hTERT ) transcription and induction of telomerase activity .
+Telomerase induction by Bmi-1 was an early event in the extension of the replicative life span and immortalization .
+Bmi-1 was not overexpressed in hTERT-immortalized MECs , suggesting that Bmi-1 functions upstream of hTERT .
+Although , c-Myc has been reported to induce telomerase in MECs , Bmi-1 appeared to act independently of c-Myc binding sequences in the hTERT promoter .
+Deletion analysis of the Bmi-1 protein suggested that the RING finger , as well as a conserved helix-turn-helix-turn domain , were required for its ability to induce telomerase and immortalize MECs .
+These data suggest that Bmi-1 regulates telomerase expression in MECs and plays a role in the development of human breast cancer .

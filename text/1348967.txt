@@ -1,0 +1,8 @@
+c-myc , c-erbB-2 , and Ki-67 expression was examined by immunohistochemistry in 11 normal breast tissues and 42 invasive and 14 noninvasive breast carcinomas .
+The c-myc product was detected in all breast carcinoma specimens and in 7 of 11 normal breast tissues .
+Invasive tumors stained more frequently with the anti-myc monoclonal antibody than did noninvasive tumors , while the level of expression in normal breast tissue was much less than that in breast cancer .
+Membrane staining of the c-erbB-2 protein was demonstrated in 29% ( 4 of 14 ) of noninvasive ductal carcinomas and in 45% ( 19 of 42 ) of invasive breast carcinomas .
+None of the 11 normal breast tissue samples was positive .
+The mean value of Ki-67-positive cells was 0.91 +/- 0.31% for normal breast tissue , 4.57 +/- 1.36% for noninvasive ductal carcinoma , and 12.76 +/- 2.18% for invasive breast cancer .
+In 42 invasive breast carcinomas , the expression of c-myc , c-erbB-2 , and Ki-67 proliferation marker were compared with lymph node status , estrogen receptor status , progesterone receptor status , and age of patients at diagnosis. c-erbB-2 overexpression and Ki-67 overexpression were identified as the only factors associated with lymph node status .
+We concluded that they might be additional prognostic factors for breast carcinoma .

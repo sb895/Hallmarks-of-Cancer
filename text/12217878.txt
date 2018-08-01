@@ -1,0 +1,6 @@
+Enhanced glycolysis represents a striking feature of cancers and can therefore serve to indicate a malignant transformation .
+We have developed a noninvasive , quantitative method to characterize tumor glycolysis by monitoring ( 13)C-labeled glucose and lactate with magnetic resonance spectroscopy .
+This method was applied in MCF7 human breast cancer implanted in the mammary gland of female CD1-NU mice and was further employed to assess tumor response to hormonal manipulation with the antiestrogen tamoxifen .
+Analysis of the kinetic data based on a unique physiological-metabolic model yielded the rate parameters of glycolysis , glucose perfusion , and lactate clearance in the tumor , as well as glucose pharmacokinetics in the plasma .
+Treatment with tamoxifen induced a twofold reduction in the rate of glycolysis and of lactate clearance but did not affect the other parameters .
+This metabolic monitoring can thus serve to evaluate the efficacy of new selective estrogen receptor modulators and may be further extended to improve diagnosis and prognosis of breast cancer .

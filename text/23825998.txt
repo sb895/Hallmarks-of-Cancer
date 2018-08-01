@@ -1,0 +1,11 @@
+BACKGROUND Matrix metalloproteinases comprise a family of enzyme degrade components of extra cellular matrix .
+There are single nucleotide polymorphisms in the promoter regions of several genes with ability to influence cancer susceptibility .
+The aim of this study was to analyze association between MMP3 promoter polymorphisms and colorectal cancer occurrence and progression .
+MATERIALS AND METHODS In this case-control study 120 colorectal cancer patients and 100 controls were genotyped using polymerase chain reaction-restriction fragment length polymorphism ( PCR-RFLP ) on the genomic deoxyribonucleic acid ( DNA ) .
+The patients group was divided into different subgroups : a subgroup without metastatic activity ( M(-) ) and a subgroup that had developed metastasis ( M(+) ) .
+RESULTS There was a significant difference in frequency of the MMP-3 genotype between cases and controls ( \u03c7\u0382 = 16.17 ; P = 0.0003 ) .
+The 5A homozygote in patients and controls was significantly different .
+The frequency of the 5A allele among affected patients ( 67.91% ) was significantly higher than among the healthy controls ( 49% ; \u03c7(2) = 16.17 , P = 0.00005 ) .
+At the time of diagnosis , individual who was carrying the 5A allele was more represented in the M(+) subgroup than in M(-) subgroup ( χ² = 7.49 ; P = 0.006 , OR = 3.86 ; 95% CI , 1.43-10.33 ) .
+The difference between M(-) and controls did not observe statistically significant ( χ² = 0.009 ; P = 0.92 ) .
+CONCLUSIONS Our results suggest that the presence of 5A polymorphism at the MMP-3 promoter region may favor the growth and the metastasis process in colorectal cancer patients and could be looked at as a risk factor for a worse prognosis .

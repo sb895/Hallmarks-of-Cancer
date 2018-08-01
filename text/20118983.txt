@@ -1,0 +1,7 @@
+The anti-apoptotic protein , BAX inhibitor-1 ( BI-1 ) , has a role in cancer/tumor progression .
+BI-1-overexpressing HT1080 and B16F10 cells produced higher lung weights and tumor volumes after injection into the tail veins of mice .
+Transfection of BI-1 siRNA into cells before injection blocked lung metastasis. in vitro , the overexpression of BI-1 increased cell mobility and invasiveness , with highly increased glucose consumption and cytosolic accumulation of lactate and pyruvate , but decreased mitochondrial O(2) consumption and ATP production .
+Glucose metabolism-associated extracellular pH also decreased as cells excreted more H(+) , and sodium hydrogen exchanger ( NHE ) activity increased , probably as a homeostatic mechanism for intracellular pH .
+These alterations activated MMP 2/9 and cell mobility and invasiveness , which were reversed by the NHE inhibitor , 5-(N-ethyl-N-isopropyl) amiloride ( EIPA ) , suggesting a role for NHE in cancer metastasis .
+In both in vitro and in vivo experiments , C-terminal deleted ( CDeltaBI-1 ) cells showed similar results to control cells , suggesting that the C-terminal motif is required for BI-1-associated alterations of glucose metabolism , NHE activation and cancer metastasis .
+These findings strongly suggest that BI-1 reduces extracellular pH and regulates metastasis by altering glucose metabolism and activating NHE , with the C-terminal tail having a pivotal role in these processes .

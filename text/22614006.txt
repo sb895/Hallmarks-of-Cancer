@@ -1,0 +1,6 @@
+The Salvador/Warts/Hippo ( Hippo ) signaling pathway defines a novel signaling cascade regulating cell contact inhibition , organ size control , cell growth , proliferation , apoptosis and cancer development in mammals .
+The upstream regulation of this pathway has been less well defined than the core kinase cassette .
+KIBRA has been shown to function as an upstream member of the Hippo pathway by influencing the phosphorylation of LATS and YAP , but functional consequences of these biochemical changes have not been previously addressed .
+We show that in MCF10A cells , loss of KIBRA expression displays epithelial-to-mesenchymal transition ( EMT ) features , which are concomitant with decreased LATS and YAP phosphorylation , but not MST1/2 .
+In addition , ectopic KIBRA expression antagonizes YAP via the serine 127 phosphorylation site and we show that KIBRA , Willin and Merlin differentially regulate genes controlled by YAP .
+Finally , reduced KIBRA expression in primary breast cancer specimens correlates with the recently described claudin-low subtype , an aggressive sub-group with EMT features and a poor prognosis .

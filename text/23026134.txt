@@ -1,0 +1,9 @@
+Human breast tumors are infiltrated by memory CD4(+) T cells along with increased numbers of regulatory T cells ( Treg ) and plasmacytoid dendritic cells ( pDC ) that facilitate immune escape and correlate with poor prognosis .
+Here , we report that inducible costimulatory molecule ( ICOS ) , a T cell costimulatory molecule of the CTLA4/PD1/CD28 family , is expressed mostly by tumor-associated Treg in primary breast tumors .
+A large proportion of these ICOS(+) Treg were Ki67(+) and this evident proliferative expansion was found to rely on interactions with tumor-associated pDC .
+Indeed , tumor-associated Treg highly expanded in presence of pDC but failed to proliferate under CD3/CD28 signal .
+In vitro experiments revealed that the addition of a neutralizing anti-ICOS antibody blocked pDC-induced Treg expansion and interleukin-10 secretion by memory CD4(+) T cells , establishing a pivotal role for ICOS in this process .
+Supporting these findings , the presence of ICOS(+) cells in clinical specimens of breast cancer correlated with a poor prognosis .
+Together , our results highlight an important relationship between Treg and pDC in breast tumors , and show that ICOS/ICOS-L interaction is a central event in immunosuppression of tumor-associated memory CD4(+) T cells .
+These findings strongly rationalize antibody-mediated ICOS blockade as a powerful clinical strategy to correct immune escape and promote therapeutic responses in breast cancer .
+Cancer Res ; 72(23) ; 6130-41. �2012 AACR .

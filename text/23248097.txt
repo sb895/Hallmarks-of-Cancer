@@ -1,0 +1,9 @@
+Cancer vaccines based on human tumor-associated antigens ( TAA ) have been tested in patients with advanced or recurrent cancer , in combination with or following standard therapy .
+Their immunogenicity and therapeutic efficacy has been difficult to properly evaluate in that setting characterized by multiple highly suppressive effects of the tumor and the standard therapy on the patient's immune system .
+In animal models of human cancer , vaccines administered in the prophylactic setting are most immunogenic and effectively prevent cancer development and progression .
+We report results of a clinical study that show that in patients without cancer but with a history of premalignant lesions ( advanced colonic adenomas , precursors to colon cancer ) , a vaccine based on the TAA MUC1 was highly immunogenic in 17 of 39 ( 43.6% ) of vaccinated individuals , eliciting high levels of anti-MUC1 immunoglobulin G ( IgG ) and long-lasting immune memory .
+Lack of response in 22 of 39 individuals was correlated with high levels of circulating myeloid-derived suppressor cells ( MDSC ) prevaccination .
+Vaccine-elicited MUC1-specific immune response and immune memory were not associated with significant toxicity .
+Our study shows that vaccines based on human TAAs are immunogenic and safe and capable of eliciting long-term memory that is important for cancer prevention .
+We also show that in the premalignant setting , immunosuppressive environment ( e.g. , high levels of MDSC ) might already exist in some individuals , suggesting an even earlier premalignant stage or preselection of nonimmunosuppressed patients for prophylactic vaccination .
+Cancer Prev Res ; 6(1) ; 18-26. �2012 AACR .

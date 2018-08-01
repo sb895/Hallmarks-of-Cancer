@@ -1,0 +1,6 @@
+Although anticancer effect of gambogic acid ( GA ) and its potential mechanisms were well documented in past decades , limited information is available on the anticancer effect of gambogenic acid ( GNA ) , another major active component of Gamboge .
+Here we performed a study to determine whether GNA possesses anticancer effect and find its potential mechanisms .
+The results suggested that GNA significantly inhibited the proliferation of several tumor cell lines in vitro and in vivo .
+Treatment with GNA dose and time dependently induced A549 cells apoptosis , arrested the cells to G0/G1 phase in vitro and down-regulated the expression of cyclin D1 and cyclooxygenase ( COX)-2 in mRNA level .
+In addition , anticancer effect was further demonstrated by applying xenografts in nude mice coupled with the characteristic of apoptosis in the GNA treated group .
+Taken together , these observations might suggest that GNA inhibits tumor cell proliferation via apoptosis-induction and cell cycle arrest .

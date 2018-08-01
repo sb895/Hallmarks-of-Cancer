@@ -1,0 +1,11 @@
+PURPOSE : Prostate cancer ( PCa ) development is often associated with deletion or silencing of tumor suppressor PTEN , a negative regulator of the PI3K-Akt pathway , leading to resistance to various therapies .
+Therefore , the PI3K/Akt pathway plays a central role in various cellular processes leading to malignant phenotype , and , consequently is an attractive target .
+However , the efficacy of AKT inhibitors is limited by resistance mechanisms that result in minimal tumor cell death .
+Methods:Effects of Akt inhibitor AZD5363 were investigated on cell proliferation , apoptosis , Akt pathway and survival mechanisms .
+We then examined the impacts of inhibition of autophagy combined with AZD5363 on cell proliferation and apoptosis .
+Furthermore , the anti-cancer activity of combination treatment of the lysosomotropic inhibitor of autophagy ( chloroquine ) with Akt inhibitor AZD5363 was evaluated in PC-3 prostate cancer xenografts .
+RESULTS : we show that AZD5363 affected Akt downstream pathway by reducing p-mTOR , p-P70S6K and p-S6K .
+While AZD5363 monotherapy induced G2 growth arrest and autophagy , it failed to induce significant apoptosis in PC-3 and DU145 PCa cells .
+Blocking autophagy using pharmacological inhibitors or genetic inhibitors enhanced cell death induced by AZD5363 in these PCa cells .
+Importantly , the combination of AZD5363 with chloroquine significantly reduced tumor volume by 84.9% compared with the control group and by 77.5% compared with either drug alone in PC3 xenografts .
+CONCLUSIONS : These data demonstrate that Akt inhibitor AZD5363 , synergizes with the lysosomotropic inhibitor of autophagy , chloroquine , to induce apoptosis and delay tumor progression in PCa models that are resistant to monotherapy AZD5363 , providing a new therapeutic approach potentially translatable to patients .

@@ -1,0 +1,15 @@
+BACKGROUND Angiogenesis is of crucial importance for tumor growth and development of metastases .
+Vascular endothelial growth factor ( VEGF ) has a potent angiogenic activity and mutations of the p53 gene has been thought to upregulate VEGF .
+The purpose of our study was to evaluate the prognostic significance of these tumor biomarkers for angiogenesis relative to the information derived from established clinicopathological parameters in gastric cancer .
+METHODS In this study , we conducted an immunohistochemical investigation of VEGF and p53 expression in 145 tissue samples obtained from gastric cancer patients undergoing curative surgical treatment .
+To evaluate angiogenesis , microvessel density ( MVD ) was counted by staining endothelial cells immunohistochemically using anti-CD34 monoclonal antibody .
+RESULTS High MVD was significantly associated with depth of tumor invasion and distant metastasis ( p = 0.004 , 0.021 , respectively ) .
+Moreover , overall survival for patients with high MVD were significantly lower than that of low MVD ( p = 0.048 ) .
+Positive expression of VEGF correlated significantly with lymph node and distant metastasis ( p = 0.040 , 0.048 , respectively ) .
+However , no significant correlation was found between p53 expression and various clinicopathological parameters .
+VEGF positive tumors showed a higher MVD than VEGF negative tumors ( p = 0.028 ) .
+The expression of p53 did not correlate with VEGF expression .
+Also , the relationship between the status of p53 expression and MVD had not statistically significant differences .
+In the multivariate analysis , status of VEGF , p53 expression and MVD were not an independent prognostic factor .
+CONCLUSION VEGF seems to be an important , clinically relevant inducer of angiogenesis and angiogenesis assessed by the MVD may be a useful marker for predicting metastasis in gastric cancer .
+However , further studies are warranted to clarify the impact of p53 on the angiogenesis and the prognostic significance of angiogenesis in gastric cancer .

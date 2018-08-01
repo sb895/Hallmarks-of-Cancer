@@ -1,0 +1,11 @@
+BACKGROUND Thrombospondin-1 ( TSP-1 ) promotes breast cancer cell invasion of collagen by upregulating matrix metalloproteinase-9 ( MMP-9 ) production .
+Stromal TSP-1 may play a role in regulating tumor cell invasion .
+We hypothesize that fibroblasts promote breast cancer cell invasion by upregulating the production of MMP-9 through TSP-1 .
+METHODS MDA-MB-231 human breast carcinoma cells were grown alone or in coculture with human fibroblasts .
+Gelatin zymography and Western immunoblot analysis for MMP-9 were performed on the coculture cell media and the single cell media .
+Inhibition of fibroblast-mediated breast tumor cell invasion by an anti-TSP-1 or an anti-MMP-9 antibody was evaluated using a modified Boyden chamber .
+RESULTS Coculture experiments showed an increased production of MMP-9 when compared with breast cancer single cell culture or fibroblast single cell culture experiments as demonstrated by zymography and Western immunoblot analysis .
+Fibroblast-stimulated MMP-9 production was comparable with TSP-1-stimulated MMP-9 production .
+Anti-TSP-1 antibody and anti-MMP-9 antibody inhibited fibroblast-stimulated tumor cell invasion to 30% and 26% of controls , respectively ( P <.05 ) .
+CONCLUSIONS Fibroblasts may regulate breast cancer cell invasion by promoting tumor MMP-9 production through TSP-1 .
+Inhibition of stromal TSP-1 stimulation of MMP-9 synthesis may prevent matrix degradation necessary for tumor invasion and metastasis .

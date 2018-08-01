@@ -1,0 +1,12 @@
+BACKGROUND : CD81 is a transmembrane protein that serves as a putative receptor for hepatitis C virus .
+In addition , CD81 has been suggested to be involved in a broad range of other cellular functions .
+Its putative implication in tumorigenesis has so far , however , remained largely unexplored .
+To assess the candidacy of CD81 as a tumor suppressor in gastric cancer development , we investigated its expression and function in a series of primary gastric tumors and gastric tumor-derived cell lines .
+METHODS : The expression and concomitant methylation status of the CD81 gene and its effect on tumor development and cellular signaling were evaluated .
+RESULTS : CD81 mRNA levels were found to be low in 16 of 40 ( 40% ) primary tumors and 9 of 14 ( 64.2% ) cell lines , and these low expression levels were found to correlate with the stage and grade of the tumors .
+Genomic alterations of CD81 were not encountered , whereas its expression could be re-activated in low expressing cells upon 5-aza-dC treatment .
+Bisulfite DNA sequencing analysis of 10 CpG sites within the 5 ' proximal region of the CD81 gene promoter revealed that the observed transcriptional silencing was tightly associated with aberrant hypermethylation .
+Subsequent restoration of CD81 expression induced a G(1) cell cycle arrest and apoptosis , whereas siRNA-mediated CD81 down-regulation promoted cell proliferation and attenuated cellular responses to various apoptotic stress stimuli .
+Also the colony-forming ability of the tumor cells could be inhibited and enhanced through CD81 up- and down-regulation , respectively .
+CD81 was found to inhibit p38 ( but not ERK , JNK and AKT ) phosphorylation and its growth suppressive effect could be abolished through p38 up- and down-regulation .
+CONCLUSION : From our data we conclude that epigenetic inactivation of CD81 is a common feature of gastric tumors and that this inactivation may render growth and survival advantages to the tumor cells , at least partially through p38 signaling .

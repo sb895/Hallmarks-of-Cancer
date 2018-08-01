@@ -1,0 +1,12 @@
+Antithymocyte globulin is widely used before haematopoietic transplantation with HLA-matched unrelated donors or mismatched relatives to prevent rejection and graft-versus-host disease ( GVHD ) .
+However , optimal dosage is still under debate .
+Thirty-one consecutive children , mainly with haematological malignancies , were transplanted in a single institution with such donors , selected by HLA-A -B compatibility by serology and DRB1* by DNA typing .
+Antithymocyte globulin ( Thymoglobuline ; Sangstat ) was infused at days -3 , -2 , -1 .
+Total dosage varied : 16 patients received a median of 7.5 mg/kg ( 2.5 to 10.5 : low-dose group ) , and 15 a median of 15.5 mg/kg ( 14.4 to 19.4 : high-dose group ) .
+Post-transplant GVHD prophylaxis consisted of cyclosporine , short-course methotrexate and steroids .
+CD3(+) , CD4(+) and CD19(+) cell reconstitution was slower in the high-dose group .
+Median time to reach 100 CD4(+) cells was 8 months vs 4 months ( P = 0.03 ) .
+Median time to normal CD19(+) cells was 16 months vs 8 months ( P = 0.01 ) .
+CD16(+)CD56(+) and CD8(+) cell reconstitution was similar .
+Nine patients in the high-dose group and two in the low-dose group experienced life-threatening opportunistic infections ( P = 0.009 ) .
+Although obtained from a limited number of patients , our data suggest that a higher pre-graft dose of antithymocyte globulin may negatively influence immune reconstitution .

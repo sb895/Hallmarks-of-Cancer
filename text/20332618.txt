@@ -1,0 +1,9 @@
+In the present study , we investigated if the intracellular Cl(-) affects cell growth and cell cycle progression of androgen-independent prostate cancer PC3 cells .
+PC3 cells cultured in a medium containing 113 mM Cl(-) for 96 h grew up 9-fold in cell number , while PC3 cells cultured in an 8 mM-Cl(-)-containing culture medium showed complete arrest of cell growth even after culture for 96 h .
+Exposure of cells to the 8 mM-Cl(-) culture medium diminished phosphorylation levels of Rb and cdc2 , which are respectively key accelerators of transition from G(1) to S phase and G(2) to M phase in cell cycle progression .
+Culturing cells in the 8 mM-Cl(-)-containing culture medium upregulated the protein expression level of p21 ( a CDK inhibitor ) inhibiting transition of G(1) to S phase , and diminished the incorporation of 5-ethynyl-2'-deoxyuridine ( EdU ; a thymidine analogue ) into DNA .
+These results suggest that cells cultured in the low Cl(-) medium prolonged the duration of all phases of the cell cycle ( G(1) , S , and G(2)/M ) , thereby abolishing overall cell cycle progression .
+Effects of culturing cells in the low Cl(-) culture medium on cell cycle progression would be mediated via a change in the intracellular Cl(-) concentration ( [ Cl(-)](i) ) , since [ Cl(-)](i) was decreased under a low Cl(-) culture medium .
+To clarify this possibility , we studied effects of furosemide and bumetanide , Na+/K+/2Cl(-) cotransporter ( NKCC ) inhibitors , on proliferation of PC3 cells .
+Furosemide and bumetanide decreased [ Cl(-)](i) and cell growth of PC3 cells .
+These results suggest that a change in [ Cl(-)](i) would play a critical role in this growth mechanism .

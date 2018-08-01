@@ -1,0 +1,8 @@
+OBJECTIVES Despite the well-defined histological types of non-small cell lung cancer ( NSCLC ) , a given stage is often associated with wide-ranging survival rates and treatment outcomes .
+This disparity has led to an increased demand for the discovery and identification of new informative biomarkers .
+METHODS In the current study , we screened 81 NSCLC samples using Illumina whole-genome gene expression microarrays in an effort to identify differentially expressed genes and new NSCLC biomarkers .
+RESULTS We identified novel genes whose expression was upregulated in NSCLC , including SPAG5 , POLH , KIF23 , and RAD54L , which are associated with mitotic spindle formation , DNA repair , chromosome segregation , and dsDNA break repair , respectively .
+We also identified several novel genes whose expression was downregulated in NSCLC , including SGCG , NLRC4 , MMRN1 , and SFTPD , which are involved in extracellular matrix formation , apoptosis , blood vessel leakage , and inflammation , respectively .
+We found a significant correlation between RNA degradation and survival in adenocarcinoma cases .
+CONCLUSIONS Even though the follow-up time was too limited to draw final conclusions , we were able to show better prediction p values in a group selection based on molecular profiles compared to histology .
+The current study also uncovered new candidate biomarker genes that are likely to be involved in diverse processes associated with NSCLC development .

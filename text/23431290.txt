@@ -1,0 +1,9 @@
+Autophagy is a catabolic process by which a cell degrades its intracellular materials to replenish itself .
+Induction of autophagy under various cellular stress stimuli can lead to either cell survival or cell death via apoptotic and/or autophagic ( nonapoptotic ) pathways .
+The NSAID sulindac sulfide induces apoptosis in colon cancer cells .
+Here , we show that inhibition of autophagy under serum-deprived conditions resulted in significant reductions of sulindac sulfide-induced apoptosis in HT-29 colon cancer cells .
+In contrast , inhibition of autophagy under conditions where serum is available significantly increased sulindac sulfide-induced apoptosis in HT-29 cells .
+We previously showed that the apoptosis inhibitor , survivin , plays a role in regulating NSAID-induced apoptosis and autophagic cell death .
+Here , we show that survivin protein half-life is increased in the presence of autophagy inhibitors under serum-deprived conditions , but not under conditions when serum is available .
+Thus , the increased levels of survivin may be a factor contributing to inhibition of sulindac sulfide-induced apoptosis under serum-deprived conditions .
+These results suggest that whether a cell lives or dies due to autophagy induction depends on the balance of factors that regulate both autophagic and apoptotic processes .

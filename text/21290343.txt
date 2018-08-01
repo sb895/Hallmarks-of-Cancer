@@ -1,0 +1,7 @@
+Background : Several polymorphisms in the DNA repair gene have been extensively studied in the association with various human cancers such as breast cancer .
+Material and methods : We investigated the association of polymorphisms in the DNA repair genes XRCC1-Arg399Gln , XRCC2-Arg188His and RAD51-135G/C with the breast cancer risk .
+Genotypes were determined by PCR-RFLP assays in 220 patients with breast cancer and 220 age-matched healthy controls .
+Results : Our results demonstrated a significant positive association between the XRCC1 399Gln/Gln homozygous genotype and breast carcinoma , with an adjusted odds ratio ( OR ) of 2.08 [ 1.08-3.98 ] .
+The 399Gln allele variant was also associated with type I breast cancer ( OR = 1.41 [ 0.98-2.01 ] , p = 0.034 ) .
+The distributions of genotypes and alleles of the genes XRCC2 and RAD51 polymorphism were not significantly associated with the different stages of breast carcinoma ( p > 0.05 ) .
+Conclusion : These results suggest that 399Gln allele of XRCC1 Arg399Gln may be a risk factor for breast cancer in the Polish population .

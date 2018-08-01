@@ -1,0 +1,9 @@
+BACKGROUND Angiogenesis plays an important role in the progression of colorectal cancer ( CRC ) .
+Studies have indicated vascular endothelial growth factor ( VEGF ) is the predominant angiogenic factor .
+Cyclin D1 ( CCND1 ) induces production of VEGF and is required for migration of blood vessels .
+Our aim was to determine the roles of CCND1 and VEGF overexpression in CRC patients .
+METHODS We analyzed clinicopathological features , VEGF and CCND1 expressions by immunohistochemical ( IHC ) staining in 100 stage I-III CRC patients ( 44 were postoperative relapsed ; 56 were postoperative non-relapsed ) to determine the correlation between clinicopathologic features and co-existence of CCND1 and VEGF .
+Furthermore , the clinical outcomes of co-existence of CCND1 and VEGF were investigated .
+RESULTS Multivariate analysis showed vascular invasion ( P = 0.019 ) , VEGF overexpression ( P = 0.033 ) , and high postoperative serum carcinoembryonic antigen ( CEA ) levels ( P = 0.022 ) were independent predictors of postoperative relapse .
+Co-existence of CCND1 and VEGF overexpression had significantly poorer disease-free survival rates ( P  = 0.004 ) and overall survival rates ( P = 0.001 ) than other phenotypes .
+CONCLUSIONS Co-existence of CCND1 and VEGF overexpression would potentially assist in TNM staging systems to predict the prognosis of these patients who would benefit from intensive follow-up and therapeutic programs .

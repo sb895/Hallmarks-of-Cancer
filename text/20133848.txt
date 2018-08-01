@@ -1,0 +1,8 @@
+As the result of genetic alterations and tumor hypoxia , many cancer cells avidly take up glucose and generate lactate through lactate dehydrogenase A ( LDHA ) , which is encoded by a target gene of c-Myc and hypoxia-inducible factor ( HIF-1 ) .
+Previous studies with reduction of LDHA expression indicate that LDHA is involved in tumor initiation , but its role in tumor maintenance and progression has not been established .
+Furthermore , how reduction of LDHA expression by interference or antisense RNA inhibits tumorigenesis is not well understood .
+Here , we report that reduction of LDHA by siRNA or its inhibition by a small-molecule inhibitor ( FX11 [ 3-dihydroxy-6-methyl-7-(phenylmethyl)-4-propylnaphthalene-1-carboxylic acid] ) reduced ATP levels and induced significant oxidative stress and cell death that could be partially reversed by the antioxidant N-acetylcysteine .
+Furthermore , we document that FX11 inhibited the progression of sizable human lymphoma and pancreatic cancer xenografts .
+When used in combination with the NAD(+) synthesis inhibitor FK866 , FX11 induced lymphoma regression .
+Hence , inhibition of LDHA with FX11 is an achievable and tolerable treatment for LDHA-dependent tumors .
+Our studies document a therapeutical approach to the Warburg effect and demonstrate that oxidative stress and metabolic phenotyping of cancers are critical aspects of cancer biology to consider for the therapeutical targeting of cancer energy metabolism .

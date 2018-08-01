@@ -1,0 +1,11 @@
+OBJECTIVE To study the mechanism of interleukin 7/interleukin 7 receptor ( IL-7/IL-7R ) in promoting cell proliferation and inducing lymphangiogenesis of non-small cell lung cancer ( NSCLC ) in vivo and in vitro .
+METHODS Immunohistochemical study for IL-7 , IL-7R , cyclin D1 and vascular endothelial growth factor-D ( VEGF-D ) was carried out in NSCLC tissues from 95 patients .
+The relationship between IL-7/IL-7R expression and various parameters was analyzed .
+The mechanism of IL-7/IL-7R in promoting cell proliferation and inducing lymphangiogenesis was studied by methylthiazolyldiphenyl-tetrazolium bromide , fluorescence-activated cell sorting , reverse transcriptase-PCR , Western blot , co-immunoprecipitation , chromatin immunoprecipitation and nude mice experiments with xenograft tumors .
+RESULTS IL-7 ( 63.2% , 60/95 ) , IL-7R ( 61.1% , 58/95 ) , cyclin D1 ( 52.6% , 50/95 ) and VEGF-D ( 58.9% , 56/95 ) showed that high level of expression in NSCLC .
+IL-7/IL-7R over-expression correlated with cyclin D1 expression ( P < 0.01 , P < 0.01 ) , VEGF-D expression ( P < 0.01 , P < 0.01 ) , increased lymphovascular density ( P = 0.005 , P = 0.013 ) , advanced clinical stage ( P = 0.008 , P = 0.005 ) and presence of lymph node metastasis ( P < 0.01 , P < 0.01 ) .
+IL-7/IL-7R could promote proliferation of A549 cell , increase cyclin D1 and VEGF-D expression , and enhance c-Fos/c-Jun expression and phosphorylation , resulting in formation of heterodimer .
+Furthermore , IL-7/IL-7R could induce binding of c-Fos/c-Jun to cyclin D1/VEGF-D promoters and regulate their transcription .
+IL-7/IL-7R could also promote proliferation and lymphangiogenesis of lung cancer xenograft tumors .
+CONCLUSIONS IL-7/IL-7R promotes c-Fos/c-Jun expression and activity in NSCLC .
+This further facilitates cyclin D1 expression and accelerates proliferation of cells and VEGF-D-induced lymphovascular formation .

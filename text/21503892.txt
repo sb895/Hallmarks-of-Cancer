@@ -1,0 +1,10 @@
+Glioblastoma multiforme ( GBM ) is the most common primary brain tumour in adults , with a median survival of months post-diagnosis .
+GBM usually recurs within 12 months post-resection , with poor prognosis .
+Thus , novel therapeutic strategies to target and kill GBM cells are urgently needed .
+The marked difference of tumour cells with respect to normal brain cells renders glioblastoma a good candidate for selective targeted therapies .
+Recent experimental strategies focus on over expressed cell surface receptors .
+Targeted toxins represent a new class of selective molecules composed by a potent protein toxin and a carrier ligand .
+Targeted toxins approaches against glioblastoma were under investigation in phase I and II clinical trials with several immunotoxins ( IT)/ligand toxins such as IL4-Pseudomonas aeruginosa exotoxin A ( IL4-PE , NBI-3001 ) , tumour growth factor fused to PE38 , a shorter PE variant , ( TGF)alpha-TP-38 , IL13-PE38 , and a transferrin-C diphtheriae toxin mutant ( Tf-CRM107 ) .
+In this work , we studied the effects of the plant ribosome-inactivating saporin and of its chimera transferrin-saporin against two different GBM cell lines .
+The data obtained here indicate that cell proliferation is affected by the toxin treatments but that different mechanisms are used , directly linked to the presence of an active or inactive p53 .
+A model is proposed for these alternative intracellular pathways .

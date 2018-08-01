@@ -1,0 +1,14 @@
+Retrovirally induced immunosuppression may elevate the incidence of chemically induced cancers .
+A proposed hypothesis to explain this relationship is the increased free radical activity observed during retroviral infection and carcinogen activation .
+We previously found that vitamin E retarded growth of esophageal tumors accompanied by reductions of free radical products .
+This study investigated the contribution that retroviral immunosuppression has on esophageal cancer induced by the carcinogen N-nitrosomethylbenzylamine ( NMBzA ) , and the response that increased levels of dietary vitamin E has on this induced carcinogenesis .
+Female C57BL/6 mice received NMBzA or vehicle ( corn oil ) i.p. weekly for 3 weeks .
+Then some of the mice were infected with LP-BM5 murine retrovirus and fed diets containing 30 IU vitamin E or 172 IU vitamin E/kg of diet .
+As an assessment of free radical activity , exhaled ethane was measured prior to killing the animals at 26 weeks .
+Esophagi from the various mice groups were assessed for size and frequency of tumors .
+Livers homogenates were analyzed for vitamins A and E , lipid fluorescence , conjugated dienes and malondialdehyde .
+Hepatic levels of vitamin A and E were decreased ( P < 0.05 ) and indices of lipid peroxidation were greater ( P < 0.05 ) in NMBzA-treated mice relative to controls .
+Lipid peroxidation and serum transaminases ( ALT and AST ) were greatest in mice given NMBzA and infected with the retroviruses .
+Incidence of esophageal tumors were also greatest in the NMBzA-treated , immunocompromised animals .
+Mice fed vitamin E-supplemented diets showed increased ( P < 0.05 ) hepatic concentrations of vitamin E and vitamin A , decreased activities of serum transaminases , decreased indices of lipid peroxidation , and decreased size and frequency of esophageal tumors in both the immunocompromised and non-immunocompromised mice .
+These results suggest that vitamin E plays an antioxidant function that retards the incidence of esophageal cancers in immunocompromised and non-immunocompromised animals .

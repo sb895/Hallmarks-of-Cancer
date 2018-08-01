@@ -1,0 +1,12 @@
+Abstract Different cyclooxygenase ( COX)-2 inhibitors were known to cause different cell cycle changes .
+We investigated whether this different effect on cell cycle change was due to concentration-dependent effect .
+We investigated the effects of celecoxib , a COX-2 selective inhibitor , on cell cycle regulation in irradiated cancer cells that express high or low levels of COX-2 .
+Four stably COX-2 knocked-down or overexpressed cell lines were treated with various concentrations of celecoxib with or without radiation .
+Celecoxib differentially modulated the cell cycle according to the concentrations applied .
+G(1) arrest was induced at lower concentrations , whereas G(2)/M arrest was induced at higher concentrations in each cell line tested .
+Radiation-induced G(2)/M arrest was enhanced at lower concentrations but reduced at higher concentrations .
+The cutoff values to divide lower and higher concentrations were cell-type specific .
+Celecoxib treatment activated Cdc25C and inhibited p21 expression in both unirradiated and irradiated cells , regardless of COX-2 expression .
+Apoptosis was induced in irradiated cells 48 hours after treatment with celecoxib dependent of COX-2 .
+These results imply that celecoxib deactivates the G(2) checkpoint via both Cdc25C- and p21-dependent pathways in irradiated cells , which subsequently die by secondary apoptosis .
+Cell cycle modulating effects in irradiated cells resulting from treatment with celecoxib may have clinical importance with regard to the potential application of celecoxib in cancer patients undergoing radiotherapy .

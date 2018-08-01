@@ -1,0 +1,8 @@
+Mutations in the Nf2 tumor suppressor gene lead to tumor formation in humans and mice and cellular overproliferation phenotypes in Drosophila .
+The Nf2 encoded protein , merlin , shares close sequence similarity in its amino terminus to members of the band 4.1 family of membrane-cytoskeletal linkers .
+Similarities between merlin and this family suggest a role for merlin in regulating cytoskeletal function .
+However , the mechanism of the tumor suppressing activity of merlin is not yet understood .
+Mutational analysis of Nf2 in flies has led to the identification of a dominant-negative allele , which harbors mutations in the amino terminus of the protein .
+Here , we report that expression of a murine analog of this amino-terminal mutant of Nf2 leads to complete transformation of NIH3T3 fibroblasts in culture .
+Cells that express this Nf2 mutant allele display disruptions of the actin cytoskeleton , lack of contact inhibition of growth , and anchorage-independent growth .
+Finally , fibroblasts that express this mutant Nf2 allele form tumors when injected into nude mice .

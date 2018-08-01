@@ -1,0 +1,6 @@
+Many tumors contain heterogeneous populations of cells , only some of which exhibit increased tumorigenicity and resistance to anticancer therapies .
+Evidence suggests that these aggressive cancer cells , often termed " cancer stem cells " or " cancer stem-like cells " ( CSCs ) , rely upon developmental signaling pathways that are important for survival and expansion of normal stem cells .
+Here we report that , in analogy to embryonic mammary epithelial biology , estrogen signaling expands the pool of functional breast CSCs through a paracrine FGF/FGFR/Tbx3 signaling pathway .
+Estrogen or FGF9 pretreatment induced CSC properties of breast cancer cell lines and freshly isolated breast cancer cells , whereas cotreatment of cells with tamoxifen or a small molecule inhibitor of FGFR signaling was sufficient to prevent the estrogen-induced expansion of CSCs .
+Furthermore , reduction of FGFR or Tbx3 gene expression was able to abrogate tumorsphere formation , whereas ectopic Tbx3 expression increased tumor seeding potential by 100-fold .
+These findings demonstrate that breast CSCs are stimulated by estrogen through a signaling pathway that similarly controls normal mammary epithelial stem cell biology .

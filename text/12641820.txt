@@ -1,0 +1,10 @@
+Previously we have found deregulation of collagen metabolism in human pancreatitis and pancreatic cancer tissues .
+Insulin-like growth factor-I ( IGF-I ) is known to stimulate collagen biosynthesis through interaction with IGF-I receptor .
+IGF-I binding proteins ( BPs ) regulate the activity of IGF-I .
+We investigated whether serum and tissue IGF-I and IGF-BPs as well as tissue IGF-I receptor expression may reflect disturbances of collagen metabolism in patients with pancreatitis and pancreatic cancer .
+In pancreatitis tissue , a significant increase in IGF-I and IGFBP-3 content was accompanied by a distinct increase in IGF-I receptor expression , compared to control pancreas tissue .
+In contrast , serum from patients with pancreatitis did not show significant increases in IGF-I and IGFBP-3 levels , however , significant increases in IGFBP-1 level ( 2.5 fold ) .
+Moreover , a distinct decrease in radioactive IGF-binding to the BPs , compared to control serum , was found .
+Pancreatic cancer tissue and serum of patients with pancreatic cancer showed significant increases in IGF-I , IGFBP-3 and IGFBP-1 content , accompanied by dramatic increases in IGF-I tissue receptor expression , compared to controls .
+In serum of patients with pancreatic cancer distinct increases in radioactive IGF-binding to 46 kDa BP , compared to control serum , were observed .
+The data suggest that disturbances in tissue collagen metabolism during pancreatic diseases may result from deregulation of IGF-I homeostasis and that elevated serum levels of IGF-I , IGFBP-3 and IGFBP-1 may serve as markers of pancreatic cancer .

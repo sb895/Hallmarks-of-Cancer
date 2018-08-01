@@ -1,0 +1,9 @@
+The role of regulatory T cells ( T(regs) ) in human colon cancer ( CC ) remains controversial : high densities of tumor-infiltrating T(regs) can correlate with better or worse clinical outcomes depending on the study .
+In mouse models of cancer , T(regs) have been reported to suppress inflammation and protect the host , suppress T cells and protect the tumor , or even have direct cancer-promoting attributes .
+These different effects may result from the presence of different T(reg) subsets .
+We report the preferential expansion of a T(reg) subset in human CC with potent T cell-suppressive , but compromised anti-inflammatory , properties ; these cells are distinguished from T(regs) present in healthy donors by their coexpression of Foxp3 and RORγt .
+T(regs) with similar attributes were found to be expanded in mouse models of hereditary polyposis .
+Indeed , ablation of the RORγt gene in Foxp3(+) cells in polyp-prone mice stabilized T(reg) anti-inflammatory functions , suppressed inflammation , improved polyp-specific immune surveillance , and severely attenuated polyposis .
+Ablation of interleukin-6 ( IL-6 ) , IL-23 , IL-17 , or tumor necrosis factor-α in polyp-prone mice reduced polyp number but not to the same extent as loss of RORγt .
+Surprisingly , loss of IL-17A had a dual effect : IL-17A-deficient mice had fewer polyps but continued to have RORγt(+) T(regs) and developed invasive cancer .
+Thus , we conclude that RORγt has a central role in determining the balance between protective and pathogenic T(regs) in CC and that T(reg) subtype regulates inflammation , potency of immune surveillance , and severity of disease outcome .

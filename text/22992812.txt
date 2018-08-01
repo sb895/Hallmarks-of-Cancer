@@ -1,0 +1,7 @@
+Proline- , glutamic acid- and leucine-rich protein-1/modulator of non-genomic activity of estrogen receptor ( ER ) ( PELP1/MNAR ) is a novel nuclear receptor ( NR ) co-activator that plays an essential role in the actions of ER .
+Emerging findings suggest that PELP1/MNAR is a novel proto-oncogene , whose expression is deregulated in several hormone-responsive cancers , including endometrial cancer .
+In this study , we demonstrate that PELP1/MNAR is widely expressed in endometrial carcinoma cell lines .
+To investigate its possible role in endometrial carcinoma progression , we adopted an RNA interference technology to downregulate PELP1/MNAR expression in Ishikawa endometrial carcinoma cells .
+PELP1/MNAR downregulation substantially reduced cell proliferation , and the cells in which PELP1/MNAR expression was knocked down also exhibited a decreased migration and invasion ability , as shown by Boyden chamber and invasion assays .
+The results showed that the expression of MMP-2 and MMP-9 was also decreased .
+These results suggest that PELP1/MNAR plays a role in endometrial cancer progression and metastasis , and that PELP1/MNAR may be a potential therapeutic target for endometrial cancer .

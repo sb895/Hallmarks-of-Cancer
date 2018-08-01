@@ -1,0 +1,6 @@
+The thyroid hormone ( T3 ) blocks proliferation and induces differentiation of neuroblastoma N2a-beta cells that overexpress the beta 1 isoform of the T3 receptor .
+An element in the region responsible for premature termination of transcription mediates a rapid repression of c-myc gene expression by T3 .
+The hormone also causes a decrease of cyclin D1 gene transcription , and is able to antagonize the activation of the cyclin D1 promoter by Ras .
+In addition , a strong and sustained increase of the levels of the cyclin kinase inhibitor ( CKI ) p27(Kip1) are found in T3-treated cells .
+The increased levels of p27(Kip1) lead to a marked inhibition of the kinase activity of the cyclin-CDK2 complexes .
+As a consequence of these changes , retinoblastoma proteins are hypophosphorylated in T3-treated N2a-beta cells , and progression through the restriction point in the cell cycle is blocked .

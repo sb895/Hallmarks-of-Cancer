@@ -1,0 +1,7 @@
+The phosphorylated form of histone H2AX ( \u03b3-H2AX ) forms immunohistochemically detectable foci at DNA double strand breaks .
+In peripheral blood mononuclear cells ( PBMCs ) derived from leukapheresis from patients enrolled in the Baltimore Longitudinal Study of Aging , \u03b3-H2AX foci increased in a linear fashion with regards to age , peaking at years .
+The relationship between the frequency of \u03b3-H2AX foci and age-related pathologies was assessed .
+We found a statistically significant ( p = 0.023 ) 50% increase in foci in PBMCs derived from patients with a known history of vitamin D deficiency .
+In addition , there were trends toward increased \u03b3-H2AX foci in patients with cataracts ( 34% increase , p<0.10 ) and in sleep apnea patients ( 44% , p<0.10 ) .
+Among patients \u226557 y/o , we found a significant ( p = 0.037 ) 36% increase in the number of \u03b3-H2AX foci/cell for patients with hypertension compared to non-hypertensive patients .
+Our results support a role for increased DNA damage in the morbidity of age-related diseases. \u03b3 -H2AX may be a biomarker for human morbidity in age-related diseases .

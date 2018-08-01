@@ -1,0 +1,12 @@
+Evidence suggests that stem-like cells are responsible for initiation , maintenance and recurrence of solid tumors , including Glioblastoma Multiforme ( GBM ) .
+GBM is an intractable , highly lethal tumor of the central nervous system .
+Although epidermal growth factor receptor ( EGFR ) is highly expressed in many GBMs , anti-EGFR therapies have been unsuccessful as treatment .
+Few studies have examined EGFR activation in GBM stem cells ( GSCs ) to determine if patient-specific GSCs are amenable to anti-EGFR therapy pre-clinically .
+We hypothesized that EGFR activation in GSCs varied between patients and was an important determinant of responsiveness to anti-EGFR therapy .
+Cell cycle and apoptosis analysis was performed on tumor-spheres by immuncytochemistry in the presence and absence of the AG1478 .
+Second messenger pathways operative in these processes were elucidated by immunoblotting .
+EGFR activated AKT and inactivated GSK3beta in EGFR+/PTEN+ GSCs .
+AG1478 and erlotinib significantly decreased the total number of tumor-spheres that EGFR+/ PTEN+ GSCs generated and the rate of sphere formation .
+Inhibition of EGFR signaling by AG1478 increased GSC senescence and apoptosis , likely via inhibition of AKT and activation of GSK3beta .
+Sphere formation by EGFR-/ PTEN- GSCs was independent of EGF stimulation , but dependant on B27 growth supplement .
+Our data suggest that EGFR+/PTEN+ GSCs are susceptible to anti-EGFR therapy in vitro .

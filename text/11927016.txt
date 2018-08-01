@@ -1,0 +1,11 @@
+We have used a combination of vitamin A ( all-trans-retinyl palmitate ) , 5-fluorouracil ( 5-FU ) and radiation to treat human head and neck squamous cell carcinoma ( HNSCC ) .
+This chemoradiotherapy is called " FAR therapy. "
+In this study we examined the effects of all-trans-retinoic acid ( ATRA ) , the active metabolite of vitamin A , and ATRA plus 5-FU on two HNSCC cell lines ( YCU-N861 and YCU-H891 ) to gain insight into the molecular mechanisms of FAR therapy .
+ATRA at 1 mM ( the order of concentration found in HNSCC tumors treated with FAR therapy ) inhibited cell proliferation and caused G1 cell cycle arrest in both cell lines .
+This was associated with a decrease in cyclin D1 , an increase in p27(Kip1) and a reduction in the hyperphosphorylated form of retinoblastoma protein ( pRB ) .
+With YCU-N861 cells , ATRA also caused a decrease in Bcl-2 and Bcl-X(L) and an increase in Bax .
+Both ATRA and 5-FU activated c-Jun N-terminal kinase ( JNK ) 1 and the combination of both agents resulted in additive or synergistic activation of JNK1 , and also enhanced the induction of apoptosis .
+The YCU-H891 cells , in which the epidermal growth factor receptor ( EGFR)-signal transducer and activator of transcription 3 ( Stat3 ) pathway is constitutively activated , were more resistant to treatments with ATRA , 5-FU and the combination of both agents than YCU-N861 cells .
+A dominant negative Stat3 construct strongly enhanced the cellular sensitivity of this cell line to 5-FU but not to ATRA .
+In addition there is evidence that activation of Stat3 is associated with cellular resistance to radiation in HNSCC .
+Therefore , the addition to FAR therapy of agents that inhibit activation of the Stat3 pathway may enhance the clinical response of patients with HNSCC to FAR therapy .

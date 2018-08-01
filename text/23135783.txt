@@ -1,0 +1,9 @@
+The present study investigates extracts of Neuolaena lobata , an anti-protozoan ethnomedicinal plant of the Maya , regarding its anti-neoplastic properties .
+Firstly , extracts of increasing polarity were tested in HL-60 cells analyzing inhibition of cell proliferation and apoptosis induction .
+Secondly , the most active extract was further tested in anaplastic large cell lymphoma ( ALCL ) cell lines of human and mouse origin .
+The dichloromethane extract inhibited proliferation of HL-60 , human and mouse ALCL cells with an IC50 of 3.7 and 2.4µg/ml , respectively and arrested cells in the G2/M phase .
+The extract induced the checkpoint kinases Chk1 and Chk2 and perturbed the orchestrated expression of the Cdc25 family of cell cycle phosphatases which was paralleled by the activation of p53 , p21 and downregulation of c-Myc .
+Importantly , the expression of NPM/ALK and its effector JunB were drastically decreased , which correlated with the activation of caspase 3 .
+Subsequently also platelet derived growth factor receptor \u03b2 was downregulated , which was recently shown to be transcriptionally controlled by JunB synergizing with ALK in ALCL development .
+We show that a traditional healing plant extract downregulates various oncogenes , induces tumor suppressors , inhibits cell proliferation and triggers apoptosis of malignant cells .
+The discovery of the ' Active Principle(s) ' is warranted .

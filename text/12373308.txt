@@ -1,0 +1,14 @@
+To search for potential biomarkers used to monitor the process of immortalization , we investigated the relative level of telomerase activity and other immortal phenotypes in the SHEE esophageal epithelial cell line .
+This human fetal esophageal epithelial cell line , induced by human papilloma virus ( HPV ) 18 E6E7 , was continually propagated over 100 passages .
+Fourteenth passage cells ( SHEE14 ) were cultured in a flask with a serum-free medium and continually cultured to the 30th passage ( SHEE30 ) .
+Cells of SHEE14 , SHEE20 and SHEE30 were examined according to cell morphology , cell cycle , apoptosis , contact-inhibition growth , anchorage- dependency , dose-dependency to epithelial growth factors ( EGF ) , telomerase activity and tumorigenicity .
+The SHEE14 cells exhibited good differentiation with contact-inhibition and anchorage-dependent growth .
+The SHEE20 cells exhibited increase of senescent and apoptotic cells , and difficulty in propagation .
+The SHEE30 cells exhibited a higher proliferative index and some undifferentiated cells , with weakened contact-inhibition and anchorage-dependent growth .
+The telomerase was activated in cells of SHEE30 , but not in SHEE14 and SHEE20 cells .
+The different response to dose-dependency to EGF was not statistically different in SHEE14 and SHEE30 .
+Three groups of cells displayed lack of tumor formation in nude mice .
+Compared with SHEE14 and SHEE20 , SHEE30 cells were of immortalized status with immortal phenotype , which consisted of telomerase activity , increase of cell proliferation , weakened contact-inhibition and anchorage-dependent growth , dose dependency to EGF and lack of tumor formation .
+From passage 14 to 30th passage , SHEE cells went through cellular senescence , apoptosis and immortalization .
+With a view toward diagnostic and biological aspects , telomerase activity is a crucial step and a cardinal requirement for immortalization .
+The telomerase activity and other immortal phenotypes are potential markers for monitoring the process of immortalization .

@@ -1,0 +1,10 @@
+The PML protein and PML nuclear bodies ( PML-NB ) are implicated in multiple cellular functions relevant to tumor suppression , including DNA damage response .
+In most cases of acute promyelocytic leukemia , the PML and retinoic acid receptor alpha ( RARA ) genes are translocated , resulting in expression of oncogenic PML-RAR\u03b1 fusion proteins .
+PML-NB fail to form normally , and promyelocytes remain in an undifferentiated , abnormally proliferative state .
+We examined the involvement of PML protein and PML-NB in homologous recombinational repair ( HRR ) of chromosomal DNA double-strand breaks .
+Transient overexpression of wild-type PML protein isoforms produced hugely enlarged or aggregated PML-NB and reduced HRR by suggesting that HRR depends to some extent upon normal PML-NB structure .
+Knockdown of PML by RNA interference sharply attenuated formation of PML-NB and reduced HRR by up to 20-fold .
+However , PML-knockdown cells showed apparently normal induction of H2AX phosphorylation and RAD51 foci after DNA damage by ionizing radiation .
+These findings indicate that early steps in HRR , including recognition of DNA double-strand breaks , initial processing of ends , and assembly of single-stranded DNA/RAD51 nucleoprotein filaments , do not depend upon PML-NB .
+The HRR deficit in PML-depleted cells thus reflects inhibition of later steps in the repair pathway .
+Expression of PML-RAR\u03b1 fusion proteins disrupted PML-NB structure and reduced HRR by up to 10-fold , raising the possibility that defective HRR and resulting genomic instability may figure in the pathogenesis , progression and relapse of acute promyelocytic leukemia .

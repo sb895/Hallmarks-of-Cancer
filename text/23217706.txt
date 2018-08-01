@@ -1,0 +1,8 @@
+Reprogramming of cellular metabolism is a key eventduring tumorigenesis .
+Despite being known for decades ( Warburg effect ) , the molecular mechanisms regulating this switch remained unexplored .
+Here , we identify SIRT6 as a tumor suppressor thatregulates aerobic glycolysis in cancer cells .
+Importantly , loss of SIRT6 leads to tumor formation without activation of known oncogenes , whereas transformed SIRT6-deficient cells display increased glycolysis and tumor growth , suggesting that SIRT6 plays a role in both establishment and maintenance of cancer .
+By using a conditional SIRT6 allele , we show that SIRT6 deletion invivo increases the number , size , and aggressiveness of tumors .
+SIRT6 also functions as a regulator of ribosome metabolismby corepressing MYC transcriptional activity .
+Lastly,Sirt6 is selectively downregulated in several human cancers , and expression levels of SIRT6 predict prognosis and tumor-free survival rates , highlighting SIRT6 as a critical modulator of cancermetabolism .
+Our studies reveal SIRT6 to be a potent tumor suppressor acting to suppress cancer metabolism .

@@ -1,0 +1,13 @@
+BACKGROUND/AIMS Endoscopic mucosal resection and laparoscopic wedge resection have become more common in the treatment of early gastric cancer .
+However , lymph node metastasis is a major poor prognostic factor influencing tumor recurrence and survival .
+To predict the risk of lymph node metastasis in early gastric cancer , the authors conducted a study to investigate the clinicopathologic characteristics of early gastric cancer with lymph node metastasis .
+METHODOLOGY From 1982 to 1998 , 181 patients of early gastric cancer underwent primary surgery and were included in the study .
+Patient data was postoperatively reviewed regarding age , gender , tumor size , depth of invasion , histologic differentiation , macroscopic classification and anatomic level of lymph node metastasis .
+The chi 2 test or Student's t test was used for statistical analysis .
+Logistic regression analysis was used to evaluate the independent risk factors for lymph node metastasis .
+RESULTS Lymph node metastasis was observed in 19 cases ( 11% ) .
+Early gastric cancer with size larger than 4 cm ( P < 0.05 ) , with submucosal invasion ( P < 0.01 ) , and with poor differentiation ( P < 0.05 ) was associated with higher risk of lymph node metastasis .
+The macroscopic classification had no predictive value .
+Multivariate analysis showed that submucosal invasion correlated best with lymph node spread ( OR 10.25 , 95% CI : 2.10-49.96 ) , followed by tumor size larger than 4 cm ( OR 4.99 , 95% CI : 1.46-17.05 ) , and poorly differentiated histological subtype ( OR 3.31 , 95% CI : 1.16-9.45 ) .
+CONCLUSIONS Poor differentiation , submucosal invasion and large tumor size were independent risk factors for lymph node metastasis in early gastric cancer .
+Macroscopic classification was not correlated with lymph node metastasis .

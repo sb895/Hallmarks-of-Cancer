@@ -1,0 +1,11 @@
+OBJECTIVE To investigate the mutations of epidermal growth factor receptor ( EGFR ) in tumor tissue and pleural effusion in advanced non-small cell lung cancer ( NSCLC ) patients , and to analyze the relationship between EGFR mutations and the clinicopathologic characteristics .
+METHODS Two-hundred and forty-one cases of formalin-fixed , paraffin-embedded tumor tissues and 14 paired pleural effusions from advanced NSCLC patients were collected .
+Twenty-nine different EGFR mutations in exons 18-21 were assessed by scorpions and amplification refractory mutation system ( scorpions ARMS ) using real time PCR .
+The relationship between the EGFR mutations and clinical parameters was analyzed using statistical methods .
+EGFR mutation of 37 cases were detected with direct sequencing , and assessed the sensitivity , the specificity and the accuracy of scorpions ARMS .
+RESULTS EGFR somatic mutations were detected in 114 of 234 advanced NSCLC patients , with the mutation rate of 48.7% , including deletions in exon 19 in 65 patients and point mutation of L858R in exon 21 in 39 patients ; both accounting for 91.2% ( 104/114 ) of all types of EGFR mutations .
+The test results of 14 paired pleural effusion specimens were entirely the same to the tissues .
+The concordance rate of 2 different detection methods was 94.6% .
+Mutation rate was higher in women ( 55.9% ) than in men ( 42.2% ) , and there was no difference in mutation rates between smokers and non-smokers ; patients in stage IIIB and stage IV ; adenocarcinoma and non-adenocarcinoma .
+CONCLUSIONS EGFR somatic mutations appear to occur frequently in Chinese .
+Scorpions ARMS technology is a sensitive method to detect EGFR mutations and is suitable for screening patients who would likely respond to EGFR inhibitors therapy .

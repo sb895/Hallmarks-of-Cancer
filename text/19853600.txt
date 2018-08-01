@@ -1,0 +1,8 @@
+Tumor endothelial marker ( TEM ) 5 is an adhesion G-protein-coupled receptor upregulated in endothelial cells during tumor and physiologic angiogenesis .
+So far , the mechanisms leading to upregulation of TEM5 and its function during angiogenesis have not been identified .
+Here , we report that TEM5 expression in endothelial cells is induced during capillary-like network formation on Matrigel , during capillary morphogenesis in a three-dimensional collagen I matrix , and upon confluence on a two-dimensional matrix .
+TEM5 expression was not induced by a variety of soluble angiogenic factors , including VEGF and bFGF , in subconfluent endothelial cells .
+TEM5 upregulation was blocked by toxin B from Clostridium difficile , an inhibitor of the small GTPases Rho , Rac , and Cdc42 .
+The Rho inhibitor C3 transferase from Clostridium botulinum did not affect TEM5 expression , whereas the Rac inhibitor NSC23766 suppressed TEM5 upregulation .
+An excess of the soluble TEM5 extracellular domain or an inhibitory monoclonal TEM5 antibody blocked contact inhibition of endothelial cell proliferation resulting in multilayered islands within the endothelial monolayer and increased vessel density during capillary formation .
+Based on our results we conclude that TEM5 expression during capillary morphogenesis is induced by the small GTPase Rac and mediates contact inhibition of proliferation in endothelial cells .

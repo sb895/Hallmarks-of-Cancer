@@ -1,0 +1,10 @@
+Nasopharyngeal carcinoma ( NPC ) is an endemic malignant disease of the head and neck region with unique features including striking ethnic and geographic variations as well as multifactorial etiology .
+Previous studies have demonstrated the anticancer properties of genistein , the major soy isoflavonoid , in several human cancer cells such as breast , prostate , colon , gastric , lung , and hepatoma .
+However , the action of genistein in NPC cells has not been determined .
+In this study , we investigated the inhibitory effects of genistein on NPC cells and its possible underlying mechanisms .
+We found that genistein dose-dependently inhibited the proliferation of human NPC cell line CNE2 cells .
+DNA flow cytometric analysis revealed that 30 to 120 microM genistein induced dramatic G2/M phase arrest in NPC cells .
+The mRNA expression levels , as shown by gene expression array and quantitative real-time polymerase chain reaction , and the protein expression levels of the cell cycle regulators p21(Cip1) and ATR ( Ataxia telangiectasia and Rad3 related ) were elevated following genistein treatment .
+Interestingly , we also observed concomitant induction of p15(Ink4b) in genistein induced inhibitory effects in NPC cells .
+Moreover , selective estrogen receptor modulators did not affect genistein induced growth inhibition .
+These findings provide new insights into the potential intervention of NPC with genistein .

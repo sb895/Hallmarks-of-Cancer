@@ -1,0 +1,14 @@
+Squamous cell carcinoma ( SCC ) is the most frequent cancer in organ transplant recipients ( OTRs ) .
+The immune system plays a major role in the fight against SCC , however , little is known about the local inflammatory response in SCC at all .
+We analyzed quantity and quality of the perineoplastic inflammatory SCC microenvironment in immunocompetent patients and immmunosuppressed OTRs .
+RNA expression profile of SCC patients was analyzed for 8 different sets of genes relating to Th1 versus Th2 response using Gene Set Enrichment Analysis .
+SCC from immunocompetent patients and OTRs were analyzed by real-time polymerase chain reactions for CD4 , CD8 , TBET , GATA-3 , FOXP3 , RORC , IFN-gamma , IL-4 , TGF-beta , IL-10 , and IL-17A mRNA expression .
+Immunohistochemistry was carried out in SCC for CD3 , CD4 , CD8 , and FOXP3 expression .
+Considerable inflammation was seen in both patient groups .
+SCC in immunocompetent patients and OTRs was associated with a mixed Th1 and Th2 gene expression signature .
+CD4(+) mRNA was diminished in immunosuppression .
+Skin adjacent to SCC in OTRs showed Th2 expression pattern as compared with immunocompetent patients .
+T-BET and IFN-gamma mRNA expression were decreased in the OTR group .
+Although Th17-weighted inflammation was unchanged , IL-17A mRNA level was markedly decreased with immunosuppression .
+Regulatory T cells , characterized by FOX-P3 and TGF-beta mRNA level , were decreased in OTRs .
+Our findings support the hypothesis that nontumor-bearing skin adjacent to SCC in OTRs is not necessarily normal and that the local microenvironment may contribute to a field effect contributing to higher recurrence rates and more aggressive behavior observed in these patients .

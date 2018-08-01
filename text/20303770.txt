@@ -1,0 +1,8 @@
+Certain steroidal compounds have demonstrated an antiproliferative effect against several tumor cell lines ; however , their complete role on cancer cells is not currently established .
+Herein , we report the synthesis and evaluation of two new 26-hydroxy-22-oxocholestanic steroids on cervical cancer CaSki cells .
+The title compounds were prepared from diosgenin and hecogenin in excellent yields .
+We determined their effect on cell proliferation , cell cycle , and cell death .
+The cytotoxic effect of the title compounds on CaSki and human lymphocytes was also evaluated , indicating that the main cell death process is not necrosis ; the null effect on lymphocytes implies that they are not cytotoxic .
+The observation of apoptotic bodies as well as the increase in the expression of active caspase-3 along with the fragmentation of DNA confirmed that such new cholestanic frameworks induced apoptosis in tumor cells .
+Significantly , their antiproliferative activity on tumor cells did not affect the proliferative potential of normal fibroblasts from cervix and peripheral blood lymphocytes .
+The title compounds show selective antitumor activity and therefore serve as promising lead candidates for further optimization .

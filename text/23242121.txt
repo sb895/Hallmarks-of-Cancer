@@ -1,0 +1,7 @@
+Νuclear factor-κB ( NF-κB ) and activator protein-1 ( AP-1 ) are major transcription factors that have been associated with breast cancer metastasis by inducing matrix metalloproteinase-9 ( MMP-9 ) expression .
+In this study , we investigated the inhibitory effects of guggulsterone isomers ( cis or trans ) on 12-O-tetradecanoylpho-bol-13-acetate ( TPA)-induced MMP-9 expression .
+Cis-guggulsterone inhibited TPA-induced MMP expression by blocking IκB kinase ( IKK)/NF-κB signaling , whereas trans-guggulsterone blocked mitogen-activated protein kinase ( MAPK)/AP-1 signaling .
+Cis-guggulsterone was more potent than trans-guggulsterone in the inhibition of TPA-induced MMP-9 expression and invasion of MCF-7 cells .
+Furthermore , we found that the combination of these isomers exerted an additive effect on the inhibition of MCF-7 cell invasion .
+These results suggest that guggulsterone isomers downregulate MMP-9 expression and tumor cell invasion through the isomer-specific suppression of IKK/NF-κB and MAPK/AP-1 activation .
+In addition , the suppression of MMP-9 expression correlated well with the inhibition of cell invasion .

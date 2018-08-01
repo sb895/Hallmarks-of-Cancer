@@ -1,0 +1,7 @@
+In Salmonella enterica , the protein acetyltransferase ( Pat ) enzyme is part of the sirtuin-dependent acylation/deacylation system ( SDPADS ) that modulates the activity of several proteins via the acylation of lysine residues critical to their activities .
+Pat is a kDa protein with two distinct domains , an N-terminal acyl-CoA synthetase ( NDP-forming ) domain ( aa ) and a C-terminal acetyltransferase domain ( aa ) , with homology to proteins of the Gcn5-related N-acetyltransferase ( GNAT ) superfamily .
+Although the role of the GNAT-like domain is likely responsible for the catalytic activity of Pat , the role of the N-terminal domain remains unclear .
+Here we report the use of positive selection for identification of residues critical for Pat enzyme activity .
+This approach revealed seven residues that , when changed , resulted in drastic loss of Pat activity in vitro which caused a discernable loss-of-function phenotype .
+Five of the seven residues were located in the N-terminal region of Pat and two were located in the GNAT-like domain .
+Each single-amino-acid variant had a circular dichroism spectrum that differed from that of the wild-type Pat protein , suggesting that loss of enzymatic activity in the mutant proteins was likely due to an inability to acquire its biologically active fold .

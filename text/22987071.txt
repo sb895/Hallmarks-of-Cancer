@@ -1,0 +1,6 @@
+p21 is a potent cyclin-dependent kinase inhibitor that plays a role in promoting G1 cell cycle arrest and cellular senescence .
+Consistent with this role , p21 is a downstream target of several tumour suppressors and oncogenes , and it is downregulated in the majority of tumours , including breast cancer .
+Here , we report that protein arginine methyltransferase 6 ( PRMT6 ) , a type I PRMT known to act as a transcriptional cofactor , directly represses the p21 promoter .
+PRMT6 knock-down ( KD ) results in a p21 derepression in breast cancer cells , which is p53-independent , and leads to cell cycle arrest , cellular senescence and reduced growth in soft agar assays and in severe combined immunodeficiency ( SCID ) mice for all the cancer lines examined .
+We finally show that bypassing the p21-mediated arrest rescues PRMT6 KD cells from senescence , and it restores their ability to grow on soft agar .
+We conclude that PRMT6 acts as an oncogene in breast cancer cells , promoting growth and preventing senescence , making it an attractive target for cancer therapy .

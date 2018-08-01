@@ -1,0 +1,9 @@
+The " high-risk " human papillomavirus types 16 ( HPV-16 ) and 18 ( HPV-18 ) have been etiologically implicated in the majority of human cervical carcinomas .
+In these cancers , the viral DNAs are often integrated into the host genome so that expression of the E1 and the E2 genes is lost , suggesting that disruption of these regulatory genes plays an important role in carcinogenic progression .
+Previous studies defining the viral genes affecting HPV-16 transformation functions have used the " prototype " viral genome , which was cloned from a human cervical carcinoma and later discovered to harbor a mutation in the E1 gene .
+In this study , we have corrected this mutation and have evaluated the effect of mutations of either the E1 or the E2 gene on the efficiency of HPV-16 immortalization of human keratinocytes .
+Mutation of either the E1 gene or the E2 gene in the background of a " wild-type " HPV-16 genome markedly increased immortalization capacity .
+Mutations were also generated in the E2-binding sites located upstream of the P97 promoter , which directs synthesis of the viral E6 and E7 transforming genes .
+E2 negatively regulates the P97 promoter through binding at adjacent sites .
+Surprisingly , the mutation of these sites only partially relieved the negative effect of E2 on viral immortalization , implicating additional mechanisms in the E2 repression of viral immortalization functions .
+Our results provide genetic evidence that the E1 and E2 gene products each can repress HPV-16 immortalization and support the hypothesis that a selective growth advantage is provided by integration of the viral genome in a manner that causes the loss of expression of either E1 or E2 .

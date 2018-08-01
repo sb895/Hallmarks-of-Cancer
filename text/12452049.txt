@@ -1,0 +1,13 @@
+BACKGROUND & OBJECTIVE Altered cell adhesion has a critical role in the development of epithelial cancers .
+E-cadherin act on the maintenance of cell-cell adhesion and its function was thought to be regulated by associated cytoplasmic proteins , such as alpha-catenin and beta-catenin .
+This study was designed to examine the expression of beta-catenin in gastric carcinoma and to determine the relationship between tumor characteristics and survival .
+METHODS Immunohistochemical staining of beta-catenin and E-cadherin was performed in 148 patients with gastric carcinoma .
+RESULTS Abnormal expression of beta-catenin and E-cadherin was performed in 148 patients with gastric carcinoma .
+RESULTS Abnormal expression of beta-catenin and E-cadherin was demonstrated in 43.2% and 44.6% of tumors respectively .
+Up to 63% of tumors stained abnormally for one or two components of the cadherin-catenin complex ( beta-catenin , E-cadherin ) .
+Abnormal beta-catenin and E-cadherin staining occurred more frequently in poor differentiated tumor than in good differentiated tumors ( P < 0.005 , respectively ) .
+There was a significant correlation between abnormal beta-catenin expression and depth of invasion(P < 0.025 ) .
+Moreover , abnormal beta-catenin expression was more frequent in tumors with positive lymph node metastasis ( 45/84 , 53.6% ) and distance metastasis(21/31 , 67.7% ) than in tumors without lymph node metastasis ( 19/64 , 29.7% ) ( P < 0.005 ) and distance metastasis ( 43/117 , 36.8% ) ( P < 0.005 ) .
+A survival advantage was noted in tumors retaining normal membranous expression of beta-catenin , independent of type , grade , or stage ( P < 0.005 ) .
+CONCLUSIONS Abnormal expression of the E-cadherin-catenin complex occurs frequently in gastric carcinoma .
+The close correlation with poor survival suggests that abnormal beta-catenin may be a useful prognostic marker .

@@ -1,0 +1,5 @@
+Although contact inhibition is a fundamental process for multicellular organisms , how proliferation is inhibited at high cellular densities remains poorly characterized .
+Here we show that 4E-BP1 , one major repressor of cap-dependent translation , plays a critical role in density-mediated cell cycle arrest. 4E-BP1 promoter is activated and 4E-BP1 protein amount increases as cells reach confluence .
+Conversely , a much less marked density-dependent inhibition of cell proliferation is observed upon 4E-BP1 silencing .
+We further show that at high density , progression through the G₁ phase of the cell cycle is faster and Cyclin D1 protein is induced in different cell types where 4E-BP1 has been either downregulated ( stable shRNA expression or transient siRNA transfection ) or removed ( knock-out ) .
+Thus 4E-BP1 appears as an important mediator of contact inhibition .

@@ -1,0 +1,10 @@
+Ceramide is a sphingolipid metabolite that induces cancer cell death .
+When C6-ceramide is encapsulated in a nanoliposome bilayer formulation , cell death is selectively induced in tumor models .
+However , the mechanism underlying this selectivity is unknown .
+As most tumors exhibit a preferential switch to glycolysis , as described in the " Warburg effect " , we hypothesize that ceramide nanoliposomes selectively target this glycolytic pathway in cancer .
+We utilize chronic lymphocytic leukemia ( CLL ) as a cancer model , which has an increased dependency on glycolysis .
+In CLL cells , we demonstrate that C6-ceramide nanoliposomes , but not control nanoliposomes , induce caspase 3/7-independent necrotic cell death .
+Nanoliposomal ceramide inhibits both the RNA and protein expression of GAPDH , an enzyme in the glycolytic pathway , which is overexpressed in CLL .
+To confirm that ceramide targets GAPDH , we demonstrate that downregulation of GAPDH potentiates the decrease in ATP after ceramide treatment and exogenous pyruvate treatment as well as GAPDH overexpression partially rescues ceramide-induced necrosis .
+Finally , an in vivo murine model of CLL shows that nanoliposomal C6-ceramide treatment elicits tumor regression , concomitant with GAPDH downregulation .
+We conclude that selective inhibition of the glycolytic pathway in CLL cells with nanoliposomal C6-ceramide could potentially be an effective therapy for leukemia by targeting the Warburg effect .

@@ -1,0 +1,8 @@
+Methyleugenol ( MEG ) , a constituent of plants used in the human diet , is hepatocarcinogenic in rodents .
+In an experiment to elucidate its mode of action in rat liver , male F344 rats were administered MEG intragastrically at 3 doses per week for up to 16 weeks in an initiation phase , after which half the rats were fed 500 ppm phenobarbital ( PB ) in the diet to promote liver neoplasia and the other half were maintained on control diet for 24 weeks .
+At 8 and 16 week interim terminations , ( 32)P-nucleotide postlabeling assay revealed 3 adducts in livers of all MEG groups .
+The hepatocellular replicating fractions , measured by proliferating cell nuclear antigen immunohistochemistry , were doubled or more in all MEG groups .
+Hepatocellular altered foci , detected by glutathione S-transferase-placental type ( \u03c0 ) immunohistochemistry , were present beginning with the high dose group at 8 weeks and extending to all MEG groups at 16 weeks .
+At the end of maintenance/promotion phase , the incidences , multiplicity and size of foci was similar between control and low dose groups , while those of mid and high dose groups were increased .
+Hepatocellular adenomas occurred in the mid and high dose groups , attaining higher multiplicity and size with PB .
+Thus , MEG had rapid initiating activity , reflecting the formation of DNA adducts and possibly cell proliferation .

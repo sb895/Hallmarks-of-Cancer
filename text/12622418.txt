@@ -1,0 +1,8 @@
+ZBP-89 ( ZNF148 ) is a Zinc finger Binding Protein of 89 kDa that binds GC-rich DNA elements .
+Originally , it was expression cloned using a DNA element mediating EGF regulation of the gastrin promoter .
+ZBP-89 functions as both a transcriptional activator and repressor .
+A variety of extracellular regulators including TGFbeta , retinoic acid and butyrate stimulate ZBP-89 gene expression .
+Butyrate activation of p21WAF1 is potentiated by ZBP-89 through the recruitment of the co-activator p300 , while chronic stimulation by butyrate increases ZBP-89 gene expression correlating with cell differentiation .
+ZBP-89 stimulates growth arrest and apoptosis through its ability to bind the p21WAF1 promoter or its ability to form protein-protein interactions with p53 .
+ZBP-89 protein is elevated in a variety of gastrointestinal cancers as well as the pancreas .
+In particular , ZBP-89 is normally expressed in pancreatic islets and ducts and in about 30% of pancreatic adenocarcinomas .

@@ -1,0 +1,8 @@
+To evaluate the effects of adenovirus ( Ad)-mediated transfer of p53 and p16 on human bladder cancer cells EJ , EJ were transfected with Ad-p53 and Ad-p16 .
+Cell growth , morphological change , cell cycle , apoptosis were measured using MTT assay , flow cytometry , cloning formation , immunocytochemical assays .
+Ad-p16 or Ad-p53 alone could inhibit the proliferating activity of EJ cells in vitro .
+Ad-p53 could induce apoptosis of partial EJ cells .
+G1 arrest was observed 72 h after infection with Ad-p16 , but apoptosis was not obvious .
+The transfer of Ad-p16 and Ad-p53 could significantly inhibit the growth of EJ cells , decrease the cloning formation rate and induce apoptosis of large number of EJ cells .
+The occurrence time of subcutaneous tumor was delayed and the tumor volume in 4 weeks was diminished by using Ad-p53 combined with Ad-p16 and the difference was significant compared with using Ad-p53 or Ad-p16 alone .
+It was suggested that the transfer of wild-type p53 and p16 could significantly inhibit the growth of human bladder cancer in vitro and in vivo .

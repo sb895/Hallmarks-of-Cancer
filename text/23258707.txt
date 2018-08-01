@@ -1,0 +1,6 @@
+Trinucleotide repeat ( TNR ) expansions and deletions are associated with human neurodegenerative diseases and prostate cancer .
+Recent studies have pointed to a linkage between oxidative DNA damage , base excision repair ( BER ) and TNR expansion , which is demonstrated by the observation that DNA polymerase \u03b2 ( pol \u03b2 ) gap-filling synthesis acts in concert with alternate flap cleavage by flap endonuclease 1 ( FEN1 ) to mediate CAG repeat expansions .
+In this study , we provide the first evidence that the repair of a DNA base lesion can also contribute to CAG repeat deletions that were initiated by the formation of hairpins on both the template and the damaged strand of a continuous run of ( CAG)(20 ) or ( CAG)(25 ) repeats .
+Most important , we found that pol \u03b2 not only bypassed one part of the large template hairpin but also managed to pass through almost the entire length of small hairpin .
+The unique hairpin bypass of pol \u03b2 resulted in large and small deletions in coordination with FEN1 alternate flap cleavage .
+Our results provide new insight into the role of BER in modulating genome stability that is associated with human diseases .

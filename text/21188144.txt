@@ -1,0 +1,11 @@
+BACKGROUND Induction of osteolytic bone lesions in multiple myeloma is caused by an uncoupling of osteoclastic bone resorption and osteoblastic bone formation .
+Current management of myeloma bone disease is limited to the use of antiresorptive agents such as bisphosphonates .
+METHODOLOGY/PRINCIPAL FINDINGS We tested the effects of daily administered parathyroid hormone ( PTH ) on bone disease and myeloma growth , and we investigated molecular mechanisms by analyzing gene expression profiles of unique myeloma cell lines and primary myeloma cells engrafted in SCID-rab and SCID-hu mouse models .
+PTH resulted in increased bone mineral density of myelomatous bones and reduced tumor burden , which reflected the dependence of primary myeloma cells on the bone marrow microenvironment .
+Treatment with PTH also increased bone mineral density of uninvolved murine bones in myelomatous hosts and bone mineral density of implanted human bones in nonmyelomatous hosts .
+In myelomatous bone , PTH markedly increased the number of osteoblasts and bone-formation parameters , and the number of osteoclasts was unaffected or moderately reduced .
+Pretreatment with PTH before injecting myeloma cells increased bone mineral density of the implanted bone and delayed tumor progression .
+Human global gene expression profiling of myelomatous bones from SCID-hu mice treated with PTH or saline revealed activation of multiple distinct pathways involved in bone formation and coupling ; involvement of Wnt signaling was prominent .
+Treatment with PTH also downregulated markers typically expressed by osteoclasts and myeloma cells , and altered expression of genes that control oxidative stress and inflammation .
+PTH receptors were not expressed by myeloma cells , and PTH had no effect on myeloma cell growth in vitro .
+CONCLUSIONS/SIGNIFICANCE We conclude that PTH-induced bone formation in myelomatous bones is mediated by activation of multiple signaling pathways involved in osteoblastogenesis and attenuated bone resorption and myeloma growth ; mechanisms involve increased osteoblast production of anti-myeloma factors and minimized myeloma induction of inflammatory conditions .

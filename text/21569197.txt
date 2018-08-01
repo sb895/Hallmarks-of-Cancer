@@ -1,0 +1,8 @@
+The purpose of this study was to determine the impact of the non-steroidal anti-inflammatory drug tepoxalin on canine tumour cell growth and describe the changes associated with tepoxalin treatment .
+In vitro experiments were performed to assess tepoxalin-associated alterations in tumour cell growth .
+Clinically achievable tepoxalin concentrations did not significantly alter tumour cell growth in vitro .
+Vascular endothelial growth factor ( VEGF ) production and hypoxia-inducible factor-1α dose-dependently increased in vitro in the presence of tepoxalin .
+A canine osteosarcoma xenograft was used to determine in vivo effects of tepoxalin on tumour growth and angiogenesis .
+Despite increased VEGF in vitro , there was a significant growth delay associated with tepoxalin treatment .
+Normal dogs were administered tepoxalin to assess effects on systemic VEGF production , but not found to have significantly increased VEGF .
+These data suggest that tepoxalin may moderately inhibit tumour growth and may be administered as an analgesic to tumour-bearing dogs .

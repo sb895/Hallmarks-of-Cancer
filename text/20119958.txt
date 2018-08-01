@@ -1,0 +1,7 @@
+We investigated the mechanisms of DNA exit during single-cell gel electrophoresis ( the comet assay ) by measuring the kinetics of the comet tail formation .
+In the neutral comet assay , the rate of DNA exit was found to be dependent on the topological state of DNA , which was influenced by either ethidium bromide or a low radiation dose .
+The results clearly show that the comet tail is formed by extended DNA loops : the loop extension , being reversible when the DNA torsional constraint remains in the loops , is favored when the constraint is relaxed .
+The kinetics of the comet formation in the case of a high radiation dose points out that accumulation of the single-strand breaks causes DNA fragmentation .
+In contrast to the neutral comet assay , the alkaline comet assay is not related to the chromatin loops .
+Our results imply that the alkaline treatment induces detachment of the loops from the nuclear matrix , and the comet tail is formed by ssDNA fragments , the ends of which are pulled out from the comet head by electric force .
+We suggest that the kinetic approach can be considered as an important improvement of the comet assay .

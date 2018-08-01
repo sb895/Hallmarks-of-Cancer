@@ -1,0 +1,8 @@
+Biomaterials such as polyetherurethans ( PEUs ) are the scaffolding , which is indispensable for the development of the bio-artificial organs .
+However , PEUs can induce tumors in subcutaneous implantation sites in rat .
+We have shown that the different inhibitory potential of gap junctional intercellular communication ( GJIC ) on the surface of the biomaterials , including PEUs , is a key step in determining the tumorigenic potential .
+Here we show that suppression of a gap junctional protein connexin 43 ( Cx43 ) plays an important role in in vivo tumorigenesis induced by PEUs for the first time and that Cx43 transfection may be an effective strategy for preventing tumorigenesis induced by biomaterials .
+Rat tumor cell line U41 is derived from tumors in the subcutaneous implantation of PEU films .
+The GJIC and the expression of Cx43 were suppressed in U41 .
+The restoration of normal phenotype , such as reduction of growth rate , recovery of contact inhibition and loss of colony formation ability in soft agar , was achieved by Cx43 transfection .
+These results strongly suggest that suppression of Cx43 expression plays an important role in the development of rat malignant fibrous histiocytoma ( MFHC ) caused by PEUs and that Cx43 transfection is effective for prevention of tumorigenesis induced by PEUs .

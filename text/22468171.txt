@@ -1,0 +1,15 @@
+Background : Green tea catechins possess a wide range of pharmacological properties , including antiviral , anti-infective , and immunostimulatory properties .
+They also have demonstrated inhibitory effects on a variety of enzymatic and metabolic pathways involved in cancer development .
+Catechins have been shown to have antiproliferative properties in various cell lines and may have direct virucidal effect .
+The United States Food and Drug Administration has approved a topical ointment formulation of sinecatechins , derived from green tea catechins and other tea components , for the treatment of external genital and perianal warts .
+The exact mechanism of action of sinecatechins in eradication of human papillomavirus-induced external genital and perianal warts is unknown , but may be due to one or more of the mechanisms mentioned .
+Objective : This study was conducted to investigate the growth inhibitory potential of the sinecatechins in human cervical carcinoma cell lines infected with human papillomavirus .
+Methods : The viability of tumor cell lines ( CaSki and SiHa infected with human papillomavirus-16 ; HeLa and C4-I infected with human papillomavirus-18 ) was investigated as one parameter in a short-term viability assay ( 48 hours ) .
+This was followed by a long-term clonogenic assay ( 12-23 days ) to determine the cytotoxic potential of sinecatechins as a parameter for cell viability and proliferation .
+This assay determined if the effect observed in the viability assay was due to retardation in cell proliferation or to a reduction of total cell number , leading to cell death .
+Results : Based on the data collected , sinecatechins inhibited cell growth in all four tumor cell lines by 50 percent ( GI(50) ) at concentrations ranging from 160 to 360�M .
+C4-I cells were the most sensitive to treatment with sinecatechins , with a lower GI(50) ( Total GI was achieved in a 48-hour assay at 625�M sinecatechins ( 40�M for C4-I ) , with growth inhibitory potential detectable after one hour .
+Clonogenic assays confirmed the cytotoxic potential of sinecatechins with a reduction in clone numbers in a concentration-dependent fashion .
+Sinecatechins substantially reduced the number of surviving HeLa cells at a concentration of 200�M , while surviving SiHa cells were almost totally eradicated with a concentration of 600�M .
+Conclusion : Sinecatechins demonstrated growth inhibitory potential in all four human papillomavirus-infected tumor cell lines , which may be attributed to the induction of apoptosis , mediated by cell cycle deregulation .
+In addition , this antiproliferative effect may contribute to the overall cancer-preventative function and possible direct antiviral activity of sinecatechins that may contribute to external genital and perianal warts clearance .

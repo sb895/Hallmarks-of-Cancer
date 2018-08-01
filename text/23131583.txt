@@ -1,0 +1,5 @@
+Chromosomal translocations typically impair cell differentiation and often require secondary mutations for malignant transformation .
+However , the role of a primary translocation in the development of collaborating mutations is debatable .
+To delineate the role of leukemic translocation NUP98-HOXD13 ( NHD13 ) in secondary mutagenesis , DNA break and repair mechanisms in stimulated mouse B lymphocytes expressing NHD13 were analyzed .
+Our results showed significantly reduced expression of non-homologous end joining ( NHEJ)-mediated DNA repair genes , DNA Pkcs , DNA ligase4 , and Xrcc4 leading to cell cycle arrest at G2/M phase .
+Our results showed that expression of NHD13 fusion gene resulted in impaired NHEJ-mediated DNA break repair .

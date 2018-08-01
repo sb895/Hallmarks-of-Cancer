@@ -1,0 +1,8 @@
+Mucoepidermoid carcinoma ( MEC ) , the most common primary salivary malignancy , shows great variability in clinical behaviour , thus demanding investigation to identify of prognostic markers .
+Since Warburg's studies , unrestricted cell growth during tumorigenesis has been linked to altered metabolism , implying hypoxic stimulation of glycolysis and diminished contribution of mitochondrial oxidative phosphorylation to cellular ATP supply .
+Hypothesizing that the study of MEC metabolic status could lead to the discovery of prognostic markers , we investigated by immunohistochemistry the expression of glucose transporter 1 ( Glut-1 ) , mitochondrial antigen and peroxiredoxin I ( Prx I ) in samples of MEC from different histological grades .
+Our results showed that mitochondrial antigen and Prx I were expressed in the majority of the MEC cases independent of the histological grade .
+In contrast Glut-1 expression increased significantly as the tumours became more aggressive .
+These results suggested that oxidative phosphorylation may contribute to ATP supply in all stages of MEC progression , and that the relative contribution of glycolysis over mitochondria for cellular ATP supply increases during MEC progression , favouring growth under low oxygen concentration .
+In addition , the observed high Prx I protein levels could provide protection to tumour cells against reactive oxygen species generated as a consequence of mitochondrial function and hypoxia-reoxygenation cycling .
+Altogether our findings suggest that upregulation of Glut-1 and Prx I constitute successful adaptive strategies of MEC cells conferring a growth advantage over normal salivary gland cells in the unstable oxygenation tumour environment .

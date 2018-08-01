@@ -1,0 +1,10 @@
+The green fluorescent protein ( GFP ) is the most commonly used reporter protein for monitoring gene expression and protein localization in a variety of living and fixed cells , including not only prokaryotes , but also eukaryotes , e.g. , yeasts , mammals , plants and fish .
+In general , it is thought that GFP is nontoxic to cells , although there are some reports on the side effect of GFP .
+Further , details of the molecular mechanism concerning the side effect of GFP remain unclear .
+Here we show that Ku80 , but not XRCC4 , plays an important role in the mechanism of the resistance to cytotoxicity induced by enhanced GFP ( EGFP ) .
+EGFP inhibited both cell proliferation and colony formation , and induced cell death in Ku80-deficient hamster cells , i.e. , xrs-6 cells .
+In addition , Ku80 attenuated EGFP-induced cytotoxicity in the xrs-6 cells .
+No EGFP-induced cytotoxicity was observed in the NHEJ core protein XRCC4-deficient hamster cells , i.e. , XR-1 cells .
+Furthermore , EGFP markedly enhanced X-ray-induced cytotoxicity in the xrs-6 cells .
+These results suggest that Ku80 plays a key role in the novel NHEJ-independent defense mechanism against EGFP-induced cytotoxicity .
+Caution should be taken in considering of the potential influence by the stress response mechanism , namely , the Ku80-dependent elimination mechanism of EGFP-induced cytotoxicity , being activated , even when using EGFP-expressing cells in which Ku80 functions normally .

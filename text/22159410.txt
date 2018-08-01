@@ -1,0 +1,8 @@
+The aim of the present study was to investigate the apoptosis of human ovarian cancer cell lines , A2780 and CP70 , induced by a novel curcumin analogue , B19 .
+The proliferation of cells was detected with methyl thiazolyl tetrazolium ( MTT ) assay and apoptosis was examined by flow cytometry .
+Reactive oxygen species ( ROS ) were assessed by the fluorescent indicator DCF-DA .
+The protein expression of the endoplasmic reticulum ( ER ) stress pathways , GRP78 , XBP-1 , ATF-4 and CHOP , was examined with Western blotting .
+A growth inhibitory effect was observed after treatment with B19 in a dose-dependent manner and with more potential than curcumin .
+At 20 �M , B19 induced significant apoptosis in CP70 cells .
+Furthermore , B19 induced the ER stress response , while curcumin had no effect on ER stress .
+These results suggest that B19 has more effective antitumor properties than curcumin , and is associated with the activation of ER stress and ROS in ovarian cancer cells .

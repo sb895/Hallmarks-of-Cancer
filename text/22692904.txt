@@ -1,0 +1,12 @@
+The secretin receptor ( SR ) , a G protein-coupled receptor , mediates the effects of the gastrointestinal hormone secretin on digestion and water homeostasis .
+Recently , high SR expression has been observed in pancreatic ductal adenocarcinomas , cholangiocellular carcinomas , gastrinomas , and bronchopulmonary carcinoid tumors .
+Receptor overexpression associates with enhanced secretin-mediated signaling , but whether this molecule plays an independent role in tumorigenesis is currently unknown .
+We recently discovered that pheochromocytomas developing in rats affected by the MENX ( multiple endocrine neoplasia-like ) syndrome express at very high-level Sctr , encoding SR .
+We here report that SR are also highly abundant on the membranes of rat adrenal and extraadrenal pheochromocytoma , starting from early stages of tumor development , and are functional .
+PC12 cells , the best characterized in vitro pheochromocytoma model , also express Sctr at high level .
+Thus , we used them as model to study the role of SR in neoplastic transformation .
+Small interfering RNA-mediated knockdown of Sctr decreases PC12 cells proliferation and increases p27 levels .
+The proproliferative effect of SR in PC12 cells is mediated , in part , by the phosphatidylinositol 3 kinase ( PI3K)/serine-threonine protein kinase ( AKT ) pathway .
+Transfection of Sctr in Y1 adrenocortical carcinoma cells , expressing low endogenous levels of Sctr , stimulates cell proliferation also , in part , via the PI3K/AKT signaling cascade .
+Because of the link between SR and PI3K/AKT signaling , tumor cells expressing high levels of the receptor ( MENX-associated primary pheochromocytoma and NCI-H727 human bronchopulmonary carcinoid cells ) respond well and in a SR-dependent manner to PI3K inhibitors , such as NVP-BEZ235 .
+The association between SR levels and response to PI3K inhibition might open new avenues for the treatment of tumors overexpressing this receptor .

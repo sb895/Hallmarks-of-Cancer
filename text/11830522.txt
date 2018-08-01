@@ -1,0 +1,16 @@
+p53 is a tumor suppressor gene that is mutated in many human malignancies , including gastric cancer .
+It remains unclear why patients with germ-line p53 mutations ( i.e. , Li-Fraumeni syndrome ) are not at increased risk for gastric adenocarcinoma , despite the fact that they show a high rate of many other tumors .
+Furthermore , the precise relationship between germ-line p53 mutations and the response to chronic bacterial infections ( such as Helicobacter spp. ) has not been investigated .
+To assess the role of germ-line p53 deletions in modulating the progression to gastric cancer , p53(+/-) and wild-type ( WT ) C57BL/6 mice were infected with H. felis .
+The gastric pathology and immune response in these two groups of mice were analyzed for up to 15 months postinfection .
+The gastric fundus and antrum were evaluated independently using a 0-4 scale to score inflammation , parietal and chief cell loss , mucus metaplasia , and helicobacter colonization .
+Nonparametric statistical analysis was performed to determine the effects of p53(+/-) , infection status , and postinoculation ( p.i. ) time on inflammation , preneoplastic changes , invasive lesions , and helicobacter colonization. mRNA expression for gammaIFN , interleukin ( IL)-1 , IL-10 , and IL-4 was quantified by PCR .
+Sera were also evaluated for H. felis antibody by ELISA .
+Antral inflammation increased significantly with time in infected mice .
+There was a significant , protective effect on the development of preneoplastic fundic lesions and invasive carcinoma attributable to the deletion of one p53 allele ( P < 0.05 ) .
+Submucosal invasive foci were observed in 9 of 11 WT-infected mice ranging from 13 to 15 months p.i. ; invasion of adjacent submucosal blood vessels by glandular epithelia also was present in 5 of these mice .
+None of these lesions were observed in 33 p53(+/-) mice , infected or not , at any time p.i. p53(+/-) mice had significantly higher helicobacter colonization consistent with a Th2 host response .
+In sera from WT mice , IgG2a , considered a proinflammatory Th1 response , continued to rise throughout the 15-month study ( P < 0.004 ) .
+In contrast , IgG2a levels of the p53(+/-) mice were 50-60% lower than those of the WT mice at each time point ( P range , <0.012 to 0.002 ) and did not progress in magnitude between 12 and 15 months of chronic H. felis infection ( P = 0.167). mRNA levels for gammaIFN and IL-1 were significantly up-regulated in WT mice infected with H. felis ( P < 0.05 ) but were slightly elevated or were at background levels in p53(+/-) mice .
+IL-10 and IL-4 mRNA expression was not significantly different from control samples .
+Our results support the hypothesis that germ-line deletion of one p53 allele results in a down-regulated Th1 response to gastric helicobacter infection , possibly because of T-cell senescence , which may indirectly protect against the development of gastric cancer and other epithelial-derived neoplasms associated with chronic inflammation .

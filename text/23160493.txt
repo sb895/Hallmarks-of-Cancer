@@ -1,0 +1,9 @@
+In response to genotoxic stress , a transient arrest in cell-cycle progression enforced by the DNA-damage checkpoint ( DDC ) signalling pathway positively contributes to genome maintenance .
+Because hyperactivated DDC signalling can lead to a persistent and detrimental cell-cycle arrest , cells must tightly regulate the activity of the kinases involved in this pathway .
+Despite their importance , the mechanisms for monitoring and modulating DDC signalling are not fully understood .
+Here we show that the DNA-repair scaffolding proteins Slx4 and Rtt107 prevent the aberrant hyperactivation of DDC signalling by lesions that are generated during DNA replication in Saccharomyces cerevisiae .
+On replication stress , cells lacking Slx4 or Rtt107 show hyperactivation of the downstream DDC kinase Rad53 , whereas activation of the upstream DDC kinase Mec1 remains normal .
+An Slx4-Rtt107 complex counteracts the checkpoint adaptor Rad9 by physically interacting with Dpb11 and phosphorylated histone H2A , two positive regulators of Rad9-dependent Rad53 activation .
+A decrease in DDC signalling results from hypomorphic mutations in RAD53 and H2A and rescues the hypersensitivity to replication stress of cells lacking Slx4 or Rtt107 .
+We propose that the Slx4-Rtt107 complex modulates Rad53 activation by a competition-based mechanism that balances the engagement of Rad9 at replication-induced lesions .
+Our findings show that DDC signalling is monitored and modulated through the direct action of DNA-repair factors .

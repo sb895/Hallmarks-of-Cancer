@@ -1,0 +1,9 @@
+This article describes the leading steps to develop an assay of DNA damage for the marine amphipod Gammarus locusta , using agarose gel electrophoresis ( AGE ) .
+To test the sensitivity and feasibility of the AGE technique , X-ray assays were performed with naked DNA and with live amphipods .
+These positive controls demonstrated the effectiveness of the AGE technique to not only discriminate distinct levels of DNA strand breakage in a dose-dependent manner , but also to identify and quantify the type of strand breakage induced .
+It was also shown that it is possible to detect DNA damage using whole-body DNA extracts from amphipods .
+To explore the potential of this technique for use in ecotoxicological studies with amphipods , a 96-h waterborne-copper toxicity test was performed .
+Copper-induced DNA strand breakage was first observed after 24 h of exposure , and was recorded again at 96 h , at a copper concentration of 20 microg l(-1) .
+The absence of strand breakage after 48 h of exposure is discussed in the light of the underlying mechanisms of copper toxicity and DNA repair .
+These studies demonstrated the feasibility of including DNA damage as a biomarker in ecotoxicological studies with amphipods .
+Information gained from the use of this biomarker would help with the interpretation of chronic toxicity tests and would contribute to our understanding of the impact of genotoxic insult in marine invertebrates , particularly crustaceans .

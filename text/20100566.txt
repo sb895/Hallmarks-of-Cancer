@@ -1,0 +1,12 @@
+Multivitamin preparation ( MVP ) is part of total parenteral nutrition given to premature infants .
+Photoactivated MVP carries an important load in peroxides , but their cellular effects have not yet been determined .
+We hypothesized that these peroxides may elicit a DNA-damage response .
+We found that photoactivation of MVP and the resulting peroxide production were time-dependent and required the simultaneous presence of ascorbic acid and riboflavin .
+Cells treated with photoactivated MVP showed strongly stimulated poly(ADP-ribosyl)ation , an early DNA-damage response in mammals .
+Poly(ADP-ribosyl)ation stimulation was dependent on the presence of ascorbic acid and riboflavin in the photoactivated MVP .
+It did not occur in the presence of a specific PARP inhibitor nor in mouse fibroblasts deficient in PARP-1 .
+Photoactivated MVP was able to induce single- and double-strand breaks in DNA , with a predominance of single-stand breaks .
+The presence of double-strand breaks was further confirmed using a 53PB1 focus analysis .
+Finally , photoactivated MVP was shown to be toxic to human cells and induced caspase-independent cell death .
+These results suggest that photoactivated MVP carries an important toxic load able to damage DNA and induce cell death .
+This study also emphasizes the importance of protecting MVP solution from light before use in preterm infants .

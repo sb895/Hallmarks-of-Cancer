@@ -1,0 +1,11 @@
+BACKGROUND Hesperidin , a flavanone present in citrus fruits , has been identified as a potent anticancer agent because of its proapoptotic and antiproliferative characteristics in some tumor cells .
+However , the precise mechanisms of action are not entirely understood .
+AIM The main purpose of this study is to investigate the involvement of peroxisome proliferator-activated receptor-gamma ( PPARγ ) in hesperidin's anticancer actions in human pre-B NALM-6 cells , which expresses wild-type p53 .
+METHODS The effects of hesperidin on cell-cycle distribution , proliferation , and caspase-mediated apoptosis were examined in NALM-6 cells in the presence or absence of GW9662 .
+The expression of peroxisome proliferator-activated receptor-gamma ( PPARγ ) , p53 , phospho-IκB , Bcl-2 , Bax , and XIAP proteins were focused on using the immunoblotting assay .
+The transcriptional activities of PPARγ and nuclear factor-kappaB ( NF-κB ) were analyzed by the transcription factor assay kits .
+The expression of PPARγ and p53 was analyzed using the RT-PCR method .
+RESULTS Hesperidin induced the expression and transcriptional activity of PPARγ and promoted p53 accumulation and downregulated constitutive NF-κB activity in a PPARγ-dependent and PPARγ-independent manner .
+The growth-inhibitory effect of hesperidin was partially reduced when the cells preincubated with PPARγ antagonist prior to the exposure to hesperidin .
+CONCLUSIONS The findings of this study clearly demonstrate that hesperidin-mediated proapoptotic and antiproliferative actions are regulated via both PPARγ-dependent and PPARγ-independent pathways in NALM-6 cells .
+These data provide the first evidence that hesperidin could be developed as an agent against hematopoietic malignancies .

@@ -1,0 +1,12 @@
+The role of T cells in eradicating leukemic cells has been well demonstrated for chronic myeloid leukemia ( CML ) .
+Type 1 ( T1 ) T-cell cytokines play a major role in this antileukemic immune effect .
+Studies in cancer patients have demonstrated a decreased T1 cytokine production , measured by enzyme-linked immunosorbent assay ( ELISA ) , in cultures of peripheral blood mononuclear cells .
+This observation of malignancy-related suppressed T1 cytokines also occurs in untreated chronic-phase ( CP ) CML , raising the question of the influence of different CML treatment regimens on this immunosuppression .
+Intracellular flow cytometry ( ICF ) has facilitated the evaluation of cytokines on a single-cell level .
+This study analyzed T1 ( interferon-gamma ) cytokine production in purified peripheral blood T cells by ICF , comparing different therapy approaches for CML .
+Twenty-one newly diagnosed CP CML patients were compared with 24 patients treated with interferon-alpha ( IFN-alpha ) and to 30 allogeneic bone marrow transplant ( BMT ) recipients ( BCR-ABL negative by reverse-transcriptase polymerase chain reaction , and free of , or having only limited graft-versus-host disease at the time of study ) .
+Thirty-seven healthy controls were included .
+Our results showed a significantly decreased T-cell IFN-gamma synthesis in CP CML patients in relation to healthy controls ( P = 0.0007 ) .
+Treatment with IFN-alpha resulted in a shift from immunosuppression--documented for the group of untreated patients--to immunopotentiation , with an increase of T-cell IFN-gamma production ( P = 0.0266 ) .
+Notably , BMT enhanced IFN-gamma production of T cells to a level not only exceeding untreated patients ( P < 0.0001 ) but also healthy volunteers ( P < 0.0001 ) .
+The observation of T1 cytokine up-regulation with IFN-alpha therapy indicates that enhanced T-cell function may be achievable in patients with CML , even in the absence of an allo-response .

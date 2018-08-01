@@ -1,0 +1,14 @@
+BACKGROUND Exposure to high doses of ionizing radiation ( IR ) can lead to localized radiation injury of the skin and exposed cells suffer dsDNA breaks that may elicit cell death or stochastic changes .
+Little is known about the DNA damage response after high-dose exposure of the skin .
+Here , we investigate the cellular and DNA damage response in acutely irradiated minipig skin .
+METHODS AND FINDINGS IR-induced DNA damage , repair and cellular survival were studied in 15 cm(2) of minipig skin exposed in vivo to Co-60 \u03b3 rays .
+Skin biopsies of control and 4 h up to 96 days post exposure were investigated for radiation-induced foci ( RIF ) formation using \u03b3-H2AX , 53BP1 , and active ATM-p immunofluorescence .
+High-dose IR induced massive \u03b3-H2AX phosphorylation and high 53BP1 RIF numbers 4 h , 20 h after IR .
+As time progressed RIF numbers dropped to a low of <1% of keratinocytes at 28-70 days .
+The latter contained large RIFs that included ATM-p , indicating the accumulation of complex DNA damage .
+At 96 days most of the cells with RIFs had disappeared .
+The frequency of active-caspase-3-positive apoptotic cells was 17-fold increased 3 days after IR and remained >3-fold elevated at all subsequent time points .
+Replicating basal cells ( Ki67+ ) were reduced 3 days post IR followed by increased proliferation and recovery of epidermal cellularity after 28 days .
+CONCLUSIONS Acute high dose irradiation of minipig epidermis impaired stem cell replication and induced elevated apoptosis from 3 days onward .
+DNA repair cleared the high numbers of DBSs in skin cells , while RIFs that persisted in <1% cells marked complex and potentially lethal DNA damage up to several weeks after exposure .
+An elevated frequency of keratinocytes with persistent RIFs may thus serve as indicator of previous acute radiation exposure , which may be useful in the follow up of nuclear or radiological accident scenarios .

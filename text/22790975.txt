@@ -1,0 +1,9 @@
+Myotonia congenita-inducing mutations in the muscle chloride channel CLC-1 normally result in reduced open probability ( P ( o) ) of this channel .
+One well-accepted mechanism of the dominant inheritance of this disease involves a dominant-negative effect of the mutation on the function of the common-gate of this homodimeric , double-barreled molecule .
+We report here a family with myotonia congenita characterized by muscle stiffness and clinical and electrophysiologic myotonic phenomena transmitted in an autosomal dominant pattern .
+DNA sequencing of DMPK and ZNF9 genes for myotonic muscular dystrophy types I and II was normal , whereas sequencing of CLC-1 encoding gene , CLCN1 , identified a single heterozygous missense mutation , G233S .
+Patch-clamp analyses of this mutant CLC-1 channel in Xenopus oocytes revealed an increased P ( o ) of the channel's fast-gate , from in the wild type to >0.9 in the mutant at -90 mV .
+In contrast , the mutant exhibits a minimal effect on the P ( o ) of the common-gate .
+These results are consistent with the structural prediction that the mutation site is adjacent to the fast-gate of the channel .
+Overall , the mutant could lead to a significantly reduced dynamic response of CLC-1 to membrane depolarization , from a fivefold increase in chloride conductance in the wild type to a twofold increase in the mutant-this might result in slower membrane repolarization during an action potential .
+Since expression levels of the mutant and wild-type subunits in artificial model cell systems were unable to explain the disease symptoms , the mechanism leading to dominant inheritance in this family remains to be determined .

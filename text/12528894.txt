@@ -1,0 +1,10 @@
+IL-16 is a ligand and chemotactic factor for CD4+ T cells .
+IL-16 inhibits the CD3 mediated lymphocyte activation and proliferation .
+The effects of IL-16 on the target cells are dependent on the cell type , the presence of co-activators etc .
+To understand the regulation function and mechanism of IL-16 on target cells , we used a 130 a.a. recombinant IL-16 to study its effects on the growth of Jurkat T leukemia cells in vitro .
+We found that the rIL-16 stimulated the proliferation of Jurkat cells at low dose ( 10(-9)M ) , but inhibited the growth of the cells at higher concentration ( 10(-5)M ) .
+Results showed that 10(-5) M of rIL-16 treatment induced an enhanced apoptosis in Jurkat cells .
+The treatment blocked the expression of FasL , but up-regulated the c-myc and Bid expression in the cells .
+Pre-treatment of PKC inhibitor or MEK1 inhibitor markedly increased or decreased the rIL-16 induced growth-inhibiting effects on Jurkat cells , respectively .
+The results suggested that the rIL-16 might be a regulator for the growth or apoptosis of Jurkat cells at a dose-dependent manner .
+The growth-inhibiting effects of rIL-16 might be Fas/FasL independent , but , associated with the activation of PKC , up-regulated expression of c-Myc and Bid , and the participation of the ERK signal pathway in Jurkat cells .

@@ -1,0 +1,8 @@
+Here , we set out to test the novel hypothesis that increased mitochondrial biogenesis in epithelial cancer cells would " fuel " enhanced tumor growth .
+For this purpose , we generated MDA-MB-231 cells ( a triple-negative human breast cancer cell line ) overexpressing PGC-1α and MitoNEET , which are established molecules that drive mitochondrial biogenesis and increased mitochondrial oxidative phosphorylation ( OXPHOS ) .
+Interestingly , both PGC-1α and MitoNEET increased the abundance of OXPHOS protein complexes , conferred autophagy resistance under conditions of starvation and increased tumor growth by up to However , this increase in tumor growth was independent of neo-angiogenesis , as assessed by immunostaining and quantitation of vessel density using CD31 antibodies .
+Quantitatively similar increases in tumor growth were also observed by overexpression of PGC-1β and POLRMT in MDA-MB-231 cells , which are also responsible for mediating increased mitochondrial biogenesis .
+Thus , we propose that increased mitochondrial " power " in epithelial cancer cells oncogenically promotes tumor growth by conferring autophagy resistance .
+As such , PGC-1α , PGC-1β , mitoNEET and POLRMT should all be considered as tumor promoters or " metabolic oncogenes. "
+Our results are consistent with numerous previous clinical studies showing that metformin ( a weak mitochondrial " poison" ) prevents the onset of nearly all types of human cancers in diabetic patients .
+Therefore , metformin ( a complex I inhibitor ) and other mitochondrial inhibitors should be developed as novel anticancer therapies , targeting mitochondrial metabolism in cancer cells .

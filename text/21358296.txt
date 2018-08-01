@@ -1,0 +1,7 @@
+OBJECTIVES Epidermal growth factor ( EGF ) stimulates cell proliferation by binding to its receptor ( epidermal growth factor receptor ) , and the overexpression of this receptor is associated with poorer prognosis .
+The EGF gene presents a polymorphism at position 61 ( A/G ) , associated with higher EGF production .
+We examined the association between this polymorphism and cervical cancer through a case-control study .
+METHODS This study used the PCR-restriction fragment length polymorphism method on a sample of 384 women with cervical lesions and 500 controls of white ethnicity .
+RESULTS In cases of cervical cancer , we found an increased risk of progression to advanced disease ( The International Federation of Gynecology and Obstetrics stage IIb/IV ) ( odds ratios=2.05 ; 95% confidence intervals=1.11 to 3.79 ; P=0.021 ) , and this risk was particularly evident in G carriers for younger women ( odds ratios=2.96 ; 95% confidence intervals=1.41-6.20 , P=0.003 ) .
+CONCLUSIONS We hypothesize the onset of an advanced disease-driven selective pressure due to the effect of oncogenic human papillomavirus types in a favorable genetic background observed in G carrier women .
+These results suggest that EGF functional polymorphism may influence cervical cancer prognosis through an EGF/epidermal growth factor receptor pathway .

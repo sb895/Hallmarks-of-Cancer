@@ -1,0 +1,9 @@
+There are many growth factors influencing the expansion of multiple myeloma ( MM ) .
+Angiogenesis is a process that may enhance MM growth , in various manners .
+Among them , insulin-like growth factor-1 ( IGF-1 ) is a major factor , acting in many levels .
+The aim of the study was to measure serum levels of IGF-1 in newly diagnosed MM patients and to correlate them with clinical stage of the disease and with markers of angiogenesis , such as vascular endothelial growth factor ( VEGF ) , hepatocyte growth factor ( HGF ) , and interleukin-6 and 15 ( IL-6 and IL-15 ) .
+Serum levels of the above factors were measured , by ELISA , in 57 newly diagnosed MM patients and in 20 healthy controls .
+There was no difference in serum levels of IGF-1 in MM patients and in controls , contrary to angiogenic factors , which were higher in MM patients ( p < 0.001 ) .
+Similarly , IGF-1 did not correlate with clinical stage of the disease nor the other angiogenic factors , which also correlated with each other ( p < 0.001 ) .
+Serum IGF-1 concentrations are not influenced in MM patients .
+Therefore , although it is a proliferation cytokine , it cannot be used as marker of disease activity .

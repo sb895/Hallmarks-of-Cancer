@@ -1,0 +1,7 @@
+Programmed cell death 6 ( PDCD6 ) was originally found as a pro-apoptotic protein , but its molecular mechanism is not well understood .
+In this study , we have attempted to investigate the effects of PDCD6 on the inhibition of angiogenesis-mediated cell growth as a novel anti-angiogenic protein .
+Purified recombinant human PDCD6 inhibited cell migration in a concentration-time-dependent manner .
+We also found that overexpressed PDCD6 suppressed vascular endothelial growth factor ( VEGF)-induced proliferation , invasion , and capillary-like structure tube formation in vitro .
+PDCD6 suppressed phosphorylation of signaling regulators downstream from PI3K , including Akt , mammalian target of rapamycin ( mTOR ) , glycogen synthase kinase-3β(GSK-3β) , ribosomal protein S6 kinase ( p70S6K ) , and also decreased cyclin D1 expression .
+We found binding PDCD6 to VEGFR-2 , a key player in the PI3K/mTOR/P70S6K signaling pathway .
+Taken together , these data suggest that PDCD6 plays a significant role in modulating cellular angiogenesis .

@@ -1,0 +1,9 @@
+Domestic dog breeds have undergone intense selection for a variety of morphologic features , including size .
+Among small-dog breeds , defined as those averaging less than in. at the withers , there remains still considerable variation in body size .
+Yet essentially all such dogs are fixed for the same allele at the insulin-like growth factor 1 gene , which we and others previously found to be a size locus of large effect .
+In this study we sought to identify additional genes that contribute to tiny size in dogs using an association scan with the single nucleotide polymorphism ( SNP ) dataset CanMap , in which 915 purebred dogs were genotyped at 60,968 SNP markers .
+Our strongest association for tiny size ( defined as breed-average height not more than 10 in. at the withers ) was on canine chromosome 3 ( p = 1.9 × 10(-70) ) .
+Fine mapping revealed a nonsynonymous SNP at chr3:44,706,389 that changes a highly conserved arginine at amino acid 204 to histidine in the insulin-like growth factor 1 receptor ( IGF1R ) .
+This mutation is predicted to prevent formation of several hydrogen bonds within the cysteine-rich domain of the receptor's ligand-binding extracellular subunit .
+Nine of 13 tiny dog breeds carry the mutation and many dogs are homozygous for it .
+This work underscores the central importance of the IGF1 pathway in controlling the tremendous size diversity of dogs .

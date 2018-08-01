@@ -1,0 +1,8 @@
+DNA damage checkpoints arrest cell cycle progression to facilitate DNA repair .
+The ability to survive genotoxic insults depends not only on the initiation of cell cycle checkpoints but also on checkpoint maintenance .
+While activation of DNA damage checkpoints has been studied extensively , molecular mechanisms involved in sustaining and ultimately inactivating cell cycle checkpoints are largely unknown .
+Here , we explored feedback mechanisms that control the maintenance and termination of checkpoint function by computationally identifying an evolutionary conserved mitotic phosphorylation network within the DNA damage response .
+We demonstrate that the non-enzymatic checkpoint adaptor protein 53BP1 is an in vivo target of the cell cycle kinases Cyclin-dependent kinase-1 and Polo-like kinase-1 ( Plk1 ) .
+We show that Plk1 binds 53BP1 during mitosis and that this interaction is required for proper inactivation of the DNA damage checkpoint. 53BP1 mutants that are unable to bind Plk1 fail to restart the cell cycle after ionizing radiation-mediated cell cycle arrest .
+Importantly , we show that Plk1 also phosphorylates the 53BP1-binding checkpoint kinase Chk2 to inactivate its FHA domain and inhibit its kinase activity in mammalian cells .
+Thus , a mitotic kinase-mediated negative feedback loop regulates the ATM-Chk2 branch of the DNA damage signaling network by phosphorylating conserved sites in 53BP1 and Chk2 to inactivate checkpoint signaling and control checkpoint duration .

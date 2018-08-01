@@ -1,0 +1,8 @@
+In mammalian cells more than 90% of double-strand breaks are repaired by NHEJ .
+Impairment of this pathway is associated with cell cycle arrest , cell death , genomic instability and cancer .
+Human diseases such as Nijmegen breakage syndrome , due to mutations in the NBS1 gene , produce defects in resection of double-strand breaks .
+NBS1 hypomorphic mutant mice are viable , and cells from these mice are defective in S phase and G2/M checkpoints .
+NBS1 polymorphisms have been associated with increased risk of breast cancer .
+We previously demonstrated that estradiol protected estrogen receptor ( ER)-positive ( + ) breast cancer cell lines against double-strand breaks and cell death .
+We now demonstrate that protection from double-strand break damage in ER+ cells is mediated via regulation by c-myc , p53 , CBP and SRC1 coactivators in intron 1 of the NBS1 gene .
+We concluded that NBS1 is responsible for estradiol-mediated protection from double-strand breaks in ER+ breast cancer cells .

@@ -1,0 +1,10 @@
+BACKGROUND & OBJECTIVE There is little ideal predictor available on evaluating the lymph node metastatic potential of breast carcinoma .
+This study was designed to determine the expression of gene products of E-cadherin ( epithelial ) , N-cadherin ( nerve ) , and matrix metalloproteinase-9 ( MMP-9 ) in breast carcinoma tissue and investigate their association with the invasion and metastasis of breast carcinoma .
+METHODS The authors examined the expressions of E-cadherin , N-cadherin , and MMP-9 in 72 cases of breast carcinoma(39 cases with lymph node metastasis and 33 cases without lymph node metastasis ) by immunohistochemistry .
+Multivariable Cox proportional hazards model was used to analyze the patients ' prognosis .
+RESULTS The average ranks of E-cadherin in lymph node metastasis group and no lymph node metastasis group were 29.19 and 45.14 , respectively , with significant difference ( P < 0.001 ) .
+The expression of E-cadherin was correlated inversely with the metastasis of breast carcinoma .
+The average ranks of N-cadherin and MMP-9 were 40.04 and 42.97 in lymph node metastasis group , and 32.32 and 28.85 in no lymph node metastasis group , both with significant difference ( P < 0.05 ) , and these expressions were positively correlated with the lymph node metastasis of breast carcinoma .
+The patients who had high expression of E-cadherin had a longer survival time .
+CONCLUSION Expression of E-cadherin , N-cadherin , and MMP-9 are associated strongly with lymph node metastasis of breast carcinoma .
+These proteins are indicators of metastasis potential and prognosis of breast carcinoma .

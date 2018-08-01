@@ -1,0 +1,6 @@
+Elevated aerobic glycolysis in cancer cells ( the Warburg effect ) may be attributed to respiration injury or mitochondrial dysfunction , but the underlying mechanisms and therapeutic significance remain elusive .
+Here we report that induction of mitochondrial respiratory defect by tetracycline-controlled expression of a dominant negative form of DNA polymerase \u03b3 causes a metabolic shift from oxidative phosphorylation to glycolysis and increases ROS generation .
+We show that upregulation of NOX is critical to support the elevated glycolysis by providing additional NAD+ .
+The upregulation of NOX is also consistently observed in cancer cells with compromised mitochondria due to the activation of oncogenic Ras or loss of p53 , and in primary pancreatic cancer tissues .
+Suppression of NOX by chemical inhibition or genetic knockdown of gene expression selectively impacts cancer cells with mitochondrial dysfunction , leading to a decrease in cellular glycolysis , a loss of cell viability , and inhibition of cancer growth in vivo .
+Our study reveals a previously unrecognized function of NOX in cancer metabolism and suggests that NOX is a potential novel target for cancer treatment .

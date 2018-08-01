@@ -1,0 +1,9 @@
+Ruthenium complexes hold great potential as alternatives to cisplatin in cancer chemotherapy .
+We present results on the in vitro antitumor activity of an organometallic ' Ru(II)Cp ' complex , [ Ru(II)Cp(bipy)(PPh(3))][CF(3)SO(3) ] , designated as TM34 ( PPh(3) = triphenylphosphine ; bipy = 2,2'-bipyridine ) , against a panel of human tumor cell lines with different responses to cisplatin treatment , namely ovarian ( A2780/A2780cisR , cisplatin sensitive and resistant , respectively ) , breast ( MCF7 ) and prostate ( PC3 ) adenocarcinomas .
+TM34 is very active against all tumorigenic cell lines , its efficacy largely surpassing that of cisplatin ( CisPt ) .
+The high activity of TM34 towards CisPt resistant cell lines possibly suggests a mechanism of action distinct from that of CisPt .
+The effect of TM34 on the activity of the enzyme poly(ADP-ribose) polymerase 1 ( PARP-1 ) involved in DNA repair mechanisms and apoptotic pathways was also evaluated , and it was found to be a strong PARP-1 ruthenium inhibitor in the low micromolar range ( IC(50)=1.0 ± 0.3 \u03bcM ) .
+TM34 quickly binds to human serum albumin forming a 1:1 complex with a conditional stability constant ( log K ' comparable to that of the Ru(III) complex in clinical trial KP1019 .
+This indicates that TM34 can be efficiently transported by this protein , possibly being involved in its distribution and delivery if the complex is introduced in the blood stream .
+Albumin binding does not affect TM34 activity , yielding an adduct that maintains cytotoxic properties ( against A2780 and A2780cisR cells ) .
+Altogether , the properties herein evaluated suggest that TM34 could be an anticancer agent of highly relevant therapeutic value .

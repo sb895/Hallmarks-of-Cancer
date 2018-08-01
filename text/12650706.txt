@@ -1,0 +1,9 @@
+The cellular mechanisms of anti-androgen-induced tumor regression have not been investigated in great detail .
+We have compared the induction of cell death in the androgen-dependent , non-invasive LNCaP prostate cancer cell line by Casodex and TNF-alpha .
+Both agents induce a dose and time-dependent decrease in cell viability in vitro .
+However , Casodex does not induce classical DNA fragmentation to oligonucleosomes typically induced by TNF-alpha , but rather induces cleavage to form intermediate 60 kb DNA fragments .
+RT-PCR based analysis demonstrates that in LNCaP cells Casodex coordinately alters the expression of steady-state level of mRNAs of several matrix metalloproteases and their cognate inhibitors ( most notably MMP2 and TIMP1 ) .
+Zymography and reverse zymography confirm that the ratio of metalloprotease(s) to inhibitor(s) is altered in favor of activation of the proteases .
+In a small percentage of the treated LNCaP cells , the activation of the extracellular matrix ( ECM)-proteases by Casodex also induces an invasive phenotype .
+The acquisition of an invasive phenotype is not seen when LNCaP cells are treated with TNF-alpha , and is not seen when the LNCaP cells are treated with both compounds simultaneously , suggesting that the phenomenon may be specific to particular classes of compounds .
+These observations have significant implications in the treatment of prostate cancer , since the appearance of a more aggressive phenotype following treatment is clearly undesirable .

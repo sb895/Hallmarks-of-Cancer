@@ -1,0 +1,11 @@
+Hepatocellular carcinoma ( HCC ) is the fifth most common cancer worldwide .
+Major risk factors of HCC include infection with hepatitis B or C viruses , alcohol and non-alcoholic fatty liver disease .
+HCC is difficult to diagnose at early stage , and has a very poor survival rate when diagnosed at a late stage .
+The majority of HCC-related deaths result from local invasion ( to cause liver failure ) or distant metastases .
+There is an urgent need to identify effective molecular targets for the treatment of the disease .
+As the target of an established class of therapeutic agent thiazolidinediones ( TZDs ) , peroxisome-proliferator-activated receptor γ ( PPARγ ) has been widely studied for its role in the development of HCC .
+A substantial body of evidence based on in vitro and in vivo models indicates that the activation of PPARγ is able to inhibit HCC cell proliferation and tumor growth through inducing cell cycle arrest and apoptosis via the regulation of a panel of downstream effector molecules .
+PPARγ activation also induces an inhibitory effect on HCC metastasis .
+Meanwhile , there is new evidence suggesting that PPARγ inhibition could also be anti-tumorigenic .
+In the present review , we summarize the available information on the role of PPARγ in HCC development and spread , and discuss whether PPARγ activation by TZDs could play a role in the treatment of HCC , summarizing both in vitro and in vivo .
+Considering the available data , PPARγ seems to exert beneficial effects against HCC and may therefore represent as a therapeutic target .

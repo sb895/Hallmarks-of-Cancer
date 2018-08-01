@@ -1,0 +1,12 @@
+Placental Growth Factor ( PGF ) is a key molecule in angiogenesis .
+Several studies have revealed an important role of PGF primarily in pathological conditions ( e.g. : ischaemia , tumour formation , cardiovascular diseases and inflammatory processes ) suggesting its use as a potential therapeutic agent .
+However , to date , no information is available regarding the genetics of PGF variability .
+Furthermore , even though the effect of environmental factors ( e.g. : cigarette smoking ) on angiogenesis has been explored , no data on the influence of these factors on PGF levels have been reported so far .
+Here we have first investigated PGF variability in two cohorts focusing on non-genetic risk factors : a study sample from two isolated villages in the Cilento region , South Italy ( N=871 ) and a replication sample from the general Danish population ( N=1,812 ) .
+A significant difference in PGF mean levels was found between the two cohorts .
+However , in both samples , we observed a strong correlation of PGF levels with ageing and sex , men displaying PGF levels significantly higher than women .
+Interestingly , smoking was also found to influence the trait in the two populations , although differently .
+We have then focused on genetic risk factors .
+The association between five single nucleotide polymorphisms ( SNPs ) located in the PGF gene and the plasma levels of the protein was investigated .
+Two polymorphisms ( rs11850328 and rs2268614 ) were associated with the PGF plasma levels in the Cilento sample and these associations were strongly replicated in the Danish sample .
+These results , for the first time , support the hypothesis of the presence of genetic and environmental factors influencing PGF plasma variability .

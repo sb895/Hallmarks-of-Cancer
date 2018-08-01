@@ -1,0 +1,6 @@
+By using the rat azoxymethane ( AOM)-induced colon carcinogenesis model , which mirrors many clinical features of human colorectal cancer , we examined whether genetic changes occurring early in colonic mucosa are predictive of treatment efficacy .
+In the present study the administration of the chemopreventive agent lupulone over the course of 7 weeks postinitiation reduced the number of preneoplastic lesions in the colonic mucosa by 50% .
+At the molecular level we observed the downregulation of genes involved in the inflammatory response , including IL-1β and TNF-α , and of matrix metalloproteinase-7 gene and protein expression .
+We also observed a substantial upregulation of components of the innate immune system , α-defensin-5 and lipocalin 2 .
+Lupulone induced the expression of apoptosis-related genes and caused a reversal of the B-cell lymphoma/leukemia 2 ( Bcl-2 ; antiapoptotic ) to Bcl-2 associated X protein ( Bax ; proapoptotic ) transcript and protein ratios ( Bcl-2/Bax > 1 in AOM controls and Bcl-2/Bax < 1 in lupulone-treated AOM rats ) .
+Here , we identify several target genes that could be considered early biomarkers of colon carcinogenesis and indicative of drug efficacy .

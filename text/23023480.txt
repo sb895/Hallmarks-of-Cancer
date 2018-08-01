@@ -1,0 +1,12 @@
+Given the important role of CXCR4 in cancer metastasis , microenvironmental factors that modulate CXCR4 may have an impact on the process of tumor expansion .
+Hypoxia is a common feature of solid tumors and a significant microenvironmental factor that drives aggressive behavior .
+CXCR4 is upregulated in several cancer cells under hypoxic conditions , suggesting a relationship between tumor hypoxia and CXCR4 .
+However , the role of hypoxia in regulating CXCR4 in gastric cancer remains poorly understood .
+KATO III gastric cancer cells were exposed to hypoxia or normoxia .
+CXCR4 expression in cells transfected with shRNA specific for HIF-1α was investigated by western blotting and flow cytometry .
+Wound healing , migration and invasion assays were used to assess cell motility and the chemotactic response to CXCL12 , a major CXCR4 ligand .
+CXCR4 expression at the protein level and in the cell membrane was significantly increased in KATOIII cells following exposure to hypoxia .
+This upregulation of CXCR4 was implicated in increased cell motility and enhanced chemotactic responses ( migration and invasion ) to CXCL12 treatment in vitro .
+The increases in CXCR4 expression and metastatic potential in gastric cancer cells exposed to hypoxia were blocked by HIF-1α-specific shRNA .
+Our results indicate that hypoxia upregulates CXCR4 in gastric cancer cells in a HIF-1α-dependent manner , and that upregulation of CXCR4 plays a role in cancer cell migration and invasion .
+Thus , disrupting the hypoxia-HIF-1α-CXCR4 axis could be an attractive therapeutic strategy for the treatment of gastric cancer .

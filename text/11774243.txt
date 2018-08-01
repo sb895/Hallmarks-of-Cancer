@@ -1,0 +1,11 @@
+Adoptive transfer of immunity against hepatitis B surface antigen ( HBsAg ) was previously shown to facilitate suppression of experimental human hepatocellular carcinoma ( HCC ) expressing HBsAg in athymic mice .
+We have shown that oral tolerance induces antigen-specific immune suppression of HBsAg by feeding hepatitis B virus ( HBV ) antigens .
+In the present study we evaluated the effect of oral tolerance induction toward HBV or HCC antigens on the growth of experimental HCC-expressing HBsAg in mice .
+Tolerance induction was induced in mice by 5 oral feedings of 1 microg HBV antigens or HCC-extracted proteins ( 50 microg protein ) before vaccination with recombinant HBsAg .
+Splenocytes ( 2 x 10(6) ) from these mice were transferred to sublethally irradiated athymic BALB/c mice previously transplanted subcutaneously with 10(7) human hepatoma Hep3B cells .
+Adoptive transfer of splenocytes immunized toward HBsAg prevented tumor growth .
+At 4 weeks after splenocyte transplantation , tumor volume and serum alpha-fetoprotein ( AFP ) levels in athymic mice transplanted with splenocytes immunized to HBsAg were undetectable as compared with 1,048 +/- 738 mm(3) and 2,500 +/- 1,431 ng/ml in recipients of na�ve splenocytes ( p < 0.0001 ) .
+Mice receiving splenocytes tolerized toward Hep3B cells , as manifested by reduced serum HBs antibody levels , reduced HBV-specific stimulation index and reduced HBV-specific-IFN gamma spot-forming cells , had early tumor growth evident by elevated AFP serum levels , weight loss and mortality , which were suppressed at 6 weeks .
+Mice transplanted with splenocytes tolerized toward HBV antigens did not have direct evidence of tumor growth .
+Induction of oral tolerance toward HCC-extracted proteins enabled transient tumor growth in this model .
+This effect was mediated through downregulation of the anti-HBV immune response .

@@ -1,0 +1,7 @@
+Melanocyte stimulating hormone ( alpha-MSH , alpha-melanotropin),Ac-Ser-Tyr-Ser-Met-Glu-His-Phe-Arg-Trp-Gly-Ly-Pro-Va l-NH2 , regulates melanogenesis within epidermal melanocytes of many animals .
+An MSH analogue ( [ Nle4,D-Phe7]alpha-MSH ) that exhibits superpotency and prolonged biological activity has been synthesized , biologically characterized , and is presently in clinical trials to determine its possible clinical use in tanning of the skin .
+It also has potential for the diagnosis , localization , and chemotherapy of melanoma .
+The effects of this analogue on the growth , metastatic behavior , and invasive potential of a melanotic variant of Cloudman S-91 murine melanoma are reported here .
+In an intracutaneous murine model of melanoma cell tumor growth , the analogue did not increase primary tumor growth ( size ) after the period of administration of the peptide hormone analogue and did not affect spontaneous lung metastases .
+Survival times for the control and melanotropin-treated groups were similar , suggesting that overall tumor burden was not affected by treatment with the hormone analogue .
+Last , melanoma cell invasion through a human amniotic basement membrane in vitro was not enhanced compared to untreated cells .

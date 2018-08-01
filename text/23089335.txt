@@ -1,0 +1,13 @@
+BACKGROUND : It is unclear whether distinct weight-related trajectory classes , differing in course , demographics , and health characteristics , exist in the elderly population .
+METHODS : Data came from the 10-year ( 1986-1996 ) Duke Established Populations for Epidemiologic Studies of the Elderly study of 3,861 black ( 54% ) and white ( 46% ) participants aged 65-105 years .
+Latent-class trajectories of body mass index ( BMI : kg/m(2) ) based on self-reported weight and height at baseline , 3 , 6 , and 10 years later were determined using generalized mixture models .
+Polytomous logistic regression was used to identify baseline demographic and health characteristics that distinguished the trajectories , and 10-year postbaseline data to confirm the findings .
+RESULTS : We identified three trajectories : normal weight ( BMI 27.6% of the sample ) , overweight ( BMI 65.1% ) , and obese ( BMI 7.3% ) .
+Demographic characteristics distinguished the three trajectories : highest odds of blacks , women , and less education in the obese trajectory , lowest in the normal-weight trajectory .
+Obese and overweight differed adversely from normal-weight trajectories , but not significantly from each other on cognitive impairment , hypertension , and diabetes .
+Depressive symptomatology was more prevalent in the obese ; they were also younger .
+There was no association with cancer or heart disease .
+CONCLUSION : Distinct trajectories and course of BMI were present in this older population .
+Weight loss increased with increase in BMI class .
+Although demographic characteristics distinguished all trajectory classes , adverse health characteristics distinguished the overweight and obese classes from the normal-weight class , but not from each other .
+Problems associated with education and health are present at study entry and should be addressed earlier in life .

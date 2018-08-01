@@ -1,0 +1,9 @@
+Formononetin is a novel herbal isoflavonoid isolated from Astragalus membranaceus , a medicinal plant that possesses antitumorigenic properties .
+Our previous findings demonstrated that formononetin initiates growth-inhibitory and pro-apoptotic activities in human colon cancer cells .
+In the present study , we aimed to further examine the potential of formononetin in controlling angiogenesis and tumor cell invasiveness in human colon cancer cells and tumor xenografts .
+The results showed that formononetin downregulated the expression of the key pro-angiogenic factors , including vascular endothelial growth factor ( VEGF ) and matrix metalloproteinases .
+We also discovered that the invasiveness of metastatic colon cancer cells was alleviated following drug treatment .
+The potential anti-angiogenic effect of formononetin was examined in nude mouse xenografts .
+The tumor size and the number of proliferating cells were reduced in the tumor tissues obtained from the formononetin-treated group .
+The serum VEGF level was also reduced in the drug-treated animals when compared to the controls .
+These findings suggest that formononetin inhibits angiogenesis and tumor cell invasion , and thus support its use in the treatment of advanced and metastatic colon cancers .

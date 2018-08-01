@@ -1,0 +1,4 @@
+We have studied the mutagenic specificity of abasic sites using the yeast oligonucleotides transformation assay .
+We introduced oligonucleotide containing a natural abasic site and a tetrahydrofuran abasic site into Rev1 mutants , rev1AA , which contains mutations of Asp467 and Glu468 residues of Rev1p to Ala in order to inactivate dCMP transferase activity , and rev1 delta , which lacks its whole coding sequence .
+The transformation efficiencies of rev1AA with abasic-containing oligonucleotides were lower than those of B7528 , a strain proficient in REV1 gene , but much higher than rev1 delta mutant .
+Sequence analysis opposite the lesions showed that the mutation spectra were different among these three strains .

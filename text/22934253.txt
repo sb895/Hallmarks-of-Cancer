@@ -1,0 +1,10 @@
+The development of targeted therapies and immunotherapies has markedly advanced the treatment of metastasized melanoma .
+While treatment with selective BRAF(V600E) inhibitors ( like vemurafenib or dabrafenib ) leads to high response rates but short response duration , CTLA-4 blocking therapies induce sustained responses , but only in a limited number of patients .
+The combination of these diametric treatment approaches may further improve survival , but pre-clinical data concerning this approach is limited .
+We investigated , using Tyr::CreER(T2)PTEN(F-/-)BRAF(F-V600E/+) inducible melanoma mice , whether BRAF(V600E) inhibition can synergize with anti-CTLA-4 mAb treatment , focusing on the interaction between the BRAF(V600E) inhibitor PLX4720 and the immune system .
+While PLX4720 treatment strongly decreased tumor growth , it did not induce cell death in BRAF(V600E)/PTEN(-/-) melanomas .
+More strikingly , PLX4720 treatment led to a decreased frequency of tumor-resident T cells , NK-cells , MDSCs and macrophages , which could not be restored by the addition of anti-CTLA-4 mAb .
+As this effect was not observed upon treatment of BRAF wild-type B16F10 tumors , we conclude that the decreased frequency of immune cells correlates to BRAF(V600E) inhibition in tumor cells and is not due to an off-target effect of PLX4720 on immune cells .
+Furthermore , anti-CTLA-4 mAb treatment of inducible melanoma mice treated with PLX4720 did not result in enhanced tumor control , while anti-CTLA-4 mAb treatment did improve the effect of tumor-vaccination in B16F10-inoculated mice .
+Our data suggest that vemurafenib may negatively affect the immune activity within the tumor .
+Therefore , the potential effect of targeted therapy on the tumor-microenvironment should be taken into consideration in the design of clinical trials combining targeted and immunotherapy .

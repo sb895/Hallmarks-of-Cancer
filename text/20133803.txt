@@ -1,0 +1,10 @@
+Class switch recombination ( CSR ) in B lymphocytes is initiated by introduction of multiple DNA double-strand breaks ( DSBs ) into switch ( S ) regions that flank immunoglobulin heavy chain ( IgH ) constant region exons .
+CSR is completed by joining a DSB in the donor S mu to a DSB in a downstream acceptor S region ( e.g. , S gamma1 ) by end-joining .
+In normal cells , many CSR junctions are mediated by classical nonhomologous end-joining ( C-NHEJ ) , which employs the Ku70/80 complex for DSB recognition and XRCC4/DNA ligase 4 for ligation .
+Alternative end-joining ( A-EJ ) mediates CSR , at reduced levels , in the absence of C-NHEJ , even in combined absence of Ku70 and ligase 4 , demonstrating an A-EJ pathway totally distinct from C-NHEJ .
+Multiple DSBs are introduced into S mu during CSR , with some being rejoined or joined to each other to generate internal switch deletions ( ISDs ) .
+In addition , S-region DSBs can be joined to other chromosomes to generate translocations , the level of which is increased by absence of a single C-NHEJ component ( e.g. , XRCC4 ) .
+We asked whether ISD and S-region translocations occur in the complete absence of C-NHEJ ( e.g. , in Ku70/ligase 4 double-deficient B cells ) .
+We found , unexpectedly , that B-cell activation for CSR generates substantial ISD in both S mu and S gamma1 and that ISD in both is greatly increased by the absence of C-NHEJ .
+IgH chromosomal translocations to the c-myc oncogene also are augmented in the combined absence of Ku70 and ligase 4 .
+We discuss the implications of these findings for A-EJ in normal and abnormal DSB repair .

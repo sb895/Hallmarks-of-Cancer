@@ -1,0 +1,13 @@
+There is little understanding of the factors controlling the mobilization of blast cells from bone marrow to peripheral blood and tissues .
+The aim of this study was to evaluate the soluble hepatocyte growth factor ( sHGF ) and vascular endothelial growth factor ( sVEGF ) levels in newly diagnosed patients with acute myeloid leukemia ( AML ) and to correlate these levels with the clinico-pathological features .
+Sixty-three patients with AML and 15 normal controls were included in this study .
+The levels of sHGF and sVEGF were determined by enzyme linked immunosorbent assay at diagnosis and after remission induction chemotherapy .
+Our results revealed significantly increased plasma levels of sHGF and sVEGF at diagnosis when compared to both control and remission levels ( P=0.000 for both ) .
+The sHGF and sVEGF levels differed between AML FAB subtypes ( P=0.000 ) .
+The highest concentrations were found in M5 followed by M4 .
+SHGF and sVEGF were directly correlated with peripheral white cell counts ( WBC ) ( r=0.836 , P=0.000 , r=0.718 ; P=0.000 , respectively ) , but inversely correlated with blast cell distribution ratio ( BCDR ) ( r=-0.785 , P=0.000 , r=-0.664 , P=0.000 , respectively ) .
+Moreover , both sHGF and sVEGF levels were significantly elevated in AML patients with extra-medullary infiltration as compared to those without ( P=0.000 , 0.006 , respectively ) .
+The sHGF but not sVEGF levels were significantly elevated in patients who died compared to those who relapsed and to patients in complete remission ( P=0.02 , 0.08 , respectively ) .
+Logistic regression analysis revealed that the sHGF level at diagnoses is a powerful predictor of the patient outcome , compared to sVEGF .
+In conclusion : our data support the hypothesis that angiogenic factors play a functional role in blast cell movement from the bone marrow to peripheral tissues .
+Assessment of sHGF at AML diagnosis is likely to be helpful in predicting patient outcome and selecting optimal therapeutic regimen .

@@ -1,0 +1,5 @@
+The mammalian COP9 signalosome ( CSN ) complex is involved in cell transformation , but its molecular mechanism remains undetermined .
+Here we show that disruption of the fifth component ( CSN5 ) prevented the formation of tumors by p53-null cells transformed with an active form of Ras in subcutaneously injected mice .
+Depletion of CSN5 suppressed cell proliferation , and induced premature senescence characterized by upregulation of senescence-associated-β-galactosidase activity and increased expression of CDK inhibitors .
+CSN5-depleted cells exhibited enhanced activation of the PI3 kinase-Akt pathway , and chemical inhibition of this pathway reduced the level of senescence .
+Thus , CSN5 is suggested to be a novel target in cancer therapy and for drugs against tumor cells harboring mutated p53 .

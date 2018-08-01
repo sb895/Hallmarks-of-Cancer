@@ -1,0 +1,6 @@
+BACKGROUND Breast cancer is less common in China than in the United States and perinatal characteristics predict breast cancer risk in the offspring .
+We determined levels of pregnancy hormones in Boston and Shanghai to identify those possibly involved in the intrauterine origin of breast cancer .
+Participants and methods : We compared maternal and cord blood levels of estradiol , estriol , testosterone , progesterone , prolactin , insulin-like growth factors ( IGF ) 1 and 2 , insulin-like growth factor-binding protein 3 , adiponectin and sex hormone-binding globulin ( SHBG ) in 241 Caucasian and 295 Chinese women .
+RESULTS In both centers , hormone levels at the 16th were predictive of those at the 27th gestational week , but there was little correlation between maternal and cord blood levels .
+In cord blood , we found significantly ( P < 0.01 ) higher levels of estradiol ( 44.2% ) , testosterone ( 54.5% ) , IGF-2 ( 22.7% ) and strikingly SHBG ( 104.6% ) in Shanghai women , whereas the opposite was true for IGF-1 ( -36.8% ) .
+CONCLUSIONS Taking into account the current understanding of the plausible biological role of the examined endocrine factors , those likely to be involved in the intrauterine origin of breast cancer are SHBG and IGF-2 , with higher cord blood levels among Chinese , and IGF-1 , with higher cord blood levels among Caucasian women .

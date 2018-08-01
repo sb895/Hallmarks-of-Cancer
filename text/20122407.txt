@@ -1,0 +1,6 @@
+Homologous recombination ( HR ) is essential for repair of meiotic DNA double-strand breaks ( DSBs ) .
+Although the mechanisms of RAD-51-DNA filament assembly and strand exchange are well characterized , the subsequent steps of HR are less well defined .
+Here , we describe a synthetic lethal interaction between the C. elegans helicase helq-1 and RAD-51 paralog rfs-1 , which results in a block to meiotic DSB repair after strand invasion .
+Whereas RAD-51-ssDNA filaments assemble at meiotic DSBs with normal kinetics in helq-1 , rfs-1 double mutants , persistence of RAD-51 foci and genetic interactions with rtel-1 suggest a failure to disassemble RAD-51 from strand invasion intermediates .
+Indeed , purified HELQ-1 and RFS-1 independently bind to and promote the disassembly of RAD-51 from double-stranded , but not single-stranded , DNA filaments via distinct mechanisms in vitro .
+These results indicate that two compensating activities are required to promote postsynaptic RAD-51 filament disassembly , which are collectively essential for completion of meiotic DSB repair .

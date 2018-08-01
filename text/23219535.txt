@@ -1,0 +1,6 @@
+The EGF-stimulated ERK/MAPK pathway is a key conduit for cellular proliferation signals and a therapeutic target in many cancers .
+Here , we characterize two central quantitative aspects of this pathway : the mechanism by which signal strength is encoded and the response curve relating signal output to proliferation .
+Under steady-state conditions , we find that ERK is activated in discrete , asynchronous pulses with frequency and duration determined by extracellular concentrations of EGF spanning the physiological range .
+In genetically identical sister cells , cell-to-cell variability in pulse dynamics influences the decision to enter S phase .
+While targeted inhibition of EGFR reduces the frequency of ERK activity pulses , inhibition of MEK reduces their amplitude .
+Continuous response curves measured in multiple cell lines reveal that proliferation is effectively silenced only when ERK pathway output falls below a threshold of indicating that high-dose targeting of the pathway is necessary to achieve therapeutic efficacy .

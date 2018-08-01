@@ -1,0 +1,10 @@
+UNLABELLED BACKGROUND We aimed to develop a mouse spontaneous liver metastasis model from an orthotopically implanted human colon cancer cell line stably expressing a human sodium/iodide symporter ( NIS ) reporter gene , which can be imaged with single-photon emission computed tomography ( SPECT ) using 99mTcO4- .
+METHODS A recombinant plasmid containing a constitutively driven NIS gene ( pcDNA3-NIS ) was transfected into the human colon cancer cell line HCT116 , and stable cell lines were established .
+The stable cells were subcutaneously injected into the nude mice .
+When the diameter reached 10 mm , the xenografts were excised , cut into small fragments , and orthotopically implanted into the cecal walls of another nude mice. 99mTcO4- SPECT/CT imaging was initiated 8 weeks later and repeated every 1 to 2 weeks .
+RESULTS The production and function of NIS protein was confirmed in vitro by Western blotting and 99mTcO4- uptake assay .
+On SPECT/CT imaging , focal 99mTcO4- uptake was detected in the liver .
+Necropsy revealed local growth of the orthotopic colon xenografts with extensive invasion , microscopic serosal metastasis , and metastatic foci in the corresponding hepatic regions showing focal 99mTcO4- uptake .
+Immunohistochemistry revealed high levels of NIS expression in cells forming liver tumor , indicating that the liver tumor cells originated from the orthotopic colon xenografts .
+CONCLUSIONS The present proof-of-concept study provided a rationale for employing a radionuclide reporter gene for the specific visualization of spontaneous liver metastasis in living mice .
+This unique animal model of clinically relevant and externally detectable liver metastasis will be a powerful tool for investigating tumor biology and developing novel therapies for cancer metastasis .

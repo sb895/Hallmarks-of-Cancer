@@ -1,0 +1,10 @@
+Here , we investigated the compartment-specific role of cell cycle arrest and senescence in breast cancer tumor growth .
+For this purpose , we generated a number of hTERT-immortalized senescent fibroblast cell lines overexpressing CDK inhibitors , such as p16(INK4A) , p19(ARF) or p21(WAF1/CIP1) .
+Interestingly , all these senescent fibroblast cell lines showed evidence of increased susceptibility toward the induction of autophagy ( either at baseline or after starvation ) , as well as significant mitochondrial dysfunction .
+Most importantly , these senescent fibroblasts also dramatically promoted tumor growth ( up to without any comparable increases in tumor angiogenesis .
+Conversely , we generated human breast cancer cells ( MDA-MB-231 cells ) overexpressing CDK inhibitors , namely p16(INK4A) or p21(WAF1/CIP1) .
+Senescent MDA-MB-231 cells also showed increased expression of markers of cell cycle arrest and autophagy , including β-galactosidase , as predicted .
+Senescent MDA-MB-231 cells had retarded tumor growth , with up to a near 2-fold reduction in tumor volume .
+Thus , the effects of CDK inhibitors are compartment-specific and are related to their metabolic effects , which results in the induction of autophagy and mitochondrial dysfunction .
+Finally , induction of cell cycle arrest with specific inhibitors ( PD0332991 ) or cellular stressors [ hydrogen peroxide ( H(2)O(2) ) or starvation ] indicated that the onset of autophagy and senescence are inextricably linked biological processes .
+The compartment-specific induction of senescence ( and hence autophagy ) may be a new therapeutic target that could be exploited for the successful treatment of human breast cancer patients .

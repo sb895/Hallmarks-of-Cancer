@@ -1,0 +1,11 @@
+BACKGROUND The importance of cell-surface nucleolin in cancer biology was recently highlighted by studies showing that ligands of nucleolin play critical role in tumorigenesis and angiogenesis .
+By using a specific antagonist that binds the C-terminal tail of nucleolin , the HB-19 pseudopeptide , we recently reported that HB-19 treatment markedly suppressed the progression of established human breast tumor cell xenografts in the athymic nude mice without apparent toxicity .
+METHODS The in vivo antitumoral action of HB-19 treatment was assessed on the spontaneous development of melanoma in the RET transgenic mouse model .
+Ten days old RET mice were treated with HB-19 in a prophylactic setting that extended 300 days .
+In parallel , the molecular basis for the action of HB-19 was investigated on a melanoma cell line ( called TIII ) derived from a cutaneous nodule of a RET mouse .
+RESULTS HB-19 treatment of RET mice caused a significant delay in the onset of cutaneous tumors , several-months delay in the incidence of large tumors , a lower frequency of cutaneous nodules , and a reduction of visceral metastatic nodules while displaying no toxicity to normal tissue .
+Moreover , microvessel density was significantly reduced in tumors recovered from HB-19 treated mice compared to corresponding controls .
+Studies on the melanoma-derived tumor cells demonstrated that HB-19 treatment of TIII cells could restore contact inhibition , impair anchorage-independent growth , and reduce their tumorigenic potential in mice .
+Moreover , HB-19 treatment caused selective down regulation of transcripts coding matrix metalloproteinase 2 and 9 , and tumor necrosis factor-alpha in the TIII cells and in melanoma tumors of RET mice .
+CONCLUSIONS Although HB-19 treatment failed to prevent the development of spontaneous melanoma in the RET mice , it delayed for several months the onset and frequency of cutaneous tumors , and exerted a significant inhibitory effect on visceral metastasis .
+Consequently , HB-19 could provide a novel therapeutic agent by itself or as an adjuvant therapy in association with current therapeutic interventions on a virulent cancer like melanoma .

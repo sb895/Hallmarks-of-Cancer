@@ -1,0 +1,8 @@
+We have investigated the cytotoxic activity , the induction of apoptosis , and the interstrand cross-linking efficiency in the A2780cisR ovarian tumor cell line , after replacement of the two NH3 nonleaving groups in trans-[PtCl2(NH3)2] ( trans-DDP ) by dimethylamine and isopropylamine .
+The data show that trans-[PtCl2(NH(CH)2)(NHCH(CH3)2)] is able to circumvent resistance to cis-[PtCl2(NH3)2] ( cis-DDP , cisplatin ) in A2780cisR cells .
+In fact , trans-[PtCl2(NH(CH3)2)(NHCH(CH3)2)] shows a cytotoxic potency higher than that of cis-DDP and trans-DDP , with the mean IC50 values being 11 , 58 , and 300 microM , respectively .
+In addition , at equitoxic doses ( concentrations of the platinum drugs equal to their IC50 values ) and after 24 hours of drug treatment , the level of induction of apoptosis by trans-[PtCl2(NH(CH3)2)(NHCH(CH3)2)] is twice that produced by cis-DDP .
+Under the same experimental conditions , trans-DDP does not induce significant levels of apoptosis in A2780cisR cells .
+After 24 hours of incubation of A2780cisR cells at concentrations equal to the IC0o value of the platinum drugs , the level of DNA interstrand cross-links ( ICLs ) induced by trans-[PtCI2(NH(CH)2)(NHCH(CH3)] is two and three times higher , respectively , than those induced by cis-DDP and trans-DDP .
+We also found that trans-[PtCl2(NH(CH3)2)(NHCH(CH3)2)] formed DNA ICLs between guanine and complementary cytosine .
+We propose that , in A2780cisR cells , the induction of apoptosis by trans-[PtCl2(NH(CH3)2)(NHCH(CH3)2)] is related to its greater ability ( relative to cis-DDP and trans-DDP ) to form DNA ICLs .

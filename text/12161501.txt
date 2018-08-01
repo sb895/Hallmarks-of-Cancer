@@ -1,0 +1,8 @@
+We investigated the direct effects of LH-releasing hormone ( LH-RH ) antagonist , Cetrorelix , on the growth of HTOA human epithelial ovarian cancer cell line .
+RT-PCR revealed the expression of mRNA for LH-RH and its receptor in HTOA cells .
+Cetrorelix , at concentrations between 10(-9) and 10(-5) M , exerted a dose-dependent antiproliferative action on HTOA cells , as measured by 5-bromo-2'-deoxyuridine incorporation into DNA .
+Flow cytometric analysis indicated that Cetrorelix , at 10(-5) M , arrested cell cycle in HTOA cells , at G1 phase , after 24 h of treatment .
+Western blot analysis of cell cycle-regulatory proteins demonstrated that treatment with Cetrorelix ( 10(-5) M ) for 24 h did not change the steady-state levels of cyclin D1 , cyclin E , and cyclin-dependent kinase ( Cdk)4 but decreased the levels of cyclin A and Cdk2 .
+The protein levels of p21 ( a Cdk inhibitor ) and p53 ( a suppressor of tumor cell growth and a positive regulator for p21 expression ) were increased by Cetrorelix , but the levels of p27 ( a Cdk inhibitor ) did not change significantly .
+Flow cytometric analysis and terminal deoxynucleotidyltransferase-mediated deoxyuridine 5-triphosphate nick end labeling staining demonstrated that Cetrorelix ( 10(-5) M ) induced apoptosis in HTOA cells .
+In conclusion , Cetrorelix directly inhibits the proliferation of human epithelial ovarian cancer cells through mechanisms mediated by LH-RH receptor and involving multiple events in cell cycle progression , including G1 phase cell cycle arrest coupled with down-regulation of cyclin A-Cdk2 complex levels , presumably attributable to an up-regulation of p53 and p21 protein levels and apoptosis .

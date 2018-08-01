@@ -1,0 +1,7 @@
+Our previous study demonstrated that 5-aminolevulinic acid ( ALA ) administered to mice stimulates oxidative phosphorylation by upregulation of the mitochondrial respiratory chain complex IV enzyme cytochrome c oxidase ( COX ) .
+The present study investigated whether ALA disrupts the Warburg effect , which represents a shift in ATP generation from oxidative phosphorylation to glycolysis , protecting tumor cells against oxidative stress-mediated apoptosis .
+The human lung carcinoma cell line A549 exposed to ALA exhibited enhanced oxidative phosphorylation , which was indicated by an increase in COX protein expression and oxygen consumption .
+Furthermore , ALA suppressed glycolysis-mediated acidosis .
+This normalization of the ATP metabolic pathways significantly increased the generation of superoxide anion radical ( O2\u2022- ) and the functional expression of active caspase-3 , leading to caspase-dependent apoptosis .
+These data demonstrate that ALA inhibits the Warburg effect and induces cancer cell death .
+Use of this endogenous compound might constitute a novel approach to cancer therapy .

@@ -1,0 +1,8 @@
+Molecular dynamics ( MD ) simulations of the single-stranded DNA trinucleotide TG*G* , with the G* guanines crosslinked by the antitumor drug cisplatin , were performed with explicit representation of the water as solvent .
+The purpose of the simulations was to explain previous NMR observations indicating that in single-stranded cisplatin-DNA adducts , the crosslinked guanines adopt a left-handed helical orientation , whereas in duplexes , the orientation is right-handed .
+The analysis of the MD trajectory of TG*G* has ascribed a crucial role to hydrogen-bonding ( direct or through-water ) interactions of the 5'-oriented NH(3) ligand of platinum with acceptor groups at the 5'-side of the crosslink , namely the TpG* phosphate and the terminal 5'-OH group .
+These interactions bring about some strain into the trinucleotide which is slightly but significantly ( 1-1.5 kcal.mol(-1) ) higher for the right-handed orientation than for the left-handed one .
+During the unconstrained , 3 ns long MD simulation , left-handed conformations were times more abundant than the right-handed ones .
+This sampling difference agrees roughly with the calculated energy difference in strain energy .
+Overall , these results show that the Pt-GG crosslink within single-stranded DNA is malleable and can access different conformations at a moderate energy cost .
+This malleability could be of importance in interactions between the platinated DNA and cellular proteins , in which the DNA is locally unwound .

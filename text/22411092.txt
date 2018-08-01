@@ -1,0 +1,18 @@
+BACKGROUND Cancer of the thyroid gland is rare in children and adolescents .
+A history of neck irradiation is a well-established risk factor for tumor development , and most previous reports focused on cases that were induced by radiation exposure .
+We present here a retrospective review of the clinical features , treatment , and long-term outcome of children and adolescents with papillary thyroid cancer ( PTC ) without a history of radiation exposure who were treated at our institution over a period of METHODS We retrospectively investigated 142 PTC patients without an irradiation history who were younger than 20years of age when treated from 1961 to 2005 ( 17 males and 125 females ; mean age=16.3±2.7years ; follow-up=21.8±12.0years ) .
+The clinicopathological results were evaluated using the medical records .
+Disease-free survival ( DFS ) and cause-specific survival ( CSS ) were assessed with the Kaplan-Meier method and compared with the log-rank test .
+Parametric analyses were performed using Student's t test and nonparametric analyses were performed using the Mann-Whitney U test .
+RESULTS At diagnosis , three patients had distant lung metastasis and 33 had gross neck lymph node ( LN ) metastasis .
+All patients were treated with surgery ( hemi/partial thyroidectomy in 45 patients , subtotal thyroidectomy in 85 , total thyroidectomy in 12 , no LN dissection in 50 , central compartment dissection in 20 , and modified radical neck dissection in 72 ) , and postoperative external beam radiation therapy was administered to 59 .
+Postoperative ablative therapy using I(131) was not performed in this series .
+Recurrence was found for regional LN ( n=25 ) , lung ( n=9 ) , remnant thyroid ( n=5 ) , and others ( n=4 ) .
+DFS and CSS at 40years were 74.1 and 97.5% , respectively .
+DFS was significantly worse in patients aged <16years with a family history of thyroid cancer , preoperative neck gross LN metastasis , maximum tumor diameter , and extrathyroidal invasion .
+Preoperative gross neck LN metastasis and distant metastasis at diagnosis were significant factors for CSS .
+No other factors contributed to DFS and CSS .
+When the clinical features of children and adolescents were compared , the incidence of preoperative gross neck LN metastasis and distant metastasis at diagnosis and tumors with a maximum diameter >10mm were significantly higher in the children group than in the adolescent group .
+DFS was significantly shorter in the children group than in the adolescent group , but no significant difference was found in CSS between these two groups .
+CONCLUSIONS The prognosis of PTC in children and adolescents is excellent , regardless of the extent of thyroidectomy and LN dissection .
+We recommend that only children or adolescents with preoperative gross neck LN metastasis and distant metastasis at diagnosis should be subjected to postoperative ablative therapy .

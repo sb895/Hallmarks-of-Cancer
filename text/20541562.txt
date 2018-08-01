@@ -1,0 +1,9 @@
+Infection by Opisthorchis viverrini , a risk factor for cholangiocarcinoma ( CCA ) may act through chronic inflammation , oxidative stress and lipid peroxidation ( LPO)-related damage and growth stimuli. 1,N6-etheno-2'-deoxyadenosine ( epsilondA ) , and 3,N4-etheno-2'-deoxycytidine ( epsilondC ) , markers for LPO-derived DNA damage were highly increased in white blood cell and urine of O. viverrini-infected Thai patients .
+In order to investigate tissue specificity etheno adducts were measured in a cholangiocarcinogenesis model , in O. viverrini-infected hamsters that had received N-nitrosodimethylamine ( NDMA , 12.5 ppm in dw ) for 2 months. epsilondA- and epsilondC-levels were analyzed in paraffin-embedded liver sections by a novel immunohistochemical method , from 21 up to 180 days post-O. viverrini-infection .
+In inflamed areas of the liver , etheno adducts were localized in the nuclei of inflammatory cells and in the epithelial lining of the bile duct .
+Semi-quantitative image analysis showed higher adduct levels in the liver of O. viverrini-infected hamsters , treated with or w/o NDMA when compared with untreated controls .
+Levels were found highest in the liver of O. viverrini-infected plus NDMA-treated hamsters .
+Adducts increased in an age-dependent manner from O. viverrini-infection until CCA development .
+Increased adduct formation paralleled histopathological changes in plasma alkaline phosphatase ( ALP ) activity , bile duct hyperplasia , dysplasia , precancerous lesions , and CCA appearance .
+Also elevated expression of alkyladenine DNA glycosylase ( AAG ) , which excises 1,N6-ethenoadenine ( epsilonA ) was linked to higher adduct formation , suggesting imbalanced repair .
+Our results implicate accumulation of inflammation-related , promutagenic DNA damage in target tissue and possibly imbalanced repair in the onset of cholangiocarcinogenesis .

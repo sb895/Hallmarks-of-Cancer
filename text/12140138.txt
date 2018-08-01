@@ -1,0 +1,14 @@
+Epidemiological studies have indicated that females may be at greater risk of smoking associated lung cancer compared with males .
+Several lines of biochemical evidence support these observations .
+A possible role of circulating steroid hormones in the etiology of lung cancer has been hypothesized .
+In the present paper , we have studied the expression of the estrogen receptors ( ER)-alpha and ER beta in histologically normal human lung tissue and lung tumor cell lines .
+Relative ER mRNA levels were measured by reverse transcriptase-PCR and normalized to the level of expression of the glyceraldehyde 3-phosphate dehydrogenase gene ( GAPDH ) .
+In lung tissue , an ER alpha transcript was found at various levels in 38 out of 46 cases ( 83% ) .
+ER beta was expressed in all cases .
+The ERs were expressed at similar levels in females and males , and the levels of ER alpha and ER beta mRNA were significantly related ( P<0.0001 ) .
+Compared with the lung tissue , ER expression levels were lower in 16 human lung tumor cell lines and two immortalized human bronchial epithelial cell lines .
+Five of the tumor cell lines ( 31% ) expressed detectable levels of ER alpha and both of the immortalized cell lines showed a weak ER alpha expression level .
+All cell lines expressed the ER beta .
+The lung cell lines BEAS-2B and DB354 showed significantly reduced cell proliferation in response to tamoxifen and a minor increased growth in response to 17 beta-estradiol .
+In conclusion , ER genes are abundantly expressed in both histologically normal human lung and lung tumor cell lines .
+This indicates a possible role of ERs in lung carcinogenesis .

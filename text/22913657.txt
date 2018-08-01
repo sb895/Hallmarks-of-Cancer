@@ -1,0 +1,9 @@
+Hesperetin , a flavonoid from citrus fruits , has several bioactivities such as anti-inflammatory , antihypertensive , antiatherogenic effects .
+However , studies elucidating the role and the mechanism(s) of action of hesperetin in cervical cancer are sparse .
+In this study , we investigated the mechanism of the antiproliferative and apoptotic actions exerted by hesperetin on human cervical cancer SiHa cells .
+The viability of SiHa cells was evaluated using the MTT assay , apoptosis by acridine orange/ethidium bromide , propidium iodide , TUNEL assay , and Annexin V-Cy3 , cell cycle distribution and mitochondrial transmembrane potential using flow cytometry , and apoptotic marker genes using quantitative real-time PCR .
+The treatment of SiHa cells with hesperetin ( IC(50,) 650μm ) showed a marked concentration- and time-dependent inhibition of proliferation and induced the G2/M phase in a dose-dependent manner after 24h .
+There was an attenuation of mitochondrial membrane potential with increased expression of caspase-3 , caspase-8 , caspase-9 , p53 , Bax , and Fas death receptor and its adaptor protein Fas-associated death domain-containing protein ( FADD ) , indicating the participation of both death receptor- and mitochondria-related mechanisms .
+Furthermore , hesperetin-induced apoptosis was confirmed by TUNEL and Annexin V-Cy3 .
+This study shows that hesperetin exhibits a potential anticancer activity against human cervical cancer cell lines in vitro through the reduction in cell viability and the induction of apoptosis .
+Altogether , these data sustain our contention that hesperetin has anticancer properties and merits further investigation as a potential therapeutic agent .

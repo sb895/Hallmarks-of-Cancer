@@ -1,0 +1,8 @@
+BACKGROUND The receptor tyrosine kinase family includes many transmembrane proteins with diverse physiological and pathophysiological functions .
+The involvement of tyrosine kinase signaling in promoting a more aggressive tumor phenotype within the context of chemotherapeutic evasion is gaining recognition .
+The Ron receptor is a tyrosine kinase receptor that has been implicated in the progression of breast cancer and evasion of tamoxifen therapy .
+RESULTS Here , we report that Ron expression is correlated with in situ , estrogen receptor alpha ( ERα)-positive tumors , and is higher in breast tumors following neoadjuvant tamoxifen therapy .
+We also demonstrate that the majority of mammary tumors isolated from transgenic mice with mammary specific-Ron overexpression ( MMTV-Ron mice ) , exhibit appreciable ER expression .
+Moreover , genetic-ablation of ERα , in the context of Ron overexpression , leads to delayed mammary tumor initiation and growth , but also results in an increased metastasis .
+CONCLUSIONS Ron receptor overexpression is associated with ERα-positive human and murine breast tumors .
+In addition , loss of ERα on a Ron overexpressing background in mice leads to the development of breast tumors which grow slower but which exhibit more metastasis and suggests that targeting of ERα , as in the case of tamoxifen therapy , may reduce the growth of Ron overexpressing breast cancers but may cause these tumors to be more metastatic .

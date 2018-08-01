@@ -1,0 +1,6 @@
+Semiconductor nanoparticles ( NPs ) became important and wide-used tool for cell imaging because of their unique remarkable properties .
+Nevertheless , all previous investigations in this area were done on proliferating cells .
+For the first time , this work demonstrates strong influence of cell active proliferation/contact inhibition of proliferation on uptake of NPs .
+In addition , we show that cell division plays key-role in penetration of silicon carbide based NPs ( SiC NPs ) inside the cell nucleus .
+This may very likely concern other types of NPs able to reach the cell nuclei .
+In particular , observed effect of cell division gives perspectives for future selective cancer treatment with NPs .

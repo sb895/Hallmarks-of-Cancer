@@ -1,0 +1,6 @@
+Proliferator-activated receptor gamma ( PPARgamma ) is a nuclear receptor , which mainly associates with adipogenesis , but also appears to facilitate cell differentiation or apoptosis in certain malignant cells .
+This apoptosis induction by PPARgamma is increased by co-stimulation with tumor necrosis factor ( TNF)-alpha-related apoptosis-inducing ligand ( TRAIL ) , a member of the TNF family .
+In this study , we investigated the effect of PPARgamma on Fas-mediated apoptosis in hepatocellular carcinoma ( HCC ) cell lines .
+PPARgamma was expressed on all seven HCC cell lines and located in their nuclei. 15-Deoxy-Delta-12,14-prostaglandin J2 ( 15d- PGJ2 ) , a PPARgamma ligand , inhibited cellular proliferation in HepG2 , SK-Hep1 or HLE cells , unlike pioglitazone , another PPARgamma ligand , which did not have a significant influence on proliferation of these cells .
+However , 15d-PGJ2 facilitated Fas-mediated HCC apoptosis that could not be induced by Fas alone .
+These results suggest that PPARgamma can augment TNF-family-induced apoptosis .

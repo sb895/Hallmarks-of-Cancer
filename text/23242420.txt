@@ -1,0 +1,11 @@
+Calcium ( Ca(2+) ) signals are involved in important checkpoints in cell death pathways and promote both apoptosis and autophagy .
+However , the relationship between autophagy and apoptosis in response to Ca(2+) level elevation is poorly understood .
+Here , we provided evidence that the influx of extracellular Ca(2+) triggered by Trichokonin VI ( TK VI ) , an antimicrobial peptide , induced calpain-dependent apoptosis and autophagy in hepatocellular carcinoma ( HCC ) cells .
+Remarkably , TK VI preferentially induced apoptosis that was associated with calpain-mediated Bax and Atg5 cleavage , which resulted in the collapse of the mitochondrial membrane potential and cytochrome c release .
+Interestingly , truncated , but not full-length Atg5 , associated with Bcl-xL and promoted the intrinsic pathway .
+Moreover , TK VI treatment induced reactive oxygen species ( ROS ) accumulation , an effect in which Bak might play a major role .
+This accumulation of ROS resulted in the subsequent disposal of damaged mitochondria within autophagosomes via Atg5-mediated and mitochondria-selective autophagy .
+Both the inhibition of calpain activity and Bax deficiency activated a switch that promoted an enhancement of autophagy .
+The inhibition of both apoptosis and autophagy significantly attenuated the TK VI cytotoxicity , indicating that the two processes had stimulatory effects during TK VI-meditated cell death .
+These results suggested that calpain , Bak and Atg5 were molecular links between autophagy and apoptosis and revealed novel aspects of the crosstalk between these two processes .
+The potential of TK VI is proposed as a promising anticancer agent for its well-characterized activity of Ca(2+) agonist and as a possible novel therapeutic strategy that acts on cancer cell mitochondria .

@@ -1,0 +1,7 @@
+Aerobic glycolysis and mitochondrial dysfunction are common features of aggressive cancer growth .
+We observed promoter methylation and loss of expression in neurofilament heavy polypeptide ( NEFH ) in a significant proportion of primary esophageal squamous cell carcinoma ( ESCC ) samples that were of a high tumor grade and advanced stage .
+RNA interference-mediated knockdown of NEFH accelerated ESCC cell growth in culture and increased tumorigenicity in vivo , whereas forced expression of NEFH significantly inhibited cell growth and colony formation .
+Loss of NEFH caused up-regulation of pyruvate kinase-M2 type and down-regulation of pyruvate dehydrogenase , via activation of the Akt/beta-catenin pathway , resulting in enhanced aerobic glycolysis and mitochondrial dysfunction .
+The acceleration of glycolysis and mitochondrial dysfunction in NEFH-knockdown cells was suppressed in the absence of beta-catenin expression , and was decreased by the treatment of 2-Deoxyglucose , a glycolytic inhibitor , or API-2 , an Akt inhibitor .
+Loss of NEFH activates the Akt/beta-catenin pathway and increases glycolysis and mitochondrial dysfunction .
+Cancer cells with methylated NEFH can be targeted for destruction with specific inhibitors of deregulated downstream pathways .

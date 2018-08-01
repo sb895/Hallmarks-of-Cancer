@@ -1,0 +1,8 @@
+The epidermal growth factor receptor ( EGFR ) is a member of the HER family receptors and its activation induced by its natural ligand EGF results in colon cancer growth and progression .
+Panitumumab ( pmAb ) is a fully human IgG2 anti-EGFR antibody that blocks the EGFR actions .
+In the present study , we evaluated the effects of pmAb on the EGF-mediated cellular responses in a panel of colon cancer cells ( HCT-8 , HT-29 , DLD-1 and HCT-116 ) .
+HCT-1116 and DLD-1 cells showed no significant EGF-dependent cell proliferation ; HT-29 and HCT-8 exhibited an EGF-dependent proliferation , with HCT-8 cells to be the most responsive with significant EGFR phosphorylation upon treatment with EGF .
+The effects of pmAb were then evaluated in the most EGF-responsive cells , HCT-8 .
+In that respect , pmAb impedes the signaling cascade mediated by EGFR intracellular phosphorylation and activity of focal adhesion kinase ( FAK ) as well as the EGF-induced invasive and migratory potential of colon cancer cells .
+At the level of matrix effectors implicated in colon cancer progression we report that pmAb is a potent inhibitor of constitute and EGF-mediated gene expression of certain matrix effectors , such as membrane-type 1 metalloproteinase ( MT1-MMP ) , extracellular metalloproteinases inducer ( EMMPRIN ) , urokinase plasminogen activator ( uPA ) and syndecan-4 .
+The obtained data demonstrated that pmAb is a specific blocker of EGF-mediated EGFR activation , resulting in a significant inhibition of colon cancer cell proliferation in early stages of growth , migration and invasiveness as well as of matrix effector implicated in cancer progression .

@@ -1,0 +1,8 @@
+We have developed fluorescent probes for the detection of strand scission in the excision repair of oxidatively damaged bases .
+They were hairpin-shaped oligonucleotides , each containing an isomer of thymine glycol or 5,6-dihydrothymine as a damaged base in the center , with a fluorophore and a quencher at the 5'- and 3'-ends , respectively .
+Fluorescence was detected when the phosphodiester linkage at the damage site was cleaved by the enzyme , because the short fragment bearing the fluorophore could not remain in a duplex form hybridized to the rest of the molecule at the incubation temperature .
+The substrate specificities of Escherichia coli endonuclease III and its human homolog , NTH1 , determined by using these probes agreed with those determined previously by gel electrophoresis using ( 32)P-labeled substrates .
+Kinetic parameters have also been determined by this method .
+Since different fluorophores were attached to the oligonucleotides containing each lesion , reactions with two types of substrates were analyzed separately in a single tube , by changing the excitation and detection wavelengths .
+These probes were degraded during an incubation with a cell extract .
+Therefore , phosphorothioate linkages were incorporated to protect the probes from nonspecific nucleases , and the base excision repair activity was successfully detected in HeLa cells .

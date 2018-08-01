@@ -1,0 +1,14 @@
+Hepatocellular carcinoma ( HCC ) is the most prevalent liver tumor and a deadly disease with limited therapeutic options .
+Dysregulation of cell signaling pathways is a common denominator in tumorigenesis , including hepatocarcinogenesis .
+The epidermal growth factor receptor ( EGFR ) signaling system is commonly activated in HCC , and is currently being evaluated as a therapeutic target in combination therapies .
+We and others have identified a central role for the EGFR ligand amphiregulin ( AR ) in the proliferation , survival and drug resistance of HCC cells .
+AR expression is frequently up-regulated in HCC tissues and cells through mechanisms not completely known .
+Here we identify the β-catenin signaling pathway as a novel mechanism leading to transcriptional activation of the AR gene in human HCC cells .
+Activation of β-catenin signaling , or expression of the T41A β-catenin active mutant , led to the induction of AR expression involving three specific β-catenin-Tcf responsive elements in its proximal promoter .
+We demonstrate that HCC cells expressing the T41A β-catenin active mutant show enhanced proliferation that is dependent in part on AR expression and EGFR signaling .
+We also demonstrate here a novel cross-talk of the EGFR system with fibroblast growth factor 19 ( FGF19 ) .
+FGF19 is a recently identified driver gene in hepatocarcinogenesis and an activator of β-catenin signaling in HCC and colon cancer cells .
+We show that FGF19 induced AR gene expression through the β-catenin pathway in human HCC cells .
+Importantly , AR up-regulation and EGFR signaling participated in the induction of cyclin D1 and cell proliferation elicited by FGF19 .
+Finally , we demonstrate a positive correlation between FGF19 and AR expression in human HCC tissues , therefore supporting in clinical samples our experimental observations .
+These findings identify the AR/EGFR system as a key mediator of FGF19 responses in HCC cells involving β-catenin signaling , and suggest that combined targeting of FGF19 and AR/EGFR may enhance therapeutic efficacy .

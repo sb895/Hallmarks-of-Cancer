@@ -1,0 +1,8 @@
+Ubiquitylation is a reversible post-translational modification that has emerged as a key regulator of most complex cellular processes .
+It may rival phosphorylation in scope and exceed it in complexity .
+The dynamic nature of ubiquitylation events is important for governing protein stability , maintaining ubiquitin homeostasis and controlling ubiquitin-dependent signalling pathways .
+The human genome encodes active deubiquitylating enzymes ( DUBs , also referred to as deubiquitinases ) , which exhibit distinct specificity profiles towards the various ubiquitin chain topologies .
+As a result of their ability to reverse ubiquitylation , these enzymes control a broad range of key cellular processes .
+In this Commentary we discuss the cellular functions of DUBs , such as their role in governing membrane traffic and protein quality control .
+We highlight two key signalling pathways--the Wnt and transforming growth factor \u03b2 ( TGF-\u03b2 ) pathways , for which dynamic ubiquitylation has emerged as a key regulator .
+We also discuss the roles of DUBs in the nucleus , where they govern transcriptional activity and DNA repair pathways .

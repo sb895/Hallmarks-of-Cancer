@@ -1,0 +1,4 @@
+Using standard culture conditions , primary human mammary epithelial cells ( HMECs ) undergo a premature , transient growth arrest termed M0 ( mortality stage 0 ) after 10-15 population doublings in vitro .
+It has been reported that emergence from this growth arrest by the abrogation of p16(INK4a) , a cyclin-dependent kinase inhibitor , and expression of the catalytic component of human telomerase ( hTERT ) are necessary for HMEC immortalization .
+Here we show that primary HMECs , grown on feeder layers , do not undergo this growth arrest and can be immortalized without abrogating p16 .
+These findings support the concept that the so-called M0 stage represents a cell culture stress-induced growth arrest and that hTERT is sufficient to immortalize HMECs when cultured under adequate conditions .

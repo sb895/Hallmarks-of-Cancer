@@ -1,0 +1,7 @@
+Multiple myeloma ( MM ) is classically illustrated by a desynchronized cytokine system with rise in inflammatory cytokines .
+There are recent reports which emphasized the potential role of angiogenesis in the development of MM. Role of cyclooxygenase 2 ( COX-2 ) is well documented in the pathogenesis of solid tumors , but little is known about its occurrence and function in hematologic neoplasms .
+Involvement of neoangiogenesis is reported in the progression of MM , and angiopoietins probably contribute to this progression by enhancing neovascularization .
+Circulatory and mRNA levels of angiogenic factors and cyclooxygenase were determined in 125 subjects ( 75 MM patients and 50 healthy controls ) by using enzyme-linked immunosorbent assay and quantitative PCR .
+We observed significant increase for angiogenic factors ( Ang-1 , Ang-2 , hepatocyte growth factor , and vascular endothelial growth factor ) and cyclooxygenase at circulatory level , as well as at mRNA level , as compared to healthy controls except insignificant increase for Ang-1 at circulatory level .
+We have also observed the significant positive correlation of all angiogenic factors with cyclooxygenase .
+The strong association found between angiogenic factors and COX-2 in this study may lead to the development of combination therapeutic strategy to treat MM. Therefore , targeting COX-2 by using its effective inhibitors demonstrating antiangiogenic and antitumor effects could be used as a new therapeutic approach for treatment of MM .

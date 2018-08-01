@@ -1,0 +1,10 @@
+Epidemiological data and animal models have provided evidence that nonsteroidal antiinflammatory drugs ( NSAIDs ) have an anticancer effect .
+However , the molecular mechanisms underlying these antineoplastic effects are not well understood .
+We described previously that expression levels of the chemokine receptor , CCR5 , and the beta2-integrin , Mac-1 , were down-regulated on primary monocytes after incubation in supernatants from human carcinoma cell lines , and that this down-regulation resulted in impaired monocyte function with respect to migration and adhesion .
+We now demonstrate that these impairments are also present in vivo .
+Monocytes from cancer patients displayed significantly reduced CCR5 levels and migration capacities in comparison to cells from healthy donors .
+Because migration is necessary for the antitumor activity of monocytes/macrophages , these deficits may contribute to the suppressed immune system seen in cancer patients .
+In a clinical study , we analyzed the effect of a selective COX-2 inhibitor , Rofecoxib , on the migration of monocytes derived from cancer patients .
+The results revealed significant improvement in migration equal to those levels seen in healthy donors .
+We conclude that in patients with cancer , the intake of Rofecoxib for 3 wk leads to significant restoration of monocyte function .
+These data may , at least in part , help explain the anticancer effects of NSAIDs .

@@ -1,0 +1,9 @@
+Like all cancers , breast cancer is considered to result in part from the accumulation of multiple genetic alterations leading to oncogene overexpression and tumor suppressor loss .
+More recently , CpG island hypermethylation is known to be associated with gene silencing in cancer , and these silenced genes can be reactivated by 5-aza-2'-deoxycytidine ( 5-Aza-CdR ) .
+Retionoic acid receptor beta 2 gene is a tumor suppressor gene and the chemopreventive effects of retinoids are due to induction of RAR beta 2 .
+In this study , the effect of 5-Aza-CdR RAR beta 2 restoration was investigated in the MRK-nu-1 human female breast cancer cell line .
+Changes of the RAR beta 2 methylation status were assessed by methylation-specific PCR .
+Reverse transcription PCR was used to evaluate RARb beta 2 restoration .
+Cell cycling and growth inhibition were studied using flow cytometric analysis of DNA content and CellTiter 96 AQueous non-radioactive cell proliferation assay , respectively. 5-Aza-CdR treatment resulted in complete demethylation of the RAR beta 2 gene .
+RAR beta 2 restoration was accompanied by cell cycle arrest ( increase in the G0/G1- and decrease in the S- and G2/M-phases ) and time-dependent growth inhibition .
+In conclusion , RAR beta 2 can be activated in vitro by 5-Aza-CdR , which may be one of the mechanisms for the tumor cell growth inhibition by 5-Aza-CdR .

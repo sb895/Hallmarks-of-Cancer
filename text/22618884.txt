@@ -1,0 +1,10 @@
+Breast cancer consists in a chronic inflammatory disease with multiple biological and clinical behaviors .
+Based on high throughput technologies data , this disease is currently classified according to the molecular expression of estrogen ( ER ) , progesterone ( PR ) and human epidermal growth factor ( HER-2 ) receptors .
+In this study , we defined the inflammatory profile of the main molecular subtypes of breast cancer patients : luminal ( ER and PR positive , HER-2 negative ) , HER-2 enriched ( HER-2 positive ) and triple negative ( ER , PR and HER-2 negative ) .
+Cytokines panel was assessed by measurement of TNF-α , TGF-β , IL-1 , IL-10 and IL-12 plasmatic levels .
+Oxidative profile was assessed by determination of lipid peroxidation , total antioxidant capacity of plasma , malondialdehyde levels , carbonyl content and nitric oxide ( NO ) .
+Clinical data were correlated with inflammatory findings .
+Our findings demonstrated that patients bearing the luminal subtype displayed high TNF-α , TGF-β and enhanced oxidative stress levels associated with reduced IL-12 .
+HER-2-enriched group exhibited higher levels of TNF-α , IL-12 and TGF-β associated with enhanced oxidative stress .
+Triple-negative subtype exhibited the most aggressive profile of disease behavior , with reduction in both TNF-α and TGF-β , with high levels of lipid peroxidation and NO .
+The clinical importance of our findings lies in the fact that the inflammatory status varies in distinct ways due to molecular subtype of breast cancer , opening potential therapeutic targets to future therapies .

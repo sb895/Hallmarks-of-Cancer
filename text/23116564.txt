@@ -1,0 +1,8 @@
+Trabecular meshwork ( TM ) cells have widely been used as an invitro model for glaucoma research .
+However , primary TM cells suffer the disadvantages of limited cell numbers and slow rates of proliferation .
+We discovered a spontaneously transformed bovine TM ( BTM ) cell line , BTM-28T .
+This cell line proliferated rapidly in low-glucose culture medium but also demonstrated contact inhibition in high-glucose culture medium .
+BTM-28T cells expressed key TM cell markers including \u03b1-smooth muscle actin ( \u03b1-SMA ) , laminin and collagen IV ( col IV ) .
+Also , 100nM dexamethasone ( DEX ) enhanced the formation of cross-linked actin networks ( CLANs ) in confluent BTM-28T cell cultures .
+Transforming growth factor beta 2 ( TGF\u03b22 ) induced the expression of fibronectin ( FN ) , plasminogen activator inhibitor-1 ( PAI-1 ) , and connective tissue growth factor ( CTGF ) in our cell cultures .
+This cell line will be helpful to better understand the aqueous humor outflow pathway as related to the pathophysiology of glaucoma .

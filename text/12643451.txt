@@ -1,0 +1,6 @@
+The early stages of head and neck cancer are presumed to require a senes of genetic alterations that are not represented by a distinct clinical phenotype .
+Therefore , genes with altered expression in the preneoplasia may be useful for the early detection of this highly recurrent cancer .
+In this study , we immortalized normal human oral keratinocytes ( NHOK ) by retroviral-mediated infection of HPV 16 transforming oncogenes , E6 and E7 ( HOK16E6E7 ) .
+Using the Affymetrix gene chip ( U95Av2 ) , we identified 177 known genes and EST that were overexpressed at least 3-fold or above in the immortalized cells , while 133 were down-regulated compared to NHOK .
+Northern blot analysis showed elevated levels of p55CDC in the immortalized cells , while NHOK showed high basal expression of small proline rich protein ( SPRR2 ) .
+The altered expression of these genes maybe associated with cellular proliferation or differentiation and the early stages of oral carcinogenesis .

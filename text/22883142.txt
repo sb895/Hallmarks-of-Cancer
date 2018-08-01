@@ -1,0 +1,8 @@
+Signals of archaic admixture have been identified through comparisons of the draft Neanderthal and Denisova genomes with those of living humans .
+Studies of individual loci contributing to these genome-wide average signals are required for characterization of the introgression process and investigation of whether archaic variants conferred an adaptive advantage to the ancestors of contemporary human populations .
+However , no definitive case of adaptive introgression has yet been described .
+Here we provide a DNA sequence analysis of the innate immune gene STAT2 and show that a haplotype carried by many Eurasians ( but not sub-Saharan Africans ) has a sequence that closely matches that of the Neanderthal STAT2 .
+This haplotype , referred to as N , was discovered through a resequencing survey of the entire coding region of STAT2 in a global sample of 90 individuals .
+Analyses of publicly available complete genome sequence data show that haplotype N shares a recent common ancestor with the Neanderthal sequence ( thousand years ago ) and is found throughout Eurasia at an average frequency of Interestingly , N is found in Melanesian populations at higher frequency ( than in Eurasian populations .
+A neutrality test that controls for demography rejects the hypothesis that a variant of N rose to high frequency in Melanesia by genetic drift alone .
+Although we are not able to pinpoint the precise target of positive selection , we identify nonsynonymous mutations in ERBB3 , ESYT1 , and STAT2-all of which are part of the same 250 kb introgressive haplotype-as good candidates .

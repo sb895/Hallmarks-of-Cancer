@@ -1,0 +1,11 @@
+BACKGROUND Lung cancer often develops in association with chronic pulmonary inflammatory diseases with an influx of neutrophils .
+More detailed information on inflammatory pathways and the role of neutrophils herein is a prerequisite for understanding the mechanism of inflammation associated cancer .
+METHODS In the present study , we used microarrays in order to obtain a global view of the transcriptional responses of the lung to LPS in mice , which mimics an acute lung inflammation .
+To investigate the influence of neutrophils in this process , we depleted mice from circulating neutrophils by treatment with anti-PMN antibodies prior to LPS exposure .
+RESULTS A total of 514 genes was greater than 1.5-fold differentially expressed in the LPS induced lung inflammation model. 394 of the 514 were up regulated genes mostly involved in cell cycle and immune/inflammation related processes , such as cytokine/chemokine activity and signalling .
+Down regulated genes represented nonimmune processes , such as development , metabolism and transport .
+Notably , the number of genes and pathways that were differentially expressed , was reduced when animals were depleted from circulating neutrophils , confirming the central role of neutrophils in the inflammatory response .
+Furthermore , there was a significant correlation between the differentially expressed gene list and the promutagenic DNA lesion M1dG , suggesting that it is the extent of the immune response which drives genetic instability in the inflamed lung .
+Several genes that were specifically regulated by the presence of activated neutrophils could be identified and these were mostly involved in interferon signalling , oxidative stress response and cell cycle progression .
+The latter possibly refers to a higher rate of cell turnover in the inflamed lung with neutrophils , suggesting that the neutrophil influx is associated with a higher risk for the accumulation and fixation of mutations .
+CONCLUSION Gene expression profiling identified specific genes and pathways that are related to neutrophilic inflammation and could be associated to cancer development and indicate an active role of neutrophils in mediating the LPS induced inflammatory response in the mouse lung .

@@ -1,0 +1,9 @@
+Gastrin stimulates the growth of pancreatic cancer cells through the activation of the cholecystokinin-B receptor ( CCK-BR ) , which has been found to be overexpressed in pancreatic cancer .
+In this study , we proposed that the CCK-BR drives growth of pancreatic cancer ; hence , interruption of CCK-BR activity could potentially be an ideal target for cancer therapeutics .
+The effect of CCK-BR downregulation in the human pancreatic adenocarcinoma cells was examined by utilizing specific CCK-BR-targeted RNA interference reagents .
+The CCK-BR receptor expression was both transiently and stably downregulated by transfection with selective CCK-BR small-interfering RNA or short-hairpin RNA , respectively , and the effects on cell growth and apoptosis were assessed .
+CCK-BR downregulation resulted in reduced cancer cell proliferation , decreased DNA synthesis , and cell cycle arrest as demonstrated by an inhibition of G(1) to S phase progression .
+Furthermore , CCK-BR downregulation increased caspase-3 activity , TUNEL-positive cells , and decreased X-linked inhibitor of apoptosis protein expression , suggesting apoptotic activity .
+Pancreatic cancer cell mobility was decreased when the CCK-BR was downregulated , as assessed by a migration assay .
+These results show the importance of the CCK-BR in regulation of growth and apoptosis in pancreatic cancer .
+Strategies to decrease the CCK-BR expression and activity may be beneficial for the development of new methods to improve the treatment for patients with pancreatic cancer .

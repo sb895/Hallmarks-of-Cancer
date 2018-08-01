@@ -1,0 +1,9 @@
+Identifying genomic alterations driving breast cancer is complicated by tumor diversity and genetic heterogeneity .
+Relevant mouse models are powerful for untangling this problem because such heterogeneity can be controlled .
+Inbred Chaos3 mice exhibit high levels of genomic instability leading to mammary tumors that have tumor gene expression profiles closely resembling mature human mammary luminal cell signatures .
+We genomically characterized mammary adenocarcinomas from these mice to identify cancer-causing genomic events that overlap common alterations in human breast cancer .
+Chaos3 tumors underwent recurrent copy number alterations ( CNAs ) , particularly deletion of the RAS inhibitor Neurofibromin 1 ( Nf1 ) in nearly all cases .
+These overlap with human CNAs including NF1 , which is deleted or mutated in 27.7% of all breast carcinomas .
+Chaos3 mammary tumor cells exhibit RAS hyperactivation and increased sensitivity to RAS pathway inhibitors .
+These results indicate that spontaneous NF1 loss can drive breast cancer .
+This should be informative for treatment of the significant fraction of patients whose tumors bear NF1 mutations .

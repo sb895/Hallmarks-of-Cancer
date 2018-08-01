@@ -1,0 +1,8 @@
+Vaccination is , in theory , a safe and effective approach for controlling disseminated or metastatic cancer due to the specificity of the mammalian immune system , yet its success in the clinic has been hampered thus far by the problem of immune tolerance to tumor self-antigen .
+Here we describe a DNA vaccination strategy that is able to control cancer by overcoming immune tolerance to tumor self-antigen .
+We engineered a DNA construct encoding a dimeric form of a secreted single chain trimer of major histocompatibility complex class I heavy chain , β2-microglobulin , and peptide antigen linked to immunoglobulin G ( SCT-Ag/IgG ) .
+The chimeric protein was able to bind to antigen-specific CD8+ T cells with nearly 100% efficiency and strongly induce their activation and proliferation .
+In addition , the chimeric protein was able to coat professional antigen-presenting cells through the Fc receptor to activate antigen-specific CD8+ T cells .
+Furthermore , intradermal vaccination with DNA encoding SCT-Ag/IgG could generate significant numbers of cytotoxic effector T cells against tumor self-antigen and leads to successful therapeutic outcomes in a preclinical model of metastatic melanoma .
+Our data suggest that the DNA vaccine strategy described in the current study is able to break immune tolerance against endogenous antigen and result in potent therapeutic antitumor effects .
+Such strategy may be used in other antigenic systems for the control of infections and/or cancers .

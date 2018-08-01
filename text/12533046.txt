@@ -1,0 +1,13 @@
+Arsenic trioxide ( ATO ) is a novel agent to treat acute promyelocytic leukemia ( APL ) .
+ATO can degrade chimeric PML-RAR proteins and induce apoptosis in various cancer cells .
+However , its effects on primary hematopoietic CD34+ have not been examined .
+In this study , we compared the effects of ATO on HL60 leukemic cells and primary umbilical cord blood ( UCB ) CD34+ cells .
+HL60 cells and UCB CD34+ cells were cultured with different concentrations of ATO for up to three weeks and examined for changes of cell cycle .
+We found that ATO ( < or = 5 microM ) caused prolongation of G1/S and G2/M phase in a dose-dependent manner .
+The percentage of cells in G2/M increased significantly ( from 8.6 to 53.8% ) .
+High-dose ATO ( > or = 25 microM ) caused non-specific cell death in HL60 cells without any changes in cell cycle .
+In contrast to HL60 cells , UCB CD34+ cells were more resistant to high-dose ATO and most ATO-resistant CD34+ cells remained in G0/G1 phase .
+Primary cells that were resistant to ATO were rich in CD34+ cells .
+We further show that the ATO resistance was not related to the expression of P-glycoprotein ( MDR-1 ) .
+Our results suggest that the resistance to ATO in primitive UCB CD34+ cells is most likely related to its cell-cycle status .
+These results could be useful to design treatments for non-APL malignancies and to enrich hematopoietic stem cells in clinically applicable settings .

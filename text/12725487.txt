@@ -1,0 +1,4 @@
+In the present study we examined the effects of menadione , a redox cycling agent , on structural changes of human osteosarcoma line 143B cells .
+It has been previously reported that menadione can cause necrotic or apoptotic cell death in a concentration- depending manner .
+In our experimental model , cells were treated with 100 microM menadione for 24 hours .
+Using electron microscopy technique cells carrying three kinds of morphological changes were detected : necrotic cells , apoptotic cells and those demonstrating a co-existence of apoptotic and necrotic features in one single cell .

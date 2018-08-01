@@ -1,0 +1,9 @@
+Hepatocyte growth factor ( HGF ) , a mesenchymal-derived factor which regulates growth , motility , and morphogenesis of epithelial and endothelial cells , functions as a hepatotrophic and renotrophic factor for regeneration of the liver and kidney .
+We have now obtained evidence that transforming growth factor-beta 1 ( TGF-beta 1 ) and glucocorticoids are negative regulators for HGF gene expression .
+When TGF-beta 1 or dexamethasone was added to cultures of MRC-5 human embryonic lung fibroblasts and HL-60 human promyelocytic leukemic cells , the amount of HGF secreted into the culture medium was inhibited to 30-40% of that of control cultures by 10 ng/ml TGF-beta 1 and to 40-50% by 10(-6) M dexamethasone .
+The inhibitory effect of TGF-beta 1 and dexamethasone on HGF synthesis in MRC-5 cells was additive , thereby suggesting that TGF-beta 1 and dexamethasone exert effects through distinct mechanisms .
+Hydrocortisone also inhibited HGF synthesis with the same potency as dexamethasone ; however , testosterone , estriol , and beta-estradiol had no effect .
+The rate of HGF synthesis in MRC-5 cells , as measured by pulse labeling with [ 35S]methionine and subsequent immunoprecipitation , was suppressed to 30-40% of the control with 10 ng/ml TGF-beta 1 , and to 30-45% by 10(-6) M dexamethasone .
+HGF mRNA levels in MRC-5 cells and HL-60 cells were dose-dependently suppressed by TGF-beta 1 and dexamethasone ; 10 ng/ml TGF-beta 1 suppressed HGF mRNA levels to 32% and 35% of control culture , respectively , in MRC-5 cells and HL-60 cells , and 10(-6) M dexamethasone suppressed to 43% and 38% , respectively .
+Thus , TGF-beta 1 and glucocorticoids seem to inhibit HGF synthesis by suppressing the expression of the HGF gene .
+We propose that a negative regulation of HGF gene expression by TGF-beta 1 or glucocorticoids may be involved in physiological or pathological processes during tissue regeneration .

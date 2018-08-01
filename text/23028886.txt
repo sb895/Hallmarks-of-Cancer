@@ -1,0 +1,10 @@
+Perlecan Domain V ( DV ) promotes brain angiogenesis by inducing VEGF release from brain endothelial cells ( BECs ) following stroke .
+In this study , we define the specific mechanism of DV interaction with the α(5)β(1) integrin , identify the downstream signal transduction pathway , and further investigate the functional significance of resultant VEGF release .
+Interestingly , we found that the LG3 portion of DV , which has been suggested to possess most of DV's angio-modulatory activity outside of the brain , binds poorly to α(5)β(1) and induces less BEC proliferation compared to full length DV .
+Additionally , we implicate DV's DGR sequence as an important element for the interaction of DV with α(5)β(1) .
+Furthermore , we investigated the importance of AKT and ERK signaling in DV-induced VEGF expression and secretion .
+We show that DV increases the phosphorylation of ERK , which leads to subsequent activation and stabilization of eIF4E and HIF-1α .
+Inhibition of ERK activity by U0126 suppressed DV-induced expression and secretion of VEGR in BECs .
+While DV was capable of phosphorylating AKT we show that AKT phosphorylation does not play a role in DV's induction of VEGF expression or secretion using two separate inhibitors , LY294002 and Akt IV .
+Lastly , we demonstrate that VEGF activity is critical for DV increases in BEC proliferation , as well as angiogenesis in a BEC-neuronal co-culture system .
+Collectively , our findings expand our understanding of DV's mechanism of action on BECs , and further support its potential as a novel stroke therapy .

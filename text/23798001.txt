@@ -1,0 +1,8 @@
+Cellular senescence , an irreversible cell cycle arrest induced by a diversity of stimuli , has been considered as an innate tumor suppressing mechanism with implications and applications in cancer therapy .
+Using a targeted proteomics approach , we show that fibroblasts induced into senescence by expression of oncogenic Ras exhibit a decrease of global acetylation on all core histones , consistent with formation of senescence-associated heterochromatic foci .
+We also detected clear increases in repressive markers ( e.g. >50% elevation of H3K27me2/3 ) along with decreases in histone marks associated with increased transcriptional expression/elongation ( e.g .
+H3K36me2/3 ) .
+Despite the increases in repressive marks of chromatin , 179 loci ( of 2206 total ) were found to be upregulated by global quantitative proteomics .
+The changes in the cytosolic proteome indicated an upregulation of mitochondrial proteins and downregulation of proteins involved in glycolysis .
+These alterations in primary metabolism are opposite to the well-known Warburg effect observed in cancer cells .
+This study significantly improves our understanding of stress-induced senescence and provides a potential application for triggering it in antiproliferative strategies that target the primary metabolism in cancer cells .

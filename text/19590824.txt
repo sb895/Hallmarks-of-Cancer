@@ -1,0 +1,8 @@
+Ferric nitrilotriacetate ( Fe-NTA ) is a potent nephrotoxicant and a renal carcinogen that induces its effect by causing oxidative stress .
+The present study was undertaken to explore protective effect of silymarin , a flavonolignan from milk thistle ( Silybum marianum ) , against Fe-NTA mediated renal oxidative stress , inflammation and tumor promotion response along with elucidation of the implicated mechanism(s) .
+Administration of Fe-NTA ( 10 mg/kg bd wt , i.p. ) to Swiss albino mice induced marked oxidative stress in kidney , evident from augmentation in renal metallothionein ( MT ) expression , depletion of glutathione content and activities of antioxidant and phase II metabolizing enzymes , and enhancement in production of aldehyde products such as 4-hydroxy-2-nonenal .
+Fe-NTA also significantly activated nuclear factor kappa B ( NFkappaB ) and upregulated the expression of downstream genes : cyclooxygenase 2 and inducible nitric oxide synthase and enhancing the production of proinflammatory cytokines : tumor necrosis factor alpha ( TNF-alpha ) and interleukin-6 ( IL-6 ) .
+However , feeding of 0.5% and 1% silymarin diet conferred a significant protection against Fe-NTA induced oxidative stress and inflammation .
+It further augmented MT expression , restored the antioxidant armory , ameliorated NFkappaB activation and decreased the expression of proinflammatory mediators .
+Silymarin also suppressed Fe-NTA induced hyperproliferation in kidney , ameliorating renal ornithine decarboxylase activity and DNA synthesis .
+From these results , it could be concluded that silymarin markedly protects against chemically induced renal cancer and acts plausibly by virtue of its antioxidant , anti-inflammatory and antiproliferative activities .

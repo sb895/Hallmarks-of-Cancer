@@ -1,0 +1,14 @@
+BACKGROUND Patients with invasive breast ductal carcinoma ( IBDC ) with metastasis have a very poor prognosis .
+Little is known about the synergistic action of growth and inflammatory factors in IBDC metastases .
+METHODS The expression of activated extracellular signal-regulated kinase1/2 ( phosphorylated or p-ERK1/2 ) was analyzed by immunohistochemistry in IBDC tissue samples from 80 cases .
+BT474 IBDC cell migration and invasion were quantified using the Transwell assay .
+Matrix metalloproteinase ( MMP)-9 expression and activity were analyzed by RT-PCR , Western blotting and zymography .
+Activator protein ( AP)-1 activity was measured with a luciferase reporter gene assay .
+The Wilcoxon signed-rank test , Chi-square test , the partition of Chi-square test , independent t-test , and Spearman's method were used for the statistical analysis .
+RESULTS Phosphorylated ERK1/2 was detected in 58/80 ( 72.5% ) IBDC tissues , and was associated with higher TNM stage and lymph node metastasis , but not patient age or tumor size .
+Individually , epidermal growth factor ( EGF ) , and interleukin ( IL)-1β activated ERK1/2 , increased cell migration and invasion , MMP-9 expression and activity , AP-1 activation in vitro and the expression of p-ERK1/2 was positively correlated with EGF expression levels , as well as IL-1β , MMP-9 and c-fos in IBDC tissue samples .
+Co-stimulation with EGF and IL-1β synergistically increased ERK1/2 and AP-1 activation , cell migration and invasion , and MMP-9 expression and activity .
+Inhibition of ERK1/2 using U0126 or siRNA abolished EGF and/or IL-1β-induced cell migration and invasion in a dose-dependent manner .
+CONCLUSION Activated ERK1/2 was associated with higher TNM stage and lymph node metastasis in IBDC .
+Both in vitro and in vivo studies indicated that ERK-1/2 activation may increase the metastatic ability of IBDC cells .
+Growth and inflammatory factors synergistically induced IBDC cell migration and invasion via ERK1/2 signaling , AP-1 activation and MMP-9 upregulation .

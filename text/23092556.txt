@@ -1,0 +1,7 @@
+Angiotensin II type 1 receptor ( AT1R ) promotes tumor invasion , migration , metastasis and angiogenesis .
+We explored the potential antitumor effects of AT1R antagonists in breast cancer .
+We found that angiotensin II promoted cell proliferation and upregulated the expression of vascular endothelial growth factor A ( VEGF-A ) in MCF-7 cells .
+Losartan downregulated the expression of VEGF-A in MCF-7 cells treated with angiotensin II .
+Candesartan downregulated the expression of VEGF-A in mice bearing MCF-7 xenografts and inhibited tumor growth and angiogenesis .
+AT1R and VEGF-A expression correlated with increased microvascular density in 102 breast cancer patients .
+Our data suggest that AT1R antagonists might be useful to suppress breast cancer by inhibiting the angiotensin II .

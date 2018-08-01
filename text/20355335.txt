@@ -1,0 +1,6 @@
+Ataxia telangiectasia mutated ( ATM ) kinase is a central player in cellular response to DNA damage .
+Phosphorylation of the histone H2AX by ATM is required for the accumulation of repair proteins at the sites of double-strand breaks .
+Recently , it was reported that the histone acetyltransferase Tat interactive protein-60 ( IPP60 ) is required to acetylate ATM prior to its activation .
+The RuvB-like proteins TIP48 and TIP49 are known to be necessary for the assembly and functional activity of the TIP60 acetyltransferase complex .
+In the present communication , we investigated the requirements of IIP48 and IIP49 for ATM activation by monitoring the cell cycle distribution and H2AX phosphorylation after irradiation of IIP48- and IIP49-depleted cells .
+We found that neither the cell cycle norgammay-H2AX were affected in IIP48- and IIP49-silenced cells , suggesting that the IIP60 chromatin modification complex is not engaged in DNA damage signaling upstream of ATM .

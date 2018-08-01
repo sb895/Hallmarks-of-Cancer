@@ -1,0 +1,9 @@
+Muscle endplates become denervated in mice that express mutations of human superoxide dismutase 1 ( hSOD1 ) , models of familial amyotrophic lateral sclerosis .
+This denervation is especially marked in fast limb muscles , and precedes death of motor neuron somata .
+This study used mice that expressed yellow fluorescent protein ( YFP ) in neurons to investigate changes in the morphology and function of axons and motor terminals innervating a fast forelimb muscle ( epitrochleoanconeus , ETA ) in presymptomatic and symptomatic hSOD1-G85R mice , compared to those in mice that express wild-type ( wt ) hSOD1 .
+The percentage of endplates ( identified using fluorescently-labeled \u03b1-bungarotoxin ) innervated by motor terminals remained high in presymptomatic SOD1-G85R mice , but fell to in symptomatic mice .
+The number of large diameter ( \u22654 \u03bcm ) axons in the ETA nerve also decreased as mice became symptomatic , and endplate innervation correlated best with the number of large diameter axons .
+Motor terminal function was assessed using changes in terminal YFP fluorescence evoked by trains of action potentials ; different components of the pH-dependent YFP signals reflect stimulation-induced Ca2+ entry and vesicular exo/endocytosis .
+Most visible motor terminals ( >90% ) remained capable of responding to nerve stimulation in both pre- and symptomatic hSOD1-G85R mice , but with functional alterations .
+Responses in presymptomatic terminals suggested reduced acidification and increased vesicular release , whereas symptomatic terminals exhibited increased acidification and reduced vesicular release .
+The fact that most remaining terminals were able to respond to nerve stimulation suggests that motor terminal-protective therapies might contribute to preserving neuromuscular function in fALS mice .

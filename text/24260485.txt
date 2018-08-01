@@ -1,0 +1,6 @@
+In normal tissues , strict control of tissue size is achieved by regulating cell numbers .
+The mechanism that controls total cell number is known as contact inhibition of growth and it depends on the NF2/Merlin pathway .
+Negative regulation of this pathway by deleterious mutations or by oncogenes results in cell transformation and tumor progression .
+Here we provide evidence that the CD43 sialomucin cooperates with oncogenic signals to promote cell transformation by abrogating the contact inhibition of growth through a molecular mechanism that involves AKT-dependent Merlin phosphorylation and degradation .
+Accordingly , inhibition of endogenous CD43 expression by RNA interference in lung , cervix and colon human cancer cells impaired tumor growth in vivo .
+These data underscore a previously unidentified role for CD43 in non-hematopoietic tumor progression .

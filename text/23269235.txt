@@ -1,0 +1,11 @@
+Sunitinib is an oral multitargeted receptor tyrosine kinase inhibitor with antiangiogenic and antitumor activity that mainly targets vascular endothelial growth factor receptors , and recently , it has been shown to be an active agent for the treatment of malignant pheochromocytomas .
+Previously , we demonstrated that sunitinib directly inhibited mTORC1 signaling in rat pheochromocytoma PC12 cells .
+Although autophagy is a highly regulated cellular process , its relevance to cancer seems to be complicated .
+It is of note that inhibition of mTORC1 is a prerequisite for autophagy induction .
+Indeed , direct mTORC1 inhibition initiates ULK1/2 autophosphorylation and subsequent Atg13 and FIP200 phosphorylation , inducing autophagy .
+Here , we demonstrated that sunitinib significantly increased the levels of LC3-II , concomitant with a decrease of p62 in PC12 cells .
+Following sunitinib treatment , immunofluorescent imaging revealed a marked increased punctate LC3-II distribution .
+Furthermore , Atg13 knockdown significantly reduced its protein level , which in turn abolished sunitinib-induced autophagy .
+Moreover , inhibition of autophagy by siRNAs targeting Atg13 or by pharmacological inhibition with ammonium chloride , enhanced both sunitinib-induced apoptosis and anti-proliferation .
+Thus , sunitinib-induced autophagy is dependent on the suppression of mTORC1 signaling and the formation of ULK1/2-Atg13-FIP200 complexes .
+Inhibition of autophagy may be a promising therapeutic option for improving the anti-tumor effect of sunitinib .

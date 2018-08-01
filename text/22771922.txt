@@ -1,0 +1,11 @@
+Escherichia coli molecular hydrogen ( H(2) ) production was studied during mixed carbon ( glucose and glycerol ) fermentation at pH 6.5 .
+Wild type cells in the assays supplemented with glucose produced H(2) at fold lower level than cells grown on glucose only .
+When compared to the wild type , H(2) production in the assays added with glucose was decreased by fold in fhlA , hyfG and double fhlA hyfG mutants and by fold in hyaB , hybC , and double hyaB hybC mutants .
+However , in the assays with glycerol , no measurable H(2) production was detected .
+Taken together , these results suggest that during mixed carbon fermentation , H(2) could be produced with low efficiency via Hyd-3 and Hyd-4 .
+This is a novel finding for Hyd-4 activity at pH 6.5 .
+The insignificant decrease of H(2) production in the strains with defects in Hyd-1 and Hyd-2 was probably due to an interaction between the Hyd enzymes and their organization in the bacterial membrane .
+In the glucose assays , H(2) production in the wild type cells was inhibited fold by 0.3mM N,N'-dicyclohexylcarbodiimide ( DCCD ) , an inhibitor of the F(0)F(1)-ATPase .
+This inhibition was the same for fhlA and hyfG fhlA mutants but not hyaB , hybC , hyfG or hyaB hybC mutants .
+The results indicate that the FhlA protein coded by the fhlA gene might interact with the F(0)F(1)-ATPase .
+We propose that this interaction is mediated by mixed carbon fermentation .

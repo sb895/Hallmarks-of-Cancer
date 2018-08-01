@@ -1,0 +1,12 @@
+Retinoic acid ( RA ) and its derivatives inhibit the proliferation of normal human mammary epithelial cells ( HMEC ) and some breast carcinoma lines by mechanisms which are not fully understood .
+To identify genes that mediate RA-induced cell growth arrest , an HMEC cDNA library was synthesized and subtractive screening was performed .
+We identified the interleukin-1beta ( IL-1beta ) gene as an RA induced gene in HMEC .
+Northern blot analyses showed that the IL-1beta gene was up-regulated as early as 2 h after RA treatment .
+Results from the treatment of HMEC with cycloheximide and actinomycin D indicated that the regulation of the IL-1beta gene by RA occurred at the transcriptional level and that the IL-1beta gene is a direct , downstream target gene of RA .
+To evaluate the effects of IL-1beta on cell proliferation , the proliferation of HMEC was measured in the presence of RA or IL-1beta , or both .
+Either RA or IL-1beta could significantly inhibit the proliferation of HMEC .
+However , the addition of soluble IL-1 receptor antagonist ( sIL-1ra ) to the cell culture medium did not block RA-induced HMEC growth inhibition , whereas sIL-1ra did block the growth inhibition of HMEC by IL-1beta .
+IL-1beta expression was not observed in the three carcinoma cell lines , MCF-7 , MDA-MB-231 , and MDA-MB-468 , as compared to the HMEC .
+Growth curves of the breast carcinoma cell lines showed strong inhibitory effects of RA and IL-1beta on the growth of the estrogen receptor ( ER ) positive MCF-7 cell line , but only a small effect on the ER negative MDA-MB-231 cells .
+The expression of the IL-1beta gene was also transcriptionally activated by RA in normal epithelial cells of prostate and oral cavity .
+Our results suggest that : ( a ) the IL-1beta gene is a primary target of RA receptors in HMEC ; ( b ) the enhanced expression of the IL-1beta gene does not mediate the RA-induced growth arrest of HMEC ; and ( c ) the expression of the IL-1beta gene is low or absent in all three human breast carcinoma cell lines examined , but the defect in the IL-1beta signaling pathway may be different in ER positive versus ER negative carcinoma cells .

@@ -1,0 +1,6 @@
+Lung cancer is one of the leading cancer malignancies , with a five-year survival rate of only We have developed a lentiviral-vector-mediated mouse model , which enables generation of non-small-cell lung cancer from less than 100 alveolar epithelial cells , and investigated the role of IKK2 and NF-κB in lung-cancer development .
+IKK2 depletion in tumour cells significantly attenuated tumour proliferation and significantly prolonged mouse survival .
+We identified Timp1 , one of the NF-κB target genes , as a key mediator for tumour growth .
+Activation of the Erk signalling pathway and cell proliferation requires Timp-1 and its receptor CD63 .
+Knockdown of either Ikbkb or Timp1 by short hairpin RNAs reduced tumour growth in both xenograft and lentiviral models .
+Our results thus suggest the possible application of IKK2 and Timp-1 inhibitors in treating lung cancer .

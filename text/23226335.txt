@@ -1,0 +1,8 @@
+Osteosarcoma is a high-grade malignant bone tumor that manifests ingravescent clinical behavior .
+The intrinsic events that confer malignant properties on osteosarcoma cells have remained unclear , however .
+We previously established two lines of mouse osteosarcoma cells : AX cells , which are able to form tumors in syngeneic mice , and AXT cells , which were derived from such tumors and acquired an increased tumorigenic capacity during tumor development .
+We have now identified Igf2 mRNA-binding protein3 ( Imp3 ) as a key molecule responsible for this increased tumorigenicity of AXT cells in vivo .
+Imp3 is consistently up-regulated in tumors formed by AX cells , and its expression in these cells was found to confer malignant properties such as anchorage-independent growth , loss of contact inhibition , and escape from anoikis in vitro .
+The expression level of Imp3 also appeared directly related to tumorigenic ability in vivo which is the critical determination for tumor-initiating cells .
+The effect of Imp3 on tumorigenicity of osteosarcoma cells did not appear to be mediated through Igf2-dependent mechanism .
+Our results implicate Imp3 as a key regulator of stem-like tumorigenic characteristics in osteosarcoma cells and as a potential therapeutic target for this malignancy .

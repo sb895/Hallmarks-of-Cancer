@@ -1,0 +1,14 @@
+This study intended to investigate the expression of the ZEB1 and E-cadherin proteins in lung squamous cell carcinoma ( LSCC ) tissues and to examine the clinicopathological correlation between protein levels and LSCC .
+RT-PCR and Western blot were used to examine the expression of ZEB1 and E-cadherin mRNAs and proteins in LSCC tissues as well as in adjacent normal tissues , and then analyze the relationship between the clinicopathological characteristics and the expression changes of ZEB1 and E-cadherin mRNAs in LSCC .
+In addition , RNAi was used to knockdown the expression of the ZEB1 gene in Human HCC827 cells ; subsequently , changes in the invasive ability of the resultant cells were studied .
+The positive rates of ZEB1 and E-cadherin mRNAs in LSCC tissues were 69.2 and 38.5% , respectively .
+They differed significantly from the corresponding positive rates in the adjacent normal lung tissues ( 15.4 and 80.8% , p<0.05 ) .
+There was a negative correlation between the protein levels of ZEB1 and E-cadherin in LSCC tissues ( r=-0.714 , p<0.001 ) ; in addition , it was found that ZEB1 protein expression in LSCC tissues was significantly higher than that in the neighboring normal lung tissues ( p<0.05 ) , and its expression was also significantly higher in patients with lymph node metastases and distant metastases compared to those patients without metastatic disease ( p<0.05 ) .
+On the contrary , E-cadherin expression was significantly lower in LSCC tissues than that in the neighboring normal tissue ( p<0.05 ) .
+It was lower in patients with lymph node metastasis and distant metastasis compared to patients without metastatic disease ( p<0.05 ) .
+However , the expression of ZEB1 and E-cadherin was independent of gender , age , tumor size , or tumor differentiation level ( p>0.05 ) .
+Transfection of ZEB1 siRNA into HCC827 cells significantly reduced the ZEB1 protein level ( p<0.01 ) and significantly elevated E-cadherin levels ( p<0.01 ) .
+Moreover , significantly less ZEB1 siRNA-transfected cells migrated through Transwell chambers in the LSCC tissue than that in the control groups ( untransfected or transfected with control siRNA , p<0.01 ) .
+The expression of the ZEB1 gene in LSCC tissues is downregulated with the expression of E-cadherin .
+On the other hand , the expression of siRNA against ZEB1 promotes E-cadherin expression and suppresses the invasive ability conferred by E-cadherin .
+In conclusion , our data suggested that overexpression of the ZEB1 gene is possibly associated with the occurrence , development , invasion of LSCC .

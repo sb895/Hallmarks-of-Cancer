@@ -1,0 +1,6 @@
+Recently , our group reported the discovery of three new withanolides , physangulidines A-C , from Physalis angulata .
+In this study , the biological effects of physangulidine A ( 1 ) , which was the most active and abundant of the three new constituents , are described .
+It was found that 1 significantly reduces survival in clonogenic assays for two hormone-independent prostate cancer cell lines .
+Flow cytometry and confocal microscopy studies in DU145 human prostate cancer cells indicated that 1 induces cell cycle arrest in the G(2)/M phase and causes defective mitosis .
+It was determined also that 1 produces programed cell death by apoptosis , as evidenced by biochemical markers and distinct changes in cell morphology .
+These results imply that the antimitotic and proapoptotic effects of 1 may contribute significantly to the biological activities and potential medicinal properties of its plant of origin .

@@ -1,0 +1,14 @@
+Novel strategies are necessary to improve chemotherapy response in advanced and recurrent endometrial cancer .
+Here , we demonstrate that terpenoids present in the Steam Distilled Extract of Ginger ( SDGE ) are potent inhibitors of proliferation of endometrial cancer cells .
+SDGE , isolated from six different batches of ginger rhizomes , consistently inhibited proliferation of the endometrial cancer cell lines Ishikawa and ECC-1 at IC(50) of 1.25 �g/ml .
+SDGE also enhanced the anti-proliferative effect of radiation and cisplatin .
+Decreased proliferation of Ishikawa and ECC-1 cells was a direct result of SDGE-induced apoptosis as demonstrated by FITC-Annexin V staining and expression of cleaved caspase 3 .
+GC/MS analysis identified a total of 22 different terpenoid compounds in SDGE , with the isomers neral and geranial constituting 30-40% .
+Citral , a mixture of neral and geranial inhibited the proliferation of Ishikawa and ECC-1 cells at an IC(50) 10 �M ( 2.3 �g/ml ) .
+Phenolic compounds such as gingerol and shogaol were not detected in SDGE and 6-gingerol was a weaker inhibitor of the proliferation of the endometrial cancer cells .
+SDGE was more effective in inducing cancer cell death than citral , suggesting that other terpenes present in SDGE were also contributing to endometrial cancer cell death .
+SDGE treatment resulted in a rapid and strong increase in intracellular calcium and a 20-40% decrease in the mitochondrial membrane potential .
+Ser-15 of p53 was phosphorylated after 15 min treatment of the cancer cells with SDGE .
+This increase in p53 was associated with 90% decrease in Bcl2 whereas no effect was observed on Bax .
+Inhibitor of p53 , pifithrin-α , attenuated the anti-cancer effects of SDGE and apoptosis was also not observed in the p53(neg) SKOV-3 cells .
+Our studies demonstrate that terpenoids from SDGE mediate apoptosis by activating p53 and should be therefore be investigated as agents for the treatment of endometrial cancer .

@@ -1,0 +1,5 @@
+A novel compound 2-arylidene-4,7-dimethyl indan-1-one synthesized was screened for anticancer effect against the human breast adenocarcinoma cell line , MCF-7 .
+An IC50 value of > or = 80 microM , nontoxic to the normal breast cell line HBL-100 , showed complete inhibition of the MCF-7 cells .
+Analysis of mechanisms showed nuclear fragmentation and DNA laddering in gel electrophoresis .
+GSH and GR levels were found to be reduced after the compound treatment .
+Cell cycle analysis using fluorescent cytometry revealed G2/M phase arrest , which indicates the compound deserves consideration for further studies against cancer .

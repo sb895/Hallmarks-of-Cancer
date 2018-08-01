@@ -1,0 +1,13 @@
+INTRODUCTION Various agents used in breast cancer chemotherapy provoke DNA double-strand breaks ( DSBs ) .
+DSB repair competence determines the sensitivity of cells to these agents whereby aberrations in the repair machinery leads to apoptosis .
+Proteins required for this pathway can be detected as nuclear foci at sites of DNA damage when the pathway is intact .
+Here we investigate whether focus formation of repair proteins can predict chemosensitivity of breast cancer .
+METHODS Core needle biopsy specimens were obtained from sixty cases of primary breast cancer before and 18-24 hours after the first cycle of neoadjuvant epirubicin plus cyclophosphamide ( EC ) treatment .
+Nuclear focus formation of DNA damage repair proteins was immunohistochemically analyzed and compared with tumor response to chemotherapy .
+RESULTS EC treatment induced nuclear foci of gammaH2AX , conjugated ubiquitin , and Rad51 in a substantial amount of cases .
+In contrast , BRCA1 foci were observed before treatment in the majority of the cases and only decreased after EC in thirteen cases .
+The presence of BRCA1- , gammaH2AX- , or Rad51-foci before treatment or the presence of Rad51-foci after treatment was inversely correlated with tumor response to chemotherapy .
+DNA damage response ( DDR ) competence was further evaluated by considering all four repair indicators together .
+A high DDR score significantly correlated with low tumor response to EC and EC + docetaxel whereas other clinicopathological factors analyzed did not .
+CONCLUSIONS High performing DDR focus formation resulted in tumor resistance to DNA damage-inducing chemotherapy .
+Our results suggested an importance of evaluation of DDR competence to predict breast cancer chemosensitivity , and merits further studying into its usefulness in exclusion of non-responder patients .

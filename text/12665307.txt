@@ -1,0 +1,9 @@
+Neutrophils have become recognised as important contributors to the effectiveness of tumour eradication by photodynamic therapy ( PDT ) .
+In this study , we have used the mouse SCCVII squamous cell carcinoma model to investigate the activity of neutrophils in tumours treated by PDT .
+Tumour levels of neutrophilic myeloperoxidase ( MPO ) demonstrated not only a massive and sustained sequestration of these cells in PDT-treated tumours but also revealed their activated state evidenced by the presence of released MPO .
+Among the adhesion molecules expressed on tumour vascular endothelium , ICAM-1 appears to be of primary importance in the invasion of neutrophils into PDT-treated tumours , because its functional blocking with monoclonal antibodies reduced the tumour cure rate .
+A marked upregulation of its ligands CD11b/CD18 and CD11c/CD18 found on neutrophils associated with PDT-treated tumours supports this assumption .
+To evaluate the role of inflammatory cytokines regulating neutrophil activity , neutralising antibodies were given to mice before PDT treatment .
+The results suggest that IL-1beta activity is critical for the therapeutic outcome , since its neutralisation diminished the cure rates of PDT-treated tumours .
+No significant effect was observed with anti-IL-6 and anti-TNF-alpha treatment .
+Further flow cytometry-based examination of neutrophils round in PDT-treated tumours revealed that these cells express MHC class II molecules , which suggests their engagement as antigen-presenting cells and involvement in the development of antitumour immune response .

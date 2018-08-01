@@ -1,0 +1,11 @@
+Genomic instability drives tumorigenesis , but how it is initiated in sporadic neoplasias is unknown .
+In early preneoplasias , alterations at chromosome fragile sites arise due to DNA replication stress .
+A frequent , perhaps earliest , genetic alteration in preneoplasias is deletion within the fragile FRA3B/FHIT locus , leading to loss of Fhit protein expression .
+Because common chromosome fragile sites are exquisitely sensitive to replication stress , it has been proposed that their clonal alterations in cancer cells are due to stress sensitivity rather than to a selective advantage imparted by loss of expression of fragile gene products .
+Here , we show in normal , transformed , and cancer-derived cell lines that Fhit-depletion causes replication stress-induced DNA double-strand breaks .
+Using DNA combing , we observed a defect in replication fork progression in Fhit-deficient cells that stemmed primarily from fork stalling and collapse .
+The likely mechanism for the role of Fhit in replication fork progression is through regulation of Thymidine kinase 1 expression and thymidine triphosphate pool levels ; notably , restoration of nucleotide balance rescued DNA replication defects and suppressed DNA breakage in Fhit-deficient cells .
+Depletion of Fhit did not activate the DNA damage response nor cause cell cycle arrest , allowing continued cell proliferation and ongoing chromosomal instability .
+This finding was in accord with in vivo studies , as Fhit knockout mouse tissue showed no evidence of cell cycle arrest or senescence yet exhibited numerous somatic DNA copy number aberrations at replication stress-sensitive loci .
+Furthermore , cells established from Fhit knockout tissue showed rapid immortalization and selection of DNA deletions and amplifications , including amplification of the Mdm2 gene , suggesting that Fhit loss-induced genome instability facilitates transformation .
+We propose that loss of Fhit expression in precancerous lesions is the first step in the initiation of genomic instability , linking alterations at common fragile sites to the origin of genome instability .

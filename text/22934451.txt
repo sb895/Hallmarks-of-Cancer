@@ -1,0 +1,15 @@
+BACKGROUND The presence of distant metastases from colorectal cancer ( CRC ) does not preclude curative treatment .
+Early detection of pulmonary metastases at a potentially curable stage could improve survival .
+The aim of the present study was to assess the prognostic significance of commonly reported clinicopathologic features to identify high-risk patients who would likely benefit from more intensive chest surveillance for pulmonary metastases .
+MATERIAL AND METHOD A total of 351 consecutive patients , with surgical stages I-III colorectal cancer , who underwent curative resection at Phramongkutklao hospital from 1999 to 2005 , were followed regularly according to the established guidelines with routine physical examination , serum carcinoembryonic antigen ( CEA ) and colonoscopic surveillance .
+Imaging studies for detecting metastases were computed tomography ( CT ) , plain film radiography , and ultrasonograpy .
+Clinical and pathologic features were analyzed for their association with pulmonary metastasis .
+RESULTS There were 145 patients who had been operated for longer than five years after curative intent surgery .
+Of these , nineteen patients were lost to follow-up or died from other causes that were unrelated to colorectal cancer .
+Pulmonary metastases were detected in 26 patients by either CXR or CT scan .
+Median time to pulmonary metastasis was 19 months ( 95 percent CI , 12-35 ) .
+According to an univariate analysis , with log-rank test , identified four factors associated with pulmonary metastasis : Tumor stage T4 , Nodal stage N2 , elevation of serum CEA > 3.4 ng/ml and presence of lymphovascular invasion(LVI) .
+According to a multivariate analysis , with Cox regression , found an elevation of serum CEA > 3.4 ng/ml which was an independent factor that was significantly associated with pulmonary metastasis ( Hazard ratio ( HR ) , 8.9 ; 95 percent CI , 3.6-22 ; p < 0.01 ) .
+The present study revealed that 50 percent of patients who had more than one of these risk factors would eventually develop pulmonary metastases .
+CONCLUSION An elevation of serum CEA > or = 3.4 ng/ml was found as an independent factor that was significantly associated with pulmonary metastasis whereas tumor stage T4 , nodal stage N2 and presence of lymphovascular invasion ( LVI ) were not independent clinicopathologic features associated with subsequent pulmonary metastases .
+Chest CT scan has greater sensitivity than chest radiography in detection of pulmonary metastasis and should be considered as an imaging study of choice for intensive chest surveillance for patients who had more than one of these risk factors .

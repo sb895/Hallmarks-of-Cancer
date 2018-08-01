@@ -1,0 +1,12 @@
+BACKGROUND Phosphorylation of the H2AX histone is an early indicator of DNA double-strand breaks and of the resulting DNA damage response .
+In the present study , we assessed the expression and prognostic significance of \u03b3-H2AX in a cohort of 96 patients with operable non-small cell lung carcinoma .
+METHODS Ninety-six paraffin-embedded specimens of non-small cell lung cancer patients were examined .
+All patients underwent radical thoracic surgery of primary tumor ( lobectomy or pneumonectomy ) and regional lymph node dissection. \u03b3-H2AX expression was assessed by standard immunohistochemistry .
+Follow-up was available for all patients ; mean duration of follow-up was 27.50 ± 14.07 months ( range 0.2-57 months , median 24 months ) .
+RESULTS Sixty-three patients ( 65.2% ) died during the follow-up period .
+The mean survival time was 32.2 ± 1.9 months ( 95% confidence interval [ CI ] : 28.5-35.8 months ; median 30.0 months ) ; 1- , 2- and 3-year survival rates were 86.5% ± 3.5% , 57.3% ± 5.1% , and 37.1% ± 5.4% , respectively .
+Low \u03b3-H2AX expression was associated with a significantly better survival as compared with those having high \u03b3-H2AX expression ( 35.3 months for low \u03b3-H2AX expression versus 23.2 months for high \u03b3-H2AX expression , P = 0.009 ; hazard ratio [ HR ] 1.95 , 95% CI : 1.15-3.30 ) .
+Further investigation with multivariate Cox proportional hazards regression analysis revealed that high expression of \u03b3-H2AX remained an independent prognostic factor of shorter overall survival ( HR 2.15 , 95% CI : 1.22-3.79 , P = 0.026 ) .
+A combined p53/\u03b3-H2AX analysis was performed , and we found that the p53 low/\u03b3-H2AX low phenotype was associated with significantly better survival compared with all other phenotypes .
+CONCLUSION Our study is the first to demonstrate that expression of \u03b3-H2AX detected by immunohistochemistry may represent an independent prognostic indicator of overall survival in patients with non-small cell lung cancer .
+Further studies are needed to confirm our results .

@@ -1,0 +1,8 @@
+Epidermal growth factor ( EGF ) receptor is inversely related to expression of estrogen receptor ( ER ) and progesterone receptor in primary breast tumors and is a negative predictor for response to endocrine therapy .
+To investigate a possible causal role of EGF receptor expression in breast cancer progression to hormone independence , we have created an experimental cell system .
+Epidermal growth factor receptor complementary DNA was introduced in estrogen-dependent ZR-75-1 breast cancer cells , and the resulting ZR/HERc cells exhibited a mitogenic response to epidermal growth factor , thus bypassing estrogen dependence .
+This EGF-induced proliferation could not be inhibited by antiestrogens .
+In addition , we noted changes in cell morphology and keratin expression of EGF-stimulated ZR/HERc cells , suggestive of an altered differentiation state .
+Furthermore , intolerance of functional ER and EGF receptor signal transduction pathways in ZR/HERc cells was observed during simultaneous activation , which possibly explains the inverse relationship of ER and EGF receptor expression in primary tumors .
+In contrast to the parental cells , ZR/HERc cells rapidly progressed to a stable ER-negative phenotype when cultured in the presence of the antiestrogen hydroxy-tamoxifen .
+These results suggest a possible role for EGF receptor in progression of breast cancer to hormone independence .

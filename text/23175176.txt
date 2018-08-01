@@ -1,0 +1,11 @@
+Polycyclic aromatic hydrocarbons ( PAHs ) likely play a role in many cancers even in never-smokers .
+We tried to find a model to explain the relationship between variation in PAH-related DNA adduct levels among people with similar exposures , multiple genetic polymorphisms in genes related to metabolic and repair pathways , and nucleotide excision repair ( NER ) capacity .
+In 111 randomly selected female never-smokers from the Golestan Cohort Study in Iran , we evaluated 21 SNPs in 14 genes related to xenobiotic metabolism and 12 SNPs in eight DNA repair genes .
+NER capacity was evaluated by a modified comet assay , and aromatic DNA adduct levels were measured in blood by32P-postlabeling .
+Multivariable regression models were compared by Akaike's information criterion ( AIC ) .
+Aromatic DNA adduct levels ranged between 1.7 and 18.6 per 10(8) nucleotides ( mean : 5.8 ± 3.1 ) .
+DNA adduct level was significantly lower in homozygotes for NAT2 slow alleles and ERCC5 non-risk-allele genotype , and was higher in the MPO homozygote risk-allele genotype .
+The sum of risk alleles in these genes significantly correlated with the log-adduct level ( r = 0.4 , p < 0.001 ) .
+Compared with the environmental model , adding Phase I SNPs and NER capacity provided the best fit , and could explain 17% more of the variation in adduct levels .
+NER capacity was affected by polymorphisms in the MTHFR and ERCC1 genes .
+Female non-smokers in this population had PAH-related DNA adduct levels three to four times higher than smokers and occupationally-exposed groups in previous studies , with large inter-individual variation which could best be explained by a combination of Phase I genes and NER capacity .

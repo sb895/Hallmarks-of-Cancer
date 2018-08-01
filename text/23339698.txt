@@ -1,0 +1,9 @@
+UVB is a major cause of nonmelanoma skin cancer in humans .
+Photochemoprevention represents an important strategy in protecting the skin against the detrimental effects of ultraviolet B ( UVB ) .
+We investigated the activity of Calluna vulgaris ( Cv ) delivered via a hydrogel on 3 main pathways ( oxidative stress , inflammation , DNA damage ) on skin exposed to multiple doses of UVB in SKH-1 mice .
+Fifty female mice were divided randomly into 5 groups : control , vehicle , UVB irradiated , Cv + UVB irradiated , and Cv + vehicle + UVB irradiated .
+The extract was applied topically on the skin in a dose of 4 mg polyphenols/cm2 30 minutes before each UVB ( 240 mJ/cm2 ) exposure over 10 consecutive days .
+Malondialdehyde , reduced glutathione , tumor necrosis factor-α , interleukin-6 , cyclobutane pyrimidine dimer ( CPD ) levels , sunburn cell formation and epidermal thickness , and the number of epidermal cell layers in skin were evaluated 24 hours after the last treatment .
+UVB increased cytokine levels ( P < 0.001 ) , formation of CPDs ( P < 0.001 ) and sunburn cells ( P < 0.001 ) , and the epidermal thickness and number of epidermal cell layers ( P < 0.001 ) compared with the control group .
+The topical application of Cv protected the skin against inflammation and DNA damage , as shown by a decreased number of CPDs ( P < 0.001 ) and sunburn cells ( P < 0.001 ) .
+The administration of Cv via hydrogel may be a viable method for chemoprevention. .

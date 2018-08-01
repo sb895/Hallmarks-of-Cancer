@@ -1,0 +1,11 @@
+BACKGROUND Special AT-rich binding protein-1 ( SATB1 ) reprograms chromatin organization and transcription profiles to promote tumour growth and metastasis .
+AIMS This study aimed to confirm the effects of SATB1 on the growth and metastasis of liver cancer and its specific regulation mechanism .
+METHODS SATB1 expression was evaluated in human hepatoma tissue , adjacent noncancerous tissue and seven kinds of liver cancer cell lines .
+Cell cycle , cell proliferation , apoptosis and epithelial-mesenchymal transition ( EMT ) was investigated after enhanced or silenced expression of SATB1 .
+The regulatory action of SATB1 on the expression of genes that are known to regulate cell cycle progression , apoptosis and EMT and the specific apoptotic pathway on which it acts were further analysed .
+Nude mice that received subcutaneous implantation were used to study the effects of SATB1 on tumour growth in vivo .
+RESULTS Our data show that the high expression of SATB1 was observed in the human hepatocellular carcinoma tissue ( 26/45 ) and liver cancer cell lines with high metastatic potential .
+SATB1 upregulated CDK4 and downregulated p16 ( INK ) ( 4A ) to promote cell cycle progression and cell proliferation and prevented apoptosis by inhibiting the FADD-caspase-8-caspase-3 death receptor-mediated apoptosis pathway .
+SATB1 also induced EMT concomitant with increased expression of Snail1 , Slug , Twist and vimentin and decreased expression of E-cadherin , tight junction protein ZO-1 and desmoplakin .
+SATB1 promoted the growth of tumour in vivo .
+CONCLUSION These data suggest that the SATB1 gene may play an important role in the development and progression of liver cancer by regulation of genes related to cell cycle progression , apoptosis and EMT .

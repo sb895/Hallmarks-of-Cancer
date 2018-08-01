@@ -1,0 +1,12 @@
+n-3 Polyunsaturated fatty acids ( PUFA ) have a chemopreventive effect while n-6 PUFA promote carcinogenesis .
+The effect of these essential fatty acids may be related to oxidative stress .
+Therefore , the study was designed to evaluate the effect of different ratios of fish oil ( FO ) and corn oil ( CO ) in the prevention of colon cancer .
+Male Wistar rats were divided into control , dimethylhydrazine dihydrochloride ( DMH ) treated , FO + CO ( 1:1 ) and FO + CO ( 2.5:1 ) .
+All the groups , except the control received a weekly injection of DMH for 4 weeks .
+The animals were sacrificed either 48 h later ( initiation phase ) or kept for 16 weeks ( post initiation phase ) .
+DMH treatment in the initiation phase animals showed mild to moderate inflammation , decreased ROS and TrxR activity , increased antioxidants , apoptosis and ACF multiplicity .
+The post initiation study showed severe inflammation with hyperplasia , increased ACF multiplicity and ROS levels , a decrease in antioxidants and apoptosis .
+The FO + CO ( 1:1 ) treated animals showed severe inflammation , a decrease in ROS , an increase in antioxidants and apoptosis in the initiation phase .
+FO + CO ( 1:1 ) in the post initiation phase and FO + CO ( 2.5:1 ) in the initiation showed mild inflammation , increased ROS , apoptosis and decreased antioxidants .
+There was a decrease in ACF multiplicity and ROS levels , increased antioxidants and apoptosis in the post initiation phase study .
+The present study suggests that FO has a dose- and time-dependent chemopreventive effect in colon cancer mediated through oxidative stress and apoptosis .

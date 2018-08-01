@@ -1,0 +1,8 @@
+Oxaliplatin is included in a number of effective combination regimens used as first and subsequent lines of therapy for metastatic colorectal cancer .
+Accumulating evidence indicates that autophagy plays a significant role in response to cancer therapy .
+However , the role of autophagy in oxaliplatin-induced cell death remains to be clarified .
+In this study , we showed that oxaliplatin induced cell death and autophagy in Caco-2 colorectal cancer cells .
+The suppression of autophagy using either pharmacologic inhibitors ( 3-methyladenine , bafilomycin A1 ) or RNA interference in essential autophagy genes ( ATG5 or Beclin1 ) enhanced the cell death and reactive oxygen species ( ROS ) production induced by oxaliplatin in Caco-2 cells .
+Blocking oxaliplatin-induced ROS production by using ROS scavengers ( NAC or Tiron ) decreased autophagy .
+Furthermore , numerous dilated endoplasmic reticula ( ER ) were present in oxaliplatin-treated Caco-2 cells , and blocking ER stress by RNA interference against candidate of metastasis-1 ( P8 ) and C/EBP-homologous protein ( CHOP ) decreased autophagy and ROS production .
+Taken together , these data indicate that oxaliplatin activates autophagy as a cytoprotective response via ER stress and ROS in human colorectal cancer cells .

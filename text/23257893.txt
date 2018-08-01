@@ -1,0 +1,13 @@
+BACKGROUND Sorafenib has recently been shown to reduce tumour growth in hepatoblastoma ( HB ) xenografts .
+The effect of a combined administration with cytostatic agents was now investigated .
+METHODS Cell viability after treatment with sorafenib and different cytostatic agents was evaluated in two HB cell lines ( HUH6 and HepT1 ) using MTT assay .
+ERK signalling was investigated by western blot , NOXA expression by rt-PCR , and formation of DNA adducts using immunocytology .
+NMRI mice bearing subcutaneous HUH6-derived tumours were treated with sorafenib alone or in combination with cisplatin .
+Tumour progression , viability , apoptosis , and vascularisation were monitored by tumour volume , AFP levels , TUNEL assay , and CD31 immunostaining , respectively .
+RESULTS The combination of sorafenib and cisplatin led to a remarkable decrease in cell viability .
+The cisplatin-induced enhanced ERK1/2 activation , but not NOXA expression and the formation of DNA adducts was partly abrogated by sorafenib .
+In HB xenografts , both , sorafenib and alternated application of sorafenib and cisplatin significantly reduced tumour growth ( P<0.05 ) .
+Levels of AFP were lower in both treated groups ( P=0.08 ) .
+Relative apoptotic areas were increased ( P=0.003 ) .
+Mean vascular density was the lowest in the sorafenib/CDDP group ( P=0.02 ) .
+CONCLUSION The combination of sorafenib with cisplatin might be a promising treatment option for high risk or recurrent HB .

@@ -1,0 +1,16 @@
+Breast cancer is the malignant neoplasia with the highest incidence in women worldwide .
+Chronic oxidative stress and inflammation have been indicated as major mediators during carcinogenesis and cancer progression .
+Human studies have not considered the complexity of tumor biology during the stages of cancer advance , limiting their clinical application .
+The purpose of this study was to characterize systemic oxidative stress and immune response parameters in early ( ED ; TNM I and II ) and advanced disease ( AD ; TNM III and IV ) of patients diagnosed with infiltrative ductal carcinoma breast cancer .
+Oxidative stress parameters were evaluated by plasmatic lipoperoxidation , carbonyl content , thiobarbituric reactive substances ( TBARS ) , nitric oxide levels ( NO ) , total radical antioxidant parameter ( TRAP ) , superoxide dismutase , and catalase activities and GSH levels .
+Immune evaluation was determined by TNF-α , IL-1β , IL-12 , and IL-10 levels and leukocytes oxidative burst evaluation by chemiluminescence .
+Tissue damage analysis included heart ( total CK and CKMB ) , liver ( AST , ALT , GGT ) , and renal ( creatinine , urea , and uric acid ) plasmatic markers .
+C-reactive protein ( CRP ) and iron metabolism were also evaluated .
+Analysis of the results verified different oxidative stress statuses occur at distinct cancer stages .
+ED was characterized by reduction in catalase , 8-isoprostanes , and GSH levels , with enhanced lipid peroxidation and TBARS levels .
+AD exhibited more pronounced oxidative status , with reduction in catalase activity and TRAP , intense lipid peroxidation and high levels of NO , TBARs , and carbonyl content .
+ED patients presented a Th2 immune pattern , while AD exhibited Th1 status .
+CRP levels and ferritin were increased in both stages of disease .
+Leukocytes burst impairment was observed in both the groups .
+Plasma iron levels were significantly elevated in AD .
+The data obtained indicated that oxidative stress enhancement and immune response impairment may be necessary to ensure cancer progression to advanced stages and may result from both host and tumor inflammatory mediators .

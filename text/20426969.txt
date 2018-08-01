@@ -1,0 +1,10 @@
+OBJECTIVE To explore the association between DNA damage induced by vinyl chloride monomer ( VCM ) and polymorphisms of DNA repair genes and xenobiotic metabolism genes of VCM .
+METHODS Comet assay was employed to detect DNA damage .
+Based on the status of DNA damage , the VCM exposure workers were divided into two groups : DNA damage group ( 75 ) and control group ( 75 ) .
+Case-control design was used to investigate the association between the genetic polymorphisms and DNA damage induced by VCM .
+Genotypes of XRCC1 ( Arg194Trp , Arg280His and Arg399Gln ) , XPD ( Ile199Met , Asp312Asn and Lys751Gln ) and CYP2E1 were identified by the PCR-RFLP .
+PCR assay was used to detect positive and null genotype of GSTT1 and GSTM1 .
+RESULTS Univariate analysis showed that the CYP2E1 c1c2/c2c2 and XPD751 Lys/Gln and Gln/Gln genotypes were significantly associated with the increased levels of DNA damage , XRCCI 339 Arg/Gln and Gln/Gln genotypes were significantly associated with the decreased levels of DNA damage ( P < 0.01 , P < 0.05 , respectively ) .
+Logistic regression analysis showed that there was significant association between the genotypes of XRCC1 194 , XRCC1 399 , XPD 751 , CYP2E1 and DNA damages .
+A prominent risk decreasing of DNA damage was observed for those individuals possessing XRCC1 399Arg/Gln + Gln/Gln genotypes ( OR : 0.35 , 95%CI : 0.12 approximately 1.01 , respectively ) ; The results also showed that there were significant associations between CYP2E1 c1c2/c2c2 and DNA damage both in high and low VCM-exposed groups ( OR : 2.57 , 95%CI : 1.01 approximately 6.59 and OR : 2.57 , 95%CI : 0.99 approximately 6.87 ) .
+CONCLUSION Cumulative exposure dose and genotypes of XRCC1 194 , XRCC1 399 , XPD 751 and CYP2E1 may modulate the DNA damage induced by VCM exposure .

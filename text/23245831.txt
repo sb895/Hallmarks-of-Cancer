@@ -1,0 +1,9 @@
+In normal human cells , oncogene-induced senescence ( OIS ) depends on induction of DNA damage response .
+Oxidative stress and hyperreplication of genomic DNA have been proposed as major causes of DNA damage in OIS cells .
+Here , we report that down-regulation of deoxyribonucleoside pools is another endogenous source of DNA damage in normal human fibroblasts ( NHFs ) undergoing HRAS(G12V)-induced senescence .
+NHF-HRAS(G12V) cells underexpressed thymidylate synthase ( TS ) and ribonucleotide reductase ( RR ) , two enzymes required for the entire de novo deoxyribonucleotide biosynthesis , and possessed low dNTP levels .
+Chromatin at the promoters of the genes encoding TS and RR was enriched with retinoblastoma tumor suppressor protein and histone H3 tri-methylated at lysine 9 .
+Importantly , ectopic coexpression of TS and RR or addition of deoxyribonucleosides substantially suppressed DNA damage , senescence-associated phenotypes , and proliferation arrest in two types of NHF-expressing HRAS(G12V) .
+Reciprocally , short hairpin RNA-mediated suppression of TS and RR caused DNA damage and senescence in NHFs , although less efficiently than HRAS(G12V) .
+However , overexpression of TS and RR in quiescent NHFs did not overcome proliferation arrest , suggesting that unlike quiescence , OIS requires depletion of dNTP pools and activated DNA replication .
+Our data identify a previously unknown role of deoxyribonucleotides in regulation of OIS .

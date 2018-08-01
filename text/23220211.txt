@@ -1,0 +1,13 @@
+The flow of interstitial fluid and the associated interstitial fluid pressure ( IFP ) in solid tumors and surrounding host tissues have been identified as critical elements in cancer growth and vascularization .
+Both experimental and theoretical studies have shown that tumors may present elevated IFP , which can be a formidable physical barrier for delivery of cell nutrients and small molecules into the tumor .
+Elevated IFP may also exacerbate gradients of biochemical signals such as angiogenic factors released by tumors into the surrounding tissues .
+These studies have helped to understand both biochemical signaling and treatment prognosis .
+Building upon previous work , here we develop a vascular tumor growth model by coupling a continuous growth model with a discrete angiogenesis model .
+We include fluid/oxygen extravasation as well as a continuous lymphatic field , and study the micro-environmental fluid dynamics and their effect on tumor growth by accounting for blood flow , transcapillary fluid flux , interstitial fluid flow , and lymphatic drainage .
+We thus elucidate further the non-trivial relationship between the key elements contributing to the effects of interstitial pressure in solid tumors .
+In particular , we study the effect of IFP on oxygen extravasation and show that small blood/lymphatic vessel resistance and collapse may contribute to lower transcapillary fluid/oxygen flux , thus decreasing the rate of tumor growth .
+We also investigate the effect of tumor vascular pathologies , including elevated vascular and interstitial hydraulic conductivities inside the tumor as well as diminished osmotic pressure differences , on the fluid flow across the tumor capillary bed , the lymphatic drainage , and the IFP .
+Our results reveal that elevated interstitial hydraulic conductivity together with poor lymphatic function is the root cause of the development of plateau profiles of the IFP in the tumor , which have been observed in experiments , and contributes to a more uniform distribution of oxygen , solid tumor pressure and a broad-based collapse of the tumor lymphatics .
+We also find that the rate that IFF is fluxed into the lymphatics and host tissue is largely controlled by an elevated vascular hydraulic conductivity in the tumor .
+We discuss the implications of these results on microenvironmental transport barriers , and the tumor invasive and metastatic potential .
+Our results suggest the possibility of developing strategies of targeting tumor cells based on the cues in the interstitial fluid .

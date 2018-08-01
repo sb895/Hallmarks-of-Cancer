@@ -1,0 +1,11 @@
+Breast cancer incidence is increased in women receiving menopausal hormone therapy with estrogen plus progestin but not with estrogen alone .
+The use of a tissue-selective estrogen complex ( TSEC ) has been proposed as a novel menopausal hormone therapy strategy to eliminate the requirement for a progestogen .
+Combination of bazedoxifene ( BZA ) with conjugated estrogens ( CEs ) , the first TSEC , has shown beneficial effects .
+Whether it would exert antiestrogenic effects on breast cancer is not clear .
+To address this issue , we compared estradiol ( E(2) ) and CE alone on proliferation and apoptosis in MCF-7 breast cancer cells .
+CE stimulated growth of MCF-7 cells at a peak concentration 10-fold higher than required for E(2) .
+Both CE and E(2) alone increased DNA synthesis and reduced apoptosis with activation of MAPK , Akt , and p70S6K and up-regulation of antiapoptotic factors survivin , Bcl-2 , and X-linked inhibitor of apoptosis protein , These effects could be completely blocked by BZA .
+Gene expression studies demonstrated that CE and E(2) were equally potent on expression of cMyc , pS2 , and WNT1 inducible signaling pathway protein 2 , whereas the stimulatory effects of CE on progesterone receptor and amphiregulin expression were weaker than E(2) .
+BZA effectively blocked each of these effects and showed no estrogen agonistic effects when used alone .
+Our results indicate that the stimulatory effects of E(2) or CE on breast cancer cells could be completely abrogated by BZA .
+These studies imply that the CE/BZA , TSEC , exerts antiestrogenic effects on breast cancer cells and might block the growth of occult breast neoplasms in postmenopausal women , resulting in an overall reduction in tumor incidence .

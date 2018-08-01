@@ -1,0 +1,10 @@
+Aberrant expression and polymorphism of fibroblast growth factor receptor 4 ( FGFR4 ) has been linked to tumor progression and anticancer drug resistance .
+We describe here a novel mechanism of tumor progression by matrix degradation involving epithelial-to-mesenchymal transition in response to membrane-type 1 matrix metalloproteinase ( MT1-MMP , MMP-14 ) induction at the edge of tumors expressing the FGFR4-R388 risk variant .
+Both FGFR4 and MT1-MMP were upregulated in tissue biopsies from several human cancer types including breast adenocarcinomas , where they were partially coexpressed at the tumor/stroma border and tumor invasion front .
+The strongest overall coexpression was found in prostate carcinoma .
+Studies with cultured prostate carcinoma cell lines showed that the FGFR4-R388 variant , which has previously been associated with poor cancer prognosis , increased MT1-MMP-dependent collagen invasion .
+In this experimental model , knockdown of FGFR4-R388 or MT1-MMP by RNA interference blocked tumor cell invasion and growth in collagen .
+This was coupled with impaired phosphorylation of FGFR substrate 2 and Src , upregulation of E-cadherin , and suppression of cadherin-11 and N-cadherin .
+These in vitro results were substantiated by reduced MT1-MMP content and in vivo growth of prostate carcinoma cells after the FGFR4-R388 gene silencing .
+In contrast , knockdown of the alternative FGFR4-G388 allele enhanced MT1-MMP and invasive tumor cell growth in vivo and within three-dimensional collagen .
+These results will help to explain the reported association of the FGFR4-R388 variant with the progression and poor prognosis of certain types of tumors .

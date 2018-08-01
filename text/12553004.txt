@@ -1,0 +1,8 @@
+Chinese medicinal herbs are traditionally used to prevent and treat a variety of diseases , including cancer .
+These herbal preparations are purported to have many biological effects including direct antiproliferative effects on cancer cells , anti-mutagenic activity , and stimulatory or suppressive effects on immune responses .
+The present study investigates the effects of aqueous extracts from seventy-one Chinese medicinal herbs on the growth of five breast cancer cell lines ( SK-BR-3 , MCF7 , MDA-MB-231 , BT-474 and MCNeuA ) .
+Twenty-one percent ( 15 out of 71 ) of the extracts demonstrated greater than 50% growth inhibition on at least 4 of the 5 cell lines .
+Dose-response curves were obtained for several of the most potent crude extracts and demonstrated IC50 values ranging from < 10 micrograms/ml to > 1 mg/ml .
+Six of seven herbs tested induced high molecular weight DNA fragmentation , an early marker of apoptosis , while one of these also induced low molecular weight DNA fragmentation .
+Flow cytometric analysis of breast cancer cells exposed to one of these herbs ( Rheum palmatum ) suggested that it arrests cells in the G2/M phase of the cell cycle .
+These results indicate that many of the herbs used in traditional Chinese medicine for the treatment of cancer have significant growth inhibitory effects on breast cancer cells in vitro .

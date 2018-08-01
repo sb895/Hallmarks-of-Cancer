@@ -1,0 +1,11 @@
+Environmental carcinogen exposure may play an important role in the incidence of cancer in children .
+In addition to environmental pollutants , maternal smoking during pregnancy may be a contributing factor .
+Major carcinogenic components of cigarette smoke and other combustion by-products in the environment include polycyclic aromatic hydrocarbons ( PAH ) .
+Mouse offspring exposed during midpregnancy to the PAH , benzo[a]pyrene ( B[a]P ) , show significant deficiencies in their immune functions , observed in late gestation which persist for at least 18 months .
+Tumor incidences in these progeny are 8 to 10-fold higher than in controls .
+We have demonstrated a significant reduction in thymocytes ( CD4+ CD8+ , CD4+ CD8+ Vbeta8+ , CD4+ CD8+ Vgamma2+ ) from newborn and splenocytes ( CD4+ CD8+ ) from 1-week-old mouse progeny exposed to B[a]P in utero .
+To investigate possible causes of the observed T cell reduction , we analyzed the thymocytes and splenocytes from progeny and maternal tissues for the presence of B[a]P-DNA adducts .
+Adducts were detected in maternal , placental and offspring lymphoid tissues at day 19 of gestation , at birth and 1-wk after birth .
+The presence of B[a]P-DNA adducts in immature T cells may , in part , explain the previously observed T cell immunosuppression and tumor susceptibility in mice exposed to B[a]P in utero .
+The effects of DNA lesions on progeny T cells may include interference with normal T-cell development .
+These results provide a possible explanation for the relationship between maternal smoking during pregnancy and childhood carcinogenesis .

@@ -1,0 +1,9 @@
+Melanoma cells express and interact with laminins ( LMs ) and other basement membrane components during invasion and metastasis .
+In the present study we have investigated the production and migration-promoting activity of laminin isoforms in melanoma .
+Immunohistochemistry of melanoma specimens and immunoprecipitation/western blotting of melanoma cell lines indicated expression of laminin-111/121 , laminin-211 , laminin-411/421 , and laminin-511/521 .
+Laminin-332 was not detected .
+In functional assays , laminin-111 , laminin-332 , and laminin-511 , but not laminin-211 and laminin-411 , strongly promoted haptotactic cell migration either constitutively or following stimulation with insulin-like growth factors .
+Both placenta and recombinant laminin-511 preparations were highly active , and the isolated recombinant IVa domain of LMα5 also promoted cell migration .
+Function-blocking antibodies in cell migration assays revealed α6β1 integrin as the major receptor for laminin-111 , and both α3β1 and α6β1 integrins for laminin-332 and laminin-511 .
+In contrast , isolated LMα5 IVa domain-promoted melanoma cell migration was largely mediated via αVβ3 integrin and inhibited by RGD peptides .
+Given the ubiquitous expression of α5 laminins in melanoma cells and in melanoma-target tissues/anatomical structures , as well as the strong migration-promoting activity of these laminin isoforms , the α5 laminins emerge as putative primary extracellular matrix mediators of melanoma invasion and metastasis via α3β1 and other integrin receptors .

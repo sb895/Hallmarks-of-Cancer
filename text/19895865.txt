@@ -1,0 +1,10 @@
+Chromated copper arsenate , which is used worldwide as a wood preservative , can adversely affect human health .
+Accumulating evidence suggests that chromium ( Cr ) and arsenic ( As ) can potentially disrupt the redox balance and cause respiratory diseases and cancer in humans .
+The present study was designed to determine the combined toxic effects of these metals in the lungs and to clarify the specific molecules that are stimulated by combined exposure to both metals .
+Male C57BL/6J mice were intratracheally instilled with arsenate [ As(V) ] , hexavalent chromium [ Cr(VI) ] , or a combination of both metals .
+Mice were sacrificed 2 days after treatment to collect bronchoalveolar lavage fluid and lung tissue samples .
+Inflammation , cytotoxicity , apoptosis , and oxidative stress markers were measured .
+Our results indicated that administration of Cr(VI) alone or in combination with As(V) induced neutrophil-dominant inflammation as well as phosphorylation of mitogen-activated protein kinases ; effects of treatment with As(V) alone were comparatively less potent .
+By analyzing the production of interleukin-6 and activity of lactate dehydrogenase and caspase , we confirmed that co-treatment intensified pulmonary injury and that it was accompanied by oxidative stress , as confirmed by marked increases in the production of reactive oxygen species , reduced glutathione content , and thioredoxin reductase ( TRXRD ) activity .
+Expressed mRNA levels of heme oxygenase-1 , glutamylcysteine ligase , glutathione peroxidase 2 , thioredoxin ( TRX ) 1 , and TRXRD1 were also enhanced by co-treatment , whereas treatment with As(V) alone reduced the mRNA expression level of TRX2 .
+Our data suggest that co-treatment with As(V) exacerbated Cr(VI)-induced pulmonary injury and that this effect may be exerted through a disruption in the balance among several antioxidant genes .

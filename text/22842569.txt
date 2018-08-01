@@ -1,0 +1,7 @@
+Gene trapping is a method of inserting DNA into the genome at random , generating insertional mutations throughout the genome .
+The efficiency of retroviral gene trapping is not sufficient in part because of a strong preference for retroviral integration near transcription start sites .
+In contrast , lentiviral vectors strongly favor integration in the entire region of highly active genes , suggesting that lentiviral vectors would improve the efficiency of gene trapping .
+In this study , we constructed both lentiviral and retroviral gene-trap vectors and analyzed integration sites in mouse embryonic stem ( ES ) cells .
+The frequency of false-positive gene-trap events was about 12-fold higher for the retroviral vector compared to the lentiviral vector .
+Within intragenic regions , most of the retroviral vector integration sites were found in the 5 ' untranslated region , while the lentiviral vector integrated uniformly throughout transcriptional units .
+The trapping efficiency of unique genes was significantly higher for the lentiviral vector ( than for the retroviral vector ( Our data demonstrate that the lentiviral vector can trap the active genes more efficiently than the retroviral vector and will facilitate efficient generation of gene-trap libraries not only in ES cells but also in a wide variety of cell lines and primary cells .

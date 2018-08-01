@@ -1,0 +1,11 @@
+This study was set up to investigate the relationships between the formation and removal of DNA damage in form of 8-oxodeoxyguanosine ( 8-oxodG ) in neonatal ( day 16 of gestation ) as compared to adult rats .
+The hypothesis addressed was whether the rapidly dividing foetal tissue has an enhanced requirement of DNA repair providing protection against potentially mutagenic DNA damages such as 8-oxodG .
+The activity of the primary 8-oxodG-repair protein OGG1 was measured by a DNA incision assay and the expression of OGG1 mRNA was measured by Real-Time PCR normalised to 18S rRNA .
+The tissue level of 8-oxodG was measured by HPLC-ECD .
+We found a 2-3-fold increased incision activity in the foetal control tissue , together with a 3-15-fold increase in mRNA of OGG1 as compared to liver tissue from adult rats .
+The levels of 8-oxodG in the foetal tissue were unaltered as compared to the adult groups .
+To increase the levels of 8-oxodG , the rats received an injection ( i.p. ) of the hepatotoxin 2-nitropropane .
+The compound induced significant levels of 8-oxodG in male rat livers 5h after the injection and in the foetuses 24h after the injection , while the female rats showed no increase in 8-oxodG .
+The incision activity was slightly depressed in both male and female liver tissue and in the foetal tissue 5h after the injection , but significantly increased from 5 to 24h after the injection .
+However , it did not reach levels significantly above the control levels .
+In conclusion , this study confirms that foetal tissue has increased levels of OGG1 mRNA and correspondingly an enhanced incision activity on an 8-oxodG substrate in a crude tissue extract .

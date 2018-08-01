@@ -1,0 +1,12 @@
+Chronic myelogenous leukemia ( CML ) results from a chromosomal translocation in hematopoietic stem or early progenitor cells that gives rise to the oncogenic BCR/ABL fusion protein .
+Clinically , CML has a chronic phase that eventually evolves into an accelerated stage and blast crisis .
+A CML-specific immune response is thought to contribute to the control of disease .
+Whether the immune system can also promote disease progression is not known .
+In the present study , we investigated the possibility that the TNF receptor family member CD27 is present on leukemia stem cells ( LSCs ) and mediates effects of the immune system on CML .
+In a mouse model of CML , BCR/ABL+ LSCs and leukemia progenitor cells were found to express CD27 .
+Binding of CD27 by its ligand , CD70 , increased expression of Wnt target genes in LSCs by enhancing nuclear localization of active β-catenin and TRAF2- and NCK-interacting kinase ( TNIK ) .
+This resulted in increased proliferation and differentiation of LSCs .
+Blocking CD27 signaling in LSCs delayed disease progression and prolonged survival .
+Furthermore , CD27 was expressed on CML stem/progenitor cells in the bone marrow of CML patients , and CD27 signaling promoted growth of BCR/ABL+ human leukemia cells by activating the Wnt pathway .
+Since expression of CD70 is limited to activated lymphocytes and dendritic cells , our results reveal a mechanism by which adaptive immunity contributes to leukemia progression .
+In addition , targeting CD27 on LSCs may represent an attractive therapeutic approach to blocking the Wnt/β-catenin pathway in CML .

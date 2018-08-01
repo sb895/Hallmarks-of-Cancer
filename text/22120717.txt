@@ -1,0 +1,12 @@
+P53 has an important role in the processing of starvation signals .
+P53-dependent molecular mediators of the Warburg effect reduce glucose consumption and promote mitochondrial function .
+We therefore hypothesized that the retention of wild-type p53 characteristic of primary glioblastomas limits metabolic demands induced by deregulated signal transduction in the presence of hypoxia and nutrient depletion .
+Here we report that short hairpin RNA-mediated gene suppression of wild-type p53 or ectopic expression of mutant temperature-sensitive dominant-negative p53(V135A) increased glucose consumption and lactate production , decreased oxygen consumption and enhanced hypoxia-induced cell death in p53 wild-type human glioblastoma cells .
+Similarly , genetic knockout of p53 in HCT116 colon carcinoma cells resulted in reduced respiration and hypersensitivity towards hypoxia-induced cell death .
+Further , wild-type p53 gene silencing reduced the expression of synthesis of cytochrome c oxidase 2 ( SCO2 ) , an effector necessary for respiratory chain function .
+An SCO2 transgene reverted the metabolic phenotype and restored resistance towards hypoxia in p53-depleted and p53 mutant glioma cells in a rotenone-sensitive manner , demonstrating that this effect was dependent on intact oxidative phosphorylation .
+Supplementation with methyl-pyruvate , a mitochondrial substrate , rescued p53 wild-type but not p53 mutant cells from hypoxic cell death , demonstrating a p53-mediated selective aptitude to metabolize mitochondrial substrates .
+Further , SCO2 gene silencing in p53 wild-type glioma cells sensitized these cells towards hypoxia .
+Finally , lentiviral gene suppression of SCO2 significantly enhanced tumor necrosis in a subcutaneous HCT116 xenograft tumor model , compatible with impaired energy metabolism in these cells .
+These findings demonstrate that glioma and colon cancer cells with p53 wild-type status can skew the Warburg effect and thereby reduce their vulnerability towards tumor hypoxia in an SCO2-dependent manner .
+Targeting SCO2 may therefore represent a valuable strategy to enhance sensitivity towards hypoxia and may complement strategies targeting glucose metabolism .

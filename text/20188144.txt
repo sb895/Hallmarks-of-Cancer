@@ -1,0 +1,10 @@
+BACKGROUND Non-alcoholic fatty liver disease ( NAFLD ) is associated with obesity , insulin resistance and hepatic steatosis .
+Non-alcoholic steatohepatitis ( NASH ) is a serious consequence of NAFLD where chronic tissue damage and inflammation result in fibrosis which may progress to cirrhosis .
+Transforming growth factor beta1 ( TGFbeta1 ) , proinflammatory cytokines and oxidative stress are thought to play crucial roles in the pathogenesis of these conditions .
+The contributions of individual liver cell types to fibrogenesis remain controversial and the influence of selenium status has not been investigated .
+METHODS In this study we have used a cell culture model of fat-loading using oleate-treated human hepatoblastoma ( C3A ) cells to investigate how fat-loading and selenium status might influence the production of collagen in response to TGFbeta1 .
+The secretion of inflammatory cytokines was also investigated , together with the epithelial character of the treated cells .
+RESULTS We found that in response to treatment with TGFbeta1 , C3A cells produced mRNA encoding the pro-alphaI chain of procollagen I , secreted procollagen I peptide , up-regulated production of the proinflammatory cytokine interleukin-8 ( IL-8 ) and the mesenchymal marker vimentin , and down-regulated albumin production .
+Most of these responses were considerably enhanced when cells were fat-loaded with oleate and were attenuated by selenium addition at a dose that optimised the expression of thioredoxin reductase and glutathione peroxidase .
+CONCLUSIONS Our data establish that both fat-loading and suboptimal selenium status enhance collagen and IL-8 production by C3A hepatocytes in response to TGFbeta1 , possibly as part of an epithelial to mesenchymal transition .
+GENERAL SIGNIFICANCE These findings suggest that the hepatocyte may be an important contributor to the pathogenesis of fibrosis associated with NAFLD .

@@ -1,0 +1,8 @@
+Treacher-Collins-Franceschetti syndrome ( TCS ) is an autosomal dominant craniofacial disorder characterised by midface hypoplasia , micrognathia , downslanting palpebral fissures , eyelid colobomata , and ear deformities that often lead to conductive deafness .
+A total of 182 patients with signs consistent with a diagnosis of TCS were screened by DNA sequence and dosage analysis of the TCOF1 gene .
+In all , 92 cases were found to have a pathogenic mutation by sequencing and 5 to have a partial gene deletion .
+A further case had a novel in-frame deletion in the alternatively spliced exon 6A of uncertain pathogenicity .
+The majority of the pathogenic sequence changes were found to predict premature protein termination , however , four novel missense changes in the LIS1 homology motif at the 5 ' end of the gene were identified .
+The partial gene deletions of different sizes represent of all the pathogenic TCOF1 mutations identified , indicating that gene rearrangements account for a significant proportion of TCS cases .
+This is the first report of gene rearrangements resulting in TCS .
+These findings expand the TCOF1 mutation spectrum indicating that dosage analysis should be performed together with sequence analysis , a strategy that is predicted to have a sensitivity of 71% for patients in whom TCS is strongly suspected .

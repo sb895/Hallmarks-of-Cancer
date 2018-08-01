@@ -1,0 +1,10 @@
+Colorectal cancer represents one of the most challenging diseases .
+Increasing evidence indicates that aberrant expression of microRNAs ( miRNAs ) is related to pathogenesis of colorectal cancer .
+Cancer cells reprogram metabolic pathways to sustain higher proliferation rates .
+Whether mechanisms underlying the role of miRNA in colorectal cancer are involved in metabolic reprogramming and the mechanisms through which miRNAs alter cancer metabolism are as yet unknown .
+Herein , we show that miR-124 , miR-137 and miR-340 are associated with poor prognosis of colorectal cancer .
+Expression of these miRNAs inhibits the growth of colorectal cancer cells .
+PKM ( pyruvate kinase isozyme ) alternative splicing proteins ( PTB1/hnRNAPA1/hnRNAPA2 ) , which control the inclusion of exon 9 ( PKM1 ) or exon 10 ( PKM2 ) , are targeted by miR-124 , miR-137 and miR-340 .
+Consequently , miR-124 , miR-137 and miR-340 switch PKM gene expression from PKM2 to PKM1 .
+High ratios of PKM1/PKM2 inhibit the glycolysis rate , but elevate the glucose flux into oxidative phosphorylation .
+These results demonstrate that miRNAs ( miR-124 , miR-137 and miR-340 ) impair colorectal cancer growth by counteracting the Warburg effect due to regulating alternative splicing of the PKM gene .

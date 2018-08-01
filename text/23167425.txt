@@ -1,0 +1,9 @@
+Invasion and metastasis are the major causes of cancer-related death .
+Pharmacological or therapeutic interventions such as chemoprevention of the progression stages of neoplastic development could result in substantial reduction in the incidence of cancer mortality .
+( -)-Epigallocatechin-3-gallate ( EGCG ) , a promising chemopreventive agent , has attracted extensive interest for cancer therapy utilizing its antioxidant , anti- proliferative and inhibitory effects on angiogenesis and tumor cell invasion .
+In this study , we assessed the influence of EGCG on the proliferative potential of HeLa cells by cell viability assay and authenticated the results by nuclear morphological examination , DNA laddering assay and cell cycle analysis .
+Further we analyzed the anti-invasive properties of EGCG by wound migration assay and gene expression of MMP-9 and TIMP-1 in HeLa cells .
+Our results indicated that EGCG induced growth inhibition of HeLa cells in a dose- and time- dependent manner .
+It was observed that cell death mediated by EGCG was through apoptosis .
+Interestingly , EGCG effectively inhibited invasion and migration of HeLa cells and modulated the expression of related genes ( MMP-9 and TIMP-1 ) .
+These results indicate that EGCG may effectively suppress promotion and progression stages of cervical cancer development .

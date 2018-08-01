@@ -1,0 +1,14 @@
+Bone marrow transplantation ( BMT ) , used to treat severe hematological malignancies , often leads to potentially fatal acute graft-versus-host disease ( GVHD ) , despite attempts for better matching and/or use of immune suppressive agents .
+We reported that embryo-derived PreImplantation-Factor plays a determining role in developing maternal/host tolerance towards the semi/allogenic embryo and regulating systemic immune response .
+Synthetic PIF ( PIF ) treatment is effective preventing immune attack in non-pregnant models of autoimmunity .
+Herein , we test PIF ability to prevent acute GVHD development in semi or totally allogenic murine models .
+We examine PIF's regulatory effect in vivo and in vitro , to control deleterious GVHD while maintaining its ability to preserve beneficial graft vs. leukemia ( GVL effect ) .
+Bone marrow and spleen cells from C57BL/6 donors were transplanted to semi-allogenic ( C57BL/6�BALB/c ) F1 or allogenic ( BALB/c ) recipients , and then treated with PIF1mg/kg/day/2weeks .
+Short-term PIF administration reduced acute GVHD in both models and increased survival for up to four months after semi-(or totally ) allogenic BMT .
+The obtained effect was coupled with lessened skin ( semi-allogenic ) and decreased liver inflammation ( both models ) as well as reduced colon ulceration ( allogenic ) .
+Both GVHD associated cytokines and chemokines gene expression were decreased in the liver .
+PIF further lowered circulating interleukin-17 , but not interferon-γ levels .
+PIF treatment was demonstrated in vivo and in vitro to lead to decreased iNOS expression and in LPS-activated macrophages to lower nitric oxide secretion .
+Significantly , PIF did not impair the beneficial GVL effect in the B-cell leukemia model .
+PIF primarily acts by inducing regulatory phenotype on monocytes/APC , which controls T-cell proliferation .
+Overall our data demonstrates that PIF protects against semi/allogenic GVHD long-term by reducing both target organ and systemic inflammation and by lowering oxidative stress , all while preserving the beneficial GVL effect .

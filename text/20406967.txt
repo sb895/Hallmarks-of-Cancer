@@ -1,0 +1,11 @@
+We studied the effect of the immune system on two differentially aggressive melanomas developing in mice on conditional deletion of the INK4A/ARF tumor suppressor gene , with concomitant expression of oncogene H-Ras(G12V) and a natural cancer-germline tumor antigen ( TA ) .
+" Slow progressor " melanomas contained no activated T lymphocytes ( TL ) .
+In contrast , " aggressive " melanomas were infiltrated by activated TLs lacking effector molecules and expressing high levels of PD-1 , indicating an exhausted phenotype .
+Aggressive melanomas were also infiltrated by immature myeloid cells ( IMC ) .
+Infiltration was associated with local inflammation and systemic Th2/Th17-oriented chronic inflammation that seemed to impair further activation of TLs , as tumor-specific T cells adoptively transferred into mice bearing aggressive melanomas were poorly activated and failed to infiltrate the melanoma .
+This immunosuppression also led to the incapacity of these mice to reject inoculated TA-positive tumors , in contrast to slow-progressing melanoma-bearing mice , which were responsive .
+To test the role of adaptive immunity in tumor progression , we induced melanomas in immunodeficient RagKO compound mice .
+These mice developed aggressive but not slow-progressing melanomas at a higher frequency and with a shorter latency than immunocompetent mice .
+Immunodeficient mice also developed abnormal inflammation and infiltration of IMCs in a manner similar to immunocompetent mice , indicating that this phenotype was not dependent on adaptive immunity .
+Therefore , tumor-intrinsic factors distinguishing the two melanoma types control the initiation of inflammation , which was independent of adaptive immunity .
+The latter delayed development of aggressive melanomas but was overridden by inflammation .

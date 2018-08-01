@@ -1,0 +1,10 @@
+Lymphocytes are a key component of the immune system and their differentiation and function are directly influenced by cancer .
+We examined peripheral blood lymphocyte ( PBL ) gene expression as a biomarker of illness and treatment effect using the Affymetrix Human Gene ST1 platform in patients with metastatic renal cell carcinoma ( mRCC ) who received combined treatment with IL-2 , interferon-?-2a and dendritic cell vaccine .
+We examined gene expression , cytokine levels in patient serum and lymphocyte subsets as determined by flow cytometry ( FCM ) .
+Pre-treatment PBLs from patients with mRCC exhibit a gene expression profile and serum cytokine profile consistent with inflammation and proliferation not found in healthy donors ( HD ) .
+PBL gene expression from patients with mRCC showed increased mRNA of genes involved with T-cell and T(REG)-cell activation pathways , which was also reflected in lymphocyte subset distribution .
+Overall , PBL gene expression post-treatment ( POST ) was not significantly different than pre-treatment ( PRE ) .
+Nevertheless , treatment related changes in gene expression ( post-treatment minus pre-treatment ) revealed an increased expression of T-cell and B-cell receptor signaling pathways in responding ( R ) patients compared to non-responding ( NR ) patients .
+In addition , we observed down-regulation of T(REG)-cell pathways post-treatment in R vs. NR patients .
+While exploratory in nature , this study supports the hypothesis that enhanced inflammatory cytotoxic pathways coupled with blunting of the regulatory pathways is necessary for effective anti-cancer activity associated with immune therapy .
+This type of analysis can potentially identify additional immune therapeutic targets in patients with mRCC .

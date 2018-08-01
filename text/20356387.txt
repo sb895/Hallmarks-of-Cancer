@@ -1,0 +1,12 @@
+BACKGROUND Autotaxin ( ATX ) is an extracellular lysophospholipase D that generates lysophosphatidic acid ( LPA ) from lysophosphatidylcholine ( LPC ) .
+Both ATX and LPA have been shown to be involved in many cancers .
+However , the functional role of ATX and the regulation of ATX expression in human hepatocellular carcinoma ( HCC ) remain elusive .
+RESULTS In this study , ATX expression was evaluated in tissues from 38 human HCC and 10 normal control subjects .
+ATX was detected mainly in tumor cells within tissue sections and its over-expression in HCC was specifically correlated with inflammation and liver cirrhosis .
+In addition , ATX expression was examined in normal human hepatocytes and liver cancer cell lines .
+Hepatoma Hep3B and Huh7 cells displayed stronger ATX expression than hepatoblastoma HepG2 cells and normal hepatocytes did .
+Proinflammtory cytokine tumor necrosis factor alpha ( TNF-alpha ) promoted ATX expression and secretion selectively in Hep3B and Huh7 cells , which led to a corresponding increase in lysophospholipase-D activity .
+Moreover , we explored the mechanism governing the expression of ATX in hepatoma cells and established a critical role of nuclear factor-kappa B ( NF-kappaB ) in basal and TNF-alpha induced ATX expression .
+Further study showed that secreted enzymatically active ATX stimulated Hep3B cell invasion .
+CONCLUSIONS This report highlights for the first time the clinical and biological evidence for the involvement of ATX in human HCC .
+Our observation that links the TNF-alpha/NF-kappaB axis and the ATX-LPA signaling pathway suggests that ATX is likely playing an important role in inflammation related liver tumorigenesis .

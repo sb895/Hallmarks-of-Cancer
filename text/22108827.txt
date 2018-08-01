@@ -1,0 +1,10 @@
+Androgen deprivation is currently a standard-of-care , first-line therapy for prostate cancer in the United States .
+Although this regimen effectively regresses androgen-dependent disease , relapse often occurs in an androgen-independent manner and is associated with poor prognosis .
+Such castration-resistant prostate cancer represents a major clinical challenge , and the mechanisms underlying castration resistance are not fully understood .
+Epithelial-mesenchymal transition ( EMT ) is a key developmental process and has also been implicated in cancer metastasis and therapeutic resistance in recent years .
+However , the factors contributing to EMT in human cancers remain unclear .
+Here , we show that both normal mouse prostate tissue and human LuCaP35 prostate tumor explants display an EMT as well as increased stem cell-like features following androgen deprivation .
+Importantly , we observed similar changes in mesenchymal features in prostate tumors from patients treated with androgen-deprivation therapy .
+In addition , we have delineated a feedback loop involving the androgen receptor and the Zeb1 transcription factor that seems to mediate this transition .
+In summary , we show for the first time that androgen deprivation induces EMT in both normal prostate and prostate cancer , revealing a potentially important consequence of a standard-of-care treatment for prostate cancer .
+This finding could have significant implications for second-line treatment strategies in this clinical setting .

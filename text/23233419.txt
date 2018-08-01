@@ -1,0 +1,11 @@
+Pancreatic ductal adenocarcinoma ( PDAC ) is one of the most aggressive human neoplasms with extremely poor prognosis and a low survival rate .
+Immunosuppressive cell populations , e.g. regulatory T cells ( Treg ) , appear to be important in PDAC , contributing to patient's poor prognosis .
+Therefore , we investigated the PDAC microenvironment with a focus on conventional and regulatory T cells in view of their potential therapeutic importance .
+We found that tumors from the murine Panc02 orthotopic model of PDAC were infiltrated with high numbers of Treg .
+Remarkably , these cells exhibited the effector/memory phenotype , suggesting their enhanced suppressive activity and higher proliferation capacity .
+Although we observed a steady increase in transforming growth factor-β ( TGF-β ) levels in the tumors , treatment with a specific inhibitor of TGF-β receptor I kinase failed to abrogate Treg accumulation .
+A CCR4 antagonist did not affect Treg percentage in the tumor either .
+However , intense Treg cell division in the tumor microenvironment was demonstrated , suggesting local proliferation as a major mechanism of Treg accumulation in PDAC .
+Notably , this accumulation was reduced by low-dose gemcitabine administration , resulting in a modestly increased survival of PDAC mice .
+Our results provide an insight into mechanisms of immunosuppression in PDAC , suggesting an important role for proliferative expansion of effector/memory Treg .
+Low-dose gemcitabine therapy selectively depletes Treg , providing a basis for new modalities of PDAC therapy .

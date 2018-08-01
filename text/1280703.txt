@@ -1,0 +1,12 @@
+We have isolated rabbit kidney proximal tubular epithelial cell lines .
+The selection was based on their ability to form confluent monolayers on porous supports and to maintain receptor-mediated signal transduction and ion transport , characteristic of the proximal tubule .
+The isolation method consisted of several steps : ( 1 ) superficial cortical proximal tubule segments were microdissected and cultured on a matrix-coated porous support until cells formed a confluent monolayer ; ( 2 ) primary cultures showing hormone-regulated ion transport typical for the proximal tubule were selected and co-cultured with irradiated fibroblasts ; and ( 3 ) the epithelial cells surviving after several passages were expanded and passaged on porous substrates .
+Most of the cell lines developed in this manner were obtained by co-culture with irradiated fibroblasts producing a recombinant retrovirus encoding SV40 large T antigen and G418 resistance .
+However , SV40 T antigen expression was not essential for immortalization , since neither T antigen nor G418 resistance was detected in the isolated cell lines and co-culture with non-producing 3T3 cells gave similar results .
+One cell line ( vEPT ) has been characterized in some detail with respect to morphological , biochemical , and ion transport properties .
+This line forms confluent monolayers with apical microvilli , tight junctions , and convolutions of the basolateral plasma membrane .
+Once confluent , monolayers maintain conductances of 25 to 32 mS/cm2 for several weeks in culture and possess phlorizin-sensitive short-circuit current ( Isc ) in glucose containing media , indicative of apical Na(+)-glucose co-transport. vEPT cells also retain receptor and signaling mechanisms for angiotensin II ( Ang II ) .
+Apical and basal Ang II and 5,6-epoxy-eicosatrienoic acid ( 5,6-EET ) modulate the Isc in a manner similar to primary cultures .
+The cell lines share with primary cultures expression of the cytokeratins K8 , K10/K11 , and K19 ( "nomenclature " [ 21] ) .
+They also retain several receptor and signal transduction mechanisms .
+For example , Ang II , arachidonate , bradykinin , 5,6-EET , parathyroid hormone ( residues 1 through 34 ) , and purine nucleotides increase cytosolic Ca2+ , PTH elevates cAMP levels , and Ang II enhances proximal tubule-specific arachidonic acid metabolism .

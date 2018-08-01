@@ -1,0 +1,8 @@
+PRL induces quiescent Nb2 rat T-lymphoma cells to undergo mitogenesis .
+Upon PRL stimulation , the transcription factor interferon regulatory factor-1 ( IRF-1 ) is induced as a novel T-cell activation gene in Nb2 cells .
+Surprisingly , IRF-1 is expressed twice during a single PRL-induced growth cycle : first during the early G1 phase , in an immediate transient peak from 15 min to 2 h , and second during the G1/S phase transition , in a broader peak beginning at 8 h .
+The unusual biphasic expression of IRF-1 mRNA is accompanied both times by de novo IRF-1 protein synthesis .
+However , the rate of IRF-1 protein turnover appears to be different in G1 and S phases .
+IRF-1 protein expressed in G1 exhibits a half-life of about 25 min , whereas in the S phase , the half-life is about 60 min .
+By washing out PRL at various times during G1 , we found a direct correlation among the length of PRL exposure , the second peak of IRF-1 mRNA expression , and DNA synthesis .
+Our data suggest that PRL and one putative nuclear mediator , IRF-1 , may be important in two distinct phases of the cell cycle : first in cell cycle activation , and then in S phase progression .

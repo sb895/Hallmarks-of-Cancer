@@ -1,0 +1,10 @@
+Hypoxia–reoxygenation ( HR ) is a primary driver of angiogenesis in both atherogenesis and tumorigenesis .
+The main target of hypoxia-driven proangiogenic signaling is adherens junctions responsible for contact inhibition of endothelial cells .
+We analyzed the effects of hypoxia ( 8–12 hours ) followed by a brief period of reoxygenation ( 2 hours ) ( HR ) on angiogenesis and integrity of adherens junction in cultured human umbilical vein endothelial cells as well as the effects of aspirin on modulation of human umbilical vein endothelial cells ' response to HR .
+Cells exposed to HR displayed considerable enhancement of tube formation ( angiogenesis ) on matrigel .
+Immunocytostaining of near-confluent cells revealed that HR caused disruption of adherens junctions and internalization of their components VE-cadherin , p120 catenin , and b-catenin .
+Additionally , HR resulted in the appearance of binucleated cells , and VE-cadherin in colocalization with b-catenin was found to be positioned between the separating nuclei .
+Presence of aspirin ( acetylsalicylic acid , 1 mM ) resulted in preservation of adherens junctions on the cellular membrane and prevented angiogenesis as well as mitosis .
+HR caused upregulation LOX-1 , the p47(phox) subunit of NADPH , while reducing transcription of endothelial nitric oxide synthase .
+Aspirin had no effect on endothelial nitric oxide synthase and canceled the transcriptional activation of the LOX-1 and p47(phox) subunit of NADPH oxidase .
+Based on these data , we hypothesize that aspirin preserves the integrity of adherens junctions and thus blunts angiogenic response to HR through downregulation of LOX-1 and the LOX-1-mediated p47(phox) component of NADPH oxidase transcription , thus preventing NADPH oxidase assembly and function .

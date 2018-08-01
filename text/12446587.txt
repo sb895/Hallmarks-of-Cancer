@@ -1,0 +1,9 @@
+Peptide growth factors have been implicated in progression of prostate cancer ( PCa ) to the androgen-independent state ; however , much of the evidence linking diffusible mitogens and survival factors to this process remains circumstantial .
+Heparin-binding epidermal growth factor-like growth factor ( HB-EGF ) , a prostate stroma-derived factor , promotes survival , proliferation , and neuroendocrine differentiation of androgen-dependent LNCaP PCa cells in vitro .
+To test whether sustained exposure to HB-EGF can confer an androgen-independent phenotype , we generated stable populations of LNCaP cells that express constitutively a secreted form of HB-EGF ( LNCaP/sHB ) .
+LNCaP/sHB cells proliferated more rapidly under androgen-depleted conditions in vitro and formed larger tumors with higher frequency in intact and castrated severe combined immunodeficient mice , in comparison to control cells .
+LNCaP/sHB tumors also expressed higher levels of the neuroendocrine marker , neuron-specific enolase , compared with control tumors .
+In castrates , increased neuron-specific enolase expression in LNCaP/sHB tumors was associated with reduced androgen receptor ( AR ) levels .
+In vitro , AR protein levels were reduced in LNCaP/sHB cells , and in transient transfection assays using an androgen-responsive promoter ( mouse mammary tumor virus-long terminal repeat ) , LNCaP/sHB cells showed reduced sensitivity to dihydrotestosterone compared with controls .
+This is the first demonstration that continuous exposure of AR-positive PCa cells to a single growth factor can promote an androgen-independent phenotype in vivo .
+These findings also emphasize the potential role of pathways other than the AR axis in acquisition of androgen independence .

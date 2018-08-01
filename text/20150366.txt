@@ -1,0 +1,9 @@
+Although the etiology of primary brain tumors is largely unknown , prior studies suggest that DNA repair polymorphisms may influence risk of glioma .
+Altered DNA repair is also likely to affect the risk of meningioma and acoustic neuroma , but these tumors have not been well studied .
+We estimated the risk of glioma ( n = 362 ) , meningioma ( n = 134 ) , and acoustic neuroma ( n = 69 ) in non-Hispanic whites with respect to 36 single nucleotide polymorphisms from 26 genes involved in DNA repair in a hospital-based , case-control study conducted by the National Cancer Institute .
+We observed significantly increased risk of meningioma with the T variant of GLTSCR1 rs1035938 ( OR(CT/TT) = 3.5 ; 95% confidence interval : 1.8-6.9 ; P(trend) .0006 ) , which persisted after controlling for multiple comparisons ( P = .019 ) .
+Significantly increased meningioma risk was also observed for the minor allele variants of ERCC4 rs1800067 ( P(trend) .01 ) ; MUTYH rs3219466 ( P(trend) .02 ) , and PCNA rs25406 ( P(trend) .03 ) .
+The NBN rs1805794 minor allele variant was associated with decreased meningioma risk ( P(trend) .006 ) .
+Risk of acoustic neuroma was increased for the ERCC2 rs1799793 ( P(trend) .03 ) and ERCC5 rs17655 ( P(trend) .05 ) variants and decreased for the PARP1 rs1136410 ( P(trend) .03 ) .
+Decreased glioma risk was observed with the XRCC1 rs1799782 variant ( P(trend) .04 ) .
+Our results suggest that common DNA repair variants may affect the risk of adult brain tumors , especially meningioma .

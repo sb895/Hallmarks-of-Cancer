@@ -1,0 +1,8 @@
+Nuclear factor kappa-B ( NF-κB ) activates multiple genes with overlapping roles in cell proliferation , inflammation and cancer .
+Using an unbiased approach we identified human CDK6 as a novel kinase phosphorylating NF-κB p65 at serine 536 .
+Purified and reconstituted CDK6/cyclin complexes phosphorylated p65 in vitro and in transfected cells .
+The physiological role of CDK6 for basal as well as cytokine-induced p65 phosphorylation or NF-κB activation was revealed upon RNAi-mediated suppression of CDK6 .
+Inhibition of CDK6 catalytic activity by PD332991 suppressed activation of NF-κB and TNF-induced gene expression .
+In complex with a constitutively active viral cyclin CDK6 stimulated NF-κB p65-mediated transcription in a target gene specific manner and this effect was partially dependent on its ability to phosphorylate p65 at serine 536 .
+Tumor formation in thymi and spleens of v-cyclin transgenic mice correlated with increased levels of p65 Ser536 phosphorylation , increased expression of CDK6 and upregulaton of the NF-κB target cyclin D3 .
+These results suggest that aberrant CDK6 expression or activation that is frequently observed in human tumors can contribute through NF-κB to chronic inflammation and neoplasia .

@@ -1,0 +1,8 @@
+BACKGROUND Human T-cell leukemia virus type I ( HTLV-I ) has efficiently adapted to its host and establishes a persistent infection characterized by low levels of viral gene expression and slow proliferation of HTLV-I infected cells over decades .
+We have previously found that HTLV-I p30 is a negative regulator of virus expression .
+RESULTS In this study we show that p30 targets multiple cell cycle checkpoints resulting in a delayed entry into S phase .
+We found that p30 binds to cyclin E and CDK2 and prevents the formation of active cyclin E-CDK2 complexes .
+In turn , this decreases the phosphorylation levels of Rb and prevents the release of E2F and its transcriptional activation of genes required for G1/S transition .
+Our studies also show that HTLV-II p28 does not bind cyclin E and does not affect cell cycle progression .
+CONCLUSIONS In contrast to HTLV-I , the HTLV-II-related retrovirus is not oncogenic in humans .
+Here we report that the HTLV-I p30 delays cell cycle progression while its homologue , HTLV-II p28 , does not , providing evidence for important differences between these two related retrovirus proteins .

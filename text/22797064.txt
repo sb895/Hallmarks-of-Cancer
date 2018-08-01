@@ -1,0 +1,10 @@
+Epigenetic deregulation of gene expression has a role in the initiation and progression of prostate cancer ( PCa ) .
+The histone methyltransferase MMSET/WHSC1 ( Multiple Myeloma SET domain ) is overexpressed in a number of metastatic tumors , but its mechanism of action has not been defined .
+In this work , we found that PCa cell lines expressed significantly higher levels of MMSET compared with immortalized , non-transformed prostate cells .
+Knockdown experiments showed that , in metastatic PCa cell lines , dimethylation of lysine 36 and trimethylation of lysine 27 on histone H3 ( H3K36me2 and H3K27me3 , respectively ) depended on MMSET expression , whereas depletion of MMSET in benign prostatic cells did not affect chromatin modifications .
+Knockdown of MMSET in DU145 and PC-3 tumor cells decreased cell proliferation , colony formation in soft agar and strikingly diminished cell migration and invasion .
+Conversely , overexpression of MMSET in immortalized , non-transformed RWPE-1 cells promoted cell migration and invasion , accompanied by an epithelial-mesenchymal transition ( EMT ) .
+Among a panel of EMT-promoting genes analyzed , TWIST1 expression was strongly activated in response to MMSET .
+Chromatin immunoprecipitation analysis demonstrated that MMSET binds to the TWIST1 locus and leads to an increase in H3K36me2 , suggesting a direct role of MMSET in the regulation of this gene .
+Depletion of TWIST1 in MMSET-overexpressing RWPE-1 cells blocked cell invasion and EMT , indicating that TWIST1 was a critical target of MMSET , responsible for the acquisition of an invasive phenotype .
+Collectively , these data suggest that MMSET has a role in PCa pathogenesis and progression through epigenetic regulation of metastasis-related genes .

@@ -1,0 +1,12 @@
+We previously reported that hepatic stellate cells ( HSCs ) activated by angiotensin II ( AngII ) facilitate stromal fibrosis and tumor progression in intrahepatic cholangiocarcinoma ( ICC ) .
+AngII has been known as a growth factor which can promote epithelial-to-mesenchymal transition ( EMT ) in renal epithelial cells , alveolar epithelial cells and peritoneal mesothelial cells .
+However , in the past , the relationship between AngII and stromal cell-derived factor-1 ( SDF-1 ) in the microenvironment around cancer and the role of AngII on EMT of cancer cells has not been reported in detail .
+SDF-1 and its specific receptor , CXCR4 , are now receiving attention as a mechanism of cell progression and metastasis .
+In this study , we examined whether activated HSCs promote tumor fibrogenesis , tumor progression and distant metastasis by mediating EMT via the AngII/AngII type 1 receptor ( AT-1 ) and the SDF-1/CXCR4 axis .
+Two human ICC cell lines and a human HSC line , LI-90 , express CXCR4 .
+Significantly higher concentration of SDF-1α was released into the supernatant of LI-90 cells to which AngII had been added .
+SDF-1α increased the proliferative activity of HSCs and enhanced the activation of HSCs as a growth factor .
+Furthermore , addition of SDF-1α and AngII enhanced the increase of the migratory capability and vimentin expression , reduced E-cadherin expression , and translocated the expression of β-catenin into the nucleus and cytoplasm in ICC cells .
+Co-culture with HSCs also enhanced the migratory capability of ICC cells .
+These findings suggest that SDF-1α , released from activated HSCs and AngII , play important roles in cancer progression , tumor fibrogenesis , and migration in autocrine and paracrine fashion by mediating EMT .
+Our mechanistic findings may provide pivotal insights into the molecular mechanism of the AngII and SDF-1α-initiated signaling pathway that regulates fibrogenesis in cancerous stroma , tumor progression and meta-stasis of tumor cells expressing AT-1 and CXCR4 .

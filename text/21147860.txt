@@ -1,0 +1,12 @@
+BACKGROUND Epidemiologic data have shown that obesity independently increases colorectal cancer ( CRC ) risk , but the mechanisms are poorly understood .
+Obesity is an inflammatory state , and chronic colonic inflammation induces CRC .
+OBJECTIVE We conducted this proof-of-principle study to seek evidence of obesity-associated colorectal inflammation and to evaluate effects of diet-induced weight loss .
+DESIGN We measured inflammatory cytokines , gene arrays , and macrophage infiltration in rectosigmoid mucosal biopsies of 10 obese premenopausal women [ mean ± SD body mass index ( in kg/m(2) ) : 35 ± 3.5 ] before and after weight loss induced by a very-low-calorie diet .
+RESULTS Subjects lost a mean ( ±SD ) of 10.1 ± 1% of their initial weight .
+Weight loss significantly reduced fasting blood glucose , total cholesterol , triglycerides , LDL , tumor necrosis factor-α ( TNF-α ) , and interleukin ( IL)-8 concentrations ( P < 0.05 ) .
+After weight loss , rectosigmoid biopsies showed a 25-57% reduction in TNF-α , IL-1β , IL-8 , and monocyte chemotactic protein 1 concentrations ( P < 0.05 ) .
+T cell and macrophage counts decreased by 28% and 42% , respectively ( P < 0.05 ) .
+Gene arrays showed dramatic down-regulation of proinflammatory cytokine and chemokine pathways , prostaglandin metabolism , and the transcription factors STAT3 ( signal transducer and activator of transcription 3 ) and nuclear transcription factor κB .
+Weight loss reduced expression of FOS and JUN genes and down-regulated oxidative stress pathways and the transcription factors ATF ( activating transcription factor ) and CREB ( cyclic AMP response element-binding ) .
+CONCLUSIONS Our data show that diet-induced weight loss in obese individuals reduces colorectal inflammation and greatly modulates inflammatory and cancer-related gene pathways .
+These data imply that obesity is accompanied by inflammation in the colorectal mucosa and that diet-induced weight loss reduces this inflammatory state and may thereby lower CRC risk .

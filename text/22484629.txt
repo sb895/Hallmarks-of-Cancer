@@ -1,0 +1,10 @@
+Doxorubicin ( DOX ) is one of the most powerful and widely prescribed chemotherapeutic agents to treat divergent human cancers .
+However , the clinical use of DOX is restricted due to its severe cardiotoxic side-effects .
+There has been ongoing search for cardioprotectants against DOX toxicity .
+Inorganic nitrate has emerged as a bioactive compound that can be reduced into nitrite and nitric oxide in vivo and in turn plays a therapeutic role in diseases associated with nitric oxide insufficiency or dysregulation .
+In this review , we describe a novel concept of using dietary supplementation of inorganic nitrate to reduce DOX-induced cardiac cellular damage and dysfunction , based on our recent promising studies in a mouse model of DOX cardiotoxicity .
+Our data show that chronic oral ingestion of sodium nitrate , at a dose equivalent to of the Acceptable Daily Intake of the World Health Organization , alleviated DOX-induced left ventricular dysfunction and mitochondrial respiratory chain damage .
+Such cardioprotective effects were associated with reduction of cardiomyocyte necrosis/apoptosis , tissue lipid peroxidation , and mitochondrial H(2)O(2) generation following DOX treatment .
+Furthermore , proteomic studies revealed enhanced cardiac expression of mitochondrial antioxidant enzyme - peroxiredoxin 5 in the nitrate-treated animals .
+These studies suggest that inorganic nitrate could be an inexpensive therapeutic agent for long-term oral administration in preventing DOX-induced cardiac toxicity and myopathy during the prolonged pathological process .
+Future clinical trials in the cancer patients undergoing DOX chemotherapy are warranted to translate these experimental findings into an effective new therapy in preventing the DOX-induced cardiomyopathy .

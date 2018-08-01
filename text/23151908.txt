@@ -1,0 +1,9 @@
+Ophiopogonin B ( OP-B ) is a bioactive component of Radix Ophiopogon Japonicus , which is often used in Chinese traditional medicine to treat pulmonary disease .
+However , whether or not OP-B has any potential antitumor activity has not been reported .
+Here , we show that the non-small cell lung cancer ( NSCLC ) cell lines NCI-H157 and NCI-H460 treated with OP-B grow more slowly and accumulate vacuoles in their cytoplasm compared to untreated control cells .
+Flow cytometric analysis showed that the cells were arrested in G0/G1 phase .
+Nuclear morphology , Annexin-V/PI staining , and expression of cleaved caspase-3 all confirm that OP-B does not induce apoptosis .
+Instead , based on results from both transmission electron microscopy ( TEM ) and the expression of microtubule-associated protein 1 light chain 3-II ( LC3-II ) , we determined that OP-B treatment induced autophagy in both cell lines .
+Next , we examined the PI3K/Akt/mTOR signaling pathway and found that OP-B inhibited phosphorylation of Akt(Ser473 , Thr308 ) in NCI-H157 cells and also inhibited several key components of the pathway in NCI-H460 cells , such as p-Akt(Ser473 , Thr308 ) , p-p70S6K ( Thr389 ) .
+Additionally , insulin-mediated activation of the PI3K/Akt/mTOR pathway provides evidence that activation of this pathway may correlate with induction of autophagy in H460 cells .
+Therefore , OP-B is a prospective inhibitor of PI3K/Akt and may be used as an alternative compound to treat NSCLC .

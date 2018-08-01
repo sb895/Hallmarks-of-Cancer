@@ -1,0 +1,7 @@
+The effect of quercetin , a flavonoid found in many plants , on the proliferation of human leukemic T-cells was analyzed .
+Quercetin reversibly blocked the cell cycle at a point 3-6 h before the start of DNA synthesis .
+Expression of the growth-related genes histone H4 , cyclin A and B , and p34cdc2 was suppressed in cells blocked with quercetin .
+Comparison of the quercetin arrest points with those of the cell cycle inhibitors aphidicolin and mimosine revealed a temporal order of arrest points in G1 of quercetin , mimosine , and aphidicolin .
+Mimosine and aphidicolin did not inhibit the expression of cyclin A or p34cdc2 , whereas all three reagents inhibited expression of cyclin B. Low concentrations of the protein inhibitor cycloheximide inhibited release of the quercetin but not the mimosine or aphidicolin block .
+A [ 35S]methionine-labeled M(r) 60,000 protein disappeared in quercetin-treated cells and was rapidly synthesized after removal of quercetin , suggesting the possibility that the M(r) 60,000 protein induces DNA synthesis after the cell is released from a quercetin block .
+These results suggest the usefulness of quercetin in studies of the regulation of late G1 phase .

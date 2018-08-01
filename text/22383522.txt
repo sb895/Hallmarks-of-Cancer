@@ -1,0 +1,9 @@
+We have discovered that 3,3',5-triiodothyronine ( T3 ) inhibits binding of a PIP-box sequence peptide to proliferating cell nuclear antigen ( PCNA ) protein by competing for the same binding site , as evidenced by the co-crystal structure of the PCNA-T3 complex at 2.1 Å resolution .
+Based on this observation , we have designed a novel , non-peptide small molecule PCNA inhibitor , T2 amino alcohol ( T2AA ) , a T3 derivative that lacks thyroid hormone activity .
+T2AA inhibited interaction of PCNA/PIP-box peptide with an IC(50) of μm and also PCNA and full-length p21 protein , the tightest PCNA ligand protein known to date .
+T2AA abolished interaction of PCNA and DNA polymerase δ in cellular chromatin .
+De novo DNA synthesis was inhibited by T2AA , and the cells were arrested in S-phase .
+T2AA inhibited growth of cancer cells with induction of early apoptosis .
+Concurrently , Chk1 and RPA32 in the chromatin are phosphorylated , suggesting that T2AA causes DNA replication stress by stalling DNA replication forks .
+T2AA significantly inhibited translesion DNA synthesis on a cisplatin-cross-linked template in cells .
+When cells were treated with a combination of cisplatin and T2AA , a significant increase in phospho(Ser(139))histone H2AX induction and cell growth inhibition was observed .

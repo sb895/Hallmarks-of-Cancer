@@ -1,0 +1,8 @@
+Metastatic cancer is extremely difficult to treat , and the presence of metastases greatly reduces a cancer patient's likelihood of long-term survival .
+The ZEB1 transcriptional repressor promotes metastasis through downregulation of microRNAs ( miRs ) that are strong inducers of epithelial differentiation and inhibitors of stem cell factors .
+Given that each miR can target multiple genes with diverse functions , we posited that the prometastatic network controlled by ZEB1 extends beyond these processes .
+We tested this hypothesis using a mouse model of human lung adenocarcinoma metastasis driven by ZEB1 , human lung carcinoma cells , and human breast carcinoma cells .
+Transcriptional profiling studies revealed that ZEB1 controls the expression of numerous oncogenic and tumor-suppressive miRs , including miR-34a .
+Ectopic expression of miR-34a decreased tumor cell invasion and metastasis , inhibited the formation of promigratory cytoskeletal structures , suppressed activation of the RHO GTPase family , and regulated a gene expression signature enriched in cytoskeletal functions and predictive of outcome in human lung adenocarcinomas .
+We identified several miR-34a target genes , including Arhgap1 , which encodes a RHO GTPase activating protein that was required for tumor cell invasion .
+These findings demonstrate that ZEB1 drives prometastatic actin cytoskeletal remodeling by downregulating miR-34a expression and provide a compelling rationale to develop miR-34a as a therapeutic agent in lung cancer patients .

@@ -1,0 +1,15 @@
+INTRODUCTION Necrosis at the tumor center is a common feature of aggressive breast cancers and has been associated with poor prognosis .
+It is commonly identified by means of invasive histopathology , which often correlates with morbidity and potential tumor cell dissemination , and limits the reconstruction of the whole necrotic domain .
+In this study we hypothesized that non covalent association to serum albumin ( SA ) and covalent binding to ligands for tumor-abundant cell receptors should synergistically drive selective accumulation and prolonged retention of imaging and therapeutic agents in breast tumor necrotic domains enabling in vivo identification , imaging and possibly treatment of such tumors .
+METHODS Cyclo-Arg-Gly-Asp-D-Phe-Lys ( c(RGDfK) ) were conjugated to bacteriochlorophyll-derivatives ( Bchl-Ds ) , previously developed as photodynamic agents , fluorescent probes and metal chelators in our lab .
+The c(RGDfK) component drives ligation to alphaVbeta3 integrin receptors over-expressed by tumor cells and neo-vessels , and the Bchl-D component associates to SA in a non-covalent manner .
+STL-6014 , a c(RGDfK)-Bchl-D representative , was i.v. injected to CD-1 , nude female mice bearing necrotic and non-necrotic human MDA-MB-231-RFP breast cancer tumors .
+The fluorescence signals of the Bchl-Ds and RFP were monitored over days after treatment , by quantitative whole body imaging and excised tumor/tissue samples derived thereof .
+Complementary experiments included competitive inhibition of STL-6014 uptake by free c(RGDfK) , comparative pharmacokinetics of nonconjugated c(RGDfK) Bchl-D ( STL-7012 ) and of two human serum albumin ( HSA ) conjugates : HSA-STL-7012 and HSA-STL-6014 .
+RESULTS STL-6014 and STL-7012 formed complexes with HSA ( HSA/STL-6014 , HSA/STL-7012 ) .
+STL-6014 , HSA-STL-7012 and HSA-STL-6014 , selectively accumulated at similar rates , in tumor viable regions over the first 8 h post administration .
+They then migrated into the necrotic tumor domain and presented tumor half lifetimes ( T1/2 ) in the range of days where T1/2 for HSA-STL-6014 > STL-6014 > HSA-STL-7012 .
+No accumulation of STL-7012 was observed .
+Pre-injection of c(RGDfK) excess , prevented the uptake of STL-6014 in the small , but not in the large tumors .
+CONCLUSIONS Non-covalent association to SA and covalent binding to c(RGDfK) , synergistically enable the accumulation and prolonged retention of Bchl-Ds in the necrotic regions of tumors .
+These findings provide novel guidelines and strategy for imaging and treatment of necrotic tumors .

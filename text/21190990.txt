@@ -1,0 +1,10 @@
+Dentin matrix protein 1 ( DMP1 ) is a member of the small integrin-binding ligand N-linked glycoprotein ( SIBLING ) family , a group of proteins initially described as mineralized extracellular matrices components .
+More recently , SIBLINGs have been implicated in several key steps of cancer progression , including angiogenesis .
+Although proangiogenic activities have been demonstrated for 2 SIBLINGs , the role of DMP1 in angiogenesis has not yet been addressed .
+We demonstrate that this extracellular matrix protein induced the expression of vascular endothelial cadherin ( VE-cadherin ) , a key regulator of intercellular junctions and contact inhibition of growth of endothelial cells that is also known to modulate vascular endothelial growth factor receptor 2 ( VEGFR-2 ) activity , the major high-affinity receptor for VEGF .
+DMP1 induced VE-cadherin and p27(Kip1) expression followed by cell-cycle arrest in human umbilical vein endothelial cells ( HUVECs ) in a CD44-dependent manner .
+VEGF-induced proliferation , migration , and tubulogenesis responses were specifically blocked on DMP1 pretreatment of HUVECs .
+Indeed , after VE-cadherin induction , DMP1 inhibited VEGFR-2 phosphorylation and Src-mediated signaling .
+However , DMP1 did not interfere with basic fibroblast growth factor-induced angiogenesis .
+In vivo , DMP1 significantly reduced laser-induced choroidal neovascularization lesions and tumor-associated angiogenesis .
+These data enable us to put DMP1 on the angiogenic chessboard for the first time and to identify this protein as a new specific inhibitor of VEGF-induced angiogenesis .

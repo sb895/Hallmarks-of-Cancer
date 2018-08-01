@@ -1,0 +1,10 @@
+That a knock-in mouse harboring a dominant-negative thyroid hormone receptor ( TR)-β ( Thrb ) mutation develops metastatic thyroid cancer strongly suggests the involvement of TRβ in carcinogenesis .
+Epigenetic silencing of the THRB gene is common in human cancers .
+The aim of the present study was to determine how DNA methylation affected the expression of the THRB gene in differentiated thyroid cancer ( DTC ) and how reexpression of the THRB gene attenuated the cancer phenotypes .
+We used methylation-specific PCR to examine the expression and promoter methylation of the THRB gene in DTC tissues .
+Thyroid cancer cells with hypermethylated THRB were treated with the demethylating agents 5'-aza-2'-deoxycytidine ( 5'-aza-CdR ) and zebularine to evaluate their impact on the cancer cell phenotypes .
+THRB mRNA expression in DTC was 90% lower than in normal controls , and this decrease was associated with a higher tumor/lymph node staging .
+The promoter methylation level of the THRB gene had a significant negative correlation with the expression level of the THRB gene .
+Treatment of FTC-236 cells with 5'-aza-CdR or zebularine induced reexpression of the THRB gene and inhibited cell proliferation and migration .
+FTC-236 cells stably expressing TRβ exhibited lower cell proliferation and migration through inhibition of β-catenin signaling pathways compared with FTC-236 without TRβ. 5'-Aza-CdR also led to suppression of tumor growth in an in vivo xenograft model using FTC-236 cells consistent with the cell-based studies .
+These finding indicate that TRβ is a tumor suppressor and could be tested as a potential therapeutic target .

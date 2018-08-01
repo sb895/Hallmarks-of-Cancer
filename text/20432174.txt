@@ -1,0 +1,11 @@
+Recent surveys indicate that Pi intake has increased steadily as Pi-containing foods have increased .
+Our previous study demonstrated that high dietary Pi strongly stimulated lung tumorigeneis .
+In order to answer the issue whether low Pi may be chemopreventive , we examined the effects of low Pi on lung cancer .
+Eighteen 5-wk-old male K-ras(LA1) lung cancer model mice were randomly allocated to 2 groups .
+One group was fed a normal diet ( 0.5% Pi ) and other group was fed low Pi ( 0.1% Pi ) diet for 4 wk .
+Lung cancer development was evaluated by histopathological examination , Western blot , kinase assay , and immunohistochemistry .
+Low Pi increased the expression of sodium-dependent phosphate co-transporter 2b , and activated Akt signal with decreased PTEN expression in the lungs of K-ras(LA1) mice .
+Low Pi increased the Akt/mTOR-mediated protein translation through upregulating the phosphorylation of p70S6K and 4E-BP1 .
+In addition , low Pi stimulated cell cycling as evidenced by altered cell cycle regulators such as cyclin D1 and D3 .
+Finally , low Pi increased lung tumorigenesis in K-ras(LA1) mice compared to the normal diet group .
+Our results clearly demonstrated that low Pi also promoted lung tumorigenesis , thus suggesting that an appropriate intake of dietary Pi may be critical for lung cancer prevention as well as treatment .

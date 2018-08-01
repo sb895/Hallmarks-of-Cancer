@@ -1,0 +1,11 @@
+Topoisomerase inhibitors such as camptothecin and etoposide are used as anti-cancer drugs and induce double-strand breaks ( DSBs ) in genomic DNA in cycling cells .
+These DSBs are often covalently bound with polypeptides at the 3 ' and 5 ' ends .
+Such modifications must be eliminated before DSB repair can take place , but it remains elusive which nucleases are involved in this process .
+Previous studies show that CtIP plays a critical role in the generation of 3 ' single-strand overhang at " clean " DSBs , thus initiating homologous recombination ( HR)-dependent DSB repair .
+To analyze the function of CtIP in detail , we conditionally disrupted the CtIP gene in the chicken DT40 cell line .
+We found that CtIP is essential for cellular proliferation as well as for the formation of 3 ' single-strand overhang , similar to what is observed in DT40 cells deficient in the Mre11/Rad50/Nbs1 complex .
+We also generated DT40 cell line harboring CtIP with an alanine substitution at residue Ser332 , which is required for interaction with BRCA1 .
+Although the resulting CtIP(S332A/-/-) cells exhibited accumulation of RPA and Rad51 upon DNA damage , and were proficient in HR , they showed a marked hypersensitivity to camptothecin and etoposide in comparison with CtIP(+/-/-) cells .
+Finally , CtIP(S332A/-/-)BRCA1(-/-) and CtIP(+/-/-)BRCA1(-/-) showed similar sensitivities to these reagents .
+Taken together , our data indicate that , in addition to its function in HR , CtIP plays a role in cellular tolerance to topoisomerase inhibitors .
+We propose that the BRCA1-CtIP complex plays a role in the nuclease-mediated elimination of oligonucleotides covalently bound to polypeptides from DSBs , thereby facilitating subsequent DSB repair .

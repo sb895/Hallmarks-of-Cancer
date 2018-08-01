@@ -1,0 +1,9 @@
+Multiprotein complexes , called editosomes , catalyze the uridine insertion and deletion RNA editing that forms translatable mitochondrial mRNAs in kinetoplastid parasites .
+We have identified here two new U1-like zinc finger proteins that associate with editosomes and have shown that they are related to KREPB6 , KREPB7 , and KREPB8 , and thus we have named them Kinetoplastid RNA Editing Proteins , KREPB9 and KREPB10 .
+They are conserved and syntenic in trypanosomatids although KREPB10 is absent in Trypanosoma vivax and both are absent in Leishmania .
+Tandem affinity purification ( TAP)-tagged KREPB9 and KREPB10 incorporate into editosomes and/or subcomplexes thereof and preferentially associate with deletion subcomplexes , as do KREPB6 , KREPB7 , and KREPB8 .
+KREPB10 also associates with editosomes that are isolated via a chimeric endonuclease , KREN1 in KREPB8 RNA interference ( RNAi ) cells , or MEAT1 .
+The purified complexes have precleaved editing activities and endonuclease cleavage activity that appears to leave a 5 ' OH on the 3 ' product .
+RNAi knockdowns did not affect growth but resulted in relative reductions of both edited and unedited mitochondrial mRNAs .
+The similarity of KREPB9 and KREPB10 to KREPB6 , KREPB7 , and KREPB8 suggests they may be accessory factors that affect editing endonuclease activity and as a consequence may affect mitochondrial mRNA stability .
+KREPB9 and KREPB10 , along with KREPB6 , KREPB7 , and KREPB8 , may enable the endonucleases to discriminate among and accurately cleave hundreds of different editing sites and may be involved in the control of differential editing during the life cycle of T. brucei .

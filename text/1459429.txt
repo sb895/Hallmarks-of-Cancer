@@ -1,0 +1,12 @@
+We studied the effects of double-strand breaks on intramolecular extrachromosomal homologous recombination in mammalian cells .
+Pairs of defective herpes thymidine kinase ( tk ) sequences were introduced into mouse Ltk- cells on a DNA molecule that also contained a neo gene under control of the SV40 early promoter/enhancer .
+With the majority of the constructs used , gene conversions or double crossovers , but not single crossovers , were recoverable .
+DNA was linearized with various restriction enzymes prior to transfection .
+Recombination events producing a functional tk gene were monitored by selecting for tk-positive colonies .
+For double-strand breaks placed outside of the region of homology , maximal recombination frequencies were measured when a break placed the two tk sequences downstream from the SV40 early promoter/enhancer .
+We observed no relationship between recombination frequency and either the distance between a break and the tk sequences or the distance between the tk sequences .
+The quantitative effects of the breaks appeared to depend on the degree of homology between the tk sequences .
+We also observed that inverted repeats recombined as efficiently as direct repeats .
+The data indicated that the breaks influenced recombination indirectly , perhaps by affecting the binding of a factor(s) to the SV40 promoter region which in turn stimulated or inhibited recombination of the tk sequences .
+Taken together , we believe that our results provide strong evidence for the existence of a pathway for extrachromosomal homologous recombination in mammalian cells that is distinct from single-strand annealing .
+We discuss the possibility that intrachromosomal and extrachromosomal recombination have mechanisms in common .

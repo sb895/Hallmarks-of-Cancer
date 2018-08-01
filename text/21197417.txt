@@ -1,0 +1,9 @@
+Pegylated Interferon-α2b ( pIFN-α ) is an integral part of the drug regimen currently employed against melanoma .
+Interferon Regulatory Factor-1 ( IRF-1 ) plays an important role in the transcriptional regulation of the IFN response , cell cycle and apoptosis .
+We have studied pIFN-α induced responses when combined with the chemotherapy agent , vinblastine in tumor and endothelial cell lines and the connection to IRF-1 signaling .
+Levels of IRF-1/IRF-2 protein expression were found to be decreased in tumor versus normal tissues. pIFN-α induced IRF-1 signaling in human melanoma ( M14 ) and endothelial ( EA.hy926 ) cells and enhanced cell death when combined with vinblastine .
+Upon combined IFN-α and vinblastine treatment , p21 expression , PARP cleavage and activated Bak levels were increased in M14 cells .
+An increase in p21 and cyclin D1 expression occurred in EA.hy926 cells after 6 h of treatment with pIFN-α which dissipated by 24 h .
+This biphasic response , characteristic of cellular senescence , was more pronounced upon combined treatment .
+Exposure of the EA.hy926 cells to pIFN-α was associated with an enlarged , multinucleated , β-galactosidase-positive senescent phenotype .
+The overall therapeutic mechanism of IFN-α combined with chemotherapy may be due to both direct tumor cell death via IRF-1 signaling and by premature senescence of endothelial cells and subsequent effects on angiogenesis in the tumor microenvironment .

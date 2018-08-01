@@ -1,0 +1,8 @@
+BACKGROUND Chemokines are involved in multiple aspects of pathogenesis and cellular trafficking in tumorigenesis .
+In this study , we report that the latest member of the C-X-C-type chemokines , CXCL17 ( DMC/VCC-1 ) , recruits immature myeloid-derived cells and enhances early tumor progression .
+METHODOLOGY/PRINCIPAL FINDINGS CXCL17 was preferentially expressed in some aggressive types of gastrointestinal , breast , and lung cancer cells .
+CXCL17 expression did not impart NIH3T3 cells with oncogenic potential in vitro , but CXCL17-expressing NIH3T3 cells could form vasculature-rich tumors in immunodeficient mice .
+Our data showed that CXCL17-expressing tumor cells increased immature CD11b(+)Gr1(+) myeloid-derived cells at tumor sites in mice and promoted CD31(+) tumor angiogenesis .
+Extensive chemotactic assays proved that CXCL17-responding cells were CD11b(+)Gr1(high)F4/80(-) cells ( ≈ 90% ) with a neutrophil-like morphology in vitro .
+Although CXCL17 expression could not increase the number of CD11b(+)Gr1(+) cells in tumor-burdened SCID mice or promote metastases of low metastatic colon cancer cells , the existence of CXCL17-responding myeloid-derived cells caused a striking enhancement of xenograft tumor formation .
+CONCLUSIONS/SIGNIFICANCE These results suggest that aberrant expression of CXCL17 in tumor cells recruits immature myeloid-derived cells and promotes tumor progression through angiogenesis .

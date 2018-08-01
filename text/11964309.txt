@@ -1,0 +1,8 @@
+Notch signaling controls cell fate decisions of hematopoietic progenitors by inhibiting certain steps of differentiation and inducing either self-renewal or differentiation toward lymphoid or myeloid lineages .
+In addition , truncated Notch1 alleles could be associated with 10% of all cases of human T lymphoblastic leukemia and , when introduced into mouse bone marrow stem cells , cause T-cell neoplasms .
+However , functional links between the abundant expression of intact Notch1 and oncogenesis are still lacking .
+Here we show that Notch1 is highly expressed in B- and T-cell-derived tumor cells of Hodgkin and anaplastic large cell lymphoma .
+We demonstrate a novel mechanism for the oncogenic capacity of Notch1 by showing that the interaction between intact Notch1 on tumor cells and its ligand Jagged1 dramatically induces proliferation and inhibition of apoptosis in vitro .
+We further provide evidence that in Hodgkin and anaplastic large cell lymphoma , Jagged1 is expressed in malignant and in bystander cells colocalizing with Notch1-positive tumor cells .
+Notch1 signaling may therefore be activated in tumor cells by Jagged1 through homotypic or heterotypic cell-cell interactions , and it seems likely that these interactions contribute to lymphomagenesis in vivo .
+Thus , our data suggest that activated Notch1 signaling plays an important role in the pathobiology of Hodgkin and anaplastic large cell lymphoma and that it might be a potential new target for treatment .

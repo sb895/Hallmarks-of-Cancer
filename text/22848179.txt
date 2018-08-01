@@ -1,0 +1,12 @@
+BACKGROUND Agricultural products and by products provide the primary materials for a variety of technological applications in diverse industrial sectors .
+Agro-industrial wastes , such as cotton and curaua fibers , are used to prepare nanofibers for use in thermoplastic films , where they are combined with polymeric matrices , and in biomedical applications such as tissue engineering , amongst other applications .
+The development of products containing nanofibers offers a promising alternative for the use of agricultural products , adding value to the chains of production .
+However , the emergence of new nanotechnological products demands that their risks to human health and the environment be evaluated .
+This has resulted in the creation of the new area of nanotoxicology , which addresses the toxicological aspects of these materials .
+PURPOSE AND METHODS Contributing to these developments , the present work involved a genotoxicological study of different nanofibers , employing chromosomal aberration and comet assays , as well as cytogenetic and molecular analyses , to obtain preliminary information concerning nanofiber safety .
+The methodology consisted of exposure of Allium cepa roots , and animal cell cultures ( lymphocytes and fibroblasts ) , to different types of nanofibers .
+Negative controls , without nanofibers present in the medium , were used for comparison .
+RESULTS The nanofibers induced different responses according to the cell type used .
+In plant cells , the most genotoxic nanofibers were those derived from green , white , and brown cotton , and curaua , while genotoxicity in animal cells was observed using nanofibers from brown cotton and curaua .
+An important finding was that ruby cotton nanofibers did not cause any significant DNA breaks in the cell types employed .
+CONCLUSION This work demonstrates the feasibility of determining the genotoxic potential of nanofibers derived from plant cellulose to obtain information vital both for the future usage of these materials in agribusiness and for an understanding of their environmental impacts .

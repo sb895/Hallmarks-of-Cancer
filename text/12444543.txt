@@ -1,0 +1,9 @@
+Deregulation of D-type cyclin-dependent kinases ( CDK4 and 6 ) is widely observed in various human cancers , illustrating their importance in cell cycle control .
+Like other cyclin-dependent kinases ( CDKs ) , assembly with cyclins is the most critical step for activation of CDK4/6 .
+As previously reported elsewhere , we observed that the level of cyclinD1-CDK4 complex and its associated kinase activity were significantly low in asynchronously proliferating mouse embryo fibroblasts lacking both p21(Cip1) and p27(Kip1) ( p21/p27-null MEFs ) .
+These evidences imply that p21(Cip1) and p27(Kip1) CDK inhibitors are ' essential activators ' of cyclin D-kinases .
+We , however , discovered here that both the assembly and activation of cyclin D1-CDK4 complex occur when quiescent p21/p27-null MEFs were stimulated to re-enter the cell cycle .
+This mitogen-induced cyclin D1-kinase activity was blocked by overexpression of p16(INK4a) and resulted in the inhibition of S phase entry in p21/p27-null MEFs .
+Furthermore , ectopic expression of p34(SEI-1) , a mitogen-induced CDK4 binding protein , increased the levels of active cyclinD1-CDK4 complex in asynchronously proliferating p21/p27-null MEFs .
+Together , our results suggest that there are several independent ways to stimulate the assembly of cyclin D1-CDK4 kinases .
+Although p21(Cip1) and p27(Kip1) play a role in this process , our results demonstrate that additional mechanisms must occur in G0 to S phase transition .

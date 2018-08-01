@@ -1,0 +1,8 @@
+Most hepatocellular carcinomas ( HCC ) develop in the context of severe liver fibrosis and cirrhosis caused by chronic liver inflammation , which also results in accumulation of reactive oxygen species ( ROS ) .
+In this study , we examined whether the stress-activated protein kinase p38α ( Mapk14 ) controls ROS metabolism and development of fibrosis and cancer in mice given thioacetamide to induce chronic liver injury .
+Liver-specific p38α ablation was found to enhance ROS accumulation , which appears to be exerted through the reduced expression of antioxidant protein HSP25 ( Hspb1 ) , a mouse homolog of HSP27 .
+Its reexpression in p38α-deficient liver prevents ROS accumulation and thioacetamide-induced fibrosis. p38α deficiency increased expression of SOX2 , a marker for cancer stem cells and the liver oncoproteins c-Jun ( Jun ) and Gankyrin ( Psmd10 ) and led to enhanced thioacetamide-induced hepatocarcinogenesis .
+The upregulation of SOX2 and c-Jun was prevented by administration of the antioxidant butylated hydroxyanisole .
+Intriguingly , the risk of human HCC recurrence is positively correlated with ROS accumulation in liver .
+Thus , p38α and its target HSP25/HSP27 appear to play a conserved and critical hepatoprotective function by curtailing ROS accumulation in liver parenchymal cells engaged in oxidative metabolism of exogenous chemicals .
+Augmented oxidative stress of liver parenchymal cells may explain the close relationship between liver fibrosis and hepatocarcinogenesis .

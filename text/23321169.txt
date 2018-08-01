@@ -1,0 +1,11 @@
+OBJECTIVE The signalling molecule protein kinase B ( Akt ) modulates many cellular processes .
+Phosphatidylinositol 3-kinase ( PI3K)/Akt signalling pathways play important roles in tumour angiogenesis .
+The aim of this study was to determine the role of phosphorylated Akt ( pAkt ) in angiogenesis and its correlation with vascular endothelial growth factor ( VEGF)-A in gastric adenocarcinoma .
+METHODS Tumour tissue and matched healthy gastric mucosa were obtained from patients undergoing surgical resection of gastric adenocarcinoma .
+Akt and pAkt were detected via Western blotting .
+VEGF-A , pAkt and CD34 were examined by immunohistochemistry .
+RESULTS Akt and pAkt protein levels were significantly higher in gastric cancer tissue than in normal tissue ( n = 48 patients ) .
+Positive VEGF-A immunostaining was significantly associated with pAkt immunostaining .
+Microvessel density was correlated with both VEGF-A and pAkt positivity .
+CONCLUSIONS Phosphorylated Akt and VEGF-A are involved in angiogenesis of gastric adenocarcinoma , and Akt activation may contribute to angiogenesis via VEGF-A upregulation .
+The PI3K/Akt/VEGF signalling pathway may be involved in gastric adeno carcinoma .

@@ -1,0 +1,7 @@
+Piwi-interacting RNAs are a diverse class of small non-coding RNAs implicated in the silencing of transposable elements and the safeguarding of genome integrity .
+In mammals , male germ cells express two genetically and developmentally distinct populations of piRNAs at the pre-pachytene and pachytene stages of meiosis , respectively .
+Pre-pachytene piRNAs are mostly derived from retrotransposons and required for their silencing .
+In contrast , pachytene piRNAs originate from genomic clusters , and their biogenesis and function remain enigmatic .
+Here , we report that conditional inactivation of the putative RNA helicase MOV10L1 in mouse spermatocytes produces a specific loss of pachytene piRNAs , significant accumulation of pachytene piRNA precursor transcripts , and unusual polar conglomeration of Piwi proteins with mitochondria .
+Pachytene piRNA-deficient spermatocytes progress through meiosis without derepression of LINE1 retrotransposons , but become arrested at the post-meiotic round spermatid stage with massive DNA damage .
+Our results demonstrate that MOV10L1 acts upstream of Piwi proteins in the primary processing of pachytene piRNAs and suggest that , distinct from pre-pachytene piRNAs , pachytene piRNAs fulfill a unique function in maintaining post-meiotic genome integrity .

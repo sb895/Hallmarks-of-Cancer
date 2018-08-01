@@ -1,0 +1,8 @@
+The widespread use of synthetic musk fragrances and the resultant presence of these substances and their metabolites in the aquatic environment ( as well as their accumulation in human adipose tissue ) raises the question of whether musk fragrances display endocrine and in particular estrogenic activity .
+A variety of musk fragrances were tested using the E-screen assay .
+A statistically significant increase in proliferation rate of human MCF-7 breast cancer cells was detected for two nitro musks ( musk xylene , musk ketone ) , a major metabolite of musk xylene ( p-amino-musk xylene ) , and the polycyclic musk fragrance AHTN .
+This indicates that these substances do , in fact , demonstrate estrogenic activity .
+Coincubation with the antiestrogen tamoxifen showed that the increase in proliferation rate by the musk fragrances is estrogen receptor-mediated .
+It must be noted , however , that the effective estrogenic strength and estrogenic potency were low compared to 17 b-estradiol .
+The naturally occurring fragrance muscone from the group of macrocyclic musk fragrances , a group of substances that have not yet been well characterized in respect to their toxicological properties , has also been shown to be weakly estrogenically active in vitro .
+E-screen analysis showed that the nitro musk metabolites o-amino musk xylene and 2-amino-MK , the macrocyclic musk fragrances ethylene brassylate , ethylene dodecandioate , and cyclopentadecanolide , are not estrogenically active .

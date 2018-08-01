@@ -1,0 +1,10 @@
+Fagonia indica is a small spiny shrub of great ethnopharmacological importance in folk medicine .
+The aqueous decoction of aerial parts is a popular remedy against various skin lesions , including cancer .
+We used a biological activity-guided fractionation approach to isolate the most potent fraction of the crude extract on three cancer cell lines : MCF-7 oestrogen-dependent breast cancer , MDA-MB-468 oestrogen-independent breast cancer , and Caco-2 colon cancer cells .
+A series of chromatographic and spectroscopic procedures were utilised on the EtOAc fraction , which resulted in the isolation of a new steroidal saponin glycoside .
+The cytotoxic activity of the saponin glycoside was determined in cancer cells using the MTT and neutral red uptake assays .
+After 24h treatment , the observed IC(50) values of the saponin glycoside were 12.5 μM on MDA-MB-468 and Caco-2 cells , but 100 μM on MCF-7 cells .
+Several lines of evidence : PARP cleavage , caspase-3 cleavage , DNA ladder assays , and reversal of growth inhibition with the pan-caspase inhibitor Z-VAD-fmk , suggested stimulation of apoptosis in MDA-MB-468 and Caco-2 cells , but not in MCF-7 cells , which do not express caspase-3 .
+The haemolytic activity of the saponin glycoside was confirmed in sheep red blood cells , with cell lysis observed at >100 μM , suggesting that , at this concentration , the saponin glycoside caused necrosis through cell lysis in MCF-7 cells .
+Using the DNA ladder assay , the saponin glycoside ( 12.5 μM ) was not toxic to HUVEC ( human umbilical vein endothelial cells ) or U937 cells , indicating some selectivity between malignant and normal cells .
+We conclude that the steroidal saponin glycoside isolated from F. indica is able to induce apoptosis or necrosis in cancer cells depending on the cell type .

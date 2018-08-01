@@ -1,0 +1,11 @@
+The conserved eukaryotic DNA replication protein ORC1 is one of the constituents of pre-replication complexes that assemble at or very near origins prior to replication initiation .
+ORC1 has been shown to be constitutively nuclear in Leishmania major .
+This study investigates the sequences involved in nuclear localization of ORC1 in Leishmania donovani , the causative agent of visceral leishmaniasis .
+Nuclear localization signals ( NLSs ) have been reported in only a few Leishmania proteins .
+Functional analyses have delineated NLSs to regions of amino acids in length in the tyrosyl DNA phosphodiesterase I and type II DNA topoisomerase of L. donovani , and in the L. major kinesin KIN13-1 .
+Using a panel of site-directed mutations we have identified a sequence essential for nuclear import of LdORC1 .
+This sequence at the N terminus of the protein comprises residues 2-5 ( KRSR ) , with K2 , R3 and R5 being crucial .
+Independent mutation of the K2 residue causes exclusion of the protein from the nucleus , while mutating the R5 residue leads to diffusion of the protein throughout the cell .
+This sequence , however , is insufficient for targeting a heterologous protein ( \u03b2-galactosidase ) to the nucleus .
+Analysis of additional ORC1 mutations and reporter constructs reveals that while the highly basic tetra-amino acid sequence at the N terminus is essential for nuclear localization , the ORC1 NLS in its entirety is more complex , and of a distributive character .
+Our results suggest that nuclear localization signalling sequences in Leishmania nuclear proteins are more complex than what is typically seen in higher eukaryotes .

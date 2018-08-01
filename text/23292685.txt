@@ -1,0 +1,9 @@
+Cell invasion is required for neoplastic metastasis .
+Matrix metalloproteinase-9 ( MMP-9 ) , which degrades the extracellular matrix , is a major component in the process of cancer cell invasion .
+Sulfuretin is one of the major flavonoids isolated from Rhus verniciflua .
+Sulfuretin has been used to reduce oxidative stress , platelet aggregation , the inflammatory response and mutagenesis .
+However , the effect of sulfuretin on breast cancer metastasis is unknown .
+In this study , we investigated the inhibitory effect of sulfuretin on 12-O-tetradecanoylphorbol-13-acetate ( TPA)-induced MMP-9 expression and cell invasion in MCF-7 cells .
+Sulfuretin inhibited TPA-induced transcriptional activation of nuclear factor-\u03baB ( NF-\u03baB ) .
+We demonstrated that sulfuretin mediated the inhibition of TPA-induced MMP-9 expression and that cell invasion in MCF-7 cells involved suppression of the NF-\u03baB pathway .
+Therefore , inhibiting MMP-9 expression by sulfuretin may have therapeutic potential for controlling breast cancer invasiveness .

@@ -1,0 +1,11 @@
+The prediction of response or severe toxicity and therapy individualisation are extremely important in cancer chemotherapy .
+There are few tools to predict chemoresponse or toxicity in cancer patients .
+We investigated the correlation between the induction and repair of DNA double-strand breaks ( DSBs ) using constant-field gel electrophoresis ( CFGE ) and evaluating cell cycle progression and the sensitivity of four cancer cell lines to 5-fluorouracil ( 5FU ) .
+Using a sulphorhodamine-B assay , colon carcinoma cells ( HCT116 ) were found to be the most sensitive to 5FU , followed by liver carcinoma cells ( HepG2 ) and breast carcinoma cells ( MCF-7 ) .
+Cervical carcinoma cells ( HeLa ) were the most resistant .
+As measured by CFGE , DSB induction , but not residual DSBs , exhibited a significant correlation with the sensitivity of the cell lines to 5FU .
+Flow cytometric cell cycle analysis revealed that 14% of HCT116 or HepG2 cells and 2% of MCF-7 cells shifted to sub-G1 phase after a 96-h incubation with 5FU .
+Another 5FU-induced cell cycle change in HCT116 , HepG2 and MCF-7 cells was the mild arrest of cells in G1 and/or G2/M phases of the cell cycle .
+In addition , 5FU treatment resulted in the accumulation of HeLa cells in the S and G2/M phases .
+Determination of Fas ligand ( Fas-L ) and caspase 9 as representative markers for the extrinsic and intrinsic pathways of apoptosis , respectively , revealed that 5FU-induced apoptosis in HCT116 and HepG2 results from the expression of Fas-L ( extrinsic pathway ) .
+Therefore , the induction of DNA DSBs by 5FU , detected using CFGE , and the induction of apoptosis are candidate predictive markers that may distinguish cancer cells which are likely to benefit from 5FU treatment and the measurement of DSBs using CFGE may aid the prediction of clinical outcome .

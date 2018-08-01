@@ -1,0 +1,9 @@
+Recent evidence indicates that the estrogen receptor-α-negative , androgen receptor ( AR)-positive molecular apocrine subtype of breast cancer is driven by AR signaling .
+The MDA-MB-453 cell line is the prototypical model of this breast cancer subtype ; its proliferation is stimulated by androgens such as 5α-dihydrotestosterone ( DHT ) but inhibited by the progestin medroxyprogesterone acetate ( MPA ) via AR-mediated mechanisms .
+We report here that the AR gene in MDA-MB-453 cells contains a G-T transversion in exon 7 , resulting in a receptor variant with a glutamine to histidine substitution at amino acid 865 ( Q865H ) in the ligand binding domain .
+Compared with wild-type AR , the Q865H variant exhibited reduced sensitivity to DHT and MPA in transactivation assays in MDA-MB-453 and PC-3 cells but did not respond to non-androgenic ligands or receptor antagonists .
+Ligand binding , molecular modeling , mammalian two-hybrid and immunoblot assays revealed effects of the Q865H mutation on ligand dissociation , AR intramolecular interactions , and receptor stability .
+Microarray expression profiling demonstrated that DHT and MPA regulate distinct transcriptional programs in MDA-MB-453 cells .
+Gene Set Enrichment Analysis revealed that DHT- but not MPA-regulated genes were associated with estrogen-responsive transcriptomes from MCF-7 cells and the Wnt signaling pathway .
+These findings suggest that the divergent proliferative responses of MDA-MB-453 cells to DHT and MPA result from the different genetic programs elicited by these two ligands through the AR-Q865H variant .
+This work highlights the necessity to characterize additional models of molecular apocrine breast cancer to determine the precise role of AR signaling in this breast cancer subtype .

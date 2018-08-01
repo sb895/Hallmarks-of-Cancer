@@ -1,0 +1,9 @@
+PURPOSE Metabolic dependence on glucose utilisation has been described for different tumours characterised by activation of Akt , upregulation of GLUT1 , M2PK and TKTL1 .
+To date , however , little is known about glucose metabolism in breast cancer tissue .
+METHODS We analysed 55 breast cancer specimens , 26 adjacent ductal carcinomas in situ ( DCIS ) and 23 adjacent normal breast tissues for expression of glycolytic markers by immunohistochemistry .
+RESULTS We found expression of pAkt in 49% , GLUT1 in 25% , M2PK in 68% and TKTL1 in 31% of the tumours investigated .
+Expression of pAkt and Her2neu are positively correlated with borderline significance ( P = 0.055 ) .
+Expression of pAkt , GLUT1 and TKTL1 were higher in breast cancer and DCIS than in normal tissue .
+Surprisingly , M2PK expression was highest in normal breast tissue .
+CONCLUSIONS We found a glycolytic phenotype in a high percentage of breast cancer samples .
+Inhibition of glycolysis might evolve as a future option for breast cancer therapy .

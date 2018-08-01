@@ -1,0 +1,10 @@
+The vinorelbine sensitivity of eight recently established head and neck squamous cell carcinoma ( SCC ) cell lines was tested using the 96-well plate clonogenic assay .
+The chemosensitivity of these head and neck SCC cell lines to vinorelbine expressed as IC50 , corresponding to the drug concentration causing 50% inhibition in clonogenic survival , varied between 0.6 and 1.0 nM .
+The dose-dependent growth inhibition caused by vinorelbine was measured in three of these cell lines .
+A clear growth inhibition was observed at a concentration of 3 nM .
+The same cell lines were studied with flow cytometry .
+When exposed to 3 nM and 5 nM vinorelbine , an accumulation of the cells in the G2/M-phase was observed in all cultures after 12 hours .
+The morphological changes induced by 3 nM and 5 nM vinorelbine to the UT-SCC-33 cell line were analysed with time-lapse video microscopy .
+In the cultures treated with 5 nM vinorelbine , the cells stayed mitotically arrested for 2-32 hours and thereafter died morphologically by apoptosis .
+These results indicate that , in vitro , the head and neck SCC is consistently sensitive to vinorelbine , which blocks the cell cycle in G2/M , the most radiosensitive phase .
+These encouraging results suggest that vinorelbine may potentially be used in conjunction with radiotherapy in the treatment of head and neck SCC .

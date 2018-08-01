@@ -1,0 +1,12 @@
+BACKGROUND Cellular and clinical sensitivity to ionizing radiation ( IR ) is determined by DNA double-strand breaks ( DSB ) repair .
+Here , we investigate the molecular mechanism underlying the extreme response of a head and neck tumor case ( SKX ) to standard radiotherapy .
+METHODS Immunofluorescence ( IF ) was used for the assessment of DSB repair , Western blot and real-time PCR for protein and mRNA expression , respectively .
+RESULTS SKX cells exhibited a pronounced radiosensitivity associated with numerous residual \u03b3-H2AX foci after IR .
+This was not associated with lacking canonical repair proteins .
+SKX cells did not express any ATM protein .
+Accordingly , immunoblotting revealed no ATM kinase activity toward substrates such as p-SMC1 , p-CHK2 and p-KAP1 .
+Sequencing of all 66 exons of ATM showed no mutation .
+ATM mRNA level was moderately reduced , which could be reverted by 5'-Aza-C treatment but without restoring protein levels .
+Importantly , we demonstrated a post-transcriptional regulation in SKX cells via 6-fold enhanced levels of miR-421 , which targets the 3'-UTR of ATM mRNA .
+Transfection of SKX cells with either anti-miR-421 inhibitor or a microRNA-insensitive ATM vector recovered ATM expression and abrogated the hyper-radiosensitivity .
+CONCLUSION This is the first report describing microRNA-mediated down-regulation of ATM leading to clinically manifest tumor radiosensitivity .

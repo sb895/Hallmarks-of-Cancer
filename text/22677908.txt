@@ -1,0 +1,12 @@
+Despite recent population data , the influence of dietary folate supplementation on colon cancer risk remains controversial .
+This study examines the effects of folate deficiency , in combination with choline , methionine , and vitamin B12 depletion , on intestinal tumorigenesis in Apc(Min/+) mice .
+Methyl donor sufficient ( MDS ) and deficient ( MDD ) diets were started at five or 10 weeks of age and tumors evaluated at 16 weeks .
+MDD suppressed intestinal tumor formation in Apc(Min/+) mice ( when started at five weeks of age .
+The protective effect was lost when MDD was initiated at 10 weeks of age , indicating an important time dependency on cancer suppression .
+Concomitant with cancer protection , MDD restricted body weight gain .
+Therefore , a second study was conducted in which MDS was given ad libitum or pair-fed with MDD .
+Although small intestinal tumors were reduced 54% in pair-fed MDS mice , MDD caused a further reduction ( 96% ) .
+In colon , although MDD did not affect tumor numbers , tumor size was reduced .
+Gene expression profiling of normal-appearing colonic mucosa after 11 weeks on MDD identified a total of 493 significantly downregulated genes relative to the MDS group .
+Pathway analysis placed many of these genes within general categories of inflammatory signaling and cell-cycle regulation , consistent with recently published human data obtained during folate depletion .
+Further studies are warranted to investigate the complex interplay of methyl donor status and cancer protection in high-risk populations .

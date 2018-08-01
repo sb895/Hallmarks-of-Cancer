@@ -1,0 +1,13 @@
+Androgen receptor ( AR ) signals have been suggested to contribute to bladder tumorigenesis and cancer progression .
+Activation of epidermal growth factor receptor ( EGFR ) also leads to stimulation of bladder tumor growth .
+However , crosstalk between AR and EGFR pathways in bladder cancer remains uncharacterized .
+We have recently shown that androgens activate the EGFR pathway in bladder cancer cells .
+The purpose of this study was to investigate the effects of EGF on AR activity in bladder cancer .
+EGF increased AR transcriptional activity by 1.2- , 1.9- and 2.0-fold in UMUC3 , 5637-AR and J82-AR cell lines , respectively , over mock treatment and a specific EGFR inhibitor , PD168393 , antagonized the EGF effect .
+Combined treatment of EGF and dihydrotestosterone ( DHT ) further induced AR transactivation while an AR antagonist , hydroxyflutamide ( HF ) , abolished the effect of not only DHT but also EGF .
+In growth assays , EGF alone/DHT alone/EGF+DHT increased cell numbers by 16/12/19% , 6/14/18% and 30/12/38% in UMUC3-control-shRNA , 5637-AR and J82-AR , respectively , whereas the effects of EGF were marginal or less significant in UMUC3-AR-shRNA ( 8% ) or AR-negative 5637-V ( <1% ) and J82-V ( 17% ) cells .
+HF treatment at least partially counteracted the EGF effect on the growth of AR-positive cells .
+Western blotting demonstrated that EGF , especially in the presence of DHT , upregulated the expression of the p160 coactivator TIF2 and HF again blocked this stimulation .
+Co-immunoprecipitation revealed the association between AR and estrogen receptor ( ER)-β or Src in UMUC3 cells and stronger associations with EGF treatment , implying the involvement of the AR/ER/Src complex in EGF-increased AR transactivation and cell growth .
+Current results , thus , suggest that EGF promotes bladder cancer cell proliferation via modulation of AR signals .
+Taken together with our previous findings , crosstalk between EGFR and AR pathways can play an important role in the progression of bladder cancer .

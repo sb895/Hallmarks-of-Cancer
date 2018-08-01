@@ -1,0 +1,9 @@
+By intravenous ( but not oral ) application of ascorbate , millimolar serum concentrations can be reached , which are preferentially cytotoxic to cancer cells .
+Cytotoxicity is mediated by transition metal-dependent generation of H(2)O(2) in the interstitial space .
+In this study , the sensitivity of neuroblastoma cells ( Kelly , SK-N-SH ) to ascorbate and H(2)O(2) and their defense mechanisms against H(2)O(2) were investigated .
+Since aerobic glycolysis ( the Warburg effect ) is a feature of many tumour cells , their glucose consumption and lactate production were monitored .
+Furthermore , synthesis and release of ferritin by neuroblastoma cells were analysed in order to examine whether ferritin is possibly an iron source for H(2)O(2) generation .
+Ascorbate ( 0.6-5.0 mM ) and H(2)O(2) ( 25-100 muM ) were found to be similarly cytotoxic to Kelly and SK-N-SH cells .
+In each case , cytotoxicity increased if cell concentrations decreased , in accordance with low cell concentrations having lower capacities to detoxify H(2)O(2) .
+Kelly and SK-N-SH cells produced and released remarkable amounts of lactate and ferritin .
+We propose the selective cytotoxicity of high dose ascorbate to tumour cells to be due to the preferential generation of H(2)O(2) in the acidic and ferritin-rich tumour microenvironment , combined with reduced defense systems against H(2)O(2) as a consequence of aerobic glycolysis .

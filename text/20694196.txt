@@ -1,0 +1,13 @@
+BACKGROUND The most deadly form of cancer is not lung or colon , breast or prostate ; it is any cancer that has become metastatic .
+Mortality due to metastatic melanoma , one of the most aggressive and deadly cancers , has increased steadily over the last several decades .
+Unfortunately , the arsenal of chemotherapeutic agents available today is most often unsuccessful at extending and improving the life expectancy of afflicted individuals .
+We sought to identify an effective and nontoxic agent against metastatic melanoma .
+METHODOLOGY/PRINCIPAL FINDINGS We chose to study Cloudman S-91 mouse melanoma cells ( sub-clone M3 , CCL53.1 ) because these cells are highly aggressive and metastatic , representing one of the deadliest types of cancer .
+Melanoma cells also had an experimental advantage because their morphology , which is easily monitored , relates to the physiology of metastatic cells and normal melanocytes .
+We chose to test methyl sulfone as a chemotherapeutic agent for two reasons .
+Because of its chemical structure , we speculated a potential anti-cancer activity by targeting microtubules .
+Equally important , methyl sulfone has a well-established safety profile in humans .
+Surprisingly , we found that malignant melanoma cells exposed to methyl sulfone demonstrated the loss of phenotypes characteristic of malignant cells , and the reemergence of phenotypes characteristic of healthy melanocytes .
+Briefly , over time methyl sulfone induced contact inhibition , loss of ability to migrate through an extracellular matrix , loss of anchorage-independent growth , proper wound healing followed by contact inhibition , irreversible senescence followed by arborization with melanosomes in arbors as seen in normal melanocytes .
+CONCLUSIONS/SIGNIFICANCE Methyl sulfone may have clinical potential as a non-toxic agent effective against metastatic melanoma .
+Additionally , methyl sulfone has promise as a tool to explore molecular mechanisms of metastatic transformation as well as fundamental processes such as cell migration , contact inhibition , wound healing and cellular senescence .

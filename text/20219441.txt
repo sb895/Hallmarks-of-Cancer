@@ -1,0 +1,12 @@
+1-(3-C-ethynyl-beta-d-ribo-pentofuranosyl)cytosine ( ECyd ) is a ribose-modified nucleoside analog of cytidine with potent anticancer activity in several cancers .
+The main antitumor mechanism of this promising RNA-directed nucleoside anti-metabolite is efficient blockade of RNA synthesis in cancer cells .
+Here , we examined the therapeutic potential of this RNA-directed anti-metabolite in in vitro models of nasopharyngeal cancer ( NPC ) .
+In a panel of 6 NPC cell lines , ECyd effectively inhibited cellular proliferation at nM concentrations ( IC(50) : approximately 13-44nM ) .
+Moreover , cisplatin-resistant NPC cells were highly sensitive to ECyd ( at nM concentration ) .
+The ECyd-mediated growth inhibition was associated with G(2)/M cell cycle arrest , PARP cleavage ( a hallmark of apoptosis ) and Bcl-2 downregulation , indicating induction of apoptosis by ECyd in NPC cells .
+Unexpectedly , ECyd-induced significant downregulation of TIGAR , a newly described dual regulator of apoptosis and glycolysis .
+More importantly , this novel action of ECyd on TIGAR was accompanied by marked depletion of NADPH , the major reducing power critically required for cell proliferation and survival .
+We hypothesized that ECyd-induced TIGAR downregulation was crucially involved in the antitumor activity of ECyd .
+Indeed , overexpression of TIGAR was able to rescue NPC cells from ECyd-induced growth inhibition , demonstrating a novel mechanistic action of ECyd on TIGAR .
+We demonstrated for the first time that an RNA-directed nucleoside analog , ECyd , exerts its antitumor activity via downregulation of a novel regulator of apoptosis , TIGAR .
+Moreover , ECyd may represent a novel therapy for NPC .

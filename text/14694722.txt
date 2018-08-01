@@ -1,0 +1,8 @@
+OBJECTIVE To explore the adduct characteristics of styrene and DNA .
+METHODS The adduct reactions between styrene , urinary mandalic acid(MA) , phenylglyoxalic acid(PGA) , mercapturic acid of styrene ( UMA ) and DNA were studied by ultraviolet spectral analysis .
+The SO-DNA adducts by 32P-post labeled method , the chemical structures of SO-DNA adducts by GC-MS and NMR were also studied .
+RESULTS SO combined with DNA at O6 , N2 positions of dGMP to form six adducts , but styrene , urinary mandalic acid , phenylglyoxalic acid and mercapturic acid of styrene did not react with DNA to form adduct .
+CONCLUSIONS Styrene formed adduct with DNA through its active center metabolite--SO after entering the body .
+SO combined with DNA at O6 , N2 positions of dGMP to form adducts .
+If these DNA adducts are not repaired or are mis-repaired before cell duplication , the gene mutation and chemical damage would happen .
+No adduct reactions are seen among other metabolites of styrene .

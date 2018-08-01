@@ -1,0 +1,11 @@
+RASSF2 has recently been identified as a potential tumor suppressor that serves as a Ras effector in various types of human cancers .
+However , there have been few reports detailing this in gastric cancer .
+Samples of gastric adenocarcinoma from 276 Chinese patients with follow-up were analyzed for RASSF2 protein expression by immunohistochemistry .
+RASSF2 was expressed in up to 31.2% ( 86/276 ) of this group of gastric carcinoma .
+The expression of RASSF2 was significantly lower in carcinomas than in normal mucosas ( P<0.05 ) .
+RASSF2 corresponded positively with patient age , histological differentiation , depth of tumor invasion , regional lymph node and distant metastasis , and TNM stage ( all P<0.05 ) .
+Further multivariate analysis revealed that patient gender , depth of tumor invasion , distant metastasis , TNM stage and the expression of RASSF2 were independent prognostic factors for patients with gastric cancer .
+The Kaplan-Meier plot showed that the overall mean survival time of the patients with RASSF2-negative expression was shorter than that of patients with positive expression ( χ(2)=156.874 , P<0.0001 ) .
+Moreover , RASSF2-negative expression had a much more significant effect on the survival of those patients with early stage tumors ( χ(2)=127.167 , P<0.0001 ) , highlighted by a >50.9% reduction in 3-year survival compared to that of patients with RASSF2-positive expression .
+In late stages , the difference was also significant ( χ(2)=6.246 , P=0.019 ) , with a 35.5% reduction in 3-year survival .
+It is suggested that RASSF2 plays an important role in the evolution of gastric adenocarcinoma and should be considered as a potential marker for its prognosis .

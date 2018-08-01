@@ -1,0 +1,8 @@
+BACKGROUND Though an increased efficacy of carmustine and temozolomide ( TMZ ) has been demonstrated by inactivation of O(6)-methylguanine-DNA methyltransferase ( MGMT ) with O(6)-benzyl-guanine ( BG ) in human pancreatic tumors refractive to alkylating agents , the regulatory mechanisms have not been explored .
+METHODS The effects of TMZ and BG on apoptosis , cell growth , the mitotic index , cell cycle distribution , and protein expression were studied by TUNEL , cell counting , flow cytometry , and Western blot analysis , respectively .
+RESULTS The wt-p53 human pancreatic tumor cell line Capan-2 and p53-efficient mouse embryonic fibroblasts ( MEFs ) were more responsive to treatment with TMZ + BG than mutant p53 Capan-1 and p53-null MEFs .
+S phase delay with a subsequent G2/M arrest was observed in Capans in response to BG + TMZ .
+The G1-to-S transition delay in Capan-2 was associated with p53-dependent apoptosis and was distinctly different from the presumed mismatch repair ( MMR ) killing operative during the G2/M arrest .
+The effect of p53 on BG + TMZ toxicity was supported by a marked change in apoptosis when p53 function was restored/inactivated .
+There was an early induction of MMR proteins in p53-efficient lines .
+CONCLUSION p53 provokes a classic proapoptotic response by delaying G1-to-S progression , but it may also facilitate cell killing by enhancing MMR-related cell cycle arrest and cell death .

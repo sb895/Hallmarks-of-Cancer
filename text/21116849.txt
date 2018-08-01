@@ -1,0 +1,10 @@
+The aim of this study was to determine whether caffeine enhanced radiosensitivity of normal liver tissue in a rat radiation-induced liver disease model .
+Buffalo rat McA-RH7777 hepatocellular cancer cells and BRL3A normal liver cells were irradiated , and cell cycle distribution and apoptosis rates were analyzed .
+A rat model of radiation-induced liver disease was established , rats were randomized into four groups : control ; caffeine alone ; irradiation ( IR ) alone ; and caffeine plus IR ( Caff + IR ) group .
+Apoptosis rates in normal rat liver tissue after IR were evaluated by TUNEL staining and caspase-3 Western blot .
+Transaminase activity was measured and histopathological examination was done after IR .
+Caffeine abrogated IR-induced G2 phase arrest ( Caff + IR vs. IR : 40.9 ± 4.0 vs. 60.7 ± 5.5% , at 12 h after IR ) and increased apoptosis rates ( Caff + IR vs. IR : 56.1 ± 6.8 vs. 35.5 ± 4.0% , at 72 h after IR ) in McA-RH7777 cells , but did not affect IR-induced G2 phase arrest and apoptosis rates at any time point after IR in BRL3A cells .
+Caffeine did not enhance apoptosis , transaminase activity , or histopathological injury of normal rat liver tissue at any time points after IR .
+This study suggests that caffeine might not enhance radiosensitivity of normal liver tissue in vivo .
+In an earlier study , we reported that caffeine enhanced radiosensitivity of human hepatocellular cancer in a nude mice model .
+Together , these results offer feasibility of clinical application .

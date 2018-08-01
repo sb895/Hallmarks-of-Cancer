@@ -1,0 +1,7 @@
+Polo-like kinase 3 ( Plk3 , alternatively termed Prk ) is involved in the regulation of DNA damage checkpoint as well as in M-phase function .
+Plk3 physically interacts with p53 and phosphorylates this tumor suppressor protein on serine-20 , suggesting that the role of Plk3 in cell cycle progression is mediated , at least in part , through direct regulation of p53 .
+Here we show that Plk3 is rapidly activated by reactive oxygen species in normal diploid fibroblast cells ( WI-38 ) , correlating with a subsequent increase in p53 protein level .
+Plk3 physically interacts with Chk2 and the interaction is enhanced upon DNA damage .
+In addition , Chk2 immunoprecipitated from cell lysates of Daudi ( which expressed little Plk3 ) is capable of stimulating the kinase activity of purified recombinant Plk3 in vitro , and this stimulation is more pronounced when Plk3 is supplemented with Chk2 immunoprecipitated from Daudi after DNA damage .
+Furthermore , ectopic expression Chk2 activates cellular Plk3 .
+Together , our studies suggest Chk2 may mediate direct activation of Plk3 in response to genotoxic stresses .

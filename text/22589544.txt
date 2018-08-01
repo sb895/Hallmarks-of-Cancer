@@ -1,0 +1,10 @@
+The androgen receptor ( AR ) has a critical role in the growth and progression of androgen-dependent and castration-resistant prostate cancers .
+To identify novel inhibitors of AR transactivation that block growth of prostate cancer cells , a luciferase-based high-throughput screen of small molecules was performed in cells stably expressing AR and a prostate-specific antigen ( PSA)-luciferase reporter .
+CPIC ( 1-(3-(2-chlorophenoxy) propyl)-1H-indole-3-carbonitrile ) was identified as a small molecule that blocks AR transactivation to a greater extent than other steroid receptors .
+CPIC inhibited AR-mediated proliferation of androgen-sensitive prostate cancer cell lines , with minimal toxicity in AR-negative cell lines .
+CPIC treatment also reduced the anchorage-independent growth of LAPC-4 prostate cancer cells .
+CPIC functioned as a pure antagonist by inhibiting the expression of AR-regulated genes in LAPC-4 cells that express wild-type AR and exhibited weak agonist activity in LNCaP cells that express the mutant AR-T877A .
+CPIC treatment did not reduce AR levels or alter its nuclear localization .
+We used chromatin immunoprecipitation to identify the site of action of CPIC .
+CPIC inhibited recruitment of androgen-bound AR to the PSA promoter and enhancer sites to a greater extent than bicalutamide .
+CPIC is a new therapeutic inhibitor that targets AR-mediated gene activation with potential to arrest the growth of prostate cancer .

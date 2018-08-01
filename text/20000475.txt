@@ -1,0 +1,8 @@
+Depleted uranium ( DU ) is commonly used in military armor and munitions , and thus , exposure of soldiers and noncombatants is frequent and widespread .
+Previous studies have shown that DU has both chemical and radiological toxicity and that the primary route of exposure of DU to humans is through inhalation and ingestion .
+However , there is limited research information on the potential carcinogenicity of DU in human bronchial cells .
+Accordingly , we determined the neoplastic transforming ability of particulate DU to human bronchial epithelial cells ( BEP2D ) .
+We observed the loss of contact inhibition and anchorage independent growth in cells exposed to DU after 24 h .
+We also characterized these DU-induced transformed cell lines and found that 40% of the cell lines exhibit alterations in plating efficiency and no significant changes in the cytotoxic response to DU .
+Cytogenetic analyses showed that 53% of the DU-transformed cell lines possess a hypodiploid phenotype .
+These data indicate that human bronchial cells are transformed by DU and exhibit significant chromosome instability consistent with a neoplastic phenotype .

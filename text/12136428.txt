@@ -1,0 +1,8 @@
+We have recently developed surface-shielded transferrin-polyethylenimine ( Tf-PEI)/DNA delivery systems that target reporter gene expression to distant tumors after systemic application .
+In the present study , we used surface-shielded Tf-PEI/DNA complexes for delivering the gene for a highly potent cytokine , tumor necrosis factor-alpha ( TNFalpha ) .
+TNFalpha is known for its ability to induce hemorrhagic tumor necrosis and tumor regression .
+However , the therapeutic application of TNFalpha is hampered by its high systemic toxicity dictating the need to target TNFalpha activity to the tumor .
+Systemic application of surface-shielded Tf-PEI complexes with the TNFalpha gene resulted in preferential expression of TNFalpha in the tumor without detectable TNFalpha serum levels , in contrast to the application of nontargeted complexes .
+Tumor-targeted TNFalpha gene delivery induced pronounced hemorrhagic tumor necrosis and inhibition of tumor growth in three murine tumor models of different tissue origins , Neuro2a neuroblastoma , MethA fibrosarcoma , and M-3 melanoma , with complete tumor regressions observed in the MethA model .
+No systemic TNF-related toxicity was observed due to the localization of the TNFalpha activity to the tumor .
+Targeted gene therapy may be an attractive strategy applicable to highly active , yet toxic , molecules such as TNFalpha .

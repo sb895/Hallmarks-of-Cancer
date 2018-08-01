@@ -1,0 +1,10 @@
+Photodynamic Therapy ( PDT ) involves the administration of a tumor localizing photosensitizing agent , which upon activation with light of an appropriate wavelength leads to the destruction of the tumor cells .
+The aim of the present study was to determine the efficacy of erythrosine as a photosensitizer for the PDT of oral malignancies .
+The drug uptake kinetics of erythrosine in malignant ( H357 ) and pre-malignant ( DOK ) oral epithelial cells and their susceptibility to erythrosine-based PDT was studied along with the determination of the subcellular localization of erythrosine .
+This was followed by initial investigations into the mechanism of cell killing induced following PDT involving both high and low concentrations of erythrosine .
+The results showed that at 37 °C the uptake of erythrosine by both DOK and H357 cells increased in an erythrosine dose dependent manner .
+However , the percentage of cell killing observed following PDT differed between the 2 cell lines ; a maximum of of DOK cell killing was achieved as compared to killing for H357 cells .
+Both the DOK and H357 cell types exhibited predominantly mitochondrial accumulation of erythrosine , but the mitochondrial trans-membrane potential ( ΔΨ(m) ) studies showed that the H357 cells were far more resistant to the changes in ΔΨ(m) when compared to the DOK cells and this might be a factor in the apparent relative resistance of the H357 cells to PDT .
+Finally , cell death morphology and caspase activity analysis studies demonstrated the occurrence of extensive necrosis with high dose PDT in DOK cells , whereas apoptosis was observed at lower doses of PDT for both cell lines .
+For H357 cells , high dose PDT produced both apoptotic as well as necrotic responses .
+This is the first instance of erythrosine-based PDT's usage for cancer cell killing .

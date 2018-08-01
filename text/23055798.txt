@@ -1,0 +1,10 @@
+Certain mutations in BRCA1 and BRCA2 genes are frequent in the Ashkenazi Jewish population .
+Several factors contribute to this increased frequency , including consanguineous marriages and an event known as a " bottleneck " , which occurred in the past and caused a drastic reduction in the genetic variability of this population .
+Several studies were performed over the years in an attempt to elucidate the role of BRCA1 and BRCA2 genes in susceptibility to breast cancer .
+The aim of this study was to estimate the carrier frequency of certain common mutations in the BRCA1 ( 185delAG and 5382insC ) and BRCA2 ( 6174delT ) genes in an Ashkenazi Jewish population from Porto Alegre , Brazil .
+Molecular analyses were done by PCR followed by RFLP ( ACRS ) .
+The carrier frequencies for BRCA1 185delAG and 5382insC were 0.78 and 0 respectively , and 0.4 for the BRCA2 6174deT mutation .
+These findings are similar to those of some prior studies but differ from others , possibly due to excluding individuals with a personal or family history of cancer .
+Our sample was drawn from the community group and included individuals with or without a family or personal history of cancer .
+Furthermore , increased dispersion among Ashkenazi subpopulations may be the result of strong genetic drift and/or admixture .
+It is therefore necessary to consider the effects of local admixture on the mismatch distributions of various Jewish populations .

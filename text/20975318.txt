@@ -1,0 +1,9 @@
+BACKGROUND/AIMS We investigated whether the anticancer drug Ukrain ( UK ) is able to modulate the expression of some of the key markers of tumor progression in pancreatic cell carcinoma , in order to assess its potential therapeutic effect .
+METHODS Three cell lines ( HPAF-II , PL45 , HPAC ) were treated with UK ( 5 , 10 and 20 μM ) for 48 h , or left untreated .
+Secreted protein acidic and rich in cysteine ( SPARC ) mRNA levels were assessed by real-time PCR .
+Matrix metalloproteinases ( MMP)-2 and -9 activity was analyzed by SDS zymography ; SPARC protein levels in cell lysates and supernatants were determined by Western blot .
+Cell cycle was determined by flow cytometric analysis , and invasion by matrigel invasion assay .
+RESULTS UK down-regulated MMP-2 and MMP-9 , suggesting that UK may decrease pancreatic cancer cell invasion , as confirmed by the matrigel invasion assay .
+SPARC protein down-regulation in supernatants points to an inhibition by UK of extracellular matrix remodeling in the tumor microenvironment .
+At the same time , SPARC mRNA and cellular protein level up-regulation suggests that UK can affect cell proliferation by cell cycle inhibition , showing a cell cycle G2/M arrest in UK-treated cells .
+CONCLUSION Our results suggest that UK modulates two major aspects involved in tumorigenesis of pancreatic cancer cells , such as extracellular matrix remodeling and cell proliferation .

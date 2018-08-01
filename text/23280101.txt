@@ -1,0 +1,9 @@
+Sonodynamic therapy ( SDT ) has shown great potential in target cancer therapy , but it induced cell death modes hasn't been fully investigated .
+This study was to examine autophagic and apoptotic responses to protoporphyrin IX ( PpIX ) mediated SDT in murine leukemia L1210 cells .
+After SDT , the occurrence of autophagy was identified by morphological observation and biochemical analysis .
+Meanwhile , the mitochondria dependent apoptosis pathway was examined to participate in SDT induced cell death .
+The relationship between autophagy and apoptosis was further investigated by applying pharmacological inhibition studies , which indicated that impairment of autophagy enhanced the anti-tumor effect of SDT through induction of apoptosis and necrosis , while caspase inhibition didn't affect autophagic vacuoles formation or protect SDT induced cytotoxicity .
+The findings supported that autophagic vacuoles formed upstream and independently from caspase-dependent cell death .
+Additionally , the possible mechanism of SDT-induced autophagy was evaluated by measurement of ROS ( reactive oxygen species ) formation .
+Result suggested ROS play important role in initiating autophagy , possibly through the sono-damaged mitochondria being enclosed by autophagic vacuoles .
+All together , these data indicate that autophagy may be cytoprotective in our experimental system , and point to an important insight into how autophagy inhibitors , in combination with SDT may contribute a regimen for cancer therapy .

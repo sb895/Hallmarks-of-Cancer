@@ -1,0 +1,12 @@
+Autophagy , or autophagocytosis , is a selective intracellular degradative process involving the cell's own lysosomal apparatus .
+An essential component in cell development , homeostasis , repair and resistance to stress , autophagy may result in either cell death or survival .
+The targeted region of the cell is sequestered within a membrane structure , the autophagosome , for regulation of the catabolic process .
+A key factor in both autophagosome formation and autophagosome maturation is a protein encoded by the ultraviolet irradiation resistance-associated gene ( UVRAG ) .
+Conversely , the serine/threonine-specific protein kinase B ( PKB , also known as Akt ) , which regulates survival in various cancers , inhibits autophagy through mTOR activation .
+We found that Akt1 may also directly inhibit autophagy by down-regulating UVRAG both in a 293T transient transfection system and breast cancer cells stably expressing Akt1 .
+The UVRAG with mutations at putative Akt1-phosphorylation sites were still inhibited by Akt1 , and dominant-negative Akt1 also inhibited UVRAG expression , suggesting that Akt1 down-regulates UVRAG by a kinase activity-independent mechanism .
+We showed that Akt1 overexpression in MDA-MB-231 breast cancer cells down-regulated UVRAG transcription .
+Cells over-expressing Akt1 were more resistant than control cells to ultraviolet light-induced autophagy and exhibited the associated reduction in cell viability .
+Levels of the autophagosome indicator protein LC3B-II and mRFP-GFP-LC3 were reduced in cells that over-expressing Akt1 .
+Inhibiting Akt1 by siRNA or reintroducing UVRAG gene rescued the level of LC3B-II in UV-irradiation .
+Altogether , these data suggest that Akt1 may inhibit autophagy by decreasing UVRAG expression , which also sensitizes cancer cells to UV irradiation .

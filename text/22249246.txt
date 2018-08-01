@@ -1,0 +1,5 @@
+DNA repair is essential in maintaining genome integrity and defects in different steps of the process have been linked to cancer and aging .
+It is a long lasting question how DNA repair is spatially and temporarily organized in the highly compartmentalized nucleus and whether the diverse nuclear compartments regulate differently the efficiency of repair .
+Increasing evidence suggest the involvement of nuclear pore complexes in repair of double-strand breaks ( DSBs ) in yeast .
+Here , we show that the human nucleoporin 153 ( NUP153 ) has a role in repair of DSBs and in the activation of DNA damage checkpoints .
+We explore the mechanism of action of NUP153 and we propose its potential as a novel therapeutic target in cancers .

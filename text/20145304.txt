@@ -1,0 +1,9 @@
+The relationship between DNA damage and repair of peripheral blood leukocytes , liver , kidney and brain cells was investigated in Swiss albino mice ( Mus musculus L. ) after exposure to sevoflurane ( 2.4 vol% for 2 h daily , for 3 days ) .
+Genetic damage of mouse cells was investigated by the comet assay and micronucleus test .
+To perform the comet assay , mice were divided into a control group and 4 groups of exposed mice sacrificed on day 3 of the experiment , at 0 , 2 , 6 or 24 h after the last exposure to sevoflurane .
+Mean tail length ( TL ) , tail moment ( TM ) , and tail intensity ( TI ) values were significantly higher in exposed mice ( all examined organs ) than in the control group .
+Significant DNA damage immediately after exposure to sevoflurane was observed in leukocytes .
+Damage induction in the liver , kidney , and brain occurred 6 h later than in leukocytes , as expected according to the toxicokinetics of the drug , where blood is the first compartment to absorb sevoflurane .
+However , none of the tested tissues revealed signs of repair until 24 h after the exposure .
+To distinguish the unrepaired genome damage in vivo , the micronucleus test was applied .
+Number of micronuclei in reticulocytes showed a statistically significant increase , as compared with the control group at all observed times after the treatment .

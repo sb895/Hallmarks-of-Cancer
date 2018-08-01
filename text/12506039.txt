@@ -1,0 +1,10 @@
+Little is known about the requirements for human T-cell leukemia virus type I ( HTLV-I ) entry , including the identity of the cellular receptor(s) .
+Recently , we have generated an HTLV-I surface glycoprotein ( SU ) immunoadhesin , HTSU-IgG , which binds specifically to cell-surface protein(s) critical for HTLV-I-mediated entry in cell lines .
+Here , expression of the HTLV-I SU binding protein on primary cells of the immune system was examined .
+The immunoadhesin specifically bound to adult T cells , B cells , NK cells , and macrophages .
+Cell stimulation dramatically increased the amount of binding , with the highest levels of binding on CD4(+) and CD8(+) T cells .
+Naive ( CD45RA(high) , CD62L(high) ) CD4(+) T cells derived from cord blood cells , in contrast to other primary cells and all cell lines examined , bound no detectable HTLV-I SU .
+However , following stimulation , the level of HTSU-IgG binding was rapidly induced ( fewer than 6 hours ) , reaching the level of binding seen on adult CD4(+) T cells by 72 hours .
+In contrast to HTLV-I virions , the soluble HTSU-IgG did not effect T-cell activation or proliferation .
+When incubated with human peripheral blood mononuclear cells in a mixed leukocyte reaction , HTSU-IgG inhibited proliferation at less than 1 ng/mL .
+These results indicate that cell-surface expression of the HTLV SU binding protein is up-regulated during in vitro activation and suggest a role for the HTLV-I SU binding proteins in the immunobiology of CD4(+) T cells .

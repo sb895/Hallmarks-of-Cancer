@@ -1,0 +1,7 @@
+Premature senescence , a key strategy used to suppress carcinogenesis , can be driven by p53/p21 proteins in response to various stresses .
+Here , we demonstrate that Wig1 plays a critical role in this process through regulation of p21 mRNA stability .
+Wig1 controls the association of Argonaute2 ( Ago2 ) , a central component of the RNA-induced silencing complex ( RISC ) , with target p21 mRNA via binding of the stem-loop structure near the microRNA ( miRNA ) target site .
+Depletion of Wig1 prohibited miRNA-mediated p21 mRNA decay and resulted in premature senescence .
+Wig1 plays an essential role in cell proliferation , as demonstrated in tumour xenografts in mice , and Wig1 and p21 mRNA levels are inversely correlated in human normal and cancer tissues .
+Together , our data indicate a novel role of Wig1 in RISC target accessibility , which is a key step in RNA-mediated gene silencing .
+In addition , these findings indicate that fine-tuning of p21 levels by Wig1 is essential for the prevention of cellular senescence .

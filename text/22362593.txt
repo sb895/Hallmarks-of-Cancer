@@ -1,0 +1,9 @@
+Clear cell renal cell carcinoma ( ccRCC ) is the most common pathological subtype of kidney cancer .
+Here , we integrated an unbiased genome-wide RNA interference screen for ccRCC survival regulators with an analysis of recurrently overexpressed genes in ccRCC to identify new therapeutic targets in this disease .
+One of the most potent survival regulators , the monocarboxylate transporter MCT4 ( SLC16A3 ) , impaired ccRCC viability in all eight ccRCC lines tested and was the seventh most overexpressed gene in a meta-analysis of five ccRCC expression datasets .
+MCT4 silencing impaired secretion of lactate generated through glycolysis and induced cell cycle arrest and apoptosis .
+Silencing MCT4 resulted in intracellular acidosis , and reduction in intracellular ATP production together with partial reversion of the Warburg effect in ccRCC cell lines .
+Intra-tumoural heterogeneity in the intensity of MCT4 protein expression was observed in primary ccRCCs .
+MCT4 protein expression analysis based on the highest intensity of expression in primary ccRCCs was associated with poorer relapse-free survival , whereas modal intensity correlated with Fuhrman nuclear grade .
+Consistent with the potential selection of subclones enriched for MCT4 expression during disease progression , MCT4 expression was greater at sites of metastatic disease .
+These data suggest that MCT4 may serve as a novel metabolic target to reverse the Warburg effect and limit disease progression in ccRCC .

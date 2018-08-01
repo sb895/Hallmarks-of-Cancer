@@ -1,0 +1,7 @@
+Amplification of the epidermal growth factor receptor ( EGFR ) , frequently expressed as a constitutively active deletion mutant ( EGFRvIII ) , occurs commonly in glioblastoma multiformes ( GBM ) .
+However , blockade of EGFR is therapeutically disappointing for gliomas with PTEN deletion .
+To search for small molecules treating this aggressive cancer , we have established a cell-based screening and successfully identified acridine yellow G that preferentially blocks cell proliferation of the most malignant U87MG/EGFRvIII cells over the less malignant U87MG/PTEN cells .
+Oral administration of this compound markedly diminishes the brain tumor volumes in both subcutaneous and intracranial models .
+It directly inhibits EGFR and PKCs with IC(50) values of and 5 μM , respectively .
+It dually inhibits EGFR and PKCs , resulting in a blockade of mammalian target of rapamycin signaling and cell cycle arrest in the G(1) phase , which leads to activation of apoptosis in the tumors .
+Hence , combinatorial inhibition of EGFR and PKCs might provide proof of concept in developing therapeutic agents for treating malignant glioma and other human cancers .

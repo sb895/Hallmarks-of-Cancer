@@ -1,0 +1,10 @@
+Here we report that miR-93 , a miRNA in the miR-106B cluster , a paralog of the miR-17-92 cluster , was significantly upregulated in human breast carcinoma tissues .
+We stably expressed miR-93 in the MT-1 human breast carcinoma cell line and found that tumors formed by the miR-93 cells contained more blood vessels than those formed by the control cells .
+Co-culture experiments indicated that the MT-1 cells displayed a high activity of adhesion with endothelial cells and could form larger and more tube-like structures with endothelial cells .
+Lung metastasis assays were performed in a mouse metastatic model , and it was found that expression of miR-93 promoted tumor cell metastasis to lung tissue .
+In cell culture , expression of miR-93 enhanced cell survival and invasion .
+We examined the potential target that mediated miR-93's effects and found that the large tumor suppressor , homology 2 ( LATS2 ) was a target of miR-93 .
+Higher levels of LATS2 were associated with cell death in the tumor mass .
+Silencing LATS2 expression promoted cell survival , tube formation and invasion , while ectopic expression of LATS2 decreased cell survival and invasion .
+These findings demonstrated that miR-93 promoted tumor angiogenesis and metastasis by suppressing LATS2 expression .
+Our results suggest that the inhibition of miR-93 function may be a feasible approach to repress tumor metastasis .

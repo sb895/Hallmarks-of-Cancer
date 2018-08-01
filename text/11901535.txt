@@ -1,0 +1,6 @@
+It is well known that cell-mediated immunity is suppressed in patients with neoplastic diseases .
+We have reported that soluble receptors for interleukin-2 ( sIL-2R ) and tumor necrosis factor ( sTNF-R1 ) are elevated in the serum of patients with advanced colorectal cancer .
+The presence of these soluble receptors and immunosuppressive cytokines , including interleukin-10 ( IL-10 ) , might be important in the mechanisms of immunosuppression. cis-Diaminedichloroplatinum ( cisplatin ) has been reported to immunomodulate , especially when used in low dose in combination with 5-Fluorouracil ( 5-FU ) .
+In this study , cisplatin and UFT , a form of uracil and tegafur which is a prodrug of 5-FU , were administered with immunomodulator Polysaccharide K ( PSK ) to ten patients with colorectal cancer , who showed distant metastasis in the liver or lung , and the serum levels of sIL-2R and sTNF-R1 and the production of gamma-interferon ( gamma-INF ) and interleukin-10 by peripheral blood mononuclear cells were measured .
+The serum concentrations of sIL-2R and the production of IL-10 were reduced ( p < 0.05 ) after 2 months of treatment .
+Thus , this combination appeared to have immunomodulative potential in patients with advanced colorectal cancer .

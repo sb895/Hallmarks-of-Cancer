@@ -1,0 +1,15 @@
+BACKGROUND : The immune system has been shown to play an important role in gastrointestinal stromal tumor ( GIST ) .
+The neutrophil-to-lymphocyte ratio ( NLR ) in blood is an easily assessable parameter of systemic inflammatory response .
+The aim of this study was to determine whether the NLR is prognostic in GIST .
+METHODS : A total of 339 previously untreated patients with primary , localized GIST operated at our institution between 1995 and 2010 were identified from a prospectively collected sarcoma database .
+NLR was assessed preoperatively .
+Patients who received adjuvant imatinib treatment were excluded from the analysis ( n=64 ) .
+Cox regression models were calculated and correlation analyses were performed .
+RESULTS : On univariate analysis , NLR was associated with recurrence-free survival ( RFS ) ( P=0.003 , hazard ratio 3.3 , 95% confidence interval 1.5-7.4 ) .
+Patients with a low NLR had a 1- and 5-year RFS of 98 and 91% , compared with 89 and 76% in those with a high NLR .
+The median RFS was not reached .
+Positive correlations were found between NLR and mitotic rate ( Pearson correlation coefficient [ r]=0.15 , P=0.03 ) , and NLR and tumor size ( r=0.36 , P=0.0001 ) .
+RFS in patients with a GIST>5cm with low NLR was significantly longer compared to patients with high NLR ( P=0.002 ) .
+Flow cytometry analysis of freshly obtained GISTs revealed that neutrophils constituted a minimal percentage of intratumoral immune cells .
+CONCLUSIONS : NLR is a surrogate for high-risk tumor features .
+Elevated blood NLR appears to represent systemic inflammation in patients with high-risk GIST .

@@ -1,0 +1,6 @@
+Angiogenic factors produced by monocytes-macrophages are involved in the pathogenesis of chronic inflammatory disorders characterized by persistent angiogenesis .
+The possibility was tested that interleukin-8 ( IL-8 ) , which is a cytokine that is chemotactic for lymphocytes and neutrophils , is also angiogenic .
+Human recombinant IL-8 was potently angiogenic when implanted in the rat cornea and induced proliferation and chemotaxis of human umbilical vein endothelial cells .
+Angiogenic activity present in the conditioned media of inflamed human rheumatoid synovial tissue macrophages or lipopolysaccharide-stimulated blood monocytes was equally blocked by antibodies to either IL-8 or tumor necrosis factor-alpha .
+An IL-8 antisense oligonucleotide specifically blocked the production of monocyte-induced angiogenic activity .
+These data suggest a function for macrophage-derived IL-8 in angiogenesis-dependent disorders such as rheumatoid arthritis , tumor growth , and wound repair .

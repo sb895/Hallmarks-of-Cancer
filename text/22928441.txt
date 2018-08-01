@@ -1,0 +1,6 @@
+Multiple endocrine neoplasia type 2 ( MEN2 ) is an autosomal , dominantly inherited disease characterized by medullary thyroid carcinoma , pheochromocytoma , and primary hyperparathyroidism and is divided into types 2A and 2B .
+Familial medullary thyroid carcinoma ( FMTC ) is characterized by the presence of medullary thyroid carcinoma alone in family members and is considered to be one of the subtypes of MEN2 .
+Clinical and genetic data on 505 Japanese patients from 275 MEN2 or FMTC families registered at 54 medical institutions were collected by the MEN Consortium of Japan .
+The diagnosis was MEN2A in 343 ( 67.9% ) patients , MEN2B in 29 ( 5.7% ) , FMTC in 103 ( 20.4% ) , and unclassified in 30 ( 5.9% ) .
+Medullary thyroid carcinoma was found in 91.2% of patients ( 437/479 ) , pheochromocytoma in 45.6% ( 212/465 ) , and primary hyperparathyroidism in 8.1% ( 37/457 ) .
+RET genetic testing was performed in 410 patients , and the germline RET mutation was found in 98.8% ( 397/402 ) .

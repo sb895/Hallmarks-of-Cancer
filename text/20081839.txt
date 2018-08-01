@@ -1,0 +1,7 @@
+DNA double-strand breaks ( DSBs ) trigger ATM ( ataxia telangiectasia mutated ) signalling and elicit genomic rearrangements and chromosomal fragmentation if misrepaired or unrepaired .
+Although most DSB repair is ATM-independent , approximately 15% of ionizing radiation ( IR)-induced breaks persist in the absence of ATM-signalling. 53BP1 ( p53-binding protein 1 ) facilitates ATM-dependent DSB repair but is largely dispensable for ATM activation or checkpoint arrest .
+ATM promotes DSB repair within heterochromatin by phosphorylating KAP-1 ( KRAB-associated protein 1 , also known as TIF1beta , TRIM28 or KRIP-1 ; ref. 2 ) .
+Here , we show that the ATM signalling mediator proteins MDC1 , RNF8 , RNF168 and 53BP1 are also required for heterochromatic DSB repair .
+Although KAP-1 phosphorylation is critical for 53BP1-mediated repair , overall phosphorylated KAP-1 ( pKAP-1 ) levels are only modestly affected by 53BP1 loss. pKAP-1 is transiently pan-nuclear but also forms foci overlapping with gammaH2AX in heterochromatin .
+Cells that do not form 53BP1 foci , including human RIDDLE ( radiosensitivity , immunodeficiency , dysmorphic features and learning difficulties ) syndrome cells , fail to form pKAP-1 foci. 53BP1 amplifies Mre11-NBS1 accumulation at late-repairing DSBs , concentrating active ATM and leading to robust , localized pKAP-1 .
+We propose that ionizing-radiation induced foci ( IRIF ) spatially concentrate ATM activity to promote localized alterations in regions of chromatin otherwise inhibitory to repair .

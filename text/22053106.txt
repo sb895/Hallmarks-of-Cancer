@@ -1,0 +1,10 @@
+Peroxisome proliferator-activated receptor-γ ( PPARγ ) is an anti-inflammatory molecule .
+To study its biologic function in myeloid cells , dominant-negative PPARγ ( dnPPARγ ) was overexpressed in a myeloid-specific bitransgenic mouse model .
+In this bitransgenic system , overexpression of the dnPPARγ-Flag fusion protein in myeloid-lineage cells abnormally elevated frequencies and total numbers of IL-7Rα(-)Lin(-)c-Kit(+)Sca-1(-) , Lin(-)/Scal(+)/c-Kit(+) , common myeloid , and granulocyte-monocyte progenitor populations in the BM. dnPPARγ overexpression led to up-regulation of IL-1β , IL-6 , and TNFα in the blood plasma .
+As a result , CD11b(+)Ly6G(+) cells were systemically increased in association with activation of Stat3 , NF-κB , Erk1/2 , and p38 molecules .
+Myeloid-derived suppressor cells ( MDSCs ) inhibited the proliferation and lymphokine production of wild-type CD4+ T cells in vitro .
+CD4+ T cells from doxycycline-treated bitransgenic mice displayed reduced proliferation and lymphokine release .
+Both CD4+ and CD8+ T-cell populations were decreased in doxycycline-treated bitransgenic mice .
+Multiple forms of carcinoma and sarcoma in the lung , liver , spleen , and lymph nodes were observed in doxycycline-treated bitransgenic mice .
+BM transplantation revealed that a myeloid-autonomous defect was responsible for MDSC expansion , immunosuppression , and tumorigenesis in these mice .
+These studies suggest that anti-inflammatory PPARγ in myeloid-lineage cells plays a key role in controlling pro-inflammatory cytokine synthesis , MDSC expansion , immunosuppression , and the development of cancer .

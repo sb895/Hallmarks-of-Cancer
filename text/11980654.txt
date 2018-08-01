@@ -1,0 +1,16 @@
+Interactions of CD70 , a tumor necrosis factor-related cell surface ligand and its receptor , CD27 , are thought to play an important role for T- , B- , and natural killer-cell activation .
+However , ligation of CD27 can also induce apoptosis .
+Human glioblastoma is paradigmatic for cancer-associated immunosuppression .
+We identified CD70 as a radioinducible gene in U87 MG glioma cells .
+A screening of a panel of human glioma cell lines revealed that 11 of 12 cell lines expressed CD70 mRNA and protein .
+Two human neuroblastoma cell lines did not express CD70 .
+CD70 mRNA expression was enhanced by irradiation in 8 of 12 glioma cell lines in a p53-independent manner .
+No alteration in CD70 expression was observed after glioma cell exposure to cytotoxic drugs such as lomustine .
+CD70 protein was also detected by immunocytochemistry in 5 of 12 glioblastomas and 3 of 4 anaplastic astrocytomas in vivo .
+CD27 expression was not detected in any glioma cell line , and there was no evidence for autocrine or backward signaling of the CD70 system in human glioma cells .
+Unexpectedly , CD70 expressed on glioma cells did not increase the immunogenicity of glioma cells in vitro .
+In contrast , CD70-positive glioma cells induced apoptosis in peripheral blood mononuclear cells ( PBMCs ) in a CD70-dependent manner .
+Neutralization of CD70 expressed on glioma cells prevented apoptosis and enhanced the release of tumor necrosis factor-alpha in cocultures of glioma cells and PBMCs .
+The effects of CD70-expressing glioma cells on PBMCs were mimicked by agonistic CD27 antibodies .
+Conversely , the shedding of CD27 by PBMCs was identified as a possible escape mechanism from glioma cell-induced CD70-dependent apoptosis .
+Thus , induction of B-cell and T-cell apoptosis via interactions of CD70 expressed on glioma cells and CD27 expressed on B and T cells may be a novel way for the immune escape of malignant gliomas .

@@ -1,0 +1,13 @@
+The Ras association domain family 1 isoform A ( RASSF1A ) is a tumor suppressor whose inactivation is implicated in the development of many human cancers , including breast carcinomas .
+Little is known about the tumor-suppressive function of RASSF1A in breast tissue and whether its inactivation is mechanistically involved in the initiation and progression of breast tumors .
+Here , we show that RASSF1A inhibits breast cancer growth in vivo , and suppresses estrogen receptor ( ERα ) expression and function .
+Reconstitution of RASSF1A in MCF7 cells led to decreased ERα levels and reduced sensitivity to estrogen ( E2 ) .
+Concomitantly , we observed decreased expression of Id1 as well as the E2-responsive genes Bcl-2 and c-Myc that cooperatively contribute to the immortalization and transformation of breast epithelial cells .
+This downregulation was associated with induction of cell-cycle arrest and senescence that constitute early barriers to cancer initiation and progression .
+Knockdown of ERα showed that downregulation of ERα suffices to increase senescence and inhibit expression of Bcl-2 , c-Myc and Id1 .
+However , enforced expression of ERα only partially rescued RASSF1A-mediated growth inhibition and senescence , suggesting that suppression of ERα expression and activity is not the only mechanism by which RASSF1A inhibits growth and survival of breast cancer cells .
+Ectopic expression of Bcl-2 , c-Myc and Id1 had little or no effect on RASSF1A-mediated growth arrest , indicating that RASSF1A acts dominantly over these oncogenes .
+Mechanistically , RASSF1A was found to suppress ERα expression through Akt1 .
+It also transiently inhibited ERα-induced Ras-MAPK activity after exposure of cells to E2 .
+Together , our data show that RASSF1A acts as a tumor suppressor in ERα+ mammary epithelial cells , in part through inhibiting ERα expression and activity .
+These findings suggest that RASSF1A has a key role in suppressing the transformation of human breast epithelial cells and ERα+ breast cancer initiation .

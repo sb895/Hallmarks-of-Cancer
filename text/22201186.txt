@@ -1,0 +1,8 @@
+Recent evidences suggest that the activity of glycogen synthase kinase-3 ( GSK3 ) contributes to the tumorigenic potential of pancreatic cancer cells through modulation of cell proliferation and survival .
+However , further investigations are needed to identify GSK3-dependent mechanisms involved in the control of pancreatic cancer cell proliferation and survival .
+This study was undertaken to provide further support for a role of GSK3 in pancreatic cancer cell growth as well as to identify new cellular and molecular mechanisms involved .
+Herein , we demonstrate that prolonged inhibition of GSK3 triggers an apoptotic response only in human pancreatic cancer cells but not in human non-transformed pancreatic epithelial cells .
+We show that prolonged inhibition of GSK3 activity increases Bim messenger RNA and protein expressions .
+Moreover , we provide evidence that activation of the c-jun N-terminal kinase ( JNK ) pathway is necessary for the GSK3 inhibition-mediated increase in Bim expression and apoptotic response .
+Finally , we demonstrate that concomitant inhibition of GSK3 potentiates the death ligand-induced apoptotic response in pancreatic cancer cells but not in non-transformed pancreatic epithelial cells and that this effect also requires JNK activity .
+Considering that different approaches leading to stimulation of death receptor signaling are under clinical trials for treatment of unresectable or metastatic pancreatic cancer , inhibition of GSK3 could represent an attractive new avenue to improve their effectiveness .

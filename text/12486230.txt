@@ -1,0 +1,6 @@
+The Escherichia coli AlkB protein protects against the cytotoxicity of methylating agents by repair of the DNA lesions 1-methyladenine and 3-methylcytosine , which are generated in single-stranded stretches of DNA .
+AlkB is an alpha-ketoglutarate- and Fe(II)-dependent dioxygenase that oxidizes the relevant methyl groups and releases them as formaldehyde .
+Here , we identify two human AlkB homologs , ABH2 and ABH3 , by sequence and fold similarity , functional assays , and complementation of the E. coli alkB mutant phenotype .
+The levels of their mRNAs do not appear to correlate with cell proliferation but tissue distributions are different .
+Both enzymes remove 1-methyladenine and 3-methylcytosine from methylated polynucleotides in an alpha-ketoglutarate-dependent reaction , and act by direct damage reversal with the regeneration of the unsubstituted bases .
+AlkB , ABH2 , and ABH3 can also repair 1-ethyladenine residues in DNA with the release of acetaldehyde .

@@ -1,0 +1,10 @@
+4-Hydroxy-2-nonenal ( HNE ) , a major racemic product of lipid peroxidation , reacts with histidine to form a stable HNE-histidine Michael addition-type adduct possessing three chiral centers in the cyclic hemiacetal structure .
+In the present study , we characterized configurational isomers of a HNE-N(alpha)-acetylhistidine adduct by NMR spectroscopy and by molecular orbital calculations .
+In addition , we raised monoclonal antibodies against ( R)-HNE-histidine and ( S)-HNE-histidine adducts , characterized their specificities , and examined in vivo localizations of each adduct under oxidative stress .
+To facilitate structural characterization of the configurational isomers of an HNE-histidine adduct , we prepared the ( R)-HNE-histidine and ( S)-HNE-histidine adducts by incubating N(alpha)-acetylhistidine with each HNE enantiomer , both of which provided two peaks ( Ra and Rb from ( R)-HNE-histidine and Sa and Sb from ( S)-HNE-histidine adducts ) in reversed-phase high-performance liquid chromatography .
+The NMR analysis showed that each peak was a mixture of two diastereomers .
+In addition , the analysis of the nuclear Overhauser effect enabled the determination of configurations of the eight isomers .
+The relative amounts of these isomers in the NMR analysis correlated with the relative energies calculated by molecular orbital methods .
+On the other hand , using ( R)-HNE-modified and ( S)-HNE-modified keyhole limpet hemocyanins as the antigens , we raised the monoclonal antibodies , mAbR310 and mAbS412 , which enantioselectively recognized the ( R)-HNE-histidine and ( S)-HNE-histidine adducts , respectively .
+Among the mixtures ( Ra , Rb , Sa , and Sb ) of diastereomers , mAbR310 showed the highest immunoreactivity to Rb ( the mixture of 2R,4S,5R and 2S,4S,5R isomers ) , whereas mAbS412 preferentially recognized Sa ( the mixture of 2R,4S,5S and 2S,4S,5S isomers ) .
+The presence of ( R)-HNE and ( S)-HNE epitopes in vivo was immunohistochemically examined in the kidney of rats exposed to the renal carcinogen , ferric nitrilotriacetate , by which nuclear and cytosolic stainings with mAbR310 and mAbS412 , respectively , were detected .

@@ -1,0 +1,9 @@
+Mutations in the gene encoding cytosolic Cu,Zn-superoxide dismutase ( SOD1 ) have been linked to familial amyotrophic lateral sclerosis ( FALS ) .
+However the molecular mechanisms of motor neuron death are multi-factorial and remain unclear .
+Here we examined DNA damage , p53 activity and apoptosis in SH-SY5Y human neuroblastoma cells transfected to achieve low-level expression of either wild-type or mutant Gly(93)-->Ala ( G93A ) SOD1 , typical of FALS .
+DNA damage was investigated by evaluating the levels of 8-oxo-7,8-dihydro-2'-deoxyguanosine ( 8-oxodGuo ) and DNA strand breaks .
+Significantly higher levels of DNA damage , increased p53 activity , and a greater percentage of apoptotic cells were observed in SH-SY5Y cells transfected with G93A SOD1 when compared to cells overexpressing wild-type SOD1 and untransfected cells .
+Western blot , FACS , and confocal microscopy analysis demonstrated that G93A SOD1 is present in the nucleus in association with DNA .
+Nuclear G93A SOD1 has identical superoxide dismutase activity but displays increased peroxidase activity when compared to wild-type SOD1 .
+These results indicate that the G93A mutant SOD1 association with DNA might induce DNA damage and trigger the apoptotic response by activating p53 .
+This toxic activity of mutant SOD1 in the nucleus may play an important role in the complex mechanisms associated with motor neuron death observed in ALS pathogenesis .

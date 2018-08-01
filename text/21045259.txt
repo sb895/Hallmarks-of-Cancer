@@ -1,0 +1,9 @@
+Cancer development is associated with genetic instability .
+Identification of specific loci altered during carcinogenesis in a particular tissue gives scope for early detection and predicting the progressive nature of the tissue pathology .
+Instability at microsatellite loci is widely attributed to mismatch repair errors due to epigenetic alterations .
+Using three dinucleotide markers , D3S1313 , D9S171 , D17S250 and two mononucleotide markers BAT25 , BATRII , we evaluated MSI in 97 cases enrolled for endoscopy of upper GI tract with symptoms of dyspepsia , reflux or dysphagia .
+We aimed at evaluating markers that reflect instability in esophageal malignancies , examine the prevalence of MSI in cancers and other pathologies of the esophagus , and determine the methylation status of hMLH1 gene in relation to MSI. 42% ( 21/50 ) cancers and 15.4%(2/13) precancers exhibited MSI where 85.7% cancers and 50% precancers with MSI , showed a hypermethylated hMLH1 promoter .
+Increased number of cases with repair gene methylation were seen with increasing severity of the esophageal pathology suggesting epigenetic progression parallels histologic changes .
+BAT25 and D3S1313 markers exhibited instability frequently and cases with MSI using these markers showed an abnormal hMLH1 promoter .
+Thus these markers were useful in identifying the mismatch repair phenotype .
+These two markers may be useful to screen cases for early cancer related changes , after validation on a larger sample .

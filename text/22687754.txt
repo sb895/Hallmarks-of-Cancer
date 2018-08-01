@@ -1,0 +1,12 @@
+Hematopoietic stem cell transplantation is used for treatment of lymphoma .
+In an attempt to design an efficacious and safe prehematopoietic stem cell transplantation conditioning regimen , we investigated the cytotoxicity of the combination of busulfan ( B ) , melphalan ( M ) , and gemcitabine ( G ) in lymphoma cell lines in the absence or presence of drugs that induce epigenetic changes .
+Cells were exposed to drugs individually or in combination and analyzed by the MTT proliferation assay , flow cytometry , and Western blotting .
+We used drug concentrations ( 57 μM B , 1 μM M and 0.02 μM G ) , which individually did not have major effects on cell proliferation .
+Their combination resulted in 50% inhibition of proliferation .
+Reduction to almost half concentration ( 20 μM B , 0.7 μM M and 0.01 μM G ) did not have significant effects , but addition of the histone deacetylase inhibitor suberoylanilide hydroxamic acid ( 0.6 μM ) to this combination resulted in a marked ( growth inhibition .
+The cytotoxicity of these combinations correlates with the activation of the ataxia telangiectasia mutated-CHK2 pathway , phosphorylation of KRAB-associated protein-1 , epigenetic changes such as methylation and acetylation of histone 3 , and activation of apoptosis .
+The relevance of epigenetic changes is further shown by the induction of DNA methyltransferases in tumor cells with low constitutive levels of DNMT3A and DNMT3B .
+The addition of 5-aza-2'-deoxycytidine to ( BMG+suberoylanilide hydroxamic acid ) further enhances cell killing .
+Overall , BMG combinations are synergistically cytotoxic to lymphoma cells .
+Epigenetic changes induced by suberoylanilide hydroxamic acid and 5-aza-2'-deoxycytidine further enhance the cytotoxicity .
+This study provides a rationale for an ongoing clinical trial in our institution using ( BMG+suberoylanilide hydroxamic acid ) as pre-hematopoietic stem cell transplantation conditioning for lymphoma .

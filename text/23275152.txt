@@ -1,0 +1,8 @@
+In the present study , the question was addressed whether anthocyanins interfere with the topoisomerase I poison irinotecan in vivo .
+In vivo complexes of enzyme to DNA bioassay was used to detect irinotecan-induced stabilization of topoisomerase I/DNA complexes and single cell gel electrophoresis to determine DNA-strand-break induction in the colon of male Wistar rats .
+Furthermore , analysis of anthocyanin concentrations in rat plasma and rat colon was included in the testing , demonstrating that anthocyanins reach the colon and the concentrations do not differ between rats that only received anthocyanins and the anthocyanin/irinotecan group .
+Blackberry extract was found to significantly reduce irinotecan-mediated topoisomerase I/DNA cleavable complex formation .
+Overall , anthocyanins did not notably increase cleavable complex formation .
+However , a significant increase of DNA damage was shown after a single dose of irinotecan as well as the single compounds cyanidin ( cy ) and cyanidin-3-glucoside ( cy-3-g ) .
+Furthermore , a significant reduction of irinotecan-induced DNA-strand breaks after a pretreatment with cy , cy-3-g and blackberry extract was observed .
+Thus , the question arises whether anthocyanin-rich preparations might interfere with chemotherapy or whether , due to low systemic bioavailability , the preparations might provide protective potential in the gastrointestinal tract .

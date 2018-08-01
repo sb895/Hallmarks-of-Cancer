@@ -1,0 +1,11 @@
+Triggering tumor necrosis factor receptor-1 ( TNFR1 ) induces apoptosis in various cell lines .
+In contrast , stimulation of TNFR1 in L929sA leads to necrosis .
+Inhibition of HSP90 , a chaperone for many kinases , by geldanamycin or radicicol shifted the response of L929sA cells to TNF from necrosis to apoptosis .
+This shift was blocked by CrmA but not by BCL-2 overexpression , suggesting that it occurred through activation of procaspase-8 .
+Geldanamycin pretreatment led to a proteasome-dependent decrease in the levels of several TNFR1-interacting proteins including the kinases receptor-interacting protein , inhibitor of kappa B kinase-alpha , inhibitor of kappa B kinase-beta , and to a lesser extent the adaptors NF-kappaB essential modulator and tumor necrosis factor receptor-associated factor 2 .
+As a consequence , NF-kappa B , p38MAPK , and JNK activation were abolished .
+No significant decrease in the levels of mitogen-activated protein kinases , adaptor proteins TNFR-associated death domain and Fas-associated death domain , or caspase-3 , -8 , and -9 could be detected .
+These results suggest that HSP90 client proteins play a crucial role in necrotic signaling .
+We conclude that inhibition of HSP90 may alter the composition of the TNFR1 complex , favoring the caspase-8-dependent apoptotic pathway .
+In the absence of geldanamycin , certain HSP90 client proteins may be preferentially recruited to the TNFR1 complex , promoting necrosis .
+Thus , the availability of proteins such as receptor-interacting protein , Fas-associated death domain , and caspase-8 can determine whether TNFR1 activation will lead to apoptosis or to necrosis .

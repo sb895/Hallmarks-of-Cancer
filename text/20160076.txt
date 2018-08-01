@@ -1,0 +1,7 @@
+Ataxia-telangiectasia mutated ( ATM ) is a cellular damage sensor that coordinates the cell cycle with damage-response checkpoints and DNA repair to preserve genomic integrity .
+However , ATM also has been implicated in metabolic regulation , and ATM deficiency is associated with elevated reactive oxygen species ( ROS ) .
+ROS has a central role in many physiological and pathophysiological processes including inflammation and chronic diseases such as atherosclerosis and cancer , underscoring the importance of cellular pathways involved in redox homeostasis .
+We have identified a cytoplasmic function for ATM that participates in the cellular damage response to ROS .
+We show that in response to elevated ROS , ATM activates the TSC2 tumor suppressor via the LKB1/AMPK metabolic pathway in the cytoplasm to repress mTORC1 and induce autophagy .
+Importantly , elevated ROS and dysregulation of mTORC1 in ATM-deficient cells is inhibited by rapamycin , which also rescues lymphomagenesis in Atm-deficient mice .
+Our results identify a cytoplasmic pathway for ROS-induced ATM activation of TSC2 to regulate mTORC1 signaling and autophagy , identifying an integration node for the cellular damage response with key pathways involved in metabolism , protein synthesis , and cell survival .

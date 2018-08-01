@@ -1,0 +1,12 @@
+Inflammation is a major risk factor for carcinogenesis in patients affected by chronic colitis , yet the molecular mechanisms underlying the progression from chronic inflammation to cancer are not completely understood .
+Activation of the Toll-like receptor 4 ( TLR4)-NFκB signaling axis is associated with inflammation .
+Thus , we hypothesized that inhibition of TLR4-NFκB signaling might help in limiting inflammatory responses and inflammation-induced oncogenesis .
+In this work , we studied the effects of a TLR4-interacting surfactant protein A-derived ( SPA4 ) peptide on lipopolysaccharide ( LPS)-induced TLR4-NFκB signaling and cancer progression .
+We first characterized this peptide for its ability to bind the TLR4 ligand-LPS and for physico-chemical characteristics .
+Inflammation was induced by challenging the colon cancer SW480 cells with Escherichia coli LPS .
+Cells were then treated with varying amounts of the SPA4 peptide .
+Changes in the expression of TLR4 , interleukin ( IL)-1β and IL-6 , in intracellular NFκB-related signal transducers ( IKBα , p65 , phosphorylated IKBα , phosphorylated p65 , RelB , COX-2 ) as well as in the transcriptional activity of NFκB were studied by immunocytochemistry , immunoblotting and NFκB reporter assay , respectively .
+Simultaneously , the effects on LPS-induced cell migration and invasion were determined .
+We found that the SPA4 peptide does not bind to LPS .
+Rather , its binding to TLR4 inhibits the LPS-induced phosphorylation of p65 , production of IL-1β and IL-6 , activity of NFκB , migration and invasion of SW480 cells .
+In conclusion , our results suggest that the inhibition of TLR4-NFκB signaling by a TLR4-binding peptide may help for the treatment of chronic inflammation and prevention of inflammation-induced cancer in patients with colitis .

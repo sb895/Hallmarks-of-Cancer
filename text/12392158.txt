@@ -1,0 +1,13 @@
+Retinoblastoma ( Rb ) is the most common intraocular tumor of childhood .
+In this study we examined primary Rb specimens and Rb cell lines for the expression of immunoglobulin superfamily ( IgSF ) antigens : MHC class I and II ( MHC-I and MHC-II ) , neural cell adhesion molecule ( NCAM ) , intercellular adhesion molecule-1 ( ICAM-1 ) , and Thy-1 , which play an important role in immune system and tumor cell interactions .
+MHC-I and-II , ICAM-1 ( CD54 ) , NCAM ( CD56 ) , and Thy-1 ( CDw90 ) immunoreactivity was studied in eight primary Rb biopsy specimens using immunohistochemistry , three using immunoelectron microscopy , and six Rb cell lines using flow cytometry ( FCM ) .
+Parenchymal and vascular-associated cells , phenotypically similar to retinal microglia , strongly expressed MHC-II immunoreactivity and were distributed throughout primary Rb specimens .
+However , MHC-II expression on Rb cell lines was similar to nonspecific control levels .
+Tumor cells in primary Rb specimens displayed high NCAM , moderate Thy-1 , and low MHC-I and ICAM-1 immunolabeling .
+Tumor vasculature expressed low to moderate MHC-I and ICAM-1 immunoreactivity and moderate Thy-1 immunoreactivity .
+NCAM was not detected on the vasculature of primary Rb specimens .
+Rb cell lines displayed variable expression of Thy-1 , ICAM-1 , and MHC-I .
+NCAM was highly expressed on five of six Rb cell lines .
+The high levels of constitutive NCAM immunoreactivity on Rb tumor cells confirm the neuroectodermal origins of this tumor .
+Additionally , the variable expression of Thy-1 may suggest separate neural lineages or differences in the maturational status ofsome Rb tumors .
+The presence of a population of infiltrating MHC-II-positive cells in primary Rb tumors has implications for immunomodulation of Rb growth .

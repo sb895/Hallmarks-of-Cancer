@@ -1,0 +1,14 @@
+Profound disruptions of circadian rhythms and sleep/wake cycles constitute a major cause of institutionalization of AD patients .
+This study investigated whether a rodent model of AD , APP(NLH/NLH)/PS-1(P264L/264L) ( APPxPS1 ) mice , exhibits circadian alterations .
+The APPxPS1 mice were generated using CD-1/129 mice and Cre-lox knock-in technology to " humanize " the mouse amyloid ( A)\u03b2 sequence and create a presenilin-1 mutation identified in familial early-onset AD patients .
+APPxPS1 and WT mice of several ages ( 11 , and 15 months ) were monitored for circadian rhythms in wheel running , cage activity , and sleep:wake behavior .
+After rhythm assessment , the mice were euthanized at zeitgeber time ( ZT ) 2 or 10 ( i.e. , 2 or 10 h after lights-on ) and brains were dissected .
+Amyloid\u03b2 levels were measured in cortical samples and brain sections of the hypothalamus and hippocampus were prepared and used for in situ hybridization of circadian or neuropeptide genes .
+The most significant effects of the APPxPS1 transgenes were phase delays of h in the onset of daytime wakefulness bouts ( P<0.005 ) and peak wakefulness ( P<0.02 ) , potentially relevant to phase delays previously reported in AD patients .
+However , genotype did not affect the major activity peaks or phases of wheel running , wake , or general movement , which were bimodal with dominant dawn and dusk activity .
+Expression of Period 2 in the suprachiasmatic nucleus was affected by ZT ( P<0.0001 ) with a marginal interaction effect of age , genotype , and ZT ( P<0.08 ) .
+A separate analysis of the old animals indicated a robust interaction between ZT and genotype , as well as main effects of these parameters .
+Aging also altered sleep ( e.g. , bout length and amount of daytime sleep ) and the amount of wheel running and cage activity .
+In conclusion , the APPxPS1 knock-in mice exhibit some alterations in their sleep:wake rhythm and clock gene expression , but do not show robust , genotype-related changes in activity rhythms .
+The prominent daytime activity peaks shown by the background strain complicate the use of these APPxPS1 knock-in mice for investigations of circadian activity rhythms in AD .
+In addition to this unusual activity pattern , lack of hyperactivity differentiates the APPxPS1 knock-in mice from other transgenic AD models .

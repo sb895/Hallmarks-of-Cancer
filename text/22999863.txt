@@ -1,0 +1,10 @@
+Macrophages are the prominent components of solid tumors and have complex dual functions in their interaction with cancer cells .
+Strong evidence suggests that TAM is a part of inflammatory circuits that promote tumor progression .
+B7-homologue 3 ( B7-H3 ) , a recently identified homologue of B7.1/2 ( CD80/86 ) , has been described to exert co-stimulatory and immune regulatory functions .
+Here , we showed that a fraction of macrophages in tumor stroma expressed surface B7-H3 molecule .
+Normal macrophages , which did not express B7-H3 , would be induced expressing B7-H3 molecule when culturing with tumor cell .
+Although a lung cancer cell line constitutively expressed B7-H3 mRNA and protein in plasma , primary tumor cell isolated from the transplanted lung carcinoma model expressed B7-H3 on the surface .
+Interestingly , in transplanted lung carcinoma model , the expression of membrane-bound B7-H3 in tumor cells was increased as prolonging of tumor transformation .
+In support , IL-10 released from TAM could stimulate cancer cell expression of membrane bound B7-H3 .
+Furthermore , Lung cancer and TAM-related B7-H3 was identified as a strong inhibitor of T-cell effect and influenced the outcome of T cell immune response .
+In conclusion , TAM-tumor cell interaction-induced membrane-bound B7-H3 represents a novel immune escape mechanism which links the pro-inflammatory response to immune tolerance in the tumor milieu .

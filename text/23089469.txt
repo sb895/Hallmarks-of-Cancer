@@ -1,0 +1,11 @@
+Alteration of the oxidative stress of hepatocellular carcinoma ( HCC ) cells can influence the expressions of genes favored angiogenesis .
+Quinone reductase 2 which can activate quinones leading to reactive oxygen species production is a melatonin receptor known as MT3 .
+Prazosin prescribed for benign prostate hyperplasia and hypertension is a potent antagonist for MT3 .
+This study was to investigate the influence of therapeutic concentrations of prazosin ( 0.01 and 0.1μM ) on cell proliferation and differential expressions of CCL2 , CCL20 , CXCL6 , CXCL10 , IL8 and IL6 genes related to inflammation and/or oxidative stress in human HCC cell lines .
+Two HCC cell lines including one without susceptible to amphotericin B-induced oxidative stress ( cell line A ; HCC24/KMUH ) and one with this effect ( cell line B ; HCC38/KMUH ) were investigated by 0.01 and 0.1μM prazosin .
+The premixed WST-1 cell proliferation reagent was applied for proliferation assay .
+Differential expressions of genes were examined by quantitative reverse transcriptase-polymerase chain reaction .
+Our results showed that both 0.01 and 0.1μM prazosin did not influence cell proliferation in both cell lines .
+Both 0.01 and 0.1μM prazosin in cell line A and 0.01μM prazosin in cell line B did not cause differential expressions of tested genes .
+However , 0.1μM prazosin caused remarkable up-regulation of IL6 gene and slightly up-regulation of CCL2 gene in cell line B. In conclusion , high therapeutic concentration of prazosin can up-regulate angiogenic IL6 and CCL2 genes in human HCC cells susceptible to amphotericin B-induced oxidative stress .
+Clinical application of prazosin in patients with HCC should consider this possibility .

@@ -1,0 +1,11 @@
+Our recent studies have mechanistically demonstrated that cancer-associated fibroblasts ( CAFs ) produce energy-rich metabolites that functionally support the growth of cancer cells .
+Also , several authors have demonstrated that DNA instability in the tumor stroma greatly contributes to carcinogenesis .
+To further test this hypothesis , we stably knocked-down BRCA1 expression in human hTERT-immortalized fibroblasts ( shBRCA1 ) using an shRNA lentiviral approach .
+As expected , shBRCA1 fibroblasts displayed an elevated growth rate .
+Using immunofluorescence and immunoblot analysis , shBRCA1 fibroblasts demonstrated an increase in markers of autophagy and mitophagy .
+Most notably , shBRCA1 fibroblasts also displayed an elevation of HIF-1α expression .
+In accordance with these findings , shBRCA1 fibroblasts showed a 5.5-fold increase in ketone body production ; ketone bodies function as high-energy mitochondrial fuels .
+This is consistent with the onset of mitochondrial dysfunction in BRCA1-deficient fibroblasts .
+Conversely , after 48 h of co-culturing shBRCA1 fibroblasts with a human breast cancer cell line ( MDA-MB-231 cell ) , mitochondrial activity was enhanced in these epithelial cancer cells .
+Interestingly , our preclinical studies using xenografts demonstrated that shBRCA1 fibroblasts induced an increase in tumor growth when co-injected with MDA-MB-231 cells into nude mice .
+We conclude that a BRCA1 deficiency in the tumor stroma metabolically promotes cancer progression , via ketone production .

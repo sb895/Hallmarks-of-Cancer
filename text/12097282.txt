@@ -1,0 +1,17 @@
+Glioblastoma multiforme , the most common form of malignant brain tumor,is resistant to all forms of therapy and causes death within 9-12 months of diagnosis .
+Glioblastomas are known to contain numerous genetic and physiological alterations affecting cell survival and proliferation ; one of the most common alterations being platelet-derived growth factor ( PDGF ) autocrine signaling characterized by coexpression of PDGF and its receptor .
+The PDGF family consists of four members , PDGF-A , -B , -C , and -D , that signal through the alpha and beta PDGF receptor ( PDGFR ) tyrosine kinases .
+Numerous studies have demonstrated expression of PDGF-A , PDGF-B , and the PDGFRs in gliomablastomas , but such studies have not been conducted for the newly identified PDGF-C and -D .
+Therefore , we examined the expression of all PDGF ligands and receptors in 11 glioma cell lines and 5 primary glioblastoma tumor tissues by quantitative reverse transcription-PCR .
+Expression of PDGF/PDGFR pairs that are known to functionally interact were identified in all of the samples .
+Interestingly , PDGF-C expression was ubiquitous in brain tumor cells and tissues but was very low or absent in normal adult and fetal brain .
+PDGF-D was expressed in 10 of 11 brain tumor cell lines and 3 of 5 primary brain tumor samples .
+As a strategy for blocking PDGFR signaling , CT52923 , a potent selective small molecule piperazinyl quinazoline kinase inhibitor of the PDGFR , was identified .
+In model systems using NIH/3T3 cells , CT52923 blocked PDGF autocrine-mediated phosphorylation of PDGFR , Akt , and mitogen-activated protein kinase ( MAPK ) , while having no effect on v-fms or V12-ras-mediated Akt or extracellular signal-regulated protein kinase ( Erk ) phosphorylation .
+More importantly , p.o. administration of CT52923 to nude mice caused a significant 61% reduction ( P < 0.006 ) in tumor growth of NIH/3T3 cells transformed by PDGF , whereas tumor formation by cells expressing v-fms was unaffected .
+We next characterized PDGF autocrine signaling in five glioblastoma cell lines .
+In all of the cases , PDGF autocrine signaling was evident because treatment with 1-10 microM CT52923 inhibited PDGFR autophosphorylation when present at a detectable level and blocked downstream Akt and/or Erk phosphorylation .
+The functional significance of PDGF autocrine signaling in these cells was demonstrated by the fact that the CT52923 inhibited soft agar colony formation , and , when given p.o. to nude mice , it effectively reduced tumor formation by 44% ( P < 0.0019 ) after s.c. injection of C6 glioblastoma cells .
+This study of glioblastoma cells and primary tissues is the first to implicate PDGF-C and -D in brain tumor formation and confirms the existence of autocrine signaling by PDGF-A and -B .
+More importantly , treatment with the PDGFR antagonist CT52923 inhibited survival and/or mitogenic pathways in all of the glioblastoma cell lines tested and prevented glioma formation in a nude mouse xenograft model .
+Together these findings demonstrate the potential therapeutic utility of this class of compounds for the treatment of glioblastoma .

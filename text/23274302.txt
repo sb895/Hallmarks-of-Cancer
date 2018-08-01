@@ -1,0 +1,7 @@
+Indolylmaleimides display a broad spectrum of biological activity and offer great opportunity to influence several aspects of cell fate , as proliferation and differentiation .
+In this study we describe the effect of PDA-66 , a newly synthesised indolylmaleimide , showing a strong dose dependent anti-proliferative effect on immortalised human progenitor and cancer cells .
+We demonstrated a highly depolymerizing effect on in vitro tubulin assembly and conclude that PDA-66 acts as microtubule destabilising agent .
+In addition we found that PDA-66 induces mitotic arrest of cells in the G(2)/M phase of the cell cycle .
+Subsequently cells undergo apoptosis , indicating the major mechanism of the anti-proliferative effect .
+To prove a potential anti-cancer activity of PDA-66 we examined the effect of PDA-66 on human SH-SY5Y neuroblastoma and A-459 lung cancer cells , showing a significant reduction in cancer cell proliferation in a dose dependent manner .
+Thus PDA-66 is a new anti-mitotic compound with an indole-core with the potential to be used for cancer therapy .

@@ -1,0 +1,11 @@
+Inflammation which is an indispensable participant in tumor progression is intricately linked with redox modulation .
+The pro-inflammatory cytokine Tumor Necrosis Factor ( TNFalpha ) elevates reactive oxygen species ( ROS ) in glioblastoma multiforme ( GBM ) .
+As both TNFalpha and oxidative stress independently play role in regulating cytoskeletal organization and cell survival pathways we investigated whether TNFalpha mediated oxidative stress regulates responses that offer survival advantages to glioblastoma cells .
+Treatment with TNFalpha elevated Akt phosphorylation in glioma cells .
+Increased in Akt phosphorylation was concurrent with the decrease in ROS scavenger SOD-1 levels .
+TNFalpha mediated increase in Akt phosphorylation was dependent on oxidative stress as Akt phosphorylation was abrogated in the presence of ROS inhibitor and elevated in cells transfected with SOD-1 siRNA .
+TNFalpha altered actin cytoskeletal organization and increased Cdc42 levels .
+This increase in Cdc42 was concomitant with its increased interaction with scaffold protein IQGAP-1 .
+Also , we report for the first time a ROS dependent interaction between pAkt and IQGAP-1 in TNFalpha treated cells .
+Importantly , Akt inhibition not only reversed TNFalpha mediated changes in actin cytoskeletal organization but also abrogated anchorage independent growth .
+Together , these results suggest that TNFalpha induced oxidative stress affects Akt activation to regulate actin organization and growth of glioma cells .

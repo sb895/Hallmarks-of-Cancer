@@ -1,0 +1,12 @@
+BACKGROUND Engineered zinc-finger nucleases ( ZFN ) represented an innovative method for the genome manipulation in vertebrates .
+ZFN introduced targeted DNA double strand breaks ( DSB ) and initiated non-homologous end joining ( NHEJ ) after pronuclear or cytoplasmatic microinjection into zygotes .
+Resulting frame shift mutations led to functional gene ablations in zebra fish , mice , pigs and also in laboratory rats .
+Therefore , we targeted the rat Rag1 gene essential for the V(D)J recombination within the immunoglobulin production process and for the differentiation of mature B and T lymphocytes to generate an immunodeficient rat model in the LEW/Ztm strain .
+RESULTS After microinjection of Rag1 specific ZFN mRNAs in 623 zygotes of inbred LEW/Ztm rats 59 offspring were born from which one carried a 4 bp deletion .
+This frame shift mutation led to a premature stop codon and a subsequently truncated Rag1 protein confirmed by the loss of the full-length protein in Western Blot analysis .
+Truncation of the Rag1 protein was characterized by the complete depletion of mature B cells .
+The remaining T cell population contained mature CD4+/CD3+/TCR\u03b1\u03b2+ as well as CD8+/CD3+/TCR\u03b1\u03b2+ positive lymphocytes accompanied by a compensatory increase of natural killer cells in the peripheral blood .
+Reduction of T cell development in Rag1 mutant rats was associated with a hypoplastic thymus that lacked follicular structures .
+Histological evaluation also revealed the near-complete absence of lymphocytes in spleen and lymph nodes in the immunodeficient Rag1 mutant rat .
+CONCLUSION The Rag1 mutant rat will serve as an important model for transplantation studies .
+Furthermore , it may be used as a model for reconstitution experiments related to the immune system , particularly with respect to different populations of human lymphocytes , natural killer cells and autoimmune phenomena .

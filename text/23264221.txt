@@ -1,0 +1,5 @@
+Pterostilbene , a polyphenolic compound present in grapes and other fruits , has been demonstrated to inhibit growth and induce apoptosis and autophagy in some cancer cell types .
+We found that pterostilbene at the IC90 concentration of 44 �M inhibited proliferation and induced apoptosis in MOLT4 human leukemia cells .
+Treatment with pterostilbene resulted in a transient accumulation of cells in the G0/G1-cell cycle phase followed by the S-phase arrest .
+Pterostilbene-induced apoptotic death of MOLT4 cells was mediated by caspase-3 activation and was accompanied by the disruption of mitochondrial membrane potential , phosphatidylserine externalization and internucleosomal DNA fragmentation .
+Our results suggest that pterostilbene could serve as a potential additional chemotherapeutic agent for the treatment of leukemia .

@@ -1,0 +1,10 @@
+Identifying prognostic factors for osteosarcoma ( OS ) aids in the selection of patients who require more aggressive management .
+CD133 has been found to be a prognostic factor of certain tumor types .
+However , the association between CD133 expression and the prognosis of OS remains unknown .
+In this study , we analyzed the association of CD133 expression in OS with clinical factors and overall survival , and further investigated its potential role in metastasis in vitro .
+We found CD133 expression in 65.7% ( 46/70 ) of OS samples using immunohistochemistry , and it was positively correlated with lung metastasis analyzed by Chi-square test ( P=0.002 ) and shorter overall survival time using the Kaplan-Meier method compared by log-rank test ( P=0.000 ) .
+Multivariate analysis showed that CD133 expression was an independent prognostic factor of patients with OS .
+To test for direct participation of CD133 , we separated CD133(+) and CD133(-) cells in the MG63 cell line using magnetic-activated cell sorting and found that CD133(+) cells were more active in migration by scratch wound-healing assay and invasion by Matrigel invasion assay compared with CD133(-) cells .
+Elevated mRNA expression of the stemness gene octamer-binding transcription factor 4 ( Oct-4 ) and NANOG , and the metastasis-related receptor C-X-C chemokine receptor type 4 ( CXCR4 ) were also found in CD133(+) cells by reverse transcription-polymerase chain reaction .
+Thus , expression of CD133 was correlated with lung metastasis and poor prognosis in OS patients .
+CD133(+) cells may be a type of cancer stem cell with high expression of self-renewal capacity and metastasis-related genes .

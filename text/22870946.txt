@@ -1,0 +1,8 @@
+Hepatitis C virus ( HCV ) NS3 helicase couples adenosine triphosphate ( ATP ) binding and hydrolysis to polynucleotide unwinding .
+Understanding the regulation mechanism of ATP binding will facilitate targeting of the ATP-binding site for potential therapeutic development for hepatitis C. T324 , an amino acid residue connecting domains 1 and 2 of NS3 helicase , has been suggested as part of a flexible hinge for opening of the ATP-binding cleft , although the detailed mechanism remains largely unclear .
+We used computational simulation to examine the mutational effect of T324 on the dynamics of the ATP-binding site .
+A mutant model , T324A , of the NS3 helicase apo structure was created and energy was minimized .
+Molecular dynamics simulation was conducted for both wild type and the T324A mutant apo structures to compare their differences .
+For the mutant structure , histogram analysis of pairwise distances between residues in domains 1 and 2 ( E291-Q460 , K210-R464 and R467-T212 ) showed that separation between the two domains was reduced by and the standard deviation by Root mean square fluctuation ( RMSF ) analysis demonstrated that residues in close proximity to residue 324 have at least 30% RMSF value reductions in the mutant structure .
+Solvent RMSF analysis showed that more water molecules were trapped near D290 and H293 in domain 1 to form an extensive interaction network constraining cleft opening .
+We also demonstrated that the T324A mutation established a new atomic interaction with V331 , revealing that an atomic interaction cascade from T324 to residues in domains 1 and 2 controls the flexibility of the ATP-binding cleft .

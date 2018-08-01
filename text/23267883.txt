@@ -1,0 +1,6 @@
+We evaluated the clinical significance of indoleamine 2 , 3-dioxygenase ( IDO ) expression in breast cancer patients with bone metastasis .
+IDO activity can be measured by the tryptophan(Trp)/kynurenine(Kyn) ratio .
+Trp and Kyn levels were measured by high-performance liquid chromatography ( HPLC ) .
+The serum IDO levels of postoperative breast cancer patients with a high number of bone metastases were lower than those of patients with a single metastasis lesion .
+In addition , IDO activity increased in the cases in which the number of metastatic lesions to the bone increased .
+These results suggest that the expression of IDO in breast cancer patients with bone metastasis may play a critical role in immunosuppression in these patients .

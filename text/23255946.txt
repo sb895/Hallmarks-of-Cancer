@@ -1,0 +1,14 @@
+Piceatannol has potent anti-inflammatory , immunomodulatory , anticancer and antiproliferative effects .
+However , little is known about the mechanism by which piceatannol inhibits invasion and metastasis .
+The aim of the current study was to investigate the effects of piceatannol on the expression of matrix metalloproteinase-9 ( MMP-9 ) in DU145 human prostate cancer cells .
+The results revealed that MMP-9 activity was significantly increased in response to tumor necrosis factor-\u03b1 ( TNF-\u03b1 ) .
+However , treatment with piceatannol reversed TNF-\u03b1- and MMP-9-induced gelatin zymography and its gene expression .
+In addition , a Matrigel invasion assay determined that piceatannol reduces the TNF-\u03b1-induced invasion of DU145 cells .
+Nuclear factor-\u03ba B ( NF-\u03baB ) is a significant transcription factor that regulates numerous genes involved in tumor cell invasion and metastasis .
+Therefore , whether piceatannol acts on NF-\u03baB to regulate MMP-9 gene expression was analyzed .
+The results revealed that piceatannol attenuates MMP-9 gene expression via the suppression of NF-\u03baB activity .
+Using a specific NF-\u03baB inhibitor , pyrrolidine dithiocarbamate , it was confirmed that TNF-\u03b1-induced MMP-9 gene expression is primarily regulated by NF-\u03baB activation .
+Piceatannol inhibited NF-\u03baB activity by suppressing nuclear translocation of the NF-\u03baB p65 and p50 subunits .
+Furthermore , TNF-\u03b1-induced Akt phosphorylation was significantly downregulated in the presence of piceatannol .
+The Akt inhibitor LY294002 caused a significant decrease in TNF-\u03b1-induced NF-\u03baB activity and MMP-9 gene expression .
+Overall , these data suggest that piceatannol inhibits TNF-\u03b1-induced invasion by suppression of MMP-9 activation via the Akt-mediated NF-\u03baB pathway in DU145 prostate cancer cells .

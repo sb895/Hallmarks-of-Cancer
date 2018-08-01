@@ -1,0 +1,12 @@
+Prostate cancer ( PCA ) is the most common histological malignancy and the second leading cause of cancer deaths among North American men .
+There has been considerable interest in the chemopreventative properties of selenium .
+In this study , we assessed whether selenium inhibits cell growth and associated cell cycle regulatory proteins .
+Human PCA cells ( LNCaP , PC3 , PC3-AR2 , and PC3-M ) were incubated with and without selenium ( Seleno-DL-methionine , 150 microM ) for 24 , 48 , and 72 h .
+Cells were fixed and stained with propidium iodide for flow cytometry analysis .
+In parallel experiments , total protein was extracted , immunoprecipitated with cyclin E antibody , and analyzed by Western blot for the expression of cell cycle markers .
+Treatment with selenium caused G1 arrest and an 80% reduction in the S phase of LNCaP with no effect on PC3 .
+However , PC3 cells transfected with the androgen receptor ( PC3-AR2 ) exhibited a G2/M arrest and a marked reduction ( 57% ) in the S phase during cell cycle progression .
+In the analysis of cell cycle regulatory molecules , selenium-treated cells demonstrated a significant induction of cyclin-dependent kinase inhibitors Cip1/p21 and Kip1/p27 .
+These data suggest that selenium possesses strong antiproliferative properties in regard to human PCA .
+This effect appears to be dependent on the presence of a functioning androgen receptor .
+This provides a theoretical basis for Phase III studies of selenium in PCA prevention .

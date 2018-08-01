@@ -1,0 +1,9 @@
+Centrosome overduplication or amplification has been observed in many human cancers and in premalignant tissue , but the mechanisms leading to such centrosome aberrations are not fully understood .
+We previously showed that abnormal mitotic cells with supernumerary centrosomes increase with replicative senescence in human fibroblasts , especially in a polyploid subpopulation .
+This study examines localization of p53 protein at centrosomes in mitotic cells , which is often observed in association with DNA damage response , to investigate a possible association between p53 localization and numerical centrosome aberrations induced by cellular senescence .
+Cultures at later passages or the 4th day after exposure to H(2)O(2) showed increased frequencies of mitotic cells with supernumerary centrosomes , especially in a polyploid subpopulation .
+Immunohistochemical analysis frequently showed p53-positive foci in mitotic cells , and some were localized at centrosomes .
+The number of p53-positive foci in mitotic cells and its localization to centrosomes increased with replicative and premature senescence .
+Supernumerary centrosomes showed higher frequencies of p53 localization compared to normally duplicated centrosomes .
+Centrosome-associated p53 protein was phosphorylated at Ser15 .
+These data suggest a possible association between localization of p53 protein and numerical centrosome aberrations in replicatively or prematurely senescent cells .

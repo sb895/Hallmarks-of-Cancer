@@ -1,0 +1,8 @@
+Metabolic reprogramming of cancer cells provides energy and multiple intermediates critical for cell growth .
+Hypoxia in tumors represents a hostile environment that can encourage these transformations .
+We report that glycogen metabolism is upregulated in tumors invivo and in cancer cells invitro in response to hypoxia .
+Invitro , hypoxia induced an early accumulation of glycogen , followed bya gradual decline .
+Concordantly , glycogen synthase ( GYS1 ) showed a rapid induction , followed by a later increase of glycogen phosphorylase ( PYGL ) .
+PYGL depletion and the consequent glycogen accumulation led to increased reactive oxygen species ( ROS ) levels that contributed to a p53-dependent induction of senescence and markedly impaired tumorigenesis invivo .
+Metabolic analyses indicated that glycogen degradation by PYGL is important for the optimal function of the pentose phosphate pathway .
+Thus , glycogen metabolism is a key pathway induced by hypoxia , necessary for optimal glucose utilization , which represents a targetable mechanism of metabolic adaptation .

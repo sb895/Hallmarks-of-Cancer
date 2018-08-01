@@ -1,0 +1,15 @@
+AIM To investigate whether luteolin , a highly prevalent flavonoid , reverses the effects of epithelial-mesenchymal transition ( EMT ) in vitro and in vivo and to determine the mechanisms underlying this reversal .
+METHODS Murine malignant melanoma B16F10 cells were exposed to 1% O(2) for 24 h .
+Cellular mobility and adhesion were assessed using Boyden chamber transwell assay and cell adhesion assay , respectively .
+EMT-related proteins , such as E-cadherin and N-cadherin , were examined using Western blotting .
+Female C57BL/6 mice ( 6 to 8 weeks old ) were injected with B16F10 cells ( 1�10(6) cells in 0.2 mL per mouse ) via the lateral tail vein .
+The mice were treated with luteolin ( 10 or 20 mg/kg , ip ) daily for 23 d .
+On the 23rd day after tumor injection , the mice were sacrificed , and the lungs were collected , and metastatic foci in the lung surfaces were photographed .
+Tissue sections were analyzed with immunohistochemistry and HE staining .
+RESULTS Hypoxia changed the morphology of B16F10 cells in vitro from the cobblestone-like to mesenchymal-like strips , which was accompanied by increased cellular adhesion and invasion .
+Luteolin ( 5-50 μmol/L ) suppressed the hypoxia-induced changes in the cells in a dose-dependent manner .
+Hypoxia significantly decreased the expression of E-cadherin while increased the expression of N-cadherin in the cells ( indicating the occurrence of EMT-like transformation ) , which was reversed by luteolin ( 5 μmol/L ) .
+In B16F10 cells , luteolin up-regulated E-cadherin at least partly via inhibiting the β3 integrin/FAK signal pathway .
+In experimental metastasis model mice , treatment with luteolin ( 10 or 20 mg/kg ) reduced metastatic colonization in the lungs by 50% .
+Furthermore , the treatment increased the expression of E-cadherin while reduced the expression of vimentin and β3 integrin in the tumor tissues .
+CONCLUSION Luteolin inhibits the hypoxia-induced EMT in malignant melanoma cells both in vitro and in vivo via the regulation of β3 integrin , suggesting that luteolin may be applied as a potential anticancer chemopreventative and chemotherapeutic agent .

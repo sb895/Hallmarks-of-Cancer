@@ -1,0 +1,6 @@
+DNA double strand breaks ( DSBs ) arise from spontaneous DNA damage due to metabolic activities or from direct and indirect damaging effects of stress .
+DSBs are also formed transiently during such processes as replication , transcription , and DNA repair .
+The level of DSBs positively correlates with the activities of homologous and nonhomologous DNA repair pathways , which in turn inversely correlate with methylation levels and chromatin structure .
+Thus , measurement of strand breaks can provide an informative picture of genome stability of a given cell .
+The use of random oligonucleotide-primed synthesis for the analysis of DSB levels is described .
+Applications of the assay for quantitative detection of 3'OH , 3'P , or DNA strand breaks at a cleavage site of the deoxyribose residue are discussed .

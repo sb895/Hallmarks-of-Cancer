@@ -1,0 +1,11 @@
+The published results on nanoparticles cytotoxicity and genotoxicity such as titanium dioxide nanoparticles ( TiO(2) NPs ) are inconsistent , and often conflicting and insufficient .
+Since different parameters may have impact on the toxicity results , there is need to lay stress on detailed characterization of NPs and the use of different testing conditions for assessment of NPs toxicity .
+In order to investigate whether dispersion procedures influence NP cytotoxicity and genotoxicity , we compared two protocols giving TiO(2) NP dispersions with different stability and agglomeration states .
+Detailed primary and secondary characteristics of both TiO(2) NP dispersions in culture media were carried out before toxicological testing ; TK6 human lymphoblast cells , EUE human embryonic epithelial cells and Cos-1 monkey kidney fibroblasts were used to assess cytotoxicity ( by trypan blue exclusion , proliferation activity and plating efficiency assays ) and genotoxicity ( by the comet assay ) .
+DNA strand breaks were detected by the alkaline comet assay .
+DNA oxidation lesions ( especially 8-oxo-7,8-dihydroguanine , 8-oxoG ) were measured with a modified comet assay including incubation with specific repair enzyme formamidopyrimidine DNA glycosylase ( FPG ) .
+The TiO(2) NPs dispersion with large agglomerates ( 3 min sonication and no serum in stock solution ) induced DNA damage in all three cell lines , while the TiO(2) NPs dispersed with agglomerates less than 200 nm ( foetal serum in stock solution and sonication 15 min ) had no effect on genotoxicity .
+An increased level of DNA oxidation lesions detected in Cos-1 and TK6 cells indicates that the leading mechanism by which TiO(2) NPs trigger genotoxicity is most likely oxidative stress .
+Our results show that the dispersion method used can influence the results of toxicity studies .
+Therefore at least two different dispersion procedures should be incorporated into assessment of cyto- and genotoxic effects of NPs .
+It is important , when assessing the hazard associated with NPs , to establish standard testing procedures and thorough strategies to consider the diverse conditions relevant to possible exposures .

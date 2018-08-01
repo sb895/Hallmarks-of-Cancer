@@ -1,0 +1,13 @@
+BACKGROUND Hepatocellular carcinoma ( HCC ) is a leading cause of death worldwide .
+Frequent cytogenetic abnormalities that occur in HCC suggest that tumor-modifying genes ( oncogenes or tumor suppressors ) may be driving selection for amplification or deletion of these particular genetic regions .
+In many cases , however , the gene(s) that drive the selection are unknown .
+Although techniques such as comparative genomic hybridization ( CGH ) have traditionally been used to identify cytogenetic aberrations , it might also be possible to identify them indirectly from gene-expression studies .
+A technique we have called comparative genomic microarray analysis ( CGMA ) predicts regions of cytogenetic change by searching for regional gene-expression biases .
+CGMA was applied to HCC gene-expression profiles to identify regions of frequent cytogenetic change and to identify genes whose expression is misregulated within these regions .
+RESULTS Using CGMA , 104 HCC gene-expression microarray profiles were analyzed .
+CGMA identified 13 regions of frequent cytogenetic change in the HCC samples .
+Ten of these regions have been detected in previous CGH studies ( +lq , -4q , +6p , -8p , +8q , -13q , -16q , -17p , +17q , +20q ) .
+CGMA identified three additional regions that have not been previously identified by CGH ( +5q , +12q , +19p ) .
+Genes located in regions of frequent cytogenetic change were examined for changed expression in the HCC samples .
+CONCLUSIONS Our results suggest that CGMA predictions using gene-expression microarray datasets are a practical alternative to CGH profiling .
+In addition , CGMA might be useful for identifying candidate genes within cytogenetically abnormal regions .

@@ -1,0 +1,7 @@
+In Saccharomyces cerevisiae , Mre11p , Rad50p , and Xrs2p function as a multiprotein complex that has a central role in several DNA repair mechanisms .
+Though Mre11p has both single-stranded and double-stranded 3'-5 ' exonuclease activity in vitro , null mutants of MRE11 , RAD50 , and XRS2 exhibit reduced 5'-3 ' resection of HO-induced double-strand breaks ( DSBs ) in vivo .
+In this study , we analyzed four mre11 mutants harboring changes in the N-terminus of Mre11p where the four phosphoesterase motifs specify the in vitro nuclease activities of Mre11p and its homologues .
+We find that the 5'-3 ' resection defects in vivo do not correlate with several mitotic phenotypes : non-homologous end-joining ( NHEJ ) , telomere length maintenance , and adaptation to the DNA damage-inducible G2/M checkpoint .
+Overexpression of the 5'-3 ' exonuclease Exo1p in a mre11Delta strain partially increased 5'-3 ' resection and partially suppressed both methyl methanesulfonate ( MMS ) hypersensitivity and adaptation phenotypes , but did not affect telomere length or NHEJ .
+Surprisingly , the co-expression of two alleles , mre11-58S and mre11-N113S , each of which confers MMS hypersensitivity and short telomeres , can fully complement the MMS sensitivity and shortened telomere length of mre11Delta cells .
+We propose that at least two separate activities associated with the N-terminus of Mre11p are required for its mitotic function .

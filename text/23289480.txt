@@ -1,0 +1,11 @@
+The increasing evidence supported the role of Enhancer of Zeste Homolog 2 ( EZH2 ) in the cancer development and progression .
+However , its precise role in the tumorigenesis of Nasopharyngeal Carcinoma ( NPC ) remains to be elucidated .
+EZH2 was depleted by retroviral infection in the NPC cells ( HK-1 , CNE-2 , CNE-1 and C666-1 ) .
+The degree of EZH2 knockdown was then assessed by real-time quantitative PCR and Western Blot analysis .
+Cell proliferation was assessed using the soluble tetrazolium salt ( MTS ) cell proliferation assay , and cell cycle was measured by FACS test .
+The methylation status of p16(INK4a )was determined by bisulphate treatment of the DNA , followed by MSP .
+EZH2 was over-expressed in NPC cells , and the expression in undifferentiated-derived NPC cells ( CNE-1 , C666-1 ) was more significant than differentiated-derived NPC cells ( HK-1 , CNE-2 ) .
+EZH2 was successfully depleted after retroviral infection in C666-1 cells , and the EZH2 depletion could inhibit the proliferation and arrested G1/S phase of NPC cells .
+In addition , both mRNA and protein levels of p16(INK4a) increased significantly in presence of EZH2 depletion .
+The further Methylation-Specific Polymerase Chain Reaction ( MSP ) assay suggested that over-expressed EZH2 may contribute to the reduction of p16(INK4a) expression by hyper methylating its promoter .
+EZH2 is overexpressed in NPC and reduces expression of p16(INK4a) by influencing methylation , opening therapeutic options .

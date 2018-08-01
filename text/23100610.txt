@@ -1,0 +1,11 @@
+OBJECTIVE To evaluate the risk factors for sentinel lymph node metastasis and validate the value of the Memorial Sloan-Kettering Cancer Center nomogram for the prediction of sentinel lymph node metastasis in breast cancer patients .
+METHODS A sentinel lymph node biopsy database containing 1227 consecutive breast cancer patients ( 416 patients with at least one positive sentinel lymph node ) was retrospectively analyzed .
+The predictive value of the Memorial Sloan-Kettering Cancer Center nomogram was calculated by the trend line and the area under the receiver-operator characteristic curve .
+Meanwhile , predictors for sentinel lymph node metastasis were also evaluated .
+RESULTS Tumor size , histological grade , lymphovascular invasion , mulifocality , estrogen receptor and progesterone receptor status were significant independent predictors for sentinel lymph node metastasis ( all P<0.01 ) .
+The Memorial Sloan-Kettering Cancer Center nomogram presented an area under the receiver-operator characteristic curve value of 0.730 .
+Patients with predictive value<16% had a frequency of sentinel lymph node metastasis of 0.9% .
+Those with values larger than 70% had a frequency of 96.2% .
+CONCLUSIONS The risk factors for sentinel lymph node metastasis in our study were consistent with those in the Memorial Sloan-Kettering Cancer Center nomogram .
+The Memorial Sloan-Kettering Cancer Center nomogram is a useful tool that could accurately predict the probability of sentinel lymph node metastasis in our breast cancer patients .
+Axillary surgical staging might be avoided in patients with a predictive value of <16% and axillary lymph node dissection might be done directly in those with a predictive value >70% , while other patients should still accept sentinel lymph node biopsy .

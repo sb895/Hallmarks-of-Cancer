@@ -1,0 +1,6 @@
+Tobacco-induced oxidative stress leads to chronic inflammation and is implicated in the development of many human epithelial cancers , including head and neck cancer .
+Cigarette smoke exposure was shown to induce the expression of the ΔNp63α and nitric oxide synthase ( NOS)-2 in head and neck squamous cell carcinoma cells and immortalized oral keratinocytes .
+The NOS2 promoter was found to contain various cognate sequences for several transcription factors including interferon regulatory factor ( IRF)-6 and p63 , which were shown in vivo binding to the NOS2 promoter in response to smoke exposure .
+Small interfering ( si)-RNAs against both ΔNp63α and IRF6 decreased the induction of NOS2 promoter-driven reporter luciferase activity and were shown to inhibit NOS2 activity .
+Furthermore , both mainstream ( MSE ) and sidestream ( SSE ) smoking extracts induced changes in expression of autophagic marker , LC3B , while siRNA against ΔNp63α , IRF6 and NOS2 modulated these autophagic changes .
+Overall , these data support the notion that ΔNp63α/IRF6 interplay regulates NOS2 transcription , thereby underlying the autophagic-related cancer cell response to tobacco exposure .

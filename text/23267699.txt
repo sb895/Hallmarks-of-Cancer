@@ -1,0 +1,22 @@
+ABSTRACT : BACKGROUND : Survivin , a member of the family of inhibitor of apoptosis proteins , functions as a key regulator of mitosis and programmed cell death .
+YM155 , a novel molecular targeted agent , suppresses survivin , which is overexpressed in many tumor types .
+The aim of this study was to determine the antitumor activity of YM155 in SK-NEP-1 cells .
+METHODS : SK-NEP-1 cell growth in vitro and in vivo was assessed by MTT and nude mice experiments .
+Annexin V/propidium iodide staining followed by flow cytometric analysis was used to detect apoptosis in cell culture .
+Then gene expression profile of tumor cells treated with YM155 was analyzed with real-time PCR arrays .
+We then analyzed the expression data with MEV ( Multi Experiment View ) cluster software .
+Datasets representing genes with altered expression profile derived from cluster analyses were imported into the Ingenuity Pathway Analysis tool .
+RESULTS : YM155 treatment resulted in inhibition of cell proliferation of SK-NEP-1cells in a dose-dependent manner .
+Annexin V assay , cell cycle , and activation of caspase-3 demonstrates that YM155 induced apoptosis in SK-NEP-1 cells .
+YM155 significantly inhibited growth of SK-NEP-1 xenografts ( YM155 5 mg/kg : 1.45 +/- 0.77 cm3 ; YM155 10 mg/kg : 0.95 +/- 0.55 cm3 ) compared to DMSO group ( DMSO : 3.70 +/- 2.4 cm3 ) or PBS group cells ( PBS : 3.78 +/- 2.20 cm3 , ANOVA P < 0.01 ) .
+YM155 treatment decreased weight of tumors ( YM155 5 mg/kg : 1.05 +/- 0.24 g ; YM155 10 mg/kg : 0.72 +/- 0.17 g ) compared to DMSO group ( DMSO : 2.06 +/- 0.38 g ) or PBS group cells ( PBS : 2.36 +/- 0.43 g , ANOVA P < 0.01 ) .
+Real-time PCR array analysis showed between Test group and control group there are 32 genes significantly up-regulated and 54 genes were significantly down-regulated after YM155 treatment .
+Ingenuity pathway analysis ( IPA ) showed cell death was the highest rated network with 65 focus molecules and the significance score of 44 .
+The IPA analysis also groups the differentially expressed genes into biological mechanisms that are related to cell death , cellular function maintenance , cell morphology , carbohydrate metabolism and cellular growth and proliferation .
+Death receptor signaling ( 3.87E-19 ) , TNFR1 signaling , induction of apoptosis by HIV1 , apoptosis signaling and molecular mechanisms of cancer came out to be the top four most significant pathways .
+IPA analysis also showed top molecules up-regulated were BBC3 , BIRC3 , BIRC8 , BNIP1 , CASP7 , CASP9 , CD5 , CDKN1A , CEBPG and COL4A3 , top molecules down-regulated were ZNF443 , UTP11L , TP73 , TNFSF10 , TNFRSF1B , TNFRSF25 , TIAF1 , STK17A , SST and SPP1 , upstream regulator were NR3C1 , TP53 , dexamethasone , TNF and Akt .
+CONCLUSIONS : The present study demonstrates that YM155 treatment resulted in apoptosis and inhibition of cell proliferation of SK-NEP-1cells .
+YM155 had significant role and little side effect in the treatment of SK-NEP-1 xenograft tumors .
+Real-time PCR array analysis firstly showed expression profile of genes dyes-regulated after YM155 treatment .
+IPA analysis also represents new molecule mechanism of YM155 treatment , such as NR3C1 and dexamethasone may be new target of YM155 .
+And our results may provide new clues of molecular mechanism of apoptosis induced by YM155 .

@@ -1,0 +1,9 @@
+The beneficial effect of yoghurt consumption on health and on the improvement of the mucosal immune system is well established , as is the diet-associated risk of colon cancer .
+In an experimental model in BALB/c mice we demonstrated that yoghurt added to the diet for 10 consecutive days , with the procedure repeated each 10 days for 6 months , inhibited the development of a colorectal carcinoma induced by 1,2 dimethylhydrazine ( DMH ) .
+The immunoregulatory mechanisms involved in the inhibition of tumour growth by yoghurt were also examined in these studies .
+We determined B lymphocytes IgA(+) and IgG(+) , as well as CD4(+) and CD8(+) T cells in the large intestine .
+We measured cellular apoptosis and the cytokines TNF-alpha , IFN-gamma and IL-10 .
+An increase in the number of IgA(+) ( P<0.01 ) was observed , but not in IgG(+) ( P<0.01 ) , or in the CD4(+) population ( P<0.01 ) in the mice treated with DMH and yoghurt .
+While in the group with the carcinogen there was an enhancement in the IgG(+) B cells ( P<0.01 ) and CD8(+) T cells ( P<0.01 ) .
+Yoghurt increased the number of apoptotic cells and induced IFN-gamma and TNF-alpha cytokine release , their production being regulated by an increase in IL-10 ( P<0.001 ) .
+We demonstrated that yoghurt may exert antitumour activity by a decrease in the inflammatory immune response mediated by IgA(+) increase , apoptosis induction and IL-10 release .

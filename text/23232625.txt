@@ -1,0 +1,12 @@
+Vascular integrity is fundamental to the formation of mature blood vessels and depends on a functional , quiescent endothelial monolayer .
+However , how endothelial cells enter and maintain quiescence in the presence of angiogenic factors is still poorly understood .
+Here we identify the fibroblast growth factor ( FGF ) antagonist Sprouty2 ( Spry2 ) as a key player in mediating endothelial quiescence and barrier integrity in mouse aortic endothelial cells ( MAECs ) : Spry2 knockout MAECs show spindle-like shapes and are incapable of forming a functional , impermeable endothelial monolayer in the presence of FGF2 .
+Whereas dense wild type cells exhibit contact inhibition and stop to proliferate , Spry2 knockout MAECs remain responsive to FGF2 and continue to proliferate even at high cell densities .
+Importantly , the anti-proliferative effect of Spry2 is absent in sparsely plated cells .
+This cell density-dependent Spry2 function correlates with highly increased Spry2 expression in confluent wild type MAECs .
+Spry2 protein expression is barely detectable in single cells but steadily increases in cells growing to high cell densities , with hypoxia being one contributing factor .
+At confluence , Spry2 expression correlates with intact cell-cell contacts , whereas disruption of cell-cell contacts by EGTA , TNFα and thrombin decreases Spry2 protein expression .
+In confluent cells , high Spry2 levels correlate with decreased extracellular signal-regulated kinase 1/2 ( Erk1/2 ) phosphorylation .
+In contrast , dense Spry2 knockout MAECs exhibit enhanced signaling by Erk1/2 .
+Moreover , inhibiting Erk1/2 activity in Spry2 knockout cells restores wild type cobblestone monolayer morphology .
+This study thus reveals a novel Spry2 function , which mediates endothelial contact inhibition and barrier integrity .

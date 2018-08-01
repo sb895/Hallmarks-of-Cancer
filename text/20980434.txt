@@ -1,0 +1,10 @@
+p38 kinases activated by growth factors , hormones , and environmental stresses exert diverse functions in regulating normal and malignant cell pathophysiology .
+Enhanced levels of activated p38 isoforms have been linked with poor prognosis in breast cancer , although the mechanistic basis for this association is poorly understood .
+In this study , we report that p38 activation in cervical cancer cells is driven by osteopontin ( OPN ) , an extracellular matrix-associated cytokine that drives invasive progression .
+OPN regulates CD44-mediated p38 phosphorylation that induces NF-κB activation and NF-κB-dependent expression of furin , an extracellular protease implicated in human papilloma virus ( HPV ) processing that enhances cervical cancer cell motility .
+OPN induces CD44-mediated MKK3/6 phosphorylation which in turn phosphorylates p38 in these cells .
+OPN-induced furin expression and cell motility was impeded by blockades to MKK3/6 , p38α/β or NF-κB signaling .
+In a mouse xenograft model of human cervical cancer , tumor growth was enhanced by OPN overexpression and blocked by short hairpin RNA ( shRNA)-mediated OPN silencing .
+Furin overexpression similarly augmented tumor growth in the model , whereas blocking MKK3/6 , p38 , or furin reduced OPN-induced cervical tumor growth .
+Analysis of clinical specimens revealed that enhanced expression of OPN , phosphorylated NF-κB , p65 , and furin correlated with cervical cancer progression , further strengthening the in vitro and in vivo results .
+In summary , our findings offer a proof of concept for targeting OPN and its downstream p38 signaling as a novel therapeutic strategy to manage cervical cancer .

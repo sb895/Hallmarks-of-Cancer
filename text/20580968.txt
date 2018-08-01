@@ -1,0 +1,6 @@
+In traditional biochemical experiments , the behavior of individual proteins is obscured by ensemble averaging .
+To better understand the behavior of proteins that bind to and/or translocate on DNA , we have developed instrumentation that uses optical trapping , microfluidic solution delivery , and fluorescent microscopy to visualize either individual proteins or assemblies of proteins acting on single molecules of DNA .
+The general experimental design involves attaching a single DNA molecule to a polystyrene microsphere that is then used as a microscopic handle to manipulate individual DNA molecules with a laser trap .
+Visualization is achieved by fluorescently labeling either the DNA or the protein of interest , followed by direct imaging using high-sensitivity fluorescence microscopy .
+We describe the sample preparation and instrumentation used to visualize the interaction of individual proteins with single molecules of DNA .
+As examples , we describe the application of these methods to the study of proteins involved in recombination-mediated DNA repair , a process essential for the maintenance of genomic integrity .

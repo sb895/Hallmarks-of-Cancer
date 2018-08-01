@@ -1,0 +1,8 @@
+Mutations in the tumor suppressor tuberin ( TSC2 ) are a common factor in the development of lymphangioleiomyomatosis ( LAM ) .
+LAM is a cystic lung disease that is characterized by the infiltration of smooth muscle-like cells into the pulmonary parenchyma .
+The mechanism by which the loss of tuberin promotes the development of LAM has yet to be elucidated , although several lines of evidence suggest it is due to the metastasis of tuberin-deficient cells .
+Here we show that tuberin-null cells become nonadherent and invasive .
+These nonadherent cells express cleaved forms of β-catenin .
+In reporter assays , the β-catenin products are transcriptionally active and promote MMP7 expression .
+Invasion by the tuberin-null cells is mediated by MMP7 .
+Examination of LAM tissues shows the expression of cleaved β-catenin products and MMP7 consistent with a model that tuberin-deficient cells acquire invasive properties through a β-catenin-dependent mechanism , which may underlie the development of LAM .

@@ -1,0 +1,5 @@
+Maintenance of genomic integrity is essential for adult tissue homeostasis and defects in the DNA-damage response ( DDR ) machinery are linked to numerous pathologies including cancer .
+Here , we present evidence that the DDR exerts tumor suppressor activity in gliomas .
+We show that genes encoding components of the DDR pathway are frequently altered in human gliomas and that loss of elements of the ATM/Chk2/p53 cascade accelerates tumor formation in a glioma mouse model .
+We demonstrate that Chk2 is required for glioma response to ionizing radiation in vivo and is necessary for DNA-damage checkpoints in the neuronal stem cell compartment .
+Finally , we observed that the DDR is constitutively activated in a subset of human GBMs , and such activation correlates with regions of hypoxia .

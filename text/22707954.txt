@@ -1,0 +1,11 @@
+Silver nanoparticles ( Ag-np ) have been used in medicine and commercially due to their anti-microbial properties .
+Therapeutic potentials of these nanoparticles are being explored extensively despite the lack of information on their mechanism of action at molecular and cellular level .
+Here , we have investigated the DNA damage response and repair following Ag-np treatment in mammalian cells .
+Studies have shown that Ag-np exerts genotoxicity through double-strand breaks ( DSBs ) .
+DNA-PKcs , the catalytic subunit of DNA dependent protein kinase , is an important caretaker of the genome which is known to be the main player mediating Non-homologous End-Joining ( NHEJ ) repair pathway .
+We hypothesize that DNA-PKcs is responsible for the repair of Ag-np induced DNA damage .
+In vitro studies have been carried out to investigate both cytotoxicity and genotoxicity induced by Ag-np in normal human cells , DNA-PKcs proficient , and deficient mammalian cells .
+Chemical inhibition of DNA-PKcs activity with NU7026 , an ATP-competitive inhibitor of DNA-PKcs , has been performed to further validate the role of DNA-PKcs in this model .
+Our results suggest that Ag-np induced more prominent dose-dependent decrease in cell viability in DNA-PKcs deficient or inhibited cells .
+The deficiency or inhibition of DNA-PKcs renders the cells with higher susceptibility to DNA damage and genome instability which in turn contributed to greater cell cycle arrest/cell death .
+These findings support the fact that DNA-PKcs is involved in the repair of Ag-np induced genotoxicity and NHEJ repair pathway and DNA-PKcs particularly is activated to safeguard the genome upon Ag-np exposure .

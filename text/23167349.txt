@@ -1,0 +1,8 @@
+Colon cancer is the third most common malignant neoplasm in the world and it remains an important cause of death , especially in western countries .
+The toxic environmental pollutant , 1 , 2-dimethylhydrazine ( DMH ) , is also a colon-specific carcinogen .
+Tannic acid ( TA ) is reported to be effective against various types of chemically induced toxicity and also carcinogenesis .
+In the present study , we evaluated the chemopreventive efficacy of TA against DMH induced colon toxicity in a rat model .
+Efficacy of TA against the colon toxicity was evaluated in terms of biochemical estimation of antioxidant enzyme activities , lipid peroxidation , histopathological changes and expression of early molecular markers of inflammation and tumor promotion .
+DMH treatment induced oxidative stress enzymes ( p<0.001 ) and an early inflammatory and tumor promotion response in the colons of Wistar rats .
+TA treatment prevented deteriorative effects induced by DMH through a protective mechanism that involved reduction of oxidative stress as well as COX-2 , i-NOS , PCNA protein expression levels and TNF-α(p<0.001) release .
+It could be concluded from our results that TA markedly protects against chemically induced colon toxicity and acts plausibly by virtue of its antioxidant , anti-inflammatory and antiproliferative activities .

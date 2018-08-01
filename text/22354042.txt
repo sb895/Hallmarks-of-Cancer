@@ -1,0 +1,10 @@
+Cancer cells preferentially metabolize glucose through aerobic glycolysis .
+This phenomenon , known as the Warburg effect , is an anomalous characteristic of glucose metabolism in cancer cells .
+Chronic inflammation is a key promoting factor of tumourigenesis .
+It remains , however , largely unexplored whether and how pro-tumourigenic inflammation regulates glucose metabolism in cancer cells .
+Here , we show that pro-inflammatory cytokines promote glycolysis in breast cancer cells , and that the inflammation-induced miR-155 functions as an important mediator in this process .
+We further show that miR-155 acts to upregulate hexokinase 2 ( hk2 ) , through two distinct mechanisms .
+First , miR-155 promotes hk2 transcription by activation of signal transducer and activator of transcription 3 ( STAT3 ) , a transcriptional activator for hk2 .
+Second , via targeting C/EBP\u03b2 ( a transcriptional activator for mir-143 ) , miR-155 represses mir-143 , a negative regulator of hk2 , thus resulting in upregulation of hk2 expression at the post-transcriptional level .
+The miR-155-mediated hk2 upregulation also appears to operate in other types of cancer cells examined .
+We suggest that the miR-155/miR-143/HK2 axis may represent a common mechanism linking inflammation to the altered metabolism in cancer cells .

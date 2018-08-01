@@ -1,0 +1,10 @@
+Proliferating cells consume more glucose to cope with the bioenergetics and biosynthetic demands of rapidly dividing cells as well as to counter a shift in cellular redox environment .
+This study investigates the hypothesis that manganese superoxide dismutase ( MnSOD ) regulates cellular redox flux and glucose consumption during the cell cycle .
+A direct correlation was observed between glucose consumption and percentage of S-phase cells in MnSOD wild-type fibroblasts , which was absent in MnSOD homozygous knockout fibroblasts .
+Results from electron paramagnetic resonance spectroscopy and flow cytometric assays showed a significant increase in cellular superoxide levels in S-phase cells , which was associated with an increase in glucose and oxygen consumption , and a decrease in MnSOD activity .
+Mass spectrometry results showed a complex pattern of MnSOD-methylation at both lysine ( 68 , 89 , 122 , and 202 ) and arginine ( 197 and 216 ) residues .
+MnSOD protein carrying a K89A mutation had significantly lower activity compared with wild-type MnSOD .
+Computational-based simulations indicate that lysine and arginine methylation of MnSOD during quiescence would allow greater accessibility to the enzyme active site as well as increase the positive electrostatic potential around and within the active site .
+Methylation-dependent changes in the MnSOD conformation and subsequent changes in the electrostatic potential around the active site during quiescence versus proliferation could increase the accessibility of superoxide , a negatively charged substrate .
+These results support the hypothesis that MnSOD regulates a " metabolic switch " during progression from quiescent through the proliferative cycle .
+We propose MnSOD as a new molecular player contributing to the Warburg effect .

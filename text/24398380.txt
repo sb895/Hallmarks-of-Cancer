@@ -1,0 +1,5 @@
+High-throughput screening of a small-molecule library identified a 5-triazolo-2-arylpyridazinone as a novel inhibitor of the important glycolytic enzyme 6-phosphofructo-2-kinase/2,6-bisphosphatase 3 ( PFKFB3 ) .
+Such inhibitors are of interest due to PFKFB3's control of the important glycolytic pathway used by cancer cells to generate ATP .
+A series of analogues was synthesized to study structure-activity relationships key to enzyme inhibition .
+Changes to the triazolo or pyridazinone rings were not favoured , but limited-size substitutions on the aryl ring provided modest increases in potency against the enzyme .
+Selected analogues and literature-described inhibitors were evaluated for their ability to suppress the glycolytic pathway , as detected by a decrease in lactate production , but none of these compounds demonstrated such suppression at non-cytotoxic concentrations .

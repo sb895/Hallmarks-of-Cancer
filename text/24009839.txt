@@ -1,0 +1,4 @@
+The aim of this study was to investigate the inhibitory effects of rutaecarpine on DNA strand breaks and apoptosis induced by hydrogen peroxide ( H2O2 ) in murine Hepa-1c1c7 cells .
+Oxidative DNA damage was estimated by nuclear condensation assessment , fluorescence-activated cell sorting analysis , and Comet assay .
+Rutaecarpine inhibited cell death induced by 500 \u03bcM H2O2 , as assessed by 4',6-diamidino-2-phenylindole ( DAPI ) staining .
+Treatment with rutaecarpine reduced the number of DNA strand breaks induced by H2O2 , as assessed by DAPI staining and Comet assay , and increased quinone reductase , phosphatidylinositol 3-kinase , and pAkt protein levels , as assessed by western blotting .

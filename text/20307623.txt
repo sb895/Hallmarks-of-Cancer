@@ -1,0 +1,8 @@
+Exposure to benzo[a]pyrene ( BaP ) can induce inflammatory skin diseases and skin cancer , which are both associated to oxidative stress .
+BaP is known to bind with high specificity to the aryl hydrocarbon receptor ( AhR ) , modifying the expression of CYP1A1 , involved both in cancer and inflammation .
+While the current knowledge is based on murine skin and cell culture data , in this study human healthy skin has been treated with 5muM BaP in conditions simulating occupational and environmental exposure .
+AhR and CYP1A1 expression was evaluated by Western blotting , which revealed their presence even in control untreated skin ; both enzyme and receptor increased more than twofold after exposure to BaP .
+AhR expression level was lower than CYP1A1 in basal conditions and following induction .
+Oxidative stress was evaluated in terms of MTT reduction , protein peroxidation and reactive oxygen species ( ROS ) formation .
+A significant increase in ROS and carbonyl compound production , as well as reduced tissue viability have been determined by BaP .
+The results of this experiment indicate that BaP , an AhR agonist , can significantly increase receptor and CYP1A1 expression and induce oxidative stress in human skin , confirming the involvement of this pathway in the pathogenesis of tissue damage due to polycyclic aromatic hydrocarbons .

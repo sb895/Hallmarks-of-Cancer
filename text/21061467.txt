@@ -1,0 +1,9 @@
+Cell division and apoptosis are two crucial components of tumor biology and the importance of increased cell proliferation and reduced cell death have made them valid therapeutic targets .
+The plant kingdom is a relatively underexploited cache of novel drugs , and crude extracts of plants are known for their synergistic activity .
+The present study assessed the anti-proliferative activity of the medicinal plant Centrosema pubescens Benth .
+Centrosema pubescens dichloromethane extract ( CPDE ) inhibited the proliferation of HL-60 ( promyelocytic acute leukaemia ) cells with an IC₅₀ value of 5 μg/ml .
+Further studies also showed that CPDE induces growth arrest at the G1 phase and specifically down-regulates the expressions of cyclin E and CDK2 and up-regulates p27(CKI) levels .
+These events apparently lead to the induction of apoptosis , which was demonstrated qualitatively by a DNA fragmentation assay and propidium iodide staining .
+Quantitative assessment of the effective arrest of the cell cycle and of apoptosis was confirmed by flow cytometry .
+CPDE exhibited negligible cytotoxicity even at the highest dose tested ( 100 μg/ml ) in both normal peripheral blood mononuclear cells and in an in vitro model ( HL-60 ) .
+Our results strongly suggest that CPDE arrests the cell cycle at the G1 phase and triggers apoptosis by caspase activation .

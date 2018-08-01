@@ -1,0 +1,14 @@
+IL-15 is a pluripotent antiapoptotic cytokine that signals to cells of both the innate and adaptive immune system and is regarded as a highly promising immunomodulatory agent in cancer therapy .
+Sepsis is a lethal condition in which apoptosis-induced depletion of immune cells and subsequent immunosuppression are thought to contribute to morbidity and mortality .
+This study tested the ability of IL-15 to block apoptosis , prevent immunosuppression , and improve survival in sepsis .
+Mice were made septic using cecal ligation and puncture or Pseudomonas aeruginosa pneumonia .
+The experiments comprised a 2 x 2 full factorial design with surgical sepsis versus sham and IL-15 versus vehicle .
+In addition to survival studies , splenic cellularity , canonical markers of activation and proliferation , intracellular pro- and antiapoptotic Bcl-2 family protein expression , and markers of immune cell apoptosis were evaluated by flow cytometry .
+Cytokine production was examined both in plasma of treated mice and splenocytes that were stimulated ex vivo .
+IL-15 blocked sepsis-induced apoptosis of NK cells , dendritic cells , and CD8 T cells .
+IL-15 also decreased sepsis-induced gut epithelial apoptosis .
+IL-15 therapy increased the abundance of antiapoptotic Bcl-2 while decreasing proapoptotic Bim and PUMA .
+IL-15 increased both circulating IFN-gamma , as well as the percentage of NK cells that produced IFN-gamma .
+Finally , IL-15 increased survival in both cecal ligation and puncture and P. aeruginosa pneumonia .
+In conclusion , IL-15 prevents two immunopathologic hallmarks of sepsis , namely , apoptosis and immunosuppression , and improves survival in two different models of sepsis .
+IL-15 represents a potentially novel therapy of this highly lethal disorder .

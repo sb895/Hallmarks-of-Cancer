@@ -1,0 +1,7 @@
+The c-Jun NH(2)-terminal kinase ( JNK ) signaling cascade has been implicated in a wide range of diseases , including cancer .
+It is unclear how different JNK proteins contribute to human cancer .
+Here , we report that JNK2 is activated in more than 70% of human squamous cell carcinoma ( SCC ) samples and that inhibition of JNK2 pharmacologically or genetically impairs tumorigenesis of human SCC cells .
+Most importantly , JNK2 , but not JNK1 , is sufficient to couple with oncogenic Ras to transform primary human epidermal cells into malignancy with features of SCC .
+JNK2 prevents Ras-induced cell senescence and growth arrest by reducing the expression levels of the cell cycle inhibitor p16 and the activation of NF-kappaB .
+On the other hand , JNK , along with phosphoinositide 3-kinase , is essential for Ras-induced glycolysis , an energy-producing process known to benefit cancer growth .
+These data indicate that JNK2 collaborates with other oncogenes , such as Ras , at multiple molecular levels to promote tumorigenesis and hence represents a promising therapeutic target for cancer .

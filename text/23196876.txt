@@ -1,0 +1,10 @@
+Gastrointestinal stromal tumor ( GIST ) is a prototype of mutant KIT oncogene-driven tumor .
+Prolonged tyrosine kinase inhibitor ( TKI ) treatment may result in a resistant phenotype through acquired secondary KIT mutation .
+Heat shock protein 90 ( HSP90AA1 ) is a chaperone protein responsible for protein maturation and stability , and KIT is a known client protein of HSP90AA1 .
+Inhibition of HSP90AA1 has been shown to destabilize KIT protein by enhancing its degradation via the proteasome-dependent pathway .
+In this study , we demonstrated that NVP-AUY922 ( AUY922 ) , a new class of HSP90AA1 inhibitor , is effective in inhibiting the growth of GIST cells expressing mutant KIT protein , the imatinib-sensitive GIST882 and imatinib-resistant GIST48 cells .
+The growth inhibition was accompanied with a sustained reduction of both total and phosphorylated KIT proteins and the induction of apoptosis in both cell lines .
+Surprisingly , AUY922-induced KIT reduction could be partially reversed by pharmacological inhibition of either autophagy or proteasome degradation pathway .
+The blockade of autophagy alone led to the accumulation of the KIT protein , highlighting the role of autophagy in endogenous KIT turnover .
+The involvement of autophagy in endogenous and AUY922-induced KIT protein turnover was further confirmed by the colocalization of KIT with MAP1LC3B- , acridine orange- or SQSTM1-labeled autophagosome , and by the accumulation of KIT in GIST cells by silencing either BECN1 or ATG5 to disrupt autophagosome activity .
+Therefore , the results not only highlight the potential application of AUY922 for the treatment of KIT-expressing GISTs , but also provide the first evidence for the involvement of autophagy in endogenous and HSP90AA1 inhibitor-induced KIT degradation .

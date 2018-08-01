@@ -1,0 +1,11 @@
+The transcription factor MycN is the prototypical neuroblastoma oncogene and a potential therapeutic target .
+However , its strong expression caused by gene amplification in about 30% of neuroblastoma patients is a considerable obstacle to the development of therapeutic approaches aiming at eliminating its tumourigenic activity .
+We have previously reported that B-Myb is essentially required for transcription of the MYCN amplicon and have also shown that B-MYB and MYCN are engaged in a feed forward loop promoting the survival/proliferation of neuroblastoma cells .
+We postulated that pharmacological strategies breaking the B-MYB/MYCN axis should result in clinically desirable effects .
+Thus , we implemented a high throughput chemical screen , using a curated library of compounds from the National Cancer Institute , whose endpoint was the identification of small molecules that inhibited B-Myb .
+At the end of the screening , we found that the compounds pinafide , ellipticine and camptothecin inhibited B-Myb transcriptional activity in luciferase assays .
+One of the compounds , the topoisomerase-1 inhibitor camptothecin , is of considerable clinical interest since its derivatives topotecan and irinotecan are currently used as first and second line treatment agents for various types of cancer , including neuroblastoma .
+We found that neuroblastoma cells with amplification of MYCN are more sensitive than MYCN negative cells to camptothecin and topotecan killing .
+Campothecin and topotecan caused selective down-regulation of B-Myb and MycN expression in neuroblastoma cells .
+Notably , forced overexpression of B-Myb could antagonize the killing effect of topotecan and camptothecin , demonstrating that the transcription factor is a key target of the drugs .
+These results suggest that camptothecin and its analogues should be more effective in patients whose tumours feature amplification of MYCN and/or overexpression of B-MYB .

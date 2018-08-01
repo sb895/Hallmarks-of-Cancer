@@ -1,0 +1,9 @@
+Cancer can be envisioned as a metabolic disease driven by pressure selection and intercellular cooperativeness .
+Together with anaerobic glycolysis , the Warburg effect , formally corresponding to uncoupling glycolysis from oxidative phosphorylation , directly participates in cancer aggressiveness , supporting both tumor progression and dissemination .
+The transcription factor hypoxia-inducible factor-1 ( HIF-1 ) is a key contributor to glycolysis .
+It stimulates the expression of glycolytic transporters and enzymes supporting high rate of glycolysis .
+In this study , we addressed the reverse possibility of a metabolic control of HIF-1 in tumor cells .
+We report that lactate , the end-product of glycolysis , inhibits prolylhydroxylase 2 activity and activates HIF-1 in normoxic oxidative tumor cells but not in Warburg-phenotype tumor cells which also expressed lower basal levels of HIF-1\u03b1 .
+These data were confirmed using genotypically matched oxidative and mitochondria-depleted glycolytic tumor cells as well as several different wild-type human tumor cell lines of either metabolic phenotype .
+Lactate activates HIF-1 and triggers tumor angiogenesis and tumor growth in vivo , an activity that we found to be under the specific upstream control of the lactate transporter monocarboxylate transporter 1 ( MCT1 ) expressed in tumor cells .
+Because MCT1 also gates lactate-fueled tumor cell respiration and mediates pro-angiogenic lactate signaling in endothelial cells , MCT1 inhibition is confirmed as an attractive anticancer strategy in which a single drug may target multiple tumor-promoting pathways .

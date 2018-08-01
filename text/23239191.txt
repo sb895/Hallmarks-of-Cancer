@@ -1,0 +1,9 @@
+Angiogenesis is essential for the growth , expansion and metastasis of human colorectal cancers ( CRCs ) .
+Histamine produced by mast cells is a potent proangiogenic factor .
+However , the significance of non-mast cell expressing histamine in the tumor microenvironment remains unknown .
+In this study , we evaluated the histamine positive microvessels with the specific marker for biosynthesis of histamine L-histidine decarboxylase ( HDC ) in the CRC tumor microenvironment .
+The relationship between HDC positive microvessel density ( HDC-MVD ) and clinical pathological parameters was assessed .
+The results revealed that HDC-MVD in the tumor microenvironment of CRCs was significantly increased as compared with the controls .
+CRC patients with lymph node invasion had a particularly higher density of HDC-MVD than those without .
+The density of HDC-MVD accounted for of CD34 positive MVD in CRCs and double IHC analysis demonstrated that these HDC positive microvessels were mostly CD34 positive microvessels and with a high proliferative activity .
+Our results suggest that histamine expressed in microvessels could be an additional cellular source and involved in the cancer invasion through promoting angiogenesis in human CRCs .

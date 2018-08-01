@@ -1,0 +1,15 @@
+The effects of an anti-CD3 mAb on induction of non-MHC restricted cytolysis was investigated .
+Peripheral blood mononuclear cells ( PBMC ) from normal donors ( 29 ) and cancer patients ( 18 ) were cultured in 100 U/ml of interleukin-2 ( rIL-2 ) with and without anti-CD3 mAb ( OKT3 , 10 ng/ml ) for the first 48 hours of incubation .
+Thereafter , both PBMC cultures were maintained on rIL-2 up to 20 days .
+PBMC proliferation was enhanced 17-fold in number by day 20 when anti-CD3 mAb and rIL-2 was present during the first 48 hours but only 3-fold by day 20 when rIL-2 alone was present .
+Concomitantly anti-CD3 mAb but not Lym-1 , an isotype matched control , inhibited the induction of lytic activity against both NK sensitive ( K562 ) and NK resistant ( Raji ) target cell lines .
+Thus the inhibitory effect is dependent on anti-CD3 mAb stimulating the CD3/TCR T-cell receptor complex .
+While lytic activity was dependent on the concentration of rIL-2 , inhibition of the induction phase of non-MHC restricted lytic activity was independent of the concentration of rIL-2 .
+Flow cytometry analysis indicated that treatment with the anti-CD3 mAb increased the percentage of CD3 positive cells , CD4 positive cells and especially CD25 positive cells , but decreased th percentage of CD56 positive cells .
+Supernatants from anti-CD3 mAb stimulated cultures also inhibited the induction of non-MHC restricted lytic activity .
+Lymphokine analysis showed that supernatants of anti-CD3 mAb stimulated cultures had higher levels of TNF-alpha and IFN-gamma .
+However , TNF-alpha and IFN-gamma alone or in combination could not mediate the inhibitory effect .
+The inhibitory factor(s) was partially purified by sequential chromatography on matrices of controlled pore glass and Sepharose CL-6B .
+The molecular weight of the inhibitory factor(s) was less than 67K .
+These studies have identified a novel regulatory pathway controlling non-MHC restricted cytolysis .
+Perturbation of the T-cell CD3/TCR complex with the anti-CD3 mAb results in the secretion of a soluble mediator that down-regulates the induction of rIL-2 dependent non-MHC restricted cytolysis .

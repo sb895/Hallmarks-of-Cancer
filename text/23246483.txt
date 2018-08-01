@@ -1,0 +1,7 @@
+DNA double-strand breaks ( DSBs ) representa serious threat for hematopoietic stem cells ( HSCs ) .
+How cytokines and environmental signals integrate the DNA damage response and contribute to HSC-intrinsic DNA repair processes remains unknown .
+Thrombopoietin ( TPO ) and its receptor , Mpl , are critical factors supporting HSC self-renewal and expansion .
+Here , we uncover an unknown function for TPO-Mpl in the regulation of DNA damage response .
+We show that DNA repair following \u03b3-irradiation ( \u03b3-IR ) or the action of topoisomerase-II inhibitors is defective in Mpl(-/-) and in wild-type mouse or human hematopoietic stem and progenitor cells treated in the absence of TPO .
+TPO stimulates DNA repair invitro and invivo by increasing DNA-PK-dependent nonhomologous end-joining efficiency .
+This ensures HSC chromosomal integrity and limits their long-term injury in response to IR.This shows that niche factors can modulate theHSC DSB repair machinery and opens new avenues for administration of TPO agonists for minimizing radiotherapy-induced HSC injury and mutagenesis .

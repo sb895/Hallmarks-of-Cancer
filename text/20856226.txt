@@ -1,0 +1,11 @@
+Cytokeratin ( CK ) 19-positive hepatocellular carcinoma ( HCC ) has been reported to have a poor prognosis .
+The mechanism of the development of CK19-positive HCC remains to be studied .
+To clarify this , in vitro experiments were performed using human HCC cell lines ( PLC-5 , HepG2 ) , and the phenotypic changes after stimulation with several growth factors were examined using quantitative reverse transcriptase PCR , western blotting , and immunofluorescence staining .
+In vivo experiments using human HCC specimens obtained from a total of 78 patients and clinicopathological analysis were also performed .
+Among the growth factors tested , epidermal growth factor ( EGF ) had prominent effects on inducing CK19 expression in PLC-5 and HepG2 , which was accompanied by the reduced expression of α-fetoprotein in PLC-5 .
+The induction of CK19 expression after EGF stimulation was accompanied by the phosphorylation of c-Jun-N-terminal kinase ( JNK)/stress-activated protein kinase , which was blocked by the addition of JNK inhibitors .
+EGF also increased proliferative abilities and invasive properties of the HCC cell lines .
+In vivo , 9 ( 12% ) of 78 HCC cases showed positive immunohistochemical staining of CK19 .
+The extent of positive immunohistochemical signals of EGF , EGF receptor ( EGFR ) , and JNK expression was significantly intense in CK-19-positive HCC than those of CK19-negative HCC .
+Clinicopathological analysis showed that CK19-positive HCC had a high incidence of portal vein invasion , extrahepatic metastasis and an early relapse , which was associated with the worsened 2-year disease free survival .
+These results indicate that the activation of the EGF-EGFR signaling pathway is associated with the development of CK19-positive HCC , and the EGF-induced increase in growth abilities of HCC may account for the poor prognosis of the patients .

@@ -1,0 +1,13 @@
+INTRODUCTION Clinical and experimental studies indicate oxygen free radicals and their reactive derivatives participation in formation of chronic inflammation states , which facilitate gastrointestinal tract tumors development .
+During malignant changes formation in epithelium of gastrointestinal tract increased oxygen radicals generation initiates lipid peroxidation and DNA and proteins oxidation processes .
+Final lipid peroxidation products ( saturated and unsaturated aldehydes ) are highly reactive and characterized by greatly longer half life time than reactive oxygen species and capability to diffuse from places of their formation to distant cell areas .
+In cells they react with important biological macromolecules such as DNA and proteins causing their structural and functional damages .
+The effects of changes in cell membranes structure are increase in their permeability , depolarization , decrease of hydrophobicity and inhibition of enzymes , membrane channels and transporters .
+These changes lead to the loss of cell integrity .
+STUDY AIM Determination of lipid peroxidation level in blood serum patients with gastrointestinal tract tumors .
+MATERIALS AND METHODS Materials for studies were obtained from 170 patients with gastrointestinal tract tumors : 10 with stomach cancer , 20 with pancreatic cancer , 30 with primary liver cancer , 60 with primary colorectal cancer and 50 with metachronic colorectal cancer liver metastases .
+Blood was taken from patients 1 day before and 6 days after surgery .
+Control blood was obtained from 53 healthy blood donors .
+Lipid peroxidation level was determined spectrophotometrically as a concentration of final lipid peroxidation products , which in reaction with tiobarbituric acid ( TBA ) form colour complex ( thiobarbituric acid-reactive substances , TBARS ) .
+RESULTS Higher lipid peroxidation level was observed in pre- and postoperative blood sera patients with gastrointestinal tumors in comparison to serum from healthy blood donors .
+CONCLUSIONS Increased lipid peroxidation level in peripheral blood of patients with gastrointestinal tract tumors is evidence of intensive oxidative stress and might indicate impairment of antioxidant defense mechanisms in organism .

@@ -1,0 +1,11 @@
+Epidermal growth factor receptor ( EGFR ) and human epidermal growth factor receptor 2 ( HER2 ) amplification occurs in over 30% of esophageal carcinomas .
+Combination therapies with EGFR and HER2-targeting agents and cytotoxic agents are considered a potential therapeutic option for esophageal cancer .
+We evaluated the antitumor effects of lapatinib , a dual tyrosine kinase inhibitor which simultaneously inhibits EGFR and HER2 , 5-fluorouracil ( 5-Fu ) alone and in combination on esophageal cancer cells .
+The antiproliferative activity of lapatinib , 5-Fu and lapatinib plus 5-Fu was measured by MTT assay and the combination index ( CI ) values were calculated .
+Additionally , cell cycle distribution of lapatinib alone and the combination with 5-Fu were detected by flow cytometry analysis .
+AnnexinV-FITC and propidium iodide stain were used for analyzing the apoptotic cells after cells were treated with either agent alone or in combination .
+The EGFR and HER2 activated signaling pathways were monitored by western blotting .
+The combination of lapatinib and 5-Fu synergistically inhibited cell proliferation and exhibited an enhanced proapoptotic effect on esophageal cancer cells .
+The potentiation effect of combined treatment was associated with downregulation of EGFR and HER2 signaling pathways because data from western blot analysis showed that lapatinib in combination with 5-Fu markedly reduced the phosphorylation of EGFR and HER2 , and inhibited the activation of downstream signaling molecules , such as AKT and ERK .
+A significant G1 arrest was also observed in cell cycle analysis after exposing cells to lapatinib , however , combination with 5-Fu did not enhance G1 arrest .
+These results indicate that the combination of the lapatinib and 5-Fu is a promising treatment option for esophageal carcinoma with HER2 amplification .

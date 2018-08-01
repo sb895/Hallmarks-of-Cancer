@@ -1,0 +1,10 @@
+Glioblastoma multiforme ( GBM ) and oxidative stress are closely linked .
+Oxidative stress affects many signaling pathways and may cause the induction of autophagy .
+The NF-E2-related factor 2 ( Nrf2)/Kelch-like ECH-associated protein 1 ( Keap1 ) signaling pathway is the main pathway responsible for cell defense against oxidative stress and Nrf2 is a critical transcription factor related with cancer multidrug resistance .
+However , the relation between Nrf2 and regulation of autophagy is not well understood .
+In this study , we used temozolomide ( TMZ ) , which inhibited the viability of GBM cells mainly by inducing autophagic cell death and explored the role of Nrf2 downregulation on autophagy induced by TMZ in GBM cells .
+In U251-Si-Nrf2 48h after transfection the protein levels of Nrf2 were significantly downregulated , while the protein levels of LC3B-II increased by western blot analysis .
+Knockdown of Nrf2 also led to a significant increase of autophagic vacuoles and acidic vesicular organelles ( AVOs ) , revealed by trans-mission electron microscopy ( TEM ) and acridine orange ( AO ) staining using flow cytometry .
+Collectively , these findings demonstrate that knockdown of Nrf2 can enhance the basal level of autophagy in the U251 glioma cell line .
+Furthermore , after the treatment with TMZ ( 100µM ) for 3 days , the U251-Si-Nrf2 transfected cells showed less viability rate by cell counting kit-8 ( CCK-8 ) assay and the levels of autophagy increased obviously through analysis of western blot and AO staining using flow cytometry .
+Taken together , our results suggest that knockdown of Nrf2 may enhance autophagy induced by TMZ in the U251 glioma cell line , which should be further evaluated for novel anticancer activity .

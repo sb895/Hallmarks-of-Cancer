@@ -1,0 +1,12 @@
+In vitro model systems for studying uterine leiomyomas are limited in that human-derived leiomyoma cells grow poorly in culture compared with normal myometrial cells and begin to senesce early , at approximately passage 10 in our studies .
+To our knowledge , a good in vitro human-derived cell culturing system for leiomyomas does not exist .
+In an attempt to fill this void , we have immortalized a uterine leiomyoma cell line by inducing telomerase activity , which allows cells to bypass their normal programmed senescence .
+Telomerase activity was induced by infecting the target ( uterine leiomyoma and normal myometrial ) cells with a retroviral vector containing hTERT , the gene for the catalytic subunit of telomerase .
+Subsequent analysis by RT-PCR and the telomeric repeat amplification protocol assay confirmed expression of the inserted gene and induction of telomerase activity in leiomyoma and myometrial cells .
+Analysis of cells for estrogen receptor-alpha and progesterone receptor proteins by Western blotting showed no change in expression of these proteins between the immortalized and parental leiomyoma and myometrial cells .
+Both immortalized and parental myometrial and leiomyoma cells expressed the smooth muscle-specific cytoskeletal protein alpha-actin and were negative for mutant p53 protein as evidenced by immunocytochemical staining .
+The immortalized leiomyoma and myometrial cells showed no anchorage-independent growth , with the exception of a small subpopulation of immortalized leiomyoma cells at a higher passage that did form two to three small colonies ( per 50,000 cells ) in soft agar .
+None of the immortalized cells were tumorigenic in nude mice .
+In conclusion , our data show the successful insertion of the hTERT gene into leiomyoma and myometrial cells and the immortalization of these cell lines without phenotypic alteration from the parental cell types ( up to 200 population doublings ) .
+These cells should help to advance research in understanding the molecular pathways involved in the conversion of a normal myometrial cell to a leiomyoma cell and the mechanisms responsible for the growth of uterine leiomyomas .
+Answers to these questions will undoubtedly lead to the development of more effective treatment and intervention regimens for clinical cases of uterine leiomyoma .

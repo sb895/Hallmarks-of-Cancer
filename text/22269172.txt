@@ -1,0 +1,12 @@
+BACKGROUND Luteolin is a 3',4',5,7-tetrahydroxyflavone found in various fruits and vegetables .
+We have shown previously that luteolin reduces HT-29 cell growth by inducing apoptosis and cell cycle arrest .
+The objective of this study was to examine whether luteolin downregulates the insulin-like growth factor-I receptor ( IGF-IR ) signaling pathway in HT-29 cells .
+METHODS In order to assess the effects of luteolin and/or IGF-I on the IGF-IR signaling pathway , cells were cultured with or without 60 μmol/L luteolin and/or 10 nmol/L IGF-I .
+Cell proliferation , DNA synthesis , and IGF-IR mRNA levels were evaluated by a cell viability assay , [ 3H]thymidine incorporation assays , and real-time polymerase chain reaction , respectively .
+Western blot analyses , immunoprecipitation , and in vitro kinase assays were conducted to evaluate the secretion of IGF-II , the protein expression and activation of IGF-IR , and the association of the p85 subunit of phophatidylinositol-3 kinase ( PI3K ) with IGF-IR , the phosphorylation of Akt and extracellular signal-regulated kinase ( ERK)1/2 , and cell division cycle 25c ( CDC25c ) , and PI3K activity .
+RESULTS Luteolin ( 0 - 60 μmol/L ) dose-dependently reduced the IGF-II secretion of HT-29 cells .
+IGF-I stimulated HT-29 cell growth but did not abrogate luteolin-induced growth inhibition .
+Luteolin reduced the levels of the IGF-IR precursor protein and IGF-IR transcripts .
+Luteolin reduced the IGF-I-induced tyrosine phosphorylation of IGF-IR and the association of p85 with IGF-IR .
+Additionally , luteolin inhibited the activity of PI3K activity as well as the phosphorylation of Akt , ERK1/2 , and CDC25c in the presence and absence of IGF-I stimulation .
+CONCLUSIONS The present results demonstrate that luteolin downregulates the activation of the PI3K/Akt and ERK1/2 pathways via a reduction in IGF-IR signaling in HT-29 cells ; this may be one of the mechanisms responsible for the observed luteolin-induced apoptosis and cell cycle arrest .

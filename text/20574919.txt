@@ -1,0 +1,9 @@
+Recent studies have demonstrated that n-3 polyunsaturated fatty acids such as eicosapentaenoic acid ( EPA ) are able to suppress cell proliferation and inhibit tumor growth .
+The objective of our study was to investigate the influence of a high dose EPA on the development of the tumor phenotype in ataxia-telangiectasia mutated ( Atm)-deficient mice , a genetic cancer model that is associated with increased levels of oxidative stress .
+We analyzed toxicity , proliferation , cell-cycle progression , and apoptosis of EPA in vitro and latency to tumorigenesis in vivo .
+Because of the impact of reactive oxygen species ( ROS ) on the tumor incidence in ataxia telangiectasia ( AT ) , we further analyzed the effect of EPA on the generation of ROS and oxidative DNA damage ( ODD ) .
+EPA effectively inhibited proliferation , altered cell-cycle progression , and induced apoptosis of tumor cells ( AT-4 ) .
+EPA showed no effect on the latency to tumorigenesis in Atm-deficient mice .
+EPA treatment was accompanied by a significant increase of ROS and ODD .
+Our results demonstrate the antiproliferative effect of EPA on tumor cells by alteration of cell-cycle progression and induction of apoptosis in vitro .
+On the other hand , EPA treatment of Atm-deficient mice led to the formation of ROS and accumulation of ODD that might have abrogated the anticarcinogenic effect caused by EPA .

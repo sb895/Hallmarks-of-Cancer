@@ -1,0 +1,8 @@
+The deregulation of Met/hepatocyte growth factor ( HGF ) receptor tyrosine kinase signaling constitutes a common event in colorectal cancers .
+However , the physiopathological functions of such a deregulation remain poorly understood .
+In the present study , we investigated the role of the deregulation of Met receptor in the neoplastic transformation of intestinal epithelial cells .
+To do so , the normal , well-established and characterized rat intestinal epithelial IEC-6 cells were transduced with a retrovirus carrying the oncogenic constitutive active form of Met receptor , Tpr-Met .
+Herein , we show that compared with control IEC-6 cells , Tpr-Met-IEC-6 cells exhibit enhanced proliferation , loss of growth-contact inhibition , cell morphological alterations , actin cytoskeletal reorganization , loss of E-cadherin expression and anchorage-independent growth .
+Moreover , Tpr-Met-IEC-6 cells are conferred the capacity to produce the proangiogenic factor VEGF and to reduce the potent antiangiogenic factor thrombospondin-1 .
+Of significance , Tpr-Met-IEC-6 cells are endowed with the ability to elicit angiogenic responses and to form tumors and metastases in vivo .
+Hence , our study demonstrates for the first time that the sole oncogenic engagement of Met receptor in normal intestinal epithelial cells is sufficient to induce a wide array of cancerous biological processes that are fundamental to the initiation and malignant progression of colorectal cancers .

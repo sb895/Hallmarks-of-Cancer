@@ -1,0 +1,4 @@
+1-Vinylcycloalkenes undergo highly regio- and enantioselective ( >98% ee ) 1,4-hydrovinylation ( HV ) when treated with ethylene ( 1 atm ) at room temperature in the presence of [ (S,S)-2,4-bis-diphenylphosphinopentane ( BDPP)]CoCl(2 ) ( 0.05 equiv ) and methylaluminoxane .
+The minor 1,2-HV products , seen only in 1-vinylcyclohexene ( and 1-vinylcycloheptene ( 2% ) , are formed as racemic mixtures .
+The corresponding Ni(II)-catalyzed HV reactions of these substrates give mostly the 1,2-adducts .
+Racemic 4-tert-butyl-1-vinylcyclohexene , when treated with Co[(S,S)-(BDPP)]Cl(2) and ethylene , undergoes a rare enantiodivergent reaction giving two diastereomers each in >98% ee .

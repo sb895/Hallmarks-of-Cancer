@@ -1,0 +1,10 @@
+BACKGROUND : Previously , we have observed that highly unsaturated dietary ( n-3 ) fatty acids inhibit cell proliferation in conjunction with stimulation of insulin-like growth factor-binding protein ( IGFBP)-6 secretion in Caco-2 cells , a human colon carcinoma cell line .
+METHODS : To test the converse hypothesis that inhibition of endogenous IGFBP-6 secretion stimulates Caco-2 cell proliferation , cells were transfected with the antisense IGFBP-6 expression construct or pcDNA3 vector only , and single colonies resistant to G418 sulfate were isolated .
+RESULTS : Our initial studies indicated that three antisense clones grew faster and produced less IGFBP-6 than two pcDNA3 clones , so antisense IGFBP-6 #5 and pcDNA3 #8 were selected for further detailed analysis .
+Both the control and antisense clones grew in serum-free medium reaching a plateau density at day eight .
+However , the antisense clone grew at a rate faster than that of the control and reached a final density that was 31 +/- 3% higher than the control .
+Northern blot , ligand blot and immunoblot analyses revealed that accumulation of IGFBP-6 mRNA and concentrations of IGFBP-6 peptide produced by the antisense clone were decreased by 80-90% compared to the control .
+The doubling times of the antisense and control clones were 21.9 +/- 0.4 and 24.8 +/- 0.3 h ( P < 0.05 ) , respectively .
+Exogenous IGF-I and IGF-II ( 0.2-200 nmol/L ) stimulated proliferation of both the control and antisense clones in a dose-dependent manner , but the relative potency and efficacy of IGF-II was higher in the antisense clone compared to the control .
+These results indicate that suppression of IGFBP-6 secretion correlates with an increase in the basal rate of Caco-2 cell growth .
+CONCLUSIONS : Our findings are consistent with the hypothesis that IGFBP-6 inhibits cell growth by binding to endogenously produced IGF-II , thereby preventing IGF-II from interacting with the IGF-I receptor to stimulate cellular proliferation by an autocrine mechanism .

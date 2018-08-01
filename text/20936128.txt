@@ -1,0 +1,7 @@
+Base analogs are powerful antimetabolites and dangerous mutagens generated endogenously by oxidative stress , inflammation , and aberrant nucleotide biosynthesis .
+Human inosine triphosphate pyrophosphatase ( ITPA ) hydrolyzes triphosphates of noncanonical purine bases ( i.e. , ITP , dITP , XTP , dXTP , or their mimic : 6-hydroxyaminopurine ( HAP ) deoxynucleoside triphosphate ) and thus regulates nucleotide pools and protects cells from DNA damage .
+We demonstrate that the model purine base analog HAP induces DNA breaks in human cells and leads to elevation of levels of ITPA .
+A human polymorphic allele of the ITPA , 94C->A encodes for the enzyme with a P32T amino-acid change and leads to accumulation of nonhydrolyzed ITP .
+The polymorphism has been associated with adverse reaction to purine base-analog drugs .
+The level of both spontaneous and HAP-induced DNA breaks is elevated in the cell line with the ITPA P32T variant .
+The results suggested that human ITPA plays a pivotal role in the protection of DNA from noncanonical purine base analogs .

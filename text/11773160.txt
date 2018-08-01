@@ -1,0 +1,13 @@
+PURPOSE The epidermal growth factor receptor ( EGFR ) tyrosine kinase inhibitor ZD1839 ( Iressa ; AstraZeneca Pharmaceuticals , Alderley Park , United Kingdom ) is under development as an anticancer agent .
+We studied the pharmacodynamic effects of ZD1839 on EGFR in the skin , an EGFR-dependent tissue , in cancer patients participating in ZD1839 phase I clinical trials .
+PATIENTS AND METHODS We studied 104 pre- and/or on-ZD1839 therapy ( approximately at day 28 of therapy ) skin biopsies from 65 patients receiving escalating doses of daily oral ZD1839 .
+We measured ZD1839 effects on EGFR activation by immunohistochemistry using an antibody specific for the activated ( phosphorylated ) EGFR .
+Effects on receptor signaling ( activated mitogen-activated protein kinase [ MAPK] ) , proliferation , p27(KIP1) , and maturation were also assessed .
+RESULTS Histopathologically , the stratum corneum of the epidermis was thinner during therapy ( P <.001 ) .
+In hair follicles , prominent keratin plugs and microorganisms were found in dilated infundibula .
+ZD1839 suppressed EGFR phosphorylation in all EGFR-expressing cells ( P <.001 ) .
+In addition , ZD1839 inhibited MAPK activation ( P <.001 ) and reduced keratinocyte proliferation index ( P <.001 ) .
+Concomitantly , ZD1839 increased the expression of p27(KIP1) ( P <.001 ) and maturation markers ( P <.001 ) and increased apoptosis ( P <.001 ) .
+These effects were observed at all dose levels , before reaching dose-limiting toxicities .
+CONCLUSION ZD1839 inhibits EGFR activation and affects downstream receptor-dependent processes in vivo .
+These effects were profound at doses well below the one producing unacceptable toxicity , a finding that strongly supports pharmacodynamic assessments to select optimal doses instead of a maximum-tolerated dose for definitive efficacy and safety trials .

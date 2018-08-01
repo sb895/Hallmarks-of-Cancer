@@ -1,0 +1,7 @@
+p32/gC1qR/C1QBP/HABP1 is a mitochondrial/cell surface protein overexpressed in certain cancer cells .
+Here we show that knocking down p32 expression in human cancer cells strongly shifts their metabolism from oxidative phosphorylation ( OXPHOS ) to glycolysis .
+The p32 knockdown cells exhibited reduced synthesis of the mitochondrial-DNA-encoded OXPHOS polypeptides and were less tumorigenic in vivo .
+Expression of exogenous p32 in the knockdown cells restored the wild-type cellular phenotype and tumorigenicity .
+Increased glucose consumption and lactate production , known as the Warburg effect , are almost universal hallmarks of solid tumors and are thought to favor tumor growth .
+However , here we show that a protein regularly overexpressed in some cancers is capable of promoting OXPHOS .
+Our results indicate that high levels of glycolysis , in the absence of adequate OXPHOS , may not be as beneficial for tumor growth as generally thought and suggest that tumor cells use p32 to regulate the balance between OXPHOS and glycolysis .

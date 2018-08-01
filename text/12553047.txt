@@ -1,0 +1,6 @@
+The effects of glucocorticoid ( GC ) on the proliferation of Dunn Osteosarcoma ( OS ) cells were examined under in vitro culture conditions .
+Dexamethasone ( Dex ) inhibited the proliferation of Dunn OS cells in a dose-dependent manner , while the addition of anti-GC , RU486 , to the culture medium in part recovered Dex-induced growth inhibition .
+The number of maximum binding sites ( Bmax ) and the dissociation constant ( Kd ) value of glucocorticoid receptor ( GR ) in Dunn OS cells were 19,560 sites/cell and 5.2 +/- 0.8 nM , respectively .
+RU486 competed with labeled Dex against GR at a concentration of 10(-6) M. Western blot analysis of [ 3H]Dex-mesylate-labeled cell homogenate and immunohistochemical staining against GR further confirmed the presence of GR .
+Dex treatment of Dunn OS cells resulted in apoptosis with the characteristic internucleosomal DNA cleavage shown by the DNA ladder pattern in agarose gel electrophoresis .
+These data demonstrate that GC inhibits the proliferation of Dunn OS cells via GR , for which one possible mechanism in vitro is induction of apoptosis .

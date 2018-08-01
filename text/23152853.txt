@@ -1,0 +1,9 @@
+Tumor development requires angiogenesis and anti-angiogenic therapies have been introduced in the treatment of cancer .
+In this context , heparan sulfate proteoglycans ( HSPGs ) emerge as interesting targets , owing to their function as co-receptors of major , pro-angiogenic factors .
+Accordingly , previous studies have suggested anti-tumor effects of heparin , i.e. over-sulfated HS , and various heparin mimetics ; however , a significant drawback is their unspecific mechanism of action and potentially serious side-effects related to their anticoagulant properties .
+Here , we have explored the use of human ScFv anti-HS antibodies ( αHS ) as a more rational approach to target HSPG function in endothelial cells ( ECs). αHS were initially selected for their recognition of HS epitopes localized preferentially to the vasculature of patient glioblastoma tumors , i.e. highly angiogenic brain tumors .
+Unexpectedly , we found that these αHS exhibited potent pro-angiogenic effects in primary human ECs. αHS were shown to stimulate EC differentiation , which was associated with increased EC tube formation and proliferation .
+Moreover , αHS supported EC survival under hypoxia and starvation , i.e. conditions typical of the tumor microenvironment .
+Importantly , αHS-mediated proliferation was efficiently counter-acted by heparin and was absent in HSPG-deficient mutant cells , confirming HS-specific effects .
+On a mechanistic level , binding of αHS to HSPGs of ECs as well as glioblastoma cells was found to trigger p38 MAPK-dependent signaling resulting in increased proliferation .
+We conclude that several αHS that recognize HS epitopes abundant in the tumor vasculature may elicit a pro-angiogenic response , which has implications for the development of antibody-based targeting of HSPGs in cancer .

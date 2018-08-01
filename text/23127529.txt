@@ -1,0 +1,10 @@
+BACKGROUND/AIMS Analysis of cystic fluid may be useful in distinguishing between benign and malignant cysts which has significant impact on their management .
+The aim of our study was to assess the diagnostic utility of carcinoembryonic antigen ( CEA ) and K-ras gene mutation in pancreatic cysts fluid .
+METHODS The study included 56 patients with pancreatic cystic fluid collected for analysis .
+The cysts were classified as benign ( simple cysts , pseudocysts , serous cystadenoma ) - 39 patients or premalignant/malignant ( mucinous cystadenoma , IPMN , cystadenocarcinoma ) - 17 patients .
+The patients history , CEA fluid concentrations and presence of K-ras mutation were analyzed .
+RESULTS CEA were higher in patients with malignant cysts ( mean levels 238±12.5ng/ml ; range 32.8-4985ng/ml ) compared to benign lesions ( mean levels 34.5±3.7ng/ml ; range 3.9-693ng/ml ; p<0.001 ) .
+K-ras mutation correctly classified 11 of 17 patients with premalignant/malignant lesions .
+It was also detected in 1 patient with final diagnosis of benign cyst ( the sensitivity 64.7% and the specificity 97.4% ; p<0.01 ) .
+If CEA and molecular analysis were combined in that cysts with either CEA level>45ng/ml or presence of K-ras mutation , than 16 of 17 premalignant/malignant cysts were correctly identified ( 94.1% ) .
+CONCLUSION Molecular analysis of pancreatic cyst fluid adds diagnostic value to the preoperative diagnosis and should be considered when cyst cytologic examination is negative for malignancy .

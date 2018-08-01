@@ -1,0 +1,13 @@
+Thyroid hormone ( T(3) ) mediates cellular growth , development , and differentiation by binding to the nuclear thyroid hormone receptor ( TR ) .
+Recent studies suggest that long-term hypothyroidism is associated with human hepatocellular carcinoma ( HCC ) independent from other major HCC risk factors .
+Dickkopf ( DKK ) 4 , a secreted protein , antagonizes the Wnt signal pathway .
+In this study , we demonstrate that T(3) may play a suppressor role by inducing DKK4 expression in HCC cells at both the messenger RNA ( mRNA ) and protein levels .
+DKK4 was down-regulated in 67.5% of HCC cancerous tissues .
+The decrease in DKK4 levels was accompanied by a concomitant decrease in TR protein levels in the matched cancerous tissues in 31% of tissues compared by immunoblotting with the adjacent noncancerous tissues .
+Further , TR and DKK4 expression levels were positively correlated in both normal and cancerous specimens by tissue array analysis .
+In function assays , stable DKK4 transfected into J7 or HepG2 cells decreased cell invasion in vitro .
+Conversely , knocking down DKK4 restores cell invasiveness .
+DKK4-expressing J7 clones showed increased degradation of β-catenin , but down-regulation of CD44 , cyclin D1 , and c-Jun .
+To investigate the effect of DKK4 and TR on tumor growth in vivo , we established a xenograft of J7 cells in nude mice .
+J7-DKK4 and J7-TRα1 overexpressing mice , which displayed growth arrest , lower lung colony formation index , and smaller tumor size than in control mice , supporting an inhibitory role of DKK4 in tumor progression .
+CONCLUSION : Taken together , these data suggest that the TR/DKK4/Wnt/β-catenin cascade influences the proliferation and migration of hepatoma cells during the metastasis process and support a tumor suppressor role of the TR .

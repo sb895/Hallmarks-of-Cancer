@@ -1,0 +1,8 @@
+OBJECTIVE To study the effect of Zilongjin ( ZLJ , a composite Chinese drug ) on proliferation and apoptosis of human breast carcinoma cell line MCF-7 .
+METHODS MCF-7 cells were randomly divided into four groups depending on the culture solution used , the control group , cultured with 1640 medium not contained ZLJ ; and the three ZJL groups cultured with medium contained low ( 1.5 mg/mL ) , moderate ( 3 mg/mL ) and high ( 6 mg/mL ) dosage of ZLJ crude drug respectively .
+The changes of cell proliferation were assessed by cell growth curve assay and methyl thiazolyl tetrazolium ( MTT ) assay .
+And the cell apoptosis was analyzed by flow cytometry , Hoechst 33342 staining and DNA ladder assay .
+RESULTS Compared with that in the normal control , the counts of cells in the three ZLJ groups were decreased significantly ( P<0.05 ) at such time point as 24 , 48 , 72 , 96 , 120 , and 144 h .
+Furthermore , apart from the comparison of the growth inhibition rate between the low and moderate dosage group at 24 and 72 h which were found to be no significant difference ( P>0.05 ) , the comparison f that among the three ZLJ groups appeared to be significant difference ( P<0.05 ) .
+The inhibitory effect of ZLJ on cell proliferation of MCF-7 was time- and dose-dependent ; it could retard cells in G0/G1 cell phase ; apoptosis of MCF-7 cell was induced by moderate and high dosage of ZLJ with revealing of apoptotic body and DNA ladder formation .
+CONCLUSION ZLJ shows cell proliferation inhibitory and apoptosis inducing effects on human breast cancer cell line MCF-7 , and thus to realize its anti-tumor action .

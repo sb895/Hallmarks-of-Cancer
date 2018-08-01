@@ -1,0 +1,11 @@
+PURPOSE Anthracyclines have been widely used as antitumor agents , playing a crucial role in the successful treatment of many types of cancer , despite some side effects related to cardiotoxicity .
+New anthracyclines have been designed and tested , but the first ones discovered , doxorubicin and daunorubicin , continue to be the drugs of choice .
+Despite their extensive use in chemotherapy , little is known about the DNA repair mechanisms involved in the removal of lesions caused by anthracyclines .
+The anthracycline cosmomycin D is the main product isolated from Streptomyces olindensis , characterized by a peculiar pattern of glycosylation with two trisaccharide rings attached to the A ring of the tetrahydrotetracene .
+METHODS We assessed the induction of apoptosis ( Sub-G1 ) by cosmomycin D in nucleotide excision repair-deficient fibroblasts ( XP-A and XP-C ) as well as the levels of DNA damage ( alkaline comet assay ) .
+RESULTS Treatment of XP-A and XP-C cells with cosmomycin D resulted in apoptosis in a time-dependent manner , with highest apoptosis levels observed 96 h after treatment .
+The effects of cosmomycin D were equivalent to those obtained with doxorubicin .
+The broad caspase inhibitor Z-VAD-FMK strongly inhibited apoptosis in these cells , and DNA damage induced by cosmomycin D was confirmed by alkaline comet assay .
+CONCLUSIONS Cosmomycin D induced time-dependent apoptosis in nucleotide excision repair-deficient fibroblasts .
+Despite similar apoptosis levels , cosmomycin D caused considerably lower levels of DNA damage compared to doxorubicin .
+This may be related to differences in structure between cosmomycin D and doxorubicin .

@@ -1,0 +1,9 @@
+BACKGROUND The 235delC mutation of GJB2 gene is considered as a risk factor for the non-syndromic hearing loss ( NSHL ) , and a significant difference in the frequency and distribution of the 235delC mutation has been described world widely .
+METHODS A systematic review was performed by means of a meta-analysis to evaluate the influence of the 235delC mutation on the risk of NSHL .
+A literature search in electronic databases using keywords " 235delC " , " GJB2 " associated with " carrier frequency " was conducted to include all papers from January 1999 to June 2011 .
+A total of 36 papers were included and there contained 13217 cases and 6521 controls derived from Oceania , American , Europe and Asian .
+RESULTS A remarkable heterogeneity between these studies was observed .
+The combined results of meta-analysis showed that the 235delC mutant increased the risk of NSHL ( OR = 7.9 , 95%CI 4.77 13.11 , P <0.00001 ) .
+Meanwhile , heterogeneity of genetic effect was also observed due to the ethnic specificity and regional disparity .
+Therefore , the stratified meta-analysis was subsequently conducted and the results indicated that the 235delC mutation was significantly correlated with the risk of NHSL in the East Asian and South-east Asian populations ( OR = 12.05 , 95%CI 8.33 P <0.00001 ) , but not significantly in the Oceania and European populations ( OR = 10.36 , 95%CI : 4.68 Z = 1.68 , P >0.05 ) .
+CONCLUSIONS The 235delC mutation of GJB2 gene increased the risk of NHSL in the East Asian and South-east Asian populations , but non-significantly associated with the NSHL susceptibility in Oceania and European populations , suggesting a significant ethnic specificity of this NSHL-associated mutation .

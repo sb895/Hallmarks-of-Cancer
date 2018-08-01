@@ -1,0 +1,4 @@
+Uncontrolled estrogen exposure can induce an imbalance in BCL2/BAX expression in endometrial cells , leading to precancerous lesions and type I endometrial adenocarcinoma .
+This study aimed to explore the mechanism underlying this phenomenon .
+We show that the activated estrogen receptor can suppress the expression of BAX by upregulating a group of microRNAs including hsa-let-7 family members and hsa-miR-27a , thereby promoting an increased BCL2/BAX ratio as well as enhanced survival and proliferation in the affected cells .
+These ER-regulated hsa-let-7 microRNAs can be detected in most hyperplastic endometria , suggesting their potential utility as indicators of estrogen over-exposure .

@@ -1,0 +1,10 @@
+The expression of " growth arrest and DNA damage inducible genes 45 and 153 " is related to apoptotic induction of cells .
+GADD45 is an effector gene of the tumor suppressor p53 , and GADD153 is associated with cellular function of cancer prevention .
+Curcumin , isolated from the plant Curcuma longa ( LINN ) , has been investigated as a promising cancer preventive in food because curcumin , a phenolic and coloring compound , is widely ingested in the Indian subcontinent .
+However , the exact mechanisms of action of curcumin have not yet been clearly elucidated .
+Based on our successful results with green tea catechins as cancer preventive , we studied the relationship between the expression of GADD45 and 153 and apoptotic induction in human lung cancer cell line PC-9 .
+In our study curcumin increased the expression of GADD45 and 153 in a p53-independent manner .
+Curcumin also inhibited the growth of PC-9 cells and induced G(1)/S arrest of the cell-cycle followed by strong induction of apoptosis .
+Treatment with GADD45 and 153 small interfering RNAs ( siRNAs ) inhibited the apoptotic induction in PC-9 cells by curcumin .
+Moreover , curcumin induced the expression of cyclin dependent kinase inhibitor genes p21 and p27 , while it inhibited the expression of numerous genes , including Bcl-2 , cyclin D1 , CDK2 , CDK4 and CDK6 .
+All the results with PC-9 cells suggest that the up-regulation of GADD45 and 153 by curcumin is a prime mechanism in the anticancer activity of curcumin .

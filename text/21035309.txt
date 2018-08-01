@@ -1,0 +1,8 @@
+OBJECTIVE Chronic generation of inflammatory cytokines and reactive oxygen species are implicated in atherosclerosis , aging , cancers , and other chronic diseases .
+We hypothesized that zinc induces A20 in premonocytic , endothelial , and cancer cells , and A20 binds to tumor necrosis factor ( TNF)-receptor associated factor , and inhibits Iκ kinase-α ( IKK-α)/nuclear factor-κB ( NF-κB ) , resulting in downregulation of TNF-α and interleukin-1β ( IL-1β ) .
+METHODS To test this hypothesis , we used HL-60 , human umbilical vein endothelial cells , and SW480 cell lines under zinc-deficient and zinc-sufficient conditions in this study .
+We measured oxidative stress markers , inflammatory cytokines , A20 protein and mRNA , A20-FRAF-1 complex , and IKK-α/NF-κB signaling in stimulated zinc-deficient and zinc sufficient cells .
+We also conducted antisense A20 and siRNA studies to investigate the regulatory role of zinc in TNF-α and IL-1β via A20 .
+RESULTS We found that zinc increased A20 and A20-tumor necrosis factor-receptor associated factor-1 complex , decreased the IKK-α/NF-κB signaling pathway , oxidative stress markers , and inflammatory cytokines in these cells compared with zinc-deficient cells .
+We confirmed that zinc-induced A20 contributes to downregulation of TNF-α and IL-1β by antisense and short interfering RNA A20 studies .
+CONCLUSION Our studies suggest that zinc suppresses generation of NF-κB-regulated inflammatory cytokines by induction of A20 .

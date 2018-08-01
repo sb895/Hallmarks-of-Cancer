@@ -1,0 +1,7 @@
+Pyruvate kinase M2 ( PKM2 ) is upregulated in multiple cancer types and contributes to the Warburg effect by unclear mechanisms .
+Here we demonstrate that EGFR-activated ERK2 binds directly to PKM2 Ile429/Leu431 through the ERK2 docking groove and phosphorylates PKM2 at Ser37 , but does not phosphorylate PKM1 .
+Phosphorylated PKM2 Ser37 recruits PIN1 for cis-trans isomerization of PKM2 , which promotes PKM2 binding to importin \u03b15 and translocating to the nucleus .
+Nuclear PKM2 acts as a coactivator of \u03b2-catenin to induce c-Myc expression , resulting in the upregulation of GLUT1 , LDHA and , in a positive feedback loop , PTB-dependent PKM2 expression .
+Replacement of wild-type PKM2 with a nuclear translocation-deficient mutant ( S37A ) blocks the EGFR-promoted Warburg effect and brain tumour development in mice .
+In addition , levels of PKM2 Ser37 phosphorylation correlate with EGFR and ERK1/2 activity in human glioblastoma specimens .
+Our findings highlight the importance of nuclear functions of PKM2 in the Warburg effect and tumorigenesis .

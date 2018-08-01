@@ -1,0 +1,5 @@
+Often the use of cytotoxic drugs in cancer therapy results in stable disease rather than regression of the tumor , and this is typically seen as a failure of treatment .
+We now show that DNA damage is able to induce senescence in tumor cells expressing wild-type p53 .
+We also show that cytotoxics are capable of inducing senescence in tumor tissue in vivo .
+Our results suggest that p53 and p21 play a central role in the onset of senescence , whereas p16(INK4a) function may be involved in maintaining senescence .
+Thus , like apoptosis , senescence appears to be a p53-induced cellular response to DNA damage and an important factor in determining treatment outcome .

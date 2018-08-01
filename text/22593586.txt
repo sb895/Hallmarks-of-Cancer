@@ -1,0 +1,6 @@
+High glycolysis , well known as " Warburg effect, " is frequently observed in a variety of cancers .
+Whether the deregulation of miRNAs contributes to the Warburg effect remains largely unknown .
+Because miRNA regulates gene expression at both mRNA and protein levels , we constructed a gene functional association network , which allows us to detect the gene activity instead of gene expression , to integratively analyze the microarray data for gene expression and miRNA expression profiling and identify glycolysis-related gene-miRNA pairs deregulated in cancer .
+Hexokinase 2 ( HK2 ) , coding for the first rate-limiting enzyme of glycolysis , is among the top list of genes predicted and potentially regulated by multiple miRNAs including miR-143 .
+Interestingly , miR-143 expression was inversely associated with HK2 protein level but not mRNA level in human lung cancer samples. miR-143 , down-regulated by mammalian target of rapamycin activation , reduces glucose metabolism and inhibits cancer cell proliferation and tumor formation through targeting HK2 .
+Collectively , we have not only established a novel methodology for gene-miRNA pair prediction but also identified miR-143 as an essential regulator of cancer glycolysis via targeting HK2 .

@@ -1,0 +1,11 @@
+Histone deacetylase inhibitors ( HDACi ) are promising epigenetic cancer chemotherapeutics rapidly approaching clinical use .
+In this study , we tested using in vitro and in vivo models the differential biological effects of a novel HDAC inhibitor [ belinostat ( PXD101) ] , in a wide panel of androgen-sensitive and androgen-independent tumor cells .
+Belinostat significantly increased acetylation of histones H3 and H4 .
+Belinostat potently inhibited the growth of prostate cancer cell lines ( IC50 range from 0.5 to 2.5 �M ) with cytotoxic activity preferentially against tumor cells .
+This agent induced G2/M arrest and increased significantly the percentage of apoptosis mainly in androgen-sensitive tumor cells confirming its growth-inhibitory effects .
+The cell death mechanisms were studied in three different prostate cancer cell lines with different androgen dependence and expression of androgen receptor ; LAPC-4 and 22rv1 ( androgen-dependent and expressing androgen receptor ) and PC3 ( androgen-independent not expressing androgen receptor ) .
+Belinostat induced the expression of p21 and p27 , acetylation of p53 and G2/M arrest associated with Bcl2 and Bcl-Xl downmodulation and significant reduction of survivin , IAPs and Akt/pAkt and increased caspase-8 and -9 expression/activity .
+Belinostat effectiveness was dependent on the androgen receptor ( AR ) , since the stable transfection of AR greatly increased the efficacy of this HDAC inhibitor .
+These observations were correlated using in vivo models .
+We demonstrated that belinostat preferentially resulted in antitumor effect in androgen-dependent tumor cells expressing AR .
+Our findings provide evidence that belinostat may be a promising anticancer drug for prostate cancer expressing AR , supporting its clinical role in prostate cancer .

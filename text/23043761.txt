@@ -1,0 +1,7 @@
+The orphan receptor TR3 is an important regulator of cell proliferation and apoptosis .
+However , whether TR3 is involved in regulating the stem-like properties of cancer cells remains unknown .
+The present study shows that TR3 expression is increased in gastric tumorsphere cells and is positively correlated with cancer stem cell ( CSC ) characteristics .
+Knocking down TR3 leads to the suppression of its stem-like properties in both gastric cancer cells and tumorsphere cells .
+This process involves the decreased expression of the stemness-related genes Oct-4 and Nanog and the invasion-related gene MMP-9 .
+We further identify Nanog as a new target for the transcription factor TR3 .
+Together , these data demonstrate for the first time that TR3 is essential for the maintenance of stem-like properties in human gastric cancer cells and implicate TR3 as a new therapeutic target for gastric cancer .

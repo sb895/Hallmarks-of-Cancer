@@ -1,0 +1,7 @@
+TP53 mutations compromising p53 transcriptional function occur in more than 50% of human cancers , including pancreatic adenocarcinoma , and render cancer cells more resistant to conventional therapy .
+In the last few years , many efforts have been addressed to identify p53-reactivating molecules able to restore the wild-type transcriptionally competent conformation of the mutated proteins .
+Here , we show that two of these compounds , CP-31398 and RITA , induce cell growth inhibition , apoptosis , and autophagy by activating p53/DNA binding and p53 phosphorylation ( Ser15 ) , without affecting the total p53 amount .
+These effects occur in both wild-type and mutant p53 pancreatic adenocarcinoma cell lines , whereas they are much less pronounced in normal human primary fibroblasts .
+Furthermore , CP-31398 and RITA regulate the axis SESN1-2/AMPK/mTOR by inducing AMPK phosphorylation on Thr172 , which has a crucial role in the autophagic response .
+The protective role of autophagy in cell growth inhibition by CP-31398 and RITA is supported by the finding that the AMPK inhibitor compound C or the autophagy inhibitors chloroquine or 3-methyladenine sensitize both pancreatic adenocarcinoma cell lines to the apoptotic response induced by p53-reactivating molecules .
+Our results demonstrate for the first time a survival role for autophagy induced by p53-reactivating molecules , supporting the development of an anti-cancer therapy based on autophagy inhibition associated to p53 activation .

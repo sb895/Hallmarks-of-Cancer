@@ -1,0 +1,11 @@
+PURPOSE BMP-6 , which belongs to the TGF-β superfamily , is a multifunctional molecule with distinct abilities in embryogenesis and organogenesis .
+Our recent research has implied that BMP-6 may suppress breast cancer metastasis .
+In the present study , we extended to elucidate the molecular mechanism by which BMP-6 exerts its anti-tumorigenic effect .
+METHODS The Boyden chamber assay was used to examine the ability of BMP-6 and HO-1 in MCF-7 malignant progress .
+RT-PCR , western blot , luciferase assay , and quantitative CHIP were used to determine the potential mechanism and signaling pathways by which BMP-6 and HO-1 function as anti-metastatic factors in MCF-7 cells .
+RESULTS The Boyden chamber assay showed that BMP-6 inhibited the migration and invasion of MCF-7 cells , which effect was significantly deprived by knockdown of HO-1 .
+We further demonstrated that BMP-6 treatment resulted in an activation of HO-1 transcription through the recruitment of Smad1/5 to the Smad-responsive element on its promoter .
+In addition , BMP-6-induced up-regulation of HO-1 exhibited an inhibitory effect on MMP-9 secretion in a paracrine action in MCF-7 cells .
+Overexpression of BMP-6 and HO-1 synergistically suppressed MMP-9 transcription , which effect was specifically mediated via the MAPK/p38/AP-1 signaling .
+However , blockade of HO-1 using ZnPPIX totally abolished BMP-6-regulated MMP-9 activation in MCF-7 cells .
+CONCLUSIONS These observations suggest a novel role of BMP-6/HO-1 cascade to relieve breast cancer metastasis by regulating the secretion of growth factors in tumor microenvironment .

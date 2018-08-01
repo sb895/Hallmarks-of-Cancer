@@ -1,0 +1,13 @@
+BACKGROUND The circumscription of the avian superfamily Sylvioidea is a matter of long ongoing debate .
+While the overall inclusiveness has now been mostly agreed on and 20 families recognised , the phylogenetic relationships among the families are largely unknown .
+We here present a phylogenetic hypothesis for Sylvioidea based on one mitochondrial and six nuclear markers , in total kbp , for 79 ingroup species representing all currently recognised families and some species with uncertain affinities , making this the most comprehensive analysis of this taxon .
+RESULTS The resolution , especially of the deeper nodes , is much improved compared to previous studies .
+However , many relationships among families remain uncertain and are in need of verification .
+Most families themselves are very well supported based on the total data set and also by indels .
+Our data do not support the inclusion of Hylia in Cettiidae , but do not strongly reject a close relationship with Cettiidae either .
+The genera Scotocerca and Erythrocercus are closely related to Cettiidae , but separated by relatively long internodes .
+The families Paridae , Remizidae and Stenostiridae clustered among the outgroup taxa and not within Sylvioidea .
+CONCLUSIONS Although the phylogenetic position of Hylia is uncertain , we tentatively support the recognition of the family Hyliidae Bannerman , 1923 for this genus and Pholidornis .
+We propose new family names for the genera Scotocerca and Erythrocercus , Scotocercidae and Erythrocercidae , respectively , rather than including these in Cettiidae , and we formally propose the name Macrosphenidae , which has been in informal use for some time .
+We recommend that Paridae , Remizidae and Stenostiridae are not included in Sylvioidea .
+We also briefly discuss the problems of providing a morphological diagnosis when proposing a new family-group name ( or genus-group name ) based on a clade .

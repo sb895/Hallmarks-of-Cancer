@@ -1,0 +1,9 @@
+A stable nitroxide 4-hydroxy-2,2,6,6-tetramethylpiperidine-N-osyl ( Tempol ) is widely used as an antioxidant invitro and invivo .
+In this study , we investigated the effects of Tempol on the growth of As4.1 juxtaglomerular cells in relation to cell cycle and cell death .
+Tempol dose-dependently decreased the growth of As4.1 cells with an IC50 of at 48h .
+DNA flow cytometry analysis and BrdU staining indicated that Tempol induced S phase arrest , which is accompanied by a downregulation of cyclin A. Tempol also induced apoptotic cell death , which was accompanied by the loss of mitochondrial membrane potential ( MMP ; \u2206\u03a8m ) , an activation of caspase-3 and cleavage of poly(ADP-ribose)polymerase-1 ( PARP-1 ) .
+Furthermore , Tempol increased reactive oxygen species ( ROS ) levels , and the phosphorylation of extracellular signal-regulated kinase ( ERK ) and c-Jun N-terminal kinase ( JNK ) .
+MEK and JNK inhibitors significantly attenuated a growth inhibition in Tempol-treated As4.1 cells .
+In conclusion , Tempol inhibited the growth of As4.1 cells via cell cycle arrest and apoptosis .
+Tempol also activated ERK and JNK signaling , which was responsible for cell growth inhibition .
+Our present data provide useful information for the toxicological effects of Tempol in juxtaglomerular cells in relation to cell growth inhibition and cell death .

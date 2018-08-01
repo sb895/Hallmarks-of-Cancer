@@ -1,0 +1,8 @@
+BACKGROUND/AIMS by reducing the number of ATP molecules produced via aerobic glycolysis , the inhibition of lactic dehydrogenase ( LDH ) should hinder the growth of neoplastic cells without damaging the normal cells which do not rely on this metabolic pathway for their energetic needs .
+Here , we studied the effect of oxamic and tartronic acids , 2 inhibitors of LDH , on aerobic glycolysis and cell replication of HepG2 and PLC/PRF/5 cells , 2 lines from human hepatocellular carcinomas .
+METHODS aerobic glycolysis was measured by calculating the amounts of lactic acid formed .
+The effect on replication was assessed by culturing the cells in both standard conditions and glucose-deprived medium , which was used to shut down aerobic glycolysis .
+RESULTS the oxamic and tartronic acids inhibited aerobic glycolysis , impaired the growth of both cell lines and also induced an increased expression of p53-upregulated modulator of apoptosis , a signal of cell death .
+A strong impairment of cell replication by oxamic acid was only found when the cells were cultured in the presence of glucose , indicating that it was for the most part owing to inhibition of aerobic glycolysis .
+CONCLUSIONS inhibition of aerobic glycolysis achieved by blocking LDH could be useful in the treatment of human hepatocellular carcinomas .
+Without interfering with glucose metabolism in normal cells , it could hinder cell growth by itself and could also enhance the chemotherapeutic index of associated anticancer agents by decreasing the levels of ATP selectively in neoplastic cells .

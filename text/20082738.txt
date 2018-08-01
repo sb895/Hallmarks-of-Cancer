@@ -1,0 +1,7 @@
+Diets rich in fruits and vegetables are associated with lower risk of cancer which may be conferred in part by the antioxidant properties of these foods .
+However , antioxidant supplementation or increased consumption of antioxidant-rich foods has been reported to have inconsistent effects on DNA damage .
+The present work ( the DART study ) investigated the extent of inter-individual variation in DNA damage , the capacity for base excision repair ( BER ) and the responses of both variables to supplementation with an antioxidant supplement for 6 weeks .
+There was a wide inter-individual variation in endogenous lymphocyte DNA strand breaks ( 8-fold variation ) , in damage after a challenge with H2O2 ( 16-fold variation ) and in DNA repair ( 41-fold variation ) measured using the comet assay .
+When stratified into tertiles according to the pre-supplementation level of endogenous DNA damage , there was a statistically significant decrease in DNA damage after supplementation in the tertile with the highest pre-supplementation level of damage .
+There was no effect of supplementation on BER .
+Endogenous DNA damage level before supplementation was significantly different ( P = 0.037 ) between the three genotypes for the Val16Ala single nucleotide polymorphism in manganese superoxide dismutase ( rs4880 ) with individuals homozygous/wild type showing less damage than those carrying the alanine variant .

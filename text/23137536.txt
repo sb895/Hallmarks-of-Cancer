@@ -1,0 +1,9 @@
+We previously demonstrated that downregulation of protein kinase CKII induces cellular senescence in human colon cancer HCT116 cells .
+To investigate the role of microRNAs ( miRNAs ) in CKII downregulation during senescence , we employed computational algorithms .
+Four miRNAs ( miR-186 , miR-216b , miR-337-3p , and miR-760 ) were predicted to be miRNAs against CKIIα mRNA .
+Mimics of all four miRNAs jointly downregulated CKIIα expression in HCT116 cells .
+Reporter analysis and RT-PCR have suggested that these four miRNAs may stimulate degradation of CKIIα mRNA by targeting its 3 ' untranslated regions ( UTRs ) .
+The four miRNA mimics increased senescent-associated β-galactosidase ( SA-β-gal ) staining , p53 and p21(Cip1/WAF1) expression , and reactive oxygen species ( ROS ) production .
+In contrast , concomitant knockdown of the four miRNAs by antisense inhibitors increased the CKIIα protein level and suppressed CKII inhibition-mediated senescence .
+Finally , CKIIα overexpression antagonized senescence induced by the four miRNA mimics .
+Therefore , the present results show that miR-186 , miR-216b , miR-337-3p , and miR-760 cooperatively promote cellular senescence through the p53-p21(Cip1/WAF1) pathway by CKII downregulation-mediated ROS production in HCT116 cells .

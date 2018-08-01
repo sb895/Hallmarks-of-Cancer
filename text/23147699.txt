@@ -1,0 +1,10 @@
+DNA damage induced by benzene and its metabolites is thought of as an important mechanism underlying benzene genotoxicity in chronic benzene poisoning ( CBP ) .
+Therefore , genetic variation in DNA repair genes may contribute to susceptibility to CBP in the exposed population .
+Since benzene-induced DNA damages include DNA adducts , we hypothesized that the polymorphisms of ERCC1 ( Excision repair cross complementation group 1 ) and ERCC2/XPD ( Excision repair cross complementation group 2/xeroderma pigmentosum group D ) are associated with the risk of CBP .
+A case-control study involving 102 benzene-poisoned patients and 204 none-benzene-poisoned controls occupationally exposed to benzene was carried out in the Northeast region of China .
+The polymorphisms of codon 118 ( rs11615 ) and C8092A ( rs3212986 ) of ERCC1 , codon 751 ( rs13181 ) , 312 ( rs1799793 ) and 156 ( rs238406 ) of ERCC2/XPD were genotyped by TaqMan(®) Real-time PCR .
+The results showed that individuals carrying the ERCC1 codon 118 TT genotype had an increased risk of CBP ( OR(adj)=3.390 ; 95%CI : 1.393-8.253 ; P=0.007 ) comparing with its CC genotype .
+After stratified by smoking , gender and exposure duration we found that the increased risk of CBP associated with the ERCC1 codon 118 TT genotype confined to nonsmokers ( OR=3.214 ; 95% CI : 1.359-7.601 ; P=0.006 ) , female ( OR=3.049 ; 95% CI : 1.235-7.529 ; P=0.013 ) and exposure duration> 12 years ( OR=3.750 ; 95% CI : 1.041-13.513 ; P=0.035 ) .
+Since ERCC1 and ERCC2/XPD are both located on chromosome 19q13.3 , haplotype analysis of all 5 SNPs was also conducted .
+However no correlations between the risks of CBP and other genotypes or haplotypes were found .
+Therefore , our findings suggest an important role of ERCC1 codon 118 polymorphisms for a biomarker to CBP in the Chinese occupational population .

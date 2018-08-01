@@ -1,0 +1,12 @@
+BACKGROUND To assess the potential mechanisms that may underlie increased local failure in triple negative ( TN ) breast cancers , an analysis was performed of the risk of residual carcinoma after lumpectomy with correlation to pathologic factors , including molecular phenotype .
+METHODS A review of pathologic specimens was performed for women with invasive breast cancer treated with lumpectomy followed by reexcision .
+Data were collected on age ; tumor size , grade , and nodal stage ; estrogen receptor , progesterone receptor , and human endothelial growth factor receptor 2 ( Her2 ) ; extensive intraductal component ; lymphovascular invasion ; margins ; and reexcision findings .
+Univariate and multivariate logistic regression analyses were performed to evaluate for associations between pathologic features of the lumpectomy specimen and reexcision findings .
+Molecular phenotypes were defined by conventionally used immunohistochemical pattern .
+RESULTS Data were collected on 369 patients with breast cancer .
+The median age was 57 years , median tumor size was 1.5 cm , 36% had positive margins , 32% had positive lymph nodes , 73.5% had the luminal A subtype , 9.5% had the luminal B subtype , 4.5% were Her2-enriched , and 12.5% were TN .
+Overall , 32% of patients had invasive cancer in their reexcision specimens , and 51% of those with the TN subtype had residual invasive disease on reexcision compared with 30% to 31% for other subtypes .
+On univariate analysis , age , tumor size , margin status , lymphovascular invasion , nodal status , and TN subtype were associated with elevated risk of residual invasive cancer .
+On multivariate analysis using a forward stepwise model , TN subtype maintained significance , with an odds ratio of 3.28 ( P = .002 ) .
+CONCLUSION TN subtype has a statistically significant association with an increased risk of residual tumor .
+This suggests the putative increase in the risk of local failure in TN patients may be related to increased residual tumor burden .

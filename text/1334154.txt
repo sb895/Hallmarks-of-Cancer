@@ -1,0 +1,16 @@
+BACKGROUND Although chemotherapy offers promise of increased survival for children with medulloblastoma and glioblastoma multiforme , drug resistance occurs frequently , resulting in tumor progression and death .
+Resistance to nitrosoureas and methylating agents , which damage DNA , can be mediated by a DNA repair protein , O6-alkylguanine-DNA alkyltransferase ( AGAT ) .
+Depletion of this protein with alkylguanines or methylating agents , however , restores tumor cell sensitivity to the cytotoxicity of chloroethylnitrosoureas ( e.g. , carmustine [ BCNU] ) .
+PURPOSE This study was designed to determine whether resistance to the activity of nitrosourea ( the drug BCNU ) in BCNU-resistant human medulloblastoma ( D341 Med ) and human glioblastoma multiforme ( D-456 MG ) can be reversed by the methylating agent streptozocin and the O6-substituted guanines O6-methylguanine and O6-benzylguanine .
+METHODS Xenografts were grown subcutaneously in athymic BALB/c mice .
+BCNU was administered as a single intraperitoneal injection at doses of 100 mg/m2 , 75 mg/m2 , or 38 mg/m2--i.e. , 1.0 , 0.75 , or 0.38 , respectively , of the dose lethal to 10% of treated animals ( LD10 ) .
+Mice were treated intraperitoneally with a single dose of O6-benzylguanine or O6-methylguanine ( 240 mg/m2 ) or with streptozocin ( 600 mg/m2 ) daily for 4 days .
+Response was assessed by tumor growth delay and tumor regression .
+AGAT activity in the xenografts was measured at 1 and 6 hours after pretreatment , at the time tumors were excised .
+RESULTS Pretreatment with O6-benzylguanine , O6-methylguanine , or streptozocin reduced AGAT activity to 4% , 25% , and 95% of control values , respectively , in D341 Med and 0% , 0% , and 25% of control values , respectively , in D-456 MG 1 hour after injection .
+After 6 hours , levels changed to 7% , 61% , and 116% of control values in D341 Med and 0% , 79% , and 21% of control values in D-456 MG , respectively .
+Both D341 Med and D-456 MG xenografts were completely resistant to BCNU at its LD10 .
+Pretreatment with O6-benzylguanine increased BCNU sensitivity in both types of xenograft .
+In contrast , treatment with BCNU plus O6-methylguanine or streptozocin did not produce growth delays substantially different from those produced by BCNU alone , reflecting the more efficient depletion of AGAT by O6-benzylguanine .
+Following therapy with BCNU plus O6-benzylguanine at 0.38 LD10 , tumor regressions were seen in eight of 10 D341 Med and in all 10 D-456 MG xenografts .
+CONCLUSION We recommend comprehensive clinical toxicologic evaluation of combination therapy with O6-benzylguanine plus BCNU , which would allow subsequent design of phase I clinical trials .

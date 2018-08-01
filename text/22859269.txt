@@ -1,0 +1,10 @@
+Increasing evidence shows that estrogens are involved in lung cancer proliferation and progression , and most human lung tumors express estrogen receptor β ( ERβ ) as well as aromatase .
+To determine if the aromatase inhibitor anastrozole prevents development of lung tumors induced by a tobacco carcinogen , alone or in combination with the ER antagonist fulvestrant , ovariectomized female mice received treatments with the tobacco carcinogen 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone ( NNK ) along with daily supplements of androstenedione , the substrate for aromatase .
+Placebo , anastrozole and/or fulvestrant were administered in both an initiation and a promotion protocol of lung tumorigenesis .
+The combination of fulvestrant and anastrozole given during NNK exposure resulted in significantly fewer NNK-induced lung tumors ( mean = 0.5 ) compared with placebo ( mean = 4.6 , P < 0.001 ) , fulvestrant alone ( mean = 3.4 , P < 0.001 ) or anastrozole alone ( mean = 2.8 , P = 0.002 ) .
+A significantly lower Ki67 cell proliferation index was also observed compared with single agent and control treatment groups .
+Beginning antiestrogen treatment after NNK exposure , when preneoplastic lesions had already formed , also yielded maximum antitumor effects with the combination .
+Aromatase expression was found mainly in macrophages infiltrating preneoplastic and tumorous areas of the lungs , whereas ERβ was found in both macrophages and tumor cells .
+Antiestrogens , especially in combination , effectively inhibited tobacco carcinogen-induced murine lung tumorigenesis and may have application for lung cancer prevention .
+An important source of estrogen synthesis may be inflammatory cells that infiltrate the lungs in response to carcinogens , beginning early in the carcinogenesis process .
+ERβ expressed by inflammatory and neoplastic epithelial cells in the lung may signal in response to local estrogen production .

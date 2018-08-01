@@ -1,0 +1,10 @@
+Jaceosidin , a flavonoid derived from Artemisia princeps ( Japanese mugwort ) , has been shown to inhibit the growth of several human cancer cells , However , the exact mechanism for the cytotoxic effect of jaceosidin is not completely understood .
+In this study , we investigated the molecular mechanism involved in the antiproliferative effect of jaceosidin in human endometrial cancer cells .
+We demonstrated that jaceosidin is a more potent inhibitor of cell growth than cisplatin in human endometrial cancer cells .
+In contrast , jaceosidin-induced cytotoxicity in normal endometrial cells was lower than that observed for cisplatin .
+Jaceosidin induced G2/M phase cell cycle arrest and modulated the levels of cyclin B and p-Cdc2 in Hec1A cells .
+Knockdown of p21 using specific siRNAs partially abrogated jaceosidin-induced cell growth inhibition .
+Additional mechanistic studies revealed that jaceosidin treatment resulted in an increase in phosphorylation of Cdc25C and ATM-Chk1/2 .
+Ku55933 , an ATM inhibitor , reversed jaceosidin-induced cell growth inhibition , in part .
+Moreover , jaceosidin treatment resulted in phosphorylation of ERK , and pretreatment with the ERK inhibitor , PD98059 , attenuated cell growth inhibition by jaceosidin .
+These data suggest that jaceosidin , isolated from Japanese mugwort , modulates the ERK/ATM/Chk1/2 pathway , leading to inactivation of the Cdc2-cyclin B1 complex , followed by G2/M cell cycle arrest in endometrial cancer cells .

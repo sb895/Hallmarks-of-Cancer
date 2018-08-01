@@ -1,0 +1,10 @@
+Heat shock protein 90 ( Hsp90 ) is a molecular chaperone involved in folding and stabilizing multiple intracellular proteins that have roles in cell activation and proliferation .
+Many Hsp90 client proteins in tumor cells are mutated or overexpressed oncogenic proteins driving cancer cell growth , leading to the acceptance of Hsp90 as a potential therapeutic target for cancer .
+Because several signal transduction molecules that are dependent on Hsp90 function are also involved in activation of innate and adaptive cells of the immune system , we investigated the mechanism by which inhibiting Hsp90 leads to therapeutic efficacy in rodent models of inflammation and autoimmunity .
+EC144 , a synthetic Hsp90 inhibitor , blocked LPS-induced TLR4 signaling in RAW 264.7 cells by inhibiting activation of ERK1/2 , MEK1/2 , JNK , and p38 MAPK but not NF-κB .
+Ex vivo LPS-stimulated CD11b(+) peritoneal exudate cells from EC144-treated mice were blocked from phosphorylating tumor progression locus 2 , MEK1/2 , and ERK1/2 .
+Consequently , EC144-treated mice were resistant to LPS administration and had suppressed systemic TNF-α release .
+Inhibiting Hsp90 also blocked in vitro CD4(+) T cell proliferation in mouse and human MLRs .
+In vivo , semitherapeutic administration of EC144 blocked disease development in rat collagen-induced arthritis by suppressing the inflammatory response .
+In a mouse collagen-induced arthritis model , EC144 also suppressed disease development , which correlated with a suppressed Ag-specific Ab response and a block in activation of Ag-specific CD4(+) T cells .
+Our results describe mechanisms by which blocking Hsp90 function may be applicable to treatment of autoimmune diseases involving inflammation and activation of the adaptive immune response .

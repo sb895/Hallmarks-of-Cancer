@@ -1,0 +1,10 @@
+Recent studies have shown that the transcription factor , nuclear factor kappaB ( NF-kappaB ) , regulates critical survival pathways in a variety of different cell types , including human pancreatic cancer cells .
+The activation of NF-kappaB is controlled by proteasome-mediated degradation of its endogenous polypeptide inhibitor , inhibitor of nuclear factor kappaBalpha .
+We investigated the effects of PS-341 , a peptide boronate inhibitor of the proteasome in human pancreatic cancer cells in vitro and in vivo .
+Comparison of PS-341's effects on the growth of eight different human pancreatic cancer cell lines revealed marked heterogeneity in drug responsiveness , ranging from highly resistant ( IC50 > 10 microM ; Panc-48 , HS766T , and Mia-PaCa-2 ) to extremely sensitive ( IC50 < 40 nM ; L3.6pl , Hpaf2 , and BxPC3 ) .
+However , these effects did not correlate with differential inhibition of NF-kappaB activation .
+Direct quantification of apoptosis revealed that PS-341's effects on cell growth largely correlated with sensitivity to programmed cell death .
+Evaluation of PS-341's effects on established orthotopic tumor xenografts demonstrated that biweekly intravenous administration of the maximum-tolerated dose of the drug ( 1 mg/kg ) led to significant reductions in the volumes of L3.6pl tumors but not Mia-PaCa-2 tumors .
+Laser scanning cytometer-mediated quantification of drug-induced apoptosis in the xenografts confirmed that PS-341 induced DNA fragmentation and activation of caspase-3 in L3.6pl tumors but not in Mia-PaCa-2 tumors .
+However , histological examination of drug-treated tumors revealed extensive central necrosis and reductions in microvessel density and VEGF expression in both tumor types .
+Taken together , our results demonstrate that PS-341 inhibits the growth of human pancreatic tumors via direct effects on tumor cells and indirect effects on the tumor vasculature .

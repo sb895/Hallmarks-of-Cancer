@@ -1,0 +1,8 @@
+Numerous scientific studies have examined the relationship between coffee consumption and an array of medical conditions , including cancer , and yet the direct effect of commercially brewed coffee on cancer cells has not been evaluated .
+The purpose of this study was to evaluate the antiproliferation effect of 4 different regular and decaffeinated coffee brews and 3 of coffee's bioactive ingredients-caffeine , chlorogenic acids , and caffeic acid-on 2 human ovarian cancer cell lines alone and in combination with cisplatin ( CDDP ) .
+Antiproliferation IC(50) for Brand A regular and decaffeinated coffee on A2780 cells was 1:70.79 ± 5.66 and 1:55.68 ± 2.00 dilution ( vol/vol ) in tissue culture medium ( mean ± standard error of the mean ; N = 12 ) , respectively , and slightly lower on A2780CP70 cells .
+Three other brands showed lower antiproliferation activity .
+Antiproliferation IC(50) concentrations of chlorogenic acids and caffeic acid are many folds lower than caffeine .
+In combination with CDDP , both Brand A coffee brews , and the 3 bioactive compounds , showed additive antiproliferation effect on both cancer cell lines .
+Flow cytometry analysis showed that coffee treatment induced apoptosis of A2780 and A2780CP70 cells .
+To our knowledge , this is the first report showing the antiproliferation activity and the additive effect with CDDP of commercially prepared coffee brews on human cancer cell lines .

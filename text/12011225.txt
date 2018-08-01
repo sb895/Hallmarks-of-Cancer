@@ -1,0 +1,11 @@
+BACKGROUND Insulin-like growth factor I ( IGF-I ) stimulates cell proliferation and inhibits apoptosis in the lung and other tissues by interacting with the IGF-I receptor .
+The major binding protein for IGF-I , insulin-like growth factor-binding protein 3 ( IGFBP-3 ) , modulates the effects of IGF-I but also inhibits cell growth and induces apoptosis independent of IGF-I and its receptor .
+In a prospective study of men in Shanghai , China , we examined the association between serum levels of IGF-I and IGFBP-3 and the subsequent risk of lung cancer .
+METHODS From 1986 to 1989 , serum was collected from 18,244 men aged 45-64 years living in Shanghai without a history of cancer .
+We analyzed IGF-I and IGFBP-3 levels in serum from 230 case patients who developed incident lung cancer during follow-up and from 740 control subjects .
+RESULTS Among 230 case patients and 659 matched control subjects , increased IGF-I levels were not associated with increased risk of lung cancer .
+However , for subjects in the highest quartile relative to the lowest quartile of IGFBP-3 , the odds ratio ( OR ) for lung cancer , adjusted for smoking and IGF-I , was 0.50 ( 95% confidence interval [ CI ] = 0.25 to 1.02 ) .
+When the analysis was restricted to ever smokers ( 184 case patients and 344 matched control subjects ) , the OR for lung cancer in men in the highest quartile of IGFBP-3 relative to those in the lowest quartile , adjusted for smoking and IGF-I , was 0.41 ( 95% CI = 0.18 to 0.92 ) .
+CONCLUSIONS In this prospective study of Chinese men , higher serum levels of IGF-I did not increase the risk of lung cancer .
+However , subjects with higher serum levels of IGFBP-3 were at reduced risk of lung cancer .
+This finding is consistent with experimental data that indicate that IGFBP-3 can inhibit cellular proliferation and induce apoptosis independent of IGF-I and the IGF-I receptor .

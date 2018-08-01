@@ -1,0 +1,7 @@
+Loss of telomeric DNA during cell proliferation may play a role in ageing and cancer .
+Since telomeres permit complete replication of eukaryotic chromosomes and protect their ends from recombination , we have measured telomere length , telomerase activity and chromosome rearrangements in human cells before and after transformation with SV40 or Ad5 .
+In all mortal populations , telomeres shortened by approximately 65 bp/generation during the lifespan of the cultures .
+When transformed cells reached crisis , the length of the telomeric TTAGGG repeats was only approximately 1.5 kbp and many dicentric chromosomes were observed .
+In immortal cells , telomere length and frequency of dicentric chromosomes stabilized after crisis .
+Telomerase activity was not detectable in control or extended lifespan populations but was present in immortal populations .
+These results suggest that chromosomes with short ( TTAGGG)n tracts are recombinogenic , critically shortened telomeres may be incompatible with cell proliferation and stabilization of telomere length by telomerase may be required for immortalization .

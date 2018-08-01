@@ -1,0 +1,14 @@
+Many different cellular pathways have evolved to protect the genome from the deleterious effects of DNA damage that result from exposure to chemical and physical agents .
+Among these is a process called transcription-coupled repair ( TCR ) that catalyzes the removal of DNA lesions from the transcribed strand of expressed genes , often resulting in a preferential bias of damage clearance from this strand relative to its non-transcribed counterpart .
+Lesions subject to this type of repair include cyclobutane pyrimidine dimers that are normally repaired by nucleotide excision repair ( NER ) and thymine glycols ( TGs ) that are removed primarily by base excision repair ( BER ) .
+While the mechanism underlying TCR is not completely clear , it is known that its facilitation requires proteins used by other repair pathways like NER .
+It is also believed that the signal for TCR is the stalled RNA polymerase that results when DNA damage prevents its translocation during transcription elongation .
+While there is a clear role for some NER proteins in TCR , the involvement of BER proteins is less clear .
+To explore this further , we studied the removal of 7-methylguanine ( 7MeG ) and 3-methyladenine ( 3MeA ) from the dihydrofolate reductase ( dhfr ) gene of murine cell lines that vary in their repair phenotypes. 7MeG and 3MeA constitute the two principal N-methylpurines formed in DNA following exposure to methylating agents .
+In mammalian cells , alkyladenine DNA alkyladenine glycosylase ( Aag ) is the major enzyme required for the repair of these lesions via BER , and their removal from the total genome is quite rapid .
+There is no observable TCR of these lesions in specific genes in DNA repair proficient cells ; however , it is possible that the rapid repair of these adducts by BER masks any TCR .
+The repair of 3MeA and 7MeG was examined in cells lacking Aag , NER , or both Aag and NER to determine if rapid overall repair masks TCR .
+The results show that both 3MeA and 7MeG are removed without strand bias from the dhfr gene of BER deficient ( Aag deficient ) and NER deficient murine cell lines .
+Furthermore , repair of 3MeA in this region is highly dependent on Aag , but repair of 7MeG is equally efficient in the repair proficient , BER deficient , and NER deficient cell lines .
+Strikingly , in the absence of both BER and NER , neither 7MeG nor 3MeA is repaired .
+These results demonstrate that NER , but not TCR , contributes to the repair of 7MeG , and to a lesser extent 3MeA .

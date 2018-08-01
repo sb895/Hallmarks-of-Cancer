@@ -1,0 +1,4 @@
+We demonstrate that reactive oxygen species ( ROS ) plays an important role in the process of apoptosis in human peripheral blood mononuclear cell ( PBMC ) which is induced by the radiation of 900 MHz radiofrequency electromagnetic field ( RFEMF ) at a specific absorption rate ( SAR ) of W/kg when the exposure lasts longer than two hours .
+The apoptosis is induced through the mitochondrial pathway and mediated by activating ROS and caspase-3 , and decreasing the mitochondrial potential .
+The activation of ROS is triggered by the conformation disturbance of lipids , protein , and DNA induced by the exposure of GSM RFEMF .
+Although human PBMC was found to have a self-protection mechanism of releasing carotenoid in response to oxidative stress to lessen the further increase of ROS , the imbalance between the antioxidant defenses and ROS formation still results in an increase of cell death with the exposure time and can cause about 37% human PBMC death in eight hours .

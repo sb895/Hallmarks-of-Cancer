@@ -1,0 +1,10 @@
+One of the immunosuppressive effects of both ultraviolet ( UV ) light and chemical carcinogens is to deplete Langerhans cells ( LC ) from the epidermis , suggesting that these cells play an important role in inducing immune responses to developing tumors during the early phases of carcinogenesis .
+Retinoids such as all-trans-retinoic acid ( RA ) are natural or synthetic derivatives of vitamin A ; RA binds to nuclear receptors in the skin , effecting transcription of a wide range of genes .
+Topical application of RA prevents the tumor promotor 12-O-tetradecanoylphorbol-13-acetate ( TPA ) from depleting the density of LC in murine epidermis .
+In contrast , topical RA did not itself alter the normal LC density .
+RA also inhibited the development of TPA-induced immunosuppression to a locally applied contact sensitizer .
+Topical RA also prevented UV light from reducing the density of both LC and Thy-1+ dendritic epidermal cells ( Thy-1+ dEC ) .
+However , the RA treatment did not prevent local immunosuppression to the contact sensitizer from developing in response to UV irradiation .
+The reasons for this are unclear , however , it is possible that RA does not inhibit some other immunosuppressive effect of UV light .
+Temarotene , a recently developed synthetic retinoid also inhibited UV light from reducing the LC and Thy-1+ dEC density from murine epidermis .
+Thus part of the anti-carcinogenic activity of retinoids may be due to their ability to protect LC during the early stages of carcinogenesis .

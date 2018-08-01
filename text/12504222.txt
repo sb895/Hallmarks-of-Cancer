@@ -1,0 +1,10 @@
+Recent studies indicate that cyclooxygenase-2 ( COX-2 ) is overexpressed in pancreatic adenocarcinoma and may play a critical role in this rapidly progressing form of cancer .
+A human pancreatic adenocarcinoma cell line , Mia PaCa-2 , was incubated for 18 hours with 5 micromol/L of rofecoxib ( Vioxx ) , a selective COX-2 inhibitor .
+Total RNA was isolated and gene expression analyzed by DNA microarray chips .
+In a separate experiment , athymic mice were orthotopically injected with 7.5 x 10(5) Mia PaCa-2 cells through a minilaparotomy .
+After 1 month , laparotomy was repeated to measure tumor size , and mice were randomized to receive reformulated rodent chow containing either 12.5 mg/kg/day of rofecoxib or no drug for 21 days .
+Tumor growth was assessed by comparing volume before and after treatment .
+In vitro , rofecoxib decreased gene expression of cyclin D1/PRAD1 , a key component of cell cycle progression , while increasing expression of several cell cycle arrest genes , including p21/WAF1 , p33/ING , GADD34 , and GADD45 ( P < 0.05 ) .
+In vivo , tumor growth was significantly reduced in treated vs. control mice ( P < 0.05 ) .
+No systemic toxicity was observed in mice receiving rofecoxib .
+These data suggest that rofecoxib slows the growth of human pancreatic cancer through changes in gene expression that favor cell cycle arrest .

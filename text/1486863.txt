@@ -1,0 +1,9 @@
+We have extended our studies on the relationship between cisplatin/carboplatin-induced DNA damage in readily accessible tissue(s) and clinical response to therapy .
+Such an approach may assist in the study of cancer drug resistance and in establishing parameters for assessing human populations for sensitivity to DNA damaging agents in the environment .
+Platinum-DNA adduct levels were measured by atomic absorbance spectrometry .
+DNA repair capacity was assessed in human T-lymphocytes by the ability to repair cisplatin lesions in cellular DNA or in transfected plasmid DNA .
+In a " blinded " study of 21 patients receiving combination cisplatin/carboplatin drug therapy , there was a direct relationship between DNA damage in leukocytes and disease response ( summary two-sided p = 0.00011 ) .
+The cohort of patients had 15 different tumor types , suggesting that blood tissue and tumor tissue of an individual may process platinum-DNA damage similarly regardless of the tissue of origin of the tumor .
+In leukocytes in vivo , persistence and accumulation were prominent features of the cisplatin-DNA adduct profile .
+Functional DNA repair capacity has been studied in eight human leukocyte cell lines in vitro ( three , T-cells ; three , B-cells ; one , monocytic ; one , promyelocytic ) , using a host cell reactivation assay with cisplatin-damaged pRSVcat .
+In the three T cell lines studied , host cell reactivation efficiency was directly related to the cells ' abilities to repair cisplatin-damaged cellular DNA ( correlation coefficient = 0.993).(ABSTRACT TRUNCATED AT 250 WORDS )

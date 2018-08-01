@@ -1,0 +1,9 @@
+Signal transducers and activators of transcription 3 ( Stat3 ) is activated by cytokines and growth factors in lung cancers and regulates expression of genes implicated in cell growth , survival , and transformation .
+Previously , we found that mice with a deletion of the G protein-coupled receptor , family C , group 5 , member a ( Gprc5a ) gene develop lung tumors , indicating that Gprc5a is a tumor suppressor .
+Herein , we show that epithelial cells from Gprc5a knockout mouse lung ( Gprc5a(-/-) cells ) survive better in vitro in medium deprived of exogenous growth factors and form more colonies in semisolid medium than their counterparts from wild-type mice ( Gprc5a(+/+) cells ) .
+Stat3 tyrosine 705 phosphorylation and expression of several Stat3-regulated antiapoptotic genes were higher in Gprc5a(-/-) than in Gprc5a(+/+) cells .
+Both cell types secreted leukemia inhibitory factor ( Lif ) ; however , whereas Stat3 activation was persistent in Gprc5a(-/-) cells , it was transient in Gprc5a(+/+) cells .
+Lung adenocarcinoma cells isolated from Gprc5a(-/-) mice also exhibited autocrine Lif-mediated Stat3 activation .
+The level of Socs3 , the endogenous Stat3 inhibitory protein , was higher in Gprc5a(+/+) than in Gprc5a(-/-) cells , and expression of the tumor suppressor stabilized Socs3 .
+Inhibition of Stat3 signaling in Gprc5a(-/-) normal and cancer cells by the Janus-activated kinase 2 inhibitor AG490 or by a dominant negative Stat3(Y705F) increased starvation-induced apoptosis and inhibited colony formation .
+These results show that persistent Stat3 activation is important for the survival and transformation of Gprc5a(-/-) lung cells and suggest that the tumor suppressive effects of Gprc5a are mediated , at least in part , by inhibition of Stat3 signaling through Socs3 stabilization .

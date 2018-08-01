@@ -1,0 +1,8 @@
+Osteopetrosis , a disorder of skeletal bone , can cause death during childhood .
+We previously described a new spontaneous autosomal recessive osteopetrosis mouse mutant , " new toothless " ( ntl ) .
+In this study , we reported for the first time the identification , cloning and characterization of the coiled-coil domain-containing 154 ( CCDC154 ) , a novel gene whose deletion of kb sequence including exons 1-6 was completely linked to the ntl mutant .
+The CCDC154 was conserved between mouse and human and is wildly expressed in mouse tissues .
+The cellular localization of CCDC154 was in the early endosomes .
+Overexpression of CCDC154 inhibited cell proliferation of HEK293 cells by inducing G 2/M arrest .
+CCDC154 also inhibited tumor cell growth , and the soft agar assay revealed a significant decrease of the colony size of Hela cells upon transfection of CCDC154 .
+Our results indicate that CCDC154 is a novel osteopetrosis-related gene involved in cell cycle regulation and tumor suppression growth .

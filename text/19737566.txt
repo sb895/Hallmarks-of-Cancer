@@ -1,0 +1,12 @@
+BACKGROUND & AIMS GUCY2C is the intestinal receptor for the paracrine hormones guanylin and uroguanylin that converts guanosine-5'-triphosphate to cyclic guanosine monophosphate ( cGMP ) .
+It functions as a tumor suppressor ; its loss disrupts intestinal homeostasis and promotes tumorigenesis .
+We investigated the effects of GUCY2C loss on intestinal cell proliferation , metabolism , signaling , and tumorigenesis in mice .
+METHODS Intestinal cell proliferation and metabolism were examined in Gucy2c(-/-) and colon cancer cells by microscopy , immunoblot , and functional analyses .
+Microarray analyses compared gene expression profiles of intestine cell from Gucy2c(-/-) and wild-type mice. v akt murine thymoma viral oncogene homolog ( AKT ) regulation and signaling were examined , and the role of AKT in GUCY2C-dependent tumorigenesis was defined in Gucy2c(-/-)Akt1(-/-) mice .
+RESULTS The size and number of intestinal crypts increased in Gucy2c(-/-) mice ; the associated epithelial cells showed accelerated proliferation , increased glycolysis , and reduced oxidative phosphorylation , which was reversed by oral administration of cGMP .
+Conversely , activating guanylyl cyclase C in human colon cancer cells delayed cell-cycle progression , decreased DNA synthesis and colony formation , reduced glycolysis , and increased mitochondrial adenosine triphosphate production .
+AKT signaling pathways were activated in intestines of Gucy2c(-/-) mice , associated with increased AKT phosphorylation .
+Disruption of AKT activity , pharmacologically or genetically , reduced DNA synthesis , proliferation , and glycolysis , and increased mitochondrial biogenesis .
+Intestinal tumorigenesis increased after administration of azoxymethane to Gucy2c(-/-) mice , compared with wild-type mice , but was eliminated in Gucy2c(-/-)Akt1(-/-) mice .
+CONCLUSIONS GUCY2C is a tumor suppressor that controls proliferation and metabolism of intestinal epithelial cells by inactivating AKT signaling .
+This receptor and its ligands , which are paracrine hormones , might be novel candidates for anticolorectal cancer therapy .

@@ -1,0 +1,12 @@
+Identification of the proteins that are associated with estrogen receptor ( ER ) status is a first step towards better understanding of the hormone-dependent nature of breast carcinogenesis .
+Although a number of gene expression analyses have been conducted , protein complement has not been systematically investigated to date .
+Because proteins are primary targets of therapeutic drugs , in this study , we have attempted to identify proteomic signatures that demarcate ER-positive and -negative breast cancers .
+Using highly enriched breast tumor cells , replicate analyses from 3 ERα+ and 3 ERα- human breast tumors resulted in the identification of 2,995 unique proteins with ≥2 peptides .
+Among these , a number of receptor tyrosine kinases and intracellular kinases that are abundantly expressed in ERα+ and ERα- breast cancer tissues were identified .
+Further , label-free quantitative proteome analysis revealed that 236 proteins were differentially expressed in ERα+ and ERα- breast tumors .
+Among these , 141 proteins were selectively up-regulated in ERα+ , and 95 proteins were selectively up-regulated in ERα- breast tumors .
+Comparison of differentially expressed proteins with a breast cancer database revealed 98 among these have been previously reported to be involved in breast cancer .
+By Gene Ontology molecular function , dehydrogenase , reductase , cytoskeletal proteins , extracellular matrix , hydrolase , and lyase categories were significantly enriched in ERα+ , whereas selected calcium-binding protein , membrane traffic protein , and cytoskeletal protein were enriched in ERα- breast tumors .
+Biological process and pathway analysis revealed that up-regulated proteins of ERα+ were overrepresented by proteins involved in amino acid metabolism , proteasome , and fatty acid metabolism , while up-regulated proteins of ERα- were overrepresented by proteins involved in glycolysis pathway .
+The presence and relative abundance of 4 selected differentially abundant proteins ( liprin-α1 , fascin , DAP5 , and β-arrestin-1 ) were quantified and validated by immunohistochemistry .
+In conclusion , unlike in vitro cell culture models , the in vivo signaling proteins and pathways that we have identified directly from human breast cancer tissues may serve as relevant therapeutic targets for the pharmacological intervention of breast cancer .

@@ -1,0 +1,7 @@
+The signal transducer and activator of transcription ( STAT)1 is a cytoplasmic-transcription factor that is phosphorylated by Janus kinases ( Jak ) in response to interferon gamma(IFN-gamma) .
+The phosphorylated STAT1 translocates to the nucleus , where it turns on specific sets of IFN-gamma-inducible genes , such as the interferon regulatory factor ( IRF)-1 .
+We show here that gamma irradiation reduces the IFN-gamma mRNA expression .
+The inhibition of the STAT1 phosphorylation and the IRF-1 expression by gamma irradiation was also observed .
+In contrast , the mRNA levels of IL-5 and transcription factor GATA-3 were slightly induced by gamma irradiation when compared to the non-irradiated sample .
+Furthermore , we detected the inhibition of cell-mediated immunity by gamma irradiation in the allogenic-mixed lymphocytes ' reaction ( MLR ) .
+These results postulate that gamma irradiation induces the polarized-Th2 response and interferes with STAT1 signals , thereby causing the immunosuppression of the Th1 response .

@@ -1,0 +1,9 @@
+This study aimed to observe the effects of octreotide ( OCT ) on cisplatin resistance reversal of cancer cells in vitro and in nude mice in vivo .
+MTT method and flow cytometry were used to investigate the effect of cisplatin , OCT or the combination of these two compounds on the proliferation and apoptosis of SKOV3-DDP cells .
+The size and weight of xenograft tumors from the nude mice model were measured .
+Real-time PCR was used to detect the mRNA expression of SSTR2 , MDR1 , MRP2 , GST-pi and EGFR in SKOV3/DDP cells following the different treatment .
+At the concentration of 2.5-20 g/ml , OCT significantly reduced IC50 ( p < 0.05 ) and promoted apoptosis ( p < 0.05 ) of SKOV3-DDP cells ' response to cisplatin .
+Unchanged expression was found in SSTR2 on the SKOV3/DDP cell in vitro after OCT treatment , but increased expression in vivo ( p < 0.05 ) .
+OCT increased GST-pi expression ( p < 0.05 ) and reduced MRP2 and EGFR expression ( p < 0.05 ) in a dose-dependent manner .
+The similar results were obtained in mice in vivo experiment , except the reduced expression of GST-pi .
+It is suggested that OCT could inhibit ovarian cancer proliferation and promote apoptosis , via the cell surface SSTR2 , and reverse cisplatin resistance through inhibition of MRP2 , EGFR , and even GST-pi expressions .

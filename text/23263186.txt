@@ -1,0 +1,4 @@
+Epirubicin was developed as a semi-synthetic anthracycline derivative to circumvent the cardiotoxic limitations associated with the use of doxorubicin in the clinic .
+Anthracycline compounds have been demonstrated to form covalent drug-DNA adducts utilising endogenous and exogenous sources of formaldehyde ; however , previous investigations of the formation of epirubicin-DNA adducts provide conflicting evidence for adduct formation .
+This work provides evidence that epirubicin acts to form drug-DNA adducts at physiologically relevant concentrations and demonstrates that the rate of formation of epirubicin-DNA adducts is slower than that observed for other anthracycline compounds , explaining why they are only detectable under defined experimental conditions .
+Formation of covalent epirubicin-DNA adducts improves the apoptotic profile of epirubicin and provides opportunities to overcome drug resistance and cardiotoxic limitations .

@@ -1,0 +1,7 @@
+In recent years , microfluidic systems have been used to study fundamental aspects of angiogenesis through the patterning of single-layered , linear or geometric vascular channels .
+In vivo , however , capillaries exist in complex , three-dimensional ( 3D ) networks , and angiogenic sprouting occurs with a degree of unpredictability in all x,y,z planes .
+The ability to generate capillary beds in vitro that can support thick , biological tissues remains a key challenge to the regeneration of vital organs .
+Here , we report the engineering of 3D capillary beds in an in vitro microfluidic platform that is comprised of a biocompatible collagen I gel supported by a mechanical framework of alginate beads .
+The engineered vessels have patent lumens , form robust mm capillary networks across the devices , and support the perfusion of 1 �m fluorescent beads through them .
+In addition , the alginate beads offer a modular method to encapsulate and co-culture cells that either promote angiogenesis or require perfusion for cell viability in engineered tissue constructs .
+This laboratory-constructed vascular supply may be clinically significant for the engineering of capillary beds and higher order biological tissues in a scalable and modular manner .

@@ -1,0 +1,16 @@
+Currently , there are no satisfactory biomarkers available to screen for nasopharyngeal carcinoma ( NPC ) .
+Nitric oxide ( NO ) , produced by inducible nitric oxide synthase ( iNOS ) , has been suggested to cause nitrative and oxidative stress , leading to the accumulation of 8-nitroguanine ( 8-NitroG ) and 8-hydroxy-2'-deoxyguanosine ( 8-OHdG ) and the subsequent transversion mutation of DNA .
+The aim of this study was to evaluate iNOS expression and the status of nitrative and oxidative stress in NPC .
+Fifty-nine cases of NPC and 39 cases of chronic nasopharyngitis were investigated to examine the expression of iNOS and the formation of 8-NitroG and 8-OHdG , using double-immunofluorescent staining .
+The statistical differences in immunoreactivities were analyzed using the Mann-Whitney test .
+Thirty-six patients from the 57 cases of NPC and 36 healthy controls were investigated to examine the level of serum 8-OHdG , using enzyme-linked immunosorbent assay ( ELISA ) .
+The statistical differences were analyzed using a t test .
+Strong DNA lesions were observed in the cancer cells of NPC patients .
+All cases of NPC were positive for 8-NitroG and 8-OHdG , and 54 ( 94.7% ) were positive for iNOS .
+NPC samples exhibited significantly more intense staining for 8-NitroG , 8-OHdG and iNOS than those of chronic nasopharyngitis ( P < 0.05 , respectively ) .
+The mean value of serum 8-OHdG in the 36 NPC patients was 0.538 ± 0.336 ng/ml compared to 0.069 ± 0.059 ng/ml for the healthy controls .
+The difference in the serum levels of 8-OHdG between the NPC patients and controls was statistically significant ( P < 0.05 ) .
+Our present findings suggest that pathological stimulation of nasopharyngeal tissue , caused by bacterial , viral or parasitic inflammation , may lead to nitrative and oxidative DNA lesions , caused by NO .
+This may contribute to the cause and development of NPC .
+Thus , 8-NitroG and 8-OHdG could be potential biomarkers for evaluating the risk of NPC .
+Better understanding of the molecular mechanisms underlying nitrative and oxidative DNA damage may provide clues to molecular targets for new approaches of NPC prevention .

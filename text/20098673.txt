@@ -1,0 +1,7 @@
+During tumorigenesis , cells acquire immortality in association with the development of genomic instability .
+However , it is still elusive how genomic instability spontaneously generates during the process of tumorigenesis .
+Here , we show that precancerous DNA lesions induced by oncogene acceleration , which induce situations identical to the initial stages of cancer development , trigger tetraploidy/aneuploidy generation in association with mitotic aberration .
+Although oncogene acceleration primarily induces DNA replication stress and the resulting lesions in the S phase , these lesions are carried over into the M phase and cause cytokinesis failure and genomic instability .
+Unlike directly induced DNA double-strand breaks , DNA replication stress-associated lesions are cryptogenic and pass through cell-cycle checkpoints due to limited and ineffective activation of checkpoint factors .
+Furthermore , since damaged M-phase cells still progress in mitotic steps , these cells result in chromosomal mis-segregation , cytokinesis failure and the resulting tetraploidy generation .
+Thus , our results reveal a process of genomic instability generation triggered by precancerous DNA replication stress .

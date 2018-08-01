@@ -1,0 +1,11 @@
+Animal studies indicate that the immune system is one of the most sensitive targets of the toxic effects of 2,3,7,8-tetrachloro-p-dibenzodioxin ( TCDD ) .
+TCDD inhibits immunoglobulin secretion and decreases resistance to bacterial , viral , and parasitic infections in exposed animals .
+Nearly 20 years after the Seveso , Italy , accident , we measured immunoglobulin and complement plasma levels in a random sample of the population in the most highly exposed zones ( n = 62 ) and in the surrounding noncontaminated area ( n = 58 ) .
+Plasma IgG levels decreased with increasing TCDD plasma concentration ( r = -0.35 , p = 0.0002 ) .
+Median IgG concentration decreased from 1,526 mg/dL in the group with the lowest ( < 3.5 ppt ) TCDD levels to 1,163 mg/dL in the group with the highest ( 20.1-89.9 ppt ) TCDD levels ( p = 0.002 ) .
+The association was significant ( p = 0.0004 ) after adjusting for age , sex , smoking , and consumption of domestic livestock and poultry in multiple regression analysis and persisted after exclusion of subjects with inflammatory diseases and those using antibiotics or nonsteroidal anti-inflammatory drugs .
+IgM , IgA , C3 , and C4 plasma concentrations did not exhibit any consistent association with TCDD levels .
+We performed a systematic review of all the articles published between 1966 and 2001 on human subjects exposed to TCDD reporting information on circulating levels of immunoglobulins and/or complement components .
+The literature indicates that the evidence for effects of TCDD on humoral immunity is sparse .
+Methodologic issues , results , and possible sources of variation between studies are discussed .
+The possible long-term immunologic effects of TCDD exhibited by the participants of the present study , coupled with the increased incidence of lymphatic tumors in the area of the accident , warrant further investigation .

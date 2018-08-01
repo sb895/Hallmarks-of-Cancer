@@ -1,0 +1,10 @@
+Blind mole rats Spalax ( BMR ) are small subterranean rodents common in the Middle East .
+BMR is distinguished by its adaptations to life underground , remarkable longevity ( with a maximum documented lifespan of 21 y ) , and resistance to cancer .
+Spontaneous tumors have never been observed in spalacids .
+To understand the mechanisms responsible for this resistance , we examined the growth of BMR fibroblasts in vitro of the species Spalax judaei and Spalax golani .
+BMR cells proliferated actively for 7-20 population doublings , after which the cells began secreting IFN-\u03b2 , and the cultures underwent massive necrotic cell death within 3 d .
+The necrotic cell death phenomenon was independent of culture conditions or telomere shortening .
+Interestingly , this cell behavior was distinct from that observed in another long-lived and cancer-resistant African mole rat , Heterocephalus glaber , the naked mole rat in which cells display hypersensitivity to contact inhibition .
+Sequestration of p53 and Rb proteins using SV40 large T antigen completely rescued necrotic cell death .
+Our results suggest that cancer resistance of BMR is conferred by massive necrotic response to overproliferation mediated by p53 and Rb pathways , and triggered by the release of IFN-\u03b2 .
+Thus , we have identified a unique mechanism that contributes to cancer resistance of this subterranean mammal extremely adapted to life underground .

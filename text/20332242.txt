@@ -1,0 +1,14 @@
+" Reactive " or activated stroma characterizes many malignancies including breast cancers .
+Recently , we isolated a reactive mouse mammary gland stromal cell line called BJ3Z .
+These cells express alpha-smooth muscle actin and stromal cell-derived factor 1 ( SDF-1 ) and are tumorigenic when injected into mice .
+Here we show that , in vivo , BJ3Z cells influence the angiogenesis and proliferation of xenografted estrogen receptor ( ER)-positive MCF-7 human breast cancer cell-derived solid tumors .
+The growth-promoting effects of BJ3Z cells are equivalent to those of estradiol ( E(2) ) .
+BJ3Z cells also increase the proliferation of normal mouse mammary luminal cells adjacent to tumors .
+In vitro , BJ3Z cells reorganize and increase the proliferation of cocultured malignant MCF-7 and normal human breast MCF10A cells grown as organoids in three-dimensional culture .
+The effects of BJ3Z cells on MCF-7 cells are equivalent to those of E(2) .
+In contrast , BJ3Z cells do not alter the growth of highly aggressive ER-negative MDA-MB-231 human breast cancer cells .
+We show that BJ3Z cells secrete vascular endothelial growth factor ( VEGF ) .
+The growth of MCF-7 organoids induced by BJ3Z can be inhibited by antagonists of VEGF and SDF-1 .
+Conversely , recombinant VEGF stimulates the proliferation of MCF-7 , but not MDA-MB-231 , organoids .
+We conclude that , in addition to angiogenesis , VEGF released by activated stroma increases the growth of ER-positive malignant epithelial cells and of adjacent normal epithelium .
+Because activated stroma can substitute for E(2) and fosters hormone-independent growth of ER-positive tumors , we suggest that breast cancers exhibiting intrinsic hormone resistance may respond to antiangiogenic therapies .

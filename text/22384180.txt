@@ -1,0 +1,11 @@
+Arsenic trioxide ( As(2)O(3) ) has shown remarkable efficacy for the treatment of multiple myeloma ( MM ) .
+Histone deacetylases ( HDAC ) play an important role in the control of gene expression , and their dysregulation has been linked to myeloma .
+Especially , HDAC6 , a unique cytoplasmic member of class II , which mainly functions as α-tubulin deacetylase and Hsp90 deacetylase , has become a target for drug development to treat cancer due to its major contribution in oncogenic cell transformation .
+However , the mechanisms of action for As(2)O(3) have not yet been defined .
+In this study , we investigated the effect of As(2)O(3) on proliferation and apoptosis in human myeloma cell line and primary myeloma cells , and then we studied that As(2)O(3) exerts antimyeloma effects by inhibiting activity in the α-tubulin and Hsp90 through western blot analysis and immunoprecipitation .
+We found that As(2)O(3) acts directly on MM cells at relatively low concentrations of 0.5 �M , which effects survival and apoptosis of MM cells .
+However , As(2)O(3) inhibited HDAC activity at the relatively high concentration and dose-dependent manner ( great than 4 �M ) .
+Subsequently , we found that As(2)O(3) treatment in a dose- and time-dependent fashion markedly increased the level of acetylated α-tubulin and acetylated Hsp90 , and inhibited the chaperone association with IKKα activities and increased degradation of IKKα .
+Importantly , the loss of IKKα-associated Hsp90 occurred prior to any detectable loss in the levels of IKKα , indicating a novel pathway by which As(2)O(3) down-regulates HDAC6 to destabilize IKKα protein via Hsp90 chaperone function .
+Furthermore , we observed the effect of As(2)O(3) on TNF-α-induced NF-κB signaling pathway was to significantly reduced phosphorylation of Ser-536 on NF-κB p65 .
+Therefore , our studies provide an important insight into the molecular mechanism of anti-myeloma activity of As(2)O(3) in HDAC6-Hsp90-IKKα-NFκB signaling axis and the rationale for As(2)O(3) can be extended readily using all the HDAC associated diseases .

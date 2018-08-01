@@ -1,0 +1,9 @@
+Melanoma progression is associated with the expression of different growth factors , cytokines , and chemokines .
+Because TGFβ1 is a pleiotropic cytokine involved not only in physiologic processes but also in cancer development , we analyzed in A375 human melanoma cells , the effect of TGFβ1 on monocyte chemoattractant protein-1 ( MCP-1 ) and interleukin-10 ( IL-10 ) expression , two known factors responsible for melanoma progression .
+TGFβ1 increased the expression of MCP-1 and IL-10 in A375 cells , an effect mediated by the cross-talk between Smad , PI3K ( phosphoinositide 3-kinase)/AKT , and BRAF-MAPK ( mitogen activated protein kinase ) signaling pathways .
+Supernatants from TGFβ1-treated A375 cells enhanced MCP-1-dependent migration of monocytes , which , in turn , expressed high levels of TGF,β1 , bFGF , and VEGF mRNA .
+Moreover , these supernatants also inhibited functional properties of dendritic cells through IL-10-dependent mechanisms .
+When using in vitro , the TGFβ1-blocking peptide P144 , TGFβ1-dependent Smad3 phosphorylation , and expression of MCP-1 and IL-10 were inhibited .
+In vivo , treatment of A375 tumor-bearing athymic mice with P144 significantly reduced tumor growth , associated with a lower macrophage infiltrate and decreased intratumor MCP-1 and VEGF levels , as well as angiogenesis .
+Finally , in C57BL/6 mice with B16-OVA melanoma tumors , when administered with immunotherapy , P144 decreased tumor growth and intratumor IL-10 levels , linked to enhanced activation of dendritic cells and natural killer cells , as well as anti-OVA T-cell responses .
+These results show new effects of TGFβ1 on melanoma cells , which promote tumor progression and immunosuppression , strongly reinforcing the relevance of this cytokine as a molecular target in melanoma .

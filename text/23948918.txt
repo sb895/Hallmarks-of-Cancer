@@ -1,0 +1,7 @@
+The 7WD4 and 7PA2 cell lines , widely used as cellular models for Alzheimer's disease ( AD ) , have been used to investigate the effects of amyloid-\u03b2 protein precursor overexpression and amyloid-\u03b2 ( A\u03b2 ) oligomer accumulation on mitochondrial function .
+Under standard culture conditions , both cell lines , compared to Chinese hamster ovary ( CHO ) control cells , displayed an decrease of O2 respiration as sustained by endogenous substrates .
+Functional impairment of the respiratory chain was found distributed among the protein complexes , though more evident at the level of complex I and complex IV .
+Measurements of ATP showed that its synthesis by oxidative phosphorylation is decreased in 7WD4 and 7PA2 cells by this loss being partly compensated by glycolysis ( Warburg effect ) .
+Compensation proved to be more efficient in 7WD4 than in 7PA2 cells , the latter cell line displaying the highest reactive oxygen species production .
+The strongest deficit was observed in mitochondrial membrane potential that is almost 40% and 60% lower in 7WD4 and 7PA2 cells , respectively , in comparison to CHO controls .
+All functional parameters point to a severe bioenergetic impairment of the AD cells , with the extent of mitochondrial dysfunction being correlated to the accumulation of A\u03b2 peptides and oligomers .

@@ -1,0 +1,9 @@
+Oncogene-induced senescence can provide a protective mechanism against tumour progression .
+However , production of cytokines and growth factors by senescent cells may contribute to tumour development .
+Thus , it is unclear whether induction of senescence represents a viable therapeutic approach .
+Here , using a mouse model with orthotopic implantation of metastatic melanoma tumours taken from 19 patients , we observed that targeting aurora kinases with MLN8054/MLN8237 impaired mitosis , induced senescence and markedly blocked proliferation in patient tumour implants .
+Importantly , when a subset of tumour-bearing mice were monitored for tumour progression after pausing MLN8054 treatment , 50% of the tumours did not progress over a 12-month period .
+Mechanistic analyses revealed that inhibition of aurora kinases induced polyploidy and the ATM/Chk2 DNA damage response , which mediated senescence and a NF-κB-related , senescence-associated secretory phenotype ( SASP ) .
+Blockade of IKKβ/NF-κB led to reversal of MLN8237-induced senescence and SASP .
+Results demonstrate that removal of senescent tumour cells by infiltrating myeloid cells is crucial for inhibition of tumour re-growth .
+Altogether , these data demonstrate that induction of senescence , coupled with immune surveillance , can limit melanoma growth .

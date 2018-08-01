@@ -1,0 +1,9 @@
+Hypoxia is known to play critical roles in cell survival , angiogenesis , tumor invasion , and metastasis .
+Hypoxia mediated over-expression of hypoxia-inducible factor ( HIF ) has been shown to be associated with therapeutic resistance , and contributes to poor prognosis of cancer patients .
+Emerging evidence suggest that hypoxia and HIF pathways contributes to the acquisition of epithelial-to-mesenchymal transition ( EMT ) , maintenance of cancer stem cell ( CSC ) functions , and also maintains the vicious cycle of inflammation-all which lead to therapeutic resistance .
+However , the precise molecular mechanism(s) by which hypoxia/HIF drives these events are not fully understood .
+Here , we show , for the first time , that hypoxia leads to increased expression of VEGF , IL-6 , and CSC signature genes Nanog , Oct4 and EZH2 consistent with increased cell migration/invasion and angiogenesis , and the formation of pancreatospheres , concomitant with increased expression of miR-21 and miR-210 in human pancreatic cancer ( PC ) cells .
+The treatment of PC cells with CDF , a novel synthetic compound inhibited the production of VEGF and IL-6 , and down-regulated the expression of Nanog , Oct4 , EZH2 mRNAs , as well as miR-21 and miR-210 under hypoxia .
+CDF also led to decreased cell migration/invasion , angiogenesis , and formation of pancreatospheres under hypoxia .
+Moreover , CDF decreased gene expression of miR-21 , miR-210 , IL-6 , HIF-1α , VEGF , and CSC signatures in vivo in a mouse orthotopic model of human PC .
+Collectively , these results suggest that the anti-tumor activity of CDF is in part mediated through deregulation of tumor hypoxic pathways , and thus CDF could become a novel , and effective anti-tumor agent for PC therapy .

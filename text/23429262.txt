@@ -1,0 +1,9 @@
+Disruption of contact inhibition and serum afflux that occur after a tissue injury activate cell cycle , which then stops when confluence is reached again .
+Although the events involved in cell cycle entry have been widely documented , those managing cell cycle exit have remained so far ill defined .
+We have identified that the final stage of wound closure is preceded in keratinocytes by a strong accumulation of miR-483-3p , which acts as a mandatory signal triggering cell cycle arrest when confluence is reached .
+Blocking miR-483-3p accumulation strongly delays cell cycle exit , maintains cells into a proliferative state and retards their differentiation program .
+Using two models of cell cycle synchronization ( i.e. mechanical injury and serum addition ) , we show that an ectopic upregulation of miR-483-3p blocks cell cycle progression in early G1 phase .
+This arrest results from a direct targeting of the CDC25A phosphatase by miR-483-3p , which can be impeded using an anti-miRNA against miR-483-3p or a protector that blocks the complex formation between miR-483-3p and the 3'-untranslated region ( UTR ) of CDC25A transcript .
+We show that the miRNA-induced silencing of CDC25A increases the tyrosine phosphorylation status of CDK4/6 cyclin-dependent kinases which , in turn , abolishes CDK4/6 capacity to associate with D-type cyclins .
+This prevents CDK4/6 kinases ' activation , impairs downstream events such as cyclin E stimulation and sequesters cells in early G1 .
+We propose this new regulatory process of cyclin-CDK association as a general mechanism coupling miRNA-mediated CDC25A invalidation to CDK post-transcriptional modifications and cell cycle control .

@@ -1,0 +1,12 @@
+Energy deregulation and abnormalities of tumor cell metabolism are critical issues in understanding cancer .
+Hereditary leiomyomatosis renal cell carcinoma ( HLRCC ) is an aggressive form of RCC characterized by germline mutation of the Krebs cycle enzyme fumarate hydratase ( FH ) , and one known to be highly metastatic and unusually lethal .
+There is considerable utility in establishing preclinical cell and xenograft models for study of disorders of energy metabolism , as well as in development of new therapeutic approaches targeting of tricarboxylic acid ( TCA ) cycle enzyme-deficient human cancers .
+Here we describe a new immortalized cell line , UOK 262 , derived from a patient having aggressive HLRCC-associated recurring kidney cancer .
+We investigated gene expression , chromosome profiles , efflux bioenergetic analysis , mitochondrial ultrastructure , FH catabolic activity , invasiveness , and optimal glucose requirements for in vitro growth .
+UOK 262 cells have an isochromosome 1q recurring chromosome abnormality , i(1)(q10) , and exhibit compromised oxidative phosphorylation and in vitro dependence on anaerobic glycolysis consistent with the clinical manifestation of HLRCC .
+The cells also display glucose-dependent growth , an elevated rate of lactate efflux , and overexpression of the glucose transporter GLUT1 and of lactate dehydrogenase A ( LDHA ) .
+Mutant FH protein was present primarily in edematous mitochondria , but with catalytic activity nearly undetectable .
+UOK 262 xenografts retain the characteristics of HLRCC histopathology .
+Our findings indicate that the severe compromise of oxidative phosphorylation and rapid glycolytic flux in UOK 262 are an essential feature of this TCA cycle enzyme-deficient form of kidney cancer .
+This tumor model is the embodiment of the Warburg effect .
+UOK 262 provides a unique in vitro and in vivo preclinical model for studying the bioenergetics of the Warburg effect in human cancer .

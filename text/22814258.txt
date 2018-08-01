@@ -1,0 +1,12 @@
+BACKGROUND It has been proven that metastasis-associated in colon cancer 1 ( MACC1 ) is a new gene that is related to the invasion and metastasis of tumors .
+MACC1 also regulates c-met expression .
+The aim of this study is to explore the expressions of MACC1 and hepatocyte growth factor receptor ( c-met ) , and its relationship with invasion , metastasis , and prognosis of non-small cell lung cancer ( NSCLC ) .
+METHODS MACC1 and c-met expressions were detected in 103 cases of NSCLC and 40 cases of neighboring normal lung cancer tissue using immunohistochemistry .
+RESULTS MACC1 and c-met expressions were significantly higher in lung cancer tissues than that in neighboring normal tissue ( P<0.001 ) .
+MACC1 and c-met expressions were associated with poor differentiation , advanced T stages , lymph node metastasis , and advanced TNM stages ( P<0.05 ) of NSCLC , but not with sex , age , smoking , and histological classification ( P>0.05 ) .
+In addition , a positive correlation between MACC1 and c-met expressions was observed ( r=0.403 , P<0.001 ) .
+The result from the Kaplan-Meier survival analysis showed that the five-year survival rate in patients with positive MACC1 and c-met expressions was remarkanly lower than that in patients with negative expressions ( P<0.05 ) .
+The result from the Cox regression analysis showed that MACC1 expression was an independent prognostic factor for NSCLC ( P=0.026 ) .
+CONCLUSIONS MACC1 and c-met have an important function in the differentiation , invasion , and metastasis of NSCLC .
+MACC1 and c-met have poor prognosis in patients with NSCLC .
+Moreover , MACC1 expression is an independent prognostic factor for NSCLC .

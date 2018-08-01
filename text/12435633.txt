@@ -1,0 +1,9 @@
+A large number of human cancers display alterations in the Ink4a/cyclin D/Cdk4 genetic pathway , suggesting that activation of Cdk4 plays an important role in oncogenesis .
+Here we report that Cdk4-null mouse embryonic fibroblasts are resistant to transformation in response to Ras activation with dominant-negative ( DN ) p53 expression or in the Ink4a/Arf-null background , judged by foci formation , anchorage-independent growth , and tumorigenesis in athymic mice .
+Cdk4-null fibroblasts proliferate at normal rates during early passages .
+Whereas Cdk4(+/+)Ink4a/Arf(-/-) cells are immortal in culture , Cdk4(-/-)Ink4a/Arf(-/-) cells undergo senescence during continuous culture , as do wild-type cells .
+Activated Ras also induces premature senescence in Cdk4(-/-)Ink4a/Arf(-/-) cells and Cdk4(-/-) cells with DNp53 expression .
+Thus , Cdk4 deficiency causes senescence in a unique Arf/p53-independent manner , which accounts for the loss of transformation potential .
+Cdk4-null cells express high levels of p21(Cip1/Waf1) with increased protein stability .
+Suppression of p21(Cip1/Waf1) by small interfering RNA ( siRNA ) , as well as expression of HPV-E7 oncoprotein , restores immortalization and Ras-mediated transformation in Cdk4(-/-)Ink4a/Arf(-/-) cells and Cdk4(-/-) cells with DNp53 expression .
+Therefore , Cdk4 is essential for immortalization , and suppression of Cdk4 could be a prospective strategy to recruit cells with inactive Arf/p53 pathway to senescence .

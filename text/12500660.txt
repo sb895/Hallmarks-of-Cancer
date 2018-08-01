@@ -1,0 +1,6 @@
+OBJECTIVE To design and develop a novel , sensitive and versatile method for in vivo foot printing and studies of DNA damage , such as DNA adducts and strand breaks .
+METHODS Starting with mammalian genomic DNA , single-stranded products were made by repeated primer extension , these products were ligated to a double-stranded linker having a randomized 3 ' overhang , and used for PCR .
+DNA breaks in p53 gene produced by restriction endonuclease AfaI were detected by using this new method followed by Southern hybridization with DIG-labeled probe .
+RESULTS This randomized terminal linker-dependent PCR ( RDPCR ) method could generate band signals many-fold stronger than conventional ligation-mediated PCR ( LMPCR ) , and it was more rapid , convenient and accurate than the terminal transferase-dependent PCR ( TDPCR ) .
+CONCLUSION DNA strand breakage can be detected sensitively in the gene level by RDPCR .
+Any lesion that blocks primer extension should be detectable .

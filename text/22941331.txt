@@ -1,0 +1,10 @@
+The cadherins are a family of cell surface glycoproteins responsible for cell adhesion which play an important role in cell morphology , contact inhibition and signal transduction during tumorigenesis .
+Protocadherin 8 ( PCDH8 ) , a member of the cadherin family , has been reported to act as a tumor suppressor involved in oncogenesis in breast cancer .
+In this study , we aimed to investigate the epigenetic inactivation of PCDH8 and its tumor suppressor function in gastric cancer .
+The expression of PCDH8 was markedly reduced or silenced in gastric cancer cell lines compared with normal gastric cells or tissues .
+Methylation of the PCDH8 gene promoter was observed in 100% ( 4/4 ) of cell lines and 55.38% ( 36/65 ) of the primary gastric cancer by methylation-specific PCR , but not in normal gastric mucosa ( 0/10 ) .
+Methylated PCDH8 was significantly associated with lymph node metastasis in a logistic regression analysis .
+The demethylation reagent 5-aza-2'-deoxycytidine was able to restore or upregulate PCDH8 expression in gastric cancer cell lines .
+Ectopic expression of PCDH8 in silenced gastric cancer cells significantly inhibited cell migration and induced apoptosis .
+For the first time , our study demonstrates the epigenetic inactivation of PCDH8 by promoter methylation and its tumor suppressor function in human gastric cancer .
+Thus , PCDH8 could be identified as a candidate tumor suppressor in human gastric cancer .

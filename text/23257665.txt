@@ -1,0 +1,14 @@
+Acute leukemia is a disorder of the hematopoietic system characterized by the expansion of a clonal population of cells blocked from differentiating into mature cells .
+Recent studies have shown that chalcones and their derivatives induce apoptosis in different cell lines .
+Since new compounds with biological activity are needed , the aim of this study was to evaluate the cytotoxic effect of three synthetic chalcones , derived from 1-naphthaldehyde and 2-naphthaldehyde , on human acute myeloid leukemia K562 cells and on human acute lymphoblastic leukemia Jurkat cells .
+Based on the results , the most cytotoxic compound ( A1 ) was chosen for further analysis in six human acute leukemia cells and in a human colon adenocarcinoma cell line ( HT-29 ) .
+Chalcone A1 significantly reduced the cell viability of K562 , Jurkat , Kasumi , U937 , CEM and NB4 cells in a concentration and time-dependent manner when compared with the control group ( IC(50) values between ∼1.5μM and 40μM ) .
+It was also cytotoxic to HL-29 cells .
+To further examine its effect on normal cells , peripheral blood lymphocytes collected from healthy volunteers were incubated with the compound .
+It has also been incubated with human fibroblasts cultured from bone marrow ( JMA ) .
+Chalcone A1 is non-cytotoxic to PBL cells and to JMA cells .
+A1 caused significant cell cycle arrest in all phases according to the cell line , and increased the proportion of cells in the sub G0/G1 phase .
+To evaluate whether this chalcone induced cell death via an apoptotic or necrotic pathway , cell morphology was examined using fluorescence microscopy .
+Cells treated with A1 at IC(50) demonstrated the morphological characteristic of apoptosis , such as chromatin condensation and formation of apoptotic bodies .
+Apoptosis was confirmed by externalization of phosphatidylserine , which was detected by the Annexin V-FITC method , and by DNA fragmentation .
+The results suggest that chalcone A1 has potential as a new lead compound for cancer therapy .

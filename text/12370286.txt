@@ -1,0 +1,8 @@
+Human fibroblasts undergo cellular senescence after a finite number of divisions , in response to the erosion of telomeres .
+In addition to being terminally arrested in the cell cycle , senescent fibroblasts express genes that are normally induced upon wounding , including genes that remodel the extracellular matrix .
+We have identified the novel zinc finger protein APA-1 , whose expression increased in senescent human fibroblasts independent of telomere shortening .
+Extended passage , telomerase-immortalized fibroblasts had increased levels of APA-1 as well as the cyclin-dependent kinase inhibitor p16 .
+In fibroblasts , APA-1 was modified by the ubiquitin-like protein SUMO-1 , which increased APA-1 half-life , possibly by blocking ubiquitin-mediated degradation .
+Overexpression of APA-1 did not cause cell cycle arrest ; but , it induced transcription of the extracellular matrix-remodeling genes MMP1 and PAI2 , which are associated with fibroblast senescence .
+MMP1 and PAI2 transcript levels also increased in telomerase-immortalized fibroblasts that had high levels of APA-1 , demonstrating that the matrix-remodeling phenotype of senescent fibroblasts was not induced by telomere attrition alone .
+APA-1 was able to transactivate and bind to the MMP1 promoter , suggesting that APA-1 is a transcription factor that regulates expression of matrix-remodeling genes during fibroblast senescence .

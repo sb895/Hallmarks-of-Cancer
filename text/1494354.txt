@@ -1,0 +1,10 @@
+Psoralen photoreaction with DNA produces interstrand crosslinks , which require the activity of excision and recombinational pathways for repair .
+Yeast replicating plasmids , carrying the HIS3 , TRP1 , and URA3 genes , were photoreacted with psoralen in vitro and transfected into Saccharomyces cerevisiae cells .
+Repair was assayed as the relative transformation efficiency .
+A recombination-deficient rad52 strain was the least efficient in the repair of psoralen-damaged plasmids ; excision repair-deficient rad1 and rad3 strains had repair efficiencies intermediate between those of rad52 and RAD cells .
+The level of repair also depended on the conditions of transformant selection ; repair was more efficient in medium lacking tryptophan than in medium from which either histidine or uracil was omitted .
+The plasmid repair differential between these selective media was greatest in rad1 cells , and depended on RAD52 .
+Plasmid-chromosome recombination was stimulated by psoralen damage , and required RAD52 function .
+Chromosome to plasmid gene conversion was seen most frequently at the HIS3 locus .
+In RAD and rad3 cells , the majority of the conversions were associated with plasmid integration , while in rad1 cells most were non-crossover events .
+Plasmid to chromosome gene conversion was observed most frequently at the TRP1 locus , and was accompanied by plasmid loss .

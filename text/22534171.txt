@@ -1,0 +1,17 @@
+BACKGROUND Tissue factor ( TF ) , an initiator of blood coagulation , participates in cancer progression and metastasis .
+We recently found that inhibition of MAPK/ERK upregulated both full length TF ( flTF ) and soluble isoform TF ( asTF ) gene expression and cell-associated TF activity in breast cancer MDA-MB-231 cells .
+We explored the possible mechanisms , especially the possible interaction with EGFR and PI3K/Akt pathways .
+METHODS A plasmid containing TF promoter -2174  plus luciferase reporter gene was introduced into MDA-MB-231 cells to evaluate TF promoter activity .
+In order to study the interaction of these pathways , ERK inhibitor ( PD98059 ) , PI3K inhibitors ( LY294002 , wortmannin ) , Akt inhibitor ( A6730 ) , and EGFR inhibitor ( erlotinib ) as well as the corresponding siRNAs were used to treat MDA-MB-231 cells , and ovarian cancer OVCAR-3 and SKOV-3 cells .
+Quantitative PCR and western blot were used to determine TF expression .
+One stage clotting assays were used to measure pro-coagulation activity of the MDA-MB-231 cells .
+RESULTS We show that PI3K inhibitors LY294002 , wortmannin and A6730 significantly inhibited TF promoter activity , and reduced TF mRNA and protein levels due to the inhibition of Akt phosphorylation .
+In contrast , ERK inhibitor PD98059 and ERK siRNA enhanced TF promoter activity by 2.5 fold and induced an increase in TF mRNA and protein levels in a dose dependent manner in these cells .
+The PI3K/Akt pathway was shown to be involved in PD98059-induced TF expression because the induction was inhibited by PI3K/Akt inhibitors .
+Most interestingly , the EGFR inhibitor erlotinib and EGFR siRNA also significantly suppressed PD98059- or ERK siRNA-induced TF promoter activity and TF protein expression .
+Similar results were found with ovarian cancer cells SKOV-3 and OVCAR-3 .
+Furthermore , in MDA-MB-231 , mRNA levels of asTF were regulated in a similar way to that of TF in response to the cell treatment .
+CONCLUSIONS This study showed a regulatory mechanism in which MAPK/ERK signals inhibit EGFR/PI3K/Akt-mediated TF expression in breast cancer MDA-MB-231 cells .
+The same regulation was observed in ovarian cancer OVCAR-3 and SKOV-3 cells .
+Interestingly , we observed that both flTF and asTF could be regulated in a parallel manner in MDA-MB-231 .
+As the PI3K/Akt pathway and EGFR regulate TF expression in cancer cells , targeting these signaling components is expected to potentially inhibit TF expression-associated tumor progression .

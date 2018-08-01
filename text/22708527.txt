@@ -1,0 +1,8 @@
+In previous work , three suppressors of defective group I introns ( 7151 , 71N1 , 7120 ) were isolated from a mutant of Chlamydomonas reinhardtii that had a splicing-deficient chloroplast large subunit ( LSU ) rRNA intron .
+Genetic analysis indicated that the 7151 and 71N1 suppressor mutations each involved single nuclear loci , and that the 7151 mutation was dominant .
+Here we present genetic evidence that the 7120 suppressor also involves a single nuclear locus and that the mutation is dominant in vegetative diploids .
+Moreover , we have employed crosses with the S1D2 strain and molecular markers to map the 7120 and 71N1 suppressors .
+Based on an analysis of 800 progeny from 7120 × S1D2 , the 7120 suppressor is located in a region of kb on chromosome III that is devoid of recombination .
+The region contains at least 72 genes , about one-third of which ( i.e. , 22 ) are predicted to be organelle targeted .
+Similar analysis of 71N1 × S1D2 using 400 progeny also pointed to the recombination-deficient region of chromosome III , raising the possibility that these mutations could affect the same gene .
+These efforts lay the foundation for identifying the css ( chloroplast splicing suppressor ) gene(s) , which promotes splicing of multiple chloroplast group I introns .

@@ -1,0 +1,8 @@
+BACKGROUND In this report , we explored the role of PKCalpha and PKCe as mediators of phorbol 12-myristate13-acetate ( PMA)-induced proliferation in pituitary tumor GH3B6 cells , and determined if the ERK1/2 and Akt pathways were activated .
+METHODS The GH3B6 cell proliferation was estimated by BrdU incorporation and the cell cycle progression by flow cytometric cell cycle analysis .
+We determined the expression of PKCalpha and PKCe in membrane and cytosolic fractions by western blotting .
+The subcellular redistribution of both PKC isozymes was analyzed by confocal microscopy .
+RESULTS Incubation with PMA for 15 min stimulated PKCalpha and PKCe activation , which was correlated with the phosphorylation of ERK1/2 but not Akt .
+The activation of both these PKC isozymes was closely associated with the stimulation of proliferation and the cell cycle progression induced by PMA in GH3B6 cells , an effect that was blocked by the inhibitors of PKCalpha ( Gö6976 ) and PKCe ( eV1-2 ) .
+In addition , the pretreatment with the inhibitor of ERK1/2 ( PD98059 ) prevented the mitogenic activity induced by treatment with PMA for 15 min .
+CONCLUSION We demonstrated that the activation of PKCalpha and PKCe by phorbol ester in tumor pituitary GH3B6 cells led to cell proliferation and cell cycle progression , effects that involved ERK1/2 activation .

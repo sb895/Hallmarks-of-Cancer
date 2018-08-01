@@ -1,0 +1,9 @@
+We have previously reported that stressed apoptotic tumor cells are more immunogenic in vivo than nonstressed ones .
+Using confocal microscopy we have confirmed our previous observation that heat-stressed apoptotic 12B1-D1 leukemia cells ( BCR-ABL(+) ) express HSP60 and HSP72 on their surface .
+To explore how the immune system distinguishes stressed from nonstressed apoptotic tumor cells , we analyzed the responses of dendritic cells to these 2 types of apoptotic cells .
+We found that nonstressed and heat-stressed apoptotic 12B1-D1 cells were taken up by dendritic cells in a comparable fashion .
+However , when stressed apoptotic 12B1-D1 cells were coincubated with immature dendritic cells for 24 hours , this resulted in greater up-regulation of costimulatory molecules ( CD40 , CD80 , and CD86 ) on the surface of dendritic cells .
+Moreover , stressed apoptotic 12B1-D1 cells were more effective in stimulating dendritic cells to secrete interleukin-12 ( IL-12 ) and in enhancing their immunostimulatory functions in mixed leukocyte reactions .
+Furthermore , we demonstrated that immunization of mice with stressed apoptotic 12B1-D1 cells induced the secretion of T helper-1 ( T(H)1 ) profile of cytokines by spleen cells .
+Splenocytes from mice immunized with stressed apoptotic cells , but not nonstressed ones , were capable of lysing 12B1-D1 and the parental 12B1 line , but not a B-cell leukemia line , A20 .
+Our data indicate that stressed apoptotic tumor cells are capable of providing the necessary danger signals , likely through increased surface expression of heat shock proteins ( HSPs ) , resulting in activation/maturation of dendritic cells and , ultimately , the generation of potent antitumor T-cell responses .

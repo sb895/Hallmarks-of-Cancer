@@ -1,0 +1,3 @@
+The chemotherapeutic drug cis-diamminedichloroplatinum ( II ) covalently binds to DNA resulting in a variety of adducts and cross-links which are thought to be responsible for the toxicity of the drug .
+We have used the gel mobility shift assay to detect proteins which bind to DNA treated in vitro with cis-diamminedichloroplatinum ( II ) and have identified two complexes which bind with increased affinity to cis-diamminedichloroplatinum ( II)-damaged DNA .
+Using monoclonal antibodies we have shown that one complex , B1 , contains human single-stranded DNA binding protein , a protein known to be involved in the in vitro repair synthesis assay of mammalian excision repair .

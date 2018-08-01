@@ -1,0 +1,6 @@
+The protein nanopore Mycobacteria smegmatis porin A ( MspA ) , can be used to sense individual nucleotides within DNA , potentially enabling a technique known as nanopore sequencing .
+In this technique , single-stranded DNA electrophoretically moves through the nanopore and results in an ionic current that is nucleotide-specific .
+However , with a high transport velocity of the DNA within the nanopore , the ionic current cannot be used to distinguish signals within noise .
+Through extensive ( \u03bcs in total ) all-atom molecular dynamics simulations , we examine the effect of positively charged residues on DNA translocation rate and the ionic current blockades in MspA .
+Simulation of several arginine mutations show a fold reduction of DNA translocation speed without eliminating the nucleotide induced current blockages .
+Comparison of our results with similar engineering efforts on a different nanopore ( \u03b1-hemolysin ) reveals a nontrivial effect of nanopore geometry on the ionic current blockades in mutant nanopores .

@@ -1,0 +1,8 @@
+Geraniol ( GOH ) , a naturally occurring monoterpene , has been shown to have antiproliferative , cell cycle arrest and apoptosis-inducing effects , and represents a promising cancer chemopreventive agent .
+In the present study , we investigated the chemopreventive potential of GOH ( 50 and 100 mg kg(-1) body weight ) against 7,12-dimethylbenz[a]anthracene ( DMBA)/12-O-tetradecanoylphorbol 13-acetate ( TPA)-mediated skin tumorigenesis in Swiss albino mice .
+The topical treatment of GOH , 30 min prior to TPA ( 2 µg per 200 µl of acetone ) treatment significantly inhibited TPA-induced skin edema , hyperplasia , COX-2 induction and oxidative stress response .
+The GOH treatment also resulted in reduction of TPA-induced ornithine decarboxylase activity and [ (3) H ] thymidine incorporation by 53% ( P < 0.001 ) and 41% ( P < 0.001 ) , respectively .
+We found that GOH treatment significantly inhibited the tumor incidence and number of tumors ( P < 0.001 ) and extended the latency period from 4 weeks in DMBA/TPA treatment group to 10 weeks in GOH-pretreated mice .
+Furthermore , we observed that GOH treatment significantly suppressed the Ras/Raf/ERK1/2 signaling pathway in skin tumor .
+Consistently , GOH-treated skin tumors showed reduced expression of Bcl-2 and increased expression of Bax in these lesions .
+Thus , it was concluded that GOH inhibits DMBA/TPA-mediated skin tumorigenesis by attenuating the Ras proliferation pathway and inducing pro-apoptotic state via inhibition of oxidative stress response and inflammation .

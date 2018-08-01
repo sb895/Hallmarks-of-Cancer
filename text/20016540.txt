@@ -1,0 +1,10 @@
+A fully intact immune system would be expected to hinder the efficacy of oncolytic virotherapy by inhibiting viral replication .
+Simultaneously , however , it may also enhance antitumor therapy through initiation of proinflammatory , antiviral cytokine responses at the tumor site .
+The aim of this study was to investigate the role of a fully intact immune system on the antitumor efficacy of an oncolytic virus .
+In this respect , injection of oncolytic vesicular stomatitis virus ( VSV ) into subcutaneous B16ova melanomas in C57Bl/6 mice leads to tumor regression , but it is not associated with viral replicative burst in the tumor .
+In contrast , intratumoral delivery of VSV induces an acute proinflammatory reaction , which quickly resolves concomitantly with virus clearance .
+Consistent with the hypothesis that therapy may not be dependent on the ability of VSV to undergo progressive rounds of replication , a single-cycle VSV is equally effective as a fully replication-competent VSV , whereas inactivated viruses do not generate therapy .
+Even though therapy is dependent on host CD8+ and natural killer cells , these effects are not associated with interferon-gamma-dependent responses against either the virus or tumor .
+There is , however , a strong correlation between viral gene expression , induction of proinflammatory reaction in the tumor and in vivo therapy .
+Overall , our results suggest that acute innate antiviral immune response , which rapidly clears VSV from B16ova tumors , is associated with the therapy observed in this model .
+Therefore , the antiviral immune response to an oncolytic virus mediates an intricate balance between safety , restriction of oncolysis and , potentially , significant immune-mediated antitumor therapy .

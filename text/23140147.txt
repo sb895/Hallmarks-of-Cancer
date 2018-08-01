@@ -1,0 +1,10 @@
+OBJECT A considerable body of evidence indicates that inflammation and angiogenesis play a significant role in the development and progression of chronic subdural hematoma ( CSDH ) .
+While various experimental and clinical studies have implicated placental growth factor ( PlGF ) in the processes that underpin pathological angiogenesis , no study has thus far investigated its expression in CSDH .
+The actions of PlGF and its related proangiogenic vascular endothelial growth factor ( VEGF ) are antagonized by a high-affinity soluble receptor , namely soluble VEGF receptor-1 ( sVEGFR-1 ) , and thus the ratio between sVEGFR-1 and angiogenic factors provides an index of angiogenic capacity .
+METHODS In the present study , using an automated electrochemiluminescence assay , levels of PlGF and sVEGFR-1 were quantified in serum and hematoma fluid obtained in 16 patients with CSDH .
+RESULTS Levels of PlGF and sVEGFR-1 were significantly higher in hematoma fluid than in serum ( p < 0.0001 ) .
+In serum , levels of sVEGFR-1 were higher than those of PlGF ( p < 0.0001 ) , whereas in hematoma fluid this difference was not apparent .
+Furthermore , the ratio of sVEGFR-1 to PlGF was significantly lower in hematoma fluid than in serum ( p < 0.0001 ) .
+CONCLUSIONS Given previous evidence indicating a role for PlGF in promoting angiogenesis , inflammatory cell chemotaxis , and stimulation , as well as its ability to amplify VEGF-driven signaling under conditions favoring pathological angiogenesis , enhanced expression of PlGF in hematoma fluid suggests the involvement of this factor in the mechanisms of inflammation and angiogenesis in CSDH .
+Furthermore , a reduced ratio of sVEGFR-1 to PlGF in hematoma fluid is consistent with the proangiogenic capacity of CSDH .
+Future studies are warranted to clarify the precise role of PlGF and sVEGFR-1 in CSDH .

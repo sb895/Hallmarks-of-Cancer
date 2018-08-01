@@ -1,0 +1,9 @@
+The authors examined nutritional risk factors for prostate cancer among 9,559 participants in the Prostate Cancer Prevention Trial ( United States and Canada , 1994-2003 ) .
+The presence or absence of cancer was determined by prostate biopsy , which was recommended during the trial because of an elevated prostate-specific antigen level or an abnormal digital rectal examination and was offered to all men at the trial's end .
+Nutrient intake was assessed using a food frequency questionnaire and a structured supplement-use questionnaire .
+Cancer was detected in 1,703 men ; 127 cancers were high-grade ( Gleason score 8-10 ) .
+There were no associations of any nutrient or supplement with prostate cancer risk overall .
+Risk of high-grade cancer was associated with high intake of polyunsaturated fats ( quartile 4 vs. quartile 1 : odds ratio = 2.41 , 95% confidence interval ( CI ) : 1.33 , 4.38 ) .
+Dietary calcium was positively associated with low-grade cancer but inversely associated with high-grade cancer ( for quartile 4 vs. quartile 1 , odds ratios were 1.27 ( 95% CI : 1.02 , 1.57 ) and 0.43 ( 95% CI : 0.21 , 0.89 ) , respectively ) .
+Neither dietary nor supplemental intakes of nutrients often suggested for prostate cancer prevention , including lycopene , long-chain n-3 fatty acids , vitamin D , vitamin E , and selenium , were significantly associated with cancer risk .
+High intake of n-6 fatty acids , through their effects on inflammation and oxidative stress , may increase prostate cancer risk .

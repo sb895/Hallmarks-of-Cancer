@@ -1,0 +1,17 @@
+BACKGROUND Neuroblastoma ( NBL ) is a common pediatric solid tumor , and outcomes for patients with advanced neuroblastoma remain poor despite extremely aggressive treatment .
+Chemotherapy resistance at relapse contributes heavily to treatment failure .
+The poor survival of patients with high-risk NBL prompted this investigation into novel treatment options with the objective of gaining a better understanding of resistance mechanisms .
+On the basis of previous work and on data from publicly available studies , the authors hypothesized that human epidermal growth factor receptor 4 ( Her4 ) contributes to resistance .
+METHODS Her4 expression was reduced with small-hairpin RNA ( shRNA ) to over express intracellular HER4 , and the authors tested its impact on tumor cell survival under various culture conditions .
+The resulting changes in gene expression after HER4 knockdown were measured by using a messenger RNA ( mRNA ) array .
+RESULTS HER4 expression was up-regulated in tumor spheres compared with the expression in monolayer culture .
+With HER4 knockdown , NBL cells became less resistant to anoikis and serum starvation .
+Moreover , HER4 knockdown increased the chemosensitivity of NBL cells to cisplatin , doxorubicin , etoposide , and activated ifosfamide .
+In mRNA array analysis , HER4 knockdown predominately altered genes related to cell cycle regulation .
+In NBL spheres compared with monolayers , cell proliferation was decreased , and cyclin D expression was reduced .
+HER4 knockdown reversed cyclin D suppression .
+Overexpressed intracellular HER4 slowed the cell cycle and induced chemoresistance .
+CONCLUSIONS The current results indicated that HER4 protects NBL cells from multiple exogenous apoptotic stimuli , including anoikis , nutrient deficiency , and cytotoxic chemotherapy .
+The intracellular fragment of HER4 was sufficient to confer this phenotype .
+HER4 functions as a cell cycle suppressor , maintaining resistance to cellular stress .
+The current findings indicate that HER4 overexpression may be associated with refractory disease , and HER4 may be an important therapeutic target .

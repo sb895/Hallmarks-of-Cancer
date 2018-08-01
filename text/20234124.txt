@@ -1,0 +1,11 @@
+OBJECTIVES To investigate the effects of serotonin and melatonin ( MLT ) on the regulation of malignant growth and the activity of serotonin receptors ( 5HTR1a/-1b ) in prostate cancer ( PCa ) cell lines .
+MATERIALS AND METHODS In four PCa cell lines ( LNCaP , 22RV1 , PC3 , DU145 ) and two reference cell lines 5HTR1a and -1b , relative mRNA expression levels were assessed .
+Different serotonin and MLT receptor agonists and antagonists were used in stimulation and inhibition experiments .
+RESULTS mRNA expression of 5HTR1b was higher than that of 5HTR1a in all PCa cell lines .
+Serotonin showed a significant growth stimulatory effect in all PCa lines .
+The 5HTR1a and -1b agonists/antagonists did not significantly affect viability .
+MLT inhibited viability only in PC3 cells .
+Similarly , the 5HTR1a antagonist induced apoptotic changes in PC3 cells only at 10(-4)M , while the 5HTR1b antagonist induced necrosis at 10(-4)M in all cell lines .
+Cell cycle alterations were seen in PC3 and DU145 cells under the influence of the 5HTR1a antagonist .
+CONCLUSIONS Serotonin receptor antagonists and agonists as well as MLT influence viability and apoptosis of PCa cell lines at supraphysiologic concentrations .
+In contrast to other reports , our results do not support a regulatory role of serotonin or MLT receptor activation or inhibition in PCa growth .

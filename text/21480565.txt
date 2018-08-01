@@ -1,0 +1,8 @@
+Radiotherapy for head and neck tumors often results in persistent loss of function in salivary glands .
+Patients suffering from impaired salivary function frequently terminate treatment prematurely because of reduced quality of life caused by malnutrition and other debilitating side-effects .
+It has been previously shown in mice expressing a constitutively active form of Akt ( myr-Akt1 ) , or in mice pretreated with IGF1 , apoptosis is suppressed , which correlates with maintained salivary gland function measured by stimulated salivary flow .
+Induction of cell cycle arrest may be important for this protection by allowing cells time for DNA repair .
+We have observed increased accumulation of cells in G2/M at acute time-points after irradiation in parotid glands of mice receiving pretreatment with IGF1 .
+As p21 , a transcriptional target of the p53 family , is necessary for maintaining G2/M arrest , we analyzed the roles of p53 and p63 in modulating IGF1-stimulated p21 expression .
+Pretreatment with IGF1 reduces binding of ΔNp63 to the p21 promoter after irradiation , which coincides with increased p53 binding and sustained p21 transcription .
+Our data indicate a role for ΔNp63 in modulating p53-dependent gene expression and influencing whether a cell death or cell cycle arrest program is initiated .

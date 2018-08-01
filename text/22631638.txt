@@ -1,0 +1,9 @@
+OBJECTIVE Angiogenesis represents a key element in the pathogenesis of malignancy .
+There are no robust data on prognostic factors for overall survival ( OS ) in patients with metastatic colorectal cancer treated with vascular endothelial growth factor ( VEGF)-targeted therapy .
+The present study was conducted to establish a prognostic model for patients using an oxaliplatin-based or irinotecan-based chemotherapy plus bevacizumab in metastatic colorectal cancer .
+METHODS Baseline characteristics and outcomes on 170 patients treated with FOLFIRI or XELOX plus anti-VEGF therapy-naive metastatic colorectal cancer were collected from three Turkey cancer centers .
+Cox proportional hazards regression was used to identify independent prognostic factors for OS .
+RESULTS The median OS for the whole cohort was 19 months ( 95% CI , 14.3 to 23.6 months ) .
+Three of the seven adverse prognostic factors according to the Anatolian Society of Medical Oncology ( ASMO ) were independent predictors of short survival : serum lactate dehydrogenase ( LDH ) greater than the upper limit of normal ( ULN ; p<0.001 ) ; neutrophils greater than the ULN ( p<0.0014 ) ; and progression free survival ( PFS ) less than 6 months ( p =0.001 ) .
+CONCLUSION Serum LDH and neutrophil levels were the main prognostic factors in predicting survival , followed by PFS .
+This model validates incorporation of components of the ASMO model into patient care and clinical trials that use VEGF-targeting agents .

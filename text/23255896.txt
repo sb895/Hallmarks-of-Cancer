@@ -1,0 +1,11 @@
+Sorafenib is a multi-targeted agent and has been reported to have potent antitumor effects against various types of tumors , including human non-small cell lung cancer ( NSCLC ) .
+In this study , we explored in vitro the antitumor effects of sorafenib alone and in combination with gemcitabine in epidermal growth factor receptor-tyrosine kinase inhibitor ( EGFR-TKI)-resistant human lung cancer cell lines and the related molecular mechanisms .
+The NSCLC cell lines A549 ( mutant KRAS ) , H1666 ( mutant BRAF ) and H1975 ( mutant EGFR-T790M ) were treated with sorafenib and gemcitabine alone and in combination .
+The cytotoxicity was assessed by MTT assay , cell cycle distribution was analyzed by flow cytometry , and alterations in signaling pathways were analyzed by western blotting .
+We found that sorafenib exhibited dose-dependent growth inhibition in all three EGFR-TKI-resistant NSCLC cell lines .
+When sorafenib was combined with gemcitabine , synergistic activity was observed in the A549 and H1666 cells and antagonistic activity was observed in the H1975 cells .
+Sorafenib arrested the cell cycle at the G1 phase , whereas gemcitabine arrested the cell cycle at the S phase .
+Sorafenib inhibited C-RAF and p-ERK in the A549 cells and B-RAF and p-ERK in the H1666 and H1975 cells .
+The molecular mechanism of this synergism is that RAF/MEK/ERK which are activated by gemcitabine are efficiently suppressed by simultaneously administered sorafenib .
+By contrast , the mechanism of antagonism may be due to mutual interference with the cell cycle in the H1975 cells .
+In conclusion , we found that sorafenib exhibits antiproliferative effects in EGFR-TKI-resistant NSCLC cell lines and when combined with gemcitabine demonstrates synergistic activity in A549 and H1666 cells but antagonistic activity in H1975 cells .

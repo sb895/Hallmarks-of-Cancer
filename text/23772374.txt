@@ -1,0 +1,9 @@
+As a member of peroxiredoxin ( Prx ) family , PrxIII is predominantly located in mitochondria and plays an important role as a scavenger of reactive oxygen species ( ROS ) .
+Since previous reports demonstrated over-expression of PrxIII in cervical cancer , we conducted the present study to investigate the significance of PrxIII in cervical cancer development and/or progression .
+Cervical cancer cells were cultured from tissues derived from cervical cancer patients .
+After successful knockdown of PrxIII expression by small interfering RNA , we evaluated ROS level , viable cell number , and apoptosis of cervical cancer cells along with the culture time .
+The production of ROS was increased in cervical cancer cells as compared with normal cervical epithelia .
+Knockdown of PrxIII expression induced up-regulation of other Prx members including PrxI , PrxII , and PrxV .
+ROS level was higher in down-regulated cervical cancer cells than in controls and the difference was increasing with culture time .
+We also observed increased apoptosis and decreased viable cell number in down-regulated cervical cancer cells .
+Our results suggest that PrxIII is an indispensable ROS scavenger , which protects tumor cells against oxidative damage and subsequent apoptosis .

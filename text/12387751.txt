@@ -1,0 +1,10 @@
+2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) is the most potent tumor promoter ever tested in rodents .
+Although it is known that most of TCDD actions are mediated by binding to the aryl hydrocarbon receptor ( AhR ) , the mechanisms leading to tumor promotion still remain to be elucidated .
+Loss of contact inhibition is one characteristic hallmark in tumorigenesis .
+In rat liver epithelial WB-F344 cells , TCDD induces a release from contact inhibition , which is manifested by a twofold increase in cell number when TCDD ( 1 nM for 48 h ) is added to confluent cells in the presence of serum , but not when given to exponentially growing or subconfluent , serum-deprived WB-F344 cells .
+Loss of G1 arrest was also shown by flow cytometric analysis .
+We demonstrate that TCDD treatment significantly increases cyclin D2 and cyclin A protein levels and show by immunofluorescence that these proteins accumulate in the nucleus .
+Although TCDD treatment leads to a strong increase in cyclin D2/cdk4 and cyclin A/cdk2 complex formation , we could only detect an elevation of cyclin A/cdk2 activity .
+In accordance with a lack of elevated cdk4 activity , no decrease in the amount of hypophosphorylated retinoblastoma protein could be shown after TCDD treatment .
+The importance of increased cyclin A/cdk2 activity for TCDD-dependent release from contact inhibition was shown by the fact that the cdk2/cdc2-specific inhibitor olomoucine ( 25 microM ) abolished TCDD response .
+These data indicate cyclin A-dependent loss of G1 arrest after TCDD treatment mainly downstream of the retinoblastoma protein .

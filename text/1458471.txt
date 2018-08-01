@@ -1,0 +1,8 @@
+The growth-inhibitory effects of ketoconazole , an antifungal agent which inhibits arachidonic acid lipoxygenases and cytochrome P-450 enzymes , were tested in human colon and breast cancer cell lines .
+In the serum independent HT29-S-B6 colon cell clone , ketoconazole reduced cell proliferation and [ 3H]thymidine incorporation in a dose-dependent fashion , with a 50% inhibitory concentration of approximately 2.5 microM .
+Flow cytometry showed an accumulation of cells in the G0-G1 phase of the cell cycle and a concomitant decrease of the percentage of cells in S phase .
+Ketoconazole also inhibited [ 3H]thymidine incorporation in the hormone-independent breast cancer cells MDA-MB-231 and Evsa-T , with respective 50% inhibitory concentration of approximately 13 and 2 microM .
+The mechanism of action of ketoconazole is unknown .
+However , another lipoxygenase inhibitor , BW755C , inhibited only weakly [ 3H]-thymidine incorporation and accumulated the cells in S and G2 .
+Conversely , clotrimazole and SKF525A , inhibitors of cytochrome P-450 enzymes , had effects similar to those of ketoconazole on HT29-S-B6 cells whereas metronidazole and secnidazole , other azole derivatives which do not inhibit cytochrome P-450 enzymes , had no effect .
+The results suggest that cytochrome P-450 enzyme(s) activity(ies) could be implicated in the antiproliferative effects of ketoconazole .

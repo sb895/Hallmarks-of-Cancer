@@ -1,0 +1,8 @@
+Exposure of cells to UV light from the sun causes the formation of pyrimidine dimers in DNA that have the potential to lead to mutation and cancer .
+In humans , pyrimidine dimers are removed from the genome in the form of nt-long oligomers by concerted dual incisions .
+Though nearly 50 y of excision repair research has uncovered many details of UV photoproduct damage recognition and removal , the fate of the excised oligonucleotides and , in particular , the ultimate fate of the chemically very stable pyrimidine dimers remain unknown .
+Physiologically relevant UV doses introduce hundreds of thousands of pyrimidine dimers in diploid human cells , which are excised from the genome within h .
+Once removed from the genome , " where do all the dimers go? "
+In a recent study we addressed this question .
+Although our study did not determine the fate of the dimer itself , it revealed that the excised is released from the duplex in a tight complex with the transcription/repair factor TFIIH .
+This finding combined with recent reports that base and oligonucleotide products of the base and double-strand break repair pathways also make stable complexes with the cognate repair enzymes , and that these complexes activate the MAP kinase and checkpoint signaling pathways , respectively , raises the possibility that TFIIH-30-mer excision complexes may play a role in signaling reactions in response to UV damage .

@@ -1,0 +1,8 @@
+In cancer cells , the aberrant conversion of pyruvate into lactate instead of acetyl-CoA in the presence of oxygen is known as the Warburg effect .
+The consequences and mechanisms of this metabolic peculiarity are incompletely understood .
+Here we report that p53 status is a key determinant of the Warburg effect .
+Wild-type p53 expression decreased levels of pyruvate dehydrogenase kinase-2 ( Pdk2 ) and the product of its activity , the inactive form of the pyruvate dehydrogenase complex ( P-Pdc ) , both of which are key regulators of pyruvate metabolism .
+Decreased levels of Pdk2 and P-Pdc in turn promoted conversion of pyruvate into acetyl-CoA instead of lactate .
+Thus , wild-type p53 limited lactate production in cancer cells unless Pdk2 could be elevated .
+Together , our results established that wild-type p53 prevents manifestation of the Warburg effect by controlling Pdk2 .
+These findings elucidate a new mechanism by which p53 suppresses tumorigenesis acting at the level of cancer cell metabolism .

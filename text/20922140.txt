@@ -1,0 +1,8 @@
+OBJECTIVE The goal of this study was to investigate the relationship between plasma levels of insulin-like growth factors-1 ( IGF-1 ) and IGF-binding protein-3 ( IGFBP-3 ) and the risk for cervical intraepithelial neoplasia ( CIN ) and cervical cancer .
+METHODS Plasma levels of IGF-1 and IGFBP-3 of 44 cervical cancer patients , 82 CIN patients and 40 neoplasm-free patients were investigated .
+Then the associations of the plasma levels of IGF-1 and IGFBP-3 with cervical neoplasm or its clinicopathologic parameters were analyzed .
+RESULTS The mean IGF-1 concentrations were significantly different among the control , CIN , and cervical cancer groups ; the levels were higher in the CIN group compared to the controls .
+According to the quartile category , the plasma IGF-1 level was significantly higher ( p=0.0015 ) in the CIN group than in the controls .
+The IGFBP-3 level showed no association between the controls and CIN groups ( p=0.842 ) .
+Although the mean IGF-1/IGFBP-3 molar ratio had borderline significance ( p=0.08 ) among the study population , the quartile comparison showed a significantly higher IGF-1/IGFBP-3 molar ratio in the CIN group compared to the control group ( p=0.041 ) .
+CONCLUSION Plasma levels of IGF-1 and the IGF-1/IGFBP-3 molar ratio might be useful for the development early detection of cervical lesions and used as an adjuvant diagnostic tool for cervical neoplasia after more larger scale research .

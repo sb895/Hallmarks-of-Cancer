@@ -1,0 +1,8 @@
+Family with sequence similarity 189 , member B ( FAM189B ) , alias COTE1 , a putative oncogene selected by microarray , for the first time was here found to be significantly up-regulated in hepatocellular carcinoma ( HCC ) specimens and HCC cell lines. mRNA expression of COTE1 in HCC samples and cell lines was detected by reverse transcription-polymerase chain reaction ( RT-PCR ) and real-time PCR , while protein expression of COTE1 in HCC tissues was assessed by immunohistochemistry .
+In addition , invasion of HCC cells was observed after overexpressing or silencing COTE1 .
+In the total of 48 paired HCC specimens , compared with the adjacent non-cancer tissues , the expression of COTE1 was up-regulated in 31 ( p<0.01 ) .
+In HCC cell lines , COTE1 expression was significantly higher than in normal human adult liver ( p<0.01 ) .
+Overexpression of COTE1 enhanced HCC-derived LM6 and MHCC-L cellular invasion in vitro .
+In contrast , COTE1 knockdown via RNAi markedly suppressed these phenotypes , as documented in LM3 and MHCC-H HCC cells .
+Mechanistic analyses indicated that COTE1 could physically associate with WW domain oxidoreductase ( WWOX ) , a tumor suppressor .
+COTE1 may be closely correlated with invasion of hepatocellular carcinoma ( HCC ) cells and thus may serve as an effective target for gene therapy .

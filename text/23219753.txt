@@ -1,0 +1,11 @@
+The functions of Rap-1A in oral carcinogenesis are largely unexplored .
+In this study , we examined the expression of Rap-1A at different malignant stages of oral cavity squamous cell carcinoma ( OCSCC ) .
+Semiquantitative RT-PCR , quantitative RT-PCR , and Western blotting were used to evaluate Rap-1A mRNA and protein expressions , respectively , in paired OCSCC patient specimens .
+To determine the possible correlation between Rap-1A expression and various clinical characteristics , 256 samples from patients with OCSCC were evaluated by immunohistochemical staining .
+Strong Rap-1A expression was a significant prognostic marker and predictor of aggressive OCSCC .
+The overall and disease-specific 5-year survival rates were significantly correlated with strong expression of Rap-1A ( P < 0.001 ) .
+Functionally , overexpressed Rap-1A could promote oral cancer cell migration and invasion by Transwell chambers and wound healing assay .
+Conversely , the suppression of Rap-1A expression using Rap-1A-mediated siRNA was sufficient to decrease cell motility .
+Furthermore , our data also illustrated that Aurora-A could not only induce mRNA and protein expressions of Rap-1A for enhancing cancer cell motility but also co-localize and form a complex with Rap-1A in the oral cancer cell line .
+Finally , immunohistochemical staining , indirect immunofluorescence , and Western blotting analysis of human aggressive OCSCC specimens revealed a significantly positive correlation between Rap-1A and Aurora-A expression .
+Taken together , our results suggest that the Aurora-A/Rap-1A pathway is associated with survival , tumor progression , and metastasis of OCSCC patients .

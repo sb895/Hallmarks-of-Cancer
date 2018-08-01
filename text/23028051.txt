@@ -1,0 +1,13 @@
+The complement system contributes to various immune and inflammatory diseases , including cancer .
+In this study , we investigated the capacity of lung cancer cells to activate complement and characterized the consequences of complement activation on tumor progression .
+We focused our study on the production and role of the anaphylatoxin C5a , a potent immune mediator generated after complement activation .
+We first measured the capacity of lung cancer cell lines to deposit C5 and release C5a .
+C5 deposition , after incubation with normal human serum , was higher in lung cancer cell lines than in nonmalignant bronchial epithelial cells .
+Notably , lung malignant cells produced complement C5a even in the absence of serum .
+We also found a significant increase of C5a in plasma from patients with non-small cell lung cancer , suggesting that the local production of C5a is followed by its systemic diffusion .
+The contribution of C5a to lung cancer growth in vivo was evaluated in the Lewis lung cancer model .
+Syngeneic tumors of 3LL cells grew slower in mice treated with an antagonist of the C5a receptor .
+C5a did not modify 3LL cell proliferation in vitro but induced endothelial cell chemotaxis and blood-vessels formation .
+C5a also contributed to the immunosuppressive microenvironment required for tumor growth .
+In particular , blockade of C5a receptor significantly reduced myeloid-derived suppressor cells and immunomodulators ARG1 , CTLA-4 , IL-6 , IL-10 , LAG3 , and PDL1 ( B7H1 ) .
+In conclusion , lung cancer cells have the capacity to generate C5a , a molecule that creates a favorable tumor microenvironment for lung cancer progression .

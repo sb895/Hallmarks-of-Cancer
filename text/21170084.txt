@@ -1,0 +1,10 @@
+The polycomb group family protein BMI-1 is overexpressed by and functions as an oncogene in many different human cancers .
+We have previously shown that BMI-1 promotes the tumorigenicity of Ewing sarcoma family tumors ( ESFTs ) and that this is mediated independently of CDKN2A repression .
+In this study , we have discovered that high levels of BMI-1 confer resistance to contact inhibition in ESFT cells .
+Using stable retroviral transduction , we evaluated the consequences of BMI-1 knockdown on the growth of CDKN2A wild-type and mutant ESFT cells in subconfluent and confluent conditions .
+Although knockdown of BMI-1 had no effect on proliferation in low-density cultures , at high cell densities it resulted in cell cycle arrest and death .
+The normal cell contact inhibition response is mediated , in large part , by the recently described Hippo pathway which functions to inhibit cell proliferation and promote cell death by inactivating the Yes-Associated Protein ( YAP ) .
+Significantly , we found that YAP levels , activity and expression did not diminish in confluent ESFT cells that expressed high levels of BMI-1 .
+In contrast , YAP expression and nuclear localization were reduced in confluent BMI-1 knockdown cells suggesting that silencing of BMI-1 restored contact inhibition by restoring normal activation of the Hippo-YAP growth-suppressor pathway .
+Importantly , knockdown of YAP in ESFT cells resulted in profound inhibition of cell proliferation and anchorage-independent colony formation suggesting that stabilization and continued expression of YAP is critical for ESFT growth and tumorigenicity .
+Together , these studies reveal a previously unrecognized link between BMI-1 , contact inhibition and the Hippo-YAP pathway and suggest that resistance to contact inhibition in BMI-1 overexpressing cancer cells may be in part a result of Hippo inhibition and aberrant stabilization of YAP .

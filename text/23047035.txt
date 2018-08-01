@@ -1,0 +1,7 @@
+Human podoplanin is a type-1 transmembrane sialomucin-like glycoprotein that is involved in cell migration , tumor cell invasion and metastasis .
+Our recent study of oral squamous cell carcinoma ( OSCC ) demonstrated that the degree of immunohistochemical expression of podoplanin was correlated with the severity of epithelial dysplasia and significantly associated with a poor pathologic grade of differentiation .
+Furthermore , it has been reported that Src directly associates with the epidermal growth factor receptor ( EGFR ) in OSCC cells upon stimulation with EGF and phosphorylates Crk-associated substrate ( Cas ) , podoplanin acting downstream of Src and Cas to promote cell migration .
+However , the molecular function of podoplanin remains unclear .
+In this study we performed real-time RT-PCR , Western blotting and scratch assay using OSCC cell lines in order to clarify the molecular biological function of podoplanin expression associated with various growth factors including EGF and with the Src-Cas signaling pathway .
+Podoplanin was found to have a marked influence on cancer cell migration and the expression of matrix metalloprotease-9 ( MMP-9 ) in the oral cavity upon stimulation with EGF .
+Podoplanin promotes oral cancer cell migration , and the EGF-Src-Cas pathway is one of the possible mechanisms responsible for progression of cancer in the oral cavity .

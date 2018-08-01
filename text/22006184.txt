@@ -1,0 +1,10 @@
+Breast cancers amplified for the tyrosine kinase receptor Her-2/neu constitute of advanced breast cancer cases , and are characterized by hormone independence and aggressive growth , implicating this pathway in breast oncogenesis .
+The induction of Her-2/neu leads to tumor development in 60% of transgenic mice .
+We have previously examined the effects of estrogen in the MMTV-Her-2/neu background by generating the MMTV-Her-2/neu x aromatase double transgenic mouse strain .
+MMTV-Her-2/neu x aromatase mice developed fewer mammary tumors than the Her-2/neu parental strain .
+Our present data show the induction of several estrogen-related genes , including the tumor suppressors BRCA1 and p53 , and a decrease in several angiogenic factors .
+The phosphorylated forms of MAPK p42/44 and AKT were lower in the MMTV-Her-2/neu x aromatase double transgenic mice compared to the MMTV-Her-2/neu parental strain ; conversely , phospho-p38 levels were higher in the double transgenic strain .
+The ERβ-selective antagonist THC reversed these changes .
+The regulation of these factors by ERβ was confirmed in clones of MCF7 breast cancer cells overexpressing Her-2/neu in combination with ERβ , suggesting that ERβ may play a direct role in regulating MAPK and AKT pathways .
+In summary , the data suggest that ERβ may play a major role in decreasing tumorigenesis and that it may affect breast cancer cell proliferation and survival by altering MAPK and AKT activation as well as modulation of tumor suppressor and angiogenesis factors .
+Treatment with selective ERβ agonist may provide therapeutic advantages for the treatment and prevention of breast cancer .

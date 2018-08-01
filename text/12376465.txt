@@ -1,0 +1,10 @@
+Nur77 is an orphan receptor .
+Although Nur77 affects cell proliferation and apoptosis through its capability of binding to a variety of response elements and regulating their transactivation activities , the intrinsic function of Nur77 is not yet fully understood ; in particular , its regulation of apoptosis and proliferation has been characterized as cell type-dependent and agent context-dependent .
+In this study , Nur77 can be seen to regulate apoptosis via its expression and translocation , rather than its transactivation activity in gastric cancer cells .
+Nur77 was constitutively expressed in BGC-823 cells .
+The tetradecanoylphorbol-1,3-acetate ( TPA ) treatment not only resulted in up-regulation of the Nur77 mRNA level , but also led to translocation of Nur77 protein from the nucleus to the mitochondria , and caused the release of cytochrome c .
+This TPA-induced translocation of Nur77 was in association with the initiation of apoptosis in gastric cancer cells .
+Although all-trans retinoic acid ( ATRA ) could not induce apoptosis in BGC-823 cells due to failure of stimulating Nur77 translocation , expression of Nur77 in the nucleus was required for cell growth inhibition by ATRA .
+Transfection of antisense Nur77 receptor into BGC-823 cells resulted in resistance of cell growth against ATRA inhibition , and the cells were still arrested in the S phase .
+Furthermore , the action of Nur77 in TPA-induced apoptosis was mediated through a protein kinase C signaling pathway , while mitogen-activated protein kinase and phosphatidylinositol 3-kinase signaling pathways were responsible for the regulation of Nur77 mRNA expression .
+Taken together , the data revealed the dual functioning mechanisms of Nur77 in gastric cancer cells in response to TPA and ATRA .

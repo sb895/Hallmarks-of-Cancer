@@ -1,0 +1,10 @@
+It has been shown that regulation of EGFR expression in prostate cancer cells is mostly at the transcriptional level. microRNA-133 ( miR-133 ) has long been recognized as a muscle-specific miRNA which may regulate myoblast differentiation and participate in many myogenic diseases .
+Recently , it has been reported that miR-133 is also involved in other tumors , such as bladder cancer , esophageal cancer and may regulate cell motility in these cancer cells .
+In the present study , we examined the expression and effects of miR-133 in two hormone-insensitive prostate cancer cell lines .
+The expression of miR-133a and miR-133b were analyzed by quantitative RT-PCR .
+After transfection of miR-133a and miR-133b , cell viability assay , luciferase assay , western blot analysis , cell migration and invasion assay were conducted in Du145 and PC3 cells .
+In this study , we showed that miR‑133a and miR-133b are expressed at the detection limit in two hormone-insensitive prostate cancer cell lines , PC3 and DU145 .
+Ectopic expression of miR-133 inhibited cell proliferation , migration and invasion in these cells .
+We also provide the first evidence that miR-133 may target EGFR .
+Our study provided the first glimpse of the functional role of miR-133 in two hormone-independent prostate cancer cell lines .
+These results may add to our knowledge on the molecular basis of prostate cancer progression .

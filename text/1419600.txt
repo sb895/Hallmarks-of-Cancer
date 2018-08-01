@@ -1,0 +1,8 @@
+A number of growth factors have been implicated in the control of the proliferation of breast cancer cells and some have been reported to mediate the proliferative effects of oestradiol .
+MCF-7 cells were treated with growth factors in the presence and absence of oestradiol .
+Oestradiol increased the response of cells to the proliferative effects of epidermal growth factor ( EGF ) , transforming growth factor alpha ( TGF-alpha ) and basic fibroblast growth factor ( bFGF ) .
+Platelet derived growth factor ( PDGF ) and cathepsin D had no effect in the presence or absence of oestradiol while TGF-beta slightly reduced the stimulation by oestradiol .
+In the absence of oestradiol , there was little effect of combinations of growth factors although the effects of bFGF and IGF-I were additive .
+In the presence of oestradiol , the effects of bFGF and TGF-alpha were additive whereas bFGF acted as an IGF-I antagonist .
+Overall , bFGF had the greatest effect on cell proliferation although this was less marked than the previously described effect of the IGFs and insulin .
+The effects of oestradiol on the sensitivity of cells to the proliferative effects of bFGF did not appear to result from regulation of bFGF receptor expression .

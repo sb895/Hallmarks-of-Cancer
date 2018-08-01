@@ -1,0 +1,9 @@
+Cellular senescence is a mechanism to inhibit the growth of mammalian cells after oncogenic activation , or in response to damage or stress .
+We describe here the identification of a novel gene , SENEX , that regulates stress induced premature senescence pathways in endothelial cells ( ECs ) involving p16(INK4a) and retinoblastoma protein activation .
+Endogenous levels of SENEX remain unchanged during replicative senescence but are regulated by H(2)O(2)-mediated stress .
+In contrast to that previously described for senescence in other cell types , the SENEX induced senescent ECs are profoundly anti-inflammatory .
+The cells are resistant to tumor necrosis factor ( TNF)α-induced apoptosis , adhesion of neutrophils and mononuclear cells , and the surface ( but not cytoplasmic ) expression of endothelial leukocyte adhesion molecule 1 and vascular cell adhesion molecule 1 .
+Furthermore they are resistant to thrombin induced vascular leak .
+Senescent ECs such as those lining atherosclerotic lesions may therefore function to limit the inflammatory response .
+SENEX is also essential for EC survival since depletion either ectopically by siRNA or by high- dose H(2)O(2) treatment causes apoptosis .
+Together , these findings expand our understanding of the role of senescence in the vasculature and identify SENEX as a fulcrum for driving the resultant phenotype of the endothelium after activation .

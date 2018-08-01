@@ -1,0 +1,6 @@
+Osteoblastic bone metastases are the most common metastases produced by human prostate cancers ( PCa ) .
+Deregulated activity of Wnt growth factors resulting from overexpression of the Wnt inhibitor Dickkopf-1 ( DKK-1 ) is known to contribute to formation of the osteoblastic component of PCa skeletal bone metastases .
+In this study , we report that DKK-1 knockdown in osteolytic human PCa cells unexpectedly delays the development of both soft tissue and osseous lesions .
+PCa cells deficient in DKK-1 expression did not increase canonical Wnt signaling in target osteoblast cell lines ; however , DKK-1 knockdown PCa cells exhibited increased expression of the CDK inhibitor p21(CIP1/WAF1) and a 32% increase in G(1) arrest compared with control cells .
+Ablating p21(CIP1/WAF1) in PCa cells deficient in DKK-1 was sufficient to rescue tumor growth .
+Collectively , our findings demonstrate that DKK-1 overexpression supports tumor growth in part by restricting expression of p21(CIP1/WAF1) through a mechanism independent of canonical Wnt signaling .

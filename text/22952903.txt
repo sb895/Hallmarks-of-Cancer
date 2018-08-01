@@ -1,0 +1,10 @@
+Activating K-RAS mutations occur at a frequency of 90% in pancreatic cancer , and to date no therapies exist targeting this oncogene .
+K-RAS signals via downstream effector pathways such as the MAPK and the PI3K signaling pathways , and much effort has been focused on developing drugs targeting components of these pathways .
+To better understand the requirements for K-RAS and its downstream signaling pathways MAPK and PI3K in pancreatic tumor maintenance , we established an inducible K-RAS knock down system that allowed us to ablate K-RAS in established tumors .
+Knock down of K-RAS resulted in impaired tumor growth in all pancreatic xenograft models tested , demonstrating that K-RAS expression is indeed required for tumor maintenance of K-RAS mutant pancreatic tumors .
+We further examined signaling downstream of K-RAS , and detected a robust reduction of pERK levels upon K-RAS knock down .
+In contrast , no effect on pAKT levels could be observed due to almost undetectable basal expression levels .
+To investigate the requirement of the MAPK and the PI3K pathways on tumor maintenance , three selected pancreatic xenograft models were tested for their response to MEK or PI3K inhibition .
+Tumors of all three models regressed upon MEK inhibition , but showed less pronounced response to PI3K inhibition .
+The effect of MEK inhibition on pancreatic xenografts could be enhanced further by combined application of a PI3K inhibitor .
+These data provide further rationale for testing combinations of MEK and PI3K inhibitors in clinical trials comprising a patient population with pancreatic cancer harboring mutations in K-RAS .

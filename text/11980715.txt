@@ -1,0 +1,6 @@
+The cyclin-dependent kinase ( CDK ) inhibitor p21(Waf1/Cip1/Sdi1) was identified initially as a gene induced in senescent cells and itself has been shown to cause permanent growth arrest/senescence .
+Reactive oxygen species ( ROS ) , a byproduct of oxidative processes , can also induce an irreversible growth arrest similar to senescence .
+Here we show that p21 increased intracellular levels of ROS both in normal fibroblasts and in p53-negative cancer cells .
+N-acetyl-L-cysteine , an ROS inhibitor , rescued p21-induced senescence , showing that ROS elevation is necessary for induction of the permanent growth arrest phenotype. p16(Ink4a) , a CDK4- and CDK6-specific inhibitor , failed to increase ROS levels , and cell cycle arrest induced by p16 was reversible following its down-regulation , demonstrating the specificity of this p21 effect .
+A p21 mutant that lacked the ability to bind proliferating cell nuclear antigen ( PCNA ) retained the ability to induce both ROS and permanent growth arrest .
+All of these findings establish that p21 mediates senescence by a mechanism involving ROS accumulation which does not require either its PCNA binding or the CDK inhibitory functions shared with p16 .

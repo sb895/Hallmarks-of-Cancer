@@ -1,0 +1,7 @@
+The NF-kB family of transcription factors regulates important biological functions including cell growth , survival and the immune response .
+We found that Human Papillomavirus type 16 ( HPV-16 ) E7 and E6/E7 proteins inhibited basal and TNF-alpha-inducible NF-kB activity in human epithelial cells cultured from the cervical transformation zone , the anatomic region where most cervical cancers develop .
+In contrast , HPV-16 E6 regulated NF-kB in a cell type- and cell growth-dependent manner .
+NF-kB influenced immortalization of cervical cells by HPV16 .
+Inhibition of NF-kB by an IkB alpha repressor mutant increased colony formation and immortalization by HPV-16 .
+In contrast , activation of NF-kB by constitutive expression of p65 inhibited proliferation and immortalization .
+Our results suggest that inhibition of NF-kB by HPV-16 E6/E7 contributes to immortalization of cells from the cervical transformation zone .

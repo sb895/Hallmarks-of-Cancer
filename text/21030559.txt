@@ -1,0 +1,6 @@
+Levels of regulatory T cells ( Tregs ) are increased in different cancer types as well as in inflammatory diseases , such as rheumatoid arthritis .
+Treg accumulation may result from aberrant proliferation and trafficking as well as greater resilience to oxidative stress compared with conventional T cells .
+This enhanced antioxidative capacity of Tregs possibly serves as feedback inhibition during inflammation and prevents uncontrolled immune reactions by favoring survival of suppressor rather than effector cells .
+In this study , we demonstrate that human Tregs express and secrete higher levels of thioredoxin-1 , a major antioxidative molecule .
+Thioredoxin-1 has an essential role in maintaining their surface thiol density as the first line of antioxidative defense mechanisms and is sensitive to proinflammatory stimuli , mainly tumor necrosis factor-α , in a nuclear factor-κB-dependent fashion .
+The antiapoptotic and oncogenic potential of ( secreted ) Trx-1 suggests that it may exert effects in Tregs beyond redox regulation .

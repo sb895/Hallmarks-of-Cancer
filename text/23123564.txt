@@ -1,0 +1,7 @@
+Molecular mechanisms involved in progression of clear-cell renal-cell carcinomas ( ccRCCs ) are poorly understood .
+A common genetic mutation found in ccRCC is the loss of the von Hippel-Lindau ( VHL ) gene , which contributes to cancer progression and metastasis .
+We investigated VIP effects on metastatic and angiogenic factors in human VHL-null A498 ccRCC and HK2 renal cells .
+VIP increased adhesion but decreased expression of metalloproteinases , MMP2 and MMP9 , as well as cell migration and VEGF expression and secretion in A498 but not in HK2 cells .
+VIP enhanced ROS levels and decreased nuclear levels of β-catenin and NFκB p50-subunit in A498 cells , suggesting neuropeptide involvement in the observed decrease of metastatic ability in clear-cell carcinoma .
+VIP effects in A498 cells were blocked by the VPAC(1/2)-receptor antagonist JV-1-53 .
+In conclusion , present data point to a role of VIP in preventing invasion and metastasis in ccRCCs and support its potential therapeutic usefulness in this disease .

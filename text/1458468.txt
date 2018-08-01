@@ -1,0 +1,7 @@
+Studies were performed to test the hypothesis that urethane-induced murine lung tumors exhibit xenobiotic resistance and alterations in pulmonary cytochrome P-450 enzymes. 1,1-Dichloroethylene , naphthalene , and paraquat were administered to tumor-bearing and control mice to elicit acute lung cytotoxicity , and responses were evaluated in tumors ( papillary and solid ) , uninvolved surrounding tissue , and untreated control lung. 1,1-Dichloroethylene ( 125 mg/kg , i.p. ) and naphthalene ( 225 mg/kg , i.p. ) caused preferential necrosis of Clara cells in control lungs and uninvolved tissue of tumor-bearing lungs .
+In contrast , papillary and solid tumors were both resistant to 1,1-dichloroethylene-induced cytotoxicity .
+Paraquat ( 10 , 20 mg/kg , i.v. ) elicited Clara cell damage in control lungs and uninvolved lung tissue of tumor-bearing mice , with minor disruption of the alveolar epithelium .
+Neither papillary nor solid tumors sustained any apparent cell damage from paraquat .
+Immunoblots of P-450 enzymes confirmed constitutive expression of CYP2B1 in control lung and uninvolved lung tissue of tumor-bearing mice , but this P-450 enzyme was not detected in either adenomas or carcinomas .
+Lung CYP1A1 was inducible by beta-naphthoflavone in non-tumor-bearing mice and uninvolved tissue of tumor-bearing mice ; however , inducibility was decreased in adenomas and abolished in carcinomas .
+These results demonstrate resistance of lung tumor cells to chemically induced cytotoxicity and diminished expression of cytochrome P-450 enzymes in tumors .

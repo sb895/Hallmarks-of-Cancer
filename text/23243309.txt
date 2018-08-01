@@ -1,0 +1,12 @@
+Integrin \u03b1v\u03b23 plays a role in insulin-like growth factor 1 ( IGF1 ) signaling ( integrin-IGF1 receptor ( IGF1R ) cross-talk ) in non-transformed cells in anchorage-dependent conditions .
+We reported previously that IGF1 directly binds to \u03b1v\u03b23 and induces \u03b1v\u03b23-IGF1-IGF1R ternary complex formation in these conditions .
+The integrin-binding defective IGF1 mutant ( R36E/R37E ) is defective in inducing ternary complex formation and IGF signaling , whereas it still binds to IGF1R .
+We studied if IGF1 can induce signaling in anchorage-independent conditions in transformed Chinese hamster ovary cells that express \u03b1v\u03b23 ( \u03b23-CHO ) cells .
+Here we describe that IGF1 signals were more clearly detectable in anchorage-independent conditions ( polyHEMA-coated plates ) than in anchorage-dependent conditions .
+This suggests that IGF signaling is masked by signals from cell-matrix interaction in anchorage-dependent conditions .
+IGF signaling required \u03b1v\u03b23 expression , and R36E/R37E was defective in inducing signals in polyHEMA-coated plates .
+These results suggest that \u03b1v\u03b23-IGF1 interaction , not \u03b1v\u03b23-extracellular matrix interaction , is essential for IGF signaling .
+Inhibitors of IGF1R , Src , AKT , and ERK1/2 did not suppress \u03b1v\u03b23-IGF-IGF1R ternary complex formation , suggesting that activation of these kinases are not required for ternary complex formation .
+Also , mutations of the \u03b23 cytoplasmic tail ( Y747F and Y759F ) that block \u03b23 tyrosine phosphorylation did not affect IGF1R phosphorylation or AKT activation .
+We propose a model in which IGF1 binding to IGF1R induces recruitment of integrin \u03b1v\u03b23 to the IGF-IGF1R complex and then \u03b23 and IGF1R are phosphorylated .
+It is likely that \u03b1v\u03b23 should be together with the IGF1-IGF1R complex for triggering IGF signaling .

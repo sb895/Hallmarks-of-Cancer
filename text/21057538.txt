@@ -1,0 +1,8 @@
+The vascular endothelial growth factor ( VEGF ) receptor tyrosine kinase inhibitor sunitinib has been approved for first-line treatment of patients with metastatic renal cancer and is currently being trialled in other cancers .
+However , the effectiveness of this anti-angiogenic agent is limited by the presence of innate and acquired drug resistance .
+By screening a panel of candidate growth factors we identified fibroblast growth factor 2 ( FGF2 ) as a potent regulator of endothelial cell sensitivity to sunitinib .
+We show that FGF2 supports endothelial proliferation and de novo tubule formation in the presence of sunitinib and that FGF2 can suppress sunitinib-induced retraction of tubules .
+Importantly , these effects of FGF2 were ablated by PD173074 , a small molecule inhibitor of FGF receptor signalling .
+We also show that FGF2 can stimulate pro-angiogenic signalling pathways in endothelial cells despite the presence of sunitinib .
+Finally , analysis of clinical renal-cancer samples demonstrates that a large proportion of renal cancers strongly express FGF2 .
+We suggest that therapeutic strategies designed to simultaneously target both VEGF and FGF2 signalling may prove more efficacious than sunitinib in renal cancer patients whose tumours express FGF2 .

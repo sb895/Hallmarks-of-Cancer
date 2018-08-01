@@ -1,0 +1,12 @@
+MYH7 mutations are found in of hypertrophic cardiomyopathy ( HCM ) patients .
+Currently , mutational analysis is based on the sequencing of the coding exons and a few exon-flanking intronic nucleotides , resulting in omission of single-exon deletions and mutations in internal intronic , promoter , and 3 ' UTR regions .
+We amplified and sequenced large MYH7 fragments in 60 HCM patients without previously identified sarcomere mutations .
+Lack of aberrant PCR fragments excluded single-exon deletions in the patients .
+Instead , we identified several new rare intronic variants .
+An intron 26 single nucleotide insertion ( -5 insC ) was predicted to affect pre-mRNA splicing , but allele frequencies did not differ between patients and controls ( n = 150 ) .
+We found several rare promoter variants in the patients compared to controls , some of which were in binding sites for transcription factors and could thus affect gene expression .
+Only one rare 3 ' UTR variant ( c.*29T>C ) found in the patients was absent among the controls .
+This nucleotide change would not affect the binding of known microRNAs .
+Therefore , MYH7 mutations outside the coding exon sequences would be rarely found among HCM patients .
+However , changes in the promoter region could be linked to the risk of developing HCM .
+Further research to define the functional effect of these variants on gene expression is necessary to confirm the role of the MYH7 promoter in cardiac hypertrophy .

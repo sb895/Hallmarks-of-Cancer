@@ -1,0 +1,5 @@
+The aryl hydrocarbon receptor ( AhR ) is a ligand-activated transcription factor .
+Recent studies have reported the anti-tumor effects of the AhR in breast cancer .
+In this study , we investigated the anti-tumor effect of AhR activation based on the cancer stem cell hypothesis .
+We show that AhR activation suppressed mammosphere formation of MCF-7 cells and decreased the proportion of cells with high ALDH-1 ( aldehyde dehydrogenase 1 ) activity .
+In addition , we also demonstrate that AhR activation regulates self-renewal signaling by down-regulating Wnt/β-catenin and Notch .

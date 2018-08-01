@@ -1,0 +1,9 @@
+Periplocin is one of cardenolides isolated from cortex periplocae which is used for treatment of rheumatoid arthritis and reinforcement of bones and tendons in traditional medicine .
+Here , we investigated the anti-tumor activity of periplocin against lung cancer cells bothin vitro and in vivo , and explored its anti-cancer mechanism .
+Periplocin inhibited the growth of lung cancer cells and induced their apoptosis in time- and dose-dependent manners by cell cycle arrest in G0/G1 phase .
+Periplocin exhibited anti-tumor activity both in human ( A549 ) and mouse ( LL/2 ) lung cancer xenograft models .
+Immunohistochemical analysis revealed that intratumoral angiogenesis was significantly suppressed .
+Furthermore , anti-cancer activity mediated by periplocin was associated with decreased level of phosphorylated AKT and ERK both in vitro and in vivo , which were important for cell growth and survival .
+Moreover , periplocin induced apoptosis by downregulating Bcl-2 and upregulating Bax , leading to activation of caspase-3 and caspase-9 .
+These findings suggested that periplocin could inhibit the growth of lung cancer both in vitro and in vivo , which could be attributed to the inhibition of proliferation and the induction of apoptosis signaling pathway , such as AKT and ERK .
+These observations provide further evidence on the anti-tumor effect of periplocin , and it may be of importance to further explore its potential role as a therapeutic agent for cancer .

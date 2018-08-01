@@ -1,0 +1,6 @@
+Cancer cells undergo multi-step processes in obtaining the ability to metastasize , and are constantly exposed to signals that induce apoptosis .
+Acquisition of anti-apoptotic properties by cancer cells is important for metastasis , and recent studies suggest that transforming growth factor ( TGF)-β promotes the survival of certain types of cancer cells .
+Here , we found that in highly metastatic breast cancer cells , JygMC(A) , JygMC(B) and 4T1 , TGF-β ligands were produced in autocrine fashion .
+Pharmacological inhibition of endogenous TGF-β signalling by a TGF-β type I receptor kinase inhibitor in serum-free conditions increased the expression of BH3-only protein , Bim ( also known as Bcl2-like 11 ) in JygMC(A) and JygMC(B) cells , and caused apoptotic cell death .
+We also found that induction of Bim by TGF-β was not observed in Foxc1 knocked-down cancer cells .
+These findings suggest that TGF-β plays a crucial role in the regulation of survival of certain types of cancer cells through the TGF-β-Foxc1-Bim pathway , and that specific inhibitors of TGF-β signalling might be useful as apoptosis inducers in breast cancer cells .

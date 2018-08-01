@@ -1,0 +1,8 @@
+Elevated serum levels of vasoactive intestinal peptide ( VIP ) are associated with some cases of neuroblastoma and correlate with a favorable prognosis .
+VIP has previously been shown in our laboratory to cause the in vitro growth inhibition and morphological differentiation of the human neuroblastoma cell line , LA-N-5 .
+It is now shown that LA-N-5 cells express immunoreactive VIP and bear specific VIP receptors .
+Antagonism of endogenous VIP , either by competitive inhibition or receptor blockade , increased cell proliferation , suggesting that VIP is operative in normal growth regulation .
+Intracellular and extracellular levels of VIP were also shown to increase significantly during the retinoic acid-induced differentiation of these cells .
+Furthermore , a concomitant marked increase in VIP receptor expression was demonstrated with cellular differentiation .
+These receptors remain functional as evidenced by a matching increase in the level of detectable cAMP generated in response to exogenous VIP .
+It is concluded that VIP is a normal autoregulator of neuroblastoma cell growth and differentiation , and that retinoic acid-mediated differentiation may be , in part , due to endogenous VIP .

@@ -1,0 +1,12 @@
+Growth differentiation factor-15 ( GDF-15 ) and the CCN family member , connective tissue growth factor ( CCN2 ) , are associated with cardiac disease , inflammation and cancer .
+The precise role and signaling mechanism for these factors in normal and diseased tissues remains elusive .
+Here we demonstrate an interaction between GDF-15 and CCN2 using yeast two-hybrid assays and have mapped the domain of interaction to the von Willebrand factor type C domain of CCN2 .
+Biochemical pull down assays using secreted GDF-15 and His-tagged CCN2 produced in PC-3 prostate cancer cells confirmed a direct interaction between these proteins .
+To investigate the functional consequences of this interaction , in vitro angiogenesis assays were performed .
+We demonstrate that GDF-15 blocks CCN2-mediated tube formation in human umbilical vein endothelial ( HUVEC ) cells .
+To examine the molecular mechanism whereby GDF-15 inhibits CCN2-mediated angiogenesis , activation of α(V) β(3) integrins and focal adhesion kinase ( FAK ) was examined .
+CCN2-mediated FAK activation was inhibited by GDF-15 and was accompanied by a decrease in α(V) β(3) integrin clustering in HUVEC cells .
+These results demonstrate , for the first time , a novel signaling pathway for GDF-15 through interaction with the matricellular signaling molecule CCN2 .
+Furthermore , antagonism of CCN2 mediated angiogenesis by GDF-15 may provide insight into the functional role of GDF-15 in disease states .
+J. Cell .
+Biochem. � 2012 Wiley Periodicals , Inc .

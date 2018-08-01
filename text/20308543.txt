@@ -1,0 +1,10 @@
+During the course of inflammation and its resolution , macrophages are exposed to various cytotoxic materials , including reactive oxygen species .
+Thus , macrophages require a protective machinery against oxidative stress to survive at the inflammatory site .
+Here , we showed that xCT , a component of transport system x(c)(-) , was significantly up-regulated in activated infiltrating cells , including macrophages and neutrophils at the inflammatory site .
+System x(c)(-) mediates the uptake of extracellular L-cystine and is consequently responsible for maintenance of intracellular glutathione levels .
+We established a loss-of-function mouse mutant line of xCT by N-ethyl-N-nitrosourea mutagenesis .
+Macrophages from xCT(mu/mu) mice showed cell death in association with the excessive release of high mobility group box chromosomal protein 1 upon stimulation with LPS , suggesting that xCT deficiency causes unremitting inflammation because of the impaired survival of activated macrophages at the inflammatory site .
+Subcutaneous injection of 3-methylcholanthrene ( 3-MCA ) induced the generation of fibrosarcoma in association with inflammation .
+When 3-MCA was injected s.c. into mice , xCT mRNA was up-regulated in situ .
+In xCT(mu/mu) mice , inflammatory cytokines ( such as IL-1beta and TNFalpha ) were overexpressed , and the generation of 3-MCA-induced fibrosarcoma was accelerated .
+These results clearly indicate that the defect of the protective system against oxidative stress impaired survival of activated macrophages and subsequently enhanced tumorigenecity .

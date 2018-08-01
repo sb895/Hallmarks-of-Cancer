@@ -1,0 +1,8 @@
+TNF , an inflammatory cytokine that is enriched in the tumor microenvironment , promotes tumor growth and subverts innate immune responses to cancer cells .
+We previously reported that tumors implanted in TNF receptor-deficient ( Tnfr-/- ) mice are spontaneously rejected ; however , the molecular mechanisms underlying this rejection are unclear .
+Here we report that TNF signaling drives the peripheral accumulation of myeloid-derived suppressor cells ( MDSCs ) .
+MDSCs expand extensively during inflammation and tumor progression in mice and humans and can enhance tumor growth by repressing T cell-mediated antitumor responses .
+Peripheral accumulation of MDSCs was drastically impaired in Tnfr-/- mice .
+Signaling of TNFR-2 , but not TNFR-1 , promoted MDSC survival through upregulation of cellular FLICE-inhibitory protein ( c-FLIP ) and inhibition of caspase-8 activity .
+Loss of TNFRs impaired the induction of MDSCs from bone marrow cells , but this could be reversed by treatment with caspase inhibitors .
+These results demonstrate that TNFR-2 signaling promotes MDSC survival and accumulation and helps tumor cells evade the immune system .

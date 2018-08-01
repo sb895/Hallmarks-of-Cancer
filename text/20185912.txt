@@ -1,0 +1,13 @@
+AIM Colorectal cancer is the third most common form of cancer in the industrial countries .
+Due to advances regarding the treatments , primarily development of improved surgical methods and the ability to make the earlier diagnosis , the mortality has remained constant during the past decades even though the incidence in fact has increased .
+To improve chemotherapy and enable personalised treatment , the need of biomarkers is of great significance .
+In this study , we evaluated the gene expression profiles of the colon cancer cell lines treated with SN-38 , the active metabolite of topoisomerase-1 inhibitor irinotecan which leads to cell cycle arrest and apoptosis .
+MATERIAL AND METHODS The study included 3 colon cancer cell lines : KM12C , KM12SM and KM12l4a .
+The 3 cell lines were treated with SN-38 , and samples were obtained after 24 and 48 hour treatments .
+The gene expression analyses were performed using oligonucleotide microarrays comprising of approximately 27,000 spots where the untreated controls were compared to the SN-38-treated samples .
+RESULTS Unsupervised clustering clearly distinguished the treated cell lines from the untreated .
+Supervised analysis identified 3,974 significant genes ( p = 0.05 ) differentiating the treated samples from the untreated , majority of which were down-regulated after treatment .
+The top-ranked down-regulated genes in the treated cell lines included those related to receptor and kinase activity , signal transduction , apoptosis , RNA processing , protein metabolism and transport , cell cycle and transcription .
+A smaller number of genes were up-regulated in the cell lines after treatment and included genes involved in apoptosis , transcription , development and differentiation .
+CONCLUSIONS These results demonstrate that the expression of the genes involved in cell proliferation and apoptosis as well as RNA , DNA and protein metabolism were affected by SN-38 .
+The impact of certain genes on colorectal cancer development needs to be further evaluated ; however , these results could serve as a basis for further studies in order to find targets for irinotecan treatment .

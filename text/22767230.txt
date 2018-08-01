@@ -1,0 +1,10 @@
+Glycolysis is the initial step of glucose catabolism and is up-regulated in cancer cells ( the Warburg Effect ) .
+Such shifts toward a glycolytic phenotype have not been explored widely in other biological systems , and the molecular mechanisms underlying the shifts remain unknown .
+With proteomics , we observed increased glycolysis in disused human diaphragm muscle .
+In disused muscle , lung cancer , and H(2)O(2)-treated myotubes , we show up-regulation of the rate-limiting glycolytic enzyme muscle-type phosphofructokinase ( PFKm , >2 fold , P<0.05 ) and accumulation of lactate ( >150% , P<0.05 ) .
+Using microRNA profiling , we identify miR-320a as a regulator of PFKm expression .
+Reduced miR-320a levels ( to \u223c50% of control , P<0.05 ) are associated with the increased PFKm in each of these diverse systems .
+Manipulation of miR-320a levels both in vitro and in vivo alters PFKm and lactate levels in the expected directions .
+Further , miR-320a appears to regulate oxidative stress-induced PFKm expression , and reduced miR-320a allows greater induction of glycolysis in response to H(2)O(2) treatment .
+We show that this microRNA-mediated regulation occurs through PFKm's 3 ' untranslated region and that Ets proteins are involved in the regulation of PFKm via miR-320a .
+These findings suggest that oxidative stress-responsive microRNA-320a may regulate glycolysis broadly within nature .

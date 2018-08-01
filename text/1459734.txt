@@ -1,0 +1,9 @@
+We analyzed several factors which could influence the immunogenicity of colon tumor cells , using a series of clones derived from a single chemically induced rat adenocarcinoma cell line .
+These clones display variable tumorigenic potential in syngeneic immunocompetent animals , and it has been established that in this model the tumorigenicity of the cells depends on their ability to escape immune surveillance .
+The results show an absence of relationship between tumorigenicity and expression of MHC-class-I antigens , cell adhesion to rat fibroblasts or fibroblast extracellular matrix .
+The secretion of latent and active TGF beta I appeared to be quite variable from one clone to the other , but was unrelated to tumorigenicity .
+Unexpectedly , some regressive clones produced elevated levels of this cytokine , suggesting that in this model , spontaneous secretion of TGF beta I is not sufficient to impair the immune system of the host .
+In contrast , the more tumorigenic clones were more resistant than less tumorigenic ones to cytotoxicity mediated by NK or LAK cells .
+They also showed arrest of cell proliferation after reaching confluence , something not observed in the less tumorigenic clones .
+Finally , the strongest relationship with tumorigenicity was found for expression of blood-group carbohydrate antigens .
+Increased expression of blood-group-H antigen and , conversely , decreased expression of beta-galactoside precursors of this antigen correlated with increased tumorigenicity .

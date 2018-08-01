@@ -1,0 +1,9 @@
+The triterpene saponin ginsenoside Rh2 has been shown to have antiproliferative effects on various cancer cells .
+However , the effect of Rh2 on the cell cycle and its underlying molecular mechanism in human leukemia cells are not fully understood .
+In this study , we found that Rh2 inhibited the proliferation of human leukemia cells concentration- and time-dependently with an IC(50) of �M .
+DNA flow cytometric analysis indicated that Rh2 blocked cell cycle progression at the G(1) phase in HL-60 and U937 cells , and this was found to be accompanied by the downregulations of cyclin-dependent kinase ( CDK ) 4 , CDK6 , cyclin D1 , cyclin D2 , cyclin D3 and cyclin E at the protein level .
+However , CDK inhibitors ( CDKIs ) , such as p21(CIP1/WAF1) and p27(KIP1) , were gradually upregulated after Rh2 treatment at the protein and messenger RNA ( mRNA ) levels .
+In addition , Rh2 markedly enhanced the bindings of p21(CIP1/WAF1) and p27(KIP1) to CDK2 , CDK4 and CDK6 , and these bindings reduced CDK2 , CDK4 and CDK6 activities .
+Furthermore , Rh2 induced the differentiation of HL-60 cells as demonstrated by biochemical assays and the expression levels of cell surface antigens .
+In addition , treatment of HL-60 cells with Rh2 significantly increased transforming growth factor-β ( TGF-β ) production , and cotreatment with TGF-β neutralizing antibody prevented the Rh2-induced downregulations of CDK4 and CDK6 , upregulations of p21(CIP1/WAF1) and p27(KIP1) levels and the induction of differentiation .
+These results demonstrate that the Rh2-mediated G(1) arrest and the differentiation are closely linked to the regulation of TGF-β production in human leukemia cells .

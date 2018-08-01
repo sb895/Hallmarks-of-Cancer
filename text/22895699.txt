@@ -1,0 +1,10 @@
+Glioblastoma is one of the most lethal and common malignant human brain tumors , with aggressive proliferation and highly invasive properties .
+Honokiol derived from Magnolia officinalis is able to cross the blood-brain barrier ( BBB ) and the blood-cerebrospinal fluid barrier ( BCSFB ) , suggesting a strong possibility that it could be an effective drug for the treatment of brain tumors , including glioblastoma .
+Thus , we investigated the effects of honokiol on the expression of adhesion molecules in TNF-α-stimulated endothelial cells , and cancer growth and invasion were determined in T98G human glioblastoma cells .
+Honokiol dose-dependently inhibited the expression of intercellular adhesion molecule-1 ( ICAM-1 ) and vascular cell adhesion molecule-1 ( VCAM-1 ) in human umbilical vein endothelial cells ( HUVECs ) stimulated with TNF-α for 6 h .
+Pretreatment with honokiol significantly reduced the adhesion of T98G cells to HUVECs .
+Moreover , honokiol inhibited the invasion of T98G cells , suggesting that honokiol has an anti-metastatic effect .
+In addition , honokiol increased the cytotoxicity of T98G cells in a dose- and time-dependent manner as assayed by MTT .
+TUNEL assay showed that honokiol significantly induced apoptosis in T98G cells at doses of 10 �M or more .
+The induction of apoptotic cell death was mediated by the downregulation of the anti-apoptotic protein Bcl-2 and the upregulation of the pro-apoptotic protein Bax .
+Taken together , the results of this study suggest that honokiol exerts an anticancer effect by preventing metastasis and inducing apoptotic cell death of brain tumor cells .

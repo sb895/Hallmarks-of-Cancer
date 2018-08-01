@@ -1,0 +1,11 @@
+BACKGROUND : The p38α MAP kinase pathway is involved in inflammation , cell differentiation , growth , apoptosis and production of pro-inflammatory cytokines TNF-α and IL-1β .
+The overproduction of these cytokines plays an important role in cancer .
+The aim of this work was to design a peptide inhibitor on the basis of structural information of the active site of p38α .
+METHODS : A tetrapeptide , VWCS as p38α inhibitor was designed on the basis of structural information of the ATP binding site by molecular modeling .
+The inhibition study of peptide with p38α was performed by ELISA , binding study by Surface Plasmon Resonance and anti-proliferative assays by MTT and flow cytometry .
+RESULTS : The percentage inhibition of designed VWCS against pure p38α protein and serum of HNSCC patients was 70.30 and 71.5% , respectively .
+The biochemical assay demonstrated the K(D) and IC(50) of the selective peptide as 7.22�10(-9)M and 20.08nM , respectively .
+The VWCS as inhibitor significantly reduced viability of oral cancer KB cell line with an IC(50) value of 10μM and induced apoptosis by activating Caspase 3 and 7 .
+CONCLUSIONS : VWCS efficiently interacted at the ATP binding pocket of p38α with high potency and can be used as a potent inhibitor in case of HNSCC .
+GENERAL SIGNIFICANCE : VWCS can act as an anticancer agent as it potentially inhibits the cell growth and induces apoptosis in oral cancer cell-line in a dose as well as time dependent manner .
+Hence , p38α MAP kinase inhibitor can be a potential therapeutic agent for human oral cancer .

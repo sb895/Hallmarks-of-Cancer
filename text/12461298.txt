@@ -1,0 +1,12 @@
+During mitotic exit , a small GTPase Tem1 needs to be activated .
+During most of the cell cycle , Tem1 activity is antagonized by a GTPase activating complex ( GAP ) composed of Bub2 and Bfa1 .
+Bfa1 protein has cell cycle regulated phosphorylation depending upon the Polo-like kinase Cdc5 .
+This phosphorylation dissociates Bfa1 from Tem1 and thus relieves the inhibition of Tem1 by the GAP complex .
+Bub2 and Bfa1 are also required to prevent mitotic exit when there is DNA damage , spindle damage or spindle misorientation at G(2)/M phase .
+While Cdc5 inhibits Bfa1/Bub2 , mutating the Cdc5 phosphorylation sites on Bfa1 does not have a strong activating effect on Bub2/Bfa1 , suggesting there must be additional regulation in this pathway .
+Here we report that Bub2 protein also has cell cycle regulated phosphorylation .
+This phosphorylation is partially dependent upon the Polo-like kinase Cdc5 and is consistent with negative regulation of the Bub2/Bfa1 GAP complex .
+Spindle damage or spindle misorientation prevents Bub2 phosphorylation .
+The spindle damage effect is dependent upon the spindle assembly checkpoint components Mad2 and Mps1 .
+Thus like Bfa1 , Bub2 protein is also controlled both during mitotic exit and in response to cell cycle checkpoints .
+Bub2 phosphorylation is likely to be controlled by a novel kinase .

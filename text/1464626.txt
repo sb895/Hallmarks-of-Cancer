@@ -1,0 +1,11 @@
+Capillary endothelial cells can be induced to form capillary-like structures in vitro by plating on fibronectin-coated dishes ( Ingber , D. E. , and Folkman , J .
+( 1989 ) J. Cell Biol. 109 , 317-330 ) , thereby mimicking angiogenesis .
+To assess the role of glycoproteins bearing asparagine-linked oligosaccharides in this process , we tested the effect of oligosaccharide processing inhibitors on the formation of capillary tubes .
+Deoxymannojirimycin , a compound that prevents synthesis of hybrid and complex-type oligosaccharides , inhibited the formation of capillary tubes .
+In contrast , swainsonine , an inhibitor that blocks synthesis of complex- but not hybrid-type oligosaccharides , did not inhibit tube formation .
+Lectin affinity chromatography of 2-[3H] mannose-labeled glycopeptides from endothelial cells induced to form tubes did not reveal a striking difference in the spectrum of oligosaccharides compared to uninduced cells .
+Since endothelial cells formed tubes normally in the presence of swainsonine , we analyzed glycopeptides from swainsonine-treated induced and uninduced cells .
+Cells induced to form tubes were enriched in monosialylated hybrid-type oligosaccharides sensitive to alpha-fucosidase , beta-galactosidase , and beta-N-acetylhexosaminidase , suggestive of sialyl Lewis-X determinants .
+We used an enzyme-linked immunoassay to measure sialyl Lewis-X epitopes on capillary endothelial cells and found that both induced and uninduced cells expressed sialyl Lewis-X epitopes .
+Deoxymannojirimycin and , to a lesser extent , swainsonine reduced the level of sialyl Lewis-X epitopes in cells induced to form capillary tubes , but neither compound affected the level of epitopes in cell monolayers .
+We conclude that synthesis of at least hybrid-type oligosaccharides is required for capillary tube formation in vitro and that an increase in monosialylated , fucosylated glycans on asparagine-linked oligosaccharides occurs during this process .

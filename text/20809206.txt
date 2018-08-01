@@ -1,0 +1,10 @@
+In spite of numerous advances , the 5-year survival rate for head and neck squamous cell cancer has remained largely stagnant and few new anti-tumor drugs have been developed .
+PCH4 , a derivative of n-butylidenephthalide , has been investigated for its anti-tumor effects on oral squamous cell carcinoma ( OSCC ) .
+The aim of this study was to investigate the anti-tumor mechanism of a potential target gene , Nur77 , in OSCC cells , which can be induced by PCH4 treatment .
+Data show that PCH4 promoted Nur77 translocation from the nucleus to the cytoplasm and induced cell apoptosis in OSCC cells .
+When Nur77 translocation was blocked , the degree of tumor apoptosis caused by PCH4 was significantly inhibited ( p < 0.05 ) .
+Within the MAPK pathway , PCH4 only induced JNK phosphorylation .
+Furthermore , treatment with a JNK inhibitor significantly reduced PCH4-induced apoptosis ( p < 0.05 ) and decreased PCH4-induced Nur77 expression ( p < 0.05 ) .
+In a xenograft animal model , administration of PCH4 also showed anti-tumor effects .
+We have demonstrated that OSCC cells are sensitive to PCH4 and that Nur77 protein translocation from the nucleus to the cytoplasm might be associated with the induction of apoptosis by PCH4 .
+These results indicate that PCH4 may serve as a potential anti-tumor drug for OSCC therapy .

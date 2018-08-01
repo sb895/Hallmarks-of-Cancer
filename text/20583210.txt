@@ -1,0 +1,13 @@
+UNLABELLED Activation of beta-catenin , the central effector of the canonical Wnt pathway and a recognized oncogene , has been implicated in hepatocellular carcinoma .
+We examined N-nitrosodiethylamine ( DEN)-induced tumorigenesis in hepatic beta-catenin conditional knockout mice ( beta-cat KO ) .
+Male beta-cat KO and age- and sex-matched littermate controls were given a single intraperitoneal DEN injection and followed for 6-12 months for hepatic tumors .
+Hepatic tumors were characterized for histology , proliferation , apoptosis , oxidative stress , and specific proteins by way of western blot , immunohistochemistry , and coprecipitation studies .
+For in vivo tumor intervention studies , specific inhibitors were administered intraperitoneally or through drinking water .
+Intriguingly , beta-cat KO mice showed a paradoxical increase in susceptibility to DEN-induced tumorigenesis .
+This accelerated tumorigenesis is due to increased injury and inflammation , unrestricted oxidative stress , fibrosis , and compensatory increase in hepatocyte proliferation secondary to platelet-derived growth factor receptor alpha ( PDGFRalpha)/phosphoinositide 3-kinase ( PIK3CA)/Akt activation and c-Myc overexpression .
+In vitro suppression of beta-catenin expression in hepatoma cells led to enhanced PDGFRalpha expression , which was abrogated in the presence of nuclear factor kappaB ( NF-kappaB ) inhibitor .
+Daily treatment of 6-month-old DEN-exposed beta-cat KO with PDGFRalpha inhibitor dramatically reduced tumor numbers and size .
+Inclusion of N-acetyl-L-cysteine , a known antioxidant and NF-kappaB inhibitor , in the drinking water led to complete abolition of tumorigenesis in DEN-exposed beta-cat KO .
+CONCLUSION Loss of beta-catenin impairs the liver's ability to counteract DEN-induced oxidative stress and enhances tumorigenesis through PDGFRalpha/PIK3CA/Akt signaling .
+Blockade of PDGFRalpha or oxidative stress dramatically affects beta-catenin-deficient tumorigenesis .
+Also , hepatoma cells use PDGFRalpha/PIK3CA signaling as an escape mechanism following beta-catenin suppression , and their sequential suppression profoundly impedes tumor proliferation .

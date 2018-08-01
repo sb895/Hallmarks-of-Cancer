@@ -1,0 +1,10 @@
+BACKGROUND Colorectal cancer is one of the leading causes of cancer-related death throughout the world , and the risk to develop this malignant disease seems to be associated with long-term cigarette smoking .
+Nicotine , one of the major components of cigarette smoking , can stimulate cell proliferation and suppress apoptosis both in normal cells and in several human cancer cell lines derived from various organs .
+However , although nicotine appears to have a role in stimulating cell proliferation of colon cancer cells , there is no information on its role in inhibiting apoptosis in these cells .
+MATERIALS AND METHODS Human colorectal cancer cell lines Caco-2 and HCT-8 were treated with 1 μM nicotine alone or in combination with 1 μM α-BTX in complete or in serum free medium .
+Cell proliferation and apoptosis were determined by cell count performed with a cell counter and by cytofluorimetric assay respectively .
+PI3K/Akt and PKC/ERK1/2 pathways , survivin , and P-Bcl2 ( Ser70 ) were investigated by Western blot analysis .
+RESULTS Nicotine induced an increase in cell proliferation and a decrease of apoptosis in Caco-2 and HCT-8 cells .
+Both cell growth and apoptosis appear to be mediated by α7-nicotinic acetylcholine receptors , since treatment with α-Bungarotoxin inhibited these processes .
+Nicotine induced a statistically significant increase in the expression of PI3K and in P-Akt/Akt ratio as well as in the expression of PKC , ERK1/2 , survivin , and P-Bcl2 ( Ser70 ) in both cell lines .
+CONCLUSIONS Nicotine , contained in cigarette smoking , could participate in colon cancer development and progression by stimulating cell proliferation and suppressing physiological apoptosis .

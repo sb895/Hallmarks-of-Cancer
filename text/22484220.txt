@@ -1,0 +1,10 @@
+In order to prevent photodestruction by high light , photosynthetic organisms have evolved a number of mechanisms , known as non-photochemical quenching ( NPQ ) , that deactivate the excited states of light harvesting pigments .
+Here we investigate the NPQ mechanism in the cyanobacterium Synechocystis sp .
+PCC 6803 mutant deficient in both photosystems .
+Using non-linear laser fluorimetry , we have determined molecular photophysical characteristics of phycocyanin and spectrally distinct forms of allophycocyanin for the cells in non-quenched and quenched states .
+Our analysis of non-linear fluorescence characteristics revealed that NPQ activation leads to an decrease in the relaxation times of both allophycocyanin fluorescence components , F660 and F680 , and a 5-fold decrease in the effective excitation cross-section of F680 , suggesting an emergence of a pathway of energy dissipation for both types of allophycocyanin .
+In contrast , NPQ does not affect the rates of singlet-singlet exciton annihilation .
+This indicates that , upon NPQ activation , the excess excitation energy is transferred from allophycocyanins to quencher molecules ( presumably 3'hydroxyechinenone in the orange carotenoid protein ) , rather than being dissipated due to conformational changes of chromophores within the phycobilisome core .
+Kinetic measurements of fluorescence quenching in the Synechocystis mutant revealed the presence of several stages in NPQ development , as previously observed in the wild type .
+However , the lack of photosystems in the mutant enhanced the magnitude of NPQ as compared to the wild type , and allowed us to better characterize this process .
+Our results suggest a more complex kinetics of the NPQ process , thus clarifying a multistep model for the formation of the quenching center .

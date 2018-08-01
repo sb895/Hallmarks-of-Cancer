@@ -1,0 +1,13 @@
+The present study was designed to investigate the protective efficacy of eugenol against skin cancer and probe into the mechanistic aspects .
+Skin tumors were initiated by applying 160 nmol DMBA and promoted by twice weekly applications of 8.5 nmol TPA for 28 wk .
+All mice developed tumors by 13 wk of promotion .
+However , in mice pretreated with 30 microL eugenol , no tumors were detected until 8 wk ( following anti-initiation protocol ) and until 14 wk ( following antipromotion protocol ) of tumor promotion .
+PCNA and TUNEL immunohistochemistry of tumors revealed eugenol to ameliorate cell proliferation and elevate apoptosis respectively .
+The effect of eugenol was assessed on specific stages of carcinogenesis .
+Initiation with DMBA led to a significant upregulation of p53 expression with a concomitant increase in p21(WAF1) levels in epidermal cells indicating induction of damage to the DNA .
+However , pretreatment with eugenol led to overexpression of these genes , which probably helped stimulate apoptosis of the initiated cells .
+To ascertain the molecular mechanisms implicated in the antitumor promoting activity of eugenol , its effect was investigated on markers of tumor promotion and inflammation : ODC activity and iNOS and COX-2 expression , and on levels of proinflammatory cytokines ( IL-6 , TNF-alpha , and PGE(2) ) .
+Eugenol markedly inhibited all .
+Eugenol also inhibited the upstream signaling molecule : NF-kappaB , which regulates the expression of these genes .
+TPA-induced depletion of cutaneous GSH and antioxidant enzymes armory was also precluded by eugenol .
+From these results , it could be concluded that eugenol markedly protects against chemically induced skin cancer and acts possibly by virtue of its antiproliferative , anti-inflammatory , and antioxidant activities .

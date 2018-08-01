@@ -1,0 +1,8 @@
+5-HT1c receptors have been shown to act as protooncogenes in NIH 3T3 cells , inducing ligand-dependent focus formation .
+In order to assess their mitogenic and oncogenic potential in a different cell system , we transfected these receptors into CCL39 hamster fibroblasts , a well-characterized growth factor-dependent cell line .
+Cell clones expressing functional receptors were isolated and tested for ( a ) growth factor dependence of proliferation measuring thymidine incorporation in response to varying doses of serum , ( b ) the response to serotonin alone or in combination with other growth factors , and ( c ) the capacity for anchorage-independent proliferation .
+In the absence or presence of serotonin , the large majority of the clones isolated showed normal morphology and normal growth factor dependence and was unable to grow in soft agar .
+None of the clones showed a significant response to serotonin alone in DNA synthesis reinitiation experiments , but synergy was observed between serotonin and the tyrosine kinase activating growth factors EGF and FGF .
+However , the major part of this effect could be abolished by an antagonist of 5-HT1b receptors , which are endogenous in CCL39 cells .
+The same receptor was found to mediate a significant mitogenic response to the neurotransmitter in Ha-ras-transfected cells .
+The fact that 5-HT1c receptors do not readily induce a transformed phenotype in CCL39 cells clearly distinguishes them from strong dominantly acting oncogene products like RAS , SRC , or FMS .

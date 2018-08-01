@@ -1,0 +1,6 @@
+BACKGROUND As a highly conserved system , the activation of the Notch pathway has been implicated in the tumorigenesis of various hematologic diseases , including leukemias , lymphomas , and multiple myeloma .
+The Notch3 receptor is frequently expressed in T-cell acute lymphoblastic leukemia ( T-ALL ) .
+METHODS To explore its possibility as a therapeutic target for T-ALL , we investigated the effect of Notch3 silencing on Jurkat and SupT1 cells using a novel tumor-specific short hairpin RNA ( shRNA ) driven by survivin promoters .
+RESULTS We found that downregulated expression of Notch3 correlated with significant apoptosis and inhibition of proliferation .
+CONCLUSION These facts suggest that downregulating expression of Notch3 could attenuate the Notch signaling activity in T-ALL .
+All these results indicate that inhibition of Notch3 expression can result in potent antitumor activity in T-ALL .

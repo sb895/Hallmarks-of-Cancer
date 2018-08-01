@@ -1,0 +1,8 @@
+Epigenetic changes in pediatric neuroblastoma may contribute to the aggressive pathophysiology of this disease , but little is known about the basis for such changes .
+In this study , we examined a role for the DNA methyltransferase DNMT3B , in particular , the truncated isoform DNMT3B7 , which is generated frequently in cancer .
+To investigate if aberrant DNMT3B transcripts alter DNA methylation , gene expression , and phenotypic character in neuroblastoma , we measured DNMT3B expression in primary tumors .
+Higher levels of DNMT3B7 were detected in differentiated ganglioneuroblastomas compared to undifferentiated neuroblastomas , suggesting that expression of DNMT3B7 may induce a less aggressive clinical phenotype .
+To test this hypothesis , we investigated the effects of enforced DNMT3B7 expression in neuroblastoma cells , finding a significant inhibition of cell proliferation in vitro and angiogenesis and tumor growth in vivo .
+DNMT3B7-positive cells had higher levels of total genomic methylation and a dramatic decrease in expression of the FOS and JUN family members that comprise AP1 transcription factors .
+Consistent with an established antagonistic relationship between AP1 expression and retinoic acid receptor activity , increased differentiation was seen in the DNMT3B7-expressing neuroblastoma cells following treatment with all-trans retinoic acid ( ATRA ) compared to controls .
+Our results indicate that DNMT3B7 modifies the epigenome in neuroblastoma cells to induce changes in gene expression , inhibit tumor growth , and increase sensitivity to ATRA .

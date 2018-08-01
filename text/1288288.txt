@@ -1,0 +1,5 @@
+We have investigated the cellular requirements for IL-2 production by autocrine proliferating tumor cells from four patients with adult T cell leukemia ( ATL ) .
+Cultures of these ATL cells both produced endogenous IL-2 protein in the absence of added mitogen and proliferated at higher levels when exogenous recombinant IL-2 was added .
+Depletion of macrophages in the tumor cell cultures resulted in a sharp decline in tumor cell IL-2 production , while re-addition of macrophages reconstituted this response .
+Macrophage-derived factors including IL-6 and IL-1 also reconstituted IL-2 production in these macrophage depleted cultures .
+These results raise the possibility that macrophages may play a central role in HTLV-I mediated immortalization of T cells .

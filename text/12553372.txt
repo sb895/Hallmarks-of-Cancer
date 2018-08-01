@@ -1,0 +1,10 @@
+Recent reports provide evidence that some growth factors behave as inhibitors of the apoptosis of the endothelial cells , bringing forward the concept of vascular survival as a post-angiogenesis process .
+At least two different vasculature development processes occur within a tumor : the angiogenic ( formation of new vessels ) and the vascular survival pathway , which is devoted to the preservation of the newly-formed vessels in layers that lose contact with the adjacent normal tissue .
+We developed a method to assess these processes in tissue samples .
+We noted that differences among tumors may exist not only in the tumor angiogenic activity ( TAA ) but also in the vascular survival ability ( VSA ) .
+One third of the highly angiogenic breast cancer cases examined had a poor ability to maintain high vessel density in inner tumor areas .
+Both parameters are independently related to prognosis , while VSA was directly related to tumor dimensions and node involvement .
+Patients with high TAA and VSA had a particularly poor prognosis .
+It is suggested that although cancer angiogenic activity is important for the local invasion and dissemination into vessels and lymphatics , the VSA may be important for the effective formation of viable tumor foci in lymph nodes or distant organs .
+Recognition and quantification of the vascular survival ability in human tumors may significantly improve the prognostic value of the assessment of tumor vasculature , and may help to stratify patients for clinical trials with novel anti-angiogenic or angiotoxic drugs .
+Elucidation of the pathways may provide additional targets for antiangiogenic therapy .

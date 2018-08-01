@@ -1,0 +1,9 @@
+We investigated the effectiveness of continuous hyperthermic peritoneal perfusion ( CHPP ) for the peritoneal dissemination of gastric cancer .
+A total 124 patients with advanced gastric cancer were enrolled in this study .
+Prophylactic CHPP ( P-CHPP ) was performed in 45 patients who had macroscopic serosal invasion without peritoneal dissemination , and 79 patients without CHPP were a control group .
+Therapeutic CHPP ( T-CHPP ) was performed in 21 patients with peritoneal dissemination , and 52 patients without CHPP were a control group .
+There was no significant difference in 5 year survival between patients treated and not treated with P-CHPP .
+Univariate analysis showed that location of tumor , tumor diameter , and lymph node metastasis influenced prognosis , but there was no prognostic factor in the Cox proportional regression hazard model .
+There was no significant difference in 5-year survival between patients treated and not treated with T-CHPP .
+Univariate analysis showed that degree of peritoneal dissemination and adjuvant chemotherapy influenced prognosis , and the Cox proportional regression hazard model showed that the macroscopic types and degree of peritoneal dissemination affected prognosis .
+In the patients with CHPP , the incidences of respiratory failure and renal failure were each statistically greater than in the patients undergoing CHPP .

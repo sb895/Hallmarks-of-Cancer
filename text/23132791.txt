@@ -1,0 +1,11 @@
+17β-hydroxysteroid dehydrogenases ( 17β-HSDs ) catalyse the 17-position reduction / oxidation of steroids. 17β-HSD type 3 ( 17β-HSD3 ) catalyses the reduction of the weakly-androgenic androstenedione ( adione ) to testosterone , suggesting that specific inhibitors of 17β-HSD3 may have a role in the treatment of hormone-dependent prostate cancer and benign prostate hyperplasia .
+STX2171 is a novel selective non-steroidal 17β-HSD3 inhibitor with an IC50 of nM in a whole cell assay .
+It inhibits adione-stimulated proliferation of 17β-HSD3-expressing androgen receptor positive LNCaP[HSD3] prostate cancer cells in vitro .
+An androgen-stimulated LNCaP[HSD3] xenograft proof of concept model was developed to study the efficacies of STX2171 and a more established 17β-HSD3 inhibitor , STX1383 ( SCH-451659 , Schering-Plough ) , in vivo .
+Castrated male MF-1 mice were inoculated s.c. with 1 x 107 cells 24 hours after an initial daily dose of testosterone propionate ( TP ) or vehicle .
+After 4 weeks tumors had not developed in vehicle-dosed mice , but were present in 50% of those mice given TP .
+One week after switching the stimulus to adione , mice were dosed additionally with vehicle or inhibitor for a further 4 weeks .
+Both TP and adione efficiently stimulated tumor growth and increased plasma testosterone levels , but in the presence of either 17β-HSD3 inhibitor , adione-dependent tumor growth was significantly inhibited and plasma testosterone levels reduced .
+Mouse bodyweights were unaffected .
+Both inhibitors also significantly lowered plasma testosterone levels in intact mice .
+In conclusion , STX2171 and STX1383 significantly lower plasma testosterone levels and inhibit androgen-dependent tumor growth in vivo , indicating that 17β-HSD3 inhibitors may have application in the treatment of hormone-dependent prostate cancer .

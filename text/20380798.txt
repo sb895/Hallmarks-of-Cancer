@@ -1,0 +1,13 @@
+OBJECTIVE To study the effect of anandamide ( AEA ) on necrosis in HepG2 cells and to explore the role of AEA in progression of liver cancer .
+METHODS Localization of the fatty acid hydrolytic enzyme ( FAAH ) , cannabinoid receptors 1(CB1) and cannabinoid receptors 2 ( CB2 ) proteins was detected in L02 and HepG2 cells using immunofluorescence .
+L02 and HepG2 cells were treated with different concentrations of AEA and methyl-beta-cyclodextrin , and the rates of cells necrosis were examined by PI stain .
+Meanwhile , the expression levels of FAAH , CB1 and CB2 receptor proteins , as well as P38 mitogen-activated protein kinase ( p-P38 MAPK ) and c-Jun-NH2-terminal kinase ( p-JNK ) proteins , were analyzed by Western blot .
+RESULTS The FAAH , CB1 and CB2 receptor proteins were observed both in cytoplasm and on membrane in L02 and HepG2 cells .
+The expression level of FAAH protein was higher in HepG2 than in L02 cells .
+The expression level of CB1 receptor protein was very low in both L02 and HepG2 cells .
+The expression level of CB2 receptor protein was high in both L02 and HepG2 cells .
+AEA treatment induced necrosis in HepG2 cells but not in L02 cells .
+Methyl-beta-cyclodextrin treatment prevented necrosis in HepG2 cells ( t = 3.702 ; 5.274 ; 3.503 , P less than 0.05 ) .
+The expression patterns of FAAH , CB1 and CB2 receptor protein in L02 and HepG2 cells were confirmed by western blot , which were consistent with the immunofluorescence results .
+AEA treatment increased the levels of p-P38MAPK and p-JNK proteins in a dose-dependent manner in HepG2 cells ( F = 11.908 ; 26.054 , P less than 0.05 ) and the increase can be partially by prevented by MCD ( t = 2.801 ; t = 12.829 , P less than 0.05 ) .
+CONCLUSION AEA treatment induces necrosis in HepG2 cells via CB1 and CB2 receptors and lipid rafts .

@@ -1,0 +1,6 @@
+Prostate cancer is the second most common cancer in elderly men worldwide and its incidence rate is rising continuously .
+Agents capable of inducing apoptosis in prostate cancer cells seem a promising approach to treat this malignancy .
+In this study we describe the synthesis of a number of novel N- and N,N'-substituted S-2,3,4,5,6-pentabromobenzylisothiouronium bromides and their activity against the human prostate adenocarcinoma PC3 cell line .
+All the compounds produced changes in mitochondrial transmembrane potential and cell cycle progression , showed a cytostatic effect and induced apoptosis in the tested cancer line in a concentration- and time-dependent manner .
+The most effective compounds ZKK-3 , ZKK-9 and ZKK-13 produced , at 20 microM concentration , apoptosis in 42 , 46 , and 66% of the cells , respectively , after 48 h incubation .
+Two selected S-2,3,4,5,6-pentabromobenzylisothiouronium bromides ( ZKK-3 , ZKK-9 ) showed also a synergic proapoptotic effect with the new casein kinase II inhibitor 2-(4-methylpiperazin-1-yl)-4,5,6,7-tetrabromo-1H-benzimidazole ( TBIPIP ) in the PC3 cell line .

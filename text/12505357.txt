@@ -1,0 +1,8 @@
+Several members of the phosphatidylinositol 3-kinase family play key roles in recognising and responding to damage in DNA , induced by a variety of chemicals and other agents .
+One of these , ATM , the product of the gene mutated in the human genetic disorder ataxia-telangiectasia ( A-T ) , recognises double strand breaks in DNA caused by ionizing radiation and radiomimetic chemicals .
+In order to study DNA damage recognition and the abnormalities of genome instability and cancer predisposition that occur in A-T patients , we generated a mouse model expressing a mutant form of Atm corresponding to a common human mutation .
+In this model , a 9 nucleotide in-frame deletion was introduced into the Atm gene and has been designated Atm-Delta SRI .
+These animals had a longer lifespan than Atm gene disrupted mice ( Atm(-/-) ) and they developed less thymic lymphomas .
+A characteristic of the lymphomas appearing in Atm-Delta SRI mice was an increased rate of apoptosis compared to the corresponding tumours in Atm(-/-) mice .
+Increased expression of FasL in these tumours may account for the higher levels of apoptosis .
+These results demonstrate that expression of mutant Atm in mice gives rise to phenotypic differences compared to Atm(-/-) mice and has implications for heterogeneity described in the human syndrome .

@@ -1,0 +1,7 @@
+Deregulation of insulin-like growth factor-1 receptor ( IGF-1R ) is closely associated with malignant transformation and tumor cell survival in various cancers .
+We found that IGF-1R expression level in leukemia cells positively correlated with the percentage of blast in bone marrow from de novo acute myeloid leukemia ( AML ) patients .
+Moreover , we showed that NVP-ADW742 , a novel small weight molecular inhibitor of IGF-IR , could induce apoptosis in both HL-60 cell line and primary AML blasts .
+However , no significant alteration of cell cycle was observed in HL-60 cells .
+Further studies revealed that NVP-ADW742 induced Akt dephosphorylation , which might subsequently induce p38 phosphorylation and decrease antiapoptotic protein Bcl-2 expression in HL-60 cells .
+Finally , we demonstrated that NVP-ADW742 could synergize with Ara-C to induce the kill in a subset of drug-resistant AML specimens .
+We suggested that IGF-lR targeting might be therapeutically beneficial for some AML patients .

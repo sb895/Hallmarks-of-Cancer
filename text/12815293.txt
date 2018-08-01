@@ -1,0 +1,4 @@
+This article describes evaluation of plasma membrane fluidity and intracellular SOD with relation to apoptotic death of cervical carcinoma cells after radiation therapy .
+Cells from biopsies of cancer patients ( stage IIIB ) prior to and 24 h after radiation dose of 2 Gy were examined .
+Plasma membrane fluidity , measured by fluorescence polarization of DPH incorporated into lipid bilayer and superoxide dismutase ( SOD ) activity , determined by epinephrine method , showed significant decrease but per cent apoptotic cells , as determined by annexin-V and TUNEL methods , were found increased by two folds after radiotherapy .
+It is suggested that decrease in DPH polarization in membrane , reduction in SOD activity and increased apoptosis in cervical cells of cancer patients treated with radiation may be consequent to oxidative damage induced by reactive oxygen species ( ROS ) , which may have implications in developing predictive protocol in cancer radiotherapy .

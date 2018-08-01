@@ -1,0 +1,7 @@
+An acquired mutation ( T790M ) in the epidermal growth factor receptor ( EGFR ) accounts for half of all relapses in non-small cell lung cancer ( NSCLC ) patients who initially respond to EGFR kinase inhibitors .
+In this study , we demonstrated for the first time that EGFR-T790M interacts with the cytoskeletal components , myosin heavy chain 9 ( MYH9 ) and β-actin , in the nucleus of H1975 cells carrying the T790M-mutant EGFR .
+The interactions of EGFR with MYH9 and β-actin were reduced in the presence of blebbistatin , a specific inhibitor for the MYH9-β-actin interaction , suggesting that the EGFR interaction with MYH9 and β-actin is affected by the integrity of the cytoskeleton .
+These physical interactions among MYH9 , β-actin , and EGFR were also impaired by CL-387,785 , a kinase inhibitor for EGFR-T790M .
+Furthermore , CL-387,785 and blebbistatin interacted in a synergistic fashion to suppress cell proliferation and induce apoptosis in H1975 cells .
+The combination of CL-387,785 and blebbistatin enhanced the down-regulation of cyclooxygenase-2 ( COX-2 ) , a transcriptional target of nuclear EGFR .
+Overall , our findings demonstrate that disrupting EGFR interactions with the cytoskeletal components enhanced the anti-cancer effects of CL-387,785 against H1975 cells , suggesting a novel therapeutic approach for NSCLC cells that express the drug-resistant EGFR-T790M .

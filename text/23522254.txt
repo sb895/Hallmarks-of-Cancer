@@ -1,0 +1,15 @@
+OBJECTIVE To investigate the expression profiles of serum Golgi protein-73 ( GP73 ) in liver cirrhosis and primary hepatic carcinoma ( PHC ) and determine its clinical value for differential diagnosis .
+METHODS Serum protein expressions of GP73 and alpha-fetoprotein ( AFP ) were detected by enzyme-linked immunosorbent assay and chemiluminescence assay , respectively , in patients with PHC ( n=80 ) , liver cirrhosis ( n=65 ) , and healthy controls ( n=50 ) .
+Inter-group changes were assessed by Kruskal-Wallis test , and significance of these differences was assessed by Mann- Whitney test .
+A receiver operating characteristic ( ROC ) curve was plotted to evaluate the diagnostic efficiency and determine the cut-off values for GP73 and AFP .
+Sensitivity and specificity were compared by the Chi-squared test .
+Correlation between serum GP73 expression and clinical parameters was determined by Spearman's rank correlation analysis .
+RESULTS The PHC group showed significantly higher serum GP73 ( 282.0 mug/L ) than the liver cirrhosis group ( 211.8 mug/L ) and control group ( 58.3 mug/L ) ( H = 93.30 , P less than 0.01 ) .
+For differential diagnosis of PHC and liver cirrhosis , the cut-off value was 318.1 mug/L for GP73 and 13.4 mug/L for AFP .
+Sensitivity of GP73 was lower than AFP ( 45% ( 36/80 ) vs. 65% ( 52/80 ) ; X2 = 8.02 , P less than 0.05 ) .
+Specificity of GP73 was lower than AFP but no significance was found ( 83.1% ( 54/65 ) vs. 87.7% ( 57/65 ) ; X2=0.27 , P more than 0.05 ) .
+The areas under the ROC curves were not significantly different between GP73 and AFP ( 0.65 ( 95% confidence interval ( CI ) : 0.54 vs. 0.75 ( 95% CI : 0.67 Z = 1.88 , P more than 0.05 ) .
+The area under the ROC curves increased but not significantly ( 0.80 ( 95% CI : 0.73 vs. 0.75 ( 95% CI : 0.67 Z=2.61 , P more than 0.05 ) .
+Serum GP73 was correlated with liver cirrhosis ( r=0.27 ) , vascular invasion ( r=0.29 ) , and TNM staging ( r=0.27 ) ( all P less than 0.05 ) , but not with sex ( r=0.13 ) , age ( r=0.10 ) , enhanced AFP ( > 13.4 mug/L ; r=0.03 ) , tumor size ( r=0.18 ) , or distant metastasis ( r=0.04 ) , all P less than 0.05 .
+CONCLUSION Serum GP73 and AFP have comparable diagnostic efficiency , but the sensitivity of AFP is superior for differential diagnosis of liver cirrhosis and primary hepatic carcinoma .
+Elevated serum GP73 may be correlated with liver tumor load and aggressiveness .

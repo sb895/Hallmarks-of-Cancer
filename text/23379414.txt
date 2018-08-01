@@ -1,0 +1,14 @@
+UNLABELLED BACKGROUND Cell lines are very useful for clinical and basic research .
+Thus far , only 11 reports have documented the characteristics of ovarian endometrioid adenocarcinoma cell lines in the literature .
+Due to the scarcity of information , the establishment of an ovarian malignant tumor cell line with distinctive characteristics is particularly important to study this disease .
+Thus , this study was undertaken to establish and characterize a new human endometrioid adenocarcinoma cell line of the ovary .
+METHODS The cell line NOMH-1 was established from an ovarian tumor of a 44-year-old woman .
+Features of the cell line studied included morphology , chromosome analysis , heterotransplantation , tumor markers , and chemosensitivity .
+RESULTS This cell line has been growing well for 232 months and subcultured more than 50 times .
+Monolayer cultured cells were polygonal in shape , showing a pavement-like arrangement and a tendency to stack without contact inhibition .
+They exhibited a human karyotype with a modal chromosomal number in the hypertriploid range .
+The cells could be transplanted into the subcutis of nude mice and produced tumors resembling the original tumor .
+NOMH-1 cells expressed both CEA and CA19-9 which were identified immunohistochemically in the original tumor and the heterotransplanted tumor .
+The cells were sensitive to paclitaxel , an agent commonly used in the treatment of gynecological cancers .
+CONCLUSIONS NOMH-1 is the first ovarian endometrioid adenocarcinoma cell line in which CEA and CA19-9 expression have been defined .
+This newly established cell line should be useful for investigating the characteristics of ovarian endometrioid adenocarcinoma .

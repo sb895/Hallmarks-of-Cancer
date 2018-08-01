@@ -1,0 +1,6 @@
+Toll-like receptor 2 ( TLR2 ) is a target for immune system stimulation during cancer immunotherapy and a cell-surface marker for pancreatic cancer .
+To develop targeted agents for cancer imaging and therapy , we designed , synthesized , and characterized 13 novel , fully synthetic high affinity TLR2 agonists .
+Analogue 10 had the highest agonist activity ( NF-κB functional assay , EC(50) = 20 nM ) and binding affinity ( competitive binding assay , K(i) = 25 nM ) .
+As an immune adjuvant , compound 10 stimulated the immune system in vivo by generation and persistence of antigen-specific CD8+ T cells indicating its potential use in cancer immunotherapy .
+After conjugation of near-infrared dye to 10 , agonist activity ( EC(50) = 34 nM ) and binding affinity ( K(i) = 11 nM ) were retained in 13 .
+Fluorescence signal was present in TLR2 expressing pancreatic tumor xenografts 24 h after injection of 13 , while an excess of unlabeled ligand blocked 13 from binding to the tumor , resulting in significantly decreased signal ( p < 0.001 ) demonstrating in vivo selectivity .

@@ -1,0 +1,8 @@
+MYC deregulation is common in human cancer .
+IG-MYC translocations that are modeled in Eμ-Myc mice occur in almost all cases of Burkitt lymphoma as well as in other B-cell lymphoproliferative disorders .
+Deregulated expression of MYC results in increased mTOR complex 1 ( mTORC1 ) signaling .
+As tumors with mTORC1 activation are sensitive to mTORC1 inhibition , we used everolimus , a potent and specific mTORC1 inhibitor , to test the requirement for mTORC1 in the initiation and maintenance of Eμ-Myc lymphoma .
+Everolimus selectively cleared premalignant B cells from the bone marrow and spleen , restored a normal pattern of B-cell differentiation , and strongly protected against lymphoma development .
+Established Eμ-Myc lymphoma also regressed after everolimus therapy .
+Therapeutic response correlated with a cellular senescence phenotype and induction of p53 activity .
+Therefore , mTORC1-dependent evasion of senescence is critical for cellular transformation and tumor maintenance by MYC in B lymphocytes .

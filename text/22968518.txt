@@ -1,0 +1,12 @@
+OBJECTIVE To investigate the relationship between lymphangiogenesis and lymphatic metastasis in cervical squamous carcinoma .
+METHODS Eighty cases of invasive cervical squamous cancer were selected as objects of our study .
+Double immunohistochemical staining with antibodies against lymphatic vessel endothelial hyaluronan receptor 1 and Ki-67 was used to label the lymphatic vessels and mark the proliferative lymphatic vessels in cervical squamous cancer .
+The peritumoral lymphatic vessel density and intratumoral lymphatic vessel density was assessed .
+The lymphatic vessels proliferation index was evaluated by calculating Ki-67 proliferation index ( PI ) to reflect the lymphangiogenesis of cervical squamous cancer .
+Then the correlation between lymphangiogenesis and clinicopathologic features of cervical squamous cancer was analyzed .
+RESULTS The LVD of cervical cancer ( 15.23 � 3.6 ) was clearly higher than that of the adjacent normal cervical subepithelial tissues ( 9.9 � 2.5 , P < 0.001 ) .
+The peritumoral lymphatic vessel density of cervical cancer ( 18.75 � 4.3 ) was significantly higher than the intratumoral lymphatic vessel density of cervical cancer ( 11.71 � 4.9 , P < 0.001 ) .
+Lymphatic PI ( LPI ) of cervical cancer ( 0.258 � 0.07 ) was higher than that of the adjacent normal cervical subepithelial tissues ( 0.068 � 0.08 , P < 0.001 ) .
+The peritumoral lymphatic vessel PI of cervical cancer ( 0.324 � 0.06 ) was notably higher than the intratumoral lymphatic vessel PI of cervical cancer ( 0.232 � 0.06 , P < 0.001 ) .
+Peritumoral lymphatic vessel density and peritumoral lymphatic vessel were clearly associated with the lymph node metastasis ( P = 0.001 and P = 0.002 , respectively ) and lymphovascular space invasion ( P = 0.024 and P = 0.01 , respectively ) .
+CONCLUSIONS The high density of peritumoral lymphatic vessels is a potential predictor of more aggressive phenotype of cervical squamous cancer .

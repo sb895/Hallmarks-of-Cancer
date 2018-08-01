@@ -1,0 +1,11 @@
+Hormone-dependent estrogen receptor positive ( ER+ ) breast cancers generally respond well to anti-estrogen therapy .
+Unfortunately , hormone-independent estrogen receptor negative ( ER- ) breast cancers are aggressive , respond poorly to current treatments and have a poor prognosis .
+New approaches and targets are needed for the prevention and treatment of ER- breast cancer .
+The NF-κB signaling pathway is strongly implicated in ER- tumor genesis , constituting a possible target for treatment .
+Hydrogen sulfide-releasing aspirin ( HS-ASA ) , a novel and safer derivative of aspirin , has shown promise as an anti-cancer agent .
+We examined the growth inhibitory effect of HS-ASA via alterations in cell proliferation , cell cycle phase transitions , and apoptosis , using MDA-MB-231 cells as a model of triple negative breast cancer .
+Tumor xenografts in mice , representing human ER- breast cancer , were evaluated for reduction in tumor size , followed by immunohistochemical analysis for proliferation , apoptosis and expression of NF-κB .
+HS-ASA suppressed the growth of MDA-MB-231 cells by induction of G(0)/G(1) arrest and apoptosis , down-regulation of NF-κB , reduction of thioredoxin reductase activity , and increased levels reactive oxygen species .
+Tumor xenografts in mice , were significantly reduced in volume and mass by HS-ASA treatment .
+The decrease in tumor mass was associated with inhibition of cell proliferation , induction of apoptosis and decrease in NF-κB levels in vivo .
+HS-ASA has anti-cancer potential against ER- breast cancer and merits further study .

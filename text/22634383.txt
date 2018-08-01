@@ -1,0 +1,10 @@
+Cancer cells have elevated aerobic glycolysis that is termed the Warburg effect .
+But several tumor cells , including leukemic cells , also increase glutamine metabolism , which is initiated by glutaminase ( GLS ) .
+The microRNA ( miRNA ) miR-23 targets GLS mRNA and inhibits expression of GLS protein .
+Here we show that in human leukemic Jurkat cells the NF-κB p65 subunit binds to miR-23a promoter and inhibits miR-23a expression .
+Histone deacetylase ( HDAC ) inhibitors release p65-induced inhibition .
+Jurkat cells growing in glutamine decrease proliferation due to cell accumulation in G0/G1 phase .
+Nevertheless , cells get used to this new source of energy by increasing GLS expression , which correlates with an increase in p65 expression and its translocation to the nucleus , leading to a higher basal NF-κB activity .
+Jurkat cells overexpressing p65 show increase basal GLS expression and proliferate faster than control cells in glutamine medium .
+Overexpressing miR-23a in leukemic cells impaired glutamine use and induces mitochondrial dysfunction leading to cell death .
+Therefore , p65 activation decreases miR-23a expression , which facilitates glutamine consumption allowing leukemic cells to use this alternative source of carbon and favoring their adaptation to the metabolic environment .

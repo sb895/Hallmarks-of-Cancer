@@ -1,0 +1,8 @@
+p53 is a crucial tumor suppressor that is mutated or deleted in a majority of cancers .
+Exactly how p53 prevents tumor progression has proved elusive for many years ; however , this information is crucial to define targets for chemotherapeutic development that can effectively restore p53 function .
+Bioactive sphingolipids have recently emerged as important regulators of proliferative , apoptotic and senescent cellular processes .
+In this study , we demonstrate that the enzyme sphingosine kinase 1 ( SK1 ) , a critical enzyme in the regulation of the key bioactive sphingolipids ceramide , sphingosine and sphingosine-1-phosphate ( S1P ) , serves as a key downstream target for p53 action .
+Our results show that SK1 is proteolysed in response to genotoxic stress in a p53-dependent manner. p53 null mice display elevation of SK1 levels and a tumor-promoting dysregulation of bioactive sphingolipids in which the anti-growth sphingolipid ceramide is decreased and the pro-growth sphingolipid S1P is increased .
+Importantly , deletion of SK1 in p53 null mice completely abrogated thymic lymphomas in these mice and prolonged their life span by Deletion of SK1 also significantly attenuated the formation of other cancers in p53 heterozygote mice .
+The mechanism of p53 tumor suppression by loss of SK1 is mediated by elevations of sphingosine and ceramide , which in turn were accompanied by increased expression of cell cycle inhibitors and tumor cell senescence .
+Thus , targeting SK1 may restore sphingolipid homeostasis in p53-dependent tumors and provide insights into novel therapeutic approaches to cancer .

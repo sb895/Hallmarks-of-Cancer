@@ -1,0 +1,6 @@
+OBJECTIVE To explore the clinical significance of miRNA-216a expression in pancreatic cancer .
+METHODS Fourteen patients with pancreatic cancer undergoing pancreaticoduodenectomy and 6 patients with benign pancreas lesions were examined for miR-216a expressions in the tumor or lesion tissues using Agilent Human miRNA Microarray ( V12.0 ) .
+The relationship between miR-216a expressions and the clinicopathological features of the patients was analyzed .
+RESULTS The expression of miRNA-216a was significantly lower in pancreatic cancer than in benign pancreas lesions ( P=0.000 ) .
+The expression of miRNA-216a was significantly correlated with the T stage of the tumor ( P=0.002 ) , but not with the patients ' age , gender , smoking status , tumor stage , lymph node metastases , distant metastasis , tumor differentiation , nerve invasion , vessel invasion or serum CA19-9 level ( P>0.05 ) .
+CONCLUSIONS The down-regulated expression of miR-216a in pancreatic cancer suggests the involvement of miR-216a in the tumorigenesis and development of pancreatic cancer. miR-216a may potentially serve as a novel tumor marker and also a prognostic factor for pancreatic cancer .

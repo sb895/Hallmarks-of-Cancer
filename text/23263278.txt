@@ -1,0 +1,6 @@
+The mechanisms by which tumour cells metastasize and the role that cell polarity proteins play in this process are not well understood .
+We report that partitioning defective protein 3 ( Par3 ) is dysregulated in metastasis in human breast cancer , and is associated with a higher tumour grade and ErbB2-positive status .
+Downregulation of Par3 cooperated with ErbB2 to induce cell invasion and metastasis in vivo .
+Interestingly , the metastatic behaviour was not associated with an overt mesenchymal phenotype .
+However , loss of Par3 inhibited E-cadherin junction stability , disrupted membrane and actin dynamics at cell-cell junctions and decreased cell-cell cohesion in a manner dependent on the Tiam1/Rac-GTP pathway .
+Inhibition of this pathway restored E-cadherin junction stability and blocked invasive behaviour of cells lacking Par3 , suggesting that loss of Par3 promotes metastatic behaviour of ErbB2-induced tumour epithelial cells by decreasing cell-cell cohesion .

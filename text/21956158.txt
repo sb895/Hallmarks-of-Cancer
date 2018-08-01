@@ -1,0 +1,11 @@
+Omeprazole is a proton pump inhibitor , a widely used drug to treat ulcers and gastroesophageal refluxdisease .
+We have evaluated colon cancer chemopreventive properties of omeprazole using azoxymethane ( AOM)-induced colonic aberrant crypt foci ( ACF ) in male F344 rats and analyzed cell growth inhibition and apoptosis induction in human colon cancer cells .
+Five-week-old male F344 rats were fed a control or experimental diet containing two doses of omeprazole ( 200 and 400ppm ) .
+After one week , all animals were s.c. injected with AOM ( 15mg/kg body weight , once weekly for two weeks ) .
+Rats continued on experimental diets for seven more weeks before being sacrificed .
+Colons were histopathologically evaluated for ACF .
+Human colon cancer HCT-116 and HCA-7 cells treated with omeprazole were evaluated for different markers associated with proliferation and apoptotic markers using Western blot technique .
+Rats fed with 200 and 400ppm of omeprazole significantly suppressed total colonic ACF formation ( P<0.001 ) and showed significant suppression of multi-crypt foci ( P<0.05-0.001 ) .
+Omeprazole produced significant dose-response effects on inhibition of multi-crypt foci ( ≥4 ) .
+Omeprazole treatment in human colon cancer cell lines HCT-116 and HCA-7 cells resulted in induction of p21waf1/cip1 and decreased the expression of anti-apoptotic proteins Bcl-2 , Bcl-XL and survivin in a dose-dependent manner .
+Anticancer properties observed in colon cancer cell lines suggest that omeprazole may induce key signaling molecules of antiproliferation and inhibition of anti-apoptotic proteins .

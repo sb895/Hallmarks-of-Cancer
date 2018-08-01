@@ -1,0 +1,6 @@
+This study is to investigate the effects of bortezomib on the angiogenesis of mesenchymal stem cells ( MSCs ) .
+We examined the effects of bortezomib on the cellular proliferation , migration , and capillary network formation of HUVECs cocultured with CMs of MSCs .
+We found that Bortezomib inhibited the cellular proliferation and tube formation of HUVECs cocultured with CMs in a dose-dependent fashion .
+Bortezomib also prevented the migration of HUVECs cocultured with CMs .
+In addition , bortezomib dose-dependently inhibited the growth of MSCs and prevented the production of angiogenic factors including VEGF ( vascular endothelial growth factor ) , HGF ( hepatocyte growth factor ) , and bFGF ( basic fibroblast growth factor ) in MSCs .
+In conclusion , bortezomib prevented the angiogenesis mediated by MSCs .

@@ -1,0 +1,12 @@
+PURPOSE Precise monitoring of active angiogenesis in neovascular eye diseases such as age-related macular degeneration ( AMD ) enables sensitive use of antiangiogenic drugs and reduces adverse side effects .
+So far , no in vivo imaging methods are available to specifically label active angiogenesis .
+Here , we report such a technique using fluorophore-labeled cationic liposomes ( CL ) detected with a standard clinical in vivo scanning laser ophthalmoscope ( SLO ) .
+METHODS C57Bl/6 mice underwent laser coagulations at day 0 ( d0 ) to induce choroidal neovascularization ( CNV ) .
+Liposomes labeled with Oregon green , rhodamine ( Rh ) , or indocyanine green ( ICG ) were injected into the tail vein at various time points after laser coagulation , and their fluorescence was observed in vivo 60 min later using an SLO , or afterwards in choroidal flatmounts or cryosections .
+RESULTS SLO detected accumulated fluorescence only in active CNV lesions with insignificant background noise .
+The best signal was obtained with CL-ICG .
+Choroidal flatmounts and cryosections of the eye confirmed the location of retained CL in CNV lesions .
+Neutral liposomes , in contrast , showed no accumulation .
+CONCLUSIONS These results establish fluorophore-labeled CL as high affinity markers to selectively stain active CNV .
+This novel , non-invasive SLO imaging technique could improve risk assessment and indication for current intraocular antiangiogenic drugs in neovascular eye diseases , as well as monitor therapeutic outcomes .
+Labeling of angiogenic vessels using CL can be of interest not only for functional imaging in ophthalmology but also for other conditions where localization of active angiogenesis is desirable .

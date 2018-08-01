@@ -1,0 +1,6 @@
+Manipulating acetylation status of key gene targets is likely to be crucial for effective cancer therapy .
+In this study , we utilized green tea catechins , epicatechin ( EC ) , epigallocatechin ( EGC ) and epigallocatechin-3-gallate ( EGCG ) to examine the regulation of androgen receptor acetylation in androgen-dependent prostate cancer cells by histone acetyl-transferase ( HAT ) activity .
+EC , EGC and EGCG induced prostate cancer cell death , suppressed agonist-dependent androgen receptor ( AR ) activation and AR-regulated gene transcription .
+These results demonstrated a similar tendency to HAT inhibitory activities ; EGCG>EGC>EC .
+The strongest HAT inhibitor among them , EGCG ( 50 �M ) , downregulated AR acetylation and finally , AR protein translocation to nucleus from the cytoplasmic compartment was effectively inhibited in the presence of the agonist .
+These results suggest another mechanism to develop effective therapeutics based on green tea catechins .

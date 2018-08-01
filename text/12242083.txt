@@ -1,0 +1,5 @@
+Glycolysis is known to be the primary energy source in most cancer cells .
+We investigated here the effect of clotrimazole ( 1-(alpha-2-chlorotrityl)imidazole ) , the antifungal azole derivative , which was recently recognized as calmodulin antagonist , on the levels of glucose 1,6-bisphosphate and fructose 1,6-bisphosphate , the two stimulatory signal molecules of glycolysis , and on ATP content and cell viability in LL/2 Lewis lung carcinoma cells and CT-26 colon adenocarcinoma cells .
+We found that clotrimazole induced a significant , dose- and time-dependent reduction in the levels of glucose 1,6-bisphosphate , fructose 1,6-bisphosphate , ATP , and cell viability .
+These findings suggest that clotrimazole causes a reduction in glycolysis and ATP levels , which eventually leads to cell destruction after 3 h of treatment .
+Since cell proliferation was also reported to be inhibited by calmodulin antagonists , this substance is most promising agent in treatment of cancer by inhibiting both cell proliferation and the glycolytic supply of ATP required for cancer cell growth .

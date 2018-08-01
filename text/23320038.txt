@@ -1,0 +1,5 @@
+Momordica charantia has been found to exhibit anticancer activity , in addition to its well-known therapeutic functions .
+We have demonstrated that the leaf extract of Momordica charantia ( MCME ) induces apoptosis in several human cancer cells through caspase- and mitochondria-dependent pathways .
+In this study , a different susceptibility to MCME was found in human lung adenocarcinoma CL1 cells with different metastatic ability , leading to the significant difference of cell viability and invasiveness between MCME-treated CL1-0 and CL1-5 cells .
+MCME was found to upregulate the expression of Wnt-2 and affect the migratory and invasive ability of CL1 cells through suppressed MMP-2 and MMP-9 enzymatic activities .
+We proposed that MCME mediates inhibition against migration of CL1 cells by reducing the expression and activation of Src and FAK to decrease the expression of downstream Akt , β-catenin , and MMPs .

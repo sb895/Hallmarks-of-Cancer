@@ -1,0 +1,12 @@
+Cyclin-dependent kinases are most extensively studied targets for cancer chemotherapy since the tumor cells exhibit false checkpoints and can proliferate even if the genome is compromised .
+Cyclin-dependent kinases ensure the tight regulation of the cell cycle execution by mediating phosphorylation of cellular proteins .
+Deregulation of the cyclin-dependent kinase 2 activity by cellular and external factors leads to many diseases like cancers .
+Different methods like radiolabeled , fluorescence and luminescence are available for screening of library of compounds against kinases .
+However , bioluminescent methods offer several advantages like low background and no effect of fluorescent compound interference .
+Present study is focused on development , optimization and validation of cyclin-dependent kinase 2 assay which is suitable for identification potent and selective , ATP competitive and non-competitive inhibitors of cyclin-dependent kinase 2 .
+The aim of present investigation was to optimize the assay for cyclin-dependent kinase 2/cylin A and cyclin-dependent kinase 2/cyclin E with use of bioluminescence based biochemical reaction .
+Both cyclin-dependent kinase 2 which are cyclin-dependent kinase 2/cyclin A and cyclin-dependent kinase 2/cyclin E complexes , have different affinity for ATP .
+Therefore , both isoform analogs of cyclin-dependent kinase 2 were optimized separately .
+Optimum cyclin-dependent kinase 2/cyclin A and cyclin-dependent kinase 2/cyclin E concentration were found to be 250 ng/well and 200 ng/well , respectively .
+Optimum substrate ( histone H1 ) concentration was found to be 2.5 mg/ml for both cyclin-dependent kinase 2 analogs .
+Optimum reaction time was found to be 20 min for both cyclin-dependent kinase 2/cyclin complexes .

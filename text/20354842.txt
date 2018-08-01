@@ -1,0 +1,8 @@
+Tumor necrosis factor related apoptosis-inducing ligand ( TRAIL ) and agonistic anti-DR4/TRAIL-R1 and anti-DR5/TRAIL-R2 antibodies are currently under clinical investigation for treatment of different malignancies .
+TRAIL activates DR4 and DR5 and thereby triggers apoptotic and non-apoptotic signaling pathways , but possible different roles of DR4 or DR5 in these responses has poorly been addressed so far .
+In the present work , we analyzed cell viability , DISC formation as well as IL-8 and NF-kappaB activation side by side in responses to TRAIL and agonistic antibodies against DR4 ( mapatumumab ) and against DR5 ( lexatumumab ) in pancreatic ductal adenocarcinoma cells .
+We found that all three reagents are able to activate cell death and pro-inflammatory signaling .
+Death-inducing signaling complex ( DISC ) analysis revealed that mapatumumab and lexatumumab induce formation of homocomplexes of either DR4 or DR5 , whereas TRAIL additionally stimulated the formation of heterocomplexes of both receptors .
+Notably , blocking of receptors using DR4- and DR5-specific Fab fragments indicated that TRAIL exerted its function predominantly via DR4 .
+Interestingly , inhibition of PKC by Goe6983 enabled DR5 to trigger apoptotic signaling in response to TRAIL and also strongly enhanced lexatumumab-mediated cell death .
+Our results suggest the existence of mechanisms that silence DR5 for TRAIL- but not for agonistic-antibody treatment .

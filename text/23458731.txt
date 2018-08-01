@@ -1,0 +1,8 @@
+We recently reported that chronic myeloid leukaemia ( CML ) patients harbour high levels of STAT5 when they progress to advanced phases of disease .
+Advanced disease is characterized by an increased incidence of BCR-ABL1 mutations .
+We now describe a highly significant correlation between STAT5 expression and the incidence of BCR-ABL1 mutations in primary CML .
+Forced expression of STAT5 in murine BCR-ABL1 transformed cells sufficed to enhance the production of reactive oxygen species ( ROS ) and to trigger DNA damage .
+STAT5-mediated ROS production is independent of JAK2 but requires concomitant BCR-ABL1 signalling as forced STAT5 expression in untransformed BCR-ABL1 negative cells has no impact on ROS levels .
+Only within the context of a BCR-ABL1 positive cell does STAT5 transcriptionally regulate a target gene or set of genes that causes the enhanced ROS production .
+Our study suggests the existence of a feed-forward loop accelerating disease progression , in which BCR-ABL1 enhances its own mutation rate in a STAT5-ROS dependent manner .
+This model explains the increased occurrence of inhibitor-resistant BCR-ABL1 mutations in advanced disease stages driven and characterized by high STAT5 expression .

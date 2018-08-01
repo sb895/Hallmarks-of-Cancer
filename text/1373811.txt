@@ -1,0 +1,9 @@
+Human diploid fibroblasts have a limited life span in vitro , and spontaneous immortalization is an extremely rare event .
+We have used transformation of human diploid fibroblasts by an origin-defective simian virus 40 genome to develop series of genetically matched immortal cell lines to analyze immortalization .
+Comparison of a preimmortal transformant ( SVtsA/HF-A ) with its uncloned and cloned immortalized derivatives ( AR5 and HAL ) has failed to reveal any major alteration involving the simian virus 40 genome .
+Karyotypic analysis , however , demonstrated that all of the immortal cell lines in this series have alterations of chromosome 6 involving loss of the portion distal to 6q21 .
+The karyotypic analysis was corroborated by DNA analyses .
+Southern analysis demonstrated that only one copy of three proto-oncogene loci ( ros1 , c-myb , and mas1 ) on 6q was retained in immortal cells .
+Polymerase chain reaction analysis of the microsatellite polymorphism at 6q22 ( D6S87 ) showed loss of heterozygosity .
+In addition , elevated expression of c-myb ( 6q22-23 ) was observed .
+We hypothesize that the region at and/or distal to 6q21 plays a role in immortalization , consistent with the presence of a growth suppressor gene .

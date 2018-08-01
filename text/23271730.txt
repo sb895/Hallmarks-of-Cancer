@@ -1,0 +1,13 @@
+The role of inflammatory cytokine interleukin-20 ( IL-20 ) has not yet been studied in cancer biology .
+Here , we demonstrated up-regulation of both IL-20 and IL-20R1 in muscle invasive bladder cancer ( MIBC ) patients .
+The expressions of IL-20 and IL-20R1 were observed in bladder cancer 5637 and T-24 cells .
+We found that IL-20 significantly increased the expression of matrix metalloproteinase ( MMP)-9 via binding activity of NF-κB and AP-1 in bladder cancer cells and stimulated the activation of ERK1/2 , JNK , p38MAPK , and Jak-Stat signaling .
+Among the pathways examined , only ERK1/2 inhibitor U0126 significantly inhibited IL-20-induced migration and invasion .
+Moreover , siRNA knockdown of IL-20R1 suppressed migration , invasion , ERK1/2 activation , and NF-κB-mediated MMP-9 expression induced by IL-20 .
+Unexpectedly , cell cycle inhibitor p21WAF1 was induced by IL-20 treatment without altering cell cycle progression .
+Blockade of p21WAF1 function by siRNA reversed migration , invasion , activation of ERK signaling , MMP-9 expression , and activation of NF-κB in IL-20-treated cells .
+In addition , IL-20 induced the activation of IKK , the degradation and phosphorylation of IκBa , and NF-κB p65 nuclear translocation , which was regulated by ERK1/2 .
+IL-20 stimulated the recruitment of p65 to the MMP-9 promoter region .
+Finally , the IL-20-induced migration and invasion of cells was confirmed by IL-20 gene transfection and by addition of anti-IL-20 antibody .
+This is the first report that p21WAF1 is involved in ERK1/2-mediated MMP-9 expression via increased binding activity of NF-κB , which resulted in the induction of migration in IL-20/IL-20R1 dyad-induced bladder cancer cells .
+These unexpected results might provide a critical new target for the treatment of bladder cancer .

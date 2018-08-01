@@ -1,0 +1,7 @@
+The atmospheric polychlorinated dibenzo-p-dioxins ( PCDDs ) partition appreciably in the gas phase , where they undergo rapid oxidation .
+The atmospheric oxidation mechanisms of a few PCDDs , initiated by OH radical , are studied using density functional theory calculations .
+The oxidations start with OH-addition to the aromatic rings , dominantly at \u03b3-sites , followed by the non-chlorinated \u03b2-sites ; while additions to the \u03b1-sites or chlorinated sites are negligible .
+For PCDDs with all \u03b2-sites being chlorinated , formation of PCDD-\u03b3-OH adducts become virtually the only reaction path .
+Under the atmospheric conditions , the PCDD-\u03b2/\u03b3-OH adducts combine with O(2) slowly at rates <1s(-1) .
+Instead , the PCDD-\u03b2-OH adducts will react with O(2) through hydrogen abstraction at rates <50s(-1) , forming PCDD-\u03b2-ol , and the PCDD-\u03b3-OH adducts will decompose to the substituted phenoxy radicals by fused-ring C-O bond cleavage at rates of 10(3) s(-1) .
+The reaction mechanisms of PCDDs are drastically different from the peroxy mechanism for the atmospheric oxidations of benzene and dibenzofuran .

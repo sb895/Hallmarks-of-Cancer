@@ -1,0 +1,11 @@
+Protein kinase B ( AKT)/mammalian target of rapamycin ( mTOR ) signaling pathway plays a crucial role in the tumorigenesis and progression of multiple tumors , and has been shown to be important therapeutic targets for cancer .
+The present study aimed to explore the role and molecular mechanisms of AKT/mTOR pathway in human hemangioma ( HA ) .
+Twenty-five cases of human HA tissues were collected .
+The expression of AKT , mTOR and proliferating cell nuclear antigen ( PCNA ) proteins was evaluated using semi-quantitative immunohistochemistry in biopsy samples in different phases of HA .
+AKT/mTOR pathway was blocked by recombinant small hairpin RNA adenovirus vector rAd5-AKT+mTOR ( rAd5-Am ) , used for infecting proliferating phase HA-derived endothelial cells ( HDEC ) .
+The expression of AKT , mTOR and PCNA was detected by Real-time PCR and Western blot assays .
+Cell proliferative activities were determined by MTT assay , and cell cycle distribution and apoptosis were analyzed by flow cytometry .
+As a consequence , the expression of AKT , mTOR and PCNA was significantly increased in proliferative phase HA , while that was decreased in involutive phase .
+Combined blockade of AKT/mTOR pathway by rAd5-Am diminished cell proliferative activities , and induced cell apoptosis and cycle arrest with the decreased expression of AKT , mTOR and PCNA in proliferative phase HDEC .
+In conclusion , the activity of AKT/mTOR pathway was increased in proliferative phase HA , while it was decreased in involutive phase .
+Combined blockade of AKT/mTOR pathway might suppress cell proliferation via down-regulation of PCNA expression , and induce apoptosis and cycle arrest in proliferative phase HDEC , suggesting that AKT/mTOR pathway might represent the important therapeutic targets for human HA .

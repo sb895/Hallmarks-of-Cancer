@@ -1,0 +1,8 @@
+Targeting receptor tyrosine kinase ( RTK ) degradation may be an interesting approach to reduce RTK cell signaling in cancer cells .
+Here we show that increasing E3 ubiquitin ligase casitas B-lineage lymphoma ( c-Cbl ) expression using lentiviral infection decreased osteosarcoma cell replication and survival and reduced cell migration and invasion in murine and human osteosarcoma cells .
+Conversely , c-Cbl inhibition using short hairpin RNA ( shRNA ) increased osteosarcoma cell growth and survival , as well as invasion and migration , indicating that c-Cbl plays a critical role as a bone tumor suppressor .
+Importantly , the anticancer effect of increasing c-Cbl expression in osteosarcoma cells was related mainly to the downregulation of epidermal growth factor receptor ( EGFR ) and platelet-derived growth factor receptor alpha ( PDGFRα ) .
+In a murine bone tumor model , increasing c-Cbl expression also reduced RTK expression , resulting in decreased tumor cell proliferation and survival and reduced tumor growth .
+Interestingly , increasing c-Cbl also markedly reduced lung metastasis in mice .
+Tissue microarray analysis revealed that low c-Cbl protein expression is associated with elevated EGFR and PDGFRα protein levels in human osteosarcoma with poor outcome .
+This study shows that increasing c-Cbl expression reduces osteosarcoma cell growth , survival , and metastasis in part through downregulation of RTKs , which supports the potential therapeutic interest of targeting c-Cbl in malignant bone diseases involving increased RTK .

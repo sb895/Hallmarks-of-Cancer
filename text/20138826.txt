@@ -1,0 +1,6 @@
+Acidosis commonly observed in solid tumors like pancreatic cancer promotes genetic instability and selection of a more malignant phenotype of cancer cells .
+Overexpression or activation of integral membrane proteins mediating H+ efflux may contribute to extracellular acidification .
+Neurotensin ( NT ) induces intracellular alkalinization and stimulates interleukin-8 production in pancreatic cancer cells and , as demonstrated here , the stable NT analog Lys(8)-psi-Lys(9)NT(8-13) enhances the amiloride-sensitive , Na+-dependent transmembrane H+ flux by a factor of 2.05+/-0.28 and 2.69+/-0.07 in BxPC-3 and PANC-1 pancreatic cancer cells , respectively , by phosphorylation of the Na+/H+ exchanger 1 ( NHE1 ) .
+Human genome-wide gene expression analysis was performed to detect effects of Lys(8)-psi-Lys(9)NT(8-13) on BxPC-3 cells .
+Results indicated upregulation of genes involved in regulation of NHE1 , hypoxic response and glycolysis in response to Lys(8)-psi-Lys(9)NT(8-13) even under normoxic conditions .
+Therefore , our findings suggest that growth factors like NT may be implicated in the early progression of pancreatic cancer by localized acidification and induction of an aerobic glycolytic phenotype with higher metastatic potential in small cell aggregates .

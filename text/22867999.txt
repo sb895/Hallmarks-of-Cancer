@@ -1,0 +1,11 @@
+The role of energy deregulation and altered/adapted metabolism in tumor cells is an increasingly important issue in understanding cancer .
+Hereditary leiomyomatosis and renal cell carcinoma ( HLRCC ) is an aggressive form of RCC characterized by germline mutation of fumarate hydratase ( FH ) , followed by somatic loss of the remaining wild-type allele and known to be a highly metastatic and lethal malignancy compared to other RCCs .
+The intrinsic loss of normal tricarboxylic acid ( TCA ) cycle presumably aids tumorigenesis due to the necessary metabolic alterations required and the enforced dependence on glycolysis derived energy , mimicking the Warburg effect .
+Thus , there is considerable utility in establishing a preclinical cell model from these tumors to study energy metabolism deregulation , as well as developing new targeted therapeutic approaches for TCA cycle enzyme-deficient cancers .
+Here , we describe a new immortalized cell line , UOK268 , derived from a patient's primary HLRCC-associated kidney cancer .
+This represents the first primary renal cell line to model TCA cycle gene loss and provides a perfect partner cell line to our previously described metastasis-derived HLRCC-associated cell line , UOK262 .
+We identified a novel germline FH missense mutation , p.His192Asp , and the subsequent loss of heterozygosity in UOK268 .
+The UOK268 cell line expressed mutant FH protein , which localized to the mitochondria , but with loss of almost all catalytic activity .
+The UOK268 cells had severely compromised oxidative phosphorylation and increased glycolytic flux .
+Ingenuity pathways analysis of human mitochondria-focused cDNA microarray ( hMitChip3 ) gene chip data confirmed the altered mRNA expression patterns of genes involved in several important pathways , such as lipid metabolism , apoptosis , and energy production/glycolysis .
+UOK268 provides a unique model of a primary cell line demonstrating an enforced , irreversible Warburg effect and , combined with UOK262 , provides a unique invitro preclinical model for studying the bioenergetics of the Warburg effect in human cancer .

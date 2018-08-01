@@ -1,0 +1,9 @@
+Ceramide induces cell cycle arrest and apoptotic cell death associated with increased levels of p27(kip1) .
+The aim of this study was to examine the effects of ceramide on p27(kip1) protein levels as a measure of cell cycle arrest and apoptosis .
+Results showed that ceramide increased p27(kip1) protein levels through activation of protein phosphatase 2A ( PP2A ) in PC-3 prostate cancer cells .
+Treatment of cells with the PP2A inhibitor okadaic acid or with PP2A-Cα siRNA inhibited ceramide-induced enhanced p27(kip1) protein expression and Akt dephosphorylation , and prevented Skp2 downregulation .
+Overexpression of constitutively active Akt attenuated ceramide-induced Skp2 downregulation and p27(kip1) upregulation .
+In addition , ceramide stimulated binding of the PP2A catalytic subunit PP2A-Cαβ to Akt as assessed by immunoprecipitation experiments , indicating that PP2A is involved in the induction of p27(kip1) via inhibition of Akt pathway .
+Finally , whether PP2A can regulate p27(kip1) expression independently of Akt pathway was determined .
+Knockdown of PP2A-Cα with siRNA reduced p27(kip1) levels in the presence of Akt inhibitor .
+These data reveal that PP2A is a regulator of ceramide-induced p27(kip1) expression via Akt-dependent and Akt-independent pathways .

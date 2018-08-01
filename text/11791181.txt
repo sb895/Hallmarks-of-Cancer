@@ -1,0 +1,10 @@
+To characterize the impact of increased production of TGF-beta in a xenograft model of human breast cancer , TGF-beta-responsive MDA-231 cells were genetically modified by stable transfection so as to increase their production of active TGF-beta1 .
+Compared with control cells , cells that produced increased amounts of TGF-beta proliferated in vitro more slowly .
+In vivo , however , tumors derived from these cells exhibited increased proliferation and grew at an accelerated pace .
+To evaluate the role of autocrine TGF-beta signaling , cells were also transfected with a dominant-negative truncated type II TGF-beta receptor ( TbetaRII ) .
+Disruption of autocrine TGF-beta signaling in the TGF-beta-overexpressing cells reduced their in vivo growth rate .
+Co-inoculation of Matrigel with the TGF-beta-overexpressing cells expressing the truncated TbetaRII compensated for their diminished in vivo growth capacity , compared with the TGF-beta-overexpressing cells with an intact autocrine loop .
+Tissue invasion by the tumor was a distinctive feature of the TGF-beta-overexpressing cells , whether or not the autocrine loop was intact .
+Furthermore , tumors derived from TGF-beta-overexpressing cells , irrespective of the status of the autocrine TGF-beta-signaling pathway , had a higher incidence of lung metastasis .
+Consistent with the suggestion that TGF-beta's enhancement of invasion and metastasis is paracrine-based , we observed no significant differences among the cell clones in an in vitro invasion assay .
+Thus , in this experimental model system in vitro assays of cell proliferation and invasion do not accurately reflect in vivo observations , perhaps due to autocrine and paracrine effects of TGF-beta that influence the important in vivo-based phenomena of tumor growth , invasion , and metastasis .

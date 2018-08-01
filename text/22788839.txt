@@ -1,0 +1,8 @@
+Overexpression of the Candida albicans ATP-binding cassette transporter CaCdr1p causes clinically significant resistance to azole drugs including fluconazole ( FLC ) .
+Screening of a × 10(6) member D-octapeptide combinatorial library that concentrates library members at the yeast cell surface identified RC21v3 , a 4-methoxy-2,3,6-trimethylbenzenesulphonyl derivative of the D-octapeptide D-NH(2) -FFKWQRRR-CONH(2) , as a potent and stereospecific inhibitor of CaCdr1p .
+RC21v3 chemosensitized Saccharomyces cerevisiae strains overexpressing CaCdr1p but not other fungal ABC transporters , the C. albicans MFS transporter CaMdr1p or the azole target enzyme CaErg11p , to FLC .
+RC21v3 also chemosensitized clinical C. albicans isolates overexpressing CaCDR1 to FLC , even when CaCDR2 was overexpressed .
+Specific targeting of CaCdr1p by RC21v3 was confirmed by spontaneous RC21v3 chemosensitization-resistant suppressor mutants of S. cerevisiae expressing CaCdr1p .
+The suppressor mutations introduced a positive charge beside , or within , extracellular loops 1 , 3 , 4 and 6 of CaCdr1p or an aromatic residue near the extracytoplasmic end of transmembrane segment 5 .
+The mutations did not affect CaCdr1p localization or CaCdr1p ATPase activity but some increased susceptibility to the CaCdr1p substrates FLC , rhodamine 6G , rhodamine 123 and cycloheximide .
+The suppressor mutations showed that the drug-like CaCdr1p inhibitors FK506 , enniatin , milbemycin \u03b111 and milbemycin \u03b29 have modes of action similar to RC21v3 .

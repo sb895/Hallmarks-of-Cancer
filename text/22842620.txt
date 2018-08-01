@@ -1,0 +1,7 @@
+In a screen for thoracic malignancy-associated markers , thyroid stimulating hormone receptor ( TSHR ) was identified as a candidate as it binds to the previously-characterized lung cancer marker NKX2-1 .
+We screened for mutations in all coding regions of the TSHR gene in 96 lung adenocarcinoma samples and their matched adjacent normal lung samples .
+We found one patient with a somatic mutation at codon 458 ( exon 10 ) , which is located at the transmembrane domain where most TSHR mutations have been found in thyroid-related diseases .
+This patient had lung adenocarcinoma with BAC ( bronchioloalveolar carcinoma ) features in the setting of a prior medical history significant for carotid stenosis and severe chronic obstructive pulmonary disease ( COPD ) .
+In order to characterize the genetic features of TSHR in lung cancer , we checked for TSHR expression and copy number in the 96 lung cancer tissues .
+TSHR protein expression was generally overexpressed in multiple thoracic malignancies ( adenocarcinoma , squamous cell carcinoma and malignant pleural mesothelioma ) by immunohistochemistry .
+Our data suggest that aberrant TSHR function may contribute to lung cancer development or a subgroup of lung cancer with specific clinical phenotypes .

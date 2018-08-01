@@ -1,0 +1,9 @@
+CDA-2 ( cell differentiation agent 2 ) , a urinary preparation , has potent anti- proliferative and pro-apoptotic properties in cancer cells .
+However , the mechanisms of tumor inhibitory action of CDA-2 are far from clear , and especially there was no report on lung cancer .
+Here we demonstrate that CDA-2 and its main component phenylacetylglutamine ( PG ) reduce the metastatic lung tumor growth , and increases survival time after inoculation with Lewis lung carcinoma ( LLC ) cells in a dose-dependent manner in C57BL6 mice .
+Proliferative program analysis in cancer cells revealed a fundamental impact of CDA-2 and PG on proliferation and apoptosis , including Bcl-2 , Bcl-XL , cIAP1 , Survivin , PCNA , Ki-67 proteins and TUNEL assays .
+CDA-2 and PG significantly reduced NF-κB DNA-binding activity in lung cancer cells and in alveolar macrophages of tumor bearing mice and especially decreased the release of inflammatory factors including TNFα , IL-6 , and KC .
+Furthermore , CDA-2 and PG decrease the expressions of TLR2 , TLR6 , and CD14 , but not TLR1 , TLR3 , TLR4 , and TLR9 in bone-marrow-derived macrophages ( BMDM ) of mice stimulated by LLC-conditioned medium ( LLC-CM ) .
+Over-expressing TLR2 in BMDM prevented CDA-2 and PG from inhibiting NF-κB activation , as well as induction of TNFα and IL-6 .
+TLR2:TLR6 complexes mediate the effect of NF-κB inactivation by CDA-2 .
+In conclusion , CDA-2 potently inhibits lung tumor development by reduction of the inflammation in lung through suppression of NF-κB activation in myeloid cells , associating with modulation of TLR2 signaling .

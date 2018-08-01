@@ -1,0 +1,14 @@
+BACKGROUND Growth Regulation by Estrogen in Breast cancer ( GREB1 ) was an estrogen receptor ( ER ) target gene , and GREB1 expression inversely correlated with HER2 status , possibly as a surrogate marker for ER status and a predictor for tamoxifen resistance in breast cancer patients .
+In the present study , we examine the function and regulation of GREB1 in breast cancer , with the goal to develop GREB1 as a biomarker in breast cancer with de novo and acquired tamoxifen resistance .
+METHODS We overexpressed GREB1 using adenovirus containing the full length GREB1 cDNA ( Ad-GREB1 ) in breast cancer cell lines .
+The soft agar assay was used as a measure of anchorage independent growth .
+The effects of GREB1 on cell proliferation in MCF-7 cells transduced with Ad-GREB1 were also measured by the me olic activity using AlamarBlue assay .
+We tested whether there was interaction between STAT3 and ER , which could repress GREB1 expression by immunoprecipitation assay .
+The effects of IL-6/JAK/STAT3 cascade activation on estrogen-induced GREB1 promoter activity were determined by luciferase assay and those on gene expression were measured by real time reverse transcription polymerase chain reaction ( qRT-PCR ) .
+RESULTS We found that the ability of breast cancer cells to grow in soft agar is enhanced following GREB1 transfection .
+In MCF-7 cells transduced with Ad-GREB1 or transfected with siRNA GREB1 , the metabolic activity was increased or completely abolished , suggesting that GREB1 may function as a growth promoter in breast cancer .
+E2 treatment increased GREB1 promoter luciferase activity .
+IL-6 inhibited E2-induced GREB1 transcription activity and GREB1 mRNA expression .
+Constitutively expressing active STAT3 construct ( STAT3-C ) dramatically decreased GREB1 transcription .
+CONCLUSIONS These data indicate that overexpression of GREB1 promotes cell proliferation and increases the clonogenic ability in breast cancer cells .
+Moreover , Il6/STAT3 modulates estrogen-induced GREB1 transcriptional activity in breast cancer cells .

@@ -1,0 +1,9 @@
+Klebsiella species are the most extensively studied among a number of 2,3-butanediol ( 2,3-BDO)-producing microorganisms .
+The ability to metabolize a wide variety of substrates together with the ease of cultivation made this microorganisms particularly promising for the application in industrial-scale production of 2,3-BDO .
+However , the pathogenic characteristics of encapsulated Klebsiella species are considered to be an obstacle hindering their industrial applications .
+Here , we removed the virulence factors from three 2,3-BDO-producing strains , Klebsiella pneumoniae KCTC 2242 , Klebsiella oxytoca KCTC1686 , and K. oxytoca ATCC 43863 through site-specific recombination technique .
+We generated deletion mutation in wabG gene encoding glucosyltransferase which plays a key role in the synthesis of outer core lipopolysaccharides ( LPS ) by attaching the first outer core residue D-GalAp to the O-3 position of the L,D-HeppII residue .
+The morphologies and adhesion properties against epithelial cells were investigated , and the results indicated that the wabG mutant strains were devoid of the outer core LPS and lost the ability to retain capsular structure .
+The time profile of growth and 2,3-BDO production from K. pneumoniae KCTC 2242 and K. pneumoniae KCTC 2242 \u0394wabG were analyzed in batch culture with initial glucose concentration of 70g/l .
+The growth was not affected by disrupting wabG gene , but the production of 2,3-BDO decreased from 31.27 to 22.44g/l in mutant compared with that of parental strain .
+However , the productions of acetoin and lactate from wabG mutant strain were negligible , whereas that from parental strain reached to

@@ -1,0 +1,7 @@
+The tumor suppressor p27(Kip1) is an inhibitor of cyclin/cyclin-dependent kinase ( CDK ) complexes and plays a crucial role in cell cycle regulation .
+Nevertheless , p27 function in the tumorigenesis of the uterine cervix has been poorly defined .
+Some phenomenon hints that HPV E7 protein can enhance p27 expression , which is contradictory to HPV E7's property of increasing cell proliferation rate .
+So , in the present study , we have examined the effect of E7 on p27 expression .
+Though the levels of p27 are increased after HPV E7 expression , most of the p27 protein localized in the cytoplasm and have no function on cell cycle arrest and contact inhibition .
+The cell migration rate is elevated when p27 is high expression and located in cytoplasm .
+The results indicated that E7-p27 interaction not only abolished the p27's cell cycle inhibitory function by sequestering it to the cytoplasm , but also endow the cell with invasive property which is the feature of malignant cells .

@@ -1,0 +1,10 @@
+Id proteins are negative regulators of basic helix-loop-helix transcription factors , which are critical for expression of genes associated with cellular differentiation .
+Previous studies have shown that overexpression of Id-1 delays cellular senescence in several cell types , including fibroblasts , mammary epithelial cells , and keratinocytes .
+Although previous studies have demonstrated the expression of Id-1 in endothelium , the regulation of Id-1 has not been studied in these cells .
+In this report , a retroviral vector was used to overexpress Id-1 in human endothelial cells .
+Sustained expression of Id-1 resulted in a 2- to 3-fold increase in the total number of population doublings ( replicative capacity ) of the cells compared with vector-treated controls , which correlated with low levels of p16 , p21 , and p27 expression .
+The cells , however , were not immortalized and did eventually undergo senescence despite elevated Id-1 levels .
+Senescence was characterized by a dramatic increase in p16 , but not p21 and p27 .
+Under these experimental conditions , telomerase activity was not detected and the telomeres became progressively shorter with time .
+These results demonstrate the importance of Id-1 in endothelial cell proliferation and indicate that Id-1 represses p16 expression , resulting in delayed senescence .
+These findings may have implications in the development of endothelial cell-derived tumors .

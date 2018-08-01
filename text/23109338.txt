@@ -1,0 +1,10 @@
+Blockage of the metastasis process remains a significant clinical challenge , requiring innovative therapeutic approaches .
+For this purpose , molecules that inhibit matrix metalloproteinases activity or induce the expression of their natural inhibitor , the tissue inhibitor of metalloproteinases ( TIMPs ) , are potentially interesting .
+In a previous study , we have shown that synthetic ligands binding to cell surface nucleolin/nucleophosmin and known as HB 19 for the lead compound and NucAnt 6L ( N6L ) for the most potent analog , inhibit both tumor growth and angiogenesis .
+Furthermore , they prevent metastasis in a RET transgenic mice model which develops melanoma .
+Here , we investigated the effect of N6L on the invasion capacity of MDA-MB-435 melanoma cells .
+Our results show that the multivalent pseudopeptide N6L inhibited Matrigel invasion of MDA-MB-435 cells in a modified Boyden chamber model .
+This was associated with an increase in TIMP-3 in the cell culture medium without a change in TIMP-3 mRNA expression suggesting its release from cell surface and/or extracellular matrix .
+This may be explained by our demonstrated N6L interaction with sulfated glycosaminoglycans and consequently the controlled bioavailability of glycosaminoglycan-bound TIMP-3 .
+The implication of TIMP-3 in N6L-induced inhibition of cell invasion was evidenced by siRNA silencing experiments showing that the loss of TIMP-3 expression abrogated the effect of N6L .
+The inhibition of tumor cell invasion by N6L demonstrated in this study , in addition to its previously established inhibitory effect on tumor growth and angiogenesis , suggests that N6L represents a promising anticancer drug candidate warranting further investigation .

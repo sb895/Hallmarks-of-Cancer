@@ -1,0 +1,6 @@
+Ghrelin was identified in the stomach as an endogenous ligand specific for the growth hormone secretagogue receptor ( GHS-R ) .
+GHS-R is found in various tissues , but its function is unknown .
+Here we show that GHS-R is found in hepatoma cells .
+Exposure of these cells to ghrelin caused up-regulation of several insulin-induced activities including tyrosine phosphorylation of insulin receptor substrate-1 ( IRS-1 ) , association of the adapter molecule growth factor receptor-bound protein 2 with IRS-1 , mitogen-activated protein kinase activity , and cell proliferation .
+Unlike insulin , ghrelin inhibited Akt kinase activity as well as up-regulated gluconeogenesis .
+These findings raise the possibility that ghrelin modulates insulin activities in humans .

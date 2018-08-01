@@ -1,0 +1,9 @@
+SCOPE In this study , we evaluated the efficacy of lycopene against the growth of prostate cancer in vivo .
+METHODS AND RESULTS Athymic nude mice were implanted subcutaneously with human androgen-independent prostate carcinoma PC-3 cells .
+They were supplemented with a low or a high dose of lycopene ( 4 and 16 mg/kg ) and a single dose of β-carotene ( 16 mg/kg ) twice a week for 7 wk .
+At the end of the experiment , both lycopene and β-carotene strongly inhibited the tumor growth , as evidenced by the decrease in tumor volume and tumor weight .
+High-dosage lycopene and β-carotene significantly decreased the expression of proliferating cell nuclear antigen in tumor tissues and increased the levels of insulin-like growth factor-binding protein-3 in plasma .
+In addition , high-dosage lycopene supplementation significantly decreased the vascular endothelial growth factor ( VEGF ) levels in plasma .
+In contrast , β-carotene supplementation significantly increased the VEGF levels , as compared with tumor control group .
+CONCLUSION Lycopene and β-carotene supplementation suppressed the growth of prostate tumor cells , and the effects are likely associated with reduction of proliferation ( attenuation of proliferating cell nuclear antigen expression ) and with interference of the insulin-like growth factor 1 signaling ( increased plasma insulin-like growth factor-binding protein-3 levels ) .
+Furthermore , the inhibition of VEGF by lycopene suggests that the antitumor mechanisms of lycopene also involve anti-angiogenesis .

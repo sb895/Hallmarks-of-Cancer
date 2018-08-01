@@ -1,0 +1,11 @@
+Several basic leucine zipper ( B-ZIP ) transcription factors have been implicated in cancer , substance abuse , and other pathological conditions .
+We previously identified arylstibonic acids that bind to B-ZIP proteins and inhibit their interaction with DNA .
+In this study , we used electrophoretic mobility shift assay to analyze 46 arylstibonic acids for their activity to disrupt the DNA binding of three B-ZIP [ CCAAT/enhancer-binding protein \u03b1 , cyclic AMP-response element-binding protein ( CREB ) , and vitellogenin gene-binding protein ( VBP) ] and two basic helix-loop-helix leucine zipper ( B-HLH-ZIP ) [ USF ( upstream stimulating factor ) and Mitf ] proteins .
+Twenty-five arylstibonic acids showed activity at micromolar concentrations .
+The most active compound , P6981 [ 2-(3-stibonophenyl)malonic acid ] , had half-maximal inhibition at nM for CREB .
+Circular dichroism thermal denaturation studies indicated that P6981 binds both the B-ZIP domain and the leucine zipper .
+The crystal structure of an arylstibonic acid , NSC13778 , bound to the VBP leucine zipper identified electrostatic interactions between both the stibonic and carboxylic acid groups of NSC13778 [ (E)-3-(3-stibonophenyl)acrylic acid ] and arginine side chains of VBP , which is also involved in interhelical salt bridges in the leucine zipper .
+P6981 induced GFP-B-ZIP chimeric proteins to partially localize to the cytoplasm , demonstrating that it is active in cells .
+P6981 inhibited the growth of a patient-derived clear cell sarcoma cell line whose oncogenic potential is driven by a chimeric protein EWS-ATF1 ( Ewing's sarcoma protein-activating transcription factor 1 ) , which contains the DNA binding domain of ATF1 , a B-ZIP protein .
+NSC13778 inhibited the growth of xenografted clear cell sarcoma , and no toxicity was observed .
+These experiments suggest that antimony containing arylstibonic acids are promising leads for suppression of DNA binding activities of B-ZIP and B-HLH-ZIP transcription factors .

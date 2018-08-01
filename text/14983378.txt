@@ -1,0 +1,13 @@
+OBJECTIVE To investigate a potential mechanism of invasion and metastasis of oral cancers , and the possibility of the adhesion molecules being markers for evaluating the prognosis of oral cancers .
+METHODS Randomly selecting achieved paraffin blocks , including 60 cases of squamous cell carcinoma(SCC) , 30 cases of verrucous carcinoma(VC) of oral mucosa and 30 cases of basal cell carcinoma ( BCC ) of epidermis .
+All cases were followed up .
+Using immunohistochemistry method ( Envision ) to detect the expression of E-cadherin antibody and observe under light microscope .
+RESULTS The studies demonstrated that 38.2% of SCC had recurrence and/or metastases after operation .
+However , only 0.0% and 0.04% , in VC and BCC , respectively , had recurrence and/or metastases .
+There was significant difference on prognoses between SCC and VC or BCC .
+The immunostaining showed significant difference of E-cad expression between SCC and VC ( P<0.01 ) , SCC and BCC ( P<0.05 ) .
+The former was weaker than VC and BCC .
+However , no difference was showed in E-cad expression between VC and BCC ( P>0.05 ) .
+CONCLUSION E-cad plays an important role in maintaining the phenotype of epithelial cell of SCC and normal oral mucosa .
+The degree of expression of E-cad was correlated with the ability of invasion and/or metastasis of SCC , VC and BCC .
+It indicates that E-cad may be as a helpful marker to evaluate the prognosis of oral cancers .

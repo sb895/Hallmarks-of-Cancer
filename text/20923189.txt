@@ -1,0 +1,8 @@
+The aim of this study was to determine whether isorhamnetin , an immediate 3'-O-methylated metabolite of quercetin , affects proliferation , cell death , and the cell cycle of human colon carcinoma ( HCT-116 ) cells .
+Isorhamnetin was found to be a potent antiproliferative agent in a dose- and time-dependent manner , with an IC50 of 72 μM after 48 h of incubation as estimated by MTT assay .
+Flow cytometry and fluorescence microscopy analysis showed that isorhamnetin exerted a stimulatory effect on apoptosis and necrosis .
+Isorhamnetin also increased the number of cells in G2/M phase .
+Serum deprivation appeared to potentiate the effects of isorhamnetin on cell death and facilitated cell cycle progression to G0/G1 phase .
+These results suggest that isorhamnetin might mediate inhibition of HCT-116 cell growth through the perturbation of cell cycle progression and are consistent with the notion that G2/M checkpoints could be a conserved target for flavonoids in human colon cancer cells , leading to apoptotic and necrotic death .
+These antiproliferative , apoptotic , necrotic , and cell cycle effects suggest that isorhamnetin may have clinically significant therapeutic and chemopreventive capabilities .
+To our knowledge , this is the first report of the effect of isorhamnetin on human colon cancer cells .

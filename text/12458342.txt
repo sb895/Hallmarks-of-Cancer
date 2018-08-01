@@ -1,0 +1,6 @@
+PURPOSE The roles of terminal sialyl and fucosyl residues in cell surface glycans in the metastatic potential of H7721 cells , a human hepatocarcinoma cell line , were studied .
+METHODS Neuraminidase and alpha-L-fucosidase were used to remove the sialyl and fucosyl residues , respectively .
+Cell adhesion to fibronectin ( Fn ) , laminin ( Ln ) , and human umbilical vein epithelial cell ( HUVEC ) , as well as chemotactic cell migration and invasion , were selected as the parameters of metastatic potential ex vivo .
+RESULTS Sialyl residue is not essential for cell adhesion to Fn , but is important in cell adhesion to Ln and invasion , and is crucial in cell adhesion to HUVEC and migration .
+In contrast , fucosyl residue contributes more than sialyl residue to cell adhesion to Fn and Ln , but less to adhesion to HUVEC , and is not essential in chemotactic cell migration and invasion .
+Cell adhesion to HUVEC , migration , and invasion were inhibited by the monoclonal antibody of sialyl Lewis X , but not by the antibody of non-sialyl Lewis X. CONCLUSION Terminal sialyl residues on cell surface glycans are more important than fucosyl residues in mediating cell adhesion to HUVEC and cell migration/invasion , but the reverse is true in cell adhesion to Fn and Ln .

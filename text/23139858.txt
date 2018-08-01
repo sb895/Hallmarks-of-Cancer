@@ -1,0 +1,7 @@
+To investigate whether altered energy metabolism induces the Warburg effect and results in tumor malignancy , the respiratory enzyme citrate synthase ( CS ) was examined , silenced , and the effects analyzed .
+In human cervical carcinoma cells , RNAi-mediated CS knockdown induced morphological changes characteristic of the epithelial-mesenchymal transition ( EMT ) .
+This switch accelerated cancer cell metastasis and proliferation in in vitro assays and in vivo tumor xenograft models .
+Notably , CS knockdown cells exhibited severe defects in respiratory activity and marked decreases in ATP production , but great increases in glycolytic metabolism .
+This malignant progression was due to activation of EMT-related regulators ; altered energy metabolism resulted from deregulation of the p53/TIGAR and SCO2 pathways .
+This phenotypic change was completely reversed by p53 reactivation via treatment with proteasome inhibitor MG132 or co-knockdown of E3 ligase HDM2 and partially suppressed by ATP treatment .
+This study directly links the Warburg effect to tumor malignancy via induction of the EMT phenotype .

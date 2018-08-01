@@ -1,0 +1,9 @@
+When the prostate cancer cells become unresponsive to androgen therapy , resistance to chemotherapy becomes imminent , resulting in high mortality .
+To combat this situation , lycopodine , a pharmacologically important bioactive component derived from Lycopodium clavatum spores , was tested against hormone sensitive ( LnCaP ) and refractory ( PC3 ) prostate cancer cells in vitro .
+This study aims to check if lycopodine has demonstrable anti-cancer effects and if it has , to find out the possible mechanism of its action .
+The MTT assay was performed to evaluate the cytotoxic effect .
+Depolarization of mitochondrial membrane potential , cell cycle , EGF receptor activity and apoptosis were recorded by FACS ; profiles of different anti- and pro-apoptotic genes and their products were studied by semi-quantitative RT-PCR , indirect-ELISA , western blotting .
+Drug-DNA interaction was determined by CD spectroscopy .
+Administration of lycopodine down-regulated the expression of 5-lipoxygenase and the 5-oxo-ETE receptor ( OXE receptor1 ) and EGF receptor , and caused up-regulation of cytochrome c with depolarization of mitochondrial inner membrane potential , without palpable change in p53 activity , resulting in apoptosis , cell arrest at G0/G1 stage and ultimately reduced proliferation of cancer cells ; concomitantly , there was externalization of phosphotidyl serine residues .
+CD spectroscopic analysis revealed intercalating property of lycopodine with DNA molecule , implicating its ability to block cellular DNA synthesis .
+The overall results suggest that lycopodine is a promising candidate suitable for therapeutic use as an anti-cancer drug .

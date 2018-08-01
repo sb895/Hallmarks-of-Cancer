@@ -1,0 +1,7 @@
+Hexavalent chromium ( Cr(VI) ) compounds are known human carcinogens associated with the incidence of lung cancer .
+Although a direct correlation between Cr(VI) exposure and lung cancer has been established , several studies aimed at generating animal models for Cr(VI) have yielded inconsistent data that do not affirmatively support findings from epidemiologic studies .
+Because the lack of a good animal model has hindered the identification of molecular mechanisms involved in Cr(VI) exposure , we developed an in vitro model that facilitates mechanistic studies of Cr(VI)-induced carcinogenesis .
+We report here that long-term exposure to Cr(VI) leads to the malignant transformation of nontumorigenic human lung epithelial cells .
+Cr(VI)-transformed cells exhibited loss of contact inhibition , colony formation , and increased rates of cell invasion , migration , and proliferation , as compared with passage-matched control cells .
+Cr(VI)-transformed cells evaded apoptosis by a mechanism involving S-nitrosylation and stabilization of Bcl-2 protein in a nitric oxide-dependent manner .
+This study establishes an important in vitro model that facilitates mechanistic studies of Cr(VI)-induced carcinogenesis , and elucidates a novel mechanism that causes apoptosis-resistant malignant transformation of nontumorigenic lung cells in response to a human carcinogen .

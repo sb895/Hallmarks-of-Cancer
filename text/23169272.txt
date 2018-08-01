@@ -1,0 +1,12 @@
+Breast cancer is a heterogeneous disease at both the clinical and molecular levels .
+This heterogeneity may give rise to different therapy responses .
+Molecular profiling has facilitated identification of signatures for stratifying patients who would potentially benefit from given therapies .
+Previously , we reported on a subset of genes with the potential for predicting response of primary breast cancer to neoadjuvant chemotherapy .
+Herein , we report that patients with luminal ( estrogen receptor α [ ERα]-expressing ) breast cancer were enriched for nonresponders .
+To identify novel factors that contribute to the survival of breast cancer cells , a loss-of-function screen was performed with a subset of genes overexpressed in patients with disease resistant to chemotherapy .
+This approach led us to identify protein phosphatase 1 , regulatory subunit 15B ( PPP1R15B ) as a factor with a potentially essential role in the survival of ERα-positive breast cancer cells .
+Functional analyses showed that PPP1R15B depletion results in impaired proliferation due to unsuccessful transition of cells from G1 to S phase of the cell cycle , and apoptosis induction .
+Moreover , our data revealed a regulatory role for PPP1R15B in activating ERα .
+Furthermore , a high level of PPP1R15B mRNA expression was associated with poor outcome following tamoxifen-based therapy .
+Accordingly , knockdown of PPP1R15B expression sensitized tamoxifen-resistant MCF-7 breast cancer cells to tamoxifen while reducing ERα abundance in these cells .
+Our findings reveal a novel role for PPP1R15B in the survival and therapy response of ERα-positive breast cancer and may open new avenues for tumor subtype-specific therapeutic strategies in the era of personalized medicine .

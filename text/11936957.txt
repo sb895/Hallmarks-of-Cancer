@@ -1,0 +1,17 @@
+BACKGROUND Helicobacter pylori is the main risk factor for the development of non-cardia gastric cancer .
+Increased proliferation of the gastric mucosa is a feature of H. pylori infection .
+Mucosal interkeukin-1beta production is increased in H. pylori infection and IL-1beta genotypes associated with increased pro-inflammatory activity are risk factors for the development of gastric cancer .
+The effect of IL-1beta on gastric epithelial cell proliferation has been examined in this study .
+METHODS AGS cells were cultured with IL-1beta .
+DNA synthesis was assed by [ 3H]thymidine incorporation and total viable cell numbers by MTT assay .
+RESULTS IL-1beta dose dependently increased DNA synthesis and cell numbers .
+The enhanced proliferation was blocked by interleukin-1 receptor antagonist .
+Addition of neutralising antibody to GM-CSF reduced IL-1beta-stimulated proliferation by 31 +/- 4 % .
+GM-CSF alone significantly stimulated proliferation .
+Addition or neutralisation of IL-8 had no effect on basal or IL-1beta-stimulated proliferation .
+The tyrosine kinase inhibitor genistein completely blocked IL-1beta-stimulated proliferation and inhibition of the extracellular signal related kinase pathway with PD 98059 inhibited IL-1beta stimulated proliferation by 58 +/- 5 % .
+CONCLUSIONS IL-1beta stimulates proliferation in gastric epithelial cells .
+Autocrine stimulation by GM-CSF contributes to this proliferative response .
+Signalling via tyrosine kinase activity is essential to the mitogenic response to IL-1beta .
+The extracellular signal related kinase pathway is involved in , but not essential to downstream signalling .
+IL-1beta may contribute to the hyperproliferation seen in H. pylori- infected gastric mucosa , and be involved in the carcinogenic process .

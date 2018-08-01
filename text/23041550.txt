@@ -1,0 +1,8 @@
+Overexpression of cyclin D1 is believed to endow mammary epithelial cells ( MEC ) with a proliferative advantage by virtue of its contribution to pRB inactivation .
+Accordingly , abrogation of the kinase-dependent function of cyclin D1 is sufficient to render mice resistant to breast cancer initiated by ErbB2 .
+Here , we report that mouse cyclin D1(KE/KE) MECs ( deficient in cyclin D1 activity ) upregulate an autophagy-like process but fail to implement ErbB2-induced senescence in vivo .
+In addition , immortalized cyclin D1(KE/KE) MECs retain high rates of autophagy and reduced ErbB2-mediated transformation in vitro .
+However , highlighting its dual role during tumorigenesis , downregulation of autophagy led to an increase in senescence in cyclin D1(KE/KE) MECs .
+Autophagy upregulation was also confirmed in human mammary epithelial cells ( HMEC ) subjected to genetic and pharmacologic inhibition of cyclin D1 activity and , similar to our murine system , simultaneous inhibition of Cdk4/6 and autophagy in HMECs enhanced the senescence response .
+Collectively , our findings suggest a previously unrecognized function of cyclin D1 in suppressing autophagy in the mammary epithelium .
+Cancer Res ; 72(24) ; 6477-89. �2012 AACR .

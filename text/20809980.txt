@@ -1,0 +1,13 @@
+INTRODUCTION Natural herbal compounds with novel actions different from existing breast cancer ( BCa ) treatment modalities are attractive for improving therapeutic efficacy and safety .
+We have recently shown that penta-1,2,3,4,6-O-galloyl-β-D-glucose ( PGG ) induced S-phase arrest in prostate cancer ( PCa ) cells through inhibiting DNA replicative synthesis and G(1) arrest , in addition to inducing cell death at higher levels of exposure .
+We and others have shown that PGG through intraperitoneal ( i.p. ) injection exerts a strong in vivo growth suppression of human PCa xenograft models in athymic nude mice .
+This study aims to test the hypothesis that the novel targeting actions of PGG are applicable to BCa cells , especially those lacking proven druggable targets .
+METHODS Mono-layer cell culture models of p53-wild type estrogen receptor ( ER)-dependent MCF-7 BCa cells and p53-mutant ER-/progesterone receptor ( PR)- and Her2-regular ( triple-negative ) MDA-MB-231 BCa were exposed to PGG for a comprehensive investigation of cellular consequences and molecular targets/mediators .
+To test the in vivo efficacy , female athymic mice inoculated with MDA-MB-231 xenograft were treated with 20mg PGG/kg body weight by daily gavage starting 4 days after cancer cell inoculation .
+RESULTS Exposure to PGG induced S-phase arrest in both cell lines as indicated by the lack of 5-bromo2'-deoxy-uridine ( BrdU ) incorporation into S-phase cells as well as G(1) arrest .
+Higher levels of PGG induced more caspase-mediated apoptosis in MCF-7 , in strong association with induction of P53 Ser(15) phosphorylation , than in MDA-MB-231 cells .
+The cell cycle arrests were achieved without an induction of cyclin dependent kinase ( CDK ) inhibitory proteins P21(Cip1) and P27(Kip1) .
+PGG treatment led to decreased cyclin D1 in both cell lines and over-expressing cyclin D1 attenuated G(1) arrest and hastened S arrest .
+In serum-starvation synchronized MCF-7 cells , down-regulation of cyclin D1 was associated with de-phosphorylation of retinoblastoma ( Rb ) protein by PGG shortly before G(1)-S transition .
+In vivo , oral administration of PGG led to a greater than 60% inhibition of MDA-MB231 xenograft growth without adverse effect on host body weight .
+CONCLUSIONS Our in vitro and in vivo data support PGG as a potential drug candidate for breast cancer with novel targeting actions , especially for a triple negative BCa xenograft model .

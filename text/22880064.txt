@@ -1,0 +1,12 @@
+DYT1 is caused by a partly penetrant dominant mutation in TOR1A that leads to a glutamic acid deletion ( \u0394E ) in torsinA .
+Identifying environmental factors that modulate disease pathogenesis and penetrance could help design therapeutic strategies for dystonia .
+Several cell-based studies suggest that expression of torsinA(\u0394E) increases the susceptibility of neuronal cells to challenges to their oxidative/energy metabolism .
+Based on those reports , we hypothesized that mice expressing torsinA(\u0394E) would be more susceptible than control littermates to the effects of oxidative stress and ATP deficits caused by disruption of the mitochondrial respiratory chain in neurons .
+To test this hypothesis , we administered 20 or 50 mg/kg/day of the irreversible complex-II inhibitor 3-nitropropionic acid ( 3-NP ) intraperitoneally for 15 consecutive days to young heterozygote DYT1 knock-in ( KI ) mice and wild type littermates .
+Repeated phenotypic assessments were performed at baseline , during and after the injections .
+Animals were then sacrificed and their brains processed for protein analysis .
+The administration of 20 mg/kg 3-NP led to increased levels of torsinA in the striatum , the main target of 3-NP , but did not cause motor dysfunction in DYT1 KI or control mice .
+The administration of 50 mg/kg/day of 3-NP caused the death of of wild type animals .
+Interestingly , DYT1 KI animals showed significantly reduced mortality .
+Surviving animals exhibited abnormal motor behavior during and right after the injection period , but recovered by 4 weeks postinjection independent of genotype .
+In contrast to the findings reported in cultured cells , these studies suggest the DYT1 mutation does not sensitize central neurons against the toxic effects of oxidative stress and energy deficits .

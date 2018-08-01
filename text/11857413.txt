@@ -1,0 +1,10 @@
+Vascular endothelial growth factor ( VEGF ) has emerged as one of the most important angiogenic growth factors from experimental in vitro and in vivo studies .
+In the present study , we investigated the relationship between VEGF expression and microvessel density ( MVD ) and defined their prognostic relevance on a series of 242 patients with node-negative breast cancer , using immunohistochemical methods .
+In parallel , estrogen and progesterone receptors were quantitatively assessed using the dextran-charcoal technique and cell proliferation was evaluated as S-phase cell fraction according to ( 3)H-thymidine-labeling index ( TLI ) .
+The percentage of VEGF-expressing cells varied from 0-95% in the different tumors and was unrelated to menopausal status , tumor size or steroid receptor status .
+Conversely , a significant inverse relation was observed with patient age or tumor cell proliferation , albeit with very poor correlation coefficients .
+A significant relation was observed between VEGF expression and MVD ( r(s) = 0.55 , p < 0.001 ) .
+Clinical outcome analyzed as a function of high and low VEGF expression showed slight differences in terms of both disease-free survival ( DFS ) and overall survival ( OS ) that never reached statistical significance .
+Moreover , the trend was paradoxically in favor of patients with highly VEGF-expressing tumors .
+Finally , DFS and OS curves , when analyzed as a function of VEGF expression or MVD , were superimposable .
+In conclusion , our study did not highlight a prognostic relevance of VEGF expression in patients with node-negative breast cancer , as already observed for MVD .

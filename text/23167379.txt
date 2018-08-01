@@ -1,0 +1,7 @@
+Breast cancer causes death due to distant metastases in which tumor cells produce matrix metalloproteinase ( MMP ) enzymes which facilitate invasion .
+Oleuropein , the main olive oil polyphenol , has anti-proliferative effects .
+This study aimed to investigate the effect of oleuropein on the metastatic and anti-metastatic gene expression in the MDA human breast cancer cell line .
+We evaluated the MMPs and TIMPs gene expression by semi-quantitative reverse transcriptase polymerase chain reaction ( RT-PCR ) in treated and untreated cells .
+This study demonstrated that OL may induce anti-metastatic effects on human breast cancer cells .
+We found that TIMP1,-3 , and -4 were over-expressed after all periods of incubation in treated cancer cells compared to untreated cells , while MMP2 and MMP9 genes were down-regulated , at least initially .
+Treatment of breast cancer cells with oleuropein could help in prevention of cancer metastasis by increasing the TIMPs and suppressing the MMPs gene expressions .

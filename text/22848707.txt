@@ -1,0 +1,7 @@
+BACKGROUND Epstein-Barr virus ( EBV ) encodes six nuclear transformation-associated proteins that induce extensive changes in cellular gene expression and signaling and induce B-cell transformation .
+The role of HIF1A in EBV-induced B-cell immortalization has not been previously studied .
+METHODS AND FINDINGS Using Western blotting and Q-PCR , we found that HIF1A protein is stabilized in EBV-transformed lymphoblastoid cells .
+Western blotting , GST pulldown assays , and immunoprecipitation showed that EBV-encoded nuclear antigens EBNA-5 and EBNA-3 bind to prolylhydroxylases 1 and 2 , respectively , thus inhibiting HIF1A hydroxylation and degradation .
+Immunostaining and Q-PCR showed that the stabilized HIF1A translocates to the nucleus , forms a heterodimer with ARNT , and transactivates several genes involved in aerobic glycolysis .
+Using biochemical assays and Q-PCR , we also found that lymphoblastoid cells produce high levels of lactate , lactate dehydrogenase and pyruvate .
+CONCLUSIONS Our data suggest that activation of the aerobic glycolytic pathway , corresponding to the Warburg effect , occurs in EBV-transformed lymphoblastoid cells , in contrast to mitogen-activated B-cells .

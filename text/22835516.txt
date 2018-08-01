@@ -1,0 +1,7 @@
+A 34-year-old Japanese woman presented with left supraclavicular lymph node swelling .
+Computed tomography scans revealed a mass on the left lower lobe , pulmonary nodules , and pleural effusion .
+A lymph node biopsy revealed large-cell carcinoma with an epidermal growth factor receptor ( EGFR ) deletion mutation , L747-T751 in exon 19 .
+Although malignant pleural effusions carried the same EGFR mutation , progressive pleural effusions after treatment with chemotherapy , gefitinib , and erlotinib did not show any EGFR mutation .
+A cell line established from the pleural effusion 3 days before the patient expired also did not harbor the EGFR mutation .
+Histological sections of the lymph node of the patient were similar to those of the xenograft tumor of the cell line .
+There may be genetic heterogeneity in EGFR mutant tumors .

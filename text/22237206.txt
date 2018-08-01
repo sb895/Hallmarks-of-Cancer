@@ -1,0 +1,5 @@
+The DNA damage response ( DDR ) cascade and ROS ( reactive oxygen species ) signaling are both involved in the induction of cell death after DNA damage , but a mechanistic link between these two pathways has not been clearly elucidated .
+This study demonstrates that ROS induction after treatment of cells with neocarzinostatin ( NCS ) , an ionizing radiation mimetic , is at least partly mediated by increasing histone H2AX .
+Increased levels of ROS and cell death induced by H2AX overexpression alone or DNA damage leading to H2AX accumulation are reduced by treating cells with the antioxidant N-Acetyl-L-Cysteine ( NAC ) , the NADP(H) oxidase ( Nox ) inhibitor DPI , expression of Rac1N17 , and knockdown of Nox1 , but not Nox4 , indicating that induction of ROS by H2AX is mediated through Nox1 and Rac1 GTPase .
+H2AX increases Nox1 activity partly by reducing the interaction between a Nox1 activator NOXA1 and its inhibitor 14-3-3zeta .
+These results point to a novel role of histone H2AX that regulates Nox1-mediated ROS generation after DNA damage .

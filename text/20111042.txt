@@ -1,0 +1,9 @@
+It is commonly believed that neurons remain in G(0) phase of the cell cycle indefinitely .
+Cell-cycle re-entry , however , is known to contribute to neuronal apoptosis .
+Moreover , recent evidence demonstrates the expression of cell-cycle proteins in differentiated neurons under physiological conditions .
+The functional roles of such expression remain unclear .
+Since DNA repair is generally attenuated by differentiation in most cell types , the cell-cycle-associated events in postmitotic cells may reflect the need to re-enter the cell cycle to activate DNA repair .
+We show that cyclin-C-directed , pRb-dependent G(0) exit activates the non-homologous end joining pathway of DNA repair ( NHEJ ) in postmitotic neurons .
+Using RNA interference , we found that abrogation of cyclin-C-mediated exit from G(0) compromised DNA repair but did not initiate apoptosis .
+Forced G(1) entry combined with prevention of G(1) --> S progression triggered NHEJ activation even in the absence of DNA lesions , but did not induce apoptosis in contrast to unrestricted progression through G(1) --> S. We conclude that G(0) --> G(1) transition is functionally significant for NHEJ repair in postmitotic neurons .
+These findings reveal the importance of cell-cycle activation for controlling both DNA repair and apoptosis in postmitotic neurons , and underline the particular role of G(1) --> S progression in apoptotic signaling , providing new insights into the mechanisms of DNA damage response ( DDR ) in postmitotic neurons .

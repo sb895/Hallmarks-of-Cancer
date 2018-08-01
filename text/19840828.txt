@@ -1,0 +1,9 @@
+Polyphenols are widely distributed in plants and known for antioxidant and anti-inflammatory properties .
+Areca nut , rich in polyphenols , is the major component of betel quid and we have previously shown that the extract of areca nut can induce oxidative stress in vitro .
+In this study , we have further pinpointed that areca nut extract ( ANE ) contains catechin based procyanidins which range from dimers to decamers and polymers ; this was carried out by HPLC and electrospray ionization/mass spectrometry ( ESI/MS ) .
+To quantify their antioxidant potential , oligomeric and polymeric procyanidins of ANE were separated and evaluated using the Trolox equivalent antioxidant capacity ( TEAC ) assay .
+The results clearly demonstrated that the antioxidant capacity of the ANE procyanidins increased with the degree of polymerization .
+The anti-inflammatory potential of ANE was also tested using 12-O-tetradecanoylphorbol-13-acetate ( TPA)-treated human oral cancer SAS cells .
+ANE inhibited TPA-induced cyclooxygenase-2 ( COX-2 ) protein expression at low doses , which correlated with the inhibition of ERK phosphorylation in the SAS cells .
+Furthermore , feeding rats with ANE at 1 and 10mg/kg/day for 5days significantly repressed carrageenan-induced inflammatory exudates and PGE(2) formation .
+In conclusion , ANE , which contains catechins based oligomeric and polymeric procyanidins , regulates COX-2 expression in vitro and possess anti-inflammatory potential in vivo .

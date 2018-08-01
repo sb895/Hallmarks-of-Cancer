@@ -1,0 +1,8 @@
+OBJECTIVE Mutations in GJB2 , encoding connexin 26 ( CX26 ) , are causally related to autosomal recessive form of non-syndromic hearing loss ( NSHL ) at the DFNB1 locus and autosomal dominant NSHL at the DFNA3 locus .
+In this study , we investigated the prevalence of GJB2 mutations in the Iranian deaf population .
+METHODS A total of 2322 deaf probands presenting the ethnically diverse Iranian population were screened for variants in GJB2 .
+All persons were first screened for the c.35delG mutation , as this variant is the most prevalent GJB2-deafness causing mutation in the Iranian population .
+In all persons carrying zero or one c.35delG allele , exons 1 and 2 were then sequenced .
+RESULTS In total , 374 ( families segregated GJB2-related deafness caused by 45 different mutations and 5 novel variants .
+The c.35delG mutation was most commonly identified and accounts for of the GJB2 mutations found in population studied .
+CONCLUSION Our data also show that there is a gradual decrease in the frequency of the c.35delG mutation and of GJB2-related deafness in general in a cline across Iran extending from the northwest to southeast .

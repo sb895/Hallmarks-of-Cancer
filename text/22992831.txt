@@ -1,0 +1,9 @@
+PURPOSE To develop PEGylated multi-walled carbon nanotubes as a sustained release drug delivery system .
+METHODS Oxaliplatin was incorporated into inner cavity of PEGylated multi-walled carbon nanotubes ( MWCNT-PEG ) using nano-extraction .
+Oxaliplatin release rates from MWCNT-PEG-Oxaliplatin were investigated using dialysis tubing .
+Cytotoxicity of oxaliplatin , MWCNT-Oxaliplatin and MWCNT-PEG-Oxaliplatin were evaluated in HT29 cell by MTT assay , Pt-DNA adducts formation , \u03b3-H2AX formation and cell apoptosis assay .
+RESULTS Loading of oxaliplatin into MWCNT-PEG was Sustained release occurred to MWCNT-PEG-Oxaliplatin , with only 34% of oxaliplatin released into medium within 6h .
+In MTT assay , MWCNT-PEG-Oxaliplatin showed slightly decreased cytotoxic effect when cell viability was assessed at 12 and 24h .
+A drastic increase of cytotoxicity was found when cell viability was assessed at 48 and 96h .
+Pt-DNA adducts formation , \u03b3-H2AX formation and cell apoptosis assay results showed the same trend as the MTT assay , suggesting sustained-release for MWCNT-Oxaliplatin and MWCNT-PEG-Oxaliplatin formulations .
+CONCLUSIONS PEGylated multi-walled carbon nanotubes can be used as sustained release drug delivery system , thus remarkably improving cytotoxicity of oxaliplatin on HT-29 cells .

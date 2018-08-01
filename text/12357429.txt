@@ -1,0 +1,10 @@
+A key issue in the development of the central nervous system ( CNS ) is understanding the molecular mechanisms regulating cell number .
+The present study examines the role of CD81 ( previously known as TAPA , the target of the antiproliferative antibody ) in the control of brain size and glial cell number .
+CD81 is a member of the tetraspanin family of proteins .
+This group of small membrane proteins is associated with the regulation of cell migration and mitotic activity .
+Glial cells express CD81 , and antibodies directed against this protein suppress the mitotic activity of cultured cells .
+In this study , we examine the effects of the CD81 -/- mutation on the CNS of mature mice .
+These mice have extremely large brains , as much as 30% larger than the brains of wild-type ( +/+ ) littermates .
+The increase in brain weight is accompanied by an increase in the number astrocytes and microglia , whereas the number of neurons and oligodendrocytes in the CD81 -/- animals appears to be normal .
+When the CD81 -/- mutation is placed on different genetic backgrounds , there is a remarkable range in the penetrance of the null allele phenotype , demonstrating that the mutation can be affected by modifier loci .
+This work provides support for the role of CD81 in the regulation of astrocyte and microglial number , perhaps by regulating cell proliferation by a contact inhibition-dependent mechanism .

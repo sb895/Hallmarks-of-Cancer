@@ -1,0 +1,10 @@
+Cancer cells typically display altered glucose metabolism characterized by a preference of aerobic glycolysis , known as the Warburg effect , which facilitates cell proliferation .
+Hypoxia-inducible factor ( HIF ) and oncoprotein Myc are two prominent transcription factors that drive glycolysis .
+Previously , we reported that the estrogen-related receptors ( ERRs ) act as cofactors of HIF and enhance HIF-dependent transcription of glycolytic genes under hypoxia .
+ERRs are orphan nuclear receptors and key regulators of energy metabolism by orchestrating mitochondrial biogenesis , fatty acid oxidation ( FAO ) and oxidative phosphorylation .
+Here , we show that ERRs also stimulate glycolysis under normoxia .
+ERRs directly bind to and activate promoters of many genes encoding glycolytic enzymes , and the ERR-binding sites in such promoters are essential for ERR-mediated transcriptional activation .
+ERRs interact with Myc , and the two factors synergistically activate transcription of glycolytic genes .
+Furthermore , overexpression of ERRs increases glycolytic gene expression and lactate production .
+Conversely , depletion of ERRs in cancer cells reduces expression of glycolytic genes and glucose uptake , resulting in decreased aerobic glycolysis and cell growth .
+Taken together , these results suggest that ERRs are important transcriptional activators of the glycolytic pathway and contribute to the Warburg effect in cancer cells .

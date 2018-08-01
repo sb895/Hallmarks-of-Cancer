@@ -1,0 +1,10 @@
+In cancer , glucose uptake and glycolysis are increased regardless of the oxygen concentration in the cell , a phenomenon known as the Warburg effect .
+Several ( but not all ) glycolytic enzymes have been investigated as potential therapeutic targets for cancer treatment using RNAi .
+Here , four previously untargeted glycolytic enzymes , aldolase A , glyceraldehyde 3-phosphate dehydrogenase , triose phosphate isomerase , and enolase 1 , are targeted using RNAi in Ras-transformed NIH-3T3 cells .
+Of these enzymes , knockdown of aldolase causes the greatest effect , inhibiting cell proliferation by 90% .
+This defect is rescued by expression of exogenous aldolase .
+However , aldolase knockdown does not affect glycolytic flux or intracellular ATP concentration , indicating a non-metabolic cause for the cell proliferation defect .
+Furthermore , this defect could be rescued with an enzymatically dead aldolase variant that retains the known F-actin binding ability of aldolase .
+One possible model for how aldolase knockdown may inhibit transformed cell proliferation is through its disruption of actin-cytoskeleton dynamics in cell division .
+Consistent with this hypothesis , aldolase knockdown cells show increased multinucleation .
+These results are compared with other studies targeting glycolytic enzymes with RNAi in the context of cancer cell proliferation and suggest that aldolase may be a useful target in the treatment of cancer .

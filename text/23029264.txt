@@ -1,0 +1,8 @@
+Forkhead box protein O1 ( FOXO1 ) , a key member of the FOXO family of transcription factors , acts as a tumor suppressor and has been associated with various key cellular functions , including cell growth , differentiation , apoptosis and angiogenesis .
+Therefore , it is puzzling why FOXO protein expression is downregulated in cancer cells .
+MicroRNAs , non-coding 20 nucleotide single-stranded RNAs , result in translational repression or degradation and gene silencing of their target genes , and significantly contribute to the regulation of gene expression .
+In the current study , we report that miR-370 expression was significantly upregulated in five prostate cancer cell lines , compared to normal prostatic epithelial ( PrEC ) cells .
+Ectopic expression of miR-370 induced proliferation and increased the anchorage-independent growth and colony formation ability of DU145 and LNCaP prostate cancer cells , while inhibition of miR-370 reduced proliferation , anchorage-independent growth and colony formation ability .
+Furthermore , upregulation of miR-370 promoted the entry of DU145 and LNCaP prostate cancer cells into the G1/S cell cycle transition , which was associated with downregulation of the cyclin-dependent kinase ( CDK ) inhibitors , p27(Kip1) and p21(Cip1) , and upregulation of the cell-cycle regulator cyclin D1 mRNA .
+Additionally , we demonstrated that miR-370 can downregulate expression of FOXO1 by directly targeting the FOXO1 3'-untranslated region .
+Taken together , our results suggest that miR-370 plays an important role in the proliferation of human prostate cancer cells , by directly suppressing the tumor suppressor FOXO1 .

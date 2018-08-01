@@ -1,0 +1,9 @@
+Many molecular mechanisms contribute to the development of doxorubicin resistance and different cancers can express wide and diverse arrays of drug-resistance genes .
+The aim of this study was to identify the changes in gene expression associated with the development of doxorubicin resistance in MCF7 breast cancer cell line .
+The doxorubicin resistant MCF7 cell line was developed by stepwise selection of MCF7 cells and was tested using the MTT assay .
+The alterations in gene expression were examined using the real-time based PCR array .
+The findings showed an up-regulation of many phase I/II metabolizing genes , specifically , the CYP1A1 and the CYP1A2 that were up-regulated by 206- and 96-fold respectively .
+Drug efflux pump genes were also up-regulated profoundly .
+TOP2A was strongly down-regulated by 202-fold .
+Many other changes were observed in genes crucial for cell cycle , apoptosis and DNA repair .
+The findings of this project imply that the development of doxorubicin resistance is a multi-factorial process .

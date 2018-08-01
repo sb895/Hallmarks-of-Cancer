@@ -1,0 +1,16 @@
+Lowering the threshold of cellular senescence , the process employed by cells to thwart abnormal cell proliferation , though inhibition of CDK2 or Skp2 ( regulator of CDK inhibitors ) has been recently suggested as a potential avenue for cancer treatment .
+In this study , we employ a published mathematical model of G1/S transition involving the DNA-damage signal transduction pathway to conduct carefully constructed computational experiments to highlight the effectiveness of manipulating cellular senescence in inhibiting damaged cell proliferation .
+We first demonstrate the suitability of the mathematical model to explore senescence by highlighting the overlap between senescence pathways and those involved in G1/S transition and DNA damage signal transduction .
+We then investigate the effect of CDK2 deficiency on senescence in healthy cells , followed by effectiveness of CDK2 deficiency in triggering senescence in DNA damaged cells .
+For this , we focus on the behaviour of CycE , whose peak response indicates G1/S transition , for several reduced CDK2 levels in healthy as well as two DNA-damage conditions to calculate the probability ( \u03b2 ) or the percentage of CDK2 deficient cells passing G1/S checkpoint ( (1-\u03b2) indicates level of senescence ) .
+Results show that 50% CDK2 deficiency can cause senescence in all healthy cells in a fairly uniform cell population ; whereas , most healthy cells ( \u224867% ) in a heterogeneous population escape senescence .
+This finding is novel to our study .
+Under both low- and high-DNA damaged conditions , 50% CDK deficiency can cause 65% increase in senescence in a heterogeneous cell population .
+Furthermore , the model analyses the relationship between CDK2 and its CKIs ( p21 , p27 ) to help search for other effective ways to bring forward cellular senescence .
+Results show that the degradation rate of p21 and initial concentration of p27 are effective in lowering CDK2 levels to lower the senescence threshold .
+Specifically , CDK2 and p27 are the most effective in triggering senescence while p21 having a smaller influence .
+While receiving experimental support , these findings specify in detail the inhibitory effects of CKIs .
+However , simultaneous variation of CDK2 and CKIs produces a dramatic reduction of damage cells passing the G1/S with CDK2&p27 combination causing senescence in almost all damaged cells .
+This combined effect of CDK2&CKIs on senescence is a novel contribution in this study .
+A review of the crucial protein complexes revealed that the concentration of active CycE/CDK2-p that controls cell cycle arrest provides support for the above findings with CycE/CDK2-p undergoing the largest reduction ( over 100% ) under the combined CDK2&CKI conditions leading to the arrest of most of the damaged cells .
+Our study thus provides quantitative assessments for the previously published qualitative findings on senescence and highlights new avenues for bringing forward senescence bar .

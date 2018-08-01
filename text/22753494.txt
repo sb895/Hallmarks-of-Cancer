@@ -1,0 +1,6 @@
+MicroRNAs ( miRNAs ) are small noncoding RNAs , 19-24 nucleotides in length , that regulate gene expression and are expressed aberrantly in most types of cancer .
+MiRNAs also have been detected in the blood of cancer patients and can serve as circulating biomarkers .
+It has been shown that secreted miRNAs within exosomes can be transferred from cell to cell and can regulate gene expression in the receiving cells by canonical binding to their target messenger RNAs .
+Here we show that tumor-secreted miR-21 and miR-29a also can function by another mechanism , by binding as ligands to receptors of the Toll-like receptor ( TLR ) family , murine TLR7 and human TLR8 , in immune cells , triggering a TLR-mediated prometastatic inflammatory response that ultimately may lead to tumor growth and metastasis .
+Thus , by acting as paracrine agonists of TLRs , secreted miRNAs are key regulators of the tumor microenvironment .
+This mechanism of action of miRNAs is implicated in tumor-immune system communication and is important in tumor growth and spread , thus representing a possible target for cancer treatment .

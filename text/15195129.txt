@@ -1,0 +1,17 @@
+Limited options for the treatment of prostate cancer have spurred the search for new therapies .
+One innovative approach is the use of targeted alpha therapy ( TAT ) to inhibit cancer growth , using an alpha particle emitting radioisotope such as ( 213)Bi .
+Because of its short range and high linear energy transfer ( LET ) , alpha-particles may be particularly effective in the treatment of cancer , especially in inhibiting the development of metastatic tumors from micro-metastases .
+Prostate-specific membrane antigen ( PSMA ) is expressed in prostate cancer cells and the neovasculature of a wide variety of malignant neoplasms including lung , colon , breast and others , but not in normal vascular endothelium .
+The expression is further increased in higher-grade cancers , metastatic disease and hormone-refractory prostate cancer ( PCA ) .
+J591 is one of several monoclonal antibodies ( mabs ) to the extracellular domain of PSMA .
+Chelation of J591 mab with ( 213)Bi forms the alpha-radioimmunoconjugate ( AIC ) .
+The objective of this preclinical study was to design an injectable AIC to treat human prostate tumors growing subcutaneously in mice .
+The anti-proliferative effects of AIC against prostate cancer were tested in vitro using the MTS assay and in vivo with the nude mice model .
+Apoptosis was documented using terminal deoxynucleotidyl transferase [ TdT]-mediated deoxyuridinetriphosphate [ dUTP ] nick end-labeling ( TUNEL ) assay , while proliferative index was assessed using the Ki-67 marker .
+We show that a very high density of PSMA is expressed in an androgen-dependent human PCA cell line ( LNCaP-LN3 ) and in tumor xenografts from nude mice .
+We also demonstrate that the AIC extensively inhibits the growth of LN3 cells in vitro in a concentration-dependent fashion , causing the cells to undergo apoptosis .
+Our in vivo studies showed that a local AIC injection of 50 microCi at 2 days post-cell inoculation gave complete inhibition of tumor growth , whereas results for a non-specific AIC were similar to those for untreated mice .
+Further , after 1 and 3 weeks post-tumor appearance , a single ( 100 microCi/100 microl ) intra-lesional injection of AIC can inhibit the growth of LN3 tumor xenografts ( volume<100 mm(3) ) in nude mice .
+Tumors treated with AIC decreased in volume from a mean 46+/-14 mm(3) in the first week or 71+/-15 mm(3) in the third week to non-palpable , while in control mice treated with a non-specific AIC using the same dose , tumor volume increased from 42 to 590 mm(3) .
+There were no observed side effects of the treatment .
+Because of its in vitro cytotoxicity and these anti-proliferative properties in vivo , the ( 213)Bi-J591 conjugate has considerable potential as a new therapeutic agent for the treatment of prostate cancer .

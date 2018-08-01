@@ -1,0 +1,9 @@
+The HOX11 gene encodes a homeodomain transcription factor that is essential for spleen development during embryogenesis .
+HOX11 is also leukaemogenic , both through its clinical association with childhood T-cell acute lymphoblastic leukaemia , and its ability to immortalize other haematopoietic cell lineages experimentally .
+To examine the pathological role of HOX11 in tumorigenesis , we constitutively expressed HOX11 cDNA in J2E murine erythroleukaemic cells , which are capable of terminal differentiation .
+Enforced HOX11 expression was found to induce a profound alteration in J2E cellular morphology and differentiation status .
+Our analyses revealed that HOX11 produced clones with a preponderance of less differentiated cells that were highly adherent to plastic .
+Morphologically , the cells overexpressing HOX11 were larger and had decreased globin levels , as well as a reduction in haemoglobin synthesis in response to erythropoietin ( EPO ) .
+Immunocytochemical analysis confirmed the immature erythroid phenotype imposed by HOX11 , with clones transfected with HOX11 demonstrating expression of the c-Kit stem cell marker , while retaining EPO receptor expression .
+Taken together , these results show that HOX11 alters erythroid differentiation , favouring a less mature progenitor-like stage .
+This supports the notion that disrupted haematopoietic cell differentiation is responsible for pre-leukaemic immortalization by the HOX11 oncoprotein .

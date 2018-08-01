@@ -1,0 +1,10 @@
+Metastasis is a major cause of death of patients with malignant tumors .
+Matrix metalloproteinases ( MMPs ) are important for the migration and invasion of various types of cancer cell .
+Propofol is a known anesthetic agent , widely used for short-term anesthesia and for longer-term sedation .
+Propofol inhibits the proliferation of a variety of tumor cells , but there is no available information regarding propofol-inhibited migration and invasion of tumor cells in vitro .
+In this study , we investigated the effects of propofol on the migration and invasion of human lung carcinoma A549 cells .
+Wound healing assay and Boyden chamber assays indicated that propofol inhibited the migration and invasion of A549 cells in vitro .
+Gelatin zymographic analysis showed the inhibitory effect of propofol on the activation of expression MMP-2 .
+Western blot analysis also indicated that propofol suppressed the protein expiration of growth factor receptor-bound protein 2 ( GRB2 ) , Jun N-terminal kinases 1/2 ( p-JNK1/2 ) , p-p38 , MMP-2 and MMP-9 in A549 cells .
+Results from real-time PCR assay also showed that propofol inhibited the mRNA gene expression of MMP-2 , -7 and -9 , and enhanced that of tissue inhibitor of metalloproteinase 1 ( TIMP1 ) and TIMP2 in A549 cells .
+Taken together , these data show that propofol inhibits MMP-2 and -9 mRNA and protein expressions , resulting in suppression of lung cancer cell invasion and migration in vitro .

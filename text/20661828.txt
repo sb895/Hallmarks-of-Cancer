@@ -1,0 +1,9 @@
+The biological activities of tocotrienols are receiving increasing attention .
+Herein , we report the efficacy of a mixed-tocotrienol diet against prostate tumorigenesis in the transgenic adenocarcinoma mouse prostate ( TRAMP ) mouse model .
+Male TRAMP mice , 8 wk old , were fed 0.1% , 0.3% , or 1% mixed tocotrienols in AIN-76A diet up to 24 wk old .
+Likewise , a positive control group consisting of male TRAMP mice and a negative control group consisting of wild-type nontransgenic mice were fed regular AIN-76A diet up to 24 wk old .
+Our results show that mixed-tocotrienol-fed groups had a lower incidence of tumor formation along with a significant reduction in the average wet weight of genitourinary apparatus .
+Furthermore , mixed tocotrienols significantly reduced the levels of high-grade neoplastic lesions as compared to the positive controls .
+This decrease in levels of high-grade neoplastic lesions was found to be associated with increased expression of proapoptotic proteins BAD ( Bcl(2) antagonist of cell death ) and cleaved caspase-3 and cell cycle regulatory proteins cyclin dependent kinase inhibitors p21 and p27 .
+In contrast , the expression of cyclins A and E were found to be decreased in mixed-tocotrienol groups .
+Taken together , our results show that by modulating cell cycle regulatory proteins and increasing expression of proapoptotic proteins , mixed tocotrienols suppress prostate tumorigenesis in the TRAMP mice .

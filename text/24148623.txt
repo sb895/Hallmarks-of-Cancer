@@ -1,0 +1,8 @@
+Glioblastoma multiforme is the most aggressive primary brain tumor in adults .
+Overexpression of the EGF receptor ( EGFR ) is recognized as a widespread oncogenic signature in glioblastoma multiforme , but the complexity of its contributions is not fully understood , nor the most effective ways to leverage anti-EGFR therapy in this setting .
+Hypoxia is known to drive the aggressive character of glioblastoma multiforme by promoting aerobic glycolysis rather than pyruvate oxidation carried out in mitochondria ( OXPHOS ) , a phenomenon termed the Warburg effect , which is a general feature of oncogenesis .
+In this study , we report that hypoxia drives expression of the pyruvate dehydrogenase kinase ( PDK1 ) and EGFR along with the hypoxia-inducing factor ( HIF)-1\u03b1 in human glioblastoma multiforme cells .
+PDK1 is a HIF-1-regulated gene and our findings indicated that hypoxia-induced PDK1 expression may promote EGFR activation , initiating a feed-forward loop that can sustain malignant progression .
+RNAi-mediated attenuation of PDK1 and EGFR lowered PDK1-EGFR activation and decreased HIF-1\u03b1 expression , shifting the Warburg phenotype to OXPHOS and inhibiting glioblastoma multiforme growth and proliferation .
+In clinical specimens of glioblastoma multiforme , we found that immunohistochemical expression of PDK1 , EGFR , and HIF-1\u03b1 were elevated in glioblastoma multiforme specimens when compared with normal brain tissues .
+Collectively , our studies establish PDK1 as a key driver and candidate therapeutic target in glioblastoma multiforme .

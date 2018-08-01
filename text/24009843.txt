@@ -1,0 +1,10 @@
+Although the immense efforts have been made for cancer prevention , early diagnosis , and treatment , cancer morbidity and mortality has not been decreased during last forty years .
+Especially , lung cancer is top-ranked in cancer-associated human death .
+Therefore , effective strategy is strongly required for the management of lung cancer .
+In the present study , we found that novel daphnane diterpenoids , yuanhualine ( YL ) , yuanhuahine ( YH ) and yuanhuagine ( YG ) isolated from the flower of Daphne genkwa ( Thymelaeaceae ) , exhibited potent anti-proliferative activities against human lung A549 cells with the IC50 values of 7.0 , 15.2 and 24.7 nM , respectively .
+Flow cytometric analysis revealed that the daphnane diterpenoids induced cell-cycle arrest in the G0/G1 as well as G2/M phase in A549 cells .
+The cell-cycle arrests were well correlated with the expression of checkpoint proteins including the up-regulation of cyclin-dependent kinase inhibitor p21 and p53 and down-regulation of cyclin A , cyclin B1 , cyclin E , cyclin dependent kinase 4 , cdc2 , phosphorylation of Rb and cMyc expression .
+In the analysis of signal transduction molecules , the daphnane diterpenoids suppressed the activation of Akt , STAT3 and Src in human lung cancer cells .
+The daphnane diterpenoids also exerted the potent anti-proliferative activity against anticancer-drug resistant cancer cells including gemcitabine-resistant A549 , gefitinib- , erlotinib-resistant H292 cells .
+Synergistic effects in the growth inhibition were also observed when yuanhualine was combined with gemcitabine , gefitinib or erlotinib in A549 cells .
+Taken together , these findings suggest that the novel daphnane diterpenoids might provide lead candidates for the development of therapeutic agents for human lung cancers .

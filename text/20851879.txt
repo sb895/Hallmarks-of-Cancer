@@ -1,0 +1,8 @@
+Progression of breast cancer is associated with remodeling of the extracellular matrix , often involving a switch from estrogen dependence to a dependence on EGF receptor ( EGFR)/HER-2 and is accompanied by increased expression of the main binding protein for insulin-like growth factors ( IGFBP-3 ) .
+We have examined the effects of IGFBP-3 on EGF responses of breast epithelial cells in the context of changes in the extracellular matrix .
+On plastic and laminin with MCF-10A normal breast epithelial cells , EGF and IGFBP-3 each increased cell growth and together produced a synergistic response , whereas with T47D breast cancer cells IGFBP-3 alone had no effect , but the ability of EGF to increase cell proliferation was markedly inhibited in the presence of IGFBP-3 .
+In contrast on fibronectin with MCF-10A cells , IGFBP-3 alone inhibited cell growth and blocked EGF-induced proliferation .
+With the cancer cells , IGFBP-3 alone had no effect but enhanced the EGF-induced increase in cell growth .
+The insulin-like growth factor-independent effects of IGFBP-3 alone on cell proliferation were completely abrogated in the presence of an EGFR , tyrosine kinase inhibitor , Iressa .
+Although IGFBP-3 did not affect EGFR phosphorylation [ Tyr(1068) ] , it was found to modulate receptor internalization and was associated with activation of Rho and subsequent changes in MAPK phosphorylation .
+The levels of fibronectin and IGFBP-3 within breast tumors may determine their dependence on EGFR and their response to therapies targeting this receptor .

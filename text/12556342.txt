@@ -1,0 +1,16 @@
+PURPOSE Mitotic cells are hypersensitive to ionizing radiation , exhibiting single-hit inactivation coefficients near to those of repair deficient cell lines and lymphocytes .
+To elucidate possible mechanisms for this hypersensitivity , the kinetics of oxygen radiosensitization , the proportion of indirect effect by OH radicals and the kinetics of radiation-induced DNA strand breakage in the chromatin of mitotic cells were investigated .
+MATERIALS AND METHODS Synchronized populations of >90% mitotic HT-29 cells were obtained by the mitotic shake-off method .
+Cells were irradiated at < or =4 degrees C with ( 137)Cs gamma-rays .
+Cellular oxygen concentration was varied by gassing cell suspensions prior to and during irradiation with mixtures of pure N(2) that contained 5% CO(2) and measured quantities of O(2) .
+The indirect effect of OH radicals was investigated with the radical scavenger , DMSO .
+DNA strand breakage was measured by the comet assay .
+RESULTS Mitotic HT-29 cell inactivation is well described by a single-hit inactivation coefficient ( alpha ) of 1.14 +/- 0.06 Gy(-1) .
+The oxygen enhancement ratio of mitotic cells ( at 10% survival ) was found to be approximately 2.0 , significantly lower than the value of 2.8 measured for interphase ( asynchronous ) cells .
+More than 60% of mitotic cell killing was eliminated when the media contained 2 M DMSO , indicating that indirect effect is as important in the killing of mitotic cells as it is for interphase cells .
+The chromatin in mitotic cells was found to be times more sensitive to radiation-induced DNA single-strand breakage than the chromatin of interphase cells .
+CONCLUSIONS The alpha-inactivation coefficient of mitotic HT-29 cells was times larger than that of interphase cells .
+Mitotic cell chromatin appears to contain intrinsic DNA breaks that are not lethal .
+In addition , chromatin in mitotic cells was found to be more susceptible to radiation-induced DNA strand-breakage than the dispersed chromatin of interphase cells .
+How the enhanced production of these simple DNA lesions ( that are usually reparable ) translates into the lethal ( non-reparable ) events associated with alpha-inactivation is not known .
+The compaction/dispersion status of DNA throughout the cell cycle appears to be an important factor for determining intrinsic cell radiosensitivity and might be manipulated for radiotherapeutic advantage .

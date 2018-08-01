@@ -1,0 +1,27 @@
+A 51-year-old previously healthy man , an ex-smoker , was admitted to the authors ' medical department with a 3-month history of dry cough ; intermittent fever ; painless , ulcerated cutaneous lesions over the trunk and limbs ( Figure 1 ) ; and progressive weight loss .
+He was of Greek descent .
+His medical history was remarkable for nasal polyps , which were surgically removed 15 years earlier .
+Initially , he had been treated with antibiotics , without improvement .
+Several days before admission , chest radiography revealed pulmonary infiltrates in the left lower lobe .
+On admission , physical examination revealed a well-orientated man in mild distress , with inspiratory rhonchi at the lower part of the left lung and scattered erythematous nodules of variable size , some of which were ulcerated .
+Laboratory values were notable for leukopenia , 3.3 x 10(9)/L ; total protein , 5.9 g/dL ; globulin , 2.2 g/dL ; serum glutamic oxaloacetic transaminase , 86 IU/L ; serum glutamic pyruvic transaminase , 71 IU/L ; and lactate dehydrogenase , 519 U/L .
+Computed tomograph ( CT ) of the chest showed multiple alveolar opacities bilaterally ( Figure 2 ) .
+Fiberoptic bronchoscopy did not reveal any important pathologic findings .
+Results of bronchial biopsy , cytology of bronchoalveolar lavage , washing , brushing , and sputum following bronchoscopy were negative .
+CT of the brai and sinonasal area revealed an abnormal low-density mass in the left nasal area .
+CT findings of the abdomen were negative , as were results of a bone marrow biopsy .
+There was no evidence of immunosuppression .
+The differential diagnosis , considering the evidence described , included granulomatous or infectious diseases , angiocentric lymphoproliferative lesions , and lymphomas .
+Biopsy of a skin lesion showed lymphoproliferative infiltration of the dermis with a follicular and angiocentric growth pattern and regional epidermal necrosis .
+Immunohistochemical stains showed that the tumor cell were positive for CD56 and CD3 ( cytoplasmic positivity ) and expressed the cytotoxic proteins T-cell intracellular antigen and granzyme B ( Figure 3 ) They lacked TdT , CD34 , CD7 , CD8 , TCL-1 , and CD123 .
+Findings from an in situ hybridization study for Epstein-Barr virus were negative .
+Give this result , molecular analysis ofT-cell receptor ( TCR ) gene rearrangements was performed using polymerase chain reaction-based TCR-gamma gene , wit negative results .
+The morphology and the immunophenotype were consistent with natural killer/T-cell lymphoma , nasal-type .
+Nasal involvement must be first excluded to proceed to the diagnosis of nasal-type natural killer-cell lymphoma .
+Indeed , histologic examination of the nasal mass revealed its polypoid nature .
+Thus , the authors were led to the diagnosis of extranodal extranasal natural killer/T-cell lymphoma , nasal-type , CD56-positive , Ep stein-Barr virus-negative , TCR-negative .
+The patient received combination chemotherapy and completed 4 cycles of cyclophosphamide , doxorubicin vincristine , and prednisone every 14 days for 2 months .
+Skin lesions improved , and there was no fever soon after the initiation of therapy .
+Reevaluatio after the fourth cycle , however , disclosed pulmonary infiltrations as well as leukemic infiltration of the central nervous system .
+The patient had receive systemic salvage chemotherapy and intrathecal infusions of methotrexate .
+Although the lung lesions had diminished at that time , the patient develope paraplegia , his clinical course rapidly deteriorated , and he eventually died .

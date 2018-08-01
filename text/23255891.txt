@@ -1,0 +1,10 @@
+Capsaicin , one of the major pungent ingredients found in red peppers , has been recently demonstrated to induce apoptosis in various malignant cell lines through an unclear mechanism .
+In this study , the effect of capsaicin on proliferation and apoptosis in the human pancreatic cancer cell line PANC-1 and its possible mechanism(s) of action were investigated .
+The results of a Cell Counting Kit-8 ( CCK-8 ) assay revealed that capsaicin significantly decreased the viability of PANC-1 cells in a dose-dependent manner .
+Capsaicin induced G0/G1 phase cell cycle arrest and apoptosis in PANC-1 cells as demonstrated by a flow cytometric assessment .
+Caspase-3 expression at both the protein and mRNA level was promoted following capsaicin treatment .
+Furthermore , we revealed that phospho-PI3 Kinase p85 ( Tyr458 ) and phospho-Akt ( Ser473 ) in PANC-1 cells were downregulated in response to capsaicin .
+Moreover , capsaicin gavage significantly inhibited the growth of pancreatic cancer PANC-1 cell xenografts in athymic nude mice .
+An increased number of TUNEL-positive cells and cleaved caspase-3 were observed in capsaicin-treated mice .
+In vivo , capsaicin downregulated the expression of phospho-PI3 Kinase p85 ( Tyr458 ) and phospho-Akt ( Ser473 ) .
+In conclusion , we have demonstrated that capsaicin is an inhibitor of growth of PANC-1 cells , and downregulation of the phosphoinositide 3-kinase/Akt pathway may be involved in capsaicin-induced apoptosis in vitro and in vivo .

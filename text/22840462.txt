@@ -1,0 +1,7 @@
+BACKGROUND : To quantify tumour angiogenesis , microvessel density ( MVD ) has been widely used .
+We here present a novel angiogenesis marker , microvessel proliferation ( MVP ) , based on dual immunohistochemical staining of nestin and Ki-67 .
+Immature endothelial cells express nestin , and when co-expressed with the proliferation marker Ki-67 , the number of proliferating immature blood vessels can be measured .
+MATERIALS AND METHODS : Microvessel proliferation was evaluated in 178 breast cancer samples and estimated by vascular proliferation index ( VPI ) , the ratio between the number of vessels containing proliferating endothelial cells and the total number of immature vessels .
+RESULTS : High VPI was strongly associated with several markers of aggressive breast cancer , such as negative oestrogen receptor ( ER ) status ( p=0.003 ) , high tumour cell proliferation by Ki-67 ( p=0.004 ) , high p53 expression ( p=0.001 ) , and five profiles for the basal-like phenotype ( odds ratios ( OR ) ; range 3.4-6.3 ) .
+Also , high VPI was significantly associated with interval detected breast cancer compared with screening detected lesions ( p<0.0005 ) , and adverse outcome in univariate and multivariate survival analysis ( p=0.034 and p=0.022 , respectively ) .
+CONCLUSION : Microvessel proliferation is a novel marker of ongoing angiogenesis and was associated with aggressive tumour features , basal-like phenotypes , interval presentation , and prognosis in this series of breast cancer .

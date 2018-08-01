@@ -1,0 +1,8 @@
+Acute lymphoblastic leukemia is still an incurable disease with resistance to therapy developing in the majority of patients .
+We investigated the effect of TPEN , an intracellular zinc chelator , in Jurkat and in ex vivo acute lymphoblastic leukemia ( ALL ) cells resistant to chemotherapy .
+Changes of nuclei morphology , reactive oxygen species generation , presence of hypodiploid cells , phosphatidylserine translocation , mitochondrial membrane depolarization , immunohistochemical identification of cell death signalling molecules , and pharmacological inhibition were assayed to detect the apoptotic cell death pathways .
+We found that TPEN induces apoptosis in both types of cells by a molecular oxidative stress pathway involving O(2)(•-) > H(2)O(2) > NF-κB ( JNK/c-Jun ) >p53> loss ΔΨ(m)> caspase-3 , AIF > chromatin condensation/DNA fragmentation .
+Interestingly , TPEN induced apoptosis independently of glucose ; leukemic cells are therefore devoid of survival capacity by metabolic resistance to treatment .
+Most importantly , TPEN cytotoxic effect can eventually be regulated by the antioxidant N-acetyl-cysteine and zinc ions .
+Our data suggest that TPEN can be used as a potential therapeutic prooxidant agent against refractory leukemia .
+These data contribute to understanding the importance of oxidative stress in the treatment of ALL .

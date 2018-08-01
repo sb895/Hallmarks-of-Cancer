@@ -1,0 +1,13 @@
+Hexachlorobenzene ( HCB ) is an organochlorine pesticide that acts as an endocrine disruptor in humans and rodents .
+The development of breast cancer strongly depends on endocrine conditions modulated by environmental factors .
+We have demonstrated that HCB is a tumor co-carcinogen in rats and an inducer of proliferation in MCF-7 cells , in an estrogen receptor α ( ERα)-dependent manner , and of migration in MDA-MB-231 breast cancer cell line .
+In the present study , we examined HCB effect on c-Src/human epidermal growth factor receptor ( HER1 ) and ERα signaling pathways in mammary glands and in N-nitroso-N-methylurea ( NMU)-induced mammary tumors in rats .
+Furthermore , we evaluated histopathological changes and serum hormone levels .
+Rats were separated into four groups : control , HCB ( 100 mg/kg b.w. ) , NMU ( 50 mg/kg b.w. ) and NMU-HCB .
+Our data show that HCB increases c-Src and HER1 activation , c-Src/HER1 association , and Y699-STAT5b and ERK1/2 phosphorylation in mammary glands .
+HCB also enhances Y537-ERα phosphorylation and ERα/c-Src physical interaction .
+In tumors , HCB also induces c-Src and HER1 activation , c-Src/HER1 association , as well as T308-Akt and Y699-STAT5b phosphorylation .
+In addition , the pesticide increases ERα protein content and decreases p-Y537-ERα levels and ERα/c-Src association in tumors .
+HCB increases serum 17-beta estradiol and prolactin contents and decreases progesterone , FSH and LH levels in rats without tumors , while the opposite effect was observed in rats with tumors .
+Taken together , our results indicate that HCB induces an estrogenic effect in mammary gland , increasing c-Src/HER1 and ERα signaling pathways .
+HCB stimulates c-Src/HER1 pathway , but decreases ERα activity in tumors , appearing to shift them towards a higher malignancy phenotype .

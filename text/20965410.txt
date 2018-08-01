@@ -1,0 +1,6 @@
+INTRODUCTION The insulin-like growth factor I receptor ( IGF-IR ) pathway plays a major role in cancer growth , tumor cell survival and resistance to therapy .
+BACKGROUND Preclinical evidence that targeting the IGF-IR is effective in cancer treatment has been accumulating for almost 2 decades .
+Early clinical trials revealed an acceptable safety profile together with pharmacodynamic evidence that the receptor can be targeted successfully .
+It is premature to draw conclusions regarding the therapeutic potential of this class of compounds but well-documented single-agent activity was noted during phase I evaluations , and recent evidence from a phase-II study suggests that co-administration of an anti-IGF-1R antibody with chemotherapy for non-small-cell lung cancer ( NSCLC ) improves objective response rate and progression-free survival .
+VIEWPOINTS These early results are a strong indication for continued research on the targeting of IGF-R , particularly in the treatment of NSCLC .
+CONCLUSIONS Today , IGF-1R targeting appears a promising approach , more than two dozen compounds have been developed and clinical trials are underway .

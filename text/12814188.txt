@@ -1,0 +1,9 @@
+The telomerase activity and the senescence profile of cultured breast fibroblasts from normal human interstitial and malignant stromal tissue were studied in comparison with their proliferation and differentiation pattern .
+Fibroblasts were grown either in the presence or absence of a conditioned medium ( CM ) obtained from cultures of the oestrogen receptor-positive breast cancer MCF-7 cell line .
+At different passages ( from the 2nd up to the 48th ) , fibroblasts were examined for the telomerase activity by the Telomerase Repeats Amplification Protocol ( TRAP ) assay , for proliferation profile by Ki-67 antigen expression , and the myofibroblast or smooth muscle cell-like differentiation pattern by immunofluorescence with monoclonal antibodies specific for smooth muscle markers .
+Serial passages of fibroblasts from normal or tumour breast reveal that the relationship between the levels of telomerase activity and phenotypic/proliferation profile changes with cell subcultivation in a different manner in the two cell populations .
+The fibroblasts from normal tissue completed 12 passages in a CM-independent way prior to senescence whereas fibroblasts from tumour stroma senescence were attained after 48 passages .
+These cells showed a marked decrease of telomerase activity , growth rate and smooth muscle alpha-actin expressing myofibroblasts after the 32nd passage .
+CM treatment of this fibroblast population induces a decline in the myofibroblast content , which precedes the changes in telomerase activity .
+Passaged fibroblasts from normal breast tissue can be converted to myofibroblasts upon CM treatment whereas those from tumour stroma were CM-insensitive .
+Taken together our data suggest that a heterogeneous fibroblast population with different life span is activated/recruited in the breast interstitium and poses the problem of a unique activation/recruitment of fibroblasts in neoplastic conditions .

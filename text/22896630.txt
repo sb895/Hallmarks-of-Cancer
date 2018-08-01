@@ -1,0 +1,8 @@
+IFN-γ is a master regulator of the immune responses that occur in the transplanted kidney , acting both on the immune system and on the graft itself .
+The cellular responses to IFN-γ are complex , and emerging evidence suggests that IFN-γ may regulate autophagic functions .
+Conversely , autophagy modulates innate and adaptive immune functions in various contexts .
+In this study , we identify a novel mechanism by which IFN-γ activates autophagy in human kidney epithelial cells and provide new insights into how autophagy regulates immune functions in response to IFN-γ .
+Our results indicate that IFN-γ promotes tryptophan depletion , activates the eIF2α kinase general control nonderepressible-2 ( GCN2 ) , and leads to an increase in the autophagic flux .
+Further , tryptophan supplementation and RNA interference directed against GCN2 inhibited IFN-γ-induced autophagy .
+This process is of functional relevance because autophagy regulates the secretion of inflammatory cytokines and growth factors by human kidney epithelial cells in response to IFN-γ .
+These findings assign to IFN-γ a novel function in the regulation of autophagy , which , in turn , modulates IFN-γ-induced secretion of inflammatory cytokines .

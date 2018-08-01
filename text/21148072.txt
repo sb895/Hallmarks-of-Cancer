@@ -1,0 +1,6 @@
+Recently , we identified the " apoptotic ring, " containing phosphorylated histone H2AX ( γ-H2AX ) , as an early chromatin modification during apoptosis .
+Because γ-H2AX initiates the DNA damage response ( DDR ) , we tested whether the apoptotic H2AX response leads to the full recruitment of the DDR factors that normally coordinate DNA repair and cell-cycle checkpoints .
+We show that the apoptotic H2AX response does not recruit the DDR factors because MDC1 ( mediator of DNA damage checkpoint protein 1 ) , which normally binds to γ-H2AX in response to DNA damage and amplifies the DDR , is cleaved by caspase-3 .
+This cleavage separates the BRCT and FHA domains of MDC1 and constitutes a novel mechanism for the inactivation of DNA repair in apoptotic cells .
+Also , we show that downregulation of MDC1 increases the apoptotic response to TRAIL .
+Together , these results implicate MDC1 in the cellular apoptotic response .

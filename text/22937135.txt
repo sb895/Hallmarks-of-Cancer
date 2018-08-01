@@ -1,0 +1,12 @@
+Activating c-KIT mutations ( exons 11 and 17 ) are found in 10-40% of testicular seminomas , the majority being missense point mutations ( codon 816 ) .
+Malignant ovarian dysgerminomas represent of all ovarian cancers in Western countries , resembling testicular seminomas , regarding chromosomal aberrations and c-KIT mutations .
+DSD patients with specific Y-sequences have an increased risk for Type II Germ Cell Tumor/Cancer , with gonadoblastoma as precursor progressing to dysgerminoma .
+Here we present analysis of c-KIT exon 8 , 9 , 11 , 13 and 17 , and PDGFRA exon 12 , 14 and 18 by conventional sequencing together with mutational analysis of c-KIT codon 816 by a sensitive and specific LightCycler melting curve analysis , confirmed by sequencing .
+The results are combined with data on TSPY and OCT3/4 expression in a series of 16 DSD patients presenting with gonadoblastoma and dysgerminoma and 15 patients presenting pure ovarian dysgerminomas without DSD. c-KIT codon 816 mutations were detected in five out of the total of 31 cases ( all found in pure ovarian dysgerminomas ) .
+A synonymous SNP ( rs 5578615 ) was detected in two patients , one DSD patient ( with bilateral disease ) and one patient with dysgerminoma .
+Next to these , three codon N822K mutations were detected in the group of 15 pure ovarian dysgerminomas .
+In total activating c-KIT mutations were found in 53% of ovarian dysgerminomas without DSD .
+In the group of 16 DSD cases a N505I and D820E mutation was found in a single tumor of a patient with gonadoblastoma and dysgerminoma .
+No PDGFRA mutations were found .
+Positive OCT3/4 staining was present in all gonadoblastomas and dysgerminomas investigated , TSPY expression was only seen in the gonadoblastoma/dysgerminoma lesions of the 16 DSD patients .
+This data supports the existence of two distinct but parallel pathways in the development of dysgerminoma , in which mutational status of c-KIT might parallel the presence of TSPY .

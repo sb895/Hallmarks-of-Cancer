@@ -1,0 +1,13 @@
+ABSTRACT : BACKGROUND : Chemokine receptor CXCR4 , together with its ligand CXCL12 , plays critical roles in cancer progression , including growth , metastasis and angiogenesis .
+Ewing sarcoma is a sarcoma with poor prognosis despite current therapies , particularly for patients with advanced-stage disease .
+Lungs and bone ( marrow ) , organs of predilection for ( primary/metastatic ) Ewing sarcoma , represent predominant CXCL12 sources .
+METHODS : To gain insight into the role of the CXCR4-CXCL12 axis in Ewing sarcoma , CXCR4 , CXCL12 and hypoxia-inducible factor-1alpha protein expression was studied in therapy-naive and metastatic tumors by immunohistochemistry .
+CXCR4 function was assessed in vitro , by flow cytometry and proliferation/ cell viability assays , in the presence of recombinant CXCL12 and/or CXCR4-antagonist AMD3100 or under hypoxic conditions .
+RESULTS : Whereas CXCR4 was predominantly expressed by tumor cells , CXCL12 was observed in both tumor and stromal areas .
+Survival analysis revealed an ( expression level-dependent ) negative impact of CXCR4 expression ( p < 0.04 ) .
+A role for the CXCR4-CXCL12 axis in Ewing sarcoma growth was suggested by our observations that i ) CXCR4 expression correlated positively with tumor volume at diagnosis ( p = 0.013 ) , ii ) CXCL12 was present within the microenvironment of virtually all cases , iii ) CXCL12 induced proliferation of CXCR4-positive Ewing sarcoma cell lines , which could be abrogated by AMD3100 .
+CXCR4 expression was not correlated with occurrence of metastatic disease .
+Also , therapy-naive tumors demonstrated higher CXCR4 expression as compared to metastases ( p = 0.027 ) .
+Evaluation of in vivo hypoxia-inducible factor-1alpha expression and culture of cells under hypoxic conditions revealed no role for hypoxia in CXCR4 expression .
+CONCLUSIONS : Together , our results imply a crucial role for the CXCR4-CXCL12 axis in auto- and/or paracrine growth stimulation .
+Integration of CXCR4-targeting strategies into first- and/or second-line treatment regimens may represent a promising treatment option for Ewing sarcoma .

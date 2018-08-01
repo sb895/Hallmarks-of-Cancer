@@ -1,0 +1,10 @@
+Angiogenesis is critical for cancer growth and metastasis .
+Steps of angiogenesis are energy consuming , while vascular endothelial cells are highly glycolytic .
+Glioblastoma multiforme ( GBM ) is a highly vascular tumor and this enhances its aggressiveness .
+D-amino acid oxidase ( DAO ) is a promising therapeutic protein that induces oxidative stress upon acting on its substrates .
+Oxidative stress-energy depletion ( OSED ) therapy was recently reported ( El Sayed et al. , Cancer Gene Ther , 19 , 1-18 , 2012 ) .
+OSED combines DAO-induced oxidative stress with energy depletion caused by glycolytic inhibitors such as 3-bromopyruvate ( 3BP ) , a hexokinase II inhibitor that depleted ATP in cancer cells and induced production of hydrogen peroxide. 3BP disturbs the Warburg effect and antagonizes effects of lactate and pyruvate ( El Sayed et al. , J Bioenerg Biomembr , 44 , 61-79 , 2012 ) .
+Citrate is a natural organic acid capable of inhibiting glycolysis by targeting phosphofructokinase .
+Here , we report that DAO , 3BP and citrate significantly inhibited angiogenesis , decreased the number of vascular branching points and shortened the length of vascular tubules .
+OSED delayed the growth of C6/DAO glioma cells. 3BP combined with citrate delayed the growth of C6 glioma cells and decreased significantly the number and size of C6 glioma colonies in soft agar .
+Human GBM cells ( U373MG ) were resistant to chemotherapy e.g. cisplatin and cytosine arabinoside , while 3BP was effective in decreasing the viability and disturbing the morphology of U373MG cells .

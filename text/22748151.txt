@@ -1,0 +1,8 @@
+BACKGROUND Detection of disease-causing mutations using Deep Sequencing technologies possesses great challenges .
+In particular , organizing the great amount of sequences generated so that mutations , which might possibly be biologically relevant , are easily identified is a difficult task .
+Yet , for this assignment only limited automatic accessible tools exist .
+FINDINGS We developed GenomeGems to gap this need by enabling the user to view and compare Single Nucleotide Polymorphisms ( SNPs ) from multiple datasets and to load the data onto the UCSC Genome Browser for an expanded and familiar visualization .
+As such , via automatic , clear and accessible presentation of processed Deep Sequencing data , our tool aims to facilitate ranking of genomic SNP calling .
+GenomeGems runs on a local Personal Computer ( PC ) and is freely available at http://www.tau.ac.il/ CONCLUSIONS GenomeGems enables researchers to identify potential disease-causing SNPs in an efficient manner .
+This enables rapid turnover of information and leads to further experimental SNP validation .
+The tool allows the user to compare and visualize SNPs from multiple experiments and to easily load SNP data onto the UCSC Genome browser for further detailed information .

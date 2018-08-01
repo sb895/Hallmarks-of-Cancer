@@ -1,0 +1,7 @@
+Thrombospondin-1 is a matricellular protein with potent antitumour activities , the levels of which determine the fate of many different tumours , including renal carcinomas .
+However , the factors that regulate this protein remain unclear .
+In renal carcinomas , hypoxic conditions enhance the expression of angiogenic factors that help adapt tumour cells to their hostile environment .
+Therefore , we hypothesized that anti-angiogenic factors should correspondingly be dampened .
+Indeed , we found that hypoxia decreased the thrombospondin-1 protein in several clear cell renal carcinoma cell lines ( ccRCC ) , although no transcriptional regulation was observed .
+Furthermore , we proved that hypoxia stimulates multiple signals that independently contribute to diminish thrombospondin-1 in ccRCC , which include a decrease in the activity of oxygen-dependent prolylhydroxylases ( PHDs ) and activation of the PI3K/Akt signalling pathway .
+In addition , thrombospondin-1 regulation in hypoxia proved to be important for ccRCC cell migration and invasion .

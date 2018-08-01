@@ -1,0 +1,8 @@
+Induction of the expression of the Mr 67,000 high-affinity laminin receptor gene has been postulated as playing a role in the progression of human tumors to invasive cancers .
+We tested this hypothesis by examining histopathological sections of a large number of epithelial lesions of the genital tract associated with human papillomaviruses .
+In situ hybridization was performed with a riboprobe generated from a laminin receptor complementary DNA .
+Laminin receptor mRNA was expressed primarily in the less differentiated cells in normal squamous tissues and in a spectrum of squamous neoplasms .
+There was no net induction of mRNA per cell in intraepithelial or invasive squamous neoplasms relative to normal tissue .
+In contrast , laminin receptor mRNA was not expressed at a detectable level in normal glands of the uterine cervix but was dramatically induced in morphologically abnormal , human papillomavirus-positive glands , irrespective of the genotype of human papillomaviruses present .
+The induction occurred before any evidence of invasion , and there was no further increase during the transition from adenocarcinoma in situ to invasive carcinoma .
+We conclude that induction of high-affinity laminin receptor gene expression is associated with the development of malignancies of cervical glandular epithelia , but the increased expression appears to correlate with the proliferative rather than the invasive properties of these cells .

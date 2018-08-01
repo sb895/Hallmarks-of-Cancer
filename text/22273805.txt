@@ -1,0 +1,7 @@
+This study shows the effect of pterostilbene on intracellular neutral lipid accumulation in MCF-7 breast cancer cells leading to growth arrest and autophagy .
+On exposing the breast cancer cells with 30 μM pterostilbene for 72 h there was almost 2-folds increase in neutral lipids and triglycerides .
+Also the phytochemical caused a 4-folds increase in the expression of adipogenic differentiation marker c/EBPα .
+Further , pterostilbene inhibited 3β-hydroxylsterol-Δ(7)-reductase , the enzyme which catalyzes the last step conversion of 7-dehydrocholesterol to cholesterol , and thereby causes the intracellular accumulation of the former sterol .
+These results were associated with over-expression of oxysterol binding protein homologue and liver X receptor ( LXR ) by Pterostilbene also caused a simultaneous increase in the expression autophagic marker proteins Beclin 1 and LC3 II ( microtubule-associated protein 1 light chain 3 ) by approximately 6-folds , which leads to an alternative pathway of autophagy .
+These effects were observed in association with the loss of mitotic and metastatic potential of MCF-7 cells which was abolished in the presence of catalase ( ROS scavenger ) or 3MA ( autophagic inhibitor ) .
+Thus the present data shows that the long term exposure to pterostilbene causes growth arrest in MCF-7 cells which may be due to differentiation of the mammary carcinoma cells into normal epithelial cell like morphology and activation of autophagy .

@@ -1,0 +1,6 @@
+Oxazaphosphorines are a class of DNA alkylating agents .
+The aim of the present study was to compare the possible influence of three new generation oxazaphosphorines , D-17272 ( mafosfamide cyclohexylamine salt ) , D-18864 ( 4-hydro-peroxy-cyclophosphamide ) , and D-19575 ( glufosfamide , beta-D-glucose-isophosphoramide mustard ) on DNA damage induction in the human histiocytic lymphoma U937 cells .
+The flow cytometry APO-BRDU assay , based on the TUNEL method , was used for the in situ detection of DNA strand breaks .
+After exposure of U937 cells to the oxazaphosphorines , the patterns of temporary changes in the frequency of TUNEL positive U937 cells , expressing DNA breakage , were determined .
+The effects of the oxazaphosphorines on U937 cells were dependent on the agent tested and its dose , and the time intervals after the drug application .
+The different potential of D-17272 , D-18864 and D-19575 to induce DNA strand breakage in the human histiocytic lymphoma U937 cells was shown .

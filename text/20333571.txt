@@ -1,0 +1,11 @@
+BACKGROUND The current staging system provides an anatomical classification of lung tumors ; its secondary purpose is to allow the prognostic stratification of patients into homogeneous groups after surgery .
+In this work , intratumoral perineural invasion , lymphatic and blood vessel invasion together with the necrosis content of the tumor exclusive of the non-small cell cancer staging system were studied .
+METHODS During a 4-year period , 152 patients operated for non-small cell lung cancer ( NSCLC ) at our hospital were analyzed .
+Mean age of patients was 55.7 +/- 10.1 years .
+RESULTS Overall 5-year survival was 42.2 % .
+Mediastinal lymph node involvement , tumor size , incomplete resection , pneumonectomy , presence of necrosis and perineural invasion were significant prognosticators ( P = 0.03 , 0.04 , 0.0001 , 0.046 , 0.0246 , < 0.0001 , respectively ) .
+Multivariate analysis revealed that N status , perineural invasion , and the presence of necrosis were independent prognostic factors ( P = 0.006 , P = 0.001 , P = 0.001 , respectively ) .
+Patients who had stage I tumor with necrosis and perineural invasion had a lower survival rate than those with stage IIIA tumor without these histopathological features ( P = 0.04 ) .
+The presence of these histopathological characteristics in stage IIIA patients was a sign of a poorer prognosis ( P = 0.0001 ) .
+CONCLUSIONS Perineural invasion and the presence of necrosis independently indicated a dismal prognosis and their prognostic power is comparable to those of the TNM classification .
+These factors could be candidates for better survival stratification and the indicators of the need for adjuvant therapy in early stage lung cancer patients .

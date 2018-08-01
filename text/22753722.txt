@@ -1,0 +1,6 @@
+Non-small cell lung cancer ( NSCLC ) , accounting for 80% of lung cancers , is the leading cause of all cancer deaths .
+Previously , we demonstrated that delta-tocotrienol inhibits NSCLC cell proliferation , invasion and induces apoptosis by down-regulation of the Notch-1 signaling pathway .
+The objective of this study was to investigate whether delta-tocotrienol , could enhance the anticancer effects of cisplatin .
+Treatment with a combination of delta-tocotrienol and cisplatin resulted in a dose-dependent , significant inhibition of cell growth , migration , invasiveness , and induction of apoptosis in NSCLC cells , as compared to the single agents .
+This was associated with a decrease in NF-κB DNA binding activity , decrease in Notch-1 , Hes-1 , Bcl-2 and increase in cleaved Caspase-3 and PARP expressions .
+These results suggest that down-regulation of Notch-1 , via inhibition of NF-κB signaling pathways by delta-tocotrienol and cisplatin , in combination , could provide a potential novel approach for tumor arrest in NSCLC , while lowering the effective dose of cisplatin .

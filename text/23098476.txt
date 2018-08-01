@@ -1,0 +1,10 @@
+The CD4+CD25+ regulatory T cell ( Treg ) is a special kind of T cell subset .
+Studies have showed that Treg cells are involved in a number of physiological processes and pathologic conditions such as autoimmune diseases , transplantation tolerance and cancer .
+Tregs with unique capacity for immune inhibition can impair anti-tumour immunity and help tumor cells to escape from immune surveillance .
+The aim of our study was to investigate whether Tregs are involved in hepatocellular carcinoma ( HCC ) .
+A BABL/C mouse with HCC in situ model was established to evaluate the Treg existence in carcinoma tissues and the changes of Tregs in spleen using flow cytometry and immunohistochemistry methods .
+Granzyme B expression in carcinoma tissues was analyzed by immunohistochemistry to investigate the tumor local immune status .
+The proportion of CD4+CD25+/CD4+ spleen lymphocytes of tumor bearing mice ( 18.8% � 1.26% ) was found to be significantly higher than that in normal mice ( 9.99% � 1.90% ) ( P<0.01 ) .
+Immunohistochemistry of spleen tissue also confirmed that there was an increase in Treg in tumor-bearing mice , while in carcinomas it showed Treg cells to be present in tumor infiltrating lymphocyte areas while Granzyme B was rarely observed .
+Anti-tumour immunity was suppressed , and this might be associated with the increase of Tregs .
+Our observations suggest that the CD4+CD25+Treg/ CD4+ proportion in spleen lymphocytes can be a sensitive index to evaluate the change of Tregs in hepatocellular carcinoma mice and the Treg may be a promising therapeutic target for cancer .

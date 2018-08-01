@@ -1,0 +1,15 @@
+Mechanosensitive channels sense elevated membrane tension that arises from rapid water influx occurring when cells move from high to low osmolarity environments ( hypoosmotic shock ) .
+These non-specific channels in the cytoplasmic membrane release osmotically-active solutes and ions .
+The two major mechanosensitive channels in Escherichia coli are MscL and MscS .
+Deletion of both proteins severely compromises survival of hypoosmotic shock .
+However , like many bacteria , E. coli cells possess other MscS-type genes ( kefA , ybdG , ybiO , yjeP and ynaI ) .
+Two homologs , MscK ( kefA ) and YbdG , have been characterized as mechanosensitive channels that play minor roles in maintaining cell integrity .
+Additional channel openings are occasionally observed in patches derived from mutants lacking MscS , MscK and MscL .
+Due to their rare occurrence , little is known about these extra pressure-induced currents or their genetic origins .
+Here we complete the identification of the remaining E. coli mechanosensitive channels YnaI , YbiO and YjeP .
+The latter is the major component of the previously described MscM activity ( pS ) , while YnaI ( pS ) and YbiO ( pS ) were previously unknown .
+Expression of native YbiO is NaCl-specific and RpoS-dependent .
+A \u03947 strain was created with all seven E. coli mechanosensitive channel genes deleted .
+High level expression of YnaI , YbiO or YjeP proteins from a multicopy plasmid in the \u03947 strain ( MJFGH ) leads to substantial protection against hypoosmotic shock .
+Purified homologs exhibit high molecular masses that are consistent with heptameric assemblies .
+This work reveals novel mechanosensitive channels and discusses the regulation of their expression in the context of possible additional functions .

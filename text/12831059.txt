@@ -1,0 +1,9 @@
+There is increasing evidence for the implication of tumor-derived angiogenic and anti-angiogenic factors in controlling tumor growth in vivo .
+In this study , we documented the production of inhibitors of angiogenesis by pancreatic cancer cells and examined how changes in the balance between pro- and anti-angiogenic factors regulate tumor growth in vivo .
+The human pancreatic cancer cell line Hs-776T ( HS-W ) produces slow-growing tumors in SCID mice .
+Cells of a variant form ( HS-R ) of Hs-776T produced faster-growing tumors compared to HS-W .
+Characterization of HS-W and HS-R cells in vitro showed similar proliferation rates and production of the angiogenic factors vascular endothelial growth factor ( VEGF ) and basic fibroblast growth factor ( bFGF ) .
+Analyzes of anti-angiogenic factors showed comparable levels of angiostatin and thrombospondin 1 and 2 , but endostatin was only detected in conditioned media of HS-W cells and was absent in HS-R .
+Cell proliferation was similar in both tumor types in vivo , whereas HS-W tumors demonstrated increased apoptosis with a high percentage of apoptotic endothelial cells ( EC ) .
+Subsequently , VEGF was over-expressed in Hs-776T cells ( HS-VF ) , resulting in rapidly growing tumors and lowering tumor and EC apoptosis .
+Collectively , our study confirms that tumor growth is dependent on its ability to increase the angiogenic stimulus or to reduce the amounts of endogenous anti-angiogenic factors .

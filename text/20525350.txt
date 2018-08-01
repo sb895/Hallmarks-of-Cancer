@@ -1,0 +1,14 @@
+BACKGROUND The immune system plays an important role in the multifactorial biologic system during the development of neoplasias .
+However , the involvement of the inflammatory response in the promotion/control of malignant cells is still controversial , and the cell subsets and the mechanisms involved are poorly investigated .
+The goal of this study was to characterize the clinical-pathological status and the immunophenotyping profile of tumor infiltrating lymphocytes and their association with the animal survival rates in canine mammary carcinomas .
+METHODS Fifty-one animals with mammary carcinomas , classified as carcinomas in mixed tumors-MC-BMT = 31 and carcinomas-MC = 20 were submitted to systematic clinical-pathological analysis ( tumor size ; presence of lymph node and pulmonary metastasis ; clinical stage ; histological grade ; inflammatory distribution and intensity as well as the lymphocytic infiltrate intensity ) and survival rates .
+Twenty-four animals ( MC-BMT = 16 and MC = 8 ) were elected to the immunophenotypic study performed by flow cytometry .
+RESULTS Data analysis demonstrated that clinical stage II-IV and histological grade was I more frequent in MC-BMT as compared to MC .
+Univariate analysis demonstrated that the intensity of inflammation ( moderate/intense ) and the proportion of CD4+ ( > or = 66.7% ) or CD8+ T-cells ( <33.3% ) were not associated with worse survival rate .
+Multivariate analysis demonstrated that only lymphocytic infiltrate intensity > or = 600 ( P = 0.02 ) remained as independent prognostic factor .
+Despite the clinical manifestation , the lymphocytes represented the predominant cell type in the tumor infiltrate .
+The percentage of T-cells was higher in animals with MC-BMT without metastasis , while the percentage of B-lymphocytes was greater in animals with metastasized MC-BMT ( P < 0.05 ) .
+The relative percentage of CD4+ T-cells was significantly greater in metastasized tumors ( both MC-BMT and MC ) , ( P < 0.05 ) while the proportion of CD8+ T-cells was higher in MC-BMT without metastasis .
+Consequently , the CD4+/CD8+ ratio was significantly increased in both groups with metastasis .
+Regardless of the tumor type , the animals with high proportions of CD4+ and low CD8+ T-cells had decreased survival rates .
+CONCLUSION The intensity of lymphocytic infiltrate and probably the relative abundance of the CD4+ and CD8+ T-lymphocytes may represent important survival prognostic biomarkers for canine mammary carcinomas .

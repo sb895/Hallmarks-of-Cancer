@@ -1,0 +1,13 @@
+Since tumor cells are more dependent on glycolysis for energy supply than other cells , we tested whether its inhibition by 2-deoxy-D-glucose ( 2-DG ) affects tumor growth .
+Male Wistar rats were inoculated in the liver with tumor cells from a chemically induced colonic adenocarcinoma .
+From day 5 after inoculation 2-DG ( 400 mg/kg/24 h ) was continuously infused into the hepatic artery for 5 days ; controls received saline in the same fashion .
+Seven days after the end of infusion , the animals were sacrificed .
+A second experimental group of rats was treated with isolated liver perfusion for 30 min with oxygenated blood through the portal vein and hepatic artery simultaneously .
+In the perfusate , 400 mg/kg 2-DG were added , and the rats were sacrificed at 10 days after perfusion .
+A first control group underwent perfusion without 2-DG , and a second control group received i.v. infusion of 2-DG ( 400 mg/kg/30 min ) for 30 min over 5 days .
+A nontreated control group was also added .
+All animals survived the procedures .
+The concentration of blood glucose increased in the rats receiving 2-DG i.v. and intraarterially but was unchanged in the other groups .
+The tumor growth was significantly reduced by 2-DG in all experimental groups , with no difference between the groups .
+It is therefore concluded that 2-DG is of potential interest in the treatment of malignancies .
+Since local application of 2-DG avoids the risk for systemic side effects , this approach should be explored further .

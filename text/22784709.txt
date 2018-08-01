@@ -1,0 +1,11 @@
+Src kinase is elevated in breast tumors that are ER/PR negative and do not overexpress HER2 , but clinical trials with Src inhibitors have shown little activity .
+The present study evaluated preclinical efficacy of a novel peptidomimetic compound , KX-01 ( KX2-391 ) , that exhibits dual action as an Src and pretubulin inhibitor .
+KX-01 was evaluated as a single-agent and in combination with paclitaxel in MDA-MB-231 , MDA-MB-157 , and MDA-MB-468 human ER/PR/HER2-negative breast cancer cells .
+Treatments were evaluated by growth/apoptosis , isobologram analysis , migration/invasion assays , tumor xenograft volume , metastasis , and measurement of Src , focal adhesion kinase ( FAK ) , microtubules , Ki67 , and microvessel density .
+KX-01 inhibited cell growth in vitro and in combination with paclitaxel resulted in synergistic growth inhibition .
+KX-01 resulted in a dose-dependent inhibition of MDA-MB-231 and MDA-MB-157 tumor xenografts ( 1 and 5 mg/kg , twice daily ) .
+KX-01 inhibited activity of Src and downstream mediator FAK in tumors that was coincident with reduced proliferation and angiogenesis and increased apoptosis .
+KX01 also resulted in microtubule disruption in tumors .
+Combination of KX-01 with paclitaxel resulted in significant regression of MDA-MB-231 tumors and reduced metastasis to mouse lung and liver .
+KX-01 is a potently active Src/pretubulin inhibitor that inhibits breast tumor growth and metastasis .
+As ER/PR/HER2-negative patients are candidates for paclitaxel therapy , combination with KX-01 may potentiate antitumor efficacy in management of this aggressive breast cancer subtype .

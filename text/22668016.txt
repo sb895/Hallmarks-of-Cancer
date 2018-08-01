@@ -1,0 +1,9 @@
+The results of experimental studies have indicated the pleiotropic effects of statins in organism , e.g. the influence on cell cycle , apoptosis or angiogenesis .
+In this study , the effects of simvastatin on selected parameters of apoptosis and proliferation in chemocarcinogen-induced mammary tumorigenesis in female rats were determined .
+Simvastatin was administered dietary at a dose of 18 mg/kg and highly effective dose of 180 mg/kg the entire experiment ( 18 weeks ) .
+At autopsy mammary tumors were removed and prepared for immunohistochemical and histomorphological analysis .
+In treated animals ( simvastatin 180 mg/kg ) , significant decrease by 12% in Bcl-2 protein expression and non-significant decrease by 27% of Ki67 protein expression in tumor cells compared to tumor cells in control animals were observed after semiquantitative evaluation .
+Morphometrical analysis has shown significant proapototic shift in Bcl-2/Bax ratio in tumor cells .
+In high grade control carcinoma cells , the expression of Ki67 increased by 37% ( non-significantly ) in comparison with control low grade carcinomas .
+A histomorphological analysis of malignant tumors has revealed a shift from high grade to low grade carcinomas after simvastatin treatment .
+The noticeable decrease of mammary tumor frequency and incidence in rats after simvastatin treatment was accompanied with antiapoptotic Blc-2 protein decrease and proapoptotic Bax protein increase in this experiment .

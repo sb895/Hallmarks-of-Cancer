@@ -1,0 +1,9 @@
+Nectin-like molucule-5 ( Necl-5 ) is an immunoglobulin-like molecule that was originally identified as a poliovirus receptor and is often upregulated in cancer cells .
+It has been said that Necl-5 plays a role in not only cell-cell adhesion , but also cell migration , proliferation , and metastasis .
+In this study , we used a bronchioloalveolar carcinoma ( BAC ) cell line and fibroblasts to assess the expression of Necl-5 in the development of cancer-stroma communication by using an easy-to-prepare double-layered collagen gel hemisphere ( DL- CGH ) system that enables visualization of cell migration during invasion .
+The expression of Necl-5 was higher in BAC cells than in fibroblasts .
+This tendency didn't change even when the BAC cells were mixed with fibroblasts .
+To assess the role of Necl-5 in the invasive activity of the BAC cells , we knocked down its expression using RNA interference ( RNAi ) .
+The invasion assay with DL-CGH revealed that inhibitation of Necl-5 expression in the BAC cells was associated with suppressed invasiveness .
+In addition , Necl-5 knockdown inhibited the movement and proliferation of the BAC cells .
+Necl-5 expression in lung cancer cells is crucial for their invasiveness in the cancer-stromal interaction , suggesting that Necl-5 could be a favorable molecular target for the suppression of invasiveness in lung adenocarcinoma .

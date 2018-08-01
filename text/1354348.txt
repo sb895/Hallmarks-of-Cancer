@@ -1,0 +1,8 @@
+Amplification of the HER-2 ( c-erbB-2 ) gene and overexpression of the p185HER-2 gene product is found in approximately one-third of primary human breast and ovarian cancers and is associated with a poor clinical outcome of early relapse and death .
+The HER-2 gene encodes a cell-surface growth factor receptor with intrinsic tyrosine kinase activity .
+Wild-type human HER-2 has been shown to act as a potent oncogene when over-expressed in mouse fibroblasts .
+Recent data suggest that the mechanism by which HER-2 mediates transformation requires the interaction of the epidermal growth factor ( EGF ) receptor .
+To test whether overexpression of normal human HER-2 can transform cells independently of the EGF receptor , we have introduced multiple copies of HER-2 into the EGF receptor-negative cell line , NR6 , and have performed assays for both transformation and tumorigenicity .
+Engineered NR6 cells that overexpress the HER-2 gene product display a highly transformed and tumorigenic phenotype as compared with control cells .
+Additionally , a monoclonal antibody to the extracellular domain of the HER-2 receptor is able to inhibit the proliferation of the overexpressing cells in vitro as well as tumor growth in vivo .
+This study provides clear evidence that HER-2-mediated transformation can be achieved independently of the EGF receptor .

@@ -1,0 +1,11 @@
+Purpose .
+The purpose of this paper is to evaluate a new PET tracer ( 64)Cu-NODAGA-c(RGDyK ) for imaging of tumor angiogenesis using gene expression of angiogenesis markers as reference and to estimate radiation dosimetry for humans .
+Procedures .
+Nude mice with human neuroendocrine tumor xenografts ( H727 ) were administered ( 64)Cu-NODAGA-c(RGDyK ) i.v. for study of biodistribution as well as for dynamic PET .
+Gene expression of angiogenesis markers integrin α(V) , integrin β(3) , and VEGF-A were analyzed using QPCR and correlated to the tracer uptake in the tumors ( %ID/g ) .
+From biodistribution data human radiation-absorbed doses were estimated using OLINDA/EXM .
+Results .
+Tumor uptake was 1.2%ID/g with strong correlations between gene expression and tracer uptake , for integrin α(V) R = 0.76 , integrin β(3) R = 0.75 and VEGF-A R = 0.81 ( all P < 0.05 ) .
+The whole body effective dose for humans was estimated to be 0.038 and 0.029 mSv/MBq for females and males , respectively , with highest absorbed dose in bladder wall .
+Conclusion .
+( 64)Cu-NODAGA-c(RGDyK ) is a promising new angiogenesis PET tracer with potential for human use .

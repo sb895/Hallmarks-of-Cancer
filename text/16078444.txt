@@ -1,0 +1,12 @@
+The immune system has an important role in tumor appearance and spreading .
+One of the most efficient subpopulations of cytotoxic cells in the destruction of tumors are NK cells .
+NK cells are activated and increase their cytotoxic potential and modulate their cytokine production after treatment with IFNgamma , IL-12 , TNFalpha and IL-2 .
+The investigation of the activity of NK cells was performed on peripheral blood lymphocytes ( PBL ) of 16 healthy controls and of 40 patients with metastatic breast carcinoma .
+Modulation of NK cells was performed with IL-2 , IL-7 , IL-12 , TNFalpha , monoclonal antibodies ( mAb ) for TNFalpha and TNFalpha receptors type I and II , as well as with sera of healthy controls and patients with breast cancer in different clinical stages .
+Modulating effect of the applied factors after in vitro treatment of PBL was evaluated by the cytotoxic assay using 51chromium .
+Our results indicate that IL-2 significantly increased the activity of NK cells of controls and breast cancer patients .
+The sera of patients with advanced breast cancer significantly reduced NK cell activity .
+IL-7 , IL-12 and mAb for TNFalpha do not significantly change the activity of NK cells .
+The presence of anti-TNFalpha mAb did not change the inhibitory effect of the sera of breast cancer patients with advanced disease on the activity of NK cells of controls and patients with breast cancer .
+Blocking of TNFalpha Rcs with mAbs decrease the reactivity of NK cells for IL-2 .
+The treatment of breast cancer patients with advanced clinical stage of breast cancer with IL-2 , as an additional therapy , could be advantageous , as NK cells after this treatment increase their cytotoxic activity against tumor cells and can improve therapeutical results .

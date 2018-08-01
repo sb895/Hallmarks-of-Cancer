@@ -1,0 +1,8 @@
+It is now largely accepted that ribosomal proteins may be implicated in a variety of biological functions besides that of components of the translation machinery .
+Many evidences show that a subset of ribosomal proteins are involved in the regulation of the cell cycle and apoptosis through modulation of p53 activity .
+In addition , p53-independent mechanisms of cell cycle arrest in response to alterations of ribosomal proteins availability have been described .
+Here , we identify human rpL3 as a new regulator of cell cycle and apoptosis through positive regulation of p21 expression in a p53-independent system .
+We demonstrate that the rpL3-mediated p21 upregulation requires the specific interaction between rpL3 and Sp1 .
+Furthermore , in our experimental system , p21 overexpression leads to a dual outcome , activating the G\u2081/S arrest of the cell cycle or the apoptotic pathway through mitochondria , depending on its intracellular levels .
+It is noteworthy that depletion of p21 abrogates both effects .
+Taken together , our findings unravel a novel extraribosomal function of rpL3 and reinforce the proapoptotic role of p21 in addition to its widely reported ability as an inhibitor of cell proliferation .

@@ -1,0 +1,9 @@
+The innate immune response involves a variety of inflammatory reactions that can result in inflammatory disease and cancer if they are not resolved and instead are allowed to persist .
+The effective activation and resolution of innate immune responses relies on the production and posttranscriptional regulation of mRNAs encoding inflammatory effector proteins .
+The RNA-binding protein HuR binds to and regulates such mRNAs , but its exact role in inflammation remains unclear .
+Here we show that HuR maintains inflammatory homeostasis by controlling macrophage plasticity and migration .
+Mice lacking HuR in myeloid-lineage cells , which include many of the cells of the innate immune system , displayed enhanced sensitivity to endotoxemia , rapid progression of chemical-induced colitis , and severe susceptibility to colitis-associated cancer .
+The myeloid cell-specific HuR-deficient mice had an exacerbated inflammatory cytokine profile and showed enhanced CCR2-mediated macrophage chemotaxis .
+At the molecular level , activated macrophages from these mice showed enhancements in the use of inflammatory mRNAs ( including Tnf , Tgfb , Il10 , Ccr2 , and Ccl2 ) due to a lack of inhibitory effects on their inducible translation and/or stability .
+Conversely , myeloid overexpression of HuR induced posttranscriptional silencing , reduced inflammatory profiles , and protected mice from colitis and cancer .
+Our results highlight the role of HuR as a homeostatic coordinator of mRNAs that encode molecules that guide innate inflammatory effects and demonstrate the potential of harnessing the effects of HuR for clinical benefit against pathologic inflammation and cancer .

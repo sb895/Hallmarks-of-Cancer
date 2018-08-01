@@ -1,0 +1,9 @@
+A hallmark of cancer cells is the ability to proliferate indefinitely .
+This acquisition of an immortal lifespan usually requires the activation of telomerase , the enzyme that elongates telomeres .
+Human telomerase is minimally composed of the reverse transcriptase subunit hTERT , and the RNA subunit hTR .
+While hTR is ubiquitously expressed in human cells , the hTERT subunit is generally transcriptionally repressed in most normal somatic cells , but is illegitimately activated to restore telomerase activity in cancer cells .
+Indeed , in the thousands of different human tumours assayed , 85% were scored positive for telomerase activity .
+However , the levels of telomerase activity detected in tumour samples can vary substantially and even some normal somatic cells have been found to have low levels of enzyme activity .
+As the functional significance of low levels of telomerase activity is unclear , we investigated whether there is a minimum level of telomerase activity required for tumourigenesis .
+Using mutants of hTERT that induce varying levels of telomerase activity , we show that there does indeed exist a threshold of activity required for the processes of immortalization , transformation and tumourigenesis .
+Thus , low levels of activity detected in certain somatic cells would not be expected to contribute to tumourigenesis , nor does the mere detection of telomerase in cancer cells necessarily signify an immortal lifespan .

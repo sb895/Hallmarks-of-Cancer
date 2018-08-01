@@ -1,0 +1,9 @@
+Immunosuppression of humoral and cellular responses following chronic oral exposure to 1 , 5 , 10 , and 20 ppm N-nitrosodimethylamine ( NDMA ) was examined in CD-1 mice .
+Monitoring of cumulative mortality and the incidence of peritoneal ascites in animals showed an NDMA dose-related mortality and hepatotoxicity .
+No visible changes in immunological parameters were noted at the 1 ppm NDMA dose .
+Immunosuppression of immunoglobulin M ( IgM ) antibody response by NDMA to sheep red blood cells ( SRBC ) was time-related , dose-related , and could be reversed within 30 d by removal of the chemical from the drinking water .
+Cellular immune response , monitored by allogeneic stimulation of cells in mixed lymphocyte reaction ( MLR ) , was markedly suppressed by 10 and 20 ppm NDMA .
+Thus , chronic exposure to NDMA , except for the low-hepatotoxic doses of nitrosamine , resulted in a marked and persistent immunosuppression of cellular and humoral responses in CD-1 mice .
+In conclusion , chronic exposure to the hepatotoxic ( ascite-inducing ) doses of NDMA suppressed humoral and cellular immunity .
+The persistent immunosuppression could be reversed after the removal of NDMA from the drinking water .
+Although no direct NDMA-related cancer was reported in humans , our data point to a potential epigenetic carcinogenicity of nitrosamines due to chronic immunosuppression .

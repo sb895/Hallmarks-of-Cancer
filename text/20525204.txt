@@ -1,0 +1,12 @@
+INTRODUCTION A subpopulation of cancer cells , tumor-initiating cells , is believed to be the driving force behind tumorigenesis and resistance to radiation and chemotherapy .
+The persistence of tumor-initiating cells may depend on altered regulation of DNA damage and checkpoint proteins , as well as a reduced propensity to undergo apoptosis or senescence .
+METHODS To test this hypothesis , we isolated CD24-/low/CD44+ tumor-initiating cells ( as mammospheres ) from MCF-7 breast cancer cells grown in adherent monolayer culture , and carried out a comprehensive comparison of cell death and DNA damage response pathways prior to and after exposure to ionizing radiation in mammospheres and monolayer MCF-7 cells .
+Single and double-strand break repair was measured by single-cell gel electrophoresis .
+The latter was also examined by phosphorylation of histone H2AX and formation of 53BP1 and Rad51 foci .
+Apoptosis was quantified by flow-cytometric analysis of annexin V-binding and senescence was analyzed on the basis of cellular beta-galactosidase activity .
+We employed the telomeric repeat amplification protocol to quantify telomerase activity .
+Expression of key DNA repair and cell cycle regulatory proteins was detected and quantified by western blot analysis .
+RESULTS Our data demonstrate that in comparison to the bulk population of MCF-7 cells ( predominantly CD24+/CD44+ ) , the MCF-7 mammosphere cells benefit from a multifaceted approach to cellular protection relative to that seen in monolayer cells , including a reduced level of reactive oxygen species , a more active DNA single-strand break repair ( SSBR ) pathway , possibly due to a higher level of expression of the key SSBR protein , human AP endonuclease 1 ( Ape1 ) , and a significantly reduced propensity to undergo senescence as a result of increased telomerase activity and a low level of p21 protein expression .
+No significant difference was seen in the rates of double-strand break repair ( DSBR ) between the two cell types , but DSBR in mammospheres appears to by-pass the need for H2AX phosphorylation .
+CONCLUSIONS Enhanced survival of MCF-7 tumor-initiating cells in response to ionizing radiation is primarily dependent on an inherent down-regulation of the senescence pathway .
+Since MCF-7 cells are representative of cancer cells that do not readily undergo apoptosis , consideration of senescence pathways may play a role in targeting stem cells from such tumors .

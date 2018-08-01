@@ -1,0 +1,11 @@
+Onconase ( Onc ) is an amphibian ribonuclease of the pancreatic RNase family that is cytostatic and cytotoxic to several tumor lines .
+It also shows anti-tumor activity in mouse tumor models and is currently in phase III clinical trials .
+In animal tests and clinical trials Onc shows lesser toxicity and fewer side effects compared to most chemotherapeutic drugs .
+Intriguingly , repeated infusions of this protein do not cause apparent immunological reactions in patients .
+The aim of the present study was to investigate sensitivity to Onc of human lymphocytes during their mitogenic stimulation in response to the polyvalent mitogen phytohemagglutinin ( PHA ) , and in mixed allogeneic lymphocyte cultures .
+Unexpectedly , we observed that frequency of cells undergoing activation-induced apoptosis was markedly increased in all cultures containing Onc .
+Apoptosis was measured by flow cytometry using markers that detect activation of caspases , the in situ presence of DNA strand breaks , and loss of fragmented DNA ( 'sub-G1 ' cell subpopulation ) .
+The enhancement of frequency of activation-induced apoptosis ( up to 244% ) was observed at 4.2-83 nM Onc concentration , which is at least an order magnitude lower than its minimal concentration reported to affect proliferation or induce apoptosis of leukemic and solid tumor cell lines .
+The cell cycle progression of lymphocytes that responded to PHA mitogenically was not affected at 8.3 or 83 nM Onc concentration .
+Because activation-induced apoptosis is the key mechanism regulating several in vivo immunological functions including induction of tolerance , the observed effects of Onc may explain the apparent lack of immune reactions to this protein in treated patients .
+The propensity of Onc to potentiate the activation-induced apoptosis suggests that this drug may have clinical utility as immunomodulating agent , e.g. , to suppress transplant rejection or treat autoimmune diseases .

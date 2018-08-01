@@ -1,0 +1,6 @@
+Cellular senescence , initially observed during subculturing of normal diploid fibroblasts , can also be induced by chronic exposure to cellular stress , such as UV light , oxidative stress , or DNA damaging agents .
+Here we demonstrate that stable expression of an activated form of MKK6 ( MKK6EE ) , a direct activator of the stress-induced p38(HOG) mitogen-activated protein kinase pathway , is sufficient for inducing features of senescence including a flattened , vacuolated , and irregular morphology , staining for acidic beta-galactosidase , and accumulation of age-associated pigments .
+Consistent with the senescent phenotype , p38(HOG) activation induces a G(1) cell cycle arrest , which is permanent and irreversible after 4 days .
+MKK6EE also induces biochemical features of senescence in a p38-dependent manner , including enhanced expression of p21(CIP) , a cyclin-dependent kinase inhibitor .
+Microarray analysis of MKK6EE cells showed a pattern of gene expression noted previously in Werner Syndrome and senescent fibroblasts .
+These results define p38(HOG) as an intracellular pathway that activates a senescence checkpoint in tumor cells and may play a role in Ras- or stress-induced senescence .

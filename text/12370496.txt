@@ -1,0 +1,7 @@
+We investigated the mode of cell death induced by the anthracyclines , aclarubicin , doxorubicin and daunorubicin in the human leukemia cell lines , HL60 and Jurkat .
+The cells were incubated with drug concentrations up to 500 nM for periods between 3 and 24 hours , followed by morphological and biochemical analyses .
+All three substances induced DNA fragmentation , evident as DNA laddering and appearance of cells with hypodiploid DNA content , externalization of phosphatidyl serine , activation of caspases and degradation of the apoptosis-specific endonuclease inhibitor DFF45 .
+However , concentrations and times necessary for these effects to occur were different , aclarubicin being the quickest acting drug with a lag phase of 3 h , followed by daunorubicin with 6 h and doxorubicin with 24 h .
+More importantly , aclarubicin induced these effects while the cell membrane was intact , whereas doxorubicin and daunorubicin led to immediate loss of membrane integrity .
+Programmed cell death is characterised by preservation of membrane integrity in order to allow removal of apoptotic bodies , whereas cell rupture is an early event in necrosis .
+We therefore suggest that , in our experimental settings , doxorubicin- and daunorubicin-induced cell death occurs by necrosis , while aclarubicin induces programmed cell death .

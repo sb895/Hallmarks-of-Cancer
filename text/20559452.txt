@@ -1,0 +1,8 @@
+Pancreatic adenocarcinoma is an aggressive cancer with a greater than 95% mortality rate and short survival after diagnosis .
+Chemotherapeutic resistance hinders successful treatment .
+This resistance is often associated with mutations in codon 12 of the K-Ras gene ( K-Ras 12 ) , which is present in over 90% of all pancreatic adenocarcinomas .
+Codon 12 mutations maintain Ras in a constitutively active state leading to continuous cellular proliferation .
+Our study determined if TRAIL resistance in pancreatic adenocarcinomas with K-Ras 12 mutations could be overcome by first sensitizing the cells with Benzyl isothiocyanate ( BITC ) .
+BITC is a component of cruciferous vegetables and a cell cycle inhibitor .
+BxPC3 , MiaPaCa2 and Panc-1 human pancreatic adenocarcinoma cell lines were examined for TRAIL resistance .
+Our studies show BITC induced TRAIL sensitization by dual activation of both the extrinsic and intrinsic apoptotic pathways .

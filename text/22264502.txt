@@ -1,0 +1,10 @@
+OBJECTIVE : Emerging evidences implicate long noncoding RNAs ( lncRNAs ) are deregulated in cancer development .
+The purpose of the current study is to investigate the role of new lncRNA , named PlncRNA-1 , in prostate cancer ( CaP ) pathogenesis .
+MATERIALS AND METHODS : In this study , real-time q-PCR was used to demonstrate the expression of PlncRNA-1 in 16 pairs CaP tissues and matched normal tissues , 14 pairs CaP tissues and BPH tissues , 4 CaP cell lines , including LNCaP , LNCaP-AI , PC3 , and C4-2 , and 2 normal prostate epithelial cell lines RWPE-1 and PWR-1E .
+After PlncRNA-1 was suppressed by siRNA in LNCaP and LNCaP-AI cell lines , cell proliferation and apoptosis were assessed using CCK-8 and terminal deoxynucleotidyl transferase dUTP nick end labeling ( TUNEL ) .
+After PlncRNA-1 and AR was suppressed by siRNA in LNCaP and LNCaP-AI cell lines , real-time q-PCR and Western blotting were used to measure reciprocal regulation of PlncRNA-1 and AR .
+RESULTS : We showed that expression PlncRNA-1 , was significantly higher in CaP cells relative to normal prostate epithelial cells , as well as higher in human CaPs compared with normal tissues and benign prostatic hyperplasia ( BPH ) .
+Silencing of PlncRNA-1 significantly reduced cell proliferation and induced apoptosis in CaP cell lines LNCaP and LNCaP-AI .
+Mechanistically , PlncRNA-1 suppression by siRNA resulted in a decrease of androgen receptor ( AR ) mRNA , protein and AR downstream target .
+Of note , blockade of AR signaling with siRNA also resulted in a suppression of PlncRNA-1 expression in CaP cell lines .
+CONCLUSIONS : Our study suggests reciprocal regulation of PlncRNA-1 and androgen receptor contribute to CaP pathogenesis and that PlncRNA-1 is a potential therapy target .

@@ -1,0 +1,8 @@
+The recent approval of a prostate cancer vaccine has renewed hope for anticancer immunotherapies .
+However , the immunosuppressive tumor microenvironment may limit the effectiveness of current immunotherapies .
+Antiangiogenic agents have the potential to modulate the tumor microenvironment and improve immunotherapy , but they often are used at high doses in the clinic to prune tumor vessels and paradoxically may compromise various therapies .
+Here , we demonstrate that targeting tumor vasculature with lower vascular-normalizing doses , but not high antivascular/antiangiogenic doses , of an anti-VEGF receptor 2 ( VEGFR2 ) antibody results in a more homogeneous distribution of functional tumor vessels .
+Furthermore , lower doses are superior to the high doses in polarizing tumor-associated macrophages from an immune inhibitory M2-like phenotype toward an immune stimulatory M1-like phenotype and in facilitating CD4(+) and CD8(+) T-cell tumor infiltration .
+Based on this mechanism , scheduling lower-dose anti-VEGFR2 therapy with T-cell activation induced by a whole cancer cell vaccine therapy enhanced anticancer efficacy in a CD8(+) T-cell-dependent manner in both immune-tolerant and immunogenic murine breast cancer models .
+These findings indicate that vascular-normalizing lower doses of anti-VEGFR2 antibody can reprogram the tumor microenvironment away from immunosuppression toward potentiation of cancer vaccine therapies .
+Given that the combinations of high doses of bevacizumab with chemotherapy have not improved overall survival of breast cancer patients , our study suggests a strategy to use antiangiogenic agents in breast cancer more effectively with active immunotherapy and potentially other anticancer therapies .

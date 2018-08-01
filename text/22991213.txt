@@ -1,0 +1,16 @@
+UNLABELLED Hepatocellular carcinoma ( HCC ) is a major liver malignancy .
+We previously demonstrated that deregulation of epigenetic regulators is a common event in human HCC .
+Suppressor of variegation 3-9 homolog 1 ( SUV39H1 ) , the prototype of histone methyltransferase , is the major enzyme responsible for histone H3 lysine 9 trimethylation , which , essentially , is involved in heterochromatin formation , chromosome segregation , and mitotic progression .
+However , the implication of SUV39H1 in hepatocarcinogenesis remains elusive .
+In this study , we found that SUV39H1 was frequently up-regulated in human HCCs and was significantly associated with increased Ki67 expression ( P < 0.001 ) and the presence of venous invasion ( P = 0.017 ) .
+To investigate the role of SUV39H1 in HCC development , both gain- and loss-of-function models were established .
+SUV39H1 overexpression remarkably enhanced HCC cell clonogenicity , whereas knockdown of SUV39H1 substantially suppressed HCC cell proliferation and induced cell senescence .
+In addition , ectopic expression of SUV39H1 increased the migratory ability of HCC cells , whereas a reduced migration rate was observed in SUV39H1 knockdown cells .
+The significance of SUV39H1 in HCC was further demonstrated in a nude mice model ; SUV39H1 knockdown drastically inhibited in vivo tumorigenicity and abolished pulmonary metastasis of HCC cells .
+We also identified microRNA-125b ( miR-125b ) as a post-transcriptional regulator of SUV39H1 .
+Ectopic expression of miR-125b inhibited SUV39H1 3'-untranslated-region-coupled luciferase activity and suppressed endogenous SUV39H1 expression at both messenger RNA and protein levels .
+We have previously reported frequent down-regulation of miR-125b in HCC .
+Interestingly , miR-125b level was found to be inversely correlated with SUV39H1 expression ( P = 0.001 ) in clinical specimens .
+Our observations suggested that miR-125b down-regulation may account for the aberrant SUV39H1 level in HCC .
+CONCLUSION Our study demonstrated that SUV39H1 up-regulation contributed to HCC development and metastasis .
+The tumor-suppressive miR-125b served as a negative regulator of SUV39H1 .

@@ -1,0 +1,8 @@
+Intracellular pH ( pHi ) plays a critical role in the entry of cells into the DNA-synthesis phase of the cell cycle .
+Alterations in pHi may contribute to abnormal proliferative responses such as those seen in tumorigenic cells .
+We observed that alkaline stress leads to genomic transformation of Madin-Darby canine kidney ( MDCK ) cells .
+Transformed cells ( F cells ) form " foci " in culture , lack contact inhibition , and are able to migrate , typical characteristics of dedifferentiated tumorigenic cells .
+F cells exhibit spontaneous biorhythmicity .
+Rhythmic transmembrane Ca2+ flux activates plasma membrane K+ channels and Na+/H+ exchange .
+This leads to periodic changes of membrane voltage and pHi at about one cycle per minute .
+We conclude that endogenous oscillatory activity could be a trigger mechanism for DNA synthesis , proliferation , and abnormal growth of renal epithelial cells in culture .

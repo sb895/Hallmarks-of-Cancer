@@ -1,0 +1,9 @@
+Adhesion molecules play an important role in the functioning of the immune system , particularly with regard to cell-cell interactions and antigen presentation .
+Several adhesion molecules are expressed on Hodgkin's disease-derived cell lines and these are important in their molecular interactions as antigen presenting cells ( APC ) .
+There are no data regarding the expression of many of these adhesion molecules on Reed-Sternberg cells and its mononuclear variant ( Hodgkin's cells ( HC) ) present in pathological material .
+To obtain this information we undertook an immunohistological study on material from 18 cases of Hodgkin's disease using a panel of MoAbs to examine the expression of adhesion molecules on HC .
+The HC were shown to express the integrin beta 1 subfamily molecules , LFA-1 ( CD11a ) and p150,95 ( CD11c ) in high density but lacked CR3 ( CD11b ) .
+All of the immunoglobulin gene superfamily adhesion molecules studied were present to some degree on HC , with ICAM-2 , in particular , showing moderate to strong expression in most cases .
+The Hermes antigen CD44 was present in high density but leukosialin ( CD43 ) , another molecule present on diverse leucocyte types , was , in general , not detected on HC .
+These new data showing that ICAM-1 , ICAM-2 and LFA-3 are , like LFA-1 , expressed on HC emphasize the ability of HC to act as APC .
+The known adhesion molecule phenotype of the recently defined haematopoietic lineage of human dendritic cells ( DC ) is broadly similar to that of HC , perhaps supporting the hypothesis that some HC represent a malignancy of an APC ( DC ) lineage .

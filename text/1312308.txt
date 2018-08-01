@@ -1,0 +1,8 @@
+Activated lymphocytes and malignant lymphoma cells derived from them ( Ki-1 positive lymphoma cells ) share similar mechanisms of proliferation .
+To further examine the inhibitory role of endogenous transforming growth factor beta ( TGF beta ) in Ki-1 positive lymphoma cells , the authors studied anti-TGF beta antibodies and measured their effect on proliferation .
+A monoclonal antibody ( T1A5 ) prepared against a unique antigenic epitope of high molecular weight Hodgkin's TGF beta and a polyclonal rabbit antibody prepared against highly purified 25,000 D porcine platelet TGF beta 1 were used .
+Both antibodies are shown here to inhibit the biological activity of Hodgkin's TGF beta and to crossreact with their respective antigens in immunoblotting .
+DNA synthesis by Ki-1 lymphoma cells was increased 138-fold by anti-TGF beta 1 antibody and 262-fold by anti-Hodgkin's TGF beta .
+Exogenous TGF beta 1 suppression was completely reversed by anti-TGF beta 1 antibody and IL-2-induced proliferation was markedly potentiated ( 41 fold ) .
+L-428 Reed-Sternberg cells secrete physiologically active TGF beta but have fewer than 500 TGF beta receptor sites per cell ; no significant proliferative response was measured for either anti-TGF beta 1 or anti-Hodgkin's TGF beta .
+These results show the suppressive effect of exogenous TGF beta 1 on indolent Ki-1 lymphoma cells and suggest that the endogenous secretion of high molecular weight physiologically active TGF beta is important in maintaining the indolent nature of this low-grade Ki-1 positive lymphoma .

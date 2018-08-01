@@ -1,0 +1,11 @@
+DNA single-strand breaks and associated growth inhibition induced by the thymidylate synthase inhibitor N-(5-[N-(3,4-dihydro-2-methyl-4-oxoquinazoline-6-ylmethyl)-N -methylamino]-2 - thenoyl)-L-glutamic acid ( ICI D1694 ) were quantitated using the human ileocecal adenocarcinoma cell line , HCT-8 .
+The effects of different concentrations and schedules of [ 6R,S]-5-formyltetrahydrofolate ( [ 6RS]LV ) and 2'-deoxy-thymidine ( dThd ) on drug growth inhibition and DNA damage were also evaluated .
+The drug concentrations for 50% inhibition of cell growth in culture following 2-h and 72-h exposures were 0.073 and 0.003 microM , respectively .
+After a 2-h drug exposure , the occurrence of DNA single-strand breaks ( SSBs ) was time dependent .
+It was detectable at 8 h and reached a maximum at about 24 h , 34 +/- 3 ( SD ) and 305 +/- 34 rad equivalents with 0.1 microM ( 50% inhibition concentration ) and 1.0 microM ( 90% inhibition concentration ) ICI D1694 , respectively .
+A significant level of DNA SSBs ( 101 +/- 13 rad equivalents ) was still detectable at 72 h after the 2-h treatment with 1 microM ICI D1694 .
+No significant level of DNA SSBs was detected when cells were exposed simultaneously to ICI D1694 and 20 microM [ 6RS]LV .
+Complete rescue of drug-induced DNA SSBs could be achieved when cells were exposed to 10 microM dThd starting no later than 4 h after drug treatment .
+The growth inhibition of ICI D1694 was abrogated by [ 6RS]LV in a concentration-dependent manner .
+Complete protection was achieved when cells were exposed simultaneously to 1 microM ICI D1694 and 5 microMs [ 6RS]LV or to 3 microMs dThd immediately after drug treatment .
+The results demonstrate that : ( a ) the growth inhibition of ICI D1694 is a function of time and schedule ; ( b ) the growth inhibition is accompanied by extensive DNA single-strand breaks and slow repair ; ( c ) at 1 microM ICI D1694 , 3 microMs dThd and 5 microMs [ 6RS]LV can completely rescue cells from drug effects when dThd is added up to 4 h following drug treatment or when [ 6RS]LV is given in combination with the drug ; ( d ) interference of [ 6RS]LV with ICI D1694 action may be occurring at the level of drug uptake and at intracellular targets , while dThd interferes with the drug action at intracellular targets .

@@ -1,0 +1,10 @@
+Proton radiotherapy has gained more favor among oncologists as a treatment option for localized and deep-seated tumors .
+In addition , protons are a major constituent of the space radiation astronauts receive during space flights .
+The potential for these exposures to lead to , or enhance cancer risk has not been well studied .
+Our objective is to study the biological effects of low energy protons on epithelial cells and its propensity to enhance transforming growth factor beta 1 ( TGFβ1)-mediated epithelial-mesenchymal transition ( EMT ) , a process occurring during tumor progression and critical for invasion and metastasis .
+Non-transformed mink lung epithelial cells ( Mv1Lu ) and hTERT- immortalized human esophageal epithelial cells ( EPC ) were used in this study .
+EMT was identified by alterations in cell morphology , EMT-related gene expression changes determined using real-time PCR , and EMT changes in specific cellular markers detected by immunostaining and western blotting .
+Although TGFβ1 treatment alone is able to induce EMT in both Mv1Lu and EPC cells , low energy protons ( 5 MeV ) at doses as low as 0.1 Gy can enhance TGFβ1 induced EMT .
+Protons alone can also induce a mild induction of EMT .
+SD208 , a potent TGFβ Receptor 1 ( TGFβR1 ) kinase inhibitor , can efficiently block TGFβ1/Smad signaling and attenuate EMT induction .
+We suggest a model for EMT after proton irradiation in normal and cancerous tissue based on our results that showed that low and high doses of protons can sensitize normal human epithelial cells to mesenchymal transition , more prominently in the presence of TGFβ1 , but also in the absence of TGFβ1 .

@@ -1,0 +1,9 @@
+Our study was to elucidate the mechanisms whereby BMS-345541 ( BMS , a specific I\u03baB kinase \u03b2 inhibitor ) inhibits the repair of DNA double-strand breaks ( DSBs ) and evaluate whether BMS can sensitize MCF-7 breast cancer cells ( MCF-7 cells ) to ionizing radiation ( IR ) in an apoptosis-independent manner .
+In this study , MCF-7 cells were exposed to IR in vitro and in vivo with or without pretreatment of BMS .
+The effects of BMS on the repair of IR-induced DSBs by homologous recombination ( HR ) and non-homologous end-joining ( NHEJ ) were analyzed by the DR-GFP and EJ5-GFP reporter assays and IR-induced \u03b3-H2AX , 53BP1 , Brca1 and Rad51 foci assays .
+The mechanisms by which BMS inhibits HR were examined by microarray analysis and quantitative reverse transcription PCR .
+The effects of BMS on the sensitivity of MCF-7 cells to IR were determined by MTT and clonogenic assays in vitro and tumor growth inhibition in vivo in a xenograft mouse model .
+The results showed that BMS selectively inhibited HR repair of DSBs in MCF-7 cells , most likely by down-regulation of several genes that participate in HR .
+This resulted in a significant increase in the DNA damage response that sensitizes MCF-7 cells to IR-induced cell death in an apoptosis-independent manner .
+Furthermore , BMS treatment sensitized MCF-7 xenograft tumors to radiation therapy in vivo in an association with a significant delay in the repair of IR-induced DSBs .
+These data suggest that BMS is a novel HR inhibitor that has the potential to be used as a radiosensitizer to increase the responsiveness of cancer to radiotherapy .

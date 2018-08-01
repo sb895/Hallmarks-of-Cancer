@@ -1,0 +1,7 @@
+OBJECTIVES To investigate the expression of TLR-4 ( toll-like receptor ) on human cervical cancer and find the biological function of the TLR-4 signal system .
+METHODS The immunohistochemistry method was performed to study the protein expression and distribution of TLR-4 .
+The viability of HeLa cells was determined by cell viability assay .
+Cell proliferation was detected by FCM , ELISA and Western blot were used to observe the gene and protein expression of IL-6 and TGF-beta1 in Hela cell lines .
+RESULTS TLR-4 was over-expressed in cervix cancer , and its activation by LPS promotes proliferation and anti-apoptosis in Hela cells in vitro .
+Moreover the cell line proliferation increased in a dose- and time-dependent manner .
+The production of IL-6 and TGF-beta1 were promoted through the activation of the NF-kappaB signaling pathway .

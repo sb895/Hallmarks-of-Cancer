@@ -1,0 +1,10 @@
+Focal inflammation causes systemic fever .
+Cancer hyperthermia therapy results in shrinkage of tumors by various mechanisms , including induction of adaptive immune response .
+However , the physiological meaning of systemic fever and mechanisms of tumor shrinkage by hyperthermia have not been completely understood .
+In this study , we investigated how heat shock influences the adaptive immune system .
+We established a cytotoxic T lymphocyte ( CTL ) clone ( #IM29 ) specific for survivin , one of the tumor-associated antigens ( TAAs ) , from survivin peptide-immunized cancer patients ' peripheral blood , and the CTL activities were investigated in several temperature conditions ( 37-41�C ) .
+Cytotoxicity and IFN-γ secretion of CTL were greatest under 39�C condition , whereas they were minimum under 41�C .
+To address the molecular mechanisms of this phenomenon , we investigated the apoptosis status of CTLs , expression of CD3 , CD8 , and TCRαβ by flow cytometry , and expression of perforin , granzyme B , and Fas ligand by western blot analysis .
+The expression of perforin and granzyme B were upregulated under temperature conditions of 39 and 41�C .
+On the other hand , CTL cell death was induced under 41�C condition with highest Caspase-3 activity .
+Therefore , the greatest cytotoxicity activity at 39�C might depend on upregulation of cytotoxic granule proteins including perforin and granzyme B. These results suggest that heat shock enhances effector phase of the adaptive immune system and promotes eradication of microbe and tumor cells .

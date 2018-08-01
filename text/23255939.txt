@@ -1,0 +1,8 @@
+Radix of Asiasarum heterotropoides var. mandshuricum F. Maekawa ( A. radix ) has been prescribed for treating pain , allergies and inflammatory disorders in traditional oriental medicine .
+However , only limited information on the anticancer effects of A. radix is currently available .
+The aim of this study was to determine the anticancer effect of the ethanol extract of A. radix ( EEAR ) on HCT-116 human colon cancer cells and to investigate its underlying mechanisms of action .
+EEAR significantly induced G2/M cell cycle arrest and apoptosis in HCT-116 cells .
+EEAR-induced apoptosis was observed in parallel with activation of caspases and an increased ratio of Bax ( pro-apoptotic)/Bcl2 ( anti-apoptotic ) .
+Western blot analyses revealed that EEAR elevated the expression of p53 and p21(Waf/Cip1) and decreased the expression of the regulator proteins of G2/M phase progression , such as cdc2 and cyclin B. The upregulation of p53 by EEAR was due to the increased levels of p53 mRNA without a similar increase in proteasome-mediated p53 degradation .
+EEAR-induced apoptosis in HCT-116 cells was dependent on p53 expression , as determined by siRNA-mediated p53 knockdown .
+Taken together , these results suggest that EEAR inhibits the growth of the HCT-116 cells through induction of G2/M cell cycle arrest and apoptosis , which are mediated by p53 expression .

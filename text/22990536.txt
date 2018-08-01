@@ -1,0 +1,12 @@
+Ovarian cancer-related angiogenesis is a complex process orchestrated by many positive and negative regulators .
+Many growth factors are involved in the development of the tumor-associated vasculature , and from these , endocrine gland-derived vascular endothelial growth factor ( EG-VEGF ) seems to play a crucial role .
+EG-VEGF is the first organ-specific angiogenic factor and its effects are restricted to the endothelial cells of the endocrine glands .
+Although EG-VEGF was detected in both normal and neoplastic ovaries , its clinical significance remains controversial .
+In the present study , we analyzed 30 patients with epithelial ovarian cancer , and the immunohistochemical expression of EG-VEGF was compared with the conventional clinico-pathological parameters of prognosis .
+Neoplastic cells of the ovarian carcinoma expressed EG-VEGF in 73.33% of the cases , as a cytoplasmic granular product of reaction .
+We found a strong correlation between the expression of EG-VEGF at protein level and tumor stage , grade , and microscopic type .
+The expression of EG-VEGF was found in patients with stage III and IV , but not in stage II .
+The majority of serous adenocarcinoma , half of the cases with clear cell carcinoma and two cases with endometrioid carcinoma showed definite expression in tumor cells .
+No positive reaction was found in the cases with mucinous carcinoma .
+Our results showed that EG-VEGF expression is an indicator not only of the advanced stage , but also of ovarian cancer progression .
+Based on these data , we concluded that EG-VEGF expression in tumor cells of the epithelial ovarian cancer is a good marker of unfavorable prognosis and could be an attractive therapeutic target in patients with advanced-stage tumors , refractory conventional chemotherapy .

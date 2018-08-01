@@ -1,0 +1,3 @@
+beta-Defensins are small antimicrobial peptides of the innate immune system produced in response to microbial infection of mucosal tissue and skin .
+We demonstrate that murine beta-defensin 2 ( mDF2beta ) acts directly on immature dendritic cells as an endogenous ligand for Toll-like receptor 4 ( TLR-4 ) , inducing up-regulation of costimulatory molecules and dendritic cell maturation .
+These events , in turn , trigger robust , type 1 polarized adaptive immune responses in vivo , suggesting that mDF2beta may play an important role in immunosurveillance against pathogens and , possibly , self antigens or tumor antigens .

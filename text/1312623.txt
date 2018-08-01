@@ -1,0 +1,8 @@
+Previous studies have shown that the E7 gene of human papillomavirus ( HPV ) type 16 or 18 alone was sufficient for immortalization of human foreskin epithelial cells ( HFE ) and that the efficiency was increased in cooperation with the respective E6 gene , whereas the HPV6 E6 or E7 gene was not active in HFE .
+To detect weak immortalizing activities of the HPV6 genes , cells were infected with recombinant retroviruses containing HPV genes , alone and in homologous and heterologous combinations .
+The HPV6 genes , alone or together ( HPV6 E6 plus HPV6 E7 ) , were not able to immortalize cells .
+However the HPV6 E6 gene , in concert with HPV16 E7 , increased the frequency of immortalization threefold over that obtained with HPV16 E7 alone .
+Interestingly , 6 of 20 clones containing the HPV16 E6 gene and the HPV6 E7 gene were immortalized , whereas neither gene alone was sufficient .
+Thus , the HPV6 E6 and E7 genes have weak immortalizing activities which can be detected in cooperation with the more active transforming genes of HPV16 .
+Acute expression of the HPV6 and HPV16 E6 and E7 genes revealed that only HPV16 E7 was able to stimulate the proliferation of cells in organotypic culture , resulting in increased expression of the proliferative cell nuclear antigen and the formation of a disorganized epithelial layer .
+Additionally , combinations of genes that immortalized HFE cells ( HPV16 E6 plus HPV16 E7 , HPV16 E6 plus HPV6 E7 , and HPV6 E6 plus HPV16 E7 ) also stimulated proliferation .

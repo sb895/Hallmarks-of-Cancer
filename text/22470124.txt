@@ -1,0 +1,9 @@
+Certain components of apples have been shown to prevent cancer growth and impede cancer progression .
+We hypothesized that extracted apple polysaccharides ( APs ) might , therefore , have anticancer effects , through a mechanism involving the induction of apoptosis in cancer cells , partly via the NF-κB pathway .
+Two human colorectal cancer ( CRC ) cell lines , HT-29 and SW620 , were exposed to different concentrations of APs ( 0.01 , 0.1 or 1 mg/ml ) .
+Cell apoptosis was measured by the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide assay by flow cytometry and incorporation of 5'-bromodeoxyuridine ( BrdU ) into DNA to identify the proliferating cell fraction , using fluorescence microscopy in vitro .
+The protein levels of NF-κB/p65 , I-κBα , pI-κBα , Bax , Bcl-xl and Bcl-2 were evaluated by western blotting .
+The target sites of APs on CRC cells were assessed by flow cytometry .
+At concentrations of 0.1 and 1 mg/ml , APs showed apoptosis-inducing effects , increased expressions of Bax , nuclear p65 and cytoplasmic pI-κBα , and decreased expressions of Bcl-2 , Bcl-xl and cytoplasmic I-κBα .
+APs induced apoptosis by slightly activating the NF-κB pathway ; the AP target site could be the Toll-like receptor 4 on the cell membrane .
+These results demonstrate the potential of APs as agents for clinical prevention and treatment of CRC .

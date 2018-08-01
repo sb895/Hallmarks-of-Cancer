@@ -1,0 +1,10 @@
+Extensive biochemical and structural analyses have been performed on the putative DNA repair proteins of hyperthermophilic archaea , in contrast to the few genetic analyses of the genes encoding these proteins .
+Accordingly , little is known about the repair pathways used by archaeal cells at high temperature .
+Here , we attempted to disrupt the genes encoding the potential repair proteins in the genome of the hyperthermophilic archaeon Thermococcus kodakaraensis .
+We succeeded in isolating null mutants of the hjc , hef , hjm , xpb , and xpd genes , but not the radA , rad50 , mre11 , herA , nurA , and xpg/fen1 genes .
+Phenotypic analyses of the gene-disrupted strains showed that the xpb and xpd null mutants are only slightly sensitive to ultraviolet ( UV ) irradiation , methyl methanesulfonate ( MMS ) and mitomycin C ( MMC ) , as compared with the wild-type strain .
+The hjm null mutant showed sensitivity specifically to mitomycin C. On the other hand , the null mutants of the hjc gene lacked increasing sensitivity to any type of DNA damage .
+The Hef protein is particularly important for maintaining genome homeostasis , by functioning in the repair of a wide variety of DNA damage in T. kodakaraensis cells .
+Deletion of the entire hef gene or of the segments encoding either its nuclease or helicase domain produced similar phenotypes .
+The high sensitivity of the Δhef mutants to MMC suggests that Hef performs a critical function in the repair process of DNA interstrand cross-links .
+These damage-sensitivity profiles suggest that the archaeal DNA repair system has processes depending on repair-related proteins different from those of eukaryotic and bacterial DNA repair systems using homologous repair proteins analyzed here .

@@ -1,0 +1,8 @@
+Dichlorvos , an organophosphate ( OP ) , is known to cause oxidative stress in the central nervous system ( CNS ) .
+Previously we have shown that dichlorvos treatment promoted the levels of proinflammatory molecules and ultimately induced apoptotic cell death in primary microglial cells .
+Here we studied the effect of dichlorvos on crucial cell cycle regulatory proteins and the DNA damage sensor ataxia-telangiectasia mutated ( ATM ) .
+We found a significant increase in p53 and its downstream target , p21 , levels in dichlorvos-treated microglial cells compared with control cells .
+Moreover , dichlorvos exposure promoted the levels of different cell cycle regulatory proteins .
+These results along with flow cytometry results suggested that primary microglial cells were arrested at G1 and G2/M phase after dichlorvos exposure .
+We have shown in a previous study that dichlorvos can induce DNA damage in microglia ; here we found that microglial cells also tried to repair this damage by inducing a DNA repair enzyme , i.e. , ATM .
+We observed a significant increase in the levels of ATM after dichlorvos treatment compared with control .

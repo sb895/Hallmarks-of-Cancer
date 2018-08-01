@@ -1,0 +1,11 @@
+It is well established that blocking the interaction of EGFR with growth factors leads to the arrest of tumor growth , resulting in tumor cell death .
+ER414 is a human monoclonal antibody ( mAb ) derived by guided selection of the mouse mAb A13 .
+The ER414 exhibited a lower affinity and , as a result , lower efficacy of inhibition of the EGF-mediated tyrosine phosphorylation of EGFR when compared with mAb A13 and cetuximab .
+We performed a stepwise in vitro affinity maturation to improve the affinity of ER414 .
+We obtained a 3D model of ER414 to identify the amino acids in the CDRs that needed to be mutated .
+Clones were selected from the phage library with randomized amino acids in the CDRs and substitution of amino acids in the HCDR3 and LCDR1 of ER414 led to improved affinity .
+A clone , H3-14 , with a increased affinity , was selected from the HCDR3 randomized library .
+Then three clones , ER2 , ER78 and ER79 , were selected from the LCDR1 randomized library based on the H3-14 but did not show further increased affinities compared to that of H3-14 .
+Of the three , ER2 was chosen for further characterization due to its better expression than others .
+We successfully performed affinity maturation of ER414 and obtained antibodies with a similar affinity as cetuximab .
+And antibody from an affinity maturation inhibits the EGF-mediated tyrosine phosphorylation of EGFR in a manner similar to cetuximab .

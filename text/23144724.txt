@@ -1,0 +1,11 @@
+The number of renal cancers has increased over the last ten years and patient survival in advanced stages remains very poor .
+Therefore , new therapeutic approaches for renal cancer are essential .
+Englerin A is a natural product with a very potent and selective cytotoxicity against renal cancer cells .
+This makes it a promising drug candidate that may improve current treatment standards for patients with renal cancers in all stages .
+However , little is known about englerin A's mode of action in targeting specifically renal cancer cells .
+Our study is the first to investigate the biological mechanism of englerin A action in detail .
+We report that englerin A is specific for renal tumor cells and does not affect normal kidney cells .
+We find that englerin A treatment induces necrotic cell death in renal cancer cells but not in normal kidney cells .
+We further show that autophagic and pyroptotic proteins are unaffected by the compound and that necrotic signaling in these cells coincided with production of reactive oxygen species and calcium influx into the cytoplasm .
+As the first study to analyze the biological effects of englerin A , our work provides an important basis for the evaluation and validation of the compound's use as an anti-tumor drug .
+It also provides a context in which to identify the specific target or targets of englerin A in renal cancer cells .

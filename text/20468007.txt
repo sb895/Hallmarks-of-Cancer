@@ -1,0 +1,11 @@
+Regulation of adaptive immunity by innate immune cells is widely accepted .
+Conversely , adaptive immune cells can also regulate cells of the innate immune system .
+Here , we report for the first time the essential role of B cells in regulating macrophage ( Mφ ) phenotype .
+In vitro B cell/Mφ co-culture experiments together with experiments in transgenic mice models for B-cell deficiency or overexpression showed B1 cells to polarize Mφ to a distinct phenotype .
+This was characterized by downregulated TNF-α , IL-1β and CCL3 , but upregulated IL-10 upon LPS stimulation ; constitutive expression of M2 Mφ markers ( e.g .
+Ym1 , Fizz1 ) and overexpression of TRIF-dependent cytokines ( IFN-β , CCL5 ) .
+Mechanistically , this phenotype was linked to a defective NF-κB activation , but a functional TRIF/STAT1 pathway .
+B1-cell-derived IL-10 was found to be instrumental in the polarization of these Mφ .
+Finally , in vivo relevance of B1-cell-induced Mφ polarization was confirmed using the B16 melanoma tumor model where adoptive transfer of B1 cells induced an M2 polarization of tumor-associated Mφ .
+Collectively , our results define a new mechanism of Mφ polarization wherein B1 cells play a key role in driving Mφ to a unique , but M2-biased phenotype .
+Future studies along these lines may lead to targeting of B1 cells to regulate Mφ response in inflammation and cancer .

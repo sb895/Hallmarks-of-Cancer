@@ -1,0 +1,13 @@
+Cytokine-dependent cell lines have been used to analyze the cytokine-induced cellular signaling and the mechanism of oncogenesis .
+In the current study , we analyzed MOTN-1 and PLT-2 cell lines established from different stages of a T-cell large granular lymphocyte leukemia patient ( Daibata et al. 2004 ) .
+MOTN-1 is IL-2-dependent derived from the chronic phase , whereas IL-2-independent PLT-2 is from the aggressive and terminal stage .
+They shared considerable chromosome abnormalities and the pattern of T-cell receptor rearrangement , presuming that the cytokine independence of PLT-2 was due to the additive genetic abnormality .
+Besides IL-2 , IL-15 supported MOTN-1 cell growth , because these receptors share beta- and gamma-subunits .
+IL-2 activated ERK , AKT and STAT pathway of MOTN-1 .
+STAT3 pathway of PLT-2 was also activated by IL-2 , suggesting intact IL-2 induces signal transduction of PLT-2 .
+However , ERK1/2 but not AKT , was continuously activated in PLT-2 , consistent with the increased Ras-activity of PLT-2 .
+Sequence analysis revealed KRAS G12A mutation but not NRAS and HRAS mutation of PLT-2 but not MOTN-1 .
+Another signaling molecule affecting Ras-signaling pathway , SHP2 , which has been frequently mutated in juvenile myelomonocytic leukemia ( JMML ) , did not show mutation .
+Moreover , MEK inhibitor , PD98059 , as well as farnesylation inhibitor inhibited PLT-2 cell growth .
+Using NIH3T3 and MOTN-1 , ERK activation , increased cell proliferation and survival by KRAS G12A were shown , suggesting the important role of KRAS G12A in IL-2-independent growth of PLT-2 .
+Taken together , KRAS G12A is important for IL-2-independent growth of PLT-2 cells and suggests the possibility of involvement of KRAS mutation with disease progression .

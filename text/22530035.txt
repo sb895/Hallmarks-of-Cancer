@@ -1,0 +1,13 @@
+Cytochrome P450 2A6 ( CYP2A6 ) is known to metabolize nicotine , the major constituent of tobacco , leading to the production of toxic metabolites and induction of oxidative stress that result in liver damage and lung cancer .
+Recently , we have shown that CYP2A6 is induced by ethanol and metabolizes nicotine into cotinine and other metabolites leading to generation of reactive oxygen species ( ROS ) in U937 monocytes .
+However , the mechanism by which CYP2A6 is induced by ethanol is unknown .
+In this study , we have examined the role of the PKC/Nrf2 pathway ( protein kinase C-mediated phosphorylation and translocation of nuclear erythroid 2-related factor 2 to the nucleus ) in ethanol-mediated CYP2A6 induction .
+Our results showed that 100 mM ethanol significantly induced CYP2A6 mRNA and protein ( and increased ROS formation , and induction of gene expression and ROS were both completely blocked by treatment with either a CYP2E1 inhibitor ( diallyl sulfide ) or an antioxidant ( vitamin C ) .
+The results suggest the role of oxidative stress in the regulation of CYP2A6 expression .
+Subsequently , we investigated the role of Nrf2 pathway in oxidative stress-mediated regulation of CYP2A6 expression in U937 monocytes .
+Our results showed that butylated hydroxyanisole , a stabilizer of nuclear Nrf2 , increased CYP2A6 levels >200% .
+Staurosporine , an inhibitor of PKC , completely abolished ethanol-induced CYP2A6 expression .
+Furthermore , our results showed that a specific inhibitor of mitogen-activated protein kinase kinase ( MEK ) ( U0126 ) completely abolished ethanol-mediated CYP2A6 induction and Nrf2 translocation .
+Overall , these results suggest that CYP2E1-mediated oxidative stress produced as a result of ethanol metabolism translocates Nrf2 into the nucleus through PKC/MEK pathway , resulting in the induction of CYP2A6 in monocytes .
+An increased level of CYP2A6 in monocytes is expected to further increase oxidative stress in smokers through CYP2A6-mediated nicotine metabolism .
+Thus , this study has clinical relevance because of the high incidence of alcohol use among smokers , especially in HIV-infected individuals .

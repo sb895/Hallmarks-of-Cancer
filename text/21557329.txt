@@ -1,0 +1,10 @@
+Ultraviolet ( UV ) of sunlight is a complete carcinogen that can burn skin , enhance inflammation , and drive skin carcinogenesis .
+Previously , we have shown that sulforaphane ( SFN ) inhibited chemically induced skin carcinogenesis via nuclear factor ( erythroid-derived 2)-like 2 ( Nrf2 ) and others have shown that broccoli sprout extracts containing high SFN protected against UV-induced skin carcinogenesis in SKH-1 hairless mice .
+A recent study showed that there was no difference between Nrf2 knockout ( Nrf2 KO ) and Nrf2 wild-type ( WT ) BALB/C mice after exposing to high dose of UVB .
+Since Nrf2 plays critical roles in the anti-oxidative stress/anti-inflammatory responses , it is relevant to assess the role of Nrf2 for photoprotection against UV .
+In this context , the role of Nrf2 in UVB-induced skin inflammation in Nrf2 WT and Nrf2 KO C57BL/6 mice was studied .
+A single dose of UVB ( 300 mJ/cm(2) ) resulted in skin inflammation in both WT and Nrf2 KO ( -/- ) mice ( KO mice ) at 8 h and 8 d following UVB irradiation .
+In the WT mice inflammation returned to the basal level to a greater extent when compared to the KO mice .
+SFN treatment of Nrf2 WT but not Nrf2 KO mice restored the number of sunburn cells back to their basal level by 8 d after UVB irradiation .
+Additionally , UVB-induced short-term inflammatory biomarkers ( interleukin-1β and interleukin-6 ) were increased in the KO mice and UVB-induced apoptotic cells in the KO mice were significantly higher as compared to that in the WT .
+Taken together , our results show that functional Nrf2 confers a protective effect against UVB-induced inflammation , sunburn reaction , and SFN-mediated photoprotective effects in the skin .

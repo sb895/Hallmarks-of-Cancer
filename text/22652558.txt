@@ -1,0 +1,7 @@
+Most ovarian cancers are estrogen-positive and hormonal treatments using anti-estrogens or aromatase inhibitors are under investigation for treating the tumors that are resistant to conventional therapies .
+In this study , the long-term effects of two anti-estrogens , namely 4-hydroxytamoxifen and fulvestrant ( or ICI182,780 ) , were investigated in ERα-positive BG1 epithelial ovarian cancer cells .
+To this aim , cells were grown in the presence of anti-estrogen concentrations that were sufficient to saturate the estrogen receptors , but were neither cytotoxic nor cytostatic as indicated by the absence of inhibition of cell proliferation .
+In these conditions and despite the lack of cytostatic effect of the drugs , long-term treatment ( 3 months ) with the pure anti-estrogen fulvestrant induced a specific , reproducible and irreversible inhibition of ERα expression .
+This inhibition was accompanied by loss of estrogen-induced cell proliferation and gene expression as indicated by the analysis of several estrogen-responsive genes .
+ERα down-regulation was not linked to deregulated expression of transcription factors which drive ERα transcription and did not involve DNA methylation or histone deacetylation .
+Altogether , these results demonstrate that non-cytotoxic concentrations of pure anti-estrogens affect estrogen signaling and might be relevant for the treatment for ovarian cancers .

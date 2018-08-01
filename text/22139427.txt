@@ -1,0 +1,10 @@
+Pancreatic cancer remains the fourth most common cause of cancer-related death in the United States .
+Potent therapeutic strategies are urgently needed for pancreatic cancer .
+Cucurmosin is a novel type1 ribosome-inactivating protein ( RIP ) isolated from the sarcocarp of Cucurbita moschata ( pumpkin ) .
+Due to its cytotoxicity , cucurmosin can inhibit tumor cell proliferation through induction of apoptosis on tumor cells , but the specific mechanism is still unclear .
+We explored the function of cucurmosin in BxPC-3 pancreatic cancer cells using multiple cellular and molecular approaches such as 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide assay , flow cytometry , reverse transcription polymerase chain reaction ( RT-PCR ) , Western blotting and transmission electron microscopy for observing typical changes and formation of apoptotic bodies .
+We found that cucurmosin inhibited the proliferation of BxPC-3 cells in a time- and dose-dependent manner , and increased the cell population in the G0-G1 phase .
+With increasing concentration of cucurmosin , the expression of EGFR , p-PI3K , Akt , p-Akt , mTOR , p-mTOR , P70S6K-α , p-P70S6K-α , 4E-BP1 and p-4E-BP1 at the protein level was decreased , whereas the expression of p-Bad and caspase-9 was elevated .
+However , the mRNA expression of EGFR did not change .
+These findings suggest that cucurmosin can down-regulate the expression of EGFR by targeting .
+Cucurmosin induces the apoptosis of BxPC-3 pancreatic cancer cells via the PI3K/Akt/mTOR signaling pathway .

@@ -1,0 +1,11 @@
+BACKGROUND Dendritic cells ( DCs ) isolated from tumor bearing animals or from individuals with solid tumors display functional abnormalities and the DC impairment has emerged as one mechanism for tumor evasion from the control of the immune system .
+Ductal pancreatic adenocarcinoma ( PDAC ) , the most common pancreatic cancer , is recognized as a very aggressive cancer type with a mortality that almost matches the rate of incidence .
+METHODS We examined the systemic influence ductal pancreatic adenocarcinoma ( PDAC ) exerted on levels of peripheral blood DCs and inflammatory mediators in comparison to the effects exerted by other pancreatic tumors , chronic pancreatitis , and age-matched controls .
+RESULTS All groups examined , including PDAC , had decreased levels of myeloid DCs ( MDC ) and plasmacytoid DCs ( PDC ) and enhanced apoptosis in these cells as compared to controls .
+We found elevated levels of PGE2 and CXCL8 in subjects with PDAC , and chronic pancreatitis .
+Levels of these inflammatory factors were in part restored in PDAC after tumor resection , whereas the levels of DCs were impaired in the majority of these patients approximately 12 weeks after tumor removal .
+Our results prove that solid pancreatic tumors , including PDAC , systemically affect blood DCs .
+The impairments do not seem to be tumor-specific , since similar results were obtained in subjects with chronic pancreatitis .
+Furthermore , we found that PDAC patients with a survival over 2 years had significant higher levels of blood DCs compared to patients with less than one year survival .
+CONCLUSIONS Our findings points to the involvement of inflammation in the destruction of the blood MDCs and PDCs .
+Furthermore , the preservation of the blood DCs compartment in PDAC patients seems to benefit their ability to control the disease and survival .

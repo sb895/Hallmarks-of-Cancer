@@ -1,0 +1,9 @@
+Acrolein ( Acr ) is a ubiquitous environmental pollutant found in cigarette smoke and automobile exhaust .
+It can also be produced endogenously by oxidation of polyunsaturated fatty acids .
+The Acr-derived 1,N(2)-propanodeoxyguanosine ( Acr-dG ) adducts in DNA are mutagenic lesions that are potentially involved in human cancers .
+In this study , monoclonal antibodies were raised against Acr-dG adducts and characterized using ELISA .
+They showed strong reactivity and specificity toward Acr-dG , weaker reactivity toward crotonaldehyde- and trans-4-hydroxy-2-nonenal-derived 1,N(2)-propanodeoxyguanosines , and weak or no reactivity toward 1,N(6)-ethenodeoxyadenosine and 8-oxo-deoxyguanosine .
+Using these antibodies , we developed assays to detect Acr-dG in vivo : first , a simple and quick FACS-based assay for detecting these adducts directly in cells ; second , a highly sensitive direct ELISA assay for measuring Acr-dG in cells and tissues using only 1 \u03bcg of DNA without DNA digestion and sample enrichment ; and third , a competitive ELISA for better quantitative measurement of Acr-dG levels in DNA samples .
+The assays were validated using Acr-treated HT29 cell DNA samples or calf thymus DNA , and the results were confirmed by LC-MS/MS-MRM .
+An immunohistochemical assay was also developed to detect and visualize Acr-dG in HT29 cells as well as in human oral cells .
+These antibody-based methods provide useful tools for the studies of Acr-dG as a cancer biomarker and of the molecular mechanisms by which cells respond to Acr-dG as a ubiquitous DNA lesion .

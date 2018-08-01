@@ -1,0 +1,9 @@
+Endothelin plays important roles in various physiological functions including vascular constriction .
+Recent studies reported that the endothelin receptors ETA and ETB are highly expressed in lung and skin tumor tissues .
+In contrast , there are few reports on endothelin signalling in the proliferation of head and neck cancer .
+We found that both ETA and ETB endothelin receptors were overexpressed in tumor cells of tongue cancer samples by immunohistochemistry .
+ETA and ETB were expressed in cultured lingual and esophageal squamous cell carcinoma ( SCCs ) cell lines .
+When both cultured cell lines were treated with an ETA selective antagonist ( BQ123 ) or an ETB selective antagonist ( BQ788 ) , inhibition of cell growth was observed .
+Similar results were observed when SCCs were treated with specific siRNA for the suppression of ETA or ETB .
+Furthermore , inhibition of the mitogen-activated protein ( MAP ) kinase pathway by the treatments with ET receptor antagonists and siRNA was also observed .
+These results indicate that endothelin signalling may , in part , play important roles in cell growth in SCCs through the MAP kinase pathway .

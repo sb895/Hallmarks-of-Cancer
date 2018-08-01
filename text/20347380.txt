@@ -1,0 +1,9 @@
+This research aims to give a new insight to the relationship between host local immune response and the biological behaviour of the tumor by evaluating of intratumoral natural killer ( NK ) cells and tumor necrosis factor-alpha ( TNFalpha ) expressions in oral squamous cell carcinomas .
+New paraffin sections of the deepest parts of the 46 cases of oral squamous cell carcinomas were immunohistochemically treated by CD57 , selected as NK cell indicator , and TNFalpha monoclonal antibodies .
+The tumors were graded according to histopathologic grading scores of invasive margins and categorized into 2 groups as " good " and " poor " prognostic groups .
+Fifteen cases , from which could be obtained full clinical data , were clinically staged and because of the scarcity of the cases in each group were divided , again , two groups as group 1 : stage I+stage II and group 2 : stage III+stage IV .
+The expression levels of CD57 and TNFalpha were evaluated according to histopathologic grading groups and clinical staging groups .
+The results showed that the density of CD57+cells ( NK cells ) was statistically lower in tumors graded as poor prognostic group compared to the cases in good prognostic group .
+On the contrary , expression level of TNFalpha was statistically higher in poor prognostic group .
+These findings suggested that increased secretion of TNFalpha in the tumors , which show high invasive potential , may be one of the facilitating factors for tumor invasion and be responsible from suppression of NK cells .
+Withdrawal of NK cells in the high invasive tumor areas also reminds the necessity of certain shared genetic rearrangements in tumor cells for getting protected from NK cell attacks and moving ahead within the extracellular matrix .

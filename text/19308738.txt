@@ -1,0 +1,15 @@
+The involvement of iron and inflammation parameters on overall survival in non-small-cell lung cancer ( NSCLC ) patients was studied .
+Furthermore , transferrin receptors 1 ( TfR1 ) and ferritin expression in tumor tissue , tumor stroma , and normal lung tissue were analyzed .
+Iron metabolism and inflammation parameters were determined by automated laboratory measurements at the time of diagnosis .
+TfR1 and ferritin expression were determined by immuno-histochemical methods .
+About 50% of patients survived 12 months only .
+At the time of diagnosis more than half of the patients had anemia and significantly elevated serum ferritin .
+Iron content of serum ferritin ( ICF ) was below the reference values in 90% of patients .
+Furthermore , ICF showed positive correlation with iron metabolic parameters and survival but negative correlation with serum ferritin and ESR .
+The expression of TfR1 and ferritin in tumor cells was observed in 88% or 62% of patients , respectively .
+Tumor stroma was TfR1 negative and sporadically ferritin positive .
+Tumor tissue ferritin expression showed negative correlation with serum iron and hematokrit ( Ht ) , and positive correlation with ferritin , erythrocyte sedimentation rate ( ESR ) , alpha-1 globulin , and alpha-2 globulin .
+Positive correlation was found between TfR1 expression in tumor tissue and alpha-globulin .
+The correlation between TfR1/ferritin expression in tumor tissue and ICF or survival was not observed .
+Therefore , we conclude that elevated serum ferritin in sera of NSCLC patients is the result of inflammation and oxidative stress rather than body iron overload .
+Higher expression of ferritin in tumor tissue may be the consequence of iron deficiency or local toxicity induced by environmental factors .

@@ -1,0 +1,5 @@
+SET and MYND domain-containing protein 3 ( SMYD3 ) is a histone methyltransferase that plays an important role in transcriptional regulation in human carcinogenesis .
+It can specifically methylate histone H3 at lysine 4 and activate the transcription of a set of downstream genes , including several oncogenes ( e.g. , N-myc , CrkL , Wnt10b , RIZ and hTERT ) and genes involved in the control of cell cycle ( e.g. , CyclinG1 and CDK2 ) and signal transduction ( e.g. , STAT1 , MAP3K11 and PIK3CB ) .
+To determine the effects of SMYD3 over-expression on cell proliferation , we transfected SMYD3 into MDA-MB-231 cells and found that these cells showed several transformed phenotypes as demonstrated by colony growth in soft agar .
+Besides , we show here that down-regulation of SMYD3 could induce G1-phase cell cycle arrest , indicating the potent induction of apoptosis by SMYD3 knockdown .
+These results suggest the regulatory mechanisms of SMYD3 on the acceleration of cell cycle and facilitate the development of strategies that may inhibit the progression of cell cycle in breast cancer cells .

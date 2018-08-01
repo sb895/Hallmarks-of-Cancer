@@ -1,0 +1,9 @@
+Congenital cataract is a leading cause of visual impairment in children and brings approximately 10% of childhood blindness worldwide .
+Molecular analysis revealed loci to be associated with several phenotypes of childhood cataracts .
+Until now , more than 30 loci and 18 genes on different chromosomes have been associated with autosomal dominant congenital cataract ( ADCC ) .
+Here , we present a three-generation Italian family with a non syndromic ADCC .
+A linkage analysis carried out using HumanCytoSNP-12 DNA Analysis BeadChip led us to identify ten genomic regions virtually involved in the disease .
+All the genes located in these regions were scored for possible relationship with ADCC and , according to a strict clinical and genetic selection , 4 genes have been analyzed .
+A novel sequence variant was found in the CRYBB2 gene ( p.Ser143Phe ) .
+This variant affects a conserved aminoacid in the third Greek key motif of the protein , cosegregates with the disease phenotype in all affected individuals and is not present both in the unaffected family members and 100 healthy control subjects .
+Finally , we identified the first CRYBB2 mutation in an Italian family causing a clinical picture of ADCC .

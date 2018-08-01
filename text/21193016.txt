@@ -1,0 +1,9 @@
+Despite the deployment of multimodal therapies involving neurosurgical resection , radio- and polychemotherapy , the prognosis for glioblastoma patients remains poor .
+These tumors are pathologically characterized by their associated angiogenesis and diffuse brain invasion , processes that are probably closely linked to the unfavorable prognosis of this disease .
+Accordingly , pharmacological inhibition of glioblastoma invasion and approaches that impede angiogenesis are considered to be promising therapeutic strategies to combat these tumors .
+Nevertheless , the anti-angiogenic therapies for glioblastoma currently available are transient and palliative at best .
+Blocking the effects of fibroblast growth factor ( FGF ) may represent a novel mean of inhibiting the angiogenesis associated with glioblastoma , as it mediates the angiogenesis induced by other factors and it is an angiogenic factor by itself .
+In addition , the survival of glioma cells and their resistance to chemotherapeutic agents are highly FGF-dependent .
+We show here that a recently described inhibitor of FGF , 2,5-dihydroxyphenyl-sulfonate ( 2,5DHPS , dobesilate ) , stimulates the apoptosis of tumor cells , inhibits glioblastoma invasion and suppresses its associated angiogenesis .
+Moreover , this agent augments the efficiency of chemotherapeutic agents in a rat model of orthotopic brain tumor .
+These results suggest that 2,5DHPS treatment may represent a promising therapy for malignant glioma .

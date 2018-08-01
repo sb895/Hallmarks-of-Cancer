@@ -1,0 +1,8 @@
+Missense substitutions of uncertain clinical significance in the BRCA1 gene are a vexing problem in genetic counseling for women who have a family history of breast cancer .
+In this study , we evaluated the functions of 29 missense substitutions of BRCA1 in two DNA repair pathways .
+Repair of double-strand breaks by homology-directed recombination ( HDR ) had been previously analyzed for 16 of these BRCA1 variants , and 13 more variants were analyzed in this study .
+All 29 variants were also analyzed for function in double-strand break repair by the single-strand annealing ( SSA ) pathway .
+We found that among the pathogenic mutations in BRCA1 , all were defective for DNA repair by either pathway .
+The HDR assay was accurate because all pathogenic mutants were defective for HDR , and all nonpathogenic variants were fully functional for HDR .
+Repair by SSA accurately identified pathogenic mutants , but several nonpathogenic variants were scored as defective or partially defective .
+These results indicated that specific amino acid residues of the BRCA1 protein have different effects in the two related DNA repair pathways , and these results validate the HDR assay as highly correlative with BRCA1-associated breast cancer .

@@ -1,0 +1,5 @@
+A persistent immune response to hepatitis viruses is a well-recognized risk factor for hepatocellular carcinoma .
+However , the molecular and cellular basis for the procarcinogenic potential of the immune response is not well defined .
+Here , using a unique animal model of chronic hepatitis that induces hepatocellular carcinogenesis , we demonstrate that neutralization of the activity of Fas ligand prevented hepatocyte apoptosis , proliferation , liver inflammation , and the eventual development of hepatocellular carcinoma .
+The results indicate that Fas ligand is involved not only in direct hepatocyte killing but also in the process of inflammation and hepatocellular carcinogenesis in chronic hepatitis .
+This is the first demonstration that amelioration of chronic inflammation by some treatment actually caused reduction of cancer development .

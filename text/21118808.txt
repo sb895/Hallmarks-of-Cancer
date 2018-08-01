@@ -1,0 +1,8 @@
+We recently showed that Nox4 NADPH oxidase is highly expressed in pancreatic ductal adenocarcinoma and that it is activated by growth factors and plays a pro-survival , anti-apoptotic role .
+Here we investigate the mechanisms through which insulin-like growth factor I and serum ( FBS ) activate NADPH oxidase in pancreatic cancer ( PaCa ) cells .
+We show that in PaCa cells , NADPH oxidase is composed of Nox4 and p22(phox) catalytic subunits , which are both required for NADPH oxidase activity .
+Insulin-like growth factor I and FBS activate NADPH oxidase through transcriptional up-regulation of p22(phox) .
+This involves activation of the transcription factor NF-κB mediated by Akt kinase .
+Up-regulation of p22(phox) by the growth factors results in increased Nox4-p22(phox) complex formation and activation of NADPH oxidase .
+This mechanism is different from that for receptor-induced activation of phagocytic NADPH oxidase , which is mediated by phosphorylation of its regulatory subunits .
+Up-regulation of p22(phox) represents a novel pro-survival mechanism through which growth factors and Akt inhibit apoptosis in PaCa cells .

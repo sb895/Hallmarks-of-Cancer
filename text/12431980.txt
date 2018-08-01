@@ -1,0 +1,9 @@
+Annexin II is secreted into the extracellular environment , where , via interactions with specific proteases and extracellular matrix proteins , it participates in plasminogen activation , cell adhesion , and tumor metastasis and invasion .
+However , mechanisms regulating annexin II transport across the cellular membrane are unknown .
+In this study , we used coimmunoprecipitation to show that Annexin-II was bound to insulin and insulin-like growth factor-1 ( IGF-1 ) receptors in PC12 cells and NIH-3T3 cells overexpressing insulin ( NIH-3T3(IR) ) or IGF-1 receptor ( NIH-3T3(IGF-1R) ) .
+Stimulation of insulin and IGF-1 receptors by insulin caused a temporary dissociation of annexin II from these receptors , which was accompanied by an increased amount of extracellular annexin II detected in the media of PC12 , NIH-3T3(IR) , and NIH-3T3(IGF-1R) cells but not in that of untransfected NIH-3T3 cells .
+Activation of a different growth factor receptor , the platelet-derived growth factor receptor , did not produce such results .
+Tyrphostin AG1024 , a tyrosine kinase inhibitor of insulin and IGF-1 receptor , was shown to inhibit annexin II secretion along with reduced receptor phosphorylation .
+Inhibitors of a few downstream signaling enzymes including phosphatidylinositol 3-kinase , pp60c-Src , and protein kinase C had no effect on insulin-induced annexin II secretion , suggesting a possible direct link between receptor activation and annexin II secretion .
+Immunocytochemistry revealed that insulin also induced transport of the membrane-bound form of annexin II to the outside layer of the cell membrane and appeared to promote cell aggregation .
+These results suggest that the insulin receptor and its signaling pathways may participate in molecular mechanisms mediating annexin II secretion .

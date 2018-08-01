@@ -1,0 +1,7 @@
+Coronavirus envelope ( E ) proteins are short ( residues ) polypeptides that contain at least one transmembrane ( TM ) domain and a cluster of 2-3 juxtamembrane cysteines .
+These proteins are involved in viral morphogenesis and tropism , and their absence leads in some cases to aberrant virions , or to viral attenuation .
+In common to other viroporins , coronavirus envelope proteins increase membrane permeability to ions .
+Although an NMR-based model for the TM domain of the E protein in the severe acute respiratory syndrome virus ( SARS-CoV E ) has been reported , structural data and biophysical studies of full length E proteins are not available because efficient expression and purification methods for these proteins are lacking .
+Herein we have used a novel fusion protein consisting of a modified \u03b2-barrel to purify both wild type and cysteine-less mutants of two representatives of coronavirus E proteins : the shortest ( 76 residues ) , from SARS-CoV E , and one of the longest ( 109 residues ) , from the infectious bronchitis virus ( IBV E ) .
+The fusion construct was subsequently cleaved with cyanogen bromide and all polypeptides were obtained with high purity .
+This is an approach that can be used in other difficult hydrophobic peptides .

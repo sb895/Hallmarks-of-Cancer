@@ -1,0 +1,9 @@
+Chronic inflammation is a critical component in breast cancer progression .
+Pro-inflammatory mediators along with growth/survival factors within the tumor microenvironment potentiate the expression of pro-inflammatory cytokines ( IL-1 , IL-6 , TNF-α ) , chemotactic cytokines and their receptors ( CXCR4 , CXCL12 , CXCL8 ) and angiogenic factors ( VEGF ) that often overcome the effect of anti-inflammatory molecules ( IL-4 , IL-10 ) thus evading the host's antitumor immunity .
+Detailed knowledge , therefore , of the regulatory mechanisms determining cytokine levels is essential to understand the pathogenesis of breast cancer .
+HIF-1α and NF-κB transcription factors are important players for the establishment of a pro-inflammatory and potentially oncogenic environment .
+HIF-1α is the key mediator of the cellular response to oxygen deprivation and induces the expression of genes involved in survival and angiogenesis within solid hypoxic tumors .
+The expression of these genes is often modulated by the p53 tumor suppressor protein that induces apoptosis or cell cycle arrest in neoplastic cells .
+Functional crosstalk between HIF-1α and p53 pathways mediated by modulators shared between the two transcription factors such as SRC-1 and SIRT-1 differentially regulate the expression of distinct subsets of their target genes under variable stress conditions .
+In an attempt to shed light on the complex regulatory mechanisms involved in cancer-related inflammation , we investigated the role of the two common p53 and HIF-1α co-regulators SRC-1 and SIRT-1 , in the expression of the highly potent metastatic chemokine receptor CXCR4 .
+Both SRC-1 and SIRT-1 overexpression in DSFX-treated MCF-7 cells reduced CXCR4 cellular levels implying that both co-regulators are crucial factors in the determination of the metastatic potential of breast cancer cells .

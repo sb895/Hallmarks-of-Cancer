@@ -1,0 +1,7 @@
+Key cellular decisions , such as proliferation or growth arrest , typically occur at spatially defined locations within tissues .
+Loss of this spatial control is a hallmark of many diseases , including cancer .
+Yet , how these patterns are established is incompletely understood .
+Here , we report that physical and architectural features of a multicellular sheet inform cells about their proliferative capacity through mechanical regulation of YAP and TAZ , known mediators of Hippo signaling and organ growth .
+YAP/TAZ activity is confined to cells exposed to mechanical stresses , such as stretching , location at edges/curvatures contouring an epithelial sheet , or stiffness of the surrounding extracellular matrix .
+Weidentify the F-actin-capping/severing proteins Cofilin , CapZ , and Gelsolin as essential gatekeepers that limit YAP/TAZ activity in cells experiencing low mechanical stresses , including contact inhibition of proliferation .
+We propose that mechanical forces are overarching regulators of YAP/TAZ in multicellular contexts , setting responsiveness to Hippo , WNT , and GPCR signaling .

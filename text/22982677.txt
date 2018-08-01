@@ -1,0 +1,8 @@
+Contact inhibition is a crucial mechanism regulating proliferation in vitro and in vivo .
+Although it is generally accepted that contact inhibition plays a pivotal role in maintaining tissue homeostasis , the molecular mechanisms of contact inhibition are still not fully understood .
+FoxM1 is known as a proliferation-associated transcription factor and is upregulated in many cancer types .
+Vice versa , anti-proliferative signals , such as TGF-\u03b2 and differentiation signals decrease FoxM1 expression .
+Here we investigated the role of FoxM1 in contact inhibition in fibroblasts .
+We show that protein expression of FoxM1 is severely and rapidly downregulated upon contact inhibition , probably by inhibition of ERK activity , which then leads to decreased expression of cyclin A and polo-like kinase 1 .
+Vice versa , ectopic expression of FoxM1 prevents the decrease in cyclin A and polo-like kinase 1 and causes a two-fold increase in saturation density indicating loss of contact inhibition .
+Hence , we show that downregulation of FoxM1 is required for contact inhibition by regulating expression of cyclin A and polo-like kinase 1 .

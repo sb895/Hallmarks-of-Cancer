@@ -1,0 +1,8 @@
+Hypoxia has long been linked to the Warburg effect , yet the underlying mechanism remains largely unclear .
+It is also not known if lncRNAs are involved in the contribution of hypoxia to the Warburg effect .
+Here we show that lincRNA-p21 is a hypoxia-responsive lncRNA and is essential for hypoxia-enhanced glycolysis .
+Hypoxia/HIF-1\u03b1-induced lincRNA-p21 is able to bind HIF-1\u03b1 and VHL and thus disrupts the VHL-HIF-1\u03b1 interaction .
+This disassociation attenuates VHL-mediated HIF-1\u03b1 ubiquitination and causes HIF-1\u03b1 accumulation .
+These data indicate the existence of a positive feedback loop between HIF-1\u03b1 and lincRNA-p21 that promotes glycolysis under hypoxia .
+The ability of lincRNA-p21 to promote tumor growth is validated in mouse xenograft models .
+Together , these findings suggest that lincRNA-p21 is an important player in the regulation of the Warburg effect and also implicate lincRNA-p21 as a valuable therapeutic target for cancer .

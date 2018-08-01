@@ -1,0 +1,15 @@
+Ovarian steroids are one of the strongest risk factors for breast cancer .
+Sex hormone-binding globulin ( SHBG ) binds and transports sex steroids in the blood , regulating their bioavailable fraction and access to target cells .
+It can also inhibit the estradiol-induced proliferation of breast cancer cells through its membrane receptor .
+Three coding-region polymorphisms , which lead to an amino acid change , have been reported .
+We studied the influence of these three polymorphisms on breast cancer risk in three different populations : Polish familial breast cancer cases , 27% of them carrying a BRCA1/BRCA2 mutation , Nordic familial and sporadic breast cancer cases .
+The reported G to A polymorphism in exon 1 was not found in the 423 analyzed samples .
+Instead , we found a C to T transition causing an arg to cys amino acid change within the same codon in one Polish breast cancer patient and her daughter .
+Both of them were heterozygotes for the exon 8 G to A polymorphism as well .
+They were diagnosed for bilateral breast cancer and carried a BRCA1 mutation ( 5382insC ) .
+Analysis of the tumor samples showed that they had lost the wild-type allele both at exons 1 and 8 of the SHBG gene .
+Analysis of the other Polish samples showed no correlation of the exon 8 polymorphism to breast cancer , bilateral breast cancer , BRCA1/BRCA2 mutations or age at diagnosis .
+No association of the exon 8 polymorphism with breast cancer in the Nordic familial or sporadic cases was found .
+The C to T polymorphism located in exon 4 was rare in all the studied populations ( overall allele frequency 0.011 ) .
+However , in each of the study populations there was a trend for a lower variant allele frequency in cancer cases than in controls .
+Variant allele frequency in all the breast cancer cases was significantly lower than in all the controls ( chi(2) = 5.27 , P-value 0.02 ; odds ratio = 0.23 , 95% confidence interval 0.05-0.84 ) .

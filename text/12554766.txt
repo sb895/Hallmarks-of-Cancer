@@ -1,0 +1,10 @@
+Steroid hormone receptors , including estrogen receptor-alpha ( ERalpha ) , are ligand-activated transcription factors , and hormone binding leads to depletion of receptor levels via preteasome-mediated degradation .
+NEDD8 ( neural precursor cell-expressed developmentally down-regulated ) is an ubiquitin-like protein essential for protein processing and cell cycle progression .
+We recently demonstrated that ubiquitin-activating enzyme ( Uba)3 , the catalytic subunit of the NEDD8-activating enzyme , inhibits ERalpha transcriptional activity .
+Here we report that Uba3-mediated inhibition of ERalpha transactivation function is due to increased receptor protein turnover .
+Coexpression of Uba3 with ERalpha increased receptor degradation by the 26S proteasome .
+Inhibition of NEDD8 activation and conjugation diminished polyubiquitination of ERalpha and blocked proteasome-mediated degradation of receptor protein .
+The antiestrogen ICI 182,780 is known to induce ER degradation .
+In human MCF7 breast cancer cells modified to contain a disrupted NEDD8 pathway , ICI 182,780 degradation of ERalpha was impaired , and the antiestrogen was ineffective at inhibiting cell proliferation .
+This study provides the first evidence linking nuclear receptor degradation with the NEDD8 pathway and the ubiquitin-proteasome system , suggesting that the two pathways can act together to modulate ERalpha turnover and cellular responses to estrogens .
+Based on our observation that an intact NEDD8 pathway is essential for the antiproliferation activity of the ICI 182,780 in ERalpha positive breast cancer cells , we propose that disruptions in the NEDD8 pathway provide a mechanism by which breast cancer cells acquire antiestrogen resistance while retaining expression of ERalpha .

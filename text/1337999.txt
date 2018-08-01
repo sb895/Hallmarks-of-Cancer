@@ -1,0 +1,6 @@
+The involvement of signal transduction systems in the initial attachment of two murine B16 melanoma clones of differing metastatic potential to extracellular matrix components was examined to learn more of the early events in cell-matrix interaction .
+Clones of high and low metastatic capacity attached similarly in the absence of any stimulators , exhibiting a two phase time course of attachment with 100% attachment by 60 min .
+A slight difference in attachment characteristics between the clones was seen in response to phorbol ester stimulation , which significantly inhibited attachment of the low metastatic clone but which had no effect on the highly metastatic clone .
+Total protein kinase C activity and distribution was similar for both clones .
+Attachment of both clones was severely reduced , however , if intracellular calcium was elevated or intracellular calmodulin inhibited .
+This study suggests that signal transduction mechanisms are involved in melanoma cell attachment to matrix proteins and offers an approach to pharmacological manipulation of these cell-matrix interactions which may be relevant to reducing metastatic spread .

@@ -1,0 +1,11 @@
+BACKGROUND The isothiocyanate sulforaphane ( SFN ) possesses interesting anticancer activities .
+However , recent studies reported that SFN promotes the formation of reactive oxygen species ( ROS ) as well as DNA breakage .
+METHODOLOGY/PRINCIPAL FINDINGS We investigated whether SFN is able to damage RNA , whose loss of integrity was demonstrated in different chronic diseases .
+Considering the ability of SFN to protect from genotoxicity , we also examined whether SFN is able to protect from RNA damage induced by different chemicals ( doxorubicin , spermine , S-nitroso-N-acetylpenicillamine , H(2)O(2) ) .
+We observed that SFN was devoid of either RNA damaging and RNA protective activity in human leukemic cells .
+It was able to potentiate the RNA damage by doxorubicin and spermine .
+In the first case , the effect was attributable to its ability of modulating the bioreductive activation of doxorubicin .
+For spermine , the effects were mainly due to its modulation of ROS levels produced by spermine metabolism .
+As to the cytotoxic relevance of the RNA damage , we found that the treatment of cells with a mixture of spermine or doxorubicin plus SFN increased their proapoptotic potential .
+Thus it is conceivable that the presence of RNA damage might concur to the overall toxic response induced by a chemical agent in targeted cells .
+CONCLUSIONS/SIGNIFICANCE Since RNA is emerging as a potential target for anticancer drugs , its ability to enhance spermine- and doxorubicin-induced RNA damage and cytotoxicity could represent an additional mechanism for the potentiating effects of SFN associated with anticancer drugs .

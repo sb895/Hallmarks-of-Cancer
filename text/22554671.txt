@@ -1,0 +1,10 @@
+p24 proteins comprise a family of type-I transmembrane proteins of that are present in yeast and plants as well as metazoans ranging from Drosophila to humans .
+These proteins are most commonly localized to the endoplasmic reticulum ( ER)-Golgi interface and are incorporated in anterograde and retrograde transport vesicles .
+Little is known about how disruption of p24 signaling affects individual tissue function or whole animals .
+Drosophila melanogaster express nine p24 genes , grouped into four subfamilies .
+Based upon our mRNA and protein expression data , Drosophila p24 family members are expressed in a variety of tissues .
+To identify functions for particular Drosophila p24 proteins , we used RNA interference ( RNAi ) to reduce p24 expression .
+Ubiquitous reduction of most p24 genes resulted in complete or partial lethality during development .
+We found that reducing p24 levels in adults caused defects in female fecundity ( egg laying ) and also reduced male fertility .
+We attributed reduced female fecundity to decreased neural p24 expression .
+These results provide the first genetic analysis of all p24 family members in a multicellular animal and indicate vital roles for Drosophila p24s in development and reproduction , implicating neural expression of p24s in the regulation of female behavior .

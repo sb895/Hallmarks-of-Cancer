@@ -1,0 +1,8 @@
+FMS-like tyrosine kinase 3 ( FLT3 ) normally functions in the survival/proliferation of hematopoietic stem/progenitor cells , but its constitutive activation by internal tandem duplication ( ITD ) mutations correlates with a poor prognosis in AML .
+The development of FLT3 tyrosine kinase inhibitors ( TKI ) is a promising strategy , but resistance that arises during the course of treatment caused by secondary mutations within the mutated gene itself poses a significant challenge .
+In an effort to predict FLT3 resistance mutations that might develop in patients , we used saturation mutagenesis of FLT3/ITD followed by selection of transfected cells in FLT3 TKI .
+We identified F621L , A627P , F691L and Y842C mutations in FLT3/ITD that confer varying levels of resistance to FLT3 TKI .
+Western blotting confirmed that some FLT3 TKI were ineffective at inhibiting FLT3 autophosphorylation and signaling through MAP kinase , STAT5 and AKT in some mutants .
+Balb/c mice transplanted with the FLT3/ITD Y842C mutation confirmed resistance to sorafenib in vivo but not to lestaurtinib .
+These results indicate a growing number of FLT3 mutations that are likely to be encountered in patients .
+Such knowledge , combined with known remaining sensitivity to other FLT3 TKI , will be important to establish as secondary drug treatments that can be substituted when these mutants are encountered .

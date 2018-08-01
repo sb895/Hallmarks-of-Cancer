@@ -1,0 +1,11 @@
+Inhibition of cell proliferation by fenoterol and fenoterol derivatives in 1321N1 astrocytoma cells is consistent with β(2)-adrenergic receptor ( β(2)-AR ) stimulation .
+However , the events that result in fenoterol-mediated control of cell proliferation in other cell types are not clear .
+Here , we compare the effect of the β(2)-AR agonists ( R,R')-fenoterol ( Fen ) and ( R,R')-4-methoxy-1-naphthylfenoterol ( MNF ) on signaling and cell proliferation in HepG2 hepatocarcinoma cells by using Western blotting and [ (3)H]thymidine incorporation assays .
+Despite the expression of β(2)-AR , no cAMP accumulation was observed when cells were stimulated with isoproterenol or Fen , although the treatment elicited both mitogen-activated protein kinase and phosphatidylinositol 3-kinase/Akt activation .
+Unexpectedly , isoproterenol and Fen promoted HepG2 cell growth , but MNF reduced proliferation together with increased apoptosis .
+The mitogenic responses of Fen were attenuated by 3-(isopropylamino)-1-[(7-methyl-4-indanyl)oxy]butan-2-ol ( ICI 118,551 ) , a β(2)-AR antagonist , whereas those of MNF were unaffected .
+Because of the coexpression of β(2)-AR and cannabinoid receptors ( CBRs ) and their impact on HepG2 cell proliferation , these Gα(i)/Gα(o)-linked receptors may be implicated in MNF signaling .
+Cell treatment with ( R)-(+)-[2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-napthalenylmethanone ( WIN 55,212-2 ) , a synthetic agonist of CB(1)R and CB(2)R , led to growth inhibition , whereas inverse agonists of these receptors blocked MNF mitogenic responses without affecting Fen signaling .
+MNF responses were sensitive to pertussis toxin .
+The β(2)-AR-deficient U87MG cells were refractory to Fen , but responsive to the antiproliferative actions of MNF and WIN 55,212-2 .
+The data indicate that the presence of the naphthyl moiety in MNF results in functional coupling to the CBR pathway , providing one of the first examples of a dually acting β(2)-AR-CBR ligand .

@@ -1,0 +1,8 @@
+Chromosomal instability and the subsequent genetic mutations are considered to be critical factors in the development of the majority of solid tumors , but the mechanisms by which a stable diploid cell loses the ability to maintain genomic integrity are not well characterized .
+We have approached this critical issue through the use of high-throughput screens in untransformed diploid epithelial cells .
+In a screen of a cDNA library , we identified 13 kinases whose overexpression leads to increased ploidy .
+In a series of shRNA screens , we identified 16 kinases whose loss leads to increased ploidy .
+In both cDNA and shRNA screens , the majority of hits have not been linked previously to genomic stability .
+We further show that sustained loss of the shRNA screening hits leads to multipolar spindles and heterogeneous chromosome content , two characteristics of chromosomal instability .
+Loss of several of the kinases leads to loss of contact inhibition and to anchorage-independent growth , vital traits acquired during tumor development .
+We anticipate that this work will serve as a template for the comprehensive identification of pathways whose dysregulation can drive tumorigenesis through impaired karyotypic maintenance .

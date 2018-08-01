@@ -1,0 +1,6 @@
+In the central nervous system , levels of extraneuronal dopamine are controlled primarily by the action of the dopamine transporter ( DAT ) .
+Multiple signaling pathways regulate transport activity , substrate efflux , and other DAT functions through currently unknown mechanisms .
+DAT is phosphorylated by protein kinase C within a serine cluster at the distal end of the cytoplasmic N terminus , whereas recent work in model cells revealed proline-directed phosphorylation of rat DAT at membrane-proximal residue Thr(53) .
+In this report , we use mass spectrometry and a newly developed phospho-specific antibody to positively identify DAT phosphorylation at Thr(53) in rodent striatal tissue and heterologous expression systems .
+Basal phosphorylation of Thr(53) occurred with a stoichiometry of and was strongly increased by phorbol esters and protein phosphatase inhibitors , demonstrating modulation of the site by signaling pathways that impact DAT activity .
+Mutations of Thr(53) to prevent phosphorylation led to reduced dopamine transport V(max) and total apparent loss of amphetamine-stimulated substrate efflux , supporting a major role for this residue in the transport kinetic mechanism .

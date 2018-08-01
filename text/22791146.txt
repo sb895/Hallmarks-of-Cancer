@@ -1,0 +1,8 @@
+Lentinula edodes mycelia ( L.E.M. ) is a dried powder extracted from shiitake mushrooms ( Lentinula edodes ) .
+We previously demonstrated that it has immunomodulatory effects .
+In this paper , the direct cytotoxic effects of the polysaccharide-rich fraction of L.E.M .
+( L.E.M. ethanol precipitate ; LEP ) on HepG2 human hepatocellular carcinoma ( HCC ) cells were investigated .
+LEP directly killed the HepG2 cells efficaciously , but had only minor effects on normal rat hepatocytes and normal mouse dermal cells under the same conditions .
+Characteristic morphological changes associated with apoptosis such as shrinkage , rounding , and floating as well as chromatin condensation were confirmed ; terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling ( TUNEL ) staining was positive as determined by fluorescence microscopy analyses .
+The caspase-3 and -8 death receptor pathway was found largely responsible for the apoptotic death of HepG2 cells treated with LEP .
+In conclusion , LEP can directly induce apoptosis of HepG2 cells , and thus may have potential chemotherapeutic applications for the treatment of HCC .

@@ -1,0 +1,10 @@
+The incidence of oral squamous cell carcinoma ( SCC ) is increasing but the long-term survival rate remains low .
+An animal model would therefore be helpful for evaluation of new treatment modalities for oral SCC .
+Hamster is small animal , therefore , the cancer of hamster cheek pouch is not optimal for tumor imaging .
+The VX2 cell line has been used in many carcinoma-related studies , including oral SCC research , but it is derived from cutaneous tissue and not mucosa .
+We chemically induced tongue squamous cell carcinoma in rabbits and subsequently established a rabbit squamous cell line .
+The cells grew in multiple layers without contact inhibition for 60 passages over 2 years and were positive for cytokeratin ( CK ) .
+Electron microscopy revealed that cells were polygonal with rich microvilli on the surface , and there were desmosomes between cells and bundles of tonofibril beside the cell membrane .
+The chromosome number ranged from 71 to 272 , with a modal value of 145 ( 12.4% ) .
+The cells were transplantable into nude mice subcutaneously or rabbit submucosally and produced carcinomas in all the animals .
+The cell line should be a useful tool for the study of the biological characteristics of oral SCC , especially tongue SCC .

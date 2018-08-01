@@ -1,0 +1,14 @@
+OBJECTIVE Ovarian carcinomas mostly appear as large cystic masses .
+However , the exact prevalence of cysts in epithelial ovarian cancer ( EOC ) has never been documented as well as the tumor factors that are related to the presence of cysts .
+Demonstrating the prevalence of cysts in EOC is essential for research focused on predictive and prognostic biomarkers in ovarian cyst fluid .
+STUDY DESIGN From 233 patients with primary EOC who underwent surgery , pathological data were collected from pathology reports .
+Univariate and multivariate logistic regression were used to analyze the relationship between the presence of cysts and other tumor characteristics .
+RESULTS Cysts in EOC were present in 83.7% of the patients and were mostly ( 61% ) multilocular .
+The most common histological subtypes ( serous , mucinous , endometrioid , clear cell ) contained cysts in more than 85% of the cases .
+In univariate regression analysis , early FIGO stage , low tumor grade and a large tumor size were significantly associated with the presence of cysts ( OR ( 95% CI)=5.312 ( 1.81-15.57 ) , 6.906 ( 2.31-20.66 ) and 1.169 ( 1.08-1.27 ) , respectively ) .
+In multivariate regression analysis , apart from tumor size , only tumor grade was independently associated with the presence of cysts ( adjusted OR ( 95% CI)=4.234 ( 1.36-13.22) ) .
+CONCLUSIONS The large majority of all EOCs contained cysts .
+Histological subtype , FIGO stage , tumor necrosis and age were not associated with the presence of cystic EOC .
+In contrast , tumor grade and tumor size were independently related to the presence of cystic EOC .
+This means that cystic EOCs represent a subgroup of larger and more well-differentiated tumors .
+The evident relationship between the presence of cysts and differentiation grade is interesting from a clinical point of view as grading is especially important for the prognosis and treatment of patients with stage I EOC .

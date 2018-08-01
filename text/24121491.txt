@@ -1,0 +1,7 @@
+One classical feature of cancer cells is their metabolic acquisition of a highly glycolytic phenotype .
+Carbon monoxide ( CO ) , one of the products of the cytoprotective molecule heme oxygenase-1 ( HO-1 ) in cancer cells , has been implicated in carcinogenesis and therapeutic resistance .
+However , the functional contributions of CO and HO-1 to these processes are poorly defined .
+In human prostate cancers , we found that HO-1 was nuclear localized in malignant cells , with low enzymatic activity in moderately differentiated tumors correlating with relatively worse clinical outcomes .
+Exposure to CO sensitized prostate cancer cells but not normal cells to chemotherapy , with growth arrest and apoptosis induced in vivo in part through mitotic catastrophe .
+CO targeted mitochondria activity in cancer cells as evidenced by higher oxygen consumption , free radical generation , and mitochondrial collapse .
+Collectively , our findings indicated that CO transiently induces an anti-Warburg effect by rapidly fueling cancer cell bioenergetics , ultimately resulting in metabolic exhaustion .

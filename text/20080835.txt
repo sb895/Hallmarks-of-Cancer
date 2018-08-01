@@ -1,0 +1,9 @@
+The contribution that mitochondrial bioenergetics could have in cancer development is debated .
+Here , we have generated HCT116-derived colocarcinoma cell lines expressing different levels of the beta catalytic subunit of the mitochondrial H+-adenosine triphosphate synthase to assess the contribution of mitochondrial bioenergetics in colon cancer progression .
+The generated cells exhibit large ultrastructural , transcriptomic , proteomic and functional differences in their mitochondria and in their in vivo tumor forming capacity .
+We show that the activity of oxidative phosphorylation defines the rate of glucose utilization by aerobic glycolysis .
+The aggressive cellular phenotype , which is highly glycolytic , is bound to the deregulated expression of genes involved in metabolic processes , the regulation of the cell cycle , apoptosis , angiogenesis and cell adhesion .
+Remarkably , the molecular and ultrastructural analysis of the tumors derived from the three HCT116 cell lines under study highlight that tumor promotion inevitably requires the selection of cancer cells with a repressed biogenesis and functional activity of mitochondria , i.e. the highly glycolytic phenotype is selected for tumor development .
+The tumor forming potential of the cells is a non-genetically acquired condition that provides the cancer cell with a cell-death resistant phenotype .
+An abrogated mitochondrial respiration contributes to a diminished potential for reactive oxygen species signaling in response to 5-fluorouracil treatment .
+Treatment of cancer cells with dichloroacetate partially restores the functional differentiation of mitochondria and promotes tumor regression , emphasizing the reversible nature of the metabolic trait of cancer .

@@ -1,0 +1,4 @@
+To assess the importance of changes in DNA methylation in an X-ray-induced cellular transformation process , methylation patterns of five nuclear protooncogenes in fifteen transformant clones were studied and compared to that of the parental non-transformed cell line m5S/1M .
+All transformants examined revealed an alteration in DNA methylation in some of the genes , although these changes were variable among them .
+A comparison of cellular characteristics with corresponding DNA methylation changes in different clones suggested that the loss of contact inhibition and the gain of anchorage independency were associated with increases of methylation in many genes , whereas the acquisition of tumorigenicity was often accompanied by a decrease of methylation in the N-myc and c-myc genes .
+Resultant data indicate that the alteration of DNA methylation is closely related to transformation process , yet how this involvement occurs is complex and remains unclear .

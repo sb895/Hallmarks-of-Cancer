@@ -1,0 +1,12 @@
+Radiation combined with chemotherapy ( neo-CRT ) is increasingly the standard of care for the treatment of esophageal cancer , either as neoadjuvant therapy in multimodal protocols or as primary therapy .
+Unfortunately , of patients demonstrate little or no response to neo-CRT .
+Accordingly , understanding the molecular mechanisms of resistance to therapy may underpin significant advances through the identification of nonresponders either before or early in treatment .
+We previously identified the RNPC1 gene , which is important in stabilizing p21 , as being upregulated in the tumors of esophageal cancer patients who had a poor response to neo-CRT .
+We hypothesize that RNPC1 contributes to resistance to radiation therapy through a p21-mediated cell cycle accumulation/arrest mechanism .
+Analysis revealed that p53 and RNPC1 expression were highest in the JH-EsoAd1 cell line and lowest in OE19 cells .
+This was associated with accumulation of cells in G₀/G₁. p21 expression , which was highest in OE19 cells and lowest in OE33 cells , was associated with relative intrinsic sensitivity to radiation .
+OE33 cells were transfected with a plasmid ( pCMV6-AC-GFP ) encoding a C-terminal GFP-tagged RNPC1 , and overexpression was confirmed by qPCR and fluorescence microscopy .
+Overexpression of RNPC1-GFP resulted in significantly increased levels of the p21 transcript and protein through a direct physical interaction between the RNPC1 protein and the p21 transcript .
+Furthermore , RNPC1 overexpression led to significant G₀/G₁ cell cycle accumulation and significantly enhanced cellular resistance to radiation .
+We conclude that RNPC1 contributes to tumor resistance to radiotherapy , which likely occurs through a p21-mediated G₀/G₁ accumulation mechanism .
+Therefore , RNPC1 may represent a potential therapeutic target for enhancing tumor sensitivity to radiation .

@@ -1,0 +1,11 @@
+OBJECTIVE To investigate the expression and mutation of MTA1 , nm23H1 and E-cadherin(E-cad) genes in ovarian carcinoma ( OC ) in relation to lymph node ( LN ) metastasis .
+METHODS A panel of normal ovarian tissues , primary OC specimens and corresponding LNS was examined for mRNA expression and mutation of MTA1 and nm23H1 and protin expression of E-cad genes by using RT-PCR , RT-PCR-SSCP and immunohistochemistry .
+RESULTS The frequency of MTA1 over expression was 100%(7/7) in primary OC with metastasis but only 38.5%(5/13) in those without metastasis ( P = 0.0103 ) .
+Overexpression of MTA1 was observed in 87.5%(6/7) of LNS with metastasis but in only 23%(3/13) of LNS without metastasis ( P = 0.0118 ) .
+In contrast with MTA1 , low expression of nm23H1 mRNA was seen in 7 of 7 OC with metastasis but only in 4 of 13(30%) of those without metastasis ( P = 0.0043 ) .
+Low nm23H1 expression was also seen in 7 of 7 LNS with metastasis but only in 5 of 13 ( 38.5% ) nonmetastatic LNS ( P = 0.0102 ) .
+Meantime , no expression of E-cad protein was observed in 7 of 7 OC with metastasis but in 6 of 13(46.2%) of those without metastasis ( P = 0.044 ) .
+In correlation analysis of the three genes , MTA1 reversely correlated with nm23H1 and E-cad respectively ( r = -0.903 , -0.803 ) , and positive correlation existed between nm23H1 and E-cad ( r = 0.724 ) .
+No mutation of MTA1 , nm23H1 and was found by SSCP analysis .
+CONCLUSION The mRNA expression of MTA1 , nm23H1 and E-cad is positively and negatively correlated with LN metastasis .
+The expression abnormalities but not the mutations of the three genes are frequent events related to LN metastasis of ovarian cancer .

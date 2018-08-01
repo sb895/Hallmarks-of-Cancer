@@ -1,0 +1,10 @@
+OBJECTIVE Chemotherapy options for advanced endometrial cancer are limited and newer therapeutic agents are urgently needed .
+This study describes the therapeutic potential of 7 Methyl-indole ethyl isothiocyanate ( 7Me-IEITC ) in endometrial cancer cell lines .
+METHODS 7Me-IEITC was synthesized in our laboratory .
+The cell viability of 7Me-IEITC treated ECC-1 and KLE endometrial cancer cell was determined by MTS assay .
+Morphology and apoptosis were further confirmed by DAPI-staining and TUNEL assay .
+The measurement of reactive oxygen species ( ROS ) , mitochondrial transmembrane depolarization potential ( \u0394\u03a8m ) and cell cycle phase was determined by FACS analysis .
+Expression of proteins involved in apoptosis , survival and cell-cycle progression was analyzed by Western blotting .
+RESULTS 7Me-IEITC reduced the viability of the ECC-1 and KLE cancer cell-lines ( IC(50) \u03bcM ) in a dose dependent fashion. 7Me-IEITC treatment caused mitochondrial transmembrane potential reduction , elevated the production of ROS , leading to activation of apoptosis in endometrial cancer KLE and ECC-1 cells. 7Me-IEITC treatment activated Bad , suppressed Bcl2 phosphorylation followed by PARP-1 deactivation and caspase 3 and 7 activation. 7Me-IEITC treatment arrested the progression of KLE cells in S-phase and caused CDC25 and cyclin-D1 downregulation .
+Pre-treatment with ascorbic acid abrogated 7Me-IEITC induced apoptosis in ECC-1 and KLE cells , suggesting that 7Me-IEITC mediated cytotoxicity is primarily through ROS production .
+CONCLUSION 7Me-IEITC demonstrated promising cytotoxic effects in endometrial cancer cell line model .

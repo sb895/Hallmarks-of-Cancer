@@ -1,0 +1,10 @@
+The activity of DNA methyltransferase 1 ( DNMT1 ) is associated with diverse biological activities , including cell proliferation , senescence and cancer development .
+Here , we demonstrated that the HMG box-containing protein 1 ( HBP1 ) transcription factor is a new repressor of DNMT1 in a complex mechanism during senescence .
+The DNMT1 gene contains an HBP1-binding site at position -115 to -134bp from the transcriptional start site .
+HBP1 repressed the endogenous DNMT1 gene through sequence-specific binding , resulting in both gene-specific ( e.g. p16(INK4) ) and global DNA hypomethylation changes .
+The HBP1-mediated repression by DNMT1 contributed to replicative and premature senescence , the latter of which could be induced by Ras and HBP1 itself .
+A detailed investigation unexpectedly revealed that HBP1 has dual and complex transcriptional functions-both of which contribute to premature senescence .
+HBP1 both repressed the DNMT1 gene and activated the p16 gene in premature senescence .
+The opposite transcriptional functions proceeded through different DNA sequences and differential protein acetylation .
+While intricate , the reciprocal partnership between HBP1 and DNMT1 has exceptional importance , since its abrogation compromises senescence and promotes tumorigenesis .
+Together , our results suggest that the HBP1 transcription factor orchestrates a complex regulation of key genes during cellular senescence with an impact on overall DNA methylation state .

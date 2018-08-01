@@ -1,0 +1,13 @@
+We investigated the priming effect and mechanism of granulocyte colony-stimulating factor ( G-CSF ) in chemotherapy with low-dose Ara-C and VP-16 for acute myeloid leukemia .
+We analyzed cell proliferation , apoptosis , and cell cycle in vitro using leukemia cell lines 32Dcl3 , U937 , HL-60 , and Ba/F3 .
+Cell proliferation assays were performed using the Trypan Blue dye exclusion method .
+For detection of apoptosis , the Annexin V-binding capacity of treated cells was examined by flow cytometry .
+To evaluate the cell cycle , we used an FITC BrdU Flow kit and conducted analysis by flow cytometry .
+The combination of Ara-C and VP-16 significantly enhanced the observed effects compared with those of Ara-C or VP-16 alone .
+Concurrent administration of G-CSF further reduced the cell number and viability of 32Dcl3 and U937 cells , but not of HL-60 and Ba/F3 cells .
+Apoptotic cells were significantly increased in number by the addition of G-CSF to 32Dcl3 and U937 cells , while G-CSF had no significant effect on HL-60 and Ba/F3 cell lines .
+The addition of G-CSF significantly decreased the percentage of G0/G1-phase cells and significantly increased that of S-phase cells among 32Dcl3 and U937 cells .
+No significant effect was observed for HL-60 and Ba/F3 cells .
+An enhancement was confirmed for the combination of Ara-C , VP-16 , and G-CSF for 32Dcl3 and U937 cells but not for HL-60 and Ba/F3 cells .
+It was thought that this difference was a result of different responses to G-CSF .
+G-CSF potentiates Ara-C- and VP-16-induced cytotoxicities through apoptosis induction by mobilizing resting G0-G1-phase cells into S phase .

@@ -1,0 +1,10 @@
+Peptide 11 , CDPGYIGSR-NH2 , is a segment of laminin which blocks tumor cell invasion .
+A high affinity laminin receptor in tumor cells is thought to be blocked by the carboxyl-terminal YIGSR , and conformational energy calculations suggest that the glycine in YIGSR allows an important conformational bend .
+We replaced the YIGSR glycine residue in peptide 11 with either D-alanine or L-alanine to allow or disfavor the proposed glycine bend .
+We found the Gly7-->D-Ala7 analog to be equal to peptide 11 in inhibiting tumor cell invasion of basement membrane matrix .
+The Gly7-->L-Ala7 analog was much less capable of invasion inhibition .
+Two-dimensional 1H-1H NMR was used to study the solution conformations of the peptide 11 analogs .
+NOESY experiments revealed close NH-NH contacts in peptide 11 and the D-Ala7 analog , but not in the L-Ala7 analog .
+Molecular dynamics generated low energy structures with excellent NOE agreement for peptide 11 and its analogs .
+Both peptide 11 and the D-Ala7 analog , but not the less active L-Ala7 analog , were predicted to have similar bends around Gly7 or D-Ala7 .
+These results suggest that a bend in the YIGSR region of peptide 11 may be important for the binding of laminin to its metastasis-associated receptor .

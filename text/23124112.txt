@@ -1,0 +1,7 @@
+Mitochondrial uncoupling protein 2 ( UCP2 ) can moderate oxidative stress by favoring the influx of protons into the mitochondrial matrix , thus reducing electron leakage from respiratory chain and mitochondrial superoxide production .
+Here , we demonstrate that UCP2 inhibition by genipin or UCP2 siRNA strongly increases reactive oxygen species ( ROS ) production inhibiting pancreatic adenocarcinoma cell growth .
+We also show that UCP2 inhibition triggers ROS-dependent nuclear translocation of the glycolytic enzyme glyceraldehyde 3-phosphate dehydrogenase ( GAPDH ) , formation of autophagosomes , and the expression of the autophagy marker LC3-II .
+Consistently , UCP2 over-expression significantly reduces basal autophagy confirming the anti-autophagic role of UCP2 .
+Furthermore , we demonstrate that autophagy induced by UCP2 inhibition determines a ROS-dependent cell death , as indicated by the apoptosis decrease in the presence of the autophagy inhibitors chloroquine ( CQ ) or 3-methyladenine ( 3-MA ) , or the radical scavenger NAC .
+Intriguingly , the autophagy induced by genipin is able to potentiate the autophagic cell death triggered by gemcitabine , the standard chemotherapeutic drug for pancreatic adenocarcinoma , supporting the development of an anti-cancer therapy based on UCP2 inhibition associated to standard chemotherapy .
+Our results demonstrate for the first time that UCP2 plays a role in autophagy regulation bringing new insights into mitochondrial uncoupling protein field .

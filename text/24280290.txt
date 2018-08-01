@@ -1,0 +1,9 @@
+BACKGROUND Multiple myeloma ( MM ) is a fatal plasma cell malignancy exhibiting enhanced glucose consumption associated with an aerobic glycolytic phenotype ( i.e. , the Warburg effect ) .
+We have previously demonstrated that myeloma cells exhibit constitutive plasma membrane ( PM ) localization of GLUT4 , consistent with the dependence of MM cells on this transporter for maintenance of glucose consumption rates , proliferative capacity , and viability .
+The purpose of this study was to investigate the molecular basis of constitutive GLUT4 plasma membrane localization in MM cells .
+FINDINGS We have elucidated a novel mechanism through which myeloma cells achieve constitutive GLUT4 activation involving elevated expression of the Rab-GTPase activating protein AS160_v2 splice variant to promote the Warburg effect .
+AS160_v2-positive MM cell lines display constitutive Thr642 phosphorylation , known to be required for inactivation of AS160 Rab-GAP activity .
+Importantly , we show that enforced expression of AS160_v2 is required for GLUT4 PM translocation and activation in these select MM lines .
+Furthermore , we demonstrate that ectopic expression of a full-length , phospho-deficient AS160 mutant is sufficient to impair constitutive GLUT4 cell surface residence , which is characteristic of MM cells .
+CONCLUSIONS This is the first study to tie AS160 de-regulation to increased glucose consumption rates and the Warburg effect in cancer .
+Future studies investigating connections between the insulin/IGF-1/AS160_v2/GLUT4 axis and FDG-PET positivity in myeloma patients are warranted and could provide rationale for therapeutically targeting this pathway in MM patients with advanced disease .

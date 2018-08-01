@@ -1,0 +1,9 @@
+Cis-diamminedichloroplatinum ( II ) ( cisplatin ) is a well characterized antitumor drug used for the treatment of a variety of human cancers .
+The cytotoxicity of cisplatin is mainly mediated through the formation of DNA adducts , which are also believed to be responsible for the secondary malignancies produced by the drug .
+The aim of this study was to determine the in vivo mutagenic activity of cisplatin in the lacZ plasmid-based transgenic mouse model .
+The mutant frequency ( MF ) and the spectrum of mutations induced by cisplatin in the mouse liver were analyzed and compared to controls .
+The mean MF in the lacZ gene was increased 2-fold in mice treated with a single 6 mg/kg body weight dose of cisplatin and sacrificed after 17 and 28 days ( P = 0.001 and P < 0.0001 ) .
+Restriction analysis and sequencing of mutant DNA showed that cisplatin was able to induce both large deletions and point mutations .
+A specific profile of base substitution and frameshift mutations was identified in treated mice , consisting primarily of G:C-->A:T transitions at GpG and ApG sites , the preferential DNA binding sites of cisplatin , and single basepair deletions/insertions .
+The present results provide the first evidence that cisplatin has mutagenic activity in vivo and induces a characteristic pattern of mutations in the mouse liver .
+This mutagenicity may be responsible for its tumorigenic activity .

@@ -1,0 +1,11 @@
+BACKGROUND Nephronophthisis ( NPHP ) as a cause of cystic kidney disease is the most common genetic cause of progressive renal failure in children and young adults .
+NPHP is characterized by abnormal and/or loss of function of proteins associated with primary cilia .
+Previously , we characterized an autosomal recessive phenotype of cystic kidney disease in the Lewis Polycystic Kidney ( LPK ) rat .
+RESULTS In this study , quantitative trait locus analysis was used to define a Mbp region on rat chromosome 10q25 harbouring the lpk mutation .
+Targeted genome capture and next-generation sequencing of this region identified a non-synonymous mutation R650C in the NIMA ( never in mitosis gene a)- related kinase 8 ( Nek8 ) gene .
+This is a novel Nek8 mutation that occurs within the regulator of chromosome condensation 1 ( RCC1)-like region of the protein .
+Specifically , the R650C substitution is located within a G[QRC]LG repeat motif of the predicted seven bladed beta-propeller structure of the RCC1 domain .
+The rat Nek8 gene is located in a region syntenic to portions of human chromosome 17 and mouse 11 .
+Scanning electron microscopy confirmed abnormally long cilia on LPK kidney epithelial cells , and fluorescence immunohistochemistry for Nek8 protein revealed altered cilia localisation .
+CONCLUSIONS When assessed relative to other Nek8 NPHP mutations , our results indicate the whole propeller structure of the RCC1 domain is important , as the different mutations cause comparable phenotypes .
+This study establishes the LPK rat as a novel model system for NPHP and further consolidates the link between cystic kidney disease and cilia proteins .

@@ -1,0 +1,9 @@
+Epidemiologic studies have examined the association between fruit and vegetable ( F&V ) consumption and the risk of cancer .
+Several cancer-preventive mechanisms have been proposed , such as antioxidant properties and modulation of biotransformation enzyme activities ; both may be associated with reducing DNA damage and hence the mutation rate .
+We investigated , in a randomized , controlled , crossover feeding trial , the effect of 10 servings/day of botanically defined F&V for 2 wk on endogenous DNA damage ; resistance to gamma -irradiation damage ; and DNA repair capacity in lymphocytes , measured by the Comet assay .
+We also explored the association between the UGT1A1*28 polymorphism and serum bilirubin concentrations and DNA damage and repair measures .
+Healthy men ( n = 11 ) and women ( n = 17 ) , age 20 to 40 yr , provided blood samples at the end of each feeding period .
+Overall , F&V did not affect DNA damage and repair measures in lymphocytes .
+The number of UGT1A1*28 alleles was inversely associated with sensitivity to gamma -irradiation exposure and DNA repair capacity , but a biological mechanism to explain this association is unclear .
+A larger sample size is needed to investigate the association between bilirubin concentrations and endogenous DNA damage .
+With inconsistent findings in the literature , additional dietary intervention studies on the effect of F&V on DNA damage and repair are needed .

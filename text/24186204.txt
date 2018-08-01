@@ -1,0 +1,8 @@
+Metastatic breast tumors undergo epithelial-to-mesenchymal transition ( EMT ) , which renders them resistant to therapies targeted to the primary cancers .
+The mechanistic link between mtDNA ( mitochondrial DNA ) reduction , often seen in breast cancer patients , and EMT is unknown .
+We demonstrate that reducing mtDNA content in human mammary epithelial cells ( hMECs ) activates Calcineurin ( Cn)-dependent mitochondrial retrograde signaling pathway , which induces EMT-like reprogramming to fibroblastic morphology , loss of cell polarity , contact inhibition and acquired migratory and invasive phenotype .
+Notably , mtDNA reduction generates breast cancer stem cells .
+In addition to retrograde signaling markers , there is an induction of mesenchymal genes but loss of epithelial markers in these cells .
+The changes are reversed by either restoring the mtDNA content or knockdown of CnAα mRNA , indicating the causal role of retrograde signaling in EMT .
+Our results point to a new therapeutic strategy for metastatic breast cancers targeted to the mitochondrial retrograde signaling pathway for abrogating EMT and attenuating cancer stem cells , which evade conventional therapies .
+We report a novel regulatory mechanism by which low mtDNA content generates EMT and cancer stem cells in hMECs.Oncogene advance online publication , 4 November 2013 ; doi:10.1038/onc.2013.467 .

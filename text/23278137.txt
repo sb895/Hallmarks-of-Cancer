@@ -1,0 +1,14 @@
+BACKGROUND O(6) -methylguanine-DNA methyltransferase ( MGMT ) is a DNA repair enzyme that can protect cells from carcinogenic effects of alkylating agents by removing adducts from the O(6) position of guanine .
+Evidences indicated that areca quid chewing may increase the risk of oral squamous cell carcinoma ( OSCC ) .
+This study was to investigate the role of MGMT expression in OSCCs and the normal oral tissues .
+METHODS Thirty-two OSCCs from areca quid chewers and ten normal oral tissue biopsy samples without areca quid chewing were analyzed by the immunohistochemistry for MGMT .
+Primary human oral keratinocytes ( HOKs ) were challenged with arecoline , the major alkaloid of areca nut , by Western blot .
+Nicotine , an important component of cigarette smoke , was added to find the possible regulatory mechanisms .
+RESULTS Significant association was observed between low MGMT expression and advanced clinical stage of OSCCs and lymph node metastasis ( P=0.03 ) .
+MGMT expression was significantly higher in patients only chewing areca quid than patients both chewing areca quid and smoking ( P=0.028 ) .
+Arecoline was found to elevate MGMT expression in a dose- and time-dependent manner .
+The addition of nicotine was found to enhance arecoline-induced MGMT expression .
+CONCLUSION Our results indicate that MGMT could be used clinically as a predictive marker for tumor processing , the potential for lymph node metastasis as well as advanced clinical stage .
+MGMT expression was significantly upregulated by arecoline in HOKs .
+Nicotine has a synergistic effect of arecoline-induced MGMT expression .
+The cigarette smoking may act synergistically in the pathogenesis of OSCC in areca quid chewers via the upregulation of MGMT .

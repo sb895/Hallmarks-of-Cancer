@@ -1,0 +1,8 @@
+Tumor-associated macrophages ( TAM ) have been shown to play an important role in tumor angiogenesis .
+The purpose of this study was to determine whether monocyte recruitment , activation and differentiation mediated by monocyte chemotactic protein-1 ( MCP-1 ) and macrophage colony stimulating factor ( M-CSF ) modulate the expression of the angiogenic factor , Interleukin ( IL)-8 .
+Isolated human peripheral blood monocytes secreted low basal levels of IL-8 .
+Incubation of monocytes with M-CSF or MCP-1 resulted in an up-regulation of IL-8 mRNA and protein expression .
+The differential expression of IL-8 by monocytes following MCP-1 and M-CSF treatments involved activation of the NFkB transcription factor .
+Further activation with lipopolysaccharide ( LPS ) caused an increase in IL-8 secretion in monocytes but not in monocyte-derived macrophages ( MDM ) .
+MDM-conditioned media significantly up-regulated IL-8 expression in human malignant melanoma cells in vitro .
+In summary , we demonstrated that MCP-1 and M-CSF , critical for monocyte recruitment , activation and differentiation , differentially regulate IL-8 expression and may play an important role in monocyte/macrophage-mediated tumor angiogenesis .

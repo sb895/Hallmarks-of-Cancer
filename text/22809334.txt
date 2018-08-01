@@ -1,0 +1,12 @@
+X-ray crystallography has been a useful tool in the development of site-directed spin labeling by resolving rotamers of the nitroxide spin-label side chain in a variety of \u03b1-helical environments .
+In this work , the crystal structure of a doubly spin-labeled N8C/K28C mutant of the B1 immunoglobulin-binding domain of protein G ( GB1 ) was solved .
+The double mutant formed a domain-swapped dimer under crystallization conditions .
+Two rotameric states of the spin-label were resolved at the solvent-exposed \u03b1-helical site , at residue 28 ; these are in good agreement with rotamers previously reported for helical structures .
+The second site , at residue 8 on an interior \u03b2-strand , shows the presence of three distinct solvent-exposed side-chain rotamers .
+One of these rotamers is rarely observed within crystal structures of R1 sites and suggests that the H(\u03b1) and S(\u03b4) hydrogen bond that is common to \u03b1-helical sites is absent at this interior \u03b2-strand residue .
+Variable temperature continuous wave ( CW ) experiments of the \u03b2-strand site showed two distinct components that were correlated to the rotameric states observed in crystallography .
+Interestingly , the CW data at room temperature could be fit without the use of an order parameter , which is consistent with the lack of the H(\u03b1) and S(\u03b4) interaction .
+Additionally , double electron electron resonance ( DEER ) spectroscopy was performed on the GB1 double mutant in its monomeric form and yielded a most probable interspin distance of 25 ± 1 Å .
+In order to evaluate the accuracy of the measured DEER distance , the rotamers observed in the crystal structure of the domain-swapped GB1 dimer were modeled into a high-resolution structure of the wild type monomeric GB1 .
+The distances generated in the resulting GB1 structural models match the most probable DEER distance within Å .
+The results are interesting as they indicate by direct experimental measurement that the rotameric states of R1 found in this crystal provide a very close match to the most probable distance measured by DEER .

@@ -1,0 +1,10 @@
+Malignant peripheral nerve sheath tumors ( MPNSTs ) are sarcomas able to grow under conditions of metabolic stress caused by insufficient nutrients or oxygen .
+Both pituitary adenylate cyclase-activating polypeptide ( PACAP ) and activity-dependent neuroprotective protein ( ADNP ) have glioprotective potential .
+However , whether PACAP/ADNP signaling is involved in the resistance to cell death in MPNST cells remains to be clarified .
+Here , we investigated the involvement of this signaling system in the survival response of MPNST cells against hydrogen peroxide ( H(2)O(2))-evoked death both in the presence of normal serum ( NS ) and in serum-starved ( SS ) cells .
+Results showed that ADNP levels increased time-dependently ( 6-48 h ) in SS cells .
+Treatment with PACAP38 ( 10(-9) to 10(-5) M ) dose-dependently increased ADNP levels in NS but not in SS cells .
+PAC(1)/VPAC receptor antagonists completely suppressed PACAP-stimulated ADNP increase and partially reduced ADNP expression in SS cells .
+NS-cultured cells exposed to H(2)O(2) showed significantly reduced cell viability ( % ) , increased p53 and caspase-3 , and DNA fragmentation , without affecting ADNP expression .
+Serum starvation significantly reduced H(2)O(2)-induced detrimental effects in MPNST cells , which were not further ameliorated by PACAP38 .
+Altogether , these finding provide evidence for the involvement of an endogenous PACAP-mediated ADNP signaling system that increases MPNST cell resistance to H(2)O(2)-induced death upon serum starvation .

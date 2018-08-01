@@ -1,0 +1,6 @@
+Cell migration plays important roles in natural processes involving embryonic development , inflammation , wound healing , cancer metastasis and angiogenesis .
+Cell migration on various biomaterials is also believed to improve the rate of wound healing and implant therapies in the tissue-engineering field .
+This study measured the distance traversed , or mileage , of mouse fibroblasts on a silk fibroin surface .
+Fibroblasts on the fibroin surface moved with better progress during 24 h than cells on collagen or fibronectin surfaces .
+Results obtained by quantitative real-time reverse transcription-polymerase chain reaction ( qRT-PCR ) revealed that fibroblasts on the fibroin surface expressed transforming growth factor \u03b2-induced protein ( TGFBI ) , which is an extracellular matrix ( ECM ) protein , stronger than on other surfaces in the early cell-culture stages .
+These results demonstrate that the fibroin surface shows higher potential to enhance cell migration and the production of ECM than a collagen or fibronectin surface .

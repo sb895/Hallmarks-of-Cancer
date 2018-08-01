@@ -1,0 +1,11 @@
+AIM To assess the prognostic significance of nuclear factor-κB ( NF-κB ) and its target genes in gastric cancer .
+METHODS The tumor tissues of 115 patients with gastric cancer were immunohistochemically evaluated using monoclonal antibodies against NF-κB RelA .
+Preoperative serum levels of vascular endothelial growth factor ( VEGF ) , interleukin-6 ( IL-6 ) were assessed via enzyme-linked immuno-sorbent assay .
+C-reactive protein ( CRP ) and serum amyloid A ( SAA ) were measured via immunotrubidimetry .
+RESULTS Positive rate of NF-κB RelA was 42.6% .
+NF-κB RelA expression in tumor tissues was also related to serum levels of IL-6 ( P = 0.044 ) and CRP ( P = 0.010 ) .
+IL-6 , SAA , CRP were related to depth of invasion , VEGF and SAA were correlated with lymph node metastasis .
+IL-6 , VEGF , SAA and CRP were related to the stage .
+Univariate analysis demonstrated that immunostaining of NF-κB RelA , levels of IL-6 , VEGF , SAA were significantly related with both disease free survival and overall survival ( OS ) .
+Multivariate analysis verified that NF-κB RelA [ hazard ratio ( HR ) : 3.40 , P = 0.024 ] and SAA ( HR : 3.39 , P = 0.045 ) were independently associated with OS .
+CONCLUSION Increased expression of NF-κB RelA and high levels of serum SAA were associated with poor OS in gastric cancer patients .

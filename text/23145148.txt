@@ -1,0 +1,8 @@
+Regulation of poly(ADP-ribose) ( PAR ) synthesis and turnover is critical to determining cell fate after genotoxic stress .
+Hyperactivation of PAR synthesis by poly(ADP-ribose) polymerase-1 ( PARP-1 ) occurs when cells deficient in DNA repair are exposed to genotoxic agents ; however , the function of this hyperactivation has not been adequately explained .
+Here , we examine PAR synthesis in mouse fibroblasts deficient in the base excision repair enzyme DNA polymerase \u03b2 ( pol \u03b2 ) .
+The extent and duration of PARP-1 activation was measured after exposure to either the DNA alkylating agent , methyl methanesulfonate ( MMS ) , or to low energy laser-induced DNA damage .
+There was strong DNA damage-induced hyperactivation of PARP-1 in pol \u03b2 nullcells , but not in wild-type cells .
+In the case of MMS treatment , PAR synthesis did not lead to cell death in the pol \u03b2 null cells , but instead resulted in increased PARylation of the nonhomologous end-joining ( NHEJ ) protein Ku70 and increased association of Ku70 with PARP-1 .
+Inhibition of the NHEJ factor DNA-PK , under conditions of MMS-induced PARP-1 hyperactivation , enhanced necrotic cell death .
+These data suggest that PARP-1 hyperactivation is a protective mechanism triggering the classical-NHEJ DNA repair pathway when the primary alkylated base damage repair pathway is compromised .

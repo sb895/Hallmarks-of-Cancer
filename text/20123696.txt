@@ -1,0 +1,12 @@
+Diphenyl ditelluride ( DPDT ) is a potential prototype for the development of novel biologically active molecules .
+Thus , it is important to evaluate the toxic effects of this compound .
+In the present study , we evaluated the cytotoxic , genotoxic and mutagenic properties of DPDT in Chinese hamster fibroblast ( V79 ) cells , in strains of the yeast Saccharomyces cerevisiae both proficient and deficient in several DNA repair pathways and in Salmonella typhimurium .
+DPDT induced frameshift mutations in both S.typhimurium and a haploid wild-type strain of S.cerevisiae .
+Mutants of S.cerevisiae defective in base excision repair and recombinational repair were more sensitive to DPDT .
+The results of a lactate dehydrogenase leakage assay suggest that DPDT is cytotoxic to V79 cells .
+At cytotoxic concentrations , this compound increased thiobarbituric reactive species levels and decreased the glutathione:GSSH ratio in yeast and V79 cells .
+DPDT generated single- and double-strand DNA breaks in V79 cells , both with and without metabolic activation , as revealed by alkaline and neutral comet assays .
+Moreover , an induction of oxidative DNA base damage was indicated by a modified comet assay using formamidopyrimidine DNA glycosylase and endonuclease III .
+Treatment with DPDT also induced micronucleus formation in V79 cells .
+Pre-incubation with N-acetylcysteine reduced DPDT's oxidative , genotoxic and mutagenic effects in yeast and V79 cells .
+Our results suggest that the toxic and mutagenic properties of DPDT may stem from its ability to disturb the redox balance of the cell , which leads to oxidative stress and the induction of DNA damage .

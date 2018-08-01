@@ -1,0 +1,10 @@
+Whereas estrogen-estrogen receptor α ( ER ) signaling plays an important role in breast cancer growth , it is also necessary for the differentiation of normal breast epithelial cells .
+How this functional conversion occurs , however , remains unknown .
+Based on a genome-wide sequencing study that identified mutations in several breast cancer genes , we examined some of the genes for mutations , expression levels , and functional effects on cell proliferation and tumorigenesis .
+We present the data for C1orf64 or ER-related factor ( ERRF ) from 31 cell lines and 367 primary breast cancer tumors .
+Whereas mutation of ERRF was infrequent ( 1 of 79 or 1.3% ) , its expression was up-regulated in breast cancer , and the up-regulation was more common in lower-stage tumors .
+In addition , increased ERRF expression was significantly associated with ER and/or progesterone receptor ( PR ) positivity , which was still valid in human epidermal growth factor receptor 2 ( HER2)-negative tumors .
+In ER-positive tumors , ERRF expression was inversely correlated with HER2 status .
+Furthermore , higher ERRF protein expression was significantly associated with better disease-free survival and overall survival , particularly in ER- and/or PR-positive and HER2-negative tumors ( luminal A subtype ) .
+Functionally , knockdown of ERRF in two ER-positive breast cancer cell lines , T-47D and MDA-MB-361 , suppressed cell growth in vitro and tumorigenesis in xenograft models .
+These results suggest that ERRF plays a role in estrogen-ER-mediated growth of breast cancer cells and could , thus , be a potential therapeutic target .

@@ -1,0 +1,8 @@
+The epithelial-mesenchymal transition ( EMT ) is a fundamental process governing morphogenesis in multicellular organisms and has recently been implicated in promoting carcinoma invasion and metastasis .
+Besides their therapeutic effects , accumulating evidences suggest that chemotherapeutic agents also induced EMT and enhanced the malignancy of treated cancer cells ; however , the mechanism(s) still remains unclear .
+Here , we investigated the role of β-catenin signaling in doxorubicin ( Dox)-induced EMT in human gastric cancer cell line BGC-823 .
+We found that the transient treatment of Dox induced EMT and enhanced the in vitro migration ability of cancer cells .
+We also found that β-catenin signaling was activated upon Dox treatment .
+Inhibition of β-catenin by indomethacin ( Indo ) or siRNA suppressed Dox-induced EMT and decreased cancer cell migration ability .
+Our results showed that β-catenin signaling was critical to Dox-induced EMT .
+Indo and other β-catenin inhibitors may have a potential implication in prevention of gastric cancer metastasis .

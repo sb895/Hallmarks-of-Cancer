@@ -1,0 +1,9 @@
+Although the p16(INK4a) and p21Waf1/Cip1 cyclin-dependent kinase ( CDK ) inhibitors are known to play key roles in cellular senescence in vitro , their roles in senescence remain rather poorly understood in vivo .
+This situation is partly due to the possibility of compensatory effect(s) between p16INK4a and p21Waf1/Cip1 or to the upregulation of functionally related CDK inhibitors .
+To directly address the cooperative roles of p16INK4a and p21Waf1/Cip1 in senescence in vivo , we generated a mouse line simply lacking both p16INK4a and p21Waf1/Cip1 genes [ double-knockout ( DKO) ] .
+Mouse embryonic fibroblasts ( MEF ) derived from DKO mice displayed no evidence of cellular senescence when cultured serially in vitro .
+Moreover , DKO MEFs readily escaped Ras-induced senescence and overrode contact inhibition in culture .
+This was not the case in MEFs lacking either p16INK4a or p21Waf1/Cip1 , indicating that p16(INK4a) and p21Waf1/Cip1 play cooperative roles in cellular senescence and contact inhibition in vitro .
+Notably , we found the DKO mice to be extremely susceptible to 7,12-dimethylbenz(a)anthracene/12-O-tetradecanoylphorbol-13-acetate-induced skin carcinogenesis that involves oncogenic mutation of the H-ras gene .
+Mechanistic investigations suggested that the high incidence of cancer in DKO mice likely reflected a cooperative effect of increased benign skin tumor formation caused by p21Waf1/Cip1 loss , with increased malignant conversion of benign skin tumors caused by p16(INK4a) loss .
+Our findings establish an intrinsic cooperation between p16INK4a and p21Waf1/Cip1 in the onset of cellular senescence and tumor suppression in vivo .

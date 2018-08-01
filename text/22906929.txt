@@ -1,0 +1,12 @@
+The hedgehog signaling pathway is important in embryogenesis and post natal development .
+Constitutive activation of the pathway due to mutation of pathway components occurs in of medulloblastomas and also in basal cell carcinomas .
+In many other malignancies the therapeutic role for hedgehog inhibition though intriguing , based on preclinical data , is far from assured .
+Hedgehog inhibition is not an established part of the treatment paradigm of sarcoma but the scientific rationale for a possible benefit is compelling .
+In chondrosarcoma there is evidence of hedgehog pathway activation and an ontologic comparison between growth plate chondrocyte differentiation and different chondrosarcoma subtypes .
+Immunostaining epiphyseal growth plate for Indian hedgehog is particularly positive in the zone of pre-hypertrophic chondrocytes which correlates ontologically with conventional chondrosarcoma .
+In Ewing sarcoma/PNET tumors the Gli1 transcription factor is a direct target of the EWS-FLI1 oncoprotein present in 85% of cases .
+In many cases of rhabdomyosarcomas there is increased expression of Gli1 ( Ragazzini et al. , 2004 ) .
+Additionally , a third of embryonal rhabdomyosarcomas have loss of Chr.9q22 that encompasses the patched locus ( Bridge et al. , 2000 ) .
+The potential to treat osteosarcoma by inhibition of Gli2 and the role of the pathway in ovarian fibromas and other connective tissue tumors is also discussed ( Nagao et al. , 2011 ; Hirotsu et al. , 2010 ) .
+Emergence of acquired secondary resistance to targeted therapeutics is an important issue that is also relevant to hedgehog inhibition .
+In this context secondary resistance of medulloblastomas to treatment with a smoothened antagonist in two tumor mouse models is examined .

@@ -1,0 +1,7 @@
+It is well established that angiogenesis is the process of formation of new capillaries from pre-existing blood vessels .
+It is a complex process , involving both pro- and anti-angiogenic factors , and plays a significant role in physiological and pathophysiological processes such as embryonic development , atherosclerosis , post-ischemic vascularization of the myocardium , tumor growth and metastasis , rheumatoid arthritis etc .
+This is the first report of zinc oxide ( ZnO ) nanoflowers that show significant pro-angiogenic properties ( formation of new capillaries from pre-existing blood vessels ) , observed by in vitro and in vivo angiogenesis assays .
+The egg yolk angiogenesis assay using ZnO nanoflowers indicates the presence of matured blood vessels formation .
+Additionally , it helps to promote endothelial cell ( EA.hy926 cells ) migration in wound healing assays .
+Formation of reactive oxygen species ( ROS ) , especially hydrogen peroxide ( H(2)O(2))-a redox signaling molecule , might be the plausible mechanism for nanoflower-based angiogenesis .
+Angiogenesis by nanoflowers may provide the basis for the future development of new alternative therapeutic treatment strategies for cardiovascular and ischemic diseases , where angiogenesis plays a significant role .

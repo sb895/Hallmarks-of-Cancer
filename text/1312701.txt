@@ -1,0 +1,8 @@
+The oncogenic potential of a human papillomavirus type 16 ( HPV16 ) variant cloned from normal human cervical keratinocytes has been tested in vitro using primary rodent epithelial cells and human cervical keratinocytes .
+The HPV16 variant was able to extend the lifespan of , but failed to immortalize , human keratinocytes .
+It could however cooperate with an activated ras oncogene to transform primary rodent cells .
+Radioimmunoprecipitation assays of the rodent cells showed that they expressed the E7 protein .
+DNA sequence analysis of the URR/E6/E7 and E5 regions of the HPV16 showed them to be fully functional , but a deletion in the viral E2 open reading frame was detected .
+This truncated E2 only weakly stimulated transcription of the viral regulatory region .
+Complementation assays using the HPV16 variant and a full-length E2 enabled the cloned variant to immortalize human cervical keratinocytes with wild-type efficiency .
+These results suggest that other viral gene products in addition to E6/E7 may play an important role in the in vitro immortalization of cervical keratinocytes in HPV16 and the development of cervical cancer .

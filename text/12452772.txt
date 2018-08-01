@@ -1,0 +1,9 @@
+The influence of radiation-induced apoptosis on radiosensitivity was studied in a set of closely related human lymphoblastoid cell lines differing in TP53 status .
+The clonogenic survival of irradiated TK6 cells ( expressing wild-type TP53 ) , WTK1 cells ( overexpressing mutant TP53 ) , and TK6E6 cells ( negative for TP53 owing to transfection with HPV16 E6 ) was assessed in relation to the induction of apoptosis and its suppression by caspase inhibition or treatment with PMA as well as after treatment with caffeine .
+Measurements using the alkaline comet assay and pulsed-field electrophoresis of the induction and repair of DNA strand breaks showed similar kinetics of the processing of early DNA damage in these cell lines .
+The cytochalasin B micronucleus assay revealed identical levels of residual damage in the first postirradiation mitosis of these cells .
+Abrogation of TP53-dependent apoptosis in TK6E6 cells resulted in a distinct increase in radioresistance .
+Further suppression of apoptosis as observed in WTK1 cells overexpressing mutant TP53 apparently was not responsible for the high radioresistance of WTK1 cells , since other means of highly efficient suppression of apoptosis ( caspase inhibition or PMA treatment ) increased the clonogenic survival of irradiated TK6 cells only to levels similar to those of TK6E6 cells with abrogated TP53-dependent apoptosis .
+Considering the similar levels of residual chromosomal damage in TK6E6 cells and WTK1 cells , a hitherto unknown mechanism of tolerance needs to be inferred for these TP53 mutant cells .
+This residual damage tolerance , however , appears to require an intact G2/M-phase checkpoint function since the relative radioresistance of the WTK1 cells was completely lost upon caffeine treatment , which also resulted in a failure of the TK6 and TK6E6 cells to execute apoptosis .
+In this situation , the cellular response seems to be dominated entirely by TP53-independent mitotic failure .

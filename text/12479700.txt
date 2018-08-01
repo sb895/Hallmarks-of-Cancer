@@ -1,0 +1,15 @@
+A number of cancer chemotherapeutic drugs designed to have cytotoxic actions on tumor cells have recently been shown to also have antiangiogenic activities .
+Endothelial cell migration and proliferation are key components of tumor angiogenesis , and agents that target the microtubule cytoskeleton can interfere with these processes .
+In this study , the effect on endothelial cell functions of the microtubule-stabilizing drugs Taxotere and Taxol were evaluated in three in vitro assays : a chemokinetic migration assay , an angiogenesis factor-mediated chemotactic migration assay , and a three-dimensional Matrigel tubule formation assay , using rat fat pad endothelial cells ( RFPECs ) and/or human umbilical vein endothelial cells ( HUVECs ) .
+Taxotere was active in all three assays at concentrations that were not cytotoxic and did not inhibit endothelial cell proliferation .
+In the RFPEC chemokinetic migration and in vitro tubule formation assays , the IC50 values were approximately 10(-9) M for both Taxotere and Taxol .
+HUVEC migration , however , was more sensitive to Taxotere , with an observed IC50 of 10(-12) M in a chemokinetic assay .
+In a Boyden chamber assay , HUVEC chemotaxis stimulated by either of two angiogenic factors , thymidine phosphorylase or vascular endothelial growth factor , was inhibited by Taxotere with an IC50 of 10(-11) M and was ablated at 10(-9) M. Taxotere was also up to 1000-fold more potent than Taxol in inhibiting either chemokinetic or chemotactic migration .
+When the microtubule cytoskeleton was visualized using immunofluorescence staining of alpha-tubulin , there were no gross morphological changes observed in HUVECs or RFPECs treated with Taxotere at concentrations that inhibited endothelial cell migration but not proliferation .
+The effects of Taxotere on migration were associated with a reduction in the reorientation of the cell's centrosome , at concentrations that did not affect gross microtubule morphology or proliferation .
+Reorientation of the centrosome , which acts as the microtubule organizing center , in the intended direction of movement is a critical early step in the stabilization of directed cell migration .
+These data indicate that endothelial cell migration correlates more closely with changes in microtubule plasticity than with microtubule gross structure .
+The antiangiogenic activity of Taxotere in vivo was assessed in a Matrigel plug assay .
+In this assay , the angiogenic response to fibroblast growth factor 2 was inhibited in vivo by Taxotere with an ID50 of 5.4 mg/kg when injected twice weekly over a 14-day period , and angiogenesis was completely blocked in mice that received 10 mg/kg Taxotere .
+The in vivo data further suggested that Taxotere had selectivity for endothelial cell migration and/or microvessel formation because infiltration of inflammatory cells into the Matrigel plug was much less sensitive to inhibition by Taxotere .
+In conclusion , Taxotere is a potent and potentially specific inhibitor of endothelial cell migration in vitro and angiogenesis in vitro and in vivo .

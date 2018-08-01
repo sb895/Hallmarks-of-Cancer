@@ -1,0 +1,8 @@
+Urokinase plasminogen activator receptor ( uPAR ) activates alpha5beta1 integrin and ERK signaling , inducing in vivo proliferation of HEp3 human carcinoma .
+Here we demonstrate that EGFR mediates the uPAR/integrin/fibronectin ( FN ) induced growth pathway .
+Its activation is ligand-independent and does not require high EGFR , but does require high uPAR expression .
+Only when uPAR level is constitutively elevated does EGFR become alpha5beta1-associated and activated .
+Domain 1 of uPAR is crucial for EGFR activation , and FAK links integrin and EGFR signaling .
+Inhibition of EGFR kinase blocks uPAR induced signal to ERK , implicating EGFR as an important effector of the pathway .
+Disruption of uPAR or EGFR signaling reduces HEp3 proliferation in vivo .
+These findings unveil a mechanism whereby uPAR subverts ligand-regulated EGFR signaling , providing cancer cells with proliferative advantage .

@@ -1,0 +1,8 @@
+Histone deacetylase inhibitors induce cell cycle arrest and apoptosis in tumor cells and are , therefore , promising anti-cancer drugs .
+The cyclin-dependent kinase inhibitor p21 is activated in histone deacetylase ( HDAC ) inhibitor-treated tumor cells , and its growth-inhibitory function contributes to the anti-tumorigenic effect of HDAC inhibitors .
+We show here that induction of p21 by trichostatin A involves MAP kinase signaling .
+Activation of the MAP kinase signaling pathway by growth factors or stress signals results in histone H3 serine 10 phosphorylation at the p21 promoter and is crucial for acetylation of the neighboring lysine 14 and recruitment of activated RNA polymerase II in response to trichostatin A treatment .
+In non-induced cells , the protein phosphatase PP2A is associated with the p21 gene and counteracts its activation .
+Induction of p21 is linked to simultaneous acetylation and phosphorylation of histone H3 .
+The dual modification mark H3S10phK14ac at the activated p21 promoter is recognized by the phospho-binding protein 14-3-3ζ , which protects the phosphoacetylation mark from being processed by PP2A .
+Taken together we have revealed a cross-talk of reversible phosphorylation and acetylation signals that controls the activation of p21 by HDAC inhibitors and identify the phosphatase PP2A as chromatin-associated transcriptional repressor in mammalian cells .

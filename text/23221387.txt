@@ -1,0 +1,8 @@
+The glutathione peroxidases , a family of selenocysteine-containing redox enzymes , play pivotal roles in balancing the signaling , immunomodulatory , and deleterious effects of reactive oxygen species ( ROS ) .
+The glutathione peroxidase GPX3 is the only extracellular member of this family , suggesting it may defend cells against ROS in the extracellular environment .
+Notably , GPX3 hypermethylation and underexpression occur commonly in prostate , gastric , cervical , thyroid , and colon cancers .
+We took a reverse genetics approach to investigate whether GPX3 would augment inflammatory colonic tumorigenesis , a process characterized by oxidative stress and inflammation , comparing Gpx3(-/-) mice in an established two-stage model of inflammatory colon carcinogenesis .
+Gpx3-deficient mice exhibited an increased tumor number , though not size , along with a higher degree of dysplasia .
+In addition , they exhibited increased inflammation with redistribution toward protumorigenic M2 macrophage subsets , increased proliferation , hyperactive WNT signaling , and increased DNA damage .
+To determine the impact of acute gene loss in an established colon cancer line , we silenced GPX3 in human Caco2 cells , resulting in increased ROS production , DNA damage and apoptosis in response to oxidative stress , combined with decreased contact-independent growth .
+Taken together , our results suggested an immunomodulatory role for GPX3 that limits the development of colitis-associated carcinoma .

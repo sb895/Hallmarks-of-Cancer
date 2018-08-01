@@ -1,0 +1,10 @@
+Glioma tumors are refractory to conventional treatment .
+Glioblastoma multiforme is the most aggressive type of primary brain tumors in humans .
+In this study , we introduce oxidative stress-energy depletion ( OSED ) therapy as a new suggested treatment for glioblastoma .
+OSED utilizes D-amino acid oxidase ( DAO ) , which is a promising therapeutic protein that induces oxidative stress and apoptosis through generating hydrogen peroxide ( H2O2 ) .
+OSED combines DAO with 3-bromopyruvate ( 3BP ) , a hexokinase II ( HK II ) inhibitor that interferes with Warburg effect , a metabolic alteration of most tumor cells that is characterized by enhanced aerobic glycolysis .
+Our data revealed that 3BP induced depletion of energetic capabilities of glioma cells. 3BP induced H2O2 production as a novel mechanism of its action .
+C6 glioma transfected with DAO and treated with D-serine together with 3BP-sensitized glioma cells to 3BP and decreased markedly proliferation , clonogenic power and viability in a three-dimensional tumor model with lesser effect on normal astrocytes .
+DAO gene therapy using atelocollagen as an in vivo transfection agent proved effective in a glioma tumor model in Sprague-Dawley ( SD ) rats , especially after combination with 3BP .
+OSED treatment was safe and tolerable in SD rats .
+OSED therapy may be a promising therapeutic modality for glioma .

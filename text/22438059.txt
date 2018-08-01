@@ -1,0 +1,13 @@
+Cell adhesion molecule 1 ( CADM1 ) , expressed by human lung mast cells ( HLMCs ) , mediates their adhesion to airway smooth muscle ( ASM ) , and contributes to ASM-dependent HLMC proliferation and survival .
+CADM1 is expressed in alternatively spliced isoforms , but those present in HLMCs and their function are not known .
+We cloned three functional and one cryptic non-functional isoform with alternative splicing between exons 7/11 and 1/2 , respectively , from HLMCs and human MC lines ( HMC-1 and LAD2 ) .
+Differentiated HLMCs and LAD2 cells expressed the functional isoform SP4 containing exons 7/8/11 ( of clones ) , as well as SP1 ( exons 7/8/9/11 ) and a novel SP6 ( exons 7/8/9/10/11 ) .
+In contrast , immature HMC-1 cells expressed only functional SP4 .
+SP4 overexpression in HMC-1 cells and HLMCs augmented homotypic adhesion to a greater extent than SP1 in various conditions .
+In contrast , CADM1 downregulation abolished homotypic adhesion , indicating that CADM1 is the sole receptor mediating mast cell aggregation .
+CADM1-mediated adhesion was enhanced by the presence of cell survival factors .
+SP1 overexpression in HMC-1 cells compromised survival compared to SP4 overexpression or control .
+CADM1 downregulation resulted in reduced viability and decreased expression of the pro-survival protein Mcl-1(L) , but not Blc-2 or Bcl-X(L) , and increased caspase-3/7 activity in both HMC-1 cells and HLMCs .
+This coincided with decreased basal Kit levels in HLMCs .
+In summary , human MCs express multiple CADM1 isoforms which exhibit differential regulation of survival and homotypic adhesion .
+The most highly expressed SP4 isoform is likely to contribute to MC aggregation and longevity in mastocytosis , and augment the pathophysiology of allergic diseases .

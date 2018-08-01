@@ -1,0 +1,15 @@
+AIM To develop a simple , fast and inexpensive approach as well as an instrument for detection of gene mutation .
+METHODS Pyrosequencing based on bioluminometry assay was employed to detect gene mutation .
+Pyrosequencing is a method of sequencing by synthesis step-by-step using four enzymes , DNA-polymerase , ATP sulfurylase , luciferase and apyrase .
+The signal was produced by detecting pyrophosphate released during a dNTP incorporation .
+For mutation detection , a DNA fragment was amplified by PCR at first , followed by a single-stranded DNA preparation .
+In the second step , a short primer was annealed to the position just before the mutation point .
+Finally , specific dNTPs were added in terms of the template sequence .
+The mutation species can be readily determined by the sequence .
+RESULTS A new instrument was developed for gene mutation detection by pyrosequencing .
+To iteratively inject small amount of each dNTP for the sequencing reaction , capillaries were used to connect dNTP reservoirs and the reaction chamber .
+Each dNTP was delivered by adding a gas pressure on the top of a corresponding dNTP reservoir , by which 0.2 microL of dNTP can be exactly added each time .
+It was theoretically proved that undesired liquid seep through the capillary did not affect the sequencing reactions in pyrosequencing .
+In addition , the three possible variants ( wildtype , mutant and heterozygote ) of a mutant point Cys275Ser in P53 gene exon 8 were determined by pyrosequencing using the instrument .
+A simple method was also described for rapidly distinguishing the type of a variant .
+CONCLUSION The developed method is very simple , and the corresponding instrument is inexpensive and easy to operate , which can be used to detect many types of mutation .

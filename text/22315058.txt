@@ -1,0 +1,9 @@
+BACKGROUND Epithelial mesenchymal transition ( EMT ) is known to be associated with chemoresistance as well as increased invasion/metastasis .
+However , the relationship between EMT and resistance to an epidermal growth factor receptor ( EGFR ) -targeting drug in head and neck squamous cell carcinoma ( HNSCC ) remains unknown .
+In this study , we investigated the acquisition of EMT by gefitinib in HNSCC cell line ( UMSCC81B ) .
+METHODS We isolated fibroblastoid variant ( 81B-Fb ) from gefitinib-resistant UMSCC81B-GR3 cells obtained after increasing the doses of gefitinib treatment in vitro and examined EMT and its underlying mechanism .
+RESULT 81B-Fb cells exhibited fibroblast-like morphology , increased motility , loss of E-cadherin , acquisition of vimentin and snail expression .
+In 81B-Fb cells , downregulation of EGFR , which is mediated by increased ubiquitination , and activation of downstream protein kinase B ( Akt ) , glycogen synthase kinase-beta ( GSK-3β ) signalling and upregulation of snail expression were observed compared with UMSCC81B cells .
+LY294002 , but not U0126 , suppressed foetal bovine serum or heregulin-β1-induced phosphorylation of Akt/GSK-3β and snail expression together with the inhibition of 81B-Fb cell motility .
+Furthermore , forced expression of EGFR resulted in partial restoration of gefitinib sensitivity and reversal of EMT .
+CONCLUSION These results suggest that EMT in the gefitinib-resistant cells is mediated by the downregulation of EGFR and compensatory activation of Akt/GSK-3β/snail pathway .

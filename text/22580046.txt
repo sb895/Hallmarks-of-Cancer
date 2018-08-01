@@ -1,0 +1,11 @@
+Oxidative stress is the main etiological factor behind the pathogenesis of various diseases including inflammation , cancer , cardiovascular and neurodegenerative disorders .
+Due to the spin trapping abilities and various pharmacological properties of nitrones , their application as therapeutic agent has been gaining attention .
+Though the antioxidant properties of the nitrones are well known , the mechanism by which they modulate the cellular defense machinery against oxidative stress is not well investigated and requires further elucidation .
+Here , we have investigated the mechanisms of cytoprotection of the nitrone spin traps against oxidative stress in bovine aortic endothelial cells ( BAEC ) .
+Cytoprotective properties of both the cyclic nitrone 5,5-dimethyl-pyrroline N-oxide ( DMPO ) and linear nitrone α-phenyl N-tert-butyl nitrone ( PBN ) against H₂O₂-induced cytotoxicity were investigated .
+Preincubation of BAEC with PBN or DMPO resulted in the inhibition of H₂O₂-mediated cytotoxicity and apoptosis .
+Nitrone-treatment resulted in the induction and restoration of phase II antioxidant enzymes via nuclear translocation of NF-E2-related factor 2 ( Nrf-2 ) in oxidatively-challenged cells .
+Furthermore , the nitrones were found to inhibit the mitochondrial depolarization and subsequent activation of caspase-3 induced by H₂O₂ .
+Significant down-regulation of the pro-apoptotic proteins p53 and Bax , and up-regulation of the anti-apoptotic proteins Bcl-2 and p-Bad were observed when the cells were preincubated with the nitrones prior to H₂O₂-treatment .
+It was also observed that Nrf-2 silencing completely abolished the protective effects of nitrones .
+Hence , these findings suggest that nitrones confer protection to the endothelial cells against oxidative stress by modulating phase II antioxidant enzymes and subsequently inhibiting mitochondria-dependent apoptotic cascade .

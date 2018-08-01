@@ -1,0 +1,7 @@
+The triterpenoid fraction ( 100 and 200 mg/kg ) of the fruit bodies of Ganoderma lucidum inhibited primary solid-tumor growth in the spleen , liver metastasis and secondary metastatic tumor growth in the liver in intrasplenic Lewis lung carcinoma ( LLC)-implanted mice .
+In addition , the triterpenoid fraction ( 800 micrograms/mL ) inhibited angiogenesis induced by Matrigel ( a soluble basement membrane extract of the Engelbreth-Holm-Swam ( EHS ) tumor ) supplemented with vascular endothelial growth factor ( VEGF ) and heparin in an in vivo model .
+This suggested that the antitumor and antimetastatic activities of the triterpenoid fraction of G. lucidum might be due to the inhibition of tumor-induced angiogenesis .
+Next , we attempted to isolate the active substance(s) using the in vivo assay system of Matrigel-induced angiogenesis .
+The acidic fraction of the triterpenoid fraction inhibited the Matrigel-induced angiogenesis .
+Compound I was isolated from the acidic fraction as an active substance that inhibited the Martigel-induced angiogenesis .
+Compound I was identified as ganoderic acid F based on the data of IR , 1H- and 13C-NMR and MS analyses .

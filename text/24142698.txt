@@ -1,0 +1,7 @@
+Pyruvate kinase M2 ( PKM2 ) is a key player in the Warburg effect of cancer cells .
+However , the mechanisms of regulating PKM2 are not fully elucidated .
+Here , we identified the protein-serine/threonine kinase PIM2 , a known oncogene , as a novel binding partner of PKM2 .
+The interaction between PIM2 and PKM2 was confirmed by multiple biochemical approaches in vitro and in cultured cells .
+Importantly , we found that PIM2 could directly phosphorylate PKM2 on the Thr-454 residue , resulting in an increase of PKM2 protein levels .
+Compared with wild type , PKM2 with the phosphorylation-defective mutation displayed a reduced effect on glycolysis , co-activating HIF-1\u03b1 and \u03b2-catenin , and cell proliferation , while enhancing mitochondrial respiration of cancer cells .
+These findings demonstrate that PIM2-dependent phosphorylation of PKM2 is critical for regulating the Warburg effect in cancer , highlighting PIM2 as a potential therapeutic target .

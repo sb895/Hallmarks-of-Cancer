@@ -1,0 +1,8 @@
+Pathological features of amyotrophic lateral sclerosis ( ALS ) include , in addition to selective motor neuron ( MN ) degeneration , the occurrence of protein aggregates , mitochondrial dysfunction and astrogliosis .
+SOD1 mutations cause rare familial forms of ALS and have provided the most widely studied animal models .
+Relatively recent studies implicating another protein , TDP-43 , in familial and sporadic forms of ALS have led to the development of new animal models .
+More recently , mutations in the valosin-containing protein ( VCP ) gene linked to the human genetic disease , Inclusion Body Myopathy associated with Paget's disease of bone and frontotemporal dementia ( IBMPFD ) , were found also to be associated with ALS in some patients .
+A heterozygous knock-in VCP mouse model of IBMPFD ( VCP(R155H/+) ) exhibited muscle , bone and brain pathology characteristic of the human disease .
+We have undertaken studies of spinal cord pathology in VCP(R155H/+) mice and find age-dependent degeneration of ventral horn MNs , TDP-43-positive cytosolic inclusions , mitochondrial aggregation and progressive astrogliosis .
+Aged animals ( months ) show electromyography evidence of denervation consistent with the observed MN loss .
+Although these animals do not develop rapidly progressive fatal ALS-like disease during their lifespans , they recapitulate key pathological features of both human disease and other animal models of ALS , and may provide a valuable new model for studying events preceding onset of catastrophic disease .

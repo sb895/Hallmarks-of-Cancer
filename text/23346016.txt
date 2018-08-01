@@ -1,0 +1,10 @@
+The purpose of the study was to evaluate Sorafenib ( BAY 43-9006 ) derived receptor tyrosine kinase inhibition on tumor progression in murine islet cell tumors .
+Sorafenib is considered to be a potent inhibitor of tumor angiogenesis and neovascularization in various solid tumors .
+Rip1Tag2 mice were treated in two different groups according to the model of tumor progression : the early treatment group received vehicle or Sorafenib from 10 to 14 weeks of age and the late treatment group from week 12 until death .
+Tumor surface , tumor cell proliferation , and apoptosis were measured in both treatment groups to assess the in vivo effects of Sorafenib .
+Survival was recorded for the late treatment group .
+In the early treatment group Sorafenib led to a dramatic decrease in tumor volume compared to the control group .
+Apoptosis was significantly augmented and cell proliferation was inhibited .
+As a single therapy Sorafenib significantly improved survival in the late treatment group .
+Conclusion .
+Sorafenib may provide a new paradigm for the therapy of islet cell tumors .

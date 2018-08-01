@@ -1,0 +1,11 @@
+Primary fibroblasts respond to activated H-RAS(V12) by undergoing premature arrest , which resembles replicative senescence .
+This irreversible ' fail-safe mechanism ' requires p19(ARF) , p53 and the Retinoblastoma ( Rb ) family : upon their disruption , RAS(V12)-expressing cells fail to undergo senescence and continue to proliferate .
+Similarly , co-expression of oncogenes such as c-MYC or E1A rescues RAS(V12)-induced senescence .
+To identify novel genes that allow escape from RAS(V12)-induced senescence , we designed an unbiased , retroviral complementary DNA library screen .
+We report on the identification of DRIL1 , the human orthologue of the mouse Bright and Drosophila dead ringer transcriptional regulators .
+DRIL1 renders primary murine fibroblasts unresponsive to RAS(V12)-induced anti-proliferative signalling by p19(ARF)/p53/p21(CIP1) , as well as by p16(INK4a) .
+In this way , DRIL1 not only rescues RAS(V12)-induced senescence but also causes these fibroblasts to become highly oncogenic .
+Furthermore , DRIL1 immortalizes mouse fibroblasts , in the presence of high levels of p16(INK4a) .
+Immortalization by DRIL1 , whose product binds the pRB-controlled transcription factor E2F1 ( ref. 8 ) , is correlated with induction of E2F1 activity .
+Correspondingly , DRIL1 induces the E2F1 target Cyclin E1 , overexpression of which is sufficient to trigger escape from senescence .
+Thus , DRIL1 disrupts cellular protection against RAS(V12)-induced proliferation downstream of the p19(ARF)/p53 pathway .

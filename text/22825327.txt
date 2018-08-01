@@ -1,0 +1,11 @@
+Gadd45a , the first well-defined p53 downstream gene , can be induced by multiple DNA-damaging agents , which plays important roles in the control of cell cycle checkpoint , DNA repair process and signaling transduction .
+Our previous findings suggested that Gadd45a maintains cell-cell adhesion and cell contact inhibition .
+However , little is known about how Gadd45a participates in the suppression of malignancy in human cancer cells .
+To examine the functions of Gadd45a in cell invasion and metastasis , we performed the adhesion , wound-healing and transwell assays in Gadd45a ( +/+ ) and Gadd45a ( -/- ) MEF cell lines .
+We found the adhesion , migration and invasive abilities were much higher in Gadd45a deficient cells .
+We furthermore applied high-throughput cDNA microarray analysis and bioinformatics analysis to analyze the mechanisms of Gadd45a gene in invasion and metastasis .
+Compared with the Gadd45a wild type cells , the Gadd45a deficient cells showed a wide range of transcripts alterations .
+The altered gene pathways were predicted by the MAS software , which indicated focal adhesion,cell communication,ECM-receptor interaction as the three main pathways .
+Real-time PCR was employed to validate the differentially expressed genes .
+Interestingly , we figured out that the deregulations of these genes are caused neither by genomic aberrations nor methylation status .
+These findings provided a novel insight that Gadd45a may involve in tumor progression by regulating related genes expressions .

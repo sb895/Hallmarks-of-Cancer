@@ -1,0 +1,10 @@
+Depression is the most common psychiatric syndrome in cancer patients and adversely affects anti-cancer immune system and life quality of patients .
+Antidepressant desipramine ( DMI ) is clinically prescribed in the auxiliary treatment of cancer patients .
+Increasing evidences suggest that DMI has a broad spectrum of target-off biological effects , such as anticancer properties .
+Our previous study revealed that DMI at the clinical relevant concentrations could induce CHOP-dependent apoptotic death in C6 glioma cells .
+In this study , we further explored the pro-autophagic effect of DMI in C6 glioma cells and its underlying mechanism .
+Treatment with DMI could induce autophagic cell death characterized by the formation of autophagosome and the elevated level of autophagic protein Beclin-1 and cellular redistribution of marker LC3 .
+Meanwhile , DMI inhibited the activation of PI3K-AKT-mTOR pathway which is considered as a negative regulator of autophagy .
+Furthermore , DMI activated PERK-eIF2α and ATF6 of endoplasmic reticulum ( ER ) stress pathway , while knockdown of PERK with the PERK-specific short interfering RNA ( siRNA ) could obviously attenuate the autophagy .
+The results strongly suggested that DMI could induce autophagy through the PERK-ER stress pathway in C6 glioma cells .
+Our findings provided new insights into another beneficial potential of antidepressant DMI in the adjuvant therapy of cancer .

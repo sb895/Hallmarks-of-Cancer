@@ -1,0 +1,7 @@
+Gliomas are the most common tumors in the central nervous system , the average survival time of patients with glioblastoma multiforme being about 1 year from diagnosis , in spite of harsh therapy .
+Aiming to study the transcriptional profiles displayed by glioma cells undergoing cisplatin treatment , gene expression analysis was performed by the cDNA microarray method .
+Cell survival and apoptosis induction following treatment were also evaluated .
+Drug concentrations of 12.5 to 300 μM caused a pronounced reduction in cell survival rates five days after treatment , whereas concentrations higher than 25 μM were effective in reducing the survival rates to However , the maximum apoptosis frequency was 20.4% for 25 μM cisplatin in cells analyzed at 72 h , indicating that apoptosis is not the only kind of cell death induced by cisplatin .
+An analysis of gene expression revealed 67 significantly ( FDR < 0.05 ) modulated genes : 29 of which down- and 38 up-regulated .
+These genes belong to several classes ( metabolism , protein localization , cell proliferation , apoptosis , adhesion , stress response , cell cycle and DNA repair ) that may represent several affected cell processes under the influence of cisplatin treatment .
+The expression pattern of three genes ( RHOA , LIMK2 and TIMP2 ) was confirmed by the real time PCR method .

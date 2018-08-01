@@ -1,0 +1,6 @@
+Bimolecular reactions in Earth's atmosphere are generally assumed to proceed between reactants whose internal quantum states are fully thermally relaxed .
+Here , we highlight a dramatic role for vibrationally excited bimolecular reactants in the oxidation of acetylene .
+The reaction proceeds by preliminary adduct formation between the alkyne and OH radical , with subsequent O(2) addition .
+Using a detailed theoretical model , we show that the product-branching ratio is determined by the excited vibrational quantum-state distribution of the adduct at the moment it reacts with O(2) .
+Experimentally , we found that under the simulated atmospheric conditions O(2) intercepts of the excited adducts before their vibrational quantum states have fully relaxed .
+Analogous interception of excited-state radicals by O(2) is likely common to a range of atmospheric reactions that proceed through peroxy complexes .

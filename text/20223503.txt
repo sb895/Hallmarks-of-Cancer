@@ -1,0 +1,10 @@
+OBJECTIVES To evaluate the impact of the category of unclassified renal cell carcinoma ( URCC ) on survival following nephrectomy .
+METHODS Patients with clear cell RCC ( ccRCC , n = 3048 ) and URCC ( n = 38 ) were identified .
+Patients with URCC were matched 4:1 with ccRCC patients based on year of surgery , symptoms at presentation , tumor size , stage , regional lymph node involvement , metastases , grade , coagulative tumor necrosis , and sarcomatoid differentiation .
+Survival was estimated using the Kaplan-Meier method and compared between ccRCC and URCC patients using log-rank tests .
+RESULTS Patients with URCC were more likely to have regional lymph node involvement ( P <.001 ) , higher grade ( P <.001 ) , tumor necrosis ( P <.001 ) , and sarcomatoid differentiation ( P <.001 ) as compared to patients with ccRCC .
+Overall survival was not significantly different between URCC and ccRCC patients in either the unmatched ( P = .337 ) or matched ( P = .345 ) cohorts .
+Cancer-specific survival was significantly worse for URCC patients compared with unmatched ccRCC patients ( P = .020 ) .
+However , this difference was not statistically significant when the URCC patients were compared with the matched cohort ( P = .688 ) .
+Distant metastases-free survival was somewhat worse for M0 URCC patients compared with unmatched M0 ccRCC patients ( P = .063 ) , but not in the matched cohort ( P = .788 ) .
+CONCLUSIONS Although URCC is more likely to present with advanced clinicopathologic features compared with ccRCC , no statistically significant differences in outcome were noted after adjusting for these features in a matched analysis .

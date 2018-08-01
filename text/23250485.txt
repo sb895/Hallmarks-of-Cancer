@@ -1,0 +1,7 @@
+Androgens regulate both the physiological development of the prostate and the pathology of prostatic diseases .
+However , the mechanisms by which androgens exert their regulatory activities on these processes are poorly understood .
+In this study , we have determined that androgens regulate overall cell metabolism and cell growth , in part , by increasing autophagy in prostate cancer cells .
+Importantly , inhibition of autophagy using either pharmacological or molecular inhibitors significantly abrogated androgen-induced prostate cancer cell growth .
+Mechanistically , androgen-mediated autophagy appears to promote cell growth by augmenting intracellular lipid accumulation , an effect previously demonstrated to be necessary for prostate cancer cell growth .
+Further , autophagy and subsequent cell growth is potentiated , in part , by androgen-mediated increases in reactive oxygen species .
+These findings demonstrate a role for increased fat metabolism and autophagy in prostatic neoplasias and highlight the potential of targeting underexplored metabolic pathways for the development of novel therapeutics .

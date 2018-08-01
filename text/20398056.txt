@@ -1,0 +1,12 @@
+Obesity and related metabolic abnormalities are risk factors for colorectal cancer .
+A state of chronic inflammation and adipocytokine imbalance may play a role in colorectal carcinogenesis .
+Statins , which are commonly used for the treatment of hyperlipidemia , are known to possess anti-inflammatory effects .
+Statins also exert chemopreventive properties against various cancers .
+The present study examined the effects of pitavastatin , a recently developed lipophilic statin , on the development of azoxymethane ( AOM)-initiated colonic premalignant lesions in C57BL/KsJ-db/db ( db/db ) obese mice .
+Male db/db mice were administrated weekly subcutaneous injections of AOM ( 15 mg/kg body weight ) for 4 weeks and then were subsequently fed a diet containing 1 ppm or 10 ppm pitavastatin for 8 weeks .
+Feeding with either dose of pitavastatin significantly reduced the number of colonic premalignant lesions , beta-catenin accumulated crypts , by inhibiting proliferation and the surrounding inflammation .
+Pitavastatin increased the serum levels of adiponectin while conversely decreasing the serum levels of total cholesterol , tumor necrosis factor-alpha ( TNF-alpha ) , interleukin ( IL)-6 , IL-18 , and leptin .
+Pitavastatin also caused a significant increase in the expression of phosphorylated form of the AMP-activated kinase ( AMPK ) protein on the colonic mucosa of AOM-treated mice .
+In addition , the expression levels of TNF-alpha , IL-6 , IL-18 , and COX-2 mRNAs on the colonic mucosa of AOM-treated mice were decreased by treatment with this agent .
+These findings suggest that pitavastatin attenuates chronic inflammation and improves the imbalance of adipocytokines , both of which are caused by the presence of excess adipose tissues , thereby preventing the development of colonic premalignancies in an obesity-related colon cancer model .
+Therefore , some types of statins , including pitavastatin , may be a useful chemoprevention modality for colon cancer in obese individuals .

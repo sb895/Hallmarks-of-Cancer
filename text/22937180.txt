@@ -1,0 +1,8 @@
+Therapy-induced senescence ( TIS ) , a cytostatic stress response in cancer cells , is induced inefficiently by current anticancer agents and radiation .
+The mechanisms that mediate TIS in cancer cells are not well defined .
+Herein , we characterize a robust senescence response both in vitro and in vivo to the quinone diaziquone ( AZQ ) , previously identified in a high-throughput senescence-induction small-molecule screen .
+Using AZQ and several other agents that induce senescence , we screened a series of cyclin-dependent kinase inhibitors and found that p27(Kip1) was induced in all investigated prostate cancer cell lines .
+The ubiquitin-ligase Skp2 negatively regulates p27(Kip1) and , during TIS , is translocated to the cytoplasm before its expression is decreased in senescent cells .
+Overexpression of Skp2 blocks the effects of AZQ on senescence and p27(Kip1) induction .
+We also find that stable long-term short hairpin RNA knockdown of Skp2 decreases proliferation but does not generate the complete senescence phenotype .
+We conclude that Skp2 participates in regulating TIS but , alone , is insufficient to induce senescence in cancer cells .

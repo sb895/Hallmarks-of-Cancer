@@ -1,0 +1,10 @@
+PURPOSE This study aims to investigate the role of the aberrant expression of Transkelolase-like 1 ( TKTL1 ) in head and neck squamous cell carcinoma ( HNSCC ) tumorigenesis and to characterize TKTL1 contribution to HNSCC tumorigenesis through aerobic glycolysis and HIF1alpha stabilization .
+EXPERIMENTAL DESIGN TKTL1 promoter hypomethylation and mRNA/protein aberrant expression were studied in human HNSCC tumor samples and normal mucosas .
+Oncogenic functions of TKTL1 were examined in HNSCC cell line panels and tumor xenograft models with TKTL1 expression construct .
+The metabolite levels of fructose-6-phosphate , glyceraldehydes-3-phosphate , pyruvate , lactate , and the levels of HIF1alpha protein and its downsteam glycolytic targets were compared between the TKTL1-expressing and vehicle-expressing HNSCC cells .
+Meanwhile , the effects of HIF1alpha/glycolytic inhibitors were evaluated on the TKTL1 transfectants .
+RESULTS TKTL1 exhibits high frequency of promoter hypomethylation in HNSCC tumors compared with the normal mucosas , correlating with its overexpression in HNSCC .
+Overexpression of TKTL1 in HNSCC cells promoted cellular proliferation and enhanced tumor growth in vitro and in vivo .
+Overexpression of TKTL1 increased the production of fructose-6-phosphate and glyceraldehyde-3-phosphate , in turn elevating the production of pyruvate and lactate , resulting in the normoxic stabilization of the malignancy-promoting transcription factor HIF1alpha and the upregulation of downstream glycolytic enzymes .
+Notably , the reduction of TKTL1 expression decreased HIF1alpha accumulation and inhibition with HIF1alpha and/or the glycolysis inhibitor could abrogate the growth effects mediated by TKTL1 overexpression .
+CONCLUSION TKTL1 is a novel candidate oncogene that is epigenetically activated by aberrant hypomethlation and contributes to a malignant phenotype through altered glycolytic metabolism and HIF1alpha accumulation .

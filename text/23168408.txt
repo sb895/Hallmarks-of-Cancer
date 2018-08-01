@@ -1,0 +1,10 @@
+The vacuolar H+-ATPase ( V-ATPase ) , a multisubunit proton pump , has come into focus as an attractive target in cancer invasion .
+However little is known about the role of V-ATPase in cell death and especially the underlying mechanisms remain mostly unknown .
+We used the myxobacterial macrolide archazolid B , a potent inhibitor of the V-ATPase , as an experimental drug as well as a chemical tool to decipher V-ATPase related cell death signaling .
+We found that archazolid induced apoptosis in highly invasive tumor cells at nanomolar concentrations which was executed by the mitochondrial pathway .
+Prior to apoptosis induction archazolid lead to the activation of a cellular stress response including activation of the hypoxia-inducible factor-1 alpha ( HIF1alpha ) and autophagy .
+Autophagy was induced at low concentrations of archazolid that do not alter pH in lysosomes and was shown by degradation of p62 or fusion of autophagosomes with lysosomes .
+HIF1alpha was induced due to energy stress shown by a decline of the ATP level and followed by a shut down of energy consuming processes .
+As silencing HIF1alpha increases apoptosis , the cellular stress response was suggested to be a survival mechanism .
+We conclude that archazolid leads to energy stress which activates adaptive mechanisms like autophagy mediated by HIF1alpha and finally leads to apoptosis .
+We propose V-ATPase as a promising drugable target in cancer therapy caught up at the interplay of apoptosis , autophagy and cellular/metabolic stress .

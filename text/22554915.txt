@@ -1,0 +1,11 @@
+BACKGROUND Apigenin , a natural plant flavone , may have chemopreventive and therapeutic potentials for anti-inflammatory , antioxidant , and anti-cancer .
+Nevertheless , the anti-tumor effect of apigenin on human head and neck squamous cell carcinoma ( HNSCC ) is not fully understood .
+METHODS The antioxidant capacity and protective effects of apigenin against oxidative stress in murine normal embryonic liver BNLCL2 cells are examined .
+Cell viability , morphologic change , clonogenic survival , cell cycle distribution , reactive oxygen species ( ROS ) production , glutathione formation , and death receptors- and Bcl-2-mediated caspase pathways of HNSCC SCC25 cells and A431 cells with apigenin are investigated .
+RESULTS Apigenin inhibits the growth of SCC25 and A431 cells and induces cell cycle arrest in the G2/M phase .
+Apigenin has an antioxidant capacity as well as the ability to inhibit lipid peroxidation .
+It protects BNLCL2 cells against oxidative damage , and is potentially able to prevent cancer .
+Apigenin increases intracellular ROS levels and reduces levels of glutathione ; it also induces cell apoptosis via tumor necrosis factor receptor ( TNF-R)- , TNF-related apoptosis-inducing ligand receptor ( TRAIL-R)- , and Bcl-2-mediated caspase-dependent cell death pathways in SCC25 cells .
+The combination of apigenin with 5-fluorouracil ( 5-Fu ) or cisplatin induces the dramatic death of SCC25 cells .
+CONCLUSIONS Apigenin induces SCC25 cell apoptosis via the up-regulation of both TNF-R and TRAIL-R signaling pathways , and has a synergistic effect on the inhibition of cell proliferation in combination with 5-Fu or cisplatin .
+GENERAL SIGNIFICANCE These analytical findings suggest that apigenin may be a good therapeutic agent against HNSCC cells .

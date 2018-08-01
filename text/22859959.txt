@@ -1,0 +1,13 @@
+A glycolytic profile unifies a group of pheochromocytomas and paragangliomas ( PHEOs/PGLs ) with distinct underlying gene defects , including von Hippel-Lindau ( VHL ) and succinate dehydrogenase B ( SDHB ) mutations .
+Nevertheless , their tumor aggressiveness is distinct : PHEOs/PGLs metastasize rarely in VHL- , but frequently in SDHB-patients .
+To date , the molecular mechanisms causing the more aggressive phenotype in SDHB-PHEOs/PGLs remain largely unknown .
+Recently , however , an excellent model to study aggressive PHEOs ( mouse tumor tissue ( MTT ) cells ) has been developed from mouse PHEO cells ( MPC ) .
+We employed this model for a proteomics based approach to identify changes characteristic for tumor aggressiveness , which we then explored in a homogeneous set of human SDHB- and VHL-PHEOs/PGLs .
+The increase of glucose transporter 1 in VHL , and of hexokinase 2 in VHL and SDHB , confirmed their glycolytic profile .
+In agreement with the cell model and in support of decoupling of glycolysis , the Krebs cycle and oxidative phosphorylation ( OXPHOS ) , SDHB tumors showed increased lactate dehydrogenase levels .
+In SDHB-PGLs OXPHOS complex activity was increased at complex III and , as expected , decreased at complex II .
+Moreover , protein and mRNA expression of all tested OXPHOS-related genes were higher in SDHB- than in VHL-derived tumors .
+Although there was no direct evidence for increased reactive oxygen species production , elevated superoxide dismutase 2 expression may reflect elevated oxidative stress in SDHB-derived PHEOs/PGLs .
+For the first time , we show that despite dysfunction in complex II and evidence for a glycolytic phenotype , the Warburg effect does not seem to fully apply to SDHB-PHEOs/PGLs with respect to decreased OXPHOS .
+In addition , we present evidence for increased LDHA and SOD2 expression in SDHB-PHEOs/PGLs , proteins that have been proposed as promising therapeutic targets in other cancers .
+This study provides new insight into pathogenic mechanisms in aggressive human PHEOs/PGLs , which may lead to identifying new diagnostic and prognostic markers in the near future .

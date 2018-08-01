@@ -1,0 +1,8 @@
+Lung cancer is the leading cause of cancer-related deaths in the world .
+Achaete-scute complex homolog-1 ( Ascl1 ) is a member of the basic helix-loop-helix ( bHLH ) transcription factor family that has multiple functions in the normal and neoplastic lung such as the regulation of neuroendocrine differentiation , prevention of apoptosis and promotion of tumor-initiating cells .
+We now show that Ascl1 directly regulates matrix metalloproteinase-7 ( MMP-7 ) and O(6)-methylguanine-DNA methyltransferase ( MGMT ) .
+Loss- and gain-of-function experiments in human bronchial epithelial and lung carcinoma cell lines revealed that Ascl1 , MMP-7 and MGMT are able to protect cells from the tobacco-specific nitrosamine NNK-induced DNA damage and the alkylating agent cisplatin-induced apoptosis .
+We also examined the role of Ascl1 in NNK-induced lung tumorigenesis in vivo .
+Using transgenic mice which constitutively expressed human Ascl1 in airway lining cells , we found that there was a delay in lung tumorigenesis .
+We conclude that Ascl1 potentially enhances DNA repair through activation of MMP-7 and MGMT which may impact lung carcinogenesis and chemoresistance .
+The study has uncovered a novel and unexpected function of Ascl1 which will contribute to better understanding of lung carcinogenesis and the broad implications of transcription factors in tobacco-related carcinogenesis .

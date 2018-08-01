@@ -1,0 +1,13 @@
+Carboxypeptidase M ( CPM ) targets the basic amino acids arginine and lysine present at the C-terminus of peptides or proteins .
+CPM is thought to be involved in inflammatory processes .
+This is corroborated by CPM-mediated trimming and modulation of inflammatory factors , and expression of the protease in inflammatory environments .
+Since the function of CPM in and beyond inflammation remains mainly undefined , the identification of natural substrates can aid in discovering the ( patho)physiological role of CPM .
+CCL1/I-309 , with its three C-terminal basic amino acids , forms a potential natural substrate for CPM .
+CCL1 plays a role not only in inflammation but also in apoptosis , angiogenesis and tumor biology .
+Enzymatic processing differently impacts the biological activity of chemokines thereby contributing to the complex regulation of the chemokine system .
+The aim of the present study was to investigate whether ( i ) CCL1/I-309 is prone to trimming by CPM , and ( ii ) the biological activity of CCL1 is altered after C-terminal proteolytic processing .
+CCL1 was identified as a novel substrate for CPM in vitro using mass spectrometry .
+C-terminal clipping of CCL1 augmented intracellular calcium release mediated by CCR8 but reduced the binding of CCL1 to CCR8 .
+In line with the higher intracellular calcium release , a pronounced increase of the anti-apoptotic activity of CCL1 was observed in the BW5147 cellular model .
+CCR8 signaling , CCR8 binding and anti-apoptotic activity were unaffected when CPM was exposed to the carboxypeptidase inhibitor DL-2-mercaptomethyl-3-guanidino-ethylthiopropanoic acid .
+The results of this study suggest that CPM is a likely candidate for the regulation of biological processes relying on the CCL1-CCR8 system .

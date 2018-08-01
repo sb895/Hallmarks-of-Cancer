@@ -1,0 +1,13 @@
+Aberrant expression of mucins is likely associated with cancer biology as alterations in the expression and/or glycosylation patterns of various mucins have been noted .
+Expression of the mucin family in gastric cancers has been reported in numerous studies , but the results are conflicting .
+Therefore , we investigated the potential use of mucin ( MUC)1 and 4 as prognostic markers in gastric cancer according to histological subtype .
+Three-hundred and sixty-five gastric adenocarcinoma patients who underwent surgical resection were selected for this study .
+Among the 365 gastric cancer samples tested here , 34% consisted of early gastric cancer and 66% were advanced .
+In terms of location , 68.7% of the cohort had intestinal-type cancer and 30.7% had diffuse-type .
+We constructed tissue microarrays with formalin-fixed paraffin-embedded blocks of gastric cancer and these micro-arrays were evaluated for phenotypic expression of MUC1/4 using monoclonal antibodies .
+Two-hundred and ninety-two patients ( 92.7% ) were positive for MUC1 and 216 ( 60.5% ) were positive for MUC4 .
+MUC1 expression was not correlated with any other clinicopathological variables such as age , gender , depth of invasion , lymph node metastasis , Lauren classification or recurrence .
+However , loss of MUC4 expression was significantly correlated with recurrence ( p=0.033 ) .
+MUC4 expression was also significantly correlated with better disease-free survival ( p=0.049 ) and particularly in the intestinal-type ( p=0.018 ) .
+Our present findings demonstrated that loss of MUC4 expression can be used as a prognostic marker in gastric cancer .
+Loss of MUC4 expression is a prognostic indicator of increased recurrence and poor disease-free survival in patients with gastric cancer .

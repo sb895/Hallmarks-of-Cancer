@@ -1,0 +1,8 @@
+In fission yeast cells cortical nodes containing the protein Blt1p and several kinases appear early in G2 , mature into cytokinetic nodes by adding anillin Mid1p , myosin-II , formin Cdc12p , and other proteins , and condense into a contractile ring by movements that depend on actin and myosin-II .
+Previous studies concluded that cells without Mid1p lack cytokinetic nodes and assemble rings unreliably from myosin-II strands but left open questions .
+Why do strands form outside the equatorial region ?
+Why is ring assembly unreliable without Mid1p ?
+We found in \u0394mid1 cells that Cdc12p accumulates in cytokinetic nodes scattered in the cortex and produces actin filaments that associate with myosin-II , Rng2p , and Cdc15p to form strands located between the nodes .
+Strands incorporate nodes , and in of cells , strands slowly close into rings that constrict without the normal maturation period .
+Ring assembly is unreliable and slow without Mid1p because the scattered Cdc12p nodes generate strands spread widely beyond the equator , and growing strands depend on random encounters to merge with other strands into a ring .
+We conclude that orderly assembly of the contractile ring in wild-type cells depends on Mid1p to recruit myosin-II , Rng2p , and Cdc15p to nodes and to place cytokinetic nodes around the cell equator .

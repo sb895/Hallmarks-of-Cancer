@@ -1,0 +1,14 @@
+The type I insulin-like growth factor receptor ( IGF1R ) contributes to cancer cell biology .
+Disruption of IGF1R signaling alone or in combination with cytotoxic agents has emerged as a new therapeutic strategy .
+Our laboratory has shown that sequential treatment with doxorubicin ( DOX ) and anti-IGF1R antibodies significantly enhanced the response to chemotherapy .
+In this study , we examined whether inhibition of the tyrosine kinase activity of this receptor family would also enhance chemotherapy response .
+Cis-3-[3-(4-methyl-piperazin-l-yl)-cyclobutyl]-1-(2-phenyl-quinolin-7-yl)-imidazo[1,5-a]pyrazin-8-ylamine ( PQIP ) inhibited IGF1R and insulin receptor ( InsR ) kinase activity and downstream activation of ERK1/2 and Akt in MCF-7 and LCC6 cancer cells .
+PQIP inhibited both monolayer growth and anchorage-independent growth in a dose-dependent manner .
+PQIP did not induce apoptosis , but rather , PQIP treatment was associated with an increase in autophagy .
+We examined whether sequential or combination therapy of PQIP with DOX could enhance growth inhibition .
+PQIP treatment together with DOX or DOX followed by PQIP significantly inhibited anchorage-independent growth in MCF-7 and LCC6 cells compared to single agent alone .
+In contrast , pre-treatment with PQIP followed by DOX did not enhance the cytotoxicity of DOX in vitro .
+Furthermore , OSI-906 , a PQIP derivative , inhibited IGF-I signaling in LCC6 xenograft tumors in vivo .
+When given once a week , simultaneous administration of OSI-906 and DOX significantly enhanced the anti-tumor effect of DOX .
+In summary , these results suggest that timing and duration of the IGF1R/InsR tyrosine kinase inhibitors with chemotherapeutic agents should be evaluated in clinical trials .
+Long-term disruption of IGF1R/InsR may not be necessary when combined with cytotoxic chemotherapy .

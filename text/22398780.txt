@@ -1,0 +1,12 @@
+BACKGROUND Estrogen receptor β ( ERβ ) is the predominant ER in the colorectal epithelium , whose expression is greatly reduced in colorectal cancer compared with normal colon tissue .
+Recent in vitro studies suggested that ERβ may suppress tumor growth .
+No research was reported whether ERβ can be used as therapeutic agent for colon cancer .
+METHODS In this study , ERβ gene constructed into adenoviral ( Ad ) vectors was used to treat colon cancer HCT-116 cells alone or in combination with raloxifene .
+In vitro and in vivo studies were conducted to investigate the therapeutic effects of ERβ and raloxifene in HCT-116 cells .
+RESULTS Our results indicated that , although Ad-ERβ alone had no effect on the proliferation of HCT-116 cells , the combination of Ad-ERβ with raloxifene significantly inhibited the proliferation of HCT-116 cells .
+The apparently apoptotic induction effects may partly explain the cytotoxicity of the two agents .
+The results of the study of ERβ on migration and invasion of HCT-116 cells demonstrated that overexpression of ERβ significantly decreased cell migration and increased invasion of cells .
+The antitumor efficacies of ERβ as well as raloxifene were further investigated on HCT-116 tumor bearing mice .
+Results demonstrated that both Ad-ERβ and raloxifene individually inhibited tumor growth .
+The combination group showed the highest inhibitory efficiency compared with other three groups .
+CONCLUSION These findings demonstrated that combined administration of Ad-ERβ with raloxifene represents a promising colon cancer therapeutic strategy .

@@ -1,0 +1,6 @@
+The HT29 adenocarcinoma is a common model of epithelial cell differentiation and colorectal cancer and its death is an oft-analyzed response to TNF family receptor signaling .
+The death event itself remains poorly characterized and here we have examined the involvement of caspases using pan-caspase inhibitors. zVAD-fmk did not block death of HT29 cells in response to activation of the Fas , TRAIL , TNF , TWEAK and LTbeta receptors .
+The secondary induction of TNF or the other known bona fide death inducing ligands did not account for death following LTbeta receptor activation indicating that TNF family receptors can trigger a caspase-independent death pathway regardless of the presence of canonical death domains in the receptor .
+To provide a frame of reference , the phenotype of HT29 death was compared to four other TNF family receptor triggered death events ; Fas induced Jurkat cell apoptosis , TNF/zVAD induced L929 fibroblast necrosis , TNF induced death of WEHI 164 fibroblastoid cells and TNF/zVAD induced U937 death .
+The death of HT29 and U937 cells under these conditions is an intermediate form with both necrotic and apoptotic features .
+The efficient coupling of TNF receptors to a caspase-independent death event in an epithelial cell suggests an alternative approach to cancer therapy .

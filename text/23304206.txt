@@ -1,0 +1,8 @@
+Retinoic acid ( RA ) has been believed to be an anticancer drug for a long history .
+However , the molecular mechanisms of RA actions on cancer cells remain diverse .
+In this study , the dose-dependent inhibition of RA on DU145 cell proliferation was identified .
+Interestingly , RA treatment triggered p35 cleavage ( p25 formation ) and Cdk5 overactivation , and all could be blocked by Calpain inhibitor , Calpeptin ( CP ) .
+Subsequently , RA-triggered DU145 apoptosis detected by sub-G1 phase accumulation and Annexin V staining could also be blocked by CP treatment .
+Furthermore , RA-triggered caspase 3 activation and following Cdk5 over-activation were destroyed by treatments of both CP and Cdk5 knockdown .
+In conclusion , we report a new mechanism in which RA could cause apoptosis of androgen-independent prostate cancer cells through p35 cleavage and Cdk5 over-activation .
+This finding may contribute to constructing a clearer image of RA function and bring RA as a valuable chemoprevention agent for prostate cancer patients .

@@ -1,0 +1,8 @@
+Stable ectopic expression of Flt3 receptor tyrosine kinase is usually performed in interleukin 3 ( IL-3)-dependent murine cell lines like Ba/F3 , resulting in loss of IL-3 dependence .
+Such high-level Flt3 expression has to date not been reported in human acute myeloid leukemia ( AML ) cell lines , despite the fact that oncogenic Flt3 aberrancies are frequent in AML patients .
+We show here that ectopic Flt3 expression in different human cancer cell lines might reduce proliferation and induce apoptotic cell death , involving Bax/Bcl2 modulation .
+Selective depletion of Flt3-expressing cells occurred in human AML cell lines transduced with retroviral Flt3 constructs , shown here using the HL-60 leukemic cell line .
+Flt3 expression was investigated in two cellular model systems , the SAOS-2 osteosarcoma cell line and the human embryonic kidney HEK293 cell line , and proliferation was reduced in both systems .
+HEK293 cells underwent apoptosis upon ectopic Flt3 expression and cell death could be rescued by overexpression of Bcl-2 .
+Furthermore , we observed that the Flt3-induced inhibition of proliferation in HL-60 cells appeared to be Bax-dependent .
+Our results thus suggest that excessive Flt3 expression has growth-suppressive properties in several human cancer cell lines .

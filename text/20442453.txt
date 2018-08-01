@@ -1,0 +1,9 @@
+Caveolin-1 ( -/- ) null stromal cells are a novel genetic model for cancer-associated fibroblasts and myofibroblasts .
+Here , we used an unbiased informatics analysis of transcriptional gene profiling to show that Cav-1 ( -/- ) bone-marrow derived stromal cells bear a striking resemblance to the activated tumor stroma of human breast cancers .
+More specifically , the transcriptional profiles of Cav-1 ( -/- ) stromal cells were most closely related to the primary tumor stroma of breast cancer patients that had undergone lymph-node ( LN ) metastasis .
+This is consistent with previous morphological data demonstrating that a loss of stromal Cav-1 protein ( by immuno-histochemical staining in the fibroblast compartment ) is significantly associated with increased LN-metastasis .
+We also provide evidence that the tumor stroma of human breast cancers shows a transcriptional shift towards oxidative stress , DNA damage/repair , inflammation , hypoxia , and aerobic glycolysis , consistent with the " Reverse Warburg Effect " .
+Finally , the tumor stroma of " metastasis-prone " breast cancer patients was most closely related to the transcriptional profiles derived from the brains of patients with Alzheimer's disease .
+This suggests that certain fundamental biological processes are common to both an activated tumor stroma and neuro-degenerative stress .
+These processes may include oxidative stress , NO over-production ( peroxynitrite formation ) , inflammation , hypoxia , and mitochondrial dysfunction , which are thought to occur in Alzheimer?s disease pathology .
+Thus , a loss of Cav-1 expression in cancer-associated myofibroblasts may be a protein biomarker for oxidative stress , aerobic glycolysis , and inflammation , driving the " Reverse Warburg Effect " in the tumor micro-environment and cancer cell metastasis .

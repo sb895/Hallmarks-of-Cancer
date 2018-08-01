@@ -1,0 +1,8 @@
+The INK4a/ARF tumor suppressor locus is implicated in the senescence-like growth arrest provoked by oncogenic Ras in primary cells .
+INK4a and ARF are distinct proteins encoded by transcripts in which a shared exon is decoded in alternative reading frames .
+Here we analyze dermal fibroblasts ( designated Q34 ) from an individual carrying independent missense mutations in each copy of the common exon .
+Both mutations alter the amino acid sequence of INK4a and functionally impair the protein , although they do so to different degrees .
+Only one of the mutations affects the sequence of ARF , causing an apparently innocuous change near its carboxy terminus .
+Unlike normal human fibroblasts , Q34 cells are not permanently arrested by Ras or its downstream effectors Ets1 and Ets2 .
+Moreover , ectopic Ras enables the cells to grow as anchorage-independent colonies , and in relatively young Q34 cells anchorage independence can be achieved without addition of telomerase or perturbation of the p53 pathway .
+Whereas ARF plays the principal role in Ras-induced arrest of mouse fibroblasts , our data imply that INK4a assumes this role in human fibroblasts .

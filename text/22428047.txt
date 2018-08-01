@@ -1,0 +1,9 @@
+Switching to a glycolytic metabolism is a rapid adaptation of tumor cells to hypoxia .
+Although this metabolic conversion may primarily represent a rescue pathway to meet the bioenergetic and biosynthetic demands of proliferating tumor cells , it also creates a gradient of lactate that mirrors the gradient of oxygen in tumors .
+More than a metabolic waste , the lactate anion is known to participate to cancer aggressiveness , in part through activation of the hypoxia-inducible factor-1 ( HIF-1 ) pathway in tumor cells .
+Whether lactate may also directly favor HIF-1 activation in endothelial cells ( ECs ) thereby offering a new druggable option to block angiogenesis is however an unanswered question .
+In this study , we therefore focused on the role in ECs of monocarboxylate transporter 1 ( MCT1 ) that we previously identified to be the main facilitator of lactate uptake in cancer cells .
+We found that blockade of lactate influx into ECs led to inhibition of HIF-1-dependent angiogenesis .
+Our demonstration is based on the unprecedented characterization of lactate-induced HIF-1 activation in normoxic ECs and the consecutive increase in vascular endothelial growth factor receptor 2 ( VEGFR2 ) and basic fibroblast growth factor ( bFGF ) expression .
+Furthermore , using a variety of functional assays including endothelial cell migration and tubulogenesis together with in vivo imaging of tumor angiogenesis through intravital microscopy and immunohistochemistry , we documented that MCT1 blockers could act as bona fide HIF-1 inhibitors leading to anti-angiogenic effects .
+Together with the previous demonstration of MCT1 being a key regulator of lactate exchange between tumor cells , the current study identifies MCT1 inhibition as a therapeutic modality combining antimetabolic and anti-angiogenic activities .

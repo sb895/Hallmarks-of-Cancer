@@ -1,0 +1,7 @@
+The ATM kinase and p53 are key tumor suppressor factors that control the genotoxic stress response pathway .
+The ATM substrate Mdm2 controls p53 activity by either targeting p53 for degradation or promoting its synthesis by binding the p53 mRNA .
+The physiological role and regulation of Mdm2's dual function toward p53 is not known .
+Here we show that ATM-dependent phosphorylation of Mdm2 at Ser395 is required for the p53 mRNA-Mdm2 interaction .
+This event also promotes SUMO-conjugation of Mdm2 and its nucleoli accumulation .
+Interfering with the p53 mRNA-Mdm2 interaction prevents p53 stabilization and activation following DNA damage .
+These results demonstrate how ATM activity switches Mdm2 from a negative to a positive regulator of p53 via the p53 mRNA .

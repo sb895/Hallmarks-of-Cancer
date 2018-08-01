@@ -1,0 +1,11 @@
+Because PRL has growth factor activities in several tissues , we have asked whether it also has autocrine growth factor activity in pituitary GH3 cells .
+GH3 cells were grown at increasing densities in the presence or absence of antirat PRL ( polyclonal and monoclonal ) or nonspecific antibodies .
+Cell proliferation increased with increasing cell density , as did the concentration of PRL in the medium .
+Antirat PRL , but not control antibody , markedly inhibited but did not eliminate cell proliferation , and this effect was diminished with increasing PRL concentration in the medium .
+PRL receptors were demonstrated on 40-50% of the cells by indirect immunofluorescence using a specific antirat PRL receptor monoclonal antibody .
+Cell surface PRL was colocalized to the same 40-50% of the cells and copatched or cocapped along with the receptors .
+Absence or presence of PRL receptors did not correlate with stage of the cell cycle , as judged by ethidium bromide dual labeling .
+Cell surface PRL was found to be on PRL-containing cells .
+These data have fulfilled four criteria necessary for establishment of a substance as a secreted autocrine growth factor : 1 ) the factor must be secreted ; 2 ) in log growth phase , increased cell proliferation should occur at increased cell densities ; 3 ) the cells must display a receptor for the factor ; and 4 ) there must be a growth response to the factor .
+Thus we have established that PRL is an autocrine growth factor for at least 40-50% of the GH3 cell population .
+This , to our knowledge , is the first example of autocrine growth factor activity of a major hormone normotopically expressed .

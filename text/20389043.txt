@@ -1,0 +1,7 @@
+Polycyclic aromatic hydrocarbons ( PAH ) such as dibenzo[a,l]pyrene ( DBP ) are wide-spread environmental pollutants most probably mutagenic and carcinogenic to humans .
+Detailed data on the cytogenetic effects of anti-11,12-dihydroxy-13,14-epoxy-11,12,13,14-tetrahydrodibenzo[a,l]pyrene ( DBPDE ) in mammalian cells are not available in the literature .
+The aim of this study is to elucidate the mechanisms involved in the induction of chromosomal aberrations and sister chromatid exchanges ( SCEs ) by DBPDE in mammalian cells .
+In order to achieve this a parental ( AA8 ) and different DNA repair-deficient Chinese hamster ovary cell lines such as UV4 , UV5 , UV61 ( nucleotide excision repair , NER ) , EM9 ( base excision repair , BER ) , irs1SF ( homologous recombination repair , HRR ) and V3-3 ( non-homologous end joining , NHEJ ) were used .
+The most sensitive cell lines for DBPDE-induced chromosome aberrations were EM9 and irs1SF , while EM9 and V3-3 cell lines were the most sensitive in terms of SCEs induction .
+It can be suggested that the BER pathway plays an important role in the repair of lesions induced by DBPDE , affecting both chromosomal aberrations and SCEs induction .
+Moreover , the HRR pathway seems to play a role in cellular resistance to DBPDE mainly in terms of chromosomal aberration induction while the NHEJ pathway takes part affecting only the induction of SCEs .

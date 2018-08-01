@@ -1,0 +1,13 @@
+BACKGROUND The incidence of ovarian cancer has been increasing worldwide and it is currently the leading cause of death from gynaecological malignancy .
+Unlike breast cancer , the prognostic role of the human epidermal growth factor receptor-2 ( HER-2 ) in ovarian carcinoma remains controversial .
+METHODS The aim of this preclinical study was to further characterise the biological , molecular and cellular effects of trastuzumab ( Herceptin ) using NIH-OVCAR-3 and derived cell lines both in vitro and in vivo .
+RESULTS In vitro assessments have shown that trastuzumab treatment inhibited total and phosphorylated HER-2 .
+This was associated with inhibition of the phosphorylated form of phosphatase and tensin homologue ( PTEN ) , mitogen-activated protein kinase and AKT , and the total level of p27(kip) .
+Inhibition of PTEN is associated with phosphorylated MEK1/2 upregulation , suggesting a specific inhibition of the protein phosphatase function of PTEN .
+Moreover , trastuzumab induced the upregulation of RhoB .
+These molecular modifications promote inhibition of cell migration and potentially restoration of tumour cell contact inhibition .
+RhoB induction in NIH-OVCAR-3 control cell lines mimics the molecular and cellular trastuzumab long-time exposition effects .
+RhoB inhibition in NIH-OVCAR-3 long-time exposed to trastuzumab cell line reverses the cellular and molecular effects observed in this model .
+In vivo examinations have shown that these changes are also associated with the restoration of structural , morphological and normal functions of the peritoneum of an ovarian carcinoma mouse model .
+CONCLUSION These results provide an indication of the mechanisms underlying the anti-tumour activity of trastuzumab that strongly implicate RhoB in an ovarian carcinoma model that does not show HER-2 amplification or overexpression .
+These findings highlight that trastuzumab effects involve a possible cross-talk between RhoB and PTEN in the early stages of tumour re-growth in a model of micrometastatic ovarian cancer .

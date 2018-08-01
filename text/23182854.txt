@@ -1,0 +1,7 @@
+Ursolic acid ( UA ) is a pentacyclic triterpenoid with promising cancer chemopreventive properties .
+A better understanding of the mechanisms underlying anticancer activity of UA is needed for further development as a clinically useful chemopreventive agent .
+Here , we found that both endoplasmic reticulum ( ER ) stress and autophagy were induced by UA in MCF-7 human breast cancer cells .
+Surprisingly , ER stress was identified as an effect rather than a cause of UA-induced autophagy .
+Autophagy-dependent ER stress protected the cells from UA-induced apoptosis through EIF2AK3-mediated upregulation of MCL1 .
+Activation of MAPK1/3 but not inhibition of MTOR pathway contributed to UA-induced cytoprotective autophagy in MCF-7 cells .
+Our findings uncovered a novel cellular mechanism involved in the anticancer activity of UA , and also provided a useful model to study biological significance and mechanisms of autophagy-mediated ER stress .

@@ -1,0 +1,8 @@
+Contact inhibition is the process by which cells switch from a motile growing state to a passive and stabilized state upon touching their neighbors .
+When two cells touch , an adhesion link is created between them by means of transmembrane E-cadherin proteins .
+Simultaneously , their actin filaments stop polymerizing in the direction perpendicular to the membrane and reorganize to create an apical belt that colocalizes with the adhesion links .
+Here , we propose a detailed quantitative model of the role of cytoplasmic beta-catenin and alpha-catenin proteins in this process , treated as a reaction-diffusion system .
+Upon cell-cell contact the concentration in alpha-catenin dimers increases , inhibiting actin branching and thereby reducing cellular motility and expansion pressure .
+This model provides a mechanism for contact inhibition that could explain previously unrelated experimental findings on the role played by E-cadherin , beta-catenin , and alpha-catenin in the cellular phenotype and in tumorigenesis .
+In particular , we address the effect of a knockout of the adenomatous polyposis coli tumor suppressor gene .
+Potential direct tests of our model are discussed .

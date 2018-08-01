@@ -1,0 +1,12 @@
+Curcumin ( CUR ; diferuloylmethane ) , a rhizome extract of Curcuma Longa L. is commonly used as a food coloring and flavoring agent .
+Although oriental and Ayurvedic medicines have traditionally used CUR in the treatment of diseases , conventional medicine has just begun to recognize its potential therapeutic value .
+Numerous recent studies have demonstrated the ability of CUR to halt or prevent certain types of cancer , decrease inflammation , and improve cardiovascular health .
+However , very few studies have examined its ability to protect against drug-induced organ injury .
+This study explored whether CUR pre-exposure has the potential to prevent acetaminophen ( APAP)-induced : ( i ) hepatotoxicity , ( ii ) genomic injury , ( iii ) oxidative stress in the liver , and ( iv ) apoptotic and necrotic cell deaths in the liver in vivo .
+Additional goals were to investigate the interplay of pro- and anti-apoptotic genes and their ultimate impact on various forms of cell death .
+In order to study the CUR-APAP interaction , male B6C3F1 mice were gavaged with CUR ( 17 mg/kg/day , p.o. ) for 12 days followed by a single APAP exposure ( 400 mg/kg , ip ) .
+Four groups of animals ( control , CUR , APAP , CUR+APAP ) were sacrificed 24 h after APAP exposure .
+The results indicated that APAP-induced liver injury associated events as serum ALT ( 80-fold ) , lipid peroxidation ( 357% ) and DNA fragmentation ( 469% ) were markedly reduced to 3-fold , 134% and 162% , respectively , in the CUR+APAP group .
+The APAP-induced increase in expression of pro-apoptotic genes ( Bax , caspase-3 ) decreased while expression of anti-apoptotic genes ( Bcl-XL ) increased in CUR preexposed mouse livers , and these changes were mirrored in the pattern of apoptotic and necrotic cell deaths .
+Levels of DNA damage sensor P⁵³ and its counterpart Mdm2 were also analyzed during this interaction .
+Based on the available literature , and these results , it seems likely that CUR may impart global protection in vivo against drug-induced liver injury by opposing several crucial events instrumental to both apoptosis and necrosis .

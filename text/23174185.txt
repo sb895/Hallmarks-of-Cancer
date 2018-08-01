@@ -1,0 +1,10 @@
+Common fragile sites ( CFSs ) are hot spots of chromosomal breakage , and CFS breakage models involve perturbations of DNA replication .
+Here , we analyzed the contribution of specific repetitive DNA sequence elements within CFSs to the inhibition of DNA synthesis by replicative and specialized DNA polymerases ( Pols ) .
+The efficiency of in vitro DNA synthesis was quantitated using templates corresponding to regions within FRA16D and FRA3B harboring AT-rich microsatellite and quasi-palindrome ( QP ) sequences .
+QPs were predicted to form stems of self-homology , separated by 3-9 bases of intervening sequences .
+Analysis of DNA synthesis progression by human Pol \u03b4 demonstrated significant synthesis perturbation both at [ A](n) and [ TA](n) repeats in a length-dependent manner and at short ( <40 base pairs ) QP sequences .
+DNA synthesis by the Y-family polymerase \u03ba was significantly more efficient than Pol \u03b4 through both types of repetitive elements .
+Using DNA trap experiments , we show that Pol \u03b4 pauses within CFS sequences are sites of enzyme dissociation , and dissociation was observed in the presence of RFC-loaded PCNA .
+We propose that enrichment of microsatellite and QP elements at CFS regions contributes to fragility by perturbing replication through multiple mechanisms , including replicative Pol pausing and dissociation .
+Our finding that Pol \u03b4 dissociates at specific CFS sequences is significant , since dissociation of the replication machinery and inability to efficiently recover the replication fork can lead to fork collapse and/or formation of double-strand breaks in vivo .
+Our biochemical studies also extend the potential involvement of Y-family polymerases in CFS maintenance to include polymerase \u03ba .

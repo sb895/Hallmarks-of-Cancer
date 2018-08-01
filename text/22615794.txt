@@ -1,0 +1,8 @@
+Recent advances allow multiplexed genome engineering in E. coli , employing easily designed oligonucleotides to edit multiple loci simultaneously .
+A similar technology in human cells would greatly expedite functional genomics , both by enhancing our ability to test how individual variants such as single nucleotide polymorphisms ( SNPs ) are related to specific phenotypes , and potentially allowing simultaneous mutation of multiple loci .
+However , oligo-mediated targeting of human cells is currently limited by low targeting efficiencies and low survival of modified cells .
+Using a HeLa-based EGFP-rescue reporter system we show that use of modified base analogs can increase targeting efficiency , in part by avoiding the mismatch repair machinery .
+We investigate the effects of oligonucleotide toxicity and find a strong correlation between the number of phosphorothioate bonds and toxicity .
+Stably EGFP-corrected cells were generated at a frequency of with an optimized oligonucleotide design combining modified bases and reduced number of phosphorothioate bonds .
+We provide evidence from comparative RNA-seq analysis suggesting cellular immunity induced by the oligonucleotides might contribute to the low viability of oligo-corrected cells .
+Further optimization of this method should allow rapid and scalable genome engineering in human cells .

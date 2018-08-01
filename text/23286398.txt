@@ -1,0 +1,9 @@
+Objective To investigate the effect of bufalin on nucleus-mitochondria localization of human telomerase reverse transcriptase(hTERT) by exploring its effect on proliferation and apoptosis in human esophageal squamous carcinoma EC9706 cells .
+Methods EC9706 cells were treated with bufalin at various concentrations , and then the cell growth inhibition of EC9706 cells was examined by CCK-8 assay and the 50% inhibitory concentration ( IC(50) ) was calculated.Cell cycle analysis was performed by flow cytometry with PI staining , and nucleus morphology of apoptosis were observed by fluorescence microscopy with Hoechst 33342 staining .
+The apoptotic index was measured by flow cytometry with Annexin V-FITC/PI double staining. hTERT subcellular localization and protein expression were determined by Western blotting and multiple immunofluorescence labling combined with laser confocal scanning microscopy .
+Results The proliferation of EC 9706 cells was significantly inhibited by bufalin along with the increase of processing time and concentrations ( p<0.01 ) .
+After the EC9706 cells were exposed to 100 nmol/L bufalin,the number of cells gradually decreased in G(1) phase and increased in S and G(2)/M phases(p<0.05) .
+The typical nucleus morphological changes of apoptosis were observed and the apoptotic index was increased(p<0.01) .
+The expression of hTERT decreased in nucleus but increased in mitochondria(p<0.05) .
+Conclusions Bufalin can inhibit the proliferation of human esophageal squamous carcinoma EC9706 cells in a time- and dose-dependent manner .
+It can arrest cell cycle in S and G(2)/M phases and induce the apoptosis of EC 9706 cells. hTERT is localized in both nucleus and mitochondria,and can be partially translocated from nucleus to mitochondria during the bufalin-induced apoptosis .

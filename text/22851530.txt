@@ -1,0 +1,6 @@
+MOTIVATION The development of high-throughput sequencing technologies has enabled novel methods for detecting structural variants ( SVs ) .
+Current methods are typically based on depth of coverage or pair-end mapping clusters .
+However , most of these only report an approximate location for each SV , rather than exact breakpoints .
+RESULTS We have developed pair-read informed split mapping ( PRISM ) , a method that identifies SVs and their precise breakpoints from whole-genome resequencing data .
+PRISM uses a split-alignment approach informed by the mapping of paired-end reads , hence enabling breakpoint identification of multiple SV types , including arbitrary-sized inversions , deletions and tandem duplications .
+Comparisons to previous datasets and simulation experiments illustrate PRISM's high sensitivity , while PCR validations of PRISM results , including previously uncharacterized variants , indicate an overall precision of AVAILABILITY PRISM is freely available at http://compbio.cs.toronto.edu/prism .

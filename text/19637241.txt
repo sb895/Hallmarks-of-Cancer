@@ -1,0 +1,11 @@
+Nucling is a stress-inducible protein associated with apoptosomes .
+The cytochrome c-triggered formation of apoptosomes represents a key-initiating event in apoptosis .
+We have recently reported that Nucling regulates the apoptotic pathway by controlling the activation of NF-kappaB as well .
+Here we show that hepatocellular carcinoma ( HCC ) arising spontaneously against a background of hepatitis occurred more frequently in Nucling-knockout ( KO ) mice than wild-type ( WT ) mice .
+Biochemical serum testing revealed potential liver dysfunction with hypercholesterolemia in Nucling-KO males .
+In the background of Nucling-KO mice , we observed the up-regulation of TNFalpha , spontaneous NF-kappaB-activation and the induction of galectin-3 expression in liver .
+In addition , we observed a decrease in the number of Kupffer cells ( KCs ) in the KO mice .
+KCs are important for the hepatic immune system , acting as phagocytes or antigen-presenting cells ( APCs ) .
+We found that KCs in Nucling-KO mice were apoptotic possibly through the up-regulation of TNFalpha .
+These observations indicate that Nucling is important for the regulation of NF-kappaB signals in liver .
+We propose that Nucling deficiency could be a powerful tool to reveal the NF-kappaB-related molecular networks leading to hepatitis and HCC development .

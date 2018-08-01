@@ -1,0 +1,14 @@
+BACKGROUND Investigations concerned the mechanism of HT-29 cells radiosensitization by cis-9,trans-11-conjugated linoleic acid ( c9,t11-CLA ) , a natural component of human diet with proven antitumor activity .
+METHODS The cells were incubated for 24h with 70\u03bcM c9,t11-CLA and then X-irradiated .
+The following methods were used : gas chromatography ( incorporation of the CLA isomer ) , flow cytometry ( cell cycle ) , cloning ( survival ) , Western blotting ( protein distribution in membrane fractions ) , and pulse-field gel electrophoresis ( rejoining of DNA double-strand breaks ) .
+In parallel , DNA-PK activity , \u03b3-H2AX foci numbers and chromatid fragmentation were estimated .
+Gene expression was analysed by RT-PCR and chromosomal aberrations by the mFISH method .
+Nuclear accumulation of the EGF receptor ( EGFR ) was monitored by ELISA .
+RESULTS AND CONCLUSIONS C9,t11-CLA sensitized HT-29 cells to X-radiation .
+This effect was not due to changes in cell cycle progression or DNA-repair-related gene expression .
+Post-irradiation DSB rejoining was delayed , corresponding with the insufficient DNA-PK activation , although chromosomal aberration frequencies did not increase .
+Distributions of cholesterol and caveolin-1 in cellular membrane fractions changed .
+The nuclear EGFR translocation , necessary to increase the DNA-PK activity in response to oxidative stress , was blocked .
+We suppose that c9,t11-CLA modified the membrane structure , thus disturbing the intracellular EGFR transport and the EGFR-dependent pro-survival signalling , both functionally associated with lipid raft properties .
+GENERAL SIGNIFICANCE The results point to the importance of the cell membrane interactions with the nucleus after injury inflicted by X -rays .
+Compounds like c9,t11-CLA , that specifically alter membrane properties , could be used to develop new anticancer strategies .

@@ -1,0 +1,8 @@
+Solar ultraviolet radiation is considered to be injurious rather than necessary for most organisms living on the earth .
+It is reported that the risk of skin cancer in humans increases by the depletion of the ozone layer .
+We have examined the genotoxicity of solar ultraviolet , especially the longer wavelength light , using Drosophila .
+Recently , we have demonstrated that light of wavelength up to 340 nm is mutagenic on Drosophila larvae .
+Using an excision repair-deficient Drosophila strain ( mus201 ) , we have obtained results suggesting that the lesion caused in larvae by the 320 nm-light irradiation may be similar to the damage induced by irradiation at 310 nm , and that light of 330 and 340 nm may induce damage different from that induced by 310 and 320 nm-light .
+To examine the difference in DNA damage induced by light of a particular wavelength , we performed monochromatic irradiation on larvae of two Drosophila strains ; one excision repair-deficient ( mei-9 ) and another postreplication repair-deficient ( mei-41). 310 and 320 nm-light was more mutagenic in the mei-9 strain than in mei-41 , whereas 330 and 340 nm-light was more mutagenic in mei-41 than in mei-9 .
+It is demonstrated that the mei-41 gene is a homologue of the human atm gene which is responsible for a cell cycle checkpoint .
+This result suggests that 310-320 nm-light induces DNA damage that is subject to nucleotide excision repair ( NER ) and that 330-360 nm-light causes damage to be recognized by the cell cycle checkpoint but it is not repairable by NER .

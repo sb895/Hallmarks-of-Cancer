@@ -1,0 +1,12 @@
+We have recently proposed a new two-compartment model for understanding the Warburg effect in tumor metabolism .
+In this model , glycolytic stromal cells produce mitochondrial fuels ( L-lactate and ketone bodies ) that are then transferred to oxidative epithelial cancer cells , driving OXPHOS and mitochondrial metabolism .
+Thus , stromal catabolism fuels anabolic tumor growth via energy transfer .
+We have termed this new cancer paradigm the " reverse Warburg effect, " because stromal cells undergo aerobic glycolysis , rather than tumor cells .
+To assess whether this mechanism also applies during cancer cell metastasis , we analyzed the bioenergetic status of breast cancer lymph node metastases , by employing a series of metabolic protein markers .
+For this purpose , we used MCT4 to identify glycolytic cells .
+Similarly , we used TO MM20 and COX staining as markers of mitochondrial mass and OXPHOS activity , respectively .
+Consistent with the " reverse Warburg effect, " our results indicate that metastatic breast cancer cells amplify oxidative mitochondrial metabolism ( OXPHOS ) and that adjacent stromal cells are glycolytic and lack detectable mitochondria .
+Glycolytic stromal cells included cancer-associated fibroblasts , adipocytes and inflammatory cells .
+Double labeling experiments with glycolytic ( MCT4 ) and oxidative ( TO MM20 or COX ) markers directly shows that at least two different metabolic compartments co-exist , side-by-side , within primary tumors and their metastases .
+Since cancer-associated immune cells appeared glycolytic , this observation may also explain how inflammation literally " fuels " tumor progression and metastatic dissemination , by " feeding " mitochondrial metabolism in cancer cells .
+Finally , MCT4(+) and TO MM20(-) " glycolytic " cancer cells were rarely observed , indicating that the conventional " Warburg effect " does not frequently occur in cancer-positive lymph node metastases .

@@ -1,0 +1,9 @@
+Hormone replacement therapy , which is a common menopausal treatment , is contraindicated in women with breast cancers due to concerns regarding the potential for breast cell proliferation .
+As such , there is a need for alternative methods for treating menopausal symptoms .
+To determine the influence of one such alternative , black cohosh ( Cimicifuga racemosa [ CR] ) , on estrogen-dependent mammary cancers , we conducted an in vitro investigation of the effect of an isopropanolic CR-extract on the proliferation of estrogen receptor-positive breast cancer cells .
+The experiments were performed using the human breast adenocarcinoma ( MCF-7 ) cell test system , an established in vitro model for estrogen-dependent tumors .
+The influence of CR-extract on the proliferation of the MCF-7 cells was determined by measuring the incorporation of radioactively labeled thymidine .
+Under estrogen-deprived conditions , the CR-extract ( 10(-3)-10(-5) dilutions ) significantly inhibited MCF-7 cell proliferation .
+Additionally , application of the CR-extract inhibited estrogen-induced proliferation of MCF-7 cells .
+Moreover , the proliferation-inhibiting effect of tamoxifen was enhanced by the CR-extract .
+Such data that suggest a non-estrogenic , or estrogen-antagonistic effect of CR on human breast cancer cells lead to the conclusion that CR treatment may be a safe , natural remedy for menopausal symptoms in breast cancer .

@@ -1,0 +1,10 @@
+It is well known that ErbB2 , a receptor tyrosine kinase , localizes to the plasma membrane .
+Here we describe a novel observation that ErbB2 also localizes in mitochondria of cancer cells and patient samples .
+We found that ErbB2 translocates into mitochondria through association with mtHSP70 .
+Additionally , mitochondrial ErbB2 ( mtErbB2 ) negatively regulates mitochondrial respiratory functions .
+Oxygen consumption and activities of complexes of the mitochondrial electron transport chain were decreased in mtErbB2-overexpressing cells .
+Mitochondrial membrane potential and cellular ATP levels were also decreased .
+In contrast , mtErbB2 enhanced cellular glycolysis .
+The translocation of ErbB2 and its impact on mitochondrial function are kinase dependent .
+Interestingly , cancer cells with higher levels of mtErbB2 were more resistant to the ErbB2-targeting antibody trastuzumab .
+Our study provides a novel perspective on the metabolic regulatory function of ErbB2 and reveals that mtErbB2 has an important role in the regulation of cellular metabolism and cancer cell resistance to therapeutics .

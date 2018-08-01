@@ -1,0 +1,7 @@
+Verbascum thapsus commonly known as ' mullein ' is part of a large family of Scrophulariaceae consisting of more than 360 species .
+From antiquity Verbascum thapsus has been used as a medicinal herb , it contains diverse polysaccharides , iroid glycosides , flavonoids , saponins , volatile oils and phenylentanoids .
+Inducible nitric oxide synthase ( iNOS ) represents one of the three isoforms that produce nitric oxide using L-arginine as a substrate in response to an increase in superoxide anion activated by NF-kB .
+It is implicated in different pathophysiological events and its expression increases greatly during an inflammatory process , due to oxidative stress and the activation of the enzymes of the antioxidant network such as SOD , CAT and GPx.In this study an inflammatory state was reproduced by treating THP-1 cells ( human myelomonocytic leukaemia ) with pro-inflammatory stimuli , such as LPS and IFN-gamma , obtaining an up-regulation both in the expression and in the activity of iNOS .
+The aim of the work was to investigate the antiinflammatory action of verbascoside using a concentration of 100 mum .
+The results show a significant decrease of the expression and activity of iNOS , extracellular O(2) ( - ) production , SOD , CAT and GPx activity when the cells were treated with verbascoside .
+Based on these results it is hypothesized that verbascoside has antiinflammatory properties since it reduces the production of superoxide radicals and consequently reduces the activity of iNOS .

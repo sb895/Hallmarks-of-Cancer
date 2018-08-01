@@ -1,0 +1,9 @@
+The DNA mismatch repair ( MMR ) pathway corrects specific types of DNA replication errors that affect microsatellites and thus is critical for maintaining genomic integrity .
+The genes of the MMR pathway are highly conserved across different organisms .
+Likewise , defective MMR function universally results in microsatellite instability ( MSI ) which is a hallmark of certain types of cancer associated with the Mendelian disorder hereditary nonpolyposis colorectal cancer .
+( Lynch syndrome ) .
+To identify previously unrecognized deleted genes or loci that can lead to MSI , we developed a functional genomics screen utilizing a plasmid containing a microsatellite sequence that is a host spot for MSI mutations and the comprehensive homozygous diploid deletion mutant resource for Saccharomyces cerevisiae .
+This pool represents a collection of non-essential homozygous yeast diploid ( 2N ) mutants in which there are deletions for over four thousand yeast open reading frames ( ORFs ) .
+From our screen , we identified a deletion mutant strain of the PAU24 gene that leads to MSI .
+In a series of validation experiments , we determined that this PAU24 mutant strain had an increased MSI-specific mutation rate in comparison to the original background wildtype strain , other deletion mutants and comparable to a MMR mutant involving the MLH1 gene .
+Likewise , in yeast strains with a deletion of PAU24 , we identified specific de novo indel mutations that occurred within the targeted microsatellite used for this screen .

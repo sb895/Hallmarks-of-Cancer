@@ -1,0 +1,10 @@
+It has been shown that injecting a suspension of IFN-γ-secreting tumor cells results in their rejection .
+This effect has been attributed to IFN-γ preventing tumor stroma formation but not to a direct effect on the cancer cells .
+However , it is not known , which influence IFN-γ has on tumors with an established stroma .
+To address this question , the plasmacytoma cell line J558L was transduced with a vector allowing doxycycline-inducible IFN-γ gene expression .
+After the injection of the tumor cells into mice , IFN-γ was induced at different time points .
+Tumors did not grow when inducing IFN-γ immediately after tumor cell inoculation , while approximately half of the tumors were rejected when IFN-γ was induced in early established tumors within 2 weeks .
+Induction of IFN-γ 2-3 weeks after tumor cell inoculation was less efficient ( 0-17% rejection ) .
+IFN-γ induction in established tumors led to a reduction of CD146(+) endothelial cells and massive necrosis .
+Together , we show that vascularized tumors can be rejected by local IFN-γ expression , but that rejection of established tumors was less efficient over time .
+This suggests that transplanted tumors became less susceptible to local IFN-γ treatment the better they are established .

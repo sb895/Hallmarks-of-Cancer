@@ -1,0 +1,10 @@
+Pituitary carcinoma occurs in of resected pituitary tumours and carries a poor prognosis ( mean survival <4 years ) , with standard chemotherapy regimens showing limited efficacy .
+Recent evidence suggests that temozolomide ( TMZ ) , an orally-active alkylating agent used principally in the management of glioblastoma , may also be effective in controlling aggressive/invasive pituitary adenomas/carcinomas .
+A low level of expression of the DNA-repair enzyme O6-methylguanine-DNA methyltransferase ( MGMT ) predicts TMZ responsiveness in glioblastomas , and a similar correlation has been observed in the majority of aggressive pituitary adenomas/carcinomas reported to date .
+Here , we report a case of a silent pituitary corticotroph adenoma , which subsequently re-presented with Cushing's syndrome due to functioning hepatic metastases .
+The tumour exhibited low immunohistochemical MGMT expression in both primary ( pituitary ) and secondary ( hepatic ) lesions .
+Initial TMZ therapy ( 200 mg/m² for 5 days every 28 days-seven cycles ) resulted in marked clinical , biochemical [ >50% fall in adrenocorticotrophic hormone ( ACTH) ] and radiological [ partial RECIST ( response evaluation criteria in solid tumors ) response ] improvements .
+The patient then underwent bilateral adrenalectomy .
+However , despite reintroduction of TMZ therapy ( further eight cycles ) ACTH levels plateaued and no further radiological regression was observed .
+We review the existing literature reporting TMZ efficacy in pituitary corticotroph tumours , and highlight the pointers/lessons for treating aggressive pituitary neoplasia that can be drawn from experience of susceptibility and evolving resistance to TMZ therapy in glioblastoma .
+Possible strategies for mitigating resistance developing during TMZ treatment of pituitary adenomas/carcinomas are also considered .

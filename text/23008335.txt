@@ -1,0 +1,5 @@
+Nutrient deprivation based on the loss of essential amino acids by catabolic enzymes in the microenvironment is a critical means to control inflammatory responses and immune tolerance .
+Here we report the novel finding that Tph-1 ( tryptophan hydroxylase-1 ) , a synthase which catalyses the conversion of tryptophan to serotonin and exhausts tryptophan , is a potent regulator of immunity .
+In models of skin allograft tolerance , tumor growth , and experimental autoimmune encephalomyelitis , Tph-1 deficiency breaks allograft tolerance , induces tumor remission , and intensifies neuroinflammation , respectively .
+All of these effects of Tph-1 deficiency are independent of its downstream product serotonin .
+Because mast cells ( MCs ) appear to be the major source of Tph-1 and restoration of Tph-1 in the MC compartment in vivo compensates for the defect , these experiments introduce a fundamentally new mechanism of MC-mediated immune suppression that broadly impacts multiple arms of immunity .

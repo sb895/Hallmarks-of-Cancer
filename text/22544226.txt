@@ -1,0 +1,10 @@
+Telomere repeats are added onto chromosome ends by telomerase , consisting of two main core components : a catalytic protein subunit ( telomerase reverse trancriptase , TERT ) , and an RNA subunit ( telomerase RNA , TR ) .
+Here , we report for the first time evidence that HMGB1 ( a chromatin-associated protein in mammals , acting as a DNA chaperone in transcription , replication , recombination , and repair ) can modulate cellular activity of mammalian telomerase .
+Knockout of the HMGB1 gene ( HMGB1 KO ) in mouse embryonic fibroblasts ( MEFs ) results in chromosomal abnormalities , enhanced colocalization of \u03b3-H2AX foci at telomeres , and a moderate shortening of telomere lengths .
+HMGB1 KO MEFs also exhibit significantly ( >5-fold ) lower telomerase activity than the wild-type MEFs .
+Correspondingly , enhanced telomerase activity is observed upon overexpression of HMGB1 in MEFs .
+HMGB1 physically interacts with both TERT and TR , as well as with active telomerase complex in vitro .
+However , direct interaction of HMGB1 with telomerase is most likely not accountable for the observed higher telomerase activity in HMGB1-containing cells , as revealed from the inability of purified HMGB1 protein to stimulate telomerase activity in vitro .
+While no transcriptional silencing of TERT is observed in HMGB1 KO MEFs , levels of TR are diminished ( providing possible explanation for the observed lower telomerase activity in HMGB1 KO cells .
+Interestingly , knockout of the HMGB2 gene elevates telomerase activity ( in MEFs , suggesting that the two closely related proteins of the HMGB family , HMGB1 and HMGB2 , have opposite effects on telomerase activity in the cell .
+The ability of HMGB1 to modulate cellular activity of telomerase and to maintain telomere integrity can help to understand some aspects of the protein involvement in chromosome stability and cancer .

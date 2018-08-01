@@ -1,0 +1,9 @@
+p107 Links to cyclin A/CDK2 ( cyclin-dependent kinase 2 ) and cyclin E/CDK2 that are important cell cycle regulators .
+However , p107 expression remains unclear in almost all kinds of human solid tumours .
+To clarify the expression of p107 in colorectal tumours , 22 normal mucosae , 9 hyperplastic polyps , 60 adenomas , 198 primary carcinomas , 21 lymph-nodal metastases , and 10 hepatic metastases were immunohistochemically stained for p107 , cyclin A , cyclin E , CDK2 and Ki67 .
+Results were measured using labelling indices ( LIs). p107 LIs surpassed the highest value in normal tissues in six of nine hyperplastic polyps , 54 of 60 adenomas , 144 of 198 primary cancers , 13 of 21 nodal foci and three of 10 hepatic foci. p107 LIs also apparently rose from normal through hyperplasia and adenoma to early carcinoma .
+However , they declined in liver-metastatic foci , and in primary cancers showing large size , mucinous type , venous invasion , lymphatic invasion , poorly differentiated type , deep invasion , lymph-nodal metastasis , hepatic metastasis or advanced stage .
+Low p107 LIs were also linked to a poor survival , particularly in stage-III patients .
+As the p107 LI gradually rose , the CDK2 ( in primary cancers only ) , cyclin A , cyclin E and Ki67 LIs were elevated concurrently-in both adenomas and primary cancers .
+Thus , in colorectal tumours , p107 expression rises abnormally and gradually during carcinogenesis and then falls during invasion , and thereby probably perturbs the cell-cycle control and promotes carcinogenesis and invasion .
+Clinically , reduced p107 may indicate a poorer prognosis .

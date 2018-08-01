@@ -1,0 +1,11 @@
+The omega-3 long chain polyunsaturated fatty acids , docosahexaenoic acid ( DHA ) and eicosapentaenoic acid ( EPA ) , elicit antiproliferative effects in cancer cell lines and in animal models .
+Dietary DHA and EPA can be converted to their ethanolamine derivatives , docosahexaenoyl ethanolamine ( DHEA ) and eicosapentaenoyl ethanolamine ( EPEA ) , respectively ; however , few studies are reported on their anticancer activities .
+Here , we demonstrated that DHEA and EPEA were able to reduce cell viability in MCF-7 breast cancer cells whereas they did not elicit any effects in MCF-10A non-tumorigenic breast epithelial cells .
+Since DHA and EPA are ligands of Peroxisome Proliferator-Activated Receptor ( PPAR ) γ , we sought to determine whether PPARγ may also mediate DHEA and EPEA actions .
+In MCF-7 cells , both compounds enhanced PPARγ expression , stimulated a PPAR response element-dependent transcription as confirmed by the increased expression of its target gene PTEN , resulting in the inhibition of AKT-mTOR pathways .
+Besides , DHEA and EPEA treatment induced phosphorylation of Bcl-2 promoting its dissociation from beclin-1 which resulted in autophagy induction .
+We also observed an increase of beclin-1 and microtubule-associated protein 1 light chain 3 expression along with an enhanced autophagosomes formation as revealed by mono-dansyl-cadaverine staining .
+Finally , we demonstrated the involvement of PPARγ in DHEA- and EPEA-induced autophagy by using siRNA technology and a selective inhibitor .
+In summary , our data show that the two omega-3 ethanolamines exert antiproliferative effects by inducing autophagy in breast cancer cells highlighting their potential use as breast cancer preventive and/or therapeutic agents .
+J. Cell .
+Physiol. © 2012 Wiley Periodicals , Inc .

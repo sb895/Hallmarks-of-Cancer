@@ -1,0 +1,14 @@
+Bioenergetic profiling of tumors is a new challenge of cancer research and medicine as therapies are currently being developed .
+Meanwhile , methodological means must be proposed to gather information on tumor metabolism in order to adapt these potential therapies to the bioenergetic specificities of tumors .
+Studies performed on tumors and cancer cell lines have shown that cancer cells bioenergetics is highly variable .
+This profile changes with microenvironmental conditions ( eg. substrate availability ) , the oncogenes activated ( and the tumor suppressors inactivated ) and the interaction with the stroma ( i.e. reverse Warburg effect ) .
+Here , we assessed the power of metabolic footprinting ( MFP ) to unravel the bioenergetics and associated anabolic changes induced by three oncogenes , c-Myc , KLF4 and Oct1 .
+The MFP approach provides a quantitative analysis of the metabolites secreted and consumed by cancer cells .
+We used ultra performance liquid chromatography for quantifying the amino acid uptake and secretion .
+To investigate the potential oncogene-mediated alterations in mitochondrial metabolism , we measured oxygen consumption rate and ATP production as well as the glucose uptake and lactate release .
+Our findings show that c-Myc deficiency initiates the Warburg effect along with a reduction of mitochondrial respiration .
+KLF4 deficiency also stimulated glycolysis , albeit without cellular respiration impairment .
+In contrast , Oct1 deficiency reduced glycolysis and enhanced oxidative phosphorylation efficiency .
+MFP revealed that c-Myc , KLF4 and Oct1 altered amino acid metabolism with specific patterns .
+We identified isoleucine , α-aminoadipic acid and GABA ( γ-aminoisobutyric acid ) as biomarkers related .
+Our findings establish the impact of Oct1 , KLF4 and c-Myc on cancer bioenergetics and evidence a link between oncosecretomics and cellular bioenergetics profile .

@@ -1,0 +1,12 @@
+OBJECTIVE Increases in plasma angiotensinogen ( Ang-N ) due to genetic polymorphisms or pharmacological stimuli like estrogen have been associated with a blood pressure ( BP ) rise , increased salt sensitivity and cardiovascular risk .
+The relationship between Ang-N , the resetting of the renin-angiotensin system , and BP still remains unclear .
+Angiotensin ( Ang ) II-induced genetic hypertension should respond to lisinopril treatment .
+METHODS A new transgenic rat line ( TGR ) with hepatic overexpression of native ( rat ) Ang-N was established to study high plasma Ang-N .
+The transgene contained a mutation producing Val(5)-Ang-II , which was measured separately from nontransgenic Ile-Ang-II in plasma and renal tissue .
+RESULTS Male homozygous TGR had increased plasma Ang-N ( systolic BP ( \u0394BP+26 mmHg ) , renin activity ( renin activity/concentration ( 5-fold ) , total Ang-II ( kidney 1.7-fold ) but decreased plasma renin concentrations ( -46% , kidney -85% ) and Ile(5)-Ang-I and II ( -93% , -94% ) vs. controls .
+Heterozygous TGR exhibited higher plasma Ang-N and 17 mmHg \u0394BP .
+Lisinopril decreased their SBP ( -23 vs. -13 mmHg in controls ) , kidney Ang-II/I ( vs. and Ile(5)-Ang-II ( -70 vs. -40% ) , and increased kidney renin and Ile(5)-Ang-I ( >2.5-fold vs. <2.5-fold ) .
+Kidney Ang-II remained higher and renin lower in TGR compared with controls .
+CONCLUSION High plasma Ang-N increases plasma and kidney Ang-II levels , and amplifies the plasma and renal Ang-II response to a given change in renal renin secretion .
+This enzyme-kinetic amplification dominates over the Ang-II mediated feedback reduction of renin secretion .
+High Ang-N levels thus facilitate hypertension via small increases of Ang II and may influence the effectiveness of renin-angiotensin system inhibitors .

@@ -1,0 +1,9 @@
+CDKN1C/P57 is a cyclin-dependent kinase inhibitor implicated in different human cancers , including hepatocellular carcinoma ( HCC ) ; however , little is known regarding the role of CDKN1C/P57 and its regulation in HCC .
+In this study , we show that the down-regulation of Notch1 and Notch3 in two HCC cell lines resulted in Hes1 down-regulation , CDKN1C/P57 up-regulation , and reduced cell growth .
+In line with these data , we report that CDKN1C/P57 is a target of transcriptional repression by the Notch effector , Hes1 .
+We found that the up-regulation of CDKN1C/P57 by cDNA transfection decreased tumor growth , as determined by growth curve , flow cytometry analysis , and cyclin D1 down-regulation , without affecting the apoptosis machinery .
+Indeed , the expression of Bax , Noxa , PUMA , BNIP(3) , and cleaved caspase-3 was not affected by CDKN1C/P57 induction .
+Morphologically CDKN1C/p57-induced HCC cells became flat and lengthened in shape , accumulated the senescence-associated β-galactosidase marker , and increased P16 protein expression .
+Evaluation of senescence in cells depleted both for Hes1 and CDKN1C/P57 revealed that the senescent state really depends on the accumulation of CDKN1C/p57 .
+Finally , we validated our in vitro results in primary HCCs , showing that Hes1 protein expression inversely correlates with CDKN1C/P57 mRNA levels .
+In addition , reduced Hes1 protein expression is accompanied by a shorter time to recurrence after curative resection , suggesting that Hes1 may represent a biomarker for prediction of patients with poor prognosis .

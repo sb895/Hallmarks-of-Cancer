@@ -1,0 +1,9 @@
+Autism is a childhood-onset neurodevelopmental disorder with complex genetic mechanism underlying its etiology .
+Recent studies revealed that a few single de novo copy number variants of genomic DNA ( copy number variants [ CNVs] ) are pathogenic and causal in some sporadic cases , adding support to the hypothesis that some sporadic autism might be caused by single rare mutation with large clinical effect .
+In this study , we report the detection of two novel private CNVs simultaneously in a male patient with autism .
+These two CNVs include a microduplication of Mb at chromosome 4q12-13.1 that was transmitted from his mother and a microdeletion of Mb at 5q32 that was transmitted from his father .
+Several genes such as LPHN3 , POU4F3 , SH3RF2 , and TCERG1 mapped to these two regions have psychiatric implications .
+However , the parents had only mild degree of attention deficit symptoms but did not demonstrate any obvious autistic symptoms or psychopathology .
+Our findings indicate that each of these two CNVs alone may not be pathogenic enough to cause clinical symptoms in their respective carriers , and hence they can be transmitted within each individual family .
+However , concomitant presence of these two CNVs might result in the clinical phenotypes of the affected patient reported here .
+Thus , our report of this family may represent an example to show that two hits of CNV and the presence of compound heterozygosity might be important mechanisms underlying the pathogenesis of autism .

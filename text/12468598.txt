@@ -1,0 +1,11 @@
+Our previous studies have shown that genistein inhibits the growth of PC3 prostate cancer cells and induces apoptosis by inhibiting nuclear factor kappaB ( NF-kappaB ) and Akt signaling pathways .
+To better understand the precise molecular mechanism(s) by which genistein exerts its effects on PC3 cells , we utilized cDNA microarray to interrogate 12,558 known genes to determine the gene expression profiles altered by genistein treatment .
+We found a total of 832 genes that showed a greater than twofold change after genistein treatment from two independent experiments with a high degree of concordance .
+Among these genes , 774 genes were down-regulated and 58 genes were up-regulated with genistein treatment .
+Cluster analysis showed nine different types of expression alternations .
+These genes were also subjected to cluster analysis according to their biological functions .
+We found that genistein regulated the expression of genes that are critically involved in the regulation of cell growth , cell cycle , apoptosis , cell signaling transduction , angiogenesis , tumor cell invasion and metastasis .
+Reverse transcription-polymerase chain reaction ( RT-PCR ) analysis was used to confirm the results of cDNA microarray , and the results of RT-PCR were consistent with the microarray data .
+We conclude that genistein affected the expression of a large number of genes that are related to the control of cell survival and physiologic behaviors .
+The gene expression profiles provide comprehensive molecular mechanism(s) by which genistein exerts its pleiotropic effects on cancer cells .
+Genistein-induced regulation of these genes may be further exploited for devising chemopreventive and/or therapeutic strategies for prostate cancer .

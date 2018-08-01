@@ -1,0 +1,6 @@
+Stress-induced phosphoprotein 1 ( STIP1 ) , a cochaperone that organizes other chaperones , heat shock proteins ( HSPs ) , was recently shown to be secreted by human ovarian cancer cells .
+In neuronal tissues , binding to prion protein was required for STIP1 to activate the ERK ( extracellular-regulated MAP kinase ) signaling pathways .
+However , we report that STIP1 binding to a bone morphogenetic protein ( BMP ) receptor , ALK2 ( activin A receptor , type II-like kinase 2 ) , was necessary and sufficient to stimulate proliferation of ovarian cancer cells .
+The binding of STIP1 to ALK2 activated the SMAD signaling pathway , leading to transcriptional activation of ID3 ( inhibitor of DNA binding 3 ) , promoting cell proliferation .
+In conclusion , ovarian-cancer-tissue-secreted STIP1 stimulates cancer cell proliferation by binding to ALK2 and activating the SMAD-ID3 signaling pathways .
+Although animal studies are needed to confirm these mechanisms in vivo , our results may pave the way for developing novel therapeutic strategies for ovarian cancer .

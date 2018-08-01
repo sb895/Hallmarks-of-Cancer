@@ -1,0 +1,7 @@
+Cancer cells preferentially metabolize glucose by aerobic glycolysis , characterized by increased lactate production .
+This distinctive metabolism involves expression of the embryonic M2 isozyme of pyruvate kinase , in contrast to the M1 isozyme normally expressed in differentiated cells , and it confers a proliferative advantage to tumor cells .
+The M1 and M2 pyruvate-kinase isozymes are expressed from a single gene through alternative splicing of a pair of mutually exclusive exons .
+We measured the expression of M1 and M2 mRNA and protein isoforms in mouse tissues , tumor cell lines , and during terminal differentiation of muscle cells , and show that alternative splicing regulation is sufficient to account for the levels of expressed protein isoforms .
+We further show that the M1-specific exon is actively repressed in cancer-cell lines--although some M1 mRNA is expressed in cell lines derived from brain tumors--and demonstrate that the related splicing repressors hnRNP A1 and A2 , as well as the polypyrimidine-tract-binding protein PTB , contribute to this control .
+Downregulation of these splicing repressors in cancer-cell lines using shRNAs rescues M1 isoform expression and decreases the extent of lactate production .
+These findings extend the links between alternative splicing and cancer , and begin to define some of the factors responsible for the switch to aerobic glycolysis .

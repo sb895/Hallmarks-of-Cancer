@@ -1,0 +1,8 @@
+The RuvABC and RecBCD proteins promote rescue of stalled or broken DNA replication forks in Escherichia coli .
+Strains lacking these proteins cope poorly with DNA damage and have problems with chromosome segregation and cell division .
+We show how these difficulties are overcome to varying degrees by a sub-class of RNA polymerase mutations selected for their stringent phenotype .
+Thirty-five mutations were sequenced .
+All but one change single amino acids in RpoB or RpoC that lie on or near the path taken by DNA through the enzyme , indicating they may affect the stability of transcription complexes .
+Four mutant enzymes are shown to form unstable open complexes at the lambdacro promoter .
+At least one may also release stalled complexes or limit their formation , as it reduces the need for reactivation of transcription by GreA or GreB , and for transcription-coupled DNA repair of UV damage by Mfd .
+The results shed light on the interplay between DNA replication and transcription and suggest ways in which conflicts between these two vital cellular processes are avoided or resolved .

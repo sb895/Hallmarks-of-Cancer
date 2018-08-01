@@ -1,0 +1,8 @@
+Metabolic reprogramming in cancer is manifested by persistent aerobic glycolysis and suppression of mitochondrial function and is known as the Warburg effect .
+The Warburg effect contributes to cancer progression and is considered to be a promising therapeutic target .
+Understanding the mechanisms used by cancer cells to suppress their mitochondria may lead to development of new approaches to reverse metabolic reprogramming .
+We have evaluated mitochondrial function and morphology in poorly respiring LM7 and 143B osteosarcoma ( OS ) cell lines showing the Warburg effect in comparison with actively respiring Saos2 and HOS OS cells and noncancerous osteoblastic hFOB cells .
+In LM7 and 143B cells , we detected markers of the mitochondrial permeability transition ( MPT ) , such as mitochondrial swelling , depolarization , and membrane permeabilization .
+In addition , we detected mitochondrial swelling in human OS xenografts in mice and archival human OS specimens using electron microscopy .
+The MPT inhibitor sanglifehrin A reversed MPT markers and increased respiration in LM7 and 143B cells .
+Our data suggest that the MPT may play a role in suppression of mitochondrial function , contributing to the Warburg effect in cancer .

@@ -1,0 +1,7 @@
+Estrogens , acting through estrogen receptor α ( ERα ) , stimulate breast cancer proliferation , making ERα an attractive drug target .
+Since 384-well format screens for inhibitors of proliferation can be challenging for some cells , inhibition of luciferase-based reporters is often used as a surrogate end point .
+To identify novel small-molecule inhibitors of 17β-estradiol ( E(2))-ERα-stimulated cell proliferation , we established a cell-based screen for inhibitors of E(2)-ERα induction of an estrogen response element ( ERE)(3)-luciferase reporter .
+Seventy-five " hits " were evaluated in tiered follow-up assays to identify where hits failed to progress and evaluate their effectiveness as inhibitors of E(2)-ERα-induced proliferation of breast cancer cells .
+Only 8 of 75 hits from the luciferase screen inhibited estrogen-induced proliferation of ERα-positive MCF-7 and T47D cells but not control ERα-negative MDA-MB-231 cells .
+Although 12% of compounds inhibited E(2)-ERα-stimulated proliferation in only one of the ERα-positive cell lines , 40% of compounds were toxic and inhibited growth of all the cell lines , and exhibited little or no ability to inhibit E(2)-ERα-stimulated cell proliferation .
+Representative compounds were evaluated in more detail , and a lead ERα inhibitor was identified .

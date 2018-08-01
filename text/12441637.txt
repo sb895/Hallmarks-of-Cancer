@@ -1,0 +1,10 @@
+Genomic instability has long been recognized as the main feature of neoplasia and a factor modulating individual cancer susceptibility .
+There are attempts to find effective assays of both individual DNA repair capacity and genetic instability , and their relation to the cancer risk .
+Genetic predisposition plays an important role in the etiology and development of head and neck squamous cell carcinoma ( HNSCC ) .
+The aim of our study was to search for a correlation between chromosomal instability and DNA repair capacity in HNSCC patients and healthy controls .
+The chromosomal instability was measured by the number of bleomycin ( BLM)-induced chromosomal aberrations and diepoxybutane ( DEB)-induced sister chromatid exchanges .
+The DNA repair capacity was assessed using the DEB-induced adaptive response ( AR ) .
+The HNSCC patients in our study showed a significant increase in chromosomal instability after a preterminal exposure of their lymphocytes to either BLM for the last 5 h or DEB for the last 24 h of incubation .
+However , the AR was higher in HNSCC patients than in the control group , suggesting an increase in the DNA repair capacity in the cancer patients as compared to the control .
+There is no correlation between the DNA repair capacity estimated on the basis of preterminal exposures to BLM and DEB and the DNA repair capacity estimated on the basis of the adaptive response to DEB .
+The preterminal exposure and the adaptive response test may activate different DNA repair mechanisms .

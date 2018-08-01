@@ -1,0 +1,7 @@
+Manganese , an essential trace nutrient in human beings , has been widely used in the steel industry to improve hardness , stiffness , and strength .
+With the increased applications of manganese compounds , discharge into the environment has rapidly increased and may exert adverse effects on human health .
+In this study , manganese toxicity was investigated using cultured T98G cells , which are derived from human glioblasts with the ability to differentiate into several different types of neuroglia .
+Cytotoxicity was shown in manganese-treated groups ( 100 , 200 , 400 , and 800microM of MnCl(2) ) , and cell viability was decreased to 58.8% of the control group at 2days after treatment with 800microM of MnCl(2) .
+When cells were treated with manganese for 24h , ROS dose-dependently increased while antioxidant intracellular GSH decreased .
+With the generation of ROS , the increased activity of caspase-3 was shown , and was followed by chromatin condensation and breakage , which is an indication of the cellular apoptotic process .
+ROS also triggered pro-inflammatory responses in cultured T98G cells , which were demonstrated by the increased gene expression and protein levels of IL-6 and IL-8 .

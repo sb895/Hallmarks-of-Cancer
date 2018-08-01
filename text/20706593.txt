@@ -1,0 +1,9 @@
+BACKGROUND The Mutyh DNA glycosylase is involved in the repair of oxidized DNA bases .
+Mutations in the human MUTYH gene are responsible for colorectal cancer in familial adenomatous polyposis .
+Since defective DNA repair genes might contribute to the increased cancer risk associated with inflammatory bowel diseases , we compared the inflammatory response of wild-type and Mutyh(-/-) mice to oxidative stress .
+METHODOLOGY/PRINCIPAL FINDINGS The severity of colitis , changes in expression of genes involved in DNA repair and inflammation , DNA 8-oxoguanine levels and microsatellite instability were analysed in colon of mice treated with dextran sulfate sodium ( DSS ) .
+The Mutyh(-/-) phenotype was associated with a significant accumulation of 8-oxoguanine in colon DNA of treated mice .
+A single DSS cycle induced severe acute ulcerative colitis in wild-type mice , whereas lesions were modest in Mutyh(-/-) mice , and this was associated with moderate variations in the expression of several cytokines .
+Eight DSS cycles caused chronic colitis in both wild-type and Mutyh(-/-) mice .
+Lymphoid hyperplasia and a significant reduction in Foxp3(+) regulatory T cells were observed only in Mutyh(-/-) mice .
+CONCLUSIONS The findings indicate that , in this model of ulcerative colitis , Mutyh plays a major role in maintaining intestinal integrity by affecting the inflammatory response .

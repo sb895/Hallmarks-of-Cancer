@@ -1,0 +1,11 @@
+Prevention of environmentally related cancer will be enhanced by the availability of sensitive early warning systems and by improvements in quantitative assessment of human risks .
+Accordingly , we have carried out a series of molecular epidemiologic studies aimed at validating a panel of biologic markers , including carcinogen-DNA and -protein adducts , sister chromatid exchange , micronucleus formation , DNA strand breaks , and DNA repair capacity .
+Results from three such studies illustrate the usefulness of these biomarkers in elucidating low-dose-response relationships , correlations between biomarkers , and the range of variation in biomarkers between individuals exposed to similar concentrations of carcinogens .
+Low-level workplace or ambient exposures to styrene , ethylene oxide , and polycyclic aromatic hydrocarbons ( PAH ) were associated with significant increases in both molecular dose of carcinogens ( adducts ) and various markers of preclinical effects .
+Correlations between biomarkers varied by exposure .
+For example , in the styrene study , sister chromatid exchange frequency was not correlated with any of the markers , in contrast to the studies of ethylene oxide and PAH .
+Significant molecular effects were observed not only in occupationally exposed people but also in residents of an area in Poland characterized by high levels of air pollution .
+For example , the mean PAH-DNA level in exposed residents ( winter sample ) was 30.4 adducts per 10(8) nucleotides .
+This level was significantly higher than that of adducts seen in summer samples from the same area ( 4.2/10(8) , or in winter samples from residents of a rural area ( 11.01/10(8) .
+Significant seasonal variation in PAH-DNA adduct formation in this group was consistent with recorded fluctuations in air pollution levels .
+Striking interindividual variation was observed in all three exposed populations .

@@ -1,0 +1,5 @@
+The NF-κB is best known for its role in inflammation .
+Here we show that constitutive NF-κB activity in cancer cells promotes the biosynthesis of redox scavenger glutathione ( GSH ) , which in turn confers resistance to oxidative stress .
+Inhibition of NF-κB significantly decreases GSH in several lines of human leukemia and prostate cancer cells possessing high or moderate NF-κB activities .
+Concomitantly , NF-κB inhibition by pharmacological and molecular means sensitizes " NF-κB positive " cancer cells to chemically-induced oxidative stress and death .
+We propose that inhibition of NF-κB can reduce intracellular GSH in " NF-κB-positive " cancers thereby improving the efficacy of oxidative stress-based anti-cancer therapy .

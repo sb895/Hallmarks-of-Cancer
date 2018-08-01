@@ -1,0 +1,10 @@
+PURPOSE Germline mutations in BRCA1 result in a strong predisposition to breast cancer , with frequent loss of heterozygosity of the remaining wild-type allele .
+The development of BRCA1 tumors is likely to depend on additional genetic alterations and gene expression changes which follow growth and DNA repair defects associated with BRCA1 deficiency .
+The identification of these modifications offers an opportunity to find surrogate markers of BRCA1 tumors .
+Here , we sought to identify differentially expressed proteins related to BRCA1 depletion .
+EXPERIMENTAL DESIGN We used isogenic HeLa cells either stably knocked-down or not for BRCA1 ( BRCA1(KD) ) and compared protein profiles of these cells by DIGE .
+RESULTS We detected increased levels of Replication protein A2 ( RPA2 ) in BRCA1(KD) cells as compared to control cells .
+RPA2 is an essential protein required for DNA replication and repair .
+We further demonstrated that depletion of RPA2 subunit delays growth of BRCA1(KD) respect to isogenic control cells .
+Strikingly , elevated levels of RPA2 were more frequently observed in BRCA1 tumors when triple-negative tumors from BRCA1 mutation carriers ( n=13 ) and non-carriers ( n=36 ) were stained in situ for RPA2 .
+CONCLUSIONS AND CLINICAL RELEVANCE RPA2 up-regulation may thus be involved in the growth and/or survival of BRCA1 tumor cells and useful in immunohistochemical discrimination of triple-negative BRCA1 tumors .

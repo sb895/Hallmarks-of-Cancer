@@ -1,0 +1,12 @@
+BACKGROUND Cancer , much like most human disease , is routinely studied by utilizing model organisms .
+Of these model organisms , mice are often dominant .
+However , our assumptions of functional equivalence fail to consider the opportunity for divergence conferred by Million Years ( MY ) of independent evolution between these species .
+For a given set of human disease related genes , it is therefore important to determine if functional equivalency has been retained between species .
+In this study we test the hypothesis that cancer associated genes have different patterns of substitution akin to adaptive evolution in different mammal lineages .
+RESULTS Our analysis of the current literature and colon cancer databases identified 22 genes exhibiting colon cancer associated germline mutations .
+We identified orthologs for these 22 genes across a set of high coverage ( >6X ) vertebrate genomes .
+Analysis of these orthologous datasets revealed significant levels of positive selection .
+Evidence of lineage-specific positive selection was identified in 14 genes in both ancestral and extant lineages .
+Lineage-specific positive selection was detected in the ancestral Euarchontoglires and Hominidae lineages for STK11 , in the ancestral primate lineage for CDH1 , in the ancestral Murinae lineage for both SDHC and MSH6 genes and the ancestral Muridae lineage for TSC1 .
+CONCLUSION Identifying positive selection in the Primate , Hominidae , Muridae and Murinae lineages suggests an ancestral functional shift in these genes between the rodent and primate lineages .
+Analyses such as this , combining evolutionary theory and predictions - along with medically relevant data , can thus provide us with important clues for modeling human diseases .

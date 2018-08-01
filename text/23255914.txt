@@ -1,0 +1,8 @@
+Cancer therapy with rapamycin has been successfully implemented for kidney cancer , glioblastoma and prostate cancer .
+However , there are few studies concerning the effects of rapamycin on the treatment of human melanoma .
+In this study , we investigated whether rapamycin may be a promising strategy for the effective treatment of melanoma and explored the possible mechanism for this by culturing M14 cells in vitro and treating with rapamycin at three concentrations ( 10 , 50 or 100 nmol/l ) .
+MDC and LC3B staining , western blot analysis , flow cytometry and transmission electron microscopy were employed .
+We revealed that rapamycin induced autophagy and inhibited the proliferation of M14 cells in a concentration-dependent manner , Furthermore , western blot analysis revealed an upregulated expression of Bcl-2 and downregulated expression of Bax in M14 cells .
+In conclusion , rapamycin induced autophagy and inhibited the growth of M14 cells .
+The mechanism may involve regulation of the expression of Bcl-2 family proteins .
+Rapamycin appears to be a promising strategy for the effective treatment of melanoma .

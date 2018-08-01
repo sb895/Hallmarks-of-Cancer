@@ -1,0 +1,13 @@
+The pancreatic stellate cells ( PSCs ) have complex roles in pancreas , including tissue repair and fibrosis .
+PSCs surround ATP releasing exocrine cells , but little is known about purinergic receptors and their function in PSCs .
+Our aim was to resolve whether PSCs express the multifunctional P2X7 receptor and elucidate how it regulates PSC viability .
+The number of PSCs isolated from wild type ( WT ) mice was 50% higher than those from the Pfizer P2X7 receptor knock out ( KO ) mice .
+The P2X7 receptor protein and mRNA of all known isoforms were expressed in WT PSCs , while KO PSCs only expressed truncated versions of the receptor .
+In culture , the proliferation rate of the KO PSCs was significantly lower .
+Inclusion of apyrase reduced the proliferation rate in both WT and KO PSCs , indicating importance of endogenous ATP .
+Exogenous ATP had a two-sided effect .
+Proliferation of both WT and KO cells was stimulated with ATP in a concentration-dependent manner with a maximum effect at 100 µM .
+At high ATP concentration ( 5 mM ) , WT PSCs , but not the KO PSCs died .
+The intracellular Ca(2+) signals and proliferation rate induced by micromolar ATP concentrations were inhibited by the allosteric P2X7 receptor inhibitor az10606120 .
+The P2X7 receptor-pore inhibitor A438079 partially prevented cell death induced by millimolar ATP concentrations .
+This study shows that ATP and P2X7 receptors are important regulators of PSC proliferation and death , and therefore might be potential targets for treatments of pancreatic fibrosis and cancer .

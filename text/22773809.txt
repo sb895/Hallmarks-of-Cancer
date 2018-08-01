@@ -1,0 +1,8 @@
+Phenotype-driven approaches to gene discovery using inbred mice have been instrumental in identifying genetic determinants of inherited blood dyscrasias .
+The recessive mutant scat ( severe combined anemia and thrombocytopenia ) alternates between crisis and remission episodes , indicating an aberrant regulatory feedback mechanism common to erythrocyte and platelet formation .
+Here , we identify a missense mutation ( G125V ) in the scat Rasa3 gene , encoding a Ras GTPase activating protein ( RasGAP ) , and elucidate the mechanism producing crisis episodes .
+The mutation causes mislocalization of RASA3 to the cytosol in scat red cells where it is inactive , leading to increased GTP-bound Ras .
+Erythropoiesis is severely blocked in scat crisis mice , and succumb during the second crisis ( d of age ) from catastrophic hematopoietic failure in the spleen and bone marrow .
+Megakaryopoiesis is also defective during crisis .
+Notably , the scat phenotype is recapitulated in zebrafish when rasa3 is silenced .
+These results highlight a critical , conserved , and nonredundant role for RASA3 in vertebrate hematopoiesis .

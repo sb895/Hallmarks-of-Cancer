@@ -1,0 +1,16 @@
+INTRODUCTION During selective segregation of DNA , a cell asymmetrically divides and retains its template DNA .
+Asymmetric division yields daughter cells whose genome reflects that of the parents ' , simultaneously protecting the parental cell from genetic errors that may occur during DNA replication .
+We hypothesized that long-lived epithelial cells are present in immortal , premalignant cell populations , undergo asymmetric division , retain their template DNA strands , and cycle both during allometric growth and during pregnancy .
+METHODS The glands of 3-week old immune competent Balb/C female mice were utilized intact or cleared of host epithelium and implanted with ductal-limited , lobule-limited , or alveolar-ductal progenitor cells derived from COMMA-D1 pre-malignant epithelial cells. 5-bromo-2-deoxyuridine ( 5-BrdU ) was administered to identify those cells which retain their template DNA .
+Nulliparous mice were then either injected with [ (3)H]-thymidine ( (3)H-TdR ) to distinguish 5-BrdU-label retaining cells that enter the cell cycle and euthanized , or mated , injected with ( 3)H-TdR , and euthanized at various days post-coitus .
+Sections were stained for estrogen receptor-α(ER-α) or progesterone receptor ( PR ) via immunohistochemistry .
+Cells labelled with both 5-BrdU and ( 3)H-TdR were indicative of label-retaining epithelial cells ( LREC ) .
+RESULTS Cells that retained a 5-BrdU label and cells labelled with [ (3)H]-thymidine were found in all mice and were typically detected along the branching epithelium of mature mouse mammary glands .
+Cells containing double-labelled nuclei ( LREC ) were found in the intact mammary gland of both pregnant and nulliparous mice , and in mammary glands implanted with pre-malignant cells .
+Double-labelled cells ( (3)H-TdR/5-BrdU ) represent a small portion of cells in the mammary gland that cycle and retain their template DNA ( 5-BrdU ) .
+Some label-retaining cells were also ER-α or PR positive .
+LRECs distributed their second label ( (3)H-TdR ) to daughter cells ; and this effect persisted during pregnancy .
+LRECs , and small focal hyperplasia , were found in all immortalized premalignant mammary implant groups .
+CONCLUSIONS The results indicate that a subpopulation of long-lived , label-retaining epithelial cells ( LRECs ) is present in immortal premalignant cell populations .
+These LRECs persist during pregnancy , retain their original DNA , and a small percentage express ER-α and PR .
+We speculate that LRECs in premalignant hyperplasia represent the long-lived ( memory ) cells that maintain these populations indefinitely .

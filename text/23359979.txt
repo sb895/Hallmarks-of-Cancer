@@ -1,0 +1,19 @@
+OBJECTIVE To observe the anti-tumor recurrent and metastatic efficacy of Ru'ai Shuhou Recipe ( RSR ) on HER2 positive breast cancer , to evaluate the effects of RSR on the expressions of matrix metalloproteinases ( MMPs ) and the tissue inhibitor of metalloproteinases ( TIMPs ) in the recurrence and metastasis of HER2 positive breast cancer , thus revealing its anti-tumor recurrent and metastatic mechanisms .
+METHODS Selected were 30-week-old HER2/neu transgenic spontaneous breast cancer mice FVB/neu .
+The primary tumor resection was carried out .
+After surgery they were randomly divided into the blank control group , the RSR group , the Herceptin group , and the combination group ( RSR + Herceptin group ) .
+The treatment lasted for 4 months .
+The inhibition rate of the recurrent tumor volume and the inhibition rate of the lung metastasis were evaluated .
+The expressions of matrix metalloproteinase-2 ( MMP-2 ) , matrix metalloproteinase-9 ( MMP-9 ) , tissue inhibitor of metalloproteinase ( TIMP-1 ) , and TIMP-2 in the recurrent tumor tissue were detected using Western blot .
+RESULTS By the end of the treatment the average recurrent tumor volume was 11.11 +/- 8.71 cm3 in the blank control group and 5.56 +/- 5.55 cm3 of the RSR group , showing statistical difference between the two groups ( P = 0.037 ) .
+The average lung metastatic nodule was 16 in the blank control group and 10 in the RSR group .
+The inhibition rate of lung metastasis was 37. 85% in the RSR group , but with no statistical significance .
+The expression level of activated MMP-2 in the RSR group was down-regulated when compared with the blank control group , the Herceptin group , and the combination group ( P < 0.05 ) .
+The expression of MMP-9 of the RSR group , the Herceptin group , and the combination group was significantly down-regulated when compared with the blank control group ( P < 0.05 ) .
+The expression of MMP-9 of the RSR group and the combination group was further down-regulated when compared with the Herceptin group ( P < 0.05 ) .
+The expressions of both TIMP-1 and TIMP-2 of the RSR group , the Herceptin group , and the combination group were all up-regulated when compared with the blank control group ( P < 0.05 ) .
+The increased expression of TIMP-1 was more significantly in the RSR group and the combination group when compared with the Herceptin group ( P < 0.05 ) .
+It was higher in the combination group than in the RSR group ( P < 0.05 ) .
+CONCLUSIONS RSR could inhibit the tumor recurrence of FVB/neu mice .
+It could reduce the degradation of extracellular matrix and increase the protective effects of extracellular matrix .
+It might achieve its anti-tumor effect through effecting the invasive and metastatic capabilities of breast tumor cells .

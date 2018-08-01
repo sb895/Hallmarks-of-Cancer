@@ -1,0 +1,12 @@
+The Ras-assocation domain family ( RASSF ) of tumor suppressor proteins until recently contained six proteins named RASSF1-6 .
+Recently , four novel family members , RASSF7-10 , have been identified by homology searches for RA-domain-containing proteins .
+These additional RASSF members are divergent and structurally distinct from RASSF1-6 , containing an N-terminal RA domain and lacking the Sav/RASSF/Hpo ( SARAH ) domain .
+Here , we show that RASSF8 is ubiquitously expressed throughout the murine embryo and in normal human adult tissues .
+Functionally , RNAi-mediated knockdown of RASSF8 in non-small-cell lung cancer ( NSCLC ) cell lines , increased anchorage-independent growth in soft agar and enhanced tumor growth in severe combined immunodeficiency ( SCID ) mice .
+Furthermore , EdU staining of RASSF8-depleted cells showed growth suppression in a manner dependent on contact inhibition .
+We show that endogenous RASSF8 is not only found in the nucleus , but is also membrane associated at sites of cell-cell adhesion , co-localizing with the adherens junction ( AJ ) component beta-catenin and binding to E-cadherin .
+Following RASSF8 depletion in two different lung cancer cell lines using alternative small interfering RNA ( siRNA ) sequences , we show that AJs are destabilized and E-cadherin is lost from the cell membrane .
+The AJ components beta-catenin and p65 are also lost from sites of cell-cell contact and are relocalized to the nucleus with a concomitant increase in beta-catenin-dependent and nuclear factor-kappaB ( NF-kappaB)-dependent signaling following RASSF8 depletion .
+RASSF8 may also be required to maintain actin -cytoskeletal organization since immunofluorescence analysis shows a striking disorganization of the actin- cytoskeleton following RASSF8 depletion .
+Accordingly , scratch wound healing studies show increased cellular migration in RASSF8-deficient cells .
+These results implicate RASSF8 as a tumor suppressor gene that is essential for maintaining AJs function in epithelial cells and have a role in epithelial cell migration .

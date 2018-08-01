@@ -1,0 +1,10 @@
+A simple reversed-phase HPLC method for measuring hepatic levels of acetaminophen- ( APAP- ) protein adduct following an overdose of APAP was developed .
+An aliquot of liver homogenate in phosphate-buffered saline pH 7.4 ( PBS ) was placed on a Nanosep centrifugal device , which was centrifuged to obtain a protein residue .
+This residue was incubated with a solution of p-aminobenzoic acid ( PABA ) , the internal standard , and bacterial protease in PBS , transferred to a Nanosep centrifugal device , and centrifuged .
+A 100\u2009\u03bcL portion of the filtrate was analyzed on a YMC-Pack ODS-AMQ C18 column , using 100\u2009mM potassium dihydrogen phosphate-methanol-acetic acid ( 100\u2009:\u20090.6\u2009:\u20090.1 ) as the mobile phase , a flow rate of 1\u2009mL/min , and photometric detection at 254\u2009nm .
+PABA and APAP-cystein-S-yl ( APAP-Cys ) eluted at and 22.7\u2009min , respectively .
+Method linearity , based on on-column concentrations of APAP-Cys , was observed over the range 0.078-40\u2009\u03bcg .
+Recoveries of APAP-Cys from spiked blank liver homogenates ranged from to 91% .
+Limits of detection and of quantification of APAP-Cys , based on column concentrations , were 0.06\u2009\u03bcg and 0.14\u2009\u03bcg , respectively .
+RSD values for interday and intraday analyses of a blank liver homogenate spiked with APAP-Cyst at three levels were , in all cases , \u22641.0% and <1.5% , respectively .
+The proposed method was found appropriate for comparing the antidotal properties of N-acetylcysteine and taurine in a rat model of APAP poisoning .

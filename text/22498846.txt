@@ -1,0 +1,6 @@
+PURPOSE The ability to accurately predict the likelihood of expansion of the CGG repeats in the FMR1 gene to a full mutation is of critical importance for genetic counseling of women who are carriers of premutation alleles ( 55-200 CGG repeats ) and who are weighing the risk of having a child with fragile X syndrome .
+The presence of AGG interruptions within the CGG repeat tract is thought to decrease the likelihood of expansion to a full mutation during transmission , thereby reducing risk , although their contribution has not been quantified .
+METHODS We retrospectively analyzed 267 premutation alleles for number and position of AGG interruptions , length of pure CGG repeats , and CGG repeat lengths present in the offspring of the maternal transmissions .
+In addition , we determined the haplotypes of four markers flanking the 5'-UTR locus in the premutation mothers .
+RESULTS We found that the presence of AGG interruptions significantly increased genetic stability , whereas specific haplotypes had a marginal association with transmission instability .
+CONCLUSION The presence of AGG interruptions reduced the risk of transmission of a full mutation for all maternal ( premutation ) repeat lengths below CGG repeats , with a differential risk ( 0 vs. 2 AGG ) exceeding 60% for alleles in the 70- to 80-CGG repeat range .

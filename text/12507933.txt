@@ -1,0 +1,12 @@
+Human esophageal adenocarcinoma ( EAC ) develops in a sequence from gastroesophageal reflux disease ( GERD ) , columnar-lined esophagus ( CLE ) , dysplasia , and eventually to EAC .
+We established a rat surgical EAC model with esophagogastroduodenal anastomosis ( EGDA ) to mimic the staged process of esophageal adenocarcinogenesis .
+Profiling of the AA metabolites with mass spectrometry showed that prostaglandin E2 ( PGE2 ) , leukotriene B4 ( LTB4 ) , 15-hydroeicosatetraenoic acid ( HETE ) , 12-HETE , 8-HETE and 5-HETE all increased at the esophagoduodenal junction after EGDA as compared with the proximal esophagus , with PGE2 as the major metabolite .
+Consistent with this profile , cyclooxygenase 2 ( Cox2 ) was overexpressed in the basal cell layer of esophageal squamous epithelium , CLE cells and EAC tumor cells of the EGDA rats , as compared with the normal esophageal epithelium .
+Sulindac ( a Cox inhibitor ) , nordihydroguaiaretic acid ( NDGA , a lipoxygenase inhibitor ) and alpha-difluoromethylornithine ( DFMO , an ornithine decarboxylase inhibitor ) were tested for their possible inhibitory actions against the formation of EAC in the rat EGDA model .
+In a short-term study ( for 4 weeks after surgery ) , dietary administration of both sulindac ( 300 and 600 p.p.m. ) and NDGA ( 100 p.p.m. ) effectively reduced the EGDA-induced inflammation .
+In a long-term chemoprevention study ( for 40 weeks after surgery ) , 300 p.p.m. sulindac , alone or in combination with 100 p.p.m .
+NDGA or 0.5% DFMO , decreased the tumor incidence from 57.7 to 26.9% , or 16.7 or 20% , respectively ( P < 0.05 ) .
+NDGA alone ( 100 and 200 p.p.m. ) slightly decreased the tumor incidence to 52.4 and 37% , respectively , although the difference was not statistically significant .
+DFMO alone did not show significant effects on tumor incidence .
+Inhibition of tumor formation by sulindac was correlated with lowered levels of PGE2 .
+In conclusion , sulindac exerted its chemopreventive effect against the formation of EAC in the rat EGDA model possibly through its inhibition of Cox .

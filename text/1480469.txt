@@ -1,0 +1,7 @@
+The use of substrates containing well defined adducts at precise sites , is required to perform a careful analysis of the toxic and mutagenic potential of a lesion .
+As a first step in this direction the octamer 5'-d(CCGGCGGT) , containing the sequence of the codons 12 d(GGC) and 13 d(GGT) of the human H-ras gene , was reacted with the antitumoral drug cis-diamminedichloroplatinum(II) .
+The platinated products have been purified by HPLC .
+A first set of experiments , including enzymatic digestions with nuclease P1 followed by alkaline phosphatase and acid-catalysed hydrolysis , allowed us to determine which bases were engaged in the cis-DDP lesions .
+Our results indicate that only guanine residues were chelated with cisplatin to yield bifunctional adducts .
+Furthermore , by performing enzymatic digestions with phosphodiesterases , we have located the adducts with respect to the 5 ' end of the octamer .
+Among the purified and characterized platinated oligonucleotides , three present a particular interest , since we have shown here that the cis-d(GpG) adduct is precisely situated either at the d(GGC) or at the d(GGT) or at both sites of their sequence .

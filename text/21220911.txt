@@ -1,0 +1,13 @@
+BACKGROUND/AIMS Mesenchymal stem cells ( MSCs ) have been implicated in antitumor therapy for hematopoietic and non-hematopoietic tumors .
+Cell-contact and soluble factors are demonstrated to play a role in the growth inhibition of tumor cells mediated by MSCs in vitro , while there is little clue about signaling pathways involved in the process .
+P38 MAPK has been implicated as a suppressor of cell proliferation and tumorigenesis .
+We here investigate whether p38 MAPK is involved in MSC-induced growth inhibition of leukemic tumor cells .
+Methods : We characterized the effect of human umbilical cord mesenchymal stem cells ( UC-MSCs ) on proliferation , cell cycle and phosphorylation pattern of p38 MAPK in HL60 and K562 cells .
+SB203580 , a specific inhibitor of p38 MAPK , or p38 MAPK-small interfering RNA ( siRNA ) , were used to identify the role of p38 in growth suppression by UC-MSCs .
+We also investigated the expression of cell cycle regulators .
+RESULTS Treatment with UC-MSCs led to potent proliferation-inhibition of HL60 and K562 cells without inducing apoptosis .
+Growth inhibition by UC-MSCs was due to G0/G1 arrest .
+UC-MSCs increased phosphorylation of p38 MAPK in HL60 and K562 cells .
+Pharmacological inhibition or genetic silencing ( through siRNA ) of p38 MAPK partially abrogated the proliferation-suppression and cell cycle arrest caused by UC-MSCs .
+UC-MSCs also modulated the expression of cell cycle regulatory proteins in HL60 and K562 cells while SB203580 reversed the effect .
+CONCLUSION Taken together , our findings indicate that p38 MAPK is critical for the growth inhibitory effect of UC-MSCs on leukemic tumor cells .

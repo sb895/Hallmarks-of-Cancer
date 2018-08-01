@@ -1,0 +1,10 @@
+Hepatocellular carcinoma ( HCC ) , one of the most frequent and deadliest cancers , has been increasing considerably in the United States .
+In the absence of a proven effective therapy for HCC , novel chemopreventive strategies are urgently needed to lower the current morbidity and mortality of HCC .
+Recently , we have reported that resveratrol , a compound present in grapes and red wine , significantly prevents diethylnitrosamine ( DENA)-induced liver tumorigenesis in rats , although the mechanism of action is not completely understood .
+In the present study , we have examined the underlying mechanisms of resveratrol chemoprevention of hepatocarcinogenesis by investigating the effects of resveratrol on oxidative damage and inflammatory markers during DENA-initiated rat liver carcinogenesis .
+There was a significant increase in hepatic lipid peroxidation and protein oxidation in carcinogen control animals compared with their normal counterparts at the end of the study ( 20 weeks ) .
+Elevated expressions of inducible nitric oxide synthase and 3-nitrotyrosine were noticed in the livers of the same animals .
+Dietary resveratrol ( 50-300 mg/kg ) administered throughout the study reversed all the aforementioned markers in a dose-responsive fashion in rats challenged with DENA .
+Resveratrol also elevated the protein and mRNA expression of hepatic nuclear factor E2-related factor 2 ( Nrf2 ) .
+Results of the present investigation provide evidence that attenuation of oxidative stress and suppression of inflammatory response mediated by Nrf2 could be implicated , at least in part , in the chemopreventive effects of this dietary agent against chemically induced hepatic tumorigenesis in rats .
+The outcome of this study may benefit the development of resveratrol in the prevention and intervention of human HCC .

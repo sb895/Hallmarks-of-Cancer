@@ -1,0 +1,7 @@
+In the course of a medicinal chemistry program aimed at discovering novel tumour-active rebeccamycin derivatives targeting DNA and/or topoisomerase I , a series of analogues with the sugar residue linked to the two indole nitrogens was recently developed .
+Two promising drug candidates in this staurosporine-rebeccamycin hybrid series were selected for a DNA-binding study reported here .
+The DNA interaction of the cationic indolocarbazole glycosides MP059 bearing a N,N-diethylaminoethyl side chain and MP072 containing a sugar bearing an amino group was compared with that of the uncharged analogue MP024 .
+The results show that the addition of a cationic substituent , either directly on the indolocarbazole chromophore or on the carbohydrate residue , significantly reinforces the interaction of the drugs with nucleic acids .
+The two cationic molecules MP059 and MP072 recognise preferentially sequences containing GpT.ApC and TpG.CpA steps but they do not inhibit topoisomerase I , in contrast to the parent uncharged derivative MP024 which stimulates DNA single strand breaks by topoisomerase I. The cytotoxic activity of the indolocarbazole derivatives bearing positively charged groups is one order of magnitude higher than that of the neutral compound MP024 .
+The high cytotoxic potential can be attributed to the enhanced DNA binding and sequence recognition capacity of the cationic compounds .
+The study provides useful information for further structure-activity relationship studies in the indolocarbazole series .

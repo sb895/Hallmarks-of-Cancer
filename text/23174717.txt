@@ -1,0 +1,12 @@
+PURPOSE We did this retrospective study to explore the association between epidermal growth factor receptor ( EGFR ) mutation and clinical features in postoperative recurrent female non-small-cell lung cancer ( NSCLC ) .
+MATERIALS AND METHODS We reviewed clinical data on 86 female patients who had postoperative recurrent disease between December 1992 and July 2007 .
+The start of tyrosine kinase inhibitor therapy was treated as a censoring event .
+Corresponding surgical specimens of primary tumors were used to test for EGFR mutations .
+RESULTS Thirty patients presented with local recurrence and distant recurrence was identified in 56 .
+Thirty-four of the 86 patients ( 40% ) harbored EGFR mutations .
+Patients with distant recurrence were more likely to have EGFR mutations than patients with local recurrence ( 48% versus 23% ; P = 0.024 ) .
+On multivariate analysis , distant recurrence was associated with a high frequency of EGFR mutations ( OR , 3.3 ; P = 0.028 ) .
+Survival analysis showed poor survival of patients with mutated EGFR ( HR , 2.3 ; P = 0.017 ) or with non-adenocarcinoma histology ( HR , 3.3 ; P = 0.001 ) .
+CONCLUSION The association between recurrence pattern and EGFR mutation status was suggested in recurrent female NSCLC patients .
+In addition , our data indicate unfavorable disease process of EGFR mutated tumors .
+Further studies need to be conducted to validate these findings .

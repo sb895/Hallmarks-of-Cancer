@@ -1,0 +1,5 @@
+Gliomas are aggressive and almost incurable glial brain tumors which frequently display abnormal platelet-derived growth factor ( PDGF ) signaling .
+Evidence gained from studies on several in vivo animal models has firmly established a causal connection between aberrant PDGF signaling and the formation of some gliomas .
+However , only recently has significant knowledge been gained regarding crucial issues such as the glioma cell of origin and the relationship between the transforming stimulus and the cellular characteristics of the resulting tumor .
+Based on recent evidence , we propose that PDGF can bias cell-fate decisions , driving the acquisition of cell type-specific features by the progeny of multipotent neural progenitors , thus determining the shape and direction of the transformation path .
+Furthermore , recent data about the cellular mechanisms of PDGF-driven glioma progression and maintenance indicate that PDGF may be required , unexpectedly , to override cell contact inhibition and promote glioma cell infiltration rather than to stimulate cell proliferation .

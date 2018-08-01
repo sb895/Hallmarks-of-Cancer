@@ -1,0 +1,12 @@
+Cantharidin is an active constituent of mylabris , a traditional Chinese medicine .
+It is a potent and selective inhibitor of protein phosphatase 2A ( PP2A ) that plays an important role in control of cell cycle , apoptosis , and cell-fate determination .
+Owing to its antitumor activity , cantharidin has been frequently used in clinical practice .
+In the present study , we investigated the therapeutic potential of cantharidin in pancreatic cancer .
+Cantharidin efficiently inhibited the growth of pancreatic cancer cells , but presented a much lighter toxicity effect against normal pancreatic duct cells .
+It caused G2/M cell-cycle arrest that was accompanied by the down-regulation of cyclin-dependent kinase 1 ( CDK1 ) and up-regulation of p21 expression .
+It induced apoptosis and elevated the expressions of pro-apoptotic factors tumor necrosis factor-alpha ( TNF-alpha ) , TNF-related apoptosis inducing receptor 1 ( TRAILR1 ) , TRAILR2 , Bad , Bak , and Bid , and decreased the expression of anti-apoptotic Bcl-2 .
+Activation of caspase-8 and caspase-9 suggested that both extrinsic and intrinsic pathways are involved in the induction of apoptosis .
+Interestingly , unlike previous studies on other cancer cells , we found that the inhibitory role of cantharidin is independent of oxidative stress in pancreatic cancer cells .
+Mitogen-activated protein kinases ( MAPKs ) , including ERK , JNK , and p38 , were activated after treatment with cantharidin .
+Inhibition of JNK , but not ERK or p38 , alleviated the cytotoxity effect of cantharidin , suggesting cantharidin exerted its anticancer effect through the JNK-dependent way .
+Hence , in addition to being an attractive candidate compound with therapeutic potential , cantharidin also highlighted the possibility of using PP2A as a therapeutic target for pancreatic cancer treatment .

@@ -1,0 +1,7 @@
+Free radical-induced cellular stress contributes to cancer during chronic inflammation .
+Here , we investigated mechanisms of p53 activation by the free radical , NO .
+NO from donor drugs induced both ataxia-telangiectasia mutated ( ATM)- and ataxia-telangiectasia mutated and Rad3-related-dependent p53 posttranslational modifications , leading to an increase in p53 transcriptional targets and a G(2)M cell cycle checkpoint .
+Such modifications were also identified in cells cocultured with NO-releasing macrophages .
+In noncancerous colon tissues from patients with ulcerative colitis ( a cancer-prone chronic inflammatory disease ) , inducible NO synthase protein levels were positively correlated with p53 serine 15 phosphorylation levels .
+Immunostaining of HDM-2 and p21(WAF1) was consistent with transcriptionally active p53 .
+Our study highlights a pivotal role of NO in the induction of cellular stress and the activation of a p53 response pathway during chronic inflammation .

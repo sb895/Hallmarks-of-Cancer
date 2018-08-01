@@ -1,0 +1,11 @@
+AIMS Tumour cell growth results from a disturbance in the balance between the rate of proliferation and cell death .
+In this study , proteins involved in the regulation of cell cycle arrest and apoptosis were studied as possible factors responsible for uncontrolled cell growth in colorectal cancer .
+METHODS The expression of proteins involved in these processes was investigated in 48 metastases from patients with colorectal cancer and compared with eight normal colon mucosa samples and 14 primary tumours .
+Both primary tumours and metastases were obtained from eight patients .
+The expression of thymidylate synthase ( TS ) , p53 , retinoblastoma protein ( Rb ) , Fas receptor , Fas ligand , bcl-2 , mcl-1 , bax , and bcl-x was measured using immunohistochemistry .
+Proliferation was determined by Ki67 staining , whereas apoptosis was assessed by M30 immunostaining , which recognises cleaved cytokeratin 18 .
+RESULTS In the limited number of cases in which paired comparisons were possible , the expression of TS and Ki67 was significantly higher in metastases than in the matched primary tumour samples ( p = 0.014 and 0.016 , respectively ) , whereas Rb expression was lower in metastases than in primary tumours ( p = 0.024 ) .
+Fas receptor expression was high in normal mucosa but absent in primary tumours and metastases , whereas the opposite was seen for p53 .
+The expression of bax , mcl-1 , and bcl-x in normal mucosa was more apical than that seen in malignant cells , where a more diffuse expression pattern was seen ( p < 0.04 ) .
+Apoptosis was more abundant in primary tumours than in metastases .
+CONCLUSIONS These results demonstrate that proliferation and apoptosis are disturbed during colorectal cancer progression , and this is accompanied by loss of Rb and Fas expression , the accumulation of p53 and TS , and changes in the expression patterns of bax , mcl-1 , and bcl-xl .

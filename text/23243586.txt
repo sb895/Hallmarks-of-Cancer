@@ -1,0 +1,10 @@
+The ARF locus is frequently inactivated in human cancer .
+The oncosuppressor ARF has indeed been described as a general sensor for different situation of cellular stress .
+We have previously demonstrated that ARF deficiency severely impairs inflammatory responses in vitro and in vivo , establishing a role for ARF in the regulation of innate immunity .
+The aim of the present work was to get further insights into the immune functions of ARF and to evaluate its possible contribution to the polarization of macrophages toward the M1 or M2 phenotype .
+Our results demonstrate that resting Arf(-/-) macrophages express high levels of Ym1 and Fizz-1 , two typical markers of alternatively-activated macrophages ( M2 ) .
+Additionally , Arf(-/-) peritoneal macrophages showed an impaired response to lipopolysaccharide ( a classical inducer of M1 polaryzation ) and a reduced production of pro-inflammatory cytokines/chemokines .
+Moreover , upon stimulation with interleukin-4 ( IL-4 ) , an inducer of the M2 phenotype , well established M2 markers such as Fizz-1 , Ym1 and arginase-1 were upregulated in Arf(-/-) as compared with wild type macrophages .
+Accordingly , the cytokine and chemokine profile associated with the M2 phenotype was significantly overexpressed in Arf(-/-) macrophages responding to IL-4 .
+In addition , multiple pro-angiogenic factors such as VEGF and MMP-9 were also increased .
+In summary , these results indicate that ARF contributes to the polarization and functional plasticity of macrophages .

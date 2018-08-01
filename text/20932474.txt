@@ -1,0 +1,6 @@
+Ultraviolet ( UV ) light induces DNA-damage checkpoints and mutagenesis , which are involved in cancer protection and tumorigenesis , respectively .
+How cells identify DNA lesions and convert them to checkpoint-activating structures is a major question .
+We show that during repair of UV lesions in noncycling cells , Exo1-mediated processing of nucleotide excision repair ( NER ) intermediates competes with repair DNA synthesis .
+Impediments of the refilling reaction allow Exo1 to generate extended ssDNA gaps , detectable by electron microscopy , which drive Mec1 kinase activation and will be refilled by long-patch repair synthesis , as shown by DNA combing .
+We provide evidence that this mechanism maybe stimulated by closely opposing UV lesions , represents a strategy to redirect problematic repair intermediates to alternative repair pathways , and may also be extended to physically different DNA damages .
+Our work has significant implications for understanding the coordination between repair of DNA lesions and checkpoint pathways to preserve genome stability .

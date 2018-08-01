@@ -1,0 +1,14 @@
+INTRODUCTION HER2 and estrogen receptor ( ER ) are important in breast cancer and are therapeutic targets of trastuzumab ( Herceptin ) and tamoxifen , respectively .
+Retinoids inhibit breast cancer growth , and modulate signaling by HER2 and ER .
+We hypothesized that treatment with retinoids and simultaneous targeting of HER2 and/or ER may have enhanced anti-tumor effects .
+METHODS The effects of retinoids combined with trastuzumab or tamoxifen were examined in two human breast cancer cell lines in culture , BT474 and SKBR3 .
+Assays of proliferation , apoptosis , differentiation , cell cycle distribution , and receptor signaling were performed .
+RESULTS In HER2-overexpressing/ER-positive BT474 cells , combining all-trans retinoic acid ( atRA ) with tamoxifen or trastuzumab synergistically inhibited cell growth , and altered cell differentiation and cell cycle .
+Only atRA/trastuzumab-containing combinations induced apoptosis .
+BT474 and HER2-overexpressing/ER-negative SKBR3 cells were treated with a panel of retinoids ( atRA , 9-cis-retinoic acid , 13-cis-retinoic acid , or N-(4-hydroxyphenyl) retinamide ( fenretinide ) ( 4-HPR) ) combined with trastuzumab .
+In BT474 cells , none of the single agents except 4-HPR induced apoptosis , but again combinations of each retinoid with trastuzumab did induce apoptosis .
+In contrast , the single retinoid agents did cause apoptosis in SKBR3 cells ; this was only modestly enhanced by addition of trastuzumab .
+The retinoid drug combinations altered signaling by HER2 and ER .
+Retinoids were inactive in trastuzumab-resistant BT474 cells .
+CONCLUSIONS Combining retinoids with trastuzumab maximally inhibits cell growth and induces apoptosis in trastuzumab-sensitive cells .
+Treatment with such combinations may have benefit for breast cancer patients .

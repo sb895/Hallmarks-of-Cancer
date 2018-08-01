@@ -1,0 +1,9 @@
+NK1 is a tachykinin receptor highly relevant to tumorigenesis and metastasis development in breast cancer and other carcinomas .
+Despite the substantial efforts done to develop potent NK1 receptor antagonists , none of these antagonists had shown good antitumor activity in clinical trials .
+Now , we have tested the effect of inhibition of the neuropeptide Substance P ( SP ) , a NK1 ligand , as a potential therapeutic approach in cancer .
+We found that the inhibition of SP with antibodies strongly inhibit cell growth and induce apoptosis in breast , colon , and prostate cancer cell lines .
+These effects were accompained by a decrease in the mitogen-activated kinase singaling pathway .
+Interestingly , in some cell lines SP abrogation decreased the steady state of Her2 and EGFR , suggesting that SP-mediated signaling is important for the basal activity of these ErbB receptors .
+In consequence , we observed a blockade of the cell cycle progression and the inhibition of several cell cycle-related proteins including mTOR .
+SP inhibition also induced cell death in cell lines resistant to Lapatinib and Trastuzumab that have increased levels of active Her2 , suggesting that this therapeutic approach could be also effective for those cancers resistant to current anti-ErbB therapies .
+Thus , we propose a new therapeutic strategy for those cancers that express NK1 receptor and/or other tachykinin receptors , based in the immuno-blockade of the neuropeptide SP .

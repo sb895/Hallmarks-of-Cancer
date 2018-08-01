@@ -1,0 +1,11 @@
+Previous studies have shown that copy-number variants ( CNVs ) contribute to the risk of complex developmental phenotypes .
+However , the contribution of global CNV burden to the risk of sporadic congenital heart disease ( CHD ) remains incompletely defined .
+We generated genome-wide CNV data by using Illumina 660W-Quad SNP arrays in 2,256 individuals with CHD , 283 trio CHD-affected families , and 1,538 controls .
+We found association of rare genic deletions with CHD risk ( odds ratio [ OR ] = 1.8 , p = 0.0008 ) .
+Rare deletions in study participants with CHD had higher gene content ( p = 0.001 ) with higher haploinsufficiency scores ( p = 0.03 ) than they did in controls , and they were enriched with Wnt-signaling genes ( p = 1 × 10(-5) ) .
+Recurrent 15q11.2 deletions were associated with CHD risk ( OR = 8.2 , p = 0.02 ) .
+Rare de novo CNVs were observed in of CHD trios ; 10 out of 11 occurred on the paternally transmitted chromosome ( p = 0.01 ) .
+Some of the rare de novo CNVs spanned genes known to be involved in heart development ( e.g. , HAND2 and GJA5 ) .
+Rare genic deletions contribute of the population-attributable risk of sporadic CHD .
+Second to previously described CNVs at 1q21.1 , deletions at 15q11.2 and those implicating Wnt signaling are the most significant contributors to the risk of sporadic CHD .
+Rare de novo CNVs identified in CHD trios exhibit paternal origin bias .

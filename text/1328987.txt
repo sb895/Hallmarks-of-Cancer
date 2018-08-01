@@ -1,0 +1,8 @@
+The mouse polyomavirus encodes a tumor-suppressor gene inactivator in its large T protein and a proto-oncogene activator in its middle T protein .
+We have used site-directed mutagenesis to selectively inactivate the former function without affecting the latter .
+Two mutant viruses were constructed to encode altered large T proteins that fail to bind the retinoblastoma tumor-suppressor gene product pRB , along with normal small and middle T proteins .
+The pRB-binding mutants proved to be defective in immortalization of primary rat embryo fibroblasts by a variety of tests .
+Yet they proved capable of transforming both primary and established fibroblasts in culture .
+Most importantly , the inability of these mutants to bind pRB had little effect on their ability to induce tumors in mice .
+We conclude that induction of multiple tumor types in this system does not depend on large T-pRB interactions but rather on middle T-dependent pathways .
+In addition , the ability of this virus to immortalize cells in culture is not essential to its ability to induce tumors in the animal .

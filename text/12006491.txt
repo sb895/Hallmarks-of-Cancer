@@ -1,0 +1,7 @@
+The yeast Sir2 protein mediates chromatin silencing through an intrinsic NAD-dependent histone deacetylase activity .
+Sir2 is a conserved protein and was recently shown to regulate lifespan extension both in budding yeast and worms .
+Here , we show that SIRT1 , the human Sir2 homolog , is recruited to the promyelocytic leukemia protein ( PML ) nuclear bodies of mammalian cells upon overexpression of either PML or oncogenic Ras ( Ha-rasV12 ) .
+SIRT1 binds and deacetylates p53 , a component of PML nuclear bodies , and it can repress p53-mediated transactivation .
+Moreover , we show that SIRT1 and p53 co-localize in nuclear bodies upon PML upregulation .
+When overexpressed in primary mouse embryo fibroblasts ( MEFs ) , SIRT1 antagonizes PML-induced acetylation of p53 and rescues PML-mediated premature cellular senescence .
+Taken together , our data establish the SIRT1 deacetylase as a novel negative regulator of p53 function capable of modulating cellular senescence .

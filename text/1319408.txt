@@ -1,0 +1,9 @@
+NIH-3T3 cells are non-tumorigenic when injected into athymic mice .
+If these cells are mixed with an extract of basement-membrane proteins ( matrigel ) and injected s.c. , they form locally invasive and highly vascularized tumors .
+Cells cultured from the NIH-3T3-matrigel-induced tumors showed a transformed phenotype and lacked contact inhibition .
+When cultured in a gel of matrigel , they proliferated and formed branched and invasive colonies .
+In contrast , the parental NIH-3T3 cells cultured on matrigel remained as cell aggregates and were not invasive .
+I.V. injections of the tumor-derived NIH-3T3 cells produced many colonies on the surface of the lungs , whereas the parental NIH-3T3 cells were not metastatic .
+Zymographic analysis of the conditioned media obtained from both the tumor-derived and parental NIH-3T3 cells demonstrated higher amounts of the 72-kDa gelatinase ( type-IV collagenase ) enzyme in the tumor-derived cells .
+Also , tumor-derived NIH-3T3 cells , but not parental NIH-3T3 cells , secreted the 92-kDa type-IV collagenase .
+These studies suggest that the interaction of pre-malignant NIH-3T3 cells with extracellular matrix components may contribute to the process of tumor progression .

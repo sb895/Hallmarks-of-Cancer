@@ -1,0 +1,10 @@
+BACKGROUND Ginkgolic acids ( GAs ) , extracted from the seed coat of Ginkgo biloba L. Our previous study has shown that GA monomer could inhibit the growth of Hep-2 significantly and induce the fragmentation of the chromosomal DNA .
+To further assess the antitumor potential and turn it into a candidate new antitumor drug , the antitumor mechanism of GA was investigated .
+METHOD The cytotoxicity and antitumor effect of GA monomer were assayed by MTT colorimetric assay with nontumorogenic MC-3T3-E1 as well as tumorogenic Hep-2 and Tac8113 cell lines .
+The effect of GA monomer on the proliferation of tumor cell lines was analyzed with MTT colorimetric and CFSE labeled assay .
+Cell cycle distribution and measurement of the percentage of apoptotic cells were performed by flow cytometry following stained with propidium iodide , annexin V-FITC .
+The expression of apoptotic proteins Bcl-2 , Bax and caspase-3 was analyzed with Western blot .
+RESULT GA only inhibited the growth of tumorogenic cell lines in a both dose- and time-dependent manner .
+Tumor cells were treated with GA for 72 h , 70.53 ± 4.54% Hep-2 and 63.5 ± 7.2% Tca8113 cells were retarded at GO/G1 phase , and the percentage of apoptosis was 40.4 ± 1.58 and 38.4 ± 1.7% , respectively .
+GA-treated activated caspase-3 downregulated the expression of anti-apoptotic Bcl-2 protein and upregulated the expression of pro-apoptotic Bax protein , eventually leading to a decrease in the Bcl-2/Bax ratio in tumor cells .
+CONCLUSIONS The antitumor action of GA was due to inhibiting the proliferation in a manner of inhibiting division , retarding the progress of cell cycle and inducing apoptosis , making GA a candidate as new antitumor drug .

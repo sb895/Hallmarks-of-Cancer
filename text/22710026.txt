@@ -1,0 +1,6 @@
+Merkel cell polyomavirus ( MCV ) , discovered in 2008 , is clonally integrated in Merkel cell carcinoma ( MCC ) .
+MCV is a common skin flora and initiates cancer in susceptible hosts only after it acquires a precise set of mutations that render it replication incompetent .
+Both MCV large and small T proteins promote cancer cell survival and proliferation .
+Large T targets pocket proteins regulating cell cycle transit while small T activates cap-dependent translation critical for cancer cell growth .
+These findings already have led to new diagnostics and clinical trials to target MCV-induced survivin and to promote antitumor immunity .
+In four years , the cause , diagnosis and therapy for an intractable cancer has been changed due to the molecular discovery of MCV .

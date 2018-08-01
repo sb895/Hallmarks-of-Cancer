@@ -1,0 +1,10 @@
+A recurrent mutation affecting codon 132 of the isocitrate dehydrogenase 1 ( IDH1 ) gene has been found in of primary glioblastomas ( GBMs ) , but in >70% of secondary GBMs or oligodendroglial and astrocytic tumors .
+We investigated IDH1 mutations in a series of 134 brain tumors to determine the prevalence and prognostic impact of IDH1 mutations .
+We also examined the correlations among histology , p53 and PTEN immunoexpression , MGMT methylation status , 1p 19q co-deletion and EGFR gene amplification .
+The 134 brain tumors included 41 low-grade oligodendrogliomas ( LOs ) , 47 anaplastic oligodendrogliomas ( AOs ) and 46 primary GBMs .
+Data showed that 53.7% ( 72/134 ) of cases showed mutations affecting codon 132 of IDH1 , including 73.2% of LOs , 82.9% of AOs and three primary GBMs ( 6.5% ) .
+All IDH1 mutations were Arg132His .
+In a survival analysis , patients with IDH1 mutations had better survival compared to those with wild-type IDH1 ( p<0.05 ) in LOs and AOs , but not in primary GBMs ( p=0.587 ) .
+In addition , in patients with both IDH1 mutation and MGMT methylation , p53 overexpression was a significant poor prognostic factor both in LOs and AOs .
+However , IDH1 mutation was not correlated with common genetic profiles that affect patient prognosis , including MGMT methylation , 1p 19q co-deletion , PTEN loss and EGFR amplification in LOs , AOs and GBMs .
+From our results , IDH1 mutation was an independent positive prognostic factor in LOs and AOs , especially in the absence of p53 overexpression .

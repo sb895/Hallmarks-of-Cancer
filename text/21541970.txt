@@ -1,0 +1,13 @@
+BACKGROUND Prostate cancer ( PCa ) progression is often associated with transactivation of the androgen receptor ( AR ) by endogenous hormones/growth factors .
+One such factor affecting growth , proliferation , and apoptostis ( pro-/anti- ) in various cancers is the adipokine leptin .
+This research studied leptin-induced signaling and apoptosis in androgen sensitive ( LNCaP , PC3/AR ) and insensitive ( PC3 , DU145 ) PCa cell lines .
+METHODS Signaling was studied by immunoblotting in cells overexpressing leptin receptors ( LRb ) , Janus kinase 2 ( JAK2 ) , and kinase negative-HER2-YFP cDNAs .
+Apoptosis was measured by immunoblotting of apoptotic proteins and by Hoechst staining of condensed DNA .
+RESULTS Leptin rapidly induced activation of JAK2 , STAT3 , and MAPK ( ERK1/2 ) signaling cascades ; it may also induce HER2 transactivation via leptin-induced phospho-JAK2 .
+Leptin was then shown to exert clear pro-apoptotic effects , increasing levels of caspase 3 , cleavage of its substrate , poly ( ADP-ribose ) polymerase ( PARP ) to cleaved PARP(89) , levels of CK 18 , a cytoskeletal protein formed during apoptosis , and DNA condensation .
+Kinase inhibitors indicated that leptin-induced apoptosis is probably mediated by balanced activation of JAK2/STAT3 , p38 MAPK , and PKC pathways in PCa cells .
+A human leptin mutein LRb antagonist , L39A/D40A/F41A , fully inhibited leptin-induced phosphorylation of JAK2 , ERK1/2 , and Akt/PKB , and partially abrogated effects on apoptotic proteins .
+In LNCaP and PC3/AR cells , leptin increased AR protein levels in correlation with raised apoptotic markers .
+Thus , AR may mediate , at least partly , the leptin-induced apoptotic response .
+CONCLUSIONS Leptin can clearly induce apoptosis in human PCa cell lines .
+These findings could lead to development of new leptin agonists with enhanced pro-apoptotic effects and targeted for use in human PCa .

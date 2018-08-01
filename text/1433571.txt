@@ -1,0 +1,14 @@
+At present , isoniazid ( INH ) is being used prophylactically to reduce the side effects of intravesical BCG therapy for superficial bladder cancer , although it is not clear whether or not this reduces the antitumor efficacy of BCG .
+In this study the impact of INH treatment on the immune response after repeated intravesical BCG administration was investigated in guinea pigs .
+INH was given on the 3 days around each BCG instillation .
+We found that the administration of INH severely impaired the immunological effects of BCG .
+The induction of mononuclear cell infiltration in the bladder wall was reduced .
+Enlargement of the regional lymph nodes ( weight and number of cells ) , and increase of MHC Class II expression on the lymph node cells , normally observed after intravesical BCG administration , were inhibited by INH .
+Systemic immunity , measured by the DTH reaction in the skin to PPD , was also diminished due to the combined treatment of BCG with INH .
+When INH was administered during the last 4 of 6 BCG instillations , the immune response to BCG was still impaired .
+A five-fold increase of the dose of BCG did not overcome the effect of INH .
+INH probably did not exert a direct suppression of the immune system of the guinea pig as the DNCB skin reactivity was not influenced .
+Although INH concentrations in the urine were high at the onset of the instillation , in vitro experiments indicated that the effect of INH may not be caused by killing of the BCG organisms shortly after application in the bladder .
+In conclusion , our data in guinea pigs suggest that the use of INH may impair the immune response to intravesical BCG .
+As this response may be important for the antitumor effect of BCG , urologists should be cautious with the prophylactic use of INH .
+The influence on the antitumor efficacy is now investigated in man .

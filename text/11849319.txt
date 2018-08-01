@@ -1,0 +1,8 @@
+Interferon-gamma ( IFN-gamma ) has pleiotropic activities other than its antivirus action , including cell growth inhibition , natural killer ( NK ) cell and cytotoxic T lymphocyte ( CTL ) activation , and angiogenesis inhibitory activity , and these activities are supposed to be involved in its antitumour activity .
+However , it has not been completely elucidated which activity is mainly involved in the tumour suppression in vivo .
+In this study , we analysed inhibitory mechanisms of endogenous IFN-gamma against B16 melanoma experimental metastasis .
+After intravenous injection of tumour cells , tumour deposits in the lungs and liver were increased and life span was shorter in IFN-gamma(-/-) mice , indicating important roles for IFN-gamma in antitumour mechanisms .
+Interestingly , tumour deposits were not increased in IFN-gamma receptor ( R)(-/- ) mice .
+Furthermore , only low levels of cell-mediated immunity against the tumour and activation of NK cells were observed , indicating that antimetastatic effects of IFN-gamma is not mediated by host cells .
+The survival period of B16 melanoma-bearing IFN-gamma R(-/-) mice was , however , shorter than wild-type mice .
+These observations suggest that IFN-gamma prevents B16 melanoma experimental metastasis by directly inhibiting the cell growth , although antitumour host functions may also be involved in a later phase .

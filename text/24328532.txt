@@ -1,0 +1,9 @@
+Aims : RAS-induced tumorigenesis has been suggested to follow a three-stage model consisting of an initial RAS activation , senescence induction , and evasion of p53-dependent senescence checkpoints .
+While reactive oxygen species ( ROS ) act as second messengers in RAS-induced senescence , they are also involved in oncogenic transformation by inducing proliferation and promoting mutations .
+In the current work , we investigated the role of extracellular superoxide dismutase ( SOD3 ) in RAS-induced senescence and immortalization in vitro and in vivo .
+We used a mouse embryonic fibroblast ( MEF ) primary cell model together with immortalized and transformed human cell lines derived from papillary and anaplastic thyroid cancer .
+Results : Based on our data , sod3 RNA interference in H-RasV12-transduced cells markedly inhibited cell growth , while sod3 over-expression in MEFs initially caused a proliferative burst followed by the activation of DNA damage checkpoints , induction of p53-p21 signal transduction , and senescence .
+Subsequently , sod3-transduced MEF cells developed co-operative p21-p16 down-regulation and acquired transformed cell characteristics such as increased telomerase activity , loss of contact inhibition , growth in low-nutrient conditions , and in vivo tumorigenesis .
+Interestingly , as reported previously with RAS , we showed a dose-dependent response to SOD3 in vitro and in vivo involving transcriptional and non-transcriptional regulatory mechanisms .
+Innovation : SOD3 may mediate H-RasV12-induced initiation of primary cell immortalization .
+Conclusions : Our results indicate that SOD3 influences growth signaling in primary and cancer cells downstream of the ras oncogene and could serve as a therapy target at an early tumorigenesis phase .

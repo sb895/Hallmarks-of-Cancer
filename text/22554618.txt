@@ -1,0 +1,10 @@
+Heterodimeric hCG is one of the key hormones determining early pregnancy success .
+We have previously identified rare missense mutations in hCG\u03b2 genes with potential pathophysiological importance .
+The present study assessed the impact of these mutations on the structure and function of hCG by applying a combination of in silico ( sequence and structure analysis , molecular dynamics ) and in vitro ( co-immunoprecipitation , immuno- and bioassays ) approaches .
+The carrier status of each mutation was determined for 1086 North-Europeans [ 655 patients with recurrent miscarriage ( RM)/431 healthy controls from Estonia , Finland and Denmark ] using PCR-restriction fragment length polymorphism .
+The mutation CGB5 p.Val56Leu ( rs72556325 ) was identified in a single heterozygous RM patient and caused a structural hindrance in the formation of the hCG\u03b1/\u03b2 dimer .
+Although the amount of the mutant hCG\u03b2 assembled into secreted intact hCG was only 10% compared with the wild-type , a stronger signaling response was triggered upon binding to its receptor , thus compensating the effect of poor dimerization .
+The mutation CGB8 p.Pro73Arg ( rs72556345 ) was found in five heterozygotes ( three RM cases and two control individuals ) and was inherited by two of seven studied live born children .
+The mutation caused of secreted \u03b2-subunits to acquire an alternative conformation , but did not affect its biological activity .
+For the CGB8 p.Arg8Trp ( rs72556341 ) substitution , the applied in vitro methods revealed no alterations in the assembly of intact hCG as also supported by an in silico analysis .
+In summary , the accumulated data indicate that only mutations with neutral or mild functional consequences might be tolerated in the major hCG\u03b2 genes CGB5 and CGB8 .

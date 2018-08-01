@@ -1,0 +1,6 @@
+MicroRNAs ( miRNAs ) are small non-coding RNAs of nucleotides that function as negative regulators of gene expression by either inhibiting translation or inducing deadenylation-dependent degradation of target transcripts .
+Notably , deregulation of miRNAs expression is associated with the initiation and progression of human cancers where they act as oncogenes or tumor suppressors contributing to tumorigenesis .
+Abnormal miRNA expression may provide potential diagnostic and prognostic tumor biomarkers and new therapeutic targets in cancer .
+Recently , several miRNAs have been shown to initiate invasion and metastasis by targeting multiple proteins that are major players in these cellular events , thus they have been denominated as metastamiRs .
+Here , we present a review of the current knowledge of miRNAs in cancer with a special focus on metastamiRs .
+In addition we discuss their potential use as novel specific markers for cancer progression .

@@ -1,0 +1,9 @@
+Each year , more than 700,000 people undergo cancer surgery in the United States .
+However , more than 40% of those patients develop recurrences and have a poor outcome .
+Traditionally , the medical community has assumed that recurrent tumors arise from selected tumor clones that are refractory to therapy .
+However , we found that tumor cells have few phenotypical differences after surgery .
+Thus , we propose an alternative explanation for the resistance of recurrent tumors .
+Surgery promotes inhibitory factors that allow lingering immunosuppressive cells to repopulate small pockets of residual disease quickly .
+Recurrent tumors and draining lymph nodes are infiltrated with M2 ( CD11b(+)F4/80(hi)CD206(hi) and CD11b(+)F4/80(hi)CD124(hi) ) macrophages and CD4(+)Foxp3(+) regulatory T cells .
+This complex network of immunosuppression in the surrounding tumor microenvironment explains the resistance of tumor recurrences to conventional cancer vaccines despite small tumor size , an intact antitumor immune response , and unaltered cancer cells .
+Therapeutic strategies coupling antitumor agents with inhibition of immunosuppressive cells potentially could impact the outcomes of more than 250,000 people each year .

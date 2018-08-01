@@ -1,0 +1,9 @@
+Angiogenesis is the process of new blood vessel formation from pre-existing ones .
+Angiogenic factors contribute to neovascularization that takes place in angiogenesis-dependent diseases , including cancer .
+Inhibiting the activity of the angiogenic factors to block the angiogenesis pathways is the current strategy of cancer therapy .
+Basic fibroblast growth factor ( bFGF ) is regarded as one of the most important angiogenic factors .
+Herein , we selected polyoxometalates ( POMs ) with different structures to study the interactions between bFGF and POMs .
+The results show that POMs could bind to the protein with high affinity , causing detectable changes in conformation and biophysical properties of protein .
+In addition , POMs could effectively inhibit the cell proliferation induced by bFGF .
+Significantly , we found that the structure , size and composition of POMs play a key role in the interactions between bFGF and POMs .
+This study will be meaningful for future screening and design of polyoxometalate-based anticancer drugs .

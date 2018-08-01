@@ -1,0 +1,12 @@
+Resveratrol is a naturally occurring polyphenol that exhibits pleiotropic health beneficial effects , including anti-inflammatory , cardio-protective , and cancer-protective activities .
+It is recognized as one of the more promising natural molecules in the prevention and treatment of chronic inflammatory and autoimmune disorders .
+Ulcerative colitis is an idiopathic , chronic inflammatory disease of the colon associated with a high colon cancer risk .
+Here , we used a dextran sulfate sodium ( DSS ) mouse model of colitis , which resembles human ulcerative colitis pathology .
+Resveratrol mixed in food ameliorates DSS-induced colitis in mice in a dose-dependent manner .
+Resveratrol significantly improves inflammation score , downregulates the percentage of neutrophils in the mesenteric lymph nodes and lamina propria , and modulates CD3(+) T cells that express tumor necrosis factor-alpha and IFN-gamma .
+Markers of inflammation and inflammatory stress ( p53 and p53-phospho-Ser(15) ) are also downregulated by resveratrol .
+Because chronic colitis drives colon cancer risk , we carried out experiments to determine the chemopreventive properties of resveratrol .
+Tumor incidence is reduced from 80% in mice treated with azoxymethane ( AOM ) + DSS to 20% in mice treated with AOM + DSS + resveratrol ( 300 ppm ) .
+Tumor multiplicity also decreased with resveratrol treatment .
+AOM + DSS-treated mice had 2.4 +/- 0.7 tumors per animal compared with AOM + DSS + 300 ppm resveratrol , which had 0.2 +/- 0.13 tumors per animal .
+The current study indicates that resveratrol is a useful , nontoxic complementary and alternative strategy to abate colitis and potentially colon cancer associated with colitis .

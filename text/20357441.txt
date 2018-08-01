@@ -1,0 +1,9 @@
+BACKGROUND Paclitaxel and pirarubicin exhibit cytotoxic and antitumor activities .
+However , little is known about the apoptosis-inducing effects of paclitaxel and pirarubicin on human osteosarcoma MG-63 cells .
+METHODS The effects of paclitaxel and pirarubicin on cell cycle arrest and apoptosis were studied in MG-63 cells using flow cytometry .
+PCNA , Bcl-2 , Bax , cyclin D1 and cyclin E expression was assessed by Western blotting .
+RESULTS Paclitaxel and pirarubicin caused G2/M and G0/G1 cell cycle arrest in MG-63 cells , respectively .
+Apoptosis of MG-63 cells mediated by paclitaxel was dependent on treatment duration .
+Interestingly , in cells treated with pirarubicin , apoptosis was related to treatment duration at concentrations of 10(2)-10(3) nM , whereas the effect of treatment duration was less marked at concentrations >10(4)-10(5) nM .
+Furthermore , paclitaxel and pirarubicin suppressed the expression of PCNA , cyclin D1 , cyclin E and Bcl-2 , and increased Bax expression .
+CONCLUSION These results suggest that the G2/M or G0/G1 cell cycle arrest and apoptosis induced by paclitaxel and pirarubicin are Bcl-2/Bax dependent , suggesting favorable effects of combination therapy with paclitaxel and pirarubicin in the treatment of osteosarcoma .

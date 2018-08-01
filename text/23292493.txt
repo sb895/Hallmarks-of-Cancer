@@ -1,0 +1,13 @@
+The aberrant expression of human epidermal growth factor receptor-2 ( HER-2 ) has been detected in ovarian cancer .
+However , the role of HER-2 in the development of ovarian cancer has not been sufficiently elucidated .
+The objective of this study was to determine the role of HER-2 in the apoptosis and metastasis of SKOV-3 ovarian cancer cells .
+SKOV-3 cells were transfected with three double‑stranded small interfering RNA ( siRNA ) molecules that target HER-2 .
+Various sequences were synthesized by T7 transcription invitro to select the most effective HER-2‑silencing siRNA .
+SKOV-3 cells were examined for growth inhibition using the MTT proliferation assay and apoptosis was assessed using flow cytometry and TUNEL assay .
+The Matrigel basement memebrane matrix was used to assess invasion and chemotactic mobility , as a model of tumor cell metastasis .
+Western blot analysis was used to detect the expression of matrix metallopeptidase-9 ( MMP-9 ) , E-cadherin , N-cadherin and vimentin. siRNA interference in HER-2 resulted in decreased cell proliferation and invasion and increased apoptosis .
+Western blot analysis demonstrated a marked increase in E-cadherin and MMP-9 and a reduction in N-cadherin and vimentin protein levels in the SKOV-3 cells .
+The suppression of HER-2 expression resulted in apoptosis and the inhibition of metastasis of SKOV-3 cells .
+Therefore , the overexpression of the HER-2 gene can enhance the metastatic potential of SKOV-3 cells by increasing the protein levels of MMP-9 .
+Epithelial-mesenchymal transition may be involved in the HER-2 siRNA-induced invasion and migration of SKOV-3 cells .
+Taken together , these results suggest that HER-2 functions as an oncogene and may thus be an attractive therapeutic target in SKOV-3 ovarian cancer cells .

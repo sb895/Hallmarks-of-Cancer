@@ -1,0 +1,4 @@
+Cellular senescence has emerged as a critical tumor suppressive mechanism in recent years , but relatively little is known about how senescence occurs .
+Here , we report that secreted Frizzled-related protein 1 ( SFRP1 ) , a secreted antagonist of Wnt signaling , is oversecreted upon cellular senescence caused by DNA damage or oxidative stress .
+SFRP1 is necessary for stress-induced senescence caused by these factors and is sufficient for the induction of senescence phenotypes .
+We present evidence suggesting that SFRP1 functions as a secreted mediator of senescence through inhibition of Wnt signaling and activation of the retinoblastoma ( Rb ) pathway and that cancer-associated SFRP1 mutants are defective for senescence induction .

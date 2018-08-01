@@ -1,0 +1,10 @@
+Benzyl isothiocyanate ( BITC ) is a dietary chemopreventive agent that inhibits the growth of various human cancer cells by causing apoptotic cell death .
+In this study , we demonstrate that BITC not only induces apoptosis but also induces autophagy in human hormone-sensitive ( Rv1 ) and -refractory ( PC3 ) prostate cancer cells .
+In BITC-treated cells , the induction of autophagy was detected by monitoring the processing of an autophagy marker protein , microtubule-associated protein 1 light chain 3 ( LC3 ) , the aggregation of LC3 into granular structures and the formation of acidic organelles .
+Inhibition of autophagy using 3-methyladenine increased BITC-induced apoptosis , whereas the administration of caspase inhibitor suppressed BITC-induced cell death .
+Our data also showed that BITC inhibits mammalian target of rapamycin ( mTOR ) kinase activity in a dose-dependent manner .
+The expression of phospho-mTOR ( Ser2481 ) , an indicator of mTOR intrinsic catalytic activity , and phospho-UNC-51-like kinase 1 ( Ser757 ) , a direct substrate of mTOR , were decreased in BITC-treated cells .
+However , the increased expression of phospho-mTOR ( Ser2448 ) , phospho-AKT ( Ser473 ) and antiapoptotic Bcl-2 were detected only in PC3 cells at later stages of BITC treatment .
+Collectively , our results show that BITC induces a protective autophagy response in Rv1 and PC3 cells through inhibition of the mTOR signaling pathway .
+Activation of the AKT survival pathway was only observed in PC3 cells , representing a resistance mechanism of advanced prostate cancer upon BITC treatment .
+These findings could potentially contribute to the beneficial effect of BITC in prostate cancer treatments .

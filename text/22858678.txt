@@ -1,0 +1,8 @@
+The metastasis-associated lung adenocarcinoma transcript 1 , MALAT1 , is a long non-coding RNA ( lncRNA ) that has been discovered as a marker for lung cancer metastasis .
+It is highly abundant , its expression is strongly regulated in many tumor entities including lung adenocarcinoma and hepatocellular carcinoma as well as physiological processes , and it is associated with many RNA binding proteins and highly conserved throughout evolution .
+The nuclear transcript MALAT-1 has been functionally associated with gene regulation and alternative splicing and its regulation has been shown to impact proliferation , apoptosis , migration and invasion .
+Here , we have developed a human and a mouse knockout system to study the loss-of-function phenotypes of this important ncRNA .
+In human tumor cells , MALAT1 expression was abrogated using Zinc Finger Nucleases .
+Unexpectedly , the quantitative loss of MALAT1 did neither affect proliferation nor cell cycle progression nor nuclear architecture in human lung or liver cancer cells .
+Moreover , genetic loss of Malat1 in a knockout mouse model did not give rise to any obvious phenotype or histological abnormalities in Malat1-null compared with wild-type animals .
+Thus , loss of the abundant nuclear long ncRNA MALAT1 is compatible with cell viability and normal development .

@@ -1,0 +1,6 @@
+The ability of p53 to alter , at the transcriptional level , the gene expression of downstream targets is critical for its role as a tumor suppressor .
+Most models of p53 activation postulate the stepwise recruitment by p53 of coactivators , histone acetyltransferases , and/or chromatin remodeling factors to a promoter region to facilitate the subsequent access of the general transcriptional machinery required for transcriptional induction .
+We demonstrate here , however , that the promoter regions for the p53 target genes , p21 , 14-3-3sigma , and KARP-1 , exist in a constitutively open conformation that is readily accessible to DNase I. This conformation was not altered by DNA damage or by whether p53 was present or absent in the cell .
+In contrast , p53 response elements , which resided outside the immediate promoter regions , existed within DNase I-resistant chromatin domains .
+Thus , p53 activation of downstream target genes occurs without p53 inducing chromatin alterations detectable by DNase I accessibility at either the promoter or the response element .
+As such , these data support models of p53 activation that do not require extensive chromatin alterations to support cognate gene expression .

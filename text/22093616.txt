@@ -1,0 +1,6 @@
+We present a novel gain-of-function mutation of TGF-β receptor II ( TβRII ) found in human oral squamous cell carcinoma ( OSCC ) .
+Expression of E221V/N238I mutant TβRII enhanced TGF-β signaling .
+Mutation of TβRII conferred cells higher migratory and invasive capabilities and MMP-2 activity .
+In mouse tumor model , mutant tumors exhibited poor differentiation and E-cadherin relocalization to the cytosol .
+Lipid-raft-dependent endocytosis of TβRII was attenuated in mutant TβRII , suggesting that enhancement of TGF-β signaling by this mutation is due to delayed TβRII internalization .
+Taken together , our results show a novel gain-of-function TβRII mutation , which enhances TGF-β signaling leading to more invasive phenotypic changes in human OSCC .

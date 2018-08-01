@@ -1,0 +1,6 @@
+p53 and INK4a/ARF mutations promote tumorigenesis and drug resistance , in part , by disabling apoptosis .
+We show that primary murine lymphomas also respond to chemotherapy by engaging a senescence program controlled by p53 and p16(INK4a) .
+Hence , tumors with p53 or INK4a/ARF mutations-but not those lacking ARF alone-respond poorly to cyclophosphamide therapy in vivo .
+Moreover , tumors harboring a Bcl2-mediated apoptotic block undergo a drug-induced cytostasis involving the accumulation of p53 , p16(INK4a) , and senescence markers , and typically acquire p53 or INK4a mutations upon progression to a terminal stage .
+Finally , mice bearing tumors capable of drug-induced senescence have a much better prognosis following chemotherapy than those harboring tumors with senescence defects .
+Therefore , cellular senescence contributes to treatment outcome in vivo .

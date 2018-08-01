@@ -1,0 +1,14 @@
+INTRODUCTION The homeobox-containing transcription factor muscle segment homeobox 2 ( Msx2 ) plays an important role in mammary gland development .
+However , the clinical implications of Msx2 expression in breast cancer are unclear .
+The aims of this study were to investigate the potential clinical value of Msx2 as a breast cancer biomarker and to clarify its functional role in vitro .
+METHODS Msx2 gene expression was first examined in a well-validated breast cancer transcriptomic dataset of 295 patients .
+Msx2 protein expression was then evaluated by immunohistochemistry in a tissue microarray ( TMA ) containing 281 invasive breast tumours .
+Finally , to assess the functional role of Msx2 in vitro , Msx2 was ectopically expressed in a highly invasive breast tumour cell line ( MDA-MB-231 ) and an immortalised breast cell line ( MCF10a ) , and these cell lines were examined for changes in growth rate , cell death and cell signalling .
+RESULTS Examination of Msx2 mRNA expression in a breast cancer transcriptomic dataset demonstrated that increased levels of Msx2 were associated with good prognosis ( P = 0.011 ) .
+Evaluation of Msx2 protein expression on a TMA revealed that Msx2 was detectable in both tumour cell nuclei and cytoplasm .
+Cytoplasmic Msx2 expression was associated with low grade tumours ( P = 0.012 ) and Ki67 negativity ( P = 0.018 ) .
+Nuclear Msx2 correlated with low-grade tumours ( P = 0.015 ) , estrogen receptor positivity ( P = 0.038 ) , low Ki67 ( P = 0.005 ) and high cyclin D1 expression ( P = 0.037 ) .
+Increased cytoplasmic Msx2 expression was associated with a prolonged breast cancer-specific survival ( P = 0.049 ) , recurrence-free survival ( P = 0.029 ) and overall survival ( P = 0.019 ) .
+Ectopic expression of Msx2 in breast cell lines resulted in radically decreased cell viability mediated by induction of cell death via apoptosis .
+Further analysis of Msx2-expressing cells revealed increased levels of p21 and phosphorylated extracellular signal-regulated kinase ( ERK ) and decreased levels of Survivin and the ' split ends ' ( SPEN ) protein family member RBM15 .
+CONCLUSIONS We conclude that increased Msx2 expression results in improved outcome for breast cancer patients , possibly by increasing the likelihood of tumour cell death by apoptosis .

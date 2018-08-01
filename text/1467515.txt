@@ -1,0 +1,11 @@
+The UT-7 cell line was established from a patient with a megakaryoblastic leukemia ( Komatsu et al , Cancer Res 51 : 341 , 1991 ) .
+Its proliferation is strictly dependent on the presence of hematopoietic growth factors including erythropoietin ( Epo ) , granulocyte-macrophage colony-stimulating factor ( GM-CSF ) , and interleukin-3 ( IL-3 ) .
+We investigated the differentiation capacities of this cell line under the action of several growth factors , using immunomarkers , flow cytometry , and ultrastructural techniques .
+In the presence of GM-CSF and IL-3 , eosinophil and basophil promyelocytes were detected , as well as a few cells with erythroid and megakaryocytic ( MK ) differentiation features .
+In contrast , Epo induced a marked erythroid differentiation with an increase of glycophorin A expression , accompanied by a few hemoglobinized cells .
+Differentiation induced by the growth factors took 24 to 48 hours to begin , and increased with cell passages to a plateau at 2 weeks of culture .
+However , this was not only due to a cell selection because the differential effects of Epo and GM-CSF were observed from a single cell clone and the phenotype could be reversed by opposite growth factors , even after a long period of culture .
+We subsequently investigated the phenotype of UT-7 in the presence of combinations of Epo , IL-3 , and GM-CSF , and showed that GM-CSF and IL-3 act predominantly over Epo .
+This effect was mediated by a rapid downmodulation of Epo receptors by GM-CSF at messenger RNA and binding sites levels , without a change in receptor affinities .
+On the other hand , Epo had no effect on number and affinity of GM-CSF receptors .
+This study shows that UT-7 is a growth factor-dependent pluripotent cell line in which commitment may be directed by a hierarchical action of growth factors through an early and rapid transmodulation of growth factor receptors .

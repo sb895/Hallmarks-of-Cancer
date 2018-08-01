@@ -1,0 +1,9 @@
+Angiogenesis is increased in hematologic malignancies , including non-Hodgkin lymphoma ( NHL ) .
+Elevated serum levels of two important angiogenic factors , vascular endothelial growth factor ( VEGF ) and basic fibroblast growth factor ( bFGF ) , are associated with a poor prognosis .
+Immunohistochemistry was used to evaluate 27 patients with NHL and bone marrow involvement ( 17 with low-grade B-cell NHL , including 7 with higher grade transformation ; 6 with intermediate-grade B-cell NHL ; and 4 with T-cell lymphoma ) .
+Among the 17 patients with low-grade B-cell NHL , results for 7 were positive for VEGF stain ( 41.2% ) , and results were negative for all other stains for VEGF receptors , bFGF , and bFGF receptors .
+In the 10 patients with intermediate-grade B-cell NHL and T-cell lymphoma , all VEGF staining was positive ( 100% ) , but bFGF staining was only weakly positive in 2 .
+Staining results for seven patients who had low-grade B-cell NHL with higher grade transformation showed that VEGF staining was positive in large lymphoid cells of 5 patients and in small lymphoid cells of one patient .
+Staining for the receptors VEGFR-1 and VEGFR-2 was positive in large lymphoid cells in four and two cases , respectively .
+Staining for bFGF was positive in two cases of large lymphoid cells .
+We concluded that VEGF , but not bFGF , was associated with higher tumor grading of NHL and high-grade transformation of low-grade lymphoma .

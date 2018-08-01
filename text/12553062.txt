@@ -1,0 +1,7 @@
+We examined the inducibility of drug resistance ( MDR1 , MRP1 , LRP ) and protein kinase C ( PKC ) isozyme ( alpha , epsilon , eta , theta , tau , zeta ) corresponding genes in A2780 ovarian cancer cells after a 24-hour treatment with adriamycin ( ADR ) , camptothecin ( CAM ) , etoposide ( ETO ) or vincristine ( VCR ) .
+Sublethal concentrations of drugs were used to exclude short-term effects caused by selection .
+Cell cycle analysis was performed to identify possible correlation between resistance factors , PKC isozymes and proliferation .
+We found a mostly combined induction of MDR1 , LRP , PKC tau and PKC zeta by CAM , ETO and VCR .
+PKC alpha , epsilon , eta and theta gene expression altered variably .
+Cell cycle analysis showed that A2780 cells responded with a marked G2/M arrest after a 24-hour treatment with CAM , ETO and VCR but an association between the induction of PKC isozymes corresponding genes and proliferation was not seen .
+Our analysis points to a possible link between atypical PKC tau/PKC zeta and MDR1/LRP in cytostatic stress response of cancer cells .

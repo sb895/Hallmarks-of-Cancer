@@ -1,0 +1,9 @@
+The Sleeping Beauty ( SB ) transposon is a nonviral , integrating vector system with proven efficacy in preclinical animal models , and thus holds promise for future clinical applications .
+However , SB has a close-to-random insertion profile that could lead to genotoxic effects , thereby presenting a potential safety issue .
+We evaluated zinc finger ( ZF ) DNA-binding domains ( DBDs ) for their abilities to introduce a bias into SB's insertion profile .
+E2C , that binds a unique site in the erbB-2 gene , mediated locus-specific transposon insertions at low frequencies .
+A novel ZF targeting LINE1 repeats , ZF-B , showed specific binding to an 18-bp site represented by copies in the human genome .
+We mapped SB insertions using linear-amplification ( LAM)-PCR and Illumina sequencing .
+Targeted insertions with ZF-B peaked at approximately fourfold enrichment of transposition around ZF-B binding sites yielding overall frequency of insertion into LINE1 .
+A decrease in the ZF-B dataset with respect to transposon insertions in genes was found , suggesting that LINE1 repeats act as a sponge that " soak up " a fraction of SB insertions and thereby redirect them away from genes .
+Improvements in ZF technology and a careful choice of targeted genomic regions may improve the safety profile of SB for future clinical applications .

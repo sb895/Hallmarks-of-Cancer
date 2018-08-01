@@ -1,0 +1,12 @@
+Normal human lung fibroblast diploid cells , WI-38 , become senescent after a definite number of divisions .
+VA-13 is a line of immortalized cells established by transformation of WI-38 cells by SV40 virus .
+To determine whether SV40 large T ( SV40-T ) antigen is essential for this immortalization of WI-38 cells we introduced an antisense gene for T antigen into VA-13 .
+Two morphologically different types of antisense transformant ( VA-AS5-8 and VA-AS37-8 ) were obtained .
+In both antisense transformants the expression of T antigen was reduced by more than 70% as compared to that in the parent cells .
+The morphology of the antisense transformants indicated a partial conversion to the senescent phenotype of WI-38 .
+The relative number of cells in the S phase of the antisense transformants was decreased as compared to that in cultures of VA-13 and about 50% of cells were at G1/0 .
+The doubling time of the transformants was prolonged to close to the doubling time of WI-38 .
+The level of expression of retinoblastoma protein ( pRB ) complexed with SV40-T antigen of the antisense transformants was significantly decreased although the level of total pRB was much higher than that in VA-13 .
+The pRB was present exclusively in the underphosphorylated form .
+Thus , the decreased level of formation of the complex between SV40-T and pRB or the underphosphorylation of pRB may explain the suppression of growth of antisense transformants .
+Together , these results show that an antisense gene for SV40-T antigen can efficiently block the cell proliferation and the cell immortalization of VA-13 cells .

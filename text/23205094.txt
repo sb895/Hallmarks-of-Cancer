@@ -1,0 +1,12 @@
+The β2-adrenergic receptor ( β2AR ) mediates the effects of chronic stress in several neoplasms , however , β2AR signaling is impaired by hypoxia in various tissues .
+While hypoxia is a common feature significant in the progression of solid tumors , little is known about the effect of hypoxia on β2AR signaling in the tumor microenvironment .
+Previously , it has been reported that the systemic administration of mesenchymal stem cells ( MSCs ) increased the engraftment and metastatic colonization of rat osteosarcoma ( OS ) cells .
+In the current study , the effect of MSCs on the hypoxia-induced desensitization of the β2AR in OS cells was investigated .
+Epinephrine , norepinephrine and isoproterenol increased the cellular proliferation of the rat OS cell line COS1NR and rat MSCs in a dose-dependent and β2AR antagonist-sensitive manner .
+While isoproterenol had significant proliferative effects on MSCs under normoxic and hypoxic conditions , COS1NR cells did not respond under hypoxic conditions .
+A sensitivity assay for the β2AR revealed that hypoxia impaired the sensitivity of COS1NR cells , whereas hypoxia did not affect MSCs .
+An immunoassay revealed no significant change in the expression of hypoxia-inducible factor-1α ( HIF1α ) in COS1NR cells , whilst an immunoassay demonstrated a 15% increase in MSCs following isoproterenol stimulation .
+In COS1NR cells co-cultured with MSCs under hypoxic conditions , isoproterenol caused a significant increase in proliferation and this effect was inhibited by an anti-interleukin ( IL)-6 antibody .
+A tumor formation assay in syngeneic rats revealed that the systemic administration of MSCs enhances the growth of OS and the effect of MSCs was inhibited by IL-6 neutralization .
+In conclusion , MSCs are resistant to the hypoxia-induced desensitization to β2AR .
+Hypoxia caused a siginificant desensitization of the β2AR in COS1NR cells alone , whereas MSCs may support tumor progression through cellular interactions .

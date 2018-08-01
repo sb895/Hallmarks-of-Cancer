@@ -1,0 +1,7 @@
+HER-2/neu gene expression , DNA ploidy and proliferation index were studied in 250 cases of breast cancer .
+Expression of HER-2/neu was determined by using an antibody to the HER-2/neu receptor .
+Ki-67 antibody was used to determine the proliferation index of the breast cancers , and the Feulgen method was used to assess DNA amounts in the tumor cells .
+Histochemical staining was quantitated by image analysis .
+Of the cancers studied , 72 were positive for overexpression of HER-2/neu protein ; of these , 62 ( 86% ) possessed near-tetraploid DNA content , and 47 ( 65% ) had more than one G0G1 stem line ( polyploid ) of DNA distribution .
+Cells from the cases negative for HER/2-neu overexpression contained DNA amounts that ranged from diploid to varying degrees of aneuploid .
+A significant difference in the amounts of cellular proliferation in HER-2/neu overexpressing cancers was found between those that expressed the HER-2/neu receptor on their membranes and those that exhibited mainly cytoplasmic receptors .

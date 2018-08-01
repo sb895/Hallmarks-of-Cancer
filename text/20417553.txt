@@ -1,0 +1,13 @@
+Polycylic aromatic hydrocarbons ( PAHs ) are ubiquitous contaminants in the marine environment .
+Their toxicity is mainly linked to the ability of marine species to biotransform them into reactive metabolites .
+PAHs are thus often detected at trace levels in animal tissues .
+For biomonitoring purposes , this findings have two main consequences , ( i ) the determination of the PAH tissue concentration is not suitable for the evaluation of individual exposure to PAHs ( ii ) it can explain sometimes the lack of correlations obtained with relevant markers of toxicity such as genotoxicity biomarkers .
+The aim of the present study was to better investigate the link between PAH exposure and genotoxicity in marine flatfish .
+During a laboratory experiment , juvenile soles were exposed for four weeks to a mixture of three PAHs , namely benzo[a]pyrene , fluoranthene and pyrene , followed by one week of depuration .
+Fish were exposed via the trophic route to a daily PAH concentration of 120 μg/g food .
+Fish were sampled at different time points .
+The bioavailability and the biotransformation of PAHs were assessed by the measurement of biliary metabolites using a sensitive UPLC MS/MS method .
+The 7-ethoxyresorufine-O-deethylase was also measured in liver subcellular fractions as a biomarker of phase I biotransformation activities .
+Genotoxicity was assessed in parallel by the measurement of DNA strand breaks in fish erythrocytes by the alkaline comet assay .
+During this study , the high amount of PAH metabolites produced in sole demonstrated the bioavailability of PAHs and their biotransformation by fish enzymes .
+A positive correlation was observed between the level of hydroxylated PAH metabolites and genotoxicity as measured by the alkaline comet assay .

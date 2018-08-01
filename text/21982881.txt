@@ -1,0 +1,8 @@
+BARD1 heterodimerizes with BRCA1 , forming an E3 ubiquitin ligase that functions at nuclear foci to repair DNA damage and the centrosome to regulate mitosis .
+We compared BARD1 recruitment at these structures using fluorescence recovery after photobleaching assays to measure YFP-BARD1 dynamics in live cells .
+In nuclei at ionizing radiation-induced foci , 20% of the BARD1 pool was immobile and 80% of slow mobility exhibiting a recovery time >500 s .
+In contrast , at centrosomes 83% of BARD1 was rapidly mobile with extremely fast turnover ( recovery time The faster exchange of BARD1 at centrosomes correlated with BRCA1-independent recruitment .
+We mapped key targeting sequences to a combination of the N and C-termini , and showed that mutation of the nuclear export signal reduced centrosome localization by 50% , revealing a role for CRM1 .
+Deletion of the sequence 128-550 increased BARD1 turnover at the centrosome , consistent with a role in transient associations .
+Conversely , the cancer mutation Q564H reduced turnover by 25% .
+BARD1 is one of the most highly mobile proteins yet detected at the centrosome , and in contrast to its localization at DNA repair foci , which requires dimerization with BRCA1 , targeting of BARD1 to the centrosome occurs prior to heterodimerization and its rapid turnover may provide a mechanism to regulate dimer formation .

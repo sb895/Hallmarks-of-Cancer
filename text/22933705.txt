@@ -1,0 +1,9 @@
+In lung cancer , platelet-derived growth factor receptor α ( PDGFRα ) is expressed frequently by tumor-associated stromal cells and by cancer cells in a subset of tumors .
+We sought to determine the effect of targeting stromal PDGFRα in preclinical lung tumor xenograft models ( human tumor , mouse stroma ) .
+Effects of anti-human ( IMC-3G3 ) and anti-mouse ( 1E10 ) PDGFRα monoclonal antibodies ( mAb ) on proliferation and PDGFRα signaling were evaluated in lung cancer cell lines and mouse fibroblasts .
+Therapy studies were conducted using established PDGFRα-positive H1703 cells and PDGFRα-negative Calu-6 , H1993 , and A549 subcutaneous tumors in immunocompromised mice treated with vehicle , anti-PDGFRα mAbs , chemotherapy , or combination therapy .
+Tumors were analyzed for growth and levels of growth factors .
+IMC-3G3 inhibited PDGFRα activation and the growth of H1703 cells in vitro and tumor growth in vivo , but had no effect on PDGFRα-negative cell lines or mouse fibroblasts. 1E10 inhibited growth and PDGFRα activation of mouse fibroblasts , but had no effect on human cancer cell lines in vitro .
+In vivo , 1E10-targeted inhibition of murine PDGFRα reduced tumor growth as single-agent therapy in Calu-6 cells and enhanced the effect of chemotherapy in xenografts derived from A549 cells .
+We also identified that low expression cancer cell expression of VEGF-A and elevated expression of PDGF-AA were associated with response to stromal PDGFRα targeting .
+We conclude that stromal PDGFRα inhibition represents a means for enhancing control of lung cancer growth in some cases , independent of tumor cell PDGFRα expression .

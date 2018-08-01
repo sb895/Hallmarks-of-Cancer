@@ -1,0 +1,11 @@
+Cellular senescence is considered as a tumor suppressive mechanism .
+Recent evidence indicates however that senescent cells secrete various growth factors and cytokines , some of which may paradoxically promote cancer progression .
+This phenomenon termed senescence-associated secretory phenotype ( SASP ) must be inhibited in order for anti-proliferative agents to be effective .
+The present study was designed to determine whether the β-catenin destruction complex ( BCDC ) , known to integrate the action of various growth factors and cytokines , would represent a suitable target to inhibit the activity of SASP components .
+For this , we carried out experiments to determine the effect of drug-induced senescence on secretion of SASP , β-catenin transactivation , and the relationship between these processes .
+Moreover , genetic and pharmacological approaches were used to define the implication of BCDC in mediating the effects of SASP components on cell migration and resistance to drugs .
+The findings indicate that drug-induced senescence was associated with expression of various Wnt ligands in addition to previously known SASP components .
+Beta catenin transactivation and expression of genes implicated in epithelial-mesenchymal transition ( EMT ) also increased in response to drug-induced SASP .
+These effects were prevented by Pyrvinium , a recently described activator of BCDC .
+Pyrvinium also suppressed the effects of SASP on cell migration and resistance to doxorubicin .
+Together , these findings provide insights on the potential role of BCDC in mediating the effects of drug-induced SASP on cancer cell invasion and resistance to therapy , and suggest that targeting this pathway may represent an effective approach to enhance the activity of current and prospective anti-cancer therapeutics .

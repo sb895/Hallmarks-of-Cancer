@@ -1,0 +1,9 @@
+During papillomavirus infection , the E5 protein localizes in the cell Golgi apparatus and other endomembrane compartments .
+Cells transformed by E5 do not express major histocompatibility class I complex ( MHC I ) on the cell surface , while cells transformed by the other transforming proteins E6 and E7 do .
+In addition , the total amount of both MHC I protein and mRNA is reduced in E5-transformed cells .
+Here we show that expression of bovine papillomavirus E5 causes the retention of MHC I in the Golgi apparatus , thus preventing its transport to the cell surface .
+We ascribe this effect to a failure of acidification of the Golgi apparatus , as similar effects are observed in control cells treated with the ionophore monensin .
+Treatment of E5-transformed cells with either beta- or gamma-interferon increases the synthesis of MHC I , showing that inhibition of MHC I expression by E5 is not irreversible .
+However , even after interferon treatment , MHC I , although increased in quantity , is not transported to the cell surface .
+E5 therefore affects MHC I at several levels , but prevention of MHC I transport to the cell surface appears to be the dominant effect .
+Lack of surface MHC I would have profound consequences for presentation of viral peptides to the immune system .

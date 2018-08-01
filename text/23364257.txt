@@ -1,0 +1,10 @@
+Bcl-2/E1B 19-kDa interacting protein 3 ( BNIP3 ) is a proapoptotic protein whose expression level is often low in colorectal cancer ( CRC ) cells due to the BNIP3 gene promoter DNA methylation by DNA methyltransferase ( DNMT ) .
+It is known that chemotherapy and radiotherapy suppress CRC through inducing tumor apoptosis .
+However , the molecular mechanisms underlying chemotherapy and radiotherapy-induced apoptosis of CRC cells are not well defined .
+In this study , we observed that the expression level of BNIP3 in colon cancer cells was significantly increased by treatment with therapeutic agents and radiation in vitro .
+The BNIP3 protein level in CRC tissues from patients who received preoperative concurrent chemotherapy was significantly higher than in those who received surgery alone .
+Furthermore , treatment with chemotherapeutic agents and radiation significantly decreased the DNMT1 expression level and enzymatic activity .
+Both expression level and activity of DNMT1 were inversely correlated with the expression level of BNIP3 in colon carcinoma cells after treatment with chemotherapeutic agents and radiation .
+Consistent with increased BNIP3 expression , chemotherapeutic agents and radiation induced colon carcinoma cell apoptosis in a dose-dependent manner .
+Based on these observations , we conclude that chemotherapy and radiotherapy inhibit DNMT1 expression to upregulate BNIP3 expression to promote CRC cell apoptosis .
+And , BNIP3 may play a role in the caspase-dependent apoptosis pathways , mainly during treatment with chemotherapy and radiotherapy .

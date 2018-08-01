@@ -1,0 +1,10 @@
+Unlike the growth factor dependence of normal cells , cancer cells can maintain growth factor-independent glycolysis and survival through expression of oncogenic kinases , such as BCR-Abl .
+Although targeted kinase inhibition can promote cancer cell death , therapeutic resistance develops frequently , and further mechanistic understanding is needed .
+Cell metabolism may be central to this cell death pathway , as we have shown that growth factor deprivation leads to decreased glycolysis that promotes apoptosis via p53 activation and induction of the proapoptotic protein Puma .
+Here , we extend these findings to show that elevated glucose metabolism , characteristic of cancer cells , can suppress protein kinase Cδ ( PKCδ)-dependent p53 activation to maintain cell survival after growth factor withdrawal .
+In contrast , DNA damage-induced p53 activation was PKCδ independent and was not metabolically sensitive .
+Both stresses required p53 Ser(18) phosphorylation for maximal activity but led to unique patterns of p53 target gene expression , showing distinct activation and response pathways for p53 that were differentially regulated by metabolism .
+Consistent with oncogenic kinases acting to replace growth factors , treatment of BCR-Abl-expressing cells with the kinase inhibitor imatinib led to reduced metabolism and p53- and Puma-dependent cell death .
+Accordingly , maintenance of glucose uptake inhibited p53 activation and promoted imatinib resistance .
+Furthermore , inhibition of glycolysis enhanced imatinib sensitivity in BCR-Abl-expressing cells with wild-type p53 but had little effect on p53-null cells .
+These data show that distinct pathways regulate p53 after DNA damage and metabolic stress and that inhibiting glucose metabolism may enhance the efficacy of and overcome resistance to targeted molecular cancer therapies .

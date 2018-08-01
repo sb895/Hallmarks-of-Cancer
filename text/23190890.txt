@@ -1,0 +1,8 @@
+Approximately 50% of melanomas require oncogenic B-RAF(V600E) signaling for proliferation , survival , and metastasis , and the use of highly selective B-RAF inhibitors has yielded remarkable , although short-term , clinical responses .
+Reactivation of signaling downstream of B-RAF is frequently associated with acquired resistance to B-RAF inhibitors , and the identification of B-RAF targets may therefore provide new strategies for managing melanoma .
+In this report , we applied whole-genome expression analyses to reveal that oncogenic B-RAF(V600E) regulates genes associated with epithelial-mesenchymal transition in normal cutaneous human melanocytes .
+Most prominent was the B-RAF-mediated transcriptional repression of E-cadherin , a keratinocyte-melanoma adhesion molecule whose loss is intimately associated with melanoma invasion and metastasis .
+Here we identify a link between oncogenic B-RAF , the transcriptional repressor Tbx3 , and E-cadherin .
+We show that B-RAF(V600E) induces the expression of Tbx3 , which potently represses E-cadherin expression in melanocytes and melanoma cells .
+Tbx3 expression is normally restricted to developmental embryonic tissues and promoting cell motility , but it is also aberrantly increased in various cancers and has been linked to tumor cell invasion and metastasis .
+We propose that this B-RAF/Tbx3/E-cadherin pathway has a critical role in promoting the metastasis of B-RAF-mutant melanomas .

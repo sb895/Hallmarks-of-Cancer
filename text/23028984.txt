@@ -1,0 +1,7 @@
+Although tumor-associated macrophages ( TAMs ) are involved in tumor growth and metastasis , the mechanisms controlling their pro-tumoral activities remain largely unknown .
+The transcription factor c-MYC has been recently shown to regulate in vitro human macrophage polarization and be expressed in macrophages infiltrating human tumors .
+In this study , we exploited the predominant expression of LysM in myeloid cells to generate c-Myc(fl/fl) LysM(cre/+) mice , which lack c-Myc in macrophages , to investigate the role of macrophage c-MYC expression in cancer .
+Under steady-state conditions , immune system parameters in c-Myc(fl/fl) LysM(cre/+) mice appeared normal , including the abundance of different subsets of bone marrow hematopoietic stem cells , precursors and circulating cells , macrophage density , and immune organ structure .
+In a model of melanoma , however , TAMs lacking c-Myc displayed a delay in maturation and showed an attenuation of pro-tumoral functions ( e.g. , reduced expression of VEGF , MMP9 , and HIF1α ) that was associated with impaired tissue remodeling and angiogenesis and limited tumor growth in c-Myc(fl/fl) LysM(cre/+) mice .
+Macrophage c-Myc deletion also diminished fibrosarcoma growth .
+These data identify c-Myc as a positive regulator of the pro-tumoral program of TAMs and suggest c-Myc inactivation as an attractive target for anti-cancer therapy .

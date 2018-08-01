@@ -1,0 +1,12 @@
+BACKGROUND Adenosine receptors ( A1 , A2A , A2B , A3 ) play an important role in the regulation of growth , proliferation and death of cancer and normal cells .
+We recently showed the expression profile of A2A and A2B receptors in normal and tumor breast tissues .
+In the present study , we used semiquantitative RT-PCR to measure the A1 and A3 gene expression levels in normal and tumor breast tissues .
+METHODS Breast tumors ( n = 18 ) and non-neoplastic mammary tissues ( n = 10 ) were collected and histologically confirmed to be neoplastic or non-neoplastic , respectively .
+Total RNA was extracted and reverse transcribed into cDNA , and PCR was performed under optimized condition for each receptor subtype .
+Amplification of beta-actin mRNA served as control for RT-PCR .
+The PCR products were separated on 1.7% agarose gels .
+The intensity of the bands was quantitated with ImageJ software after normalization against beta-actin expression .
+RESULTS All breast tumor and normal tissue specimens expressed A1 and A3 adenosine receptor transcripts .
+However , we observed that the expression level of the A3 receptor in tumor tissues was 1.27-fold that of normal tissues , whereas there was no significant difference between the expression levels of A1 in normal and tumor tissues .
+CONCLUSIONS Interestingly , the results of the present study indicate that breast tumors exhibit a higher level of A3 transcripts ( than normal tissues ) and support the possible key role of A3 adenosine receptor in tumor development .
+However , further studies based on real-time quantitative RT-PCR are needed to identify the exact gene expression levels .

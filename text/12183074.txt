@@ -1,0 +1,9 @@
+The aim of this study was to extend our previous observations on the soy modulation of biochemical parameters in 7,12-dimethylbenz[a]anthracene ( DMBA)-induced rat mammary tumors , by simultaneously investigating the expression of estrogen receptor-alpha ( ERalpha ) , estrogen receptor-beta ( ERbeta ) , progesterone receptor ( PR ) , apoptosis , neu , and markers of cell proliferation , such as proliferating cell nuclear antigen ( PCNA ) by immunohistochemistry .
+The percentage of ERalpha positive tumors was 65.8% in masses from control animals , and significantly dropped to 36.8% in tumors from soy treated rats ( P=0.010 ) .
+The percentage of ERbeta positive tumors was 70.3% in masses from control animals vs. 50.0% in tumors from soy exposed animals ( P=0.066 ) .
+Moreover , the percentage of cases which were both ERalpha and ERbeta positive was significantly lower ( 17.6% ) in soy treated than in control animals ( 51.3% ) ( P=0.006 ) .
+The percentage of PR positive tumors was 34.2% in control animals vs. 2.6% in tumors from soy treated rats ( P=0.0006 ) .
+There were no statistically significant differences in the percentage of tumors positively stained for neu , apoptosis , or PCNA , in control vs. soy treated rats .
+However , when analyzing the reciprocal correlation among the different biochemical parameters we showed that , in treated animals , the majority of ERalpha positive tumors ( 91.7% ) were also PCNA positive ( P=0.036 ) .
+The median percentage of PCNA positivity was significantly higher in ERalpha positive than in ERalpha negative tumors ( 25 vs. 5% ) ( P=0.0031 ) .
+Moreover , an association was found between PCNA and neu status since all neu positive tumors were also PCNA positive ( P=0.011 ) .

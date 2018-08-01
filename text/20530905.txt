@@ -1,0 +1,6 @@
+Hypoxia is one of the inevitable circumstances of various tumors .
+It controls various levels of regulation in tumor progression and results in tumor resistance to radiotherapy and chemotherapy .
+Here we investigated a synthetic TPZ derivative , N-ethoxymethyl-3-amino-1,2,4-benzotriazine-1,4-dioxide ( XQ2 ) , a novel compound that induced anti-cancer effects both in normoxia and in hypoxia , cell proliferation assay found that XQ2 exhibited a potent inhibitory effect on the tested cancer cell lines both in normoxia and in hypoxia .
+Flow cytometry and western blot studies indicated that XQ2 induces G2/M arrest and a caspase-dependent apoptosis in A549 cells .
+Additionally , intracellular reactive oxygen species ( ROS ) appear to play a key role in the anticancer effect of XQ2 in hypoxia .
+Taken together , our data suggest that XQ2 exerted anticancer action by suppressing the ROS level and triggering cell-cycle arrest and the caspase-dependent pathway , which is associated with apoptosis .

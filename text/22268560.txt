@@ -1,0 +1,9 @@
+G-quadruplex structures are an attractive target for the development of anticancer drugs , as their formation in human telomere induces a DNA damage response followed by apoptosis in cancer cells .
+However , the development of new anticancer drugs by means of structural-based drug design is hampered by a lack of accurate information on the exact G-quadruplex conformation adopted by the human telomeric DNA under physiological conditions .
+Several groups reported that , in a molecular crowded , cell-like environment , simulated by polyethylene glycol ( PEG ) , the human telomeric DNA adopts the parallel G-quadruplex conformation .
+These studies have suggested that 40% ( w/v ) PEG concentration induces complete structural conversion from the other known human telomeric G-quadruplex conformations to the parallel G-quadruplex , thus simplifying the high structural polymorphism existing in the absence of PEG .
+In this study , we demonstrate that the structural conversion to the parallel G-quadruplex is not a complete reaction at physiological temperature .
+We report a complete kinetic and thermodynamic characterization of the conformational transitions involving the ( TTAGGG)(4)TT and ( TTAGGG)(8)TT human telomeric DNA sequences in K(+) solution containing PEG .
+Our data show that the hybrid-type and parallel conformations coexist at equilibrium in the presence of PEG at physiological temperature and the degree of the quadruplex interconversion depends on the PEG molecular weight .
+Further , we find that telomeric DNA folds in the parallel quadruplex in the seconds time scale , a much larger time scale than the one reported for the hybrid quadruplex folding ( The whole of our data allow us to predict the relative amount of each G-quadruplex conformation as a function of temperature and time .
+The effect of other crowding agents like Ficoll 400 and glycerol on the quadruplex interconversion has been also explored .

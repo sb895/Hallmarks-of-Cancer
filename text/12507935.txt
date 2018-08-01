@@ -1,0 +1,9 @@
+To examine the association of cell cycle regulatory gene inactivation with human cell immortalization , we determined the expression status of INK4a , Rb , and WAF1/ CIP1 , in eleven in vitro immortalized human cell lines , including fibroblasts and keratinocytes .
+Two human papillomavirus type 16 E6 expressing cell lines with telomerase activity , including a fibroblast cell line and a keratinocyte cell line , expressed no detectable p16(INK4a) .
+These cell lines had a hyperphosphorylated pRb and reduced expression of p21(WAF1/CIP1) .
+All of seven fibroblast cell lines immortalized either spontaneously or by ( 60)Co , X-rays , 4-nitroquinoline 1-oxide or aflatoxin B(1) , maintaining their telomeres by the ALT ( alternative lengthening of telomeres ) pathway , displayed loss of expression of p16(INK4a) and hyperphosphorylation of pRb .
+Levels of p21(WAF1/CIP1) expression varied among the cell lines .
+Two fibroblast cell lines that became immortalized following infection with a retrovirus vector encoding human telomerase catalytic subunit ( hTERT ) cDNA were also accompanied by inactivation of p16(INK4a) and pRb pathways .
+Acquisition of telomerase activity alone was not sufficient for immortalization of these cell lines .
+Taken together , all the cell lines including fibroblasts and keratinocytes , with either telomerase activity or the ALT pathway for telomere maintenance showed loss of expression of p16(INK4a) and hyperphosphorylation of pRb .
+These demonstrate the association of inactivation of both p16(INK4a) and pRb with immortalization of human cells including fibroblasts and epithelial cells and telomerase-positive cells and ALT-positive cells .

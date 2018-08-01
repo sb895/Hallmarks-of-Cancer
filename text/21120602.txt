@@ -1,0 +1,14 @@
+The role of estrogen receptor beta ( ERβ ) in breast cancer is unclear .
+ERβ is considered to have a protective role in breast cancer development based on findings demonstrating that ERβ expression inhibits ERα-mediated proliferation of breast cancer cells .
+We previously demonstrated that ERβ causes a ligand independent G2 cell cycle arrest in MCF-7 cells .
+To study the mechanisms of the ERβ-mediated G2 cell cycle arrest , we investigated its effects on the regulatory pathways responsible for the G2/M phase transition .
+We found that ERβ inhibits CDK1 activity , which is the critical determinant of the G2/M progression .
+CDK1 activity is modulated by both stimulatory and inhibitory factors .
+Cyclin B1 is the major activator of CDK1 .
+ERβ inhibited the cell cycle-dependent stimulation of cyclin B1 mRNA and protein .
+GADD45A and BTG2 are two major inhibitors of CDK1 , which have been implicated in breast tumor formation .
+Based on these findings , we explored if the expression pattern of GADD45A and BTG2 is affected by ERβ .
+We found that ERβ stimulates GADD45A and BTG2 mRNA levels .
+The induction of these two genes is caused by ERβ binding directly to these genes and recruiting c-jun and NCOA2 .
+Our findings demonstrated that unliganded ERβ causes a G2 cell cycle arrest by inactivating CDK1 through the repression of cyclin B1 and stimulation of GADD45A and BTG2 expression .
+These results provide evidence that drugs that stimulate the production of unliganded ERβ may be effective new therapies to prevent breast cancer .

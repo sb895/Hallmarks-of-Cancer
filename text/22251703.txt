@@ -1,0 +1,12 @@
+Imiquimod is a synthetic compound with antitumor properties ; a 5% cream formulation is successfully used to treat skin tumors .
+The antitumor effect of imiquimod is multifactorial , although its ability to modulate immune responses by triggering TLR7/8 is thought to be key .
+Among the immune cells suggested to be involved are plasmacytoid DCs ( pDCs ) .
+However , a direct contribution of pDCs to tumor killing in vivo and the mechanism of their recruitment to imiquimod-treated sites have never been demonstrated .
+Using a mouse model of melanoma , we have now demonstrated that pDCs can directly clear tumors without the need for the adaptive immune system .
+Topical imiquimod treatment led to TLR7-dependent and IFN-α/β receptor 1-dependent ( IFNAR1-dependent ) upregulation of expression of the chemokine CCL2 in mast cells .
+This was essential to induce skin inflammation and for the recruitment of pDCs to the skin .
+The recruited pDCs were CD8α+ and induced tumor regression in a TLR7/MyD88- and IFNAR1-dependent manner .
+Lack of TLR7 and IFNAR1 or depletion of pDCs or CD8α+ cells from tumor-bearing mice completely abolished the effect of imiquimod .
+TLR7 was essential for imiquimod-stimulated pDCs to produce IFN-α/β , which led to TRAIL and granzyme B secretion by pDCs via IFNAR1 signaling .
+Blocking these cytolytic molecules impaired pDC-mediated tumor killing .
+Our results demonstrate that imiquimod treatment leads to CCL2-dependent recruitment of pDCs and their transformation into a subset of killer DCs able to directly eliminate tumor cells .

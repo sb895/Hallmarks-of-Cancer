@@ -1,0 +1,10 @@
+DNA repair is an essential cellular process required to maintain genomic stability .
+Every cell is subjected to thousands of DNA lesions daily under normal physiological conditions .
+Ionizing radiation ( IR ) is a major DNA damaging agent that can be produced by both natural and man-made sources .
+A common source of radiation exposure is through its use in medical diagnostics or treatments such as for cancer radiotherapy where relatively high doses are received by patients .
+To understand the detailed DNA repair gene transcription response to high dose IR , gene expression exon array studies have been performed and the response to radiation in two divergent cell types , lymphoblastoid cell lines and primary fibroblasts , has been examined .
+These exon arrays detect expression levels across the entire gene , and have the advantage of high sensitivity and the ability to identify alternative transcripts .
+We found a selection of DNA repair genes , including some not previously reported , that are modulated in response to radiation .
+Detailed dose and time course kinetics of DNA repair transcription was conducted and results have been validated utilizing PCR methods .
+Alternative transcription products in response to IR were identified in several DNA repair genes including RRM2B and XPC where alternative initiation sites were found .
+These investigations have advanced the knowledge about the transcriptional response of DNA repair .

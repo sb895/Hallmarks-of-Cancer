@@ -1,0 +1,9 @@
+BACKGROUND Flat adenomas are a subgroup of colorectal adenomas that have been associated with a distinct biology and a more aggressive clinical behavior compared to their polypoid counterparts .
+In the present study , we aimed to compare the mutation spectrum of 14 cancer genes , between these two phenotypes .
+METHODS A consecutive series of 106 flat and 93 polypoid adenomas was analyzed retrospectively for frequently occurring mutations in " hot spot " regions of KRAS , BRAF , PIK3CA and NRAS , as well as selected mutations in CTNNB1 ( \u03b2-catenin ) , EGFR , FBXW7 ( CDC4 ) , PTEN , STK11 , MAP2K4 , SMAD4 , PIK3R1 and PDGFRA using a high-throughput genotyping technique .
+Additionally , APC was analyzed using direct sequencing .
+RESULTS APC mutations were more frequent in polypoid adenomas compared to flat adenomas ( 48.5% versus 30.3% , respectively , p\u200a=\u200a0.02 ) .
+Mutations in KRAS , BRAF , NRAS , FBXW7 and CTNNB1 showed similar frequencies in both phenotypes .
+Between the different subtypes of flat adenomas ( 0-IIa , LST-F and LST-G ) no differences were observed for any of the investigated genes .
+CONCLUSION The lower APC mutation rate in flat adenomas compared to polypoid adenomas suggests that disruption of the Wnt-pathway may occur via different mechanisms in these two phenotypes .
+Furthermore , in contrast to previous observations our results in this large well-defined sample set indicate that there is no significant association between the different morphological phenotypes and mutations in key genes of the RAS-RAF-MAPK pathway .

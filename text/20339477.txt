@@ -1,0 +1,6 @@
+To investigate the molecular mechanisms underlying altered T cell response in renal cell carcinoma ( RCC ) patients , we compared autologous and allogeneic CD8(+) T cell responses against RCC line from RCC patients and their HLA-matched donors , using mixed lymphocyte/tumor cell cultures ( MLTCs ) .
+In addition , we analyzed the expression of molecules associated with cell cycle regulation .
+Autologous MLTC responder CD8(+) T cells showed cytotoxic activity against RCC cell lines ; however the analysis of the distribution of CD8(+) T-cell subsets revealed that allogenic counterparts mediate superior antitumor efficacy .
+In RCC patients , a decreased proliferative response to tumor , associated with defects in JAK3/STAT5/6 expression that led to increased p27KIP1 expression and alterations in the cell cycle , was observed .
+These data define a molecular pathway involved in cell cycle regulation that is associated with the dysfunction of tumor-specific CD8(+) effector cells .
+If validated , this may define a therapeutic target in the setting of patients with RCC .

@@ -1,0 +1,14 @@
+BACKGROUND The c-Met receptor tyrosine kinase is aberrantly activated in many solid tumors .
+In a prior study we showed that prostate cancer PC-3 cells exhibit constitutively activated c-Met without exogenous hepatocyte growth factor ( HGF ) ; however whether this characteristic is due to an endogenous HGF/c-Met autocrine loop remains controversial .
+In the current study we examined the response of PC-3 cells to an anti-HGF neutralizing antibody or a small molecule Met kinase inhibitor ( BMS-777607 ) .
+METHODS Cell scattering was tested by monitoring cell morphology after HGF stimulation .
+Cell migration was examined by both " wound-healing " and transwell assasy and invasion was detected by Matrigel-coated transwell assay .
+Proliferation , survival and anoikis were determined by MTT , colony formation and trypan blue exclusion assay , respectively .
+Gene and protein expression were assessed by real-time PCR and Western blot , respectively .
+RESULTS Although HGF mRNA could be detected in PC-3 cells , the molecular weight of secreted " HGF " protein was inconsistent with the functional recombinant HGF .
+Furthermore , conditioned medium from PC-3 cell cultures was ineffective at triggering either motogenic behavior or c-Met signaling in DU145 , another prostate cancer cell line expressing c-Met but lacking basal c-Met activation .
+PC-3 cells also were not responsive to the anti-HGF neutralizing antibody in experiments assessing proliferation , migration , or c-Met signaling .
+BMS-777607 treatment with micromolar doses nonetheless led to significant inhibition of multiple PC-3 cell functions including proliferation , clonogenicity , migration and invasion .
+At the molecular level , BMS-777607 suppressed autophosphorylated c-Met and downstream c-Src and Akt pathways .
+CONCLUSIONS These results suggest that the constitutive c-Met activation in PC-3 is independent of autocrine stimulation .
+Because PC-3 cells were responsive to BMS-777607 but not the anti-HGF antibody , the findings also indicate that under circumstances where c-Met is constitutively hyperactive in the absence of functional HGF , targeting the c-Met receptor remains a viable therapeutic option to impede cancer progression .

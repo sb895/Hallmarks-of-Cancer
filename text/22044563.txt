@@ -1,0 +1,14 @@
+Insulin-like growth factor ( IGF)-I receptor ( IGF-IR ) signaling is required for carcinogenicity and progression of several cancers but the function of this pathway and its utility as a therapeutic target have not been studied comprehensively in biliary tract carcinomas ( BTC ) .
+We investigated the immunohistochemical expression of elements of the IGF axis , matrilysin , overexpression of p53 and the methylation status of the IGFBP-3 promoter in 80 surgically resected BTC .
+We also assessed the effect of IGF-IR blockade on signal transduction , proliferation and survival in three BTC cell lines using a new tyrosine kinase inhibitor , BMS-536924 , and dominant negative IGF-IR ( IGF-IR/dn ) .
+The effects of IGF-IR blockade was also studied in nude mouse xenograft models .
+IGF-I was expressed in 60% and IGF-II in 50% of tumors .
+High expression was associated with tumor size .
+IGF-IR was expressed in 69% of the cases and was associated with advanced stage and matrilysin expression .
+Hypermethylation of the IGFBP-3 promoter was detected in 41% of BTC and was inversely correlated with p53 expression .
+BMS-536924 blocked autophosphorylation of IGF-IR and both Akt and ERK activation by both IGF-I and insulin .
+BMS-536924 suppressed proliferation and tumorigenicity in vitro in a dose-dependent fashion .
+This inhibitor upregulated chemotherapy-induced apoptosis in a dose-dependent fashion .
+Moreover , IGF-IR blockade was effective against tumors in mice .
+IGF-IR might identify a subset of BTC with a particularly aggressive phenotype and is a candidate therapeutic target in this disease .
+BMS-536924 might have significant therapeutic utility .

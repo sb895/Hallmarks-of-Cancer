@@ -1,0 +1,9 @@
+Changes at the invariable donor splice site +1 guanine , relatively frequent in human genetic disease , are predicted to abrogate correct splicing , and thus are classified as null mutations .
+However , their ability to direct residual expression , which might have pathophysiological implications in several diseases , has been poorly investigated .
+As a model to address this issue , we studied the IVS6+1G>T mutation found in patients with severe deficiency of the protease triggering coagulation , factor VII ( FVII ) , whose absence is considered lethal .
+In expression studies , the IVS6+1G>T induced exon 6 skipping and frame-shift , and prevented synthesis of correct FVII transcripts detectable by radioactive/fluorescent labelling or real-time RT-PCR .
+Intriguingly , the mutation induced the activation of a cryptic donor splice site in exon 6 and production of an in-frame 30bp deleted transcript ( 8 ± 2% ) .
+Expression of this cDNA variant , lacking 10 residues in the activation domain , resulted in secretion of trace amounts ( 0.2 ± 0.04% ) of protein with appreciable specific activity ( 48 ± 16% of wt-FVII ) .
+Altogether these data indicate that the IVS6+1G>T mutation is compatible with the synthesis of functional FVII molecules ( of normal , 1pM ) , which could trigger coagulation .
+The low but detectable thrombin generation ( 352 ± 55nM ) measured in plasma from an IVS6+1G>T homozygote was consistent with a minimal initiation of the enzymatic cascade .
+In conclusion , we provide experimental clues for traces of FVII expression , which might have reverted an otherwise perinatally lethal genetic condition .

@@ -1,0 +1,10 @@
+Epidemiological studies exploring the connection between hypertension and cancer incidence find a higher cancer mortality in hypertensive patients , particularly elevated in hypertension associated with a stimulation of the renin-angiotensin-aldosterone system .
+Primary aldosteronism , with plasma aldosterone levels between 0.5 and 1 nM ( 18-36 ng/dL ) and local aldosterone levels up to 500 nM ( 18,000 ng/dL ) , is now recognised as a more common cause for hypertension .
+We recently found angiotensin II to be genotoxic due to its induction of oxidative stress .
+Since aldosterone in higher concentrations also has oxidative effects , its potential genotoxic action in pig LLC-PK1 cells with properties of proximal tubules was analysed .
+DNA damage was evaluated by two test systems : the comet assay , and the micronucleus frequency test .
+The results showed that aldosterone concentrations starting from 10 nM ( 360 ng/dL ) caused a significant increase of DNA damage monitored with the comet assay in LLC-PK1 , while there was no change in cell vitality and proliferation .
+The micronucleus frequency test revealed that 10 nM aldosterone also leads to the formation of micronuclei .
+Furthermore , the formation of superoxide radicals in the cells by this aldosterone concentration could be detected with the superoxide-specific stain dihydroethidium .
+Further evidence for oxidative stress-induced DNA damage was its reversibility by the antioxidants tempol and catalase .
+Addition of the steroidal mineralocorticoid receptor antagonist spironolactone or the novel selective nonsteroidal antagonist ( R)-BR-4628 reduced the DNA damage and the amount of superoxide radicals indicating a receptor-dependent process .

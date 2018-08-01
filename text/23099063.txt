@@ -1,0 +1,8 @@
+Clinically approved chemotherapeutic nanoparticles may provide advantages over free drugs by achieving slower clearance and preferential accumulation in tumors .
+However , the lack of leaky vasculatures can create barriers to the permeation of nm-sized nanoparticles in solid tumors .
+We hypothesized that nanoparticles designed to target both tumor and tumor stroma would penetrate deeper into the tumors .
+To construct such comprehensive drug carriers , we utilized cross-linked amphiphilic polymer nanoparticles and functionalized them to target ICAM-1 , a biomarker prevalent in various tumors and inflamed tumor stroma .
+The targeting moiety was derived from the modular domain present in α(L) integrin , which was engineered for high affinity and cross-reactivity with human and murine ICAM-1 .
+ICAM-1-selective delivery of paclitaxel produced potent tumor suppression of not only ICAM-1-positive cervical cancer cells but also ICAM-1-negative tumors , presumably by causing cytotoxicity in tumor-associated endothelium ( CD31(+) ) and macrophages ( CD68(+) ) over-expressing ICAM-1 .
+Contrary to the strategies of targeting only the tumor or specific tumor stromal constituents , we present a strategy in delivering therapeutics to the major cellular components of solid tumors .
+Drug carriers against inflammation-biomarkers may be effective against many different types of tumors , while being less susceptible to the highly mutable nature of tumor markers .

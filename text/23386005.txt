@@ -1,0 +1,6 @@
+OBJECTIVE This study describes a new method used in the clinical laboratory at Hospital Israelita Albert Einstein to detect mutations in exons 8 and 17 of the KIT gene in patients with acute myeloid leukemia .
+METHODS Genomic DNA extraction was performed on 54 samples of peripheral blood or bone marrow from patients with acute myeloid leukemia .
+The extracted DNA was amplified by polymerase chain reaction and sequenced , and the fragments were analyzed .
+RESULTS Within the analyzed samples , we detected four mutations in exon 8 , two mutations in exon 17 , and mutations or a double mutation in one sample .
+CONCLUSION The tests detecting mutations in exon 8 and 17 on the KIT gene were successfully standardized .
+The test is now included among the routine diagnostics employed for patients at Hospital Israelita Albert Einstein clinical laboratory .

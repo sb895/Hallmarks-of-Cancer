@@ -1,0 +1,10 @@
+OBJECTIVE To sort and identify side population ( SP ) cancer stem cells ( CSC ) in human prostate cancer ( PCa ) cell lines .
+METHODS Stem-like cells were isolated from five PCa cell lines Du145 , IA8 , LNCaP , TSU-Pr and PC-3 using FACS based on CD133+ CD44+ immunophenotype and SP in Hoechst staining .
+The in vitro growth pattern and tumorigenicity of SP stem cells were verified by soft agar colony-formation trial .
+LNCaP/SP cells were selected for further identification of stem cell properties using immunostaining , proliferation and invasion assay .
+Eventually , tumorigenicity and metastasis ability of LNCaP/SP were confirmed by xenograft experiments .
+RESULTS The percentages of CSCs of the CD133 CD44 + immunophenotype were extremely low in the five PCa cell lines .
+On the contrary , the percentages of the isolated SP cells were significantly higher in Du145 ( [ 0.15 +/- 0.02]% ) , IA8 ( [ 0.60 +/- 0.07 ]% ) , LNCaP ( [ 0.8 +/- 0.1]% ) and TSU-PrL ( [ 2.0 +/- 0.4]% ) , but none was detected in PC-3 .
+Besides , IA8/SP , LNCaP/SP and TSU-PrL/SP cells showed a significantly greater colony-forming efficiency than non-side population ( NSP ) cells ( P < 0.05 ) .
+Compared with LNCaP/NSP cells , LNCaP/SP cells exhibited high expressions of integrin alpha2 , Nanog , CD44 , OCT4 and ABCG2 , remarkably enhanced invasive and proliferative potentials in vitro , and markedly increased tumorigenicity and metastasis ( P < 0.01 ) .
+CONCLUSION SP sorting is more suitable than CD133+ CD44+ selection for enriching CSCs from PCa cell lines , and LNCaP/ SP represents a typical CSC population .

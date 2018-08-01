@@ -1,0 +1,11 @@
+BACKGROUND Recent data indicate the Signal Transducer and Activator of Transcription 3 ( STAT3 ) pathway is required for VEGF production and angiogenesis in various types of cancers .
+STAT3 inhibitors have been shown to reduce tumor microvessel density in tumors but a direct anti-angiogenic activity has not been described .
+METHODOLOGY/PRINCIPAL FINDINGS We investigated the direct action of a small molecule inhibitor of STAT3 ( LLL12 ) in human umbilical cord vascular endothelial cells ( HUVECs ) in vitro , in a Matrigel model for angiogenesis in vivo , and its antitumor activity in a xenograft model of osteosarcoma .
+LLL12 ( 100 nM ) significantly inhibited VEGF-stimulated STAT3 phosphorylation in HUVECs , reduced their proliferation/migration and inhibited VEGF-induced tube formation .
+Morphologic analysis of LLL12 treated HUVECs demonstrated marked changes in actin/tubulin distribution and bundling .
+In scid mice , LLL12 reduced microvessel invasion into VEGF-infused Matrigel plugs by ∼90% at a dose of 5 mg/kg daily .
+Following a period of tumor progression ( 2 weeks ) , LLL12 completely suppressed further growth of established OS-1 osteosarcoma xenografts .
+Pharmacodynamic studies showed robust phosphorylated STAT3 in control tumors , whereas phospho-STAT3 was not detected in LLL12-treated OS-1 tumors .
+Treated tumors demonstrated decreased proliferation ( Ki67 staining ) , and decreased microvessel density ( CD34 staining ) , but no significant increase in apoptosis ( TUNEL staining ) , relative to controls .
+Assay of angiogenic factors , using an antibody array , showed VEGF , MMP-9 , Angiopoietin1/2 , Tissue Factor and FGF-1 expression were dramatically reduced in LLL12-treated tumors compared to control tumors .
+CONCLUSIONS These findings provide the first evidence that LLL12 effectively inhibits tumor angiogenesis both in vitro and in vivo .

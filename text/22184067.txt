@@ -1,0 +1,11 @@
+Prostate apoptosis response 4 ( Par-4 ) is a ubiquitously expressed proapoptotic tumor suppressor protein .
+Here , we show for the first time , that Par-4 is a novel substrate of caspase-3 during apoptosis .
+We found that Par-4 is cleaved during cisplatin-induced apoptosis in human normal and cancer cell lines .
+Par-4 cleavage generates a C-terminal fragment of kDa , and the cleavage of Par-4 is completely inhibited by a caspase-3 inhibitor , suggesting that caspase-3 is directly involved in the cleavage of Par-4 .
+Caspase-3-deficient MCF-7 cells do not show Par-4 cleavage in response to cisplatin treatment , and restoration of caspase-3 in MCF-7 cells produces a decrease in Par-4 levels , with the appearance of a cleaved fragment .
+Additionally , knockdown of Par-4 reduces caspase-3 activation and apoptosis induction .
+Site-directed mutagenesis reveals that Par-4 cleavage by caspase-3 occurs at an unconventional site , EEPD(131)↓G .
+Interestingly , overexpression of wild-type Par-4 but not the Par-4 D131A mutant sensitizes cells to cisplatin-induced apoptosis .
+Upon caspase-3 cleavage , the cleaved fragment of Par-4 accumulates in the nucleus and displays increased apoptotic activity .
+Overexpression of the cleaved fragment of Par-4 inhibits IκBα phosphorylation and blocks NF-κB nuclear translocation .
+We have identified a novel specific caspase-3 cleavage site in Par-4 , and the cleaved fragment of Par-4 retains proapoptotic activity .

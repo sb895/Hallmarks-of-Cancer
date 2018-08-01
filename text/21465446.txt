@@ -1,0 +1,12 @@
+BACKGROUND The effect of chronic high altitude hypoxia ( CHAH ) in the juxta-alveolar region near the air-blood interface is unknown because of the experimental inaccessibility of this region .
+OBJECTIVE To examine primary cultures of digested juxta-alveolar smooth muscle cells for hypoxia-induced changes .
+METHODS Smooth Muscle Cells ( SMCs ) obtained by dispase digestion of the extreme lung parenchyma were used to study the effect of CHAH in the juxta-alveolar region and foetal and maternal cells were compared .
+Pulmonary venous SMCs were also obtained from dissected 5th to 7th generation levels pulmonary veins ( <0.5 mm ) .
+Fluorescence tagged antibodies against alpha smooth muscle actin ( alpha SMA ) and calponin respectively were used as markers to identify cellular structural differences by routine immunohistochemistry .
+Comparison of the functional integrity of the cells was made using their growth profiles obtained by radiolabeled thymidine incorporation and liquid scintillation counting .
+RESULTS Marked differences were seen in juxta-alveolar SMCs obtained by digestion of extreme lung parenchyma of hypoxic sheep .
+Hypoxic adult sheep cells showed increased filamentation .
+Hypoxic foetal sheep cells showed internal restructuring and disorganization of both alpha-SMA and calponin filaments .
+The growth profiles of juxta-alveolar SMCs showed that the hypoxia-affected cells of both the foetus and adult sheep had a fast initial growth rate peaking at 48h while their normoxic equivalents had a steadier growth rate peaking at 72h .
+Hypoxia-affected cells showed contact inhibition at subconfluence and apoptosis by 48h .
+CONCLUSION Chronic high altitude hypoxia causes both phenotypical and functional changes in pulmonary smooth muscle cells near the air/blood interface .

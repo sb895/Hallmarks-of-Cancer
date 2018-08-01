@@ -1,0 +1,11 @@
+Breast cancer constitutes a major health problem for women worldwide .
+However , its incidence varies between populations and geographical locations .
+These variations could be diet-related , since there are several carcinogenic compounds in the modern diet , while natural products contain various anti-cancer elements .
+Several lines of evidence indicate that , in addition to their clear preventive effect , these compounds could also be used as therapeutic agents .
+In the present report we have shown that oleuropein , a pharmacologically safe natural product of olive leaf , has potent anti-breast cancer properties .
+Indeed , oleuropein exhibits specific cytotoxicity against breast cancer cells , with higher effect on the basal-like MDA-MB-231 cells than on the luminal MCF-7 cells .
+This effect is mediated through the induction of apoptosis via the mitochondrial pathway .
+Moreover , oleuropein inhibits cell proliferation by delaying the cell cycle at S phase and up-regulated the cyclin-dependent inhibitor p21 .
+Furthermore , oleuropein inhibited the anti-apoptosis and pro-proliferation protein NF-κB and its main oncogenic target cyclin D1 .
+This inhibition could explain the great effect of oleuropein on cell proliferation and cell death of breast cancer cells .
+Therefore , oleuropein warrants further investigations to prove its utility in preventing/treating breast cancer , especially the less-responsive basal-like type .

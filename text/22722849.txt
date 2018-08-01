@@ -1,0 +1,10 @@
+Sirtuin proteins regulate diverse cellular pathways that influence genomic stability , metabolism and ageing .
+SIRT7 is a mammalian sirtuin whose biochemical activity , molecular targets and physiological functions have been unclear .
+Here we show that SIRT7 is an NAD(+)-dependent H3K18Ac ( acetylated lysine 18 of histone H3 ) deacetylase that stabilizes the transformed state of cancer cells .
+Genome-wide binding studies reveal that SIRT7 binds to promoters of a specific set of gene targets , where it deacetylates H3K18Ac and promotes transcriptional repression .
+The spectrum of SIRT7 target genes is defined in part by its interaction with the cancer-associated E26 transformed specific ( ETS ) transcription factor ELK4 , and comprises numerous genes with links to tumour suppression .
+Notably , selective hypoacetylation of H3K18Ac has been linked to oncogenic transformation , and in patients is associated with aggressive tumour phenotypes and poor prognosis .
+We find that deacetylation of H3K18Ac by SIRT7 is necessary for maintaining essential features of human cancer cells , including anchorage-independent growth and escape from contact inhibition .
+Moreover , SIRT7 is necessary for a global hypoacetylation of H3K18Ac associated with cellular transformation by the viral oncoprotein E1A .
+Finally , SIRT7 depletion markedly reduces the tumorigenicity of human cancer cell xenografts in mice .
+Together , our work establishes SIRT7 as a highly selective H3K18Ac deacetylase and demonstrates a pivotal role for SIRT7 in chromatin regulation , cellular transformation programs and tumour formation in vivo .

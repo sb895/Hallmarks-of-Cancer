@@ -1,0 +1,15 @@
+BACKGROUND/AIMS Adenocarcinoma of the gallbladder is a highly malignant neoplasm. p16 is a tumor suppressor gene protein , which is a cyclin-dependent kinase inhibitor that regulates the G1-S phase of the cell cycle .
+The purpose of the present study was to investigate the expression of p16 in gallbladder carcinoma and its precancerous conditions and to examine the relationship between p16 expression and clinicopathological parameters .
+METHODOLOGY Formalin-fixed , paraffin-embedded tissue sections from 20 cases of normal gallbladder , 20 cases of chronic cholecystitis , 20 cases of gallbladder adenoma , 20 cases of dysplasia , and 58 cases of adenocarcinoma were examined .
+The expression of p16 was evaluated by immunohistochemical analysis .
+RESULTS In normal gallbladder , no expression of p16 was found .
+In chronic cholecystitis , expression of p16 was not found .
+In gallbladder adenomas , expression of p16 was found in 20% ( 4/20 ) .
+In low grade dyspalsias , expression of p16 was not found .
+In high grade dysplasias , p16 expression was present in 45.0% ( 9/20 ) .
+In gallbladder adenocarcinomas , p16 expression was found in 27.6% ( 16/58 ) .
+Expression of p16 correlated significantly with histologic grade ( p < 0.05 ) .
+No correlation was found between p16 expression and age , gender , tumor size , gross type , location , vascular invasion , lymph node metastasis , and TNM stage , respectively .
+CONCLUSIONS P16 protein overexpression is an early and relatively common event in carcinogenesis of gallbladder carcinoma .
+Expression of p16 protein is absent in normal or chronic cholecystitis .
+Expression of p16 may be an ancillary diagnostic marker of gallbladder carcinoma and its precancerous conditions .

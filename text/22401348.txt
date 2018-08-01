@@ -1,0 +1,10 @@
+The breast cancer resistance protein ( BCRP ) , an ATP binding cassette ( ABC ) efflux transporter , plays a role in multiple drug resistance ( MDR ) .
+Previous studies of the subcellular location of the ABC transporter P-glycoprotein indicated that this protein is expressed in nuclear membranes .
+This study examines the nuclear distribution of BCRP in seven human-derived glioblastoma ( GBM ) and astrocytoma cell lines .
+BCRP expression was observed in the nuclear extracts of 6/7 cell lines .
+Using the GBM LN229 cell line as a model , nuclear BCRP protein was detected by immunoblotting and confocal laser microscopy .
+Importantly , nuclear BCRP staining was found in a subpopulation of tumour cells in a human brain GBM biopsy .
+Mitoxantrone cytotoxicity in the LN229 cell line was determined with and without the BCRP inhibitor fumitremorgin C ( FTC ) and after downregulation of BCRP with small interfering RNA ( siRNA ) .
+FTC inhibition of BCRP increased mitoxantrone cytotoxicity with a reduction in the IC₅₀ and this effect was further potentiated in the siRNA-treated cells .
+In conclusion , BCRP is expressed in the nuclear extracts of select GBM and astrocytoma cell lines and in a human GBM tumour biopsy .
+Its presence in the nucleus of cancer cells suggests new role for BCRP in MDR .

@@ -1,0 +1,4 @@
+The G protein-coupled human gastrin-releasing peptide receptor ( hGRP-R ) is frequently found aberrantly expressed in human cancers of the colon , stomach , and lung , and its ligand-specific activation has been implicated in cell proliferation and differentiation .
+Here , we demonstrated hGRP-R activation stimulated sustained cyclic AMP response element binding protein ( CREB ) phosphorylation and transactivation in duodenal cancer cells through a protein kinase C and partially p38 mitogen-activated protein kinase-dependent pathway .
+In contrast , intracellular calcium , ERK1/2 , protein kinase A , and PI3 kinase were not involved .
+This novel signaling mechanism might be of importance for regulation of CREB-dependent gene expression in human cancer expressing functional hGRP-R .

@@ -1,0 +1,7 @@
+Adenovirus small e1a oncoprotein causes reduction in cellular levels of histone H3 lysine 18 acetylation ( H3K18ac ) .
+It is unclear , however , where this dramatic reduction occurs genome-wide .
+ChIP-sequencing revealed that by 24 h after expression , e1a erases 95% of H3K18ac peaks in normal , contact-inhibited fibroblasts and replaces them with one-third as many at new genomic locations .
+The H3K18ac peaks at promoters and intergenic regions of genes with fibroblast-related functions are eliminated after infection , and new H3K18ac peaks are established at promoters of highly induced genes that regulate cell cycling and at new putative enhancers .
+Strikingly , the regions bound by the retinoblastoma family of proteins in contact-inhibited fibroblasts gain new peaks of H3K18ac in the e1a-expressing cells , including 55% of RB1-bound loci .
+In contrast , over half of H3K9ac peaks are similarly distributed before and after infection , independently of RB1 .
+The strategic redistribution of H3K18ac by e1a highlights the importance of this modification for transcriptional activation and cellular transformation as well as functional differences between the RB-family member proteins .

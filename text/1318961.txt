@@ -1,0 +1,10 @@
+In order to determine the in vivo immune response in glioblastoma , monoclonal and polyclonal antibodies specific for inflammatory leukocytes and immunoregulatory products were utilized to stain tissue from four surgical specimens .
+The more activated the inflammatory cells , the more activated the tumors appeared to be .
+In the tumor with the largest infiltration ( Case 3 ) , inflammatory cells were stained for interferon-gamma , interleukin-2 , interleukin-1 beta , lymphotoxin , tumor necrosis factor-alpha , and transforming growth factor-beta .
+The tumor cells also expressed interleukin-1 beta , interleukin-6 , transforming growth factor-beta , tumor necrosis factor-alpha , and prostaglandin E. In contrast , in the tumor with the least inflammatory response ( Case 1 ) , the tumor cells did not express any cytokines .
+Expression of cytokines by glioma cells was modest in the two cases with modest inflammatory responses .
+Cellular inflammation , primarily consisting of T cells and macrophages with few or no B cells or natural killer cells , was two- to 15-fold greater outside the tumor than within .
+In contrast to leukocytes outside the tumor , which were activated and expressing class II major histocompatibility antigens , leukocytes within the tumor parenchyma or at the tumor's edge were negative for these antigens .
+In the four specimens studied here , the tumor cells themselves were also negative for class II major histocompatibility antigens .
+These findings , although preliminary , suggest that inflammatory cells within gliomas are inactivated and that glioma cells may increase the expression of immunosuppressive cytokines in response to an increased lymphocyte infiltrate .
+This observation , if corroborated by more extensive studies , may help to explain the failure of immune treatments in glioblastoma multiforme .

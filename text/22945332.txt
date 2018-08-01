@@ -1,0 +1,9 @@
+Therapy-induced cellular senescence ( TCS ) , characterized by prolonged cell cycle arrest , is an in vivo response of human cancers to chemotherapy and radiation .
+Unfortunately , TCS is reversible for a subset of senescent cells , leading to cellular reproliferation and ultimately tumor progression .
+This invariable consequence of TCS recapitulates the clinical treatment experience of patients with advanced cancer .
+We report the findings of a clinicopathological study in patients with locally advanced non-small cell lung cancer demonstrating that marker of in vivo TCS following neoadjuvant therapy prognosticate adverse clinical outcome .
+In our efforts to elucidate key molecular pathways underlying TCS and cell cycle escape , we have previously shown that the deregulation of mitotic kinase Cdk1 and its downstream effectors are important mediators of survival and cell cycle reentry .
+We now report that aberrant expression of Cdk1 interferes with apoptosis and promotes the formation of polyploid senescent cells during TCS .
+These polyploid senescent cells represent important transition states through which escape preferentially occurs .
+The Cdk1 pathway is in part modulated differentially by p21 and p27 two members of the KIP cyclin-dependent kinase inhibitor family during TCS .
+Altogether , these studies underscore the importance of TCS in cancer therapeutics .

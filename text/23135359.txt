@@ -1,0 +1,10 @@
+Endocrine gland-derived vascular endothelial growth factor ( EG-VEGF ) has recently been identified as one of the vascular endothelial growth factors , and it is considered that the overexpression of EG-VEGF in colon cancer is related to hepatic metastasis .
+In this study , we report our recent novel findings of the involvement of EG-VEGF in cell invasion of colon cancer cells .
+Colon cancer cell lines ( DLD-1 and HCT116 ) with high expression of prokineticin receptor ( PK-R ) 1 and 2 were stimulated with the EG-VEGF protein .
+Furthermore , Matrigel cell invasion assay was performed to examine the changes in cancer cell invasion .
+In addition , we investigated the mRNA expression of matrix metalloproteinase ( MMP)-2 , -7 and -9 in cancer cells .
+Finally , the EG-VEGF receptor on the colon cancer cell membrane was blocked by anti-PK-R1 and -PK-R2 antibodies to study whether cell invasion ability would be altered .
+In colon cancer cell lines where the expression of PK-R1 and 2 was confirmed , stimulation with EG-VEGF increased cell invasion a maximum of times .
+Furthermore , an increase in the mRNA and protein expression of MMP-2 , -7 and -9 was observed .
+We also observed that the cell invasion rate decreased only after exposure to the anti-PK-R2 antibody .
+The study showed that the EG-VEGF protein may act on MMP-2 , -7 and -9 via PK-R2 to strengthen cell invasion ability in colon cancer cell lines .

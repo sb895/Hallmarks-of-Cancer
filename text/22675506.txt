@@ -1,0 +1,10 @@
+Head and neck squamous cell carcinoma ( HNSCC ) is a major cause of morbidity and mortality underscoring the need for safe and effective chemopreventive strategies .
+Targeting epidermal growth factor receptor ( EGFR ) is attractive in that it is an early critical event in HNSCC pathogenesis .
+However , current agents lack efficacy or have unacceptable toxicity .
+Several groups have demonstrated that the over-the-counter medication , polyethylene glycol ( PEG ) has remarkable chemopreventive efficacy against colon carcinogenesis .
+Importantly , we reported that this effect is mediated through EGFR internalization/degradation .
+In the current study , we investigated the chemopreventive efficacy of this agent against HNSCC , using both the well validated animal model 4-NQO ( 4-nitroquinoline 1-oxide ) rat model and cell culture with the human HNSCC cell line SCC-25 .
+We demonstrated that daily topical application of 10% PEG-8000 in the oral cavity ( tongue and cavity wall ) post 4NQO initiation resulted in a significant reduction in tumor burden ( both , tumor size and tumors/tumor bearing rat ) without any evidence of toxicity .
+Immunohistochemical studies depicted decreased proliferation ( number of Ki67-positive cells ) and reduced expression of EGFR and its downstream effectors cyclin D1 in the tongue mucosa of 4NQO-rats treated with PEG .
+We showed that EGFR was also markedly downregulated in SCC-25 cells by PEG-8000 with a concomitant induction of G1-S phase cell-cycle arrest , which was potentially mediated through upregulated p21(cip1/waf1) .
+In conclusion , we demonstrate , for the first time , that PEG has promising efficacy and safety as a chemopreventive efficacy against oral carcinogenesis .

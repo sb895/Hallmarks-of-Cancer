@@ -1,0 +1,12 @@
+Principal components analysis ( PCA ) combined to Fourier transform infrared ( FTIR ) microspectroscopic imaging was used to screen biochemical changes associated to C6 glioma tumor from 7 to 19 days growth .
+Normal brain and tumor obtained at 7 , 12 , 19 days after C6 cell injection were used to develop a diagnostic model of brain glioma based on PCA analysis .
+This classification model was validated using extra-measurements on normal and tumor at 9 and 15 days post-implantation .
+The spatial and biochemical information obtained from FTIR/PCA maps can be used to improve the discrimination between normal and grading human glioma .
+The first 4 PCs which account for more than 93.6% of total spectral variance were used to construct pseudo-color scores maps and compared each map to the corresponding hematoxylin and eosin ( H&E ) staining .
+Our results reported that by correlating pseudocolor map scores with H&E staining it was possible to screen histological changes associated with tissue transformation .
+In fact , PC1 and PC4 were associated to the tumor , surrounding tumor and necrosis .
+Indeed , at day 7 after tumor implantation , FTIR investigations displayed a very small abnormal zone associated with the proliferation of C6 cells in the caudate putamen ( CP ) .
+PC2 and PC3 described normal brain structures such as white matter ( corpus callosum ( CC ) and commissura anterior ( CA) ) and some cortex layers ( grey matter ) .
+After delipidation of the tissues , we were still able to differentiate between different tissue features based on nucleic acid and protein content .
+By comparing the patterns of the PC loads with the spectra of lipids extracted from white and gray matters , and DNA , we have identified some biochemical changes associated with tissue transformation .
+This work demonstrated that our classification model provides a successful histological classification of different brain structures .

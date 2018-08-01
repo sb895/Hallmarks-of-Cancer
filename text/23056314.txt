@@ -1,0 +1,12 @@
+Vasohibin-1 ( VASH1 ) is isolated as an endothelial cell ( EC)-produced angiogenesis inhibitor .
+We questioned whether VASH1 plays any role besides angiogenesis inhibition , knocked-down or overexpressed VASH1 in ECs , and examined the changes of EC property .
+Knock-down of VASH1 induced premature senescence of ECs , and those ECs were easily killed by cellular stresses .
+In contrast , overexpression of VASH1 made ECs resistant to premature senescence and cell death caused by cellular stresses .
+The synthesis of VASH1 was regulated by HuR-mediated post-transcriptional regulation .
+We sought to define the underlying mechanism .
+VASH1 increased the expression of ( superoxide dismutase 2 ) SOD2 , an enzyme known to quench reactive oxygen species ( ROS ) .
+Simultaneously , VASH1 augmented the synthesis of sirtuin 1 ( SIRT1 ) , an anti-aging protein , which improved stress tolerance .
+Paraquat generates ROS and causes organ damage when administered in vivo .
+More VASH1 ( +/- ) mice died due to acute lung injury caused by paraquat .
+Intratracheal administration of an adenovirus vector encoding human VASH1 augmented SOD2 and SIRT1 expression in the lungs and prevented acute lung injury caused by paraquat .
+Thus , VASH1 is a critical factor that improves the stress tolerance of ECs via the induction of SOD2 and SIRT1 .

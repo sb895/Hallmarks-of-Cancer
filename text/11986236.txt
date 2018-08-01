@@ -1,0 +1,9 @@
+The t(10;11)(p12;q23) chromosomal translocation in human acute myeloid leukemia results in the fusion of the MLL and AF10 genes .
+The latter codes for a novel leucine zipper protein , one of many MLL fusion partners of unknown function .
+In this report , we demonstrate that retroviral-mediated transduction of an MLL-AF10 complementary DNA into primary murine myeloid progenitors enhanced their clonogenic potential in serial replating assays and led to their efficient immortalization at a primitive stage of myeloid differentiation .
+Furthermore , MLL-AF10-transduced cells rapidly induced acute myeloid leukemia in syngeneic or severe combined immunodeficiency recipient mice .
+Structure/function analysis showed that a highly conserved 82-amino acid portion of AF10 , comprising 2 adjacent alpha-helical domains , was sufficient for immortalizing activity when fused to MLL .
+Neither helical domain alone mediated immortalization , and deletion of the 29-amino acid leucine zipper within this region completely abrogated transforming activity .
+Similarly , the minimal oncogenic domain of AF10 exhibited transcriptional activation properties when fused to the MLL or GAL4 DNA-binding domains , while neither helical domain alone did .
+However , transcriptional activation per se was not sufficient because a second activation domain of AF10 was neither required nor competent for transformation .
+The requirement for alpha-helical transcriptional effector domains is similar to the oncogenic contributions of unrelated MLL partners ENL and ELL , suggesting a general mechanism of myeloid leukemogenesis by a subset of MLL fusion proteins , possibly through specific recruitment of the transcriptional machinery .

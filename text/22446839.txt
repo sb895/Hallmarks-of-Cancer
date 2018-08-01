@@ -1,0 +1,8 @@
+Iron accumulation and iron-related oxidative stress are involved in several pathological conditions and provide a rationale for the development of iron chelators as novel promising therapeutic strategies .
+Thus , we have recently synthesized multifunctional non-toxic , brain permeable iron chelating compounds , M30 and HLA20 , possessing the neuroprotective N-propargyl moiety of the anti-Parkinsonian drug , monoamine oxidase ( MAO)-B inhibitor , rasagiline and the antioxidant-iron chelating moiety of an 8-hydroxyquinoline derivative of the iron chelator , VK28 .
+Here , we examined the hepatic regulatory effects of these novel compounds using two experimental approaches : chelation activity and glucose metabolism parameters .
+The present study demonstrated that M30 and HLA20 significantly decreased intracellular iron content and reduced ferritin expression levels in iron-loaded hepatoma Hep3B cells .
+In electron microscopy analysis , M30 was shown to reduce the electron-dense deposits of siderosomes by % , as well as down-regulate cytosolic ferritin particles observed in iron-overloaded cells .
+In vivo studies demonstrated that M30 administration ( 1 mg/kg , P.O. three times a week ) reduced hepatic ferritin levels ; increased hepatic insulin receptor and glucose transporter-1 levels and improved glucose tolerance in C57BL/6 mice and in a mouse model of type-2 diabetes , the ob/ob ( leptin(-/-) ) .
+The results clearly indicate that the novel multifunctional drugs , especially M30 , display significant capacity of chelating intracellular iron and regulating glucose metabolism parameters .
+Such effects can have therapeutic significance in conditions with abnormal local or systemic iron metabolism , including neurological diseases .

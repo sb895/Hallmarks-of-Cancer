@@ -1,0 +1,8 @@
+Tumor necrosis factor ( TNF ) is an important inflammatory cytokine and induces many cellular responses , including inflammation , cell proliferation , apoptosis , and necrosis .
+It is known that receptor interacting protein ( RIP ) kinases , RIP1 and RIP3 , are key effectors of TNF-induced necrosis , but little is known about how these two RIP kinases mediate this process , although reactive oxygen species ( ROS ) generation and JNK activation have been suggested to be two downstream events of RIP kinases .
+Here we report the identification of mixed lineage kinase domain-like , MLKL , as a key RIP3 downstream component of TNF-induced necrosis .
+Through screening a kinase/phosphatase shRNA library in human colon adenocarcinoma HT-29 cells , we found that knockdown of MLKL blocked TNF-induced necrosis .
+Our data suggest that MLKL functions downstream of RIP1 and RIP3 and is recruited to the necrosome through its interaction with RIP3 .
+Finally , we found that MLKL is required for the generation of ROS and the late-phase activation of JNK during TNF-induced necrosis .
+However , because these two events are not involved in TNF-induced necrosis in HT-29 cells , the target of MLKL during TNF-induced necrosis remains elusive .
+Taken together , our study suggests that MLKL is a key RIP3 downstream component of TNF-induced necrotic cell death .

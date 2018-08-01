@@ -1,0 +1,13 @@
+New molecularly targeted therapies are needed for childhood ependymoma .
+Angiogenesis and the PDGFR pathway could be potential therapeutic targets .
+This study aimed to screen ependymomas for the expression and clinicopathological correlates of angiogenic factors and potential therapeutic targets including VEGFR , endoglin ( CD105 ) , CD34 , CD31 , c-Kit , PDGFR-α and PDGFR-β .
+Immunohistochemistry for angiogenesis factors and PDGFR-α and β was performed in 24 archival tumor samples from children and adults treated for ependymoma at our institution .
+CD31 density , CD105 density and pericyte coverage index ( PCI ) were calculated .
+These findings were correlated with clinical outcome .
+VEGFR2 was overexpressed in tumor cells in only one out of 24 cases , but was found overexpressed in the vessels in 6 cases .
+PDGFR-α and β were found to be over-expressed in the ependymoma tumor cells in seven out of 24 cases ( 29.2 % ) .
+CD31 density , CD105 density and PCI did not correlate with expression of PDGFRs .
+Overexpression of PDGFR-α and β in tumor cells and overexpression of PDGFR-α in tumor endothelium had prognostic significance and this was maintained in multivariate analysis for overexpression of PDGFR-α in tumor cells ( 2 year progression free survival was 16.7 ± 15.2 for cases with overexpression of PDGFR-α in the tumor vs. 74.5 ± 15.2 for those with low/no expression , hazard ratio = 5.78 , p = 0.04 ) .
+A number of angiogenic factors are expressed in ependymoma tumor cells and tumor endothelium .
+Preliminary evidence suggests that the expression of PDGFRs could have a prognostic significance in ependymoma .
+This data suggests that PDGFRs should be further evaluated as targets using novel PDGFR inhibitors .

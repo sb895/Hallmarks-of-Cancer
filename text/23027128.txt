@@ -1,0 +1,13 @@
+Protein tyrosine kinase 6 ( PTK6 ) is a non-receptor tyrosine kinase expressed in epithelial cancers .
+Disruption of Ptk6 decreases azoxymethane-induced colon tumorigenesis in mice by preventing signal transducer and activator of transcription 3 activation .
+Relocalization of PTK6 in prostate cancers contributes to increased growth .
+Although not expressed in normal breast or ovary , PTK6 promotes anchorage-independent survival of breast and ovarian tumor cells .
+We identified several potential PTK6 substrates in the human SW620 colon cancer cell line using mass spectrometry , including FAK ( focal adhesion kinase ) .
+We show that FAK is a direct substrate of PTK6 in vitro and in vivo .
+Expression of membrane-targeted active PTK6 ( Palm-PTK6-YF ) induces constitutive activation of FAK and cell morphology changes , which are independent of SRC family kinases in Src-/- , Yes-/- , Fyn-/- ( SYF ) mouse embryonic fibroblasts ( MEFs ) .
+Palm-PTK6-YF expressing SYF cells are transformed and overcome contact inhibition , form colonies in transformation assays , proliferate in suspension and form tumors in a xenograft model .
+Expression of FAK and Palm-PTK6-YF in Fak-/- MEFs synergistically activates AKT and protects cells against anoikis .
+However , expression of Palm-PTK6-YF in Akt1/2-/- MEFs fails to protect cells from anoikis , indicating AKT is critical in PTK6 and FAK-mediated survival signaling .
+In a conditional Pten knockout murine prostate cancer model , we identify prostate epithelial cells with enhanced activation of endogenous PTK6 and FAK at the plasma membrane .
+Knockdown of PTK6 in the PC3 human prostate cancer cell line disrupts FAK and AKT activation and promotes anoikis , which can be rescued by exogenous expression of FAK .
+Our data reveal important roles for a PTK6-FAK-AKT signaling axis in promoting anchorage-independent cell survival .

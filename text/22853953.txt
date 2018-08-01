@@ -1,0 +1,10 @@
+Next-generation DNA sequencing promises to revolutionize clinical medicine and basic research .
+However , while this technology has the capacity to generate hundreds of billions of nucleotides of DNA sequence in a single experiment , the error rate of results in hundreds of millions of sequencing mistakes .
+These scattered errors can be tolerated in some applications but become extremely problematic when " deep sequencing " genetically heterogeneous mixtures , such as tumors or mixed microbial populations .
+To overcome limitations in sequencing accuracy , we have developed a method termed Duplex Sequencing .
+This approach greatly reduces errors by independently tagging and sequencing each of the two strands of a DNA duplex .
+As the two strands are complementary , true mutations are found at the same position in both strands .
+In contrast , PCR or sequencing errors result in mutations in only one strand and can thus be discounted as technical error .
+We determine that Duplex Sequencing has a theoretical background error rate of less than one artifactual mutation per billion nucleotides sequenced .
+In addition , we establish that detection of mutations present in only one of the two strands of duplex DNA can be used to identify sites of DNA damage .
+We apply the method to directly assess the frequency and pattern of random mutations in mitochondrial DNA from human cells .

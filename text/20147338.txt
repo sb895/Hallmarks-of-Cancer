@@ -1,0 +1,10 @@
+Colorectal cancer ( CRC ) arises as the consequence of progressive changes from normal epithelial cells through polyp to tumor , and thus is an useful model for studying metabolic shift .
+In the present study , we studied the metabolomic profiles using high analyte specific gas chromatography/mass spectrometry ( GC/MS ) and liquid chromatography tandem mass spectrometry ( LC/MS/MS ) to attain a systems-level view of the shift in metabolism in cells progressing along the path to CRC .
+Colonic tissues including tumor , polyps and adjacent matched normal mucosa from 26 patients with sporadic CRC from freshly isolated resections were used for this study .
+The metabolic profiles were obtained using GC/MS and LC/MS/MS .
+Our data suggest there was a distinct profile change of a wide range of metabolites from mucosa to tumor tissues .
+Various amino acids and lipids in the polyps and tumors were elevated , suggesting higher energy needs for increased cellular proliferation .
+In contrast , significant depletion of glucose and inositol in polyps revealed that glycolysis may be critical in early tumorigenesis .
+In addition , the accumulation of hypoxanthine and xanthine , and the decrease of uric acid concentration , suggest that the purine biosynthesis pathway could have been substituted by the salvage pathway in CRC .
+Further , there was a step-wise reduction of deoxycholic acid concentration from mucosa to tumors .
+It appears that to gain a growth advantage , cancer cells may adopt alternate metabolic pathways in tumorigenesis and this flexibility allows them to adapt and thrive in harsh environment .

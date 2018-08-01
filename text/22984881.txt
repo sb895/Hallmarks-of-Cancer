@@ -1,0 +1,9 @@
+Exosomes are small-membrane vesicles secreted by hematopoietic and malignant epithelial cells as well as trophoblasts .
+The composition of cancerous exosomes has been proven to play pivotal roles in the maintenance of the microenvironment that is beneficial for the progression of cancer , such as Fas-ligand-triggered lymphocyte apoptosis .
+We supposed that the immunosuppressive effect of cancerous exosomes might be helpful in the treatment of diseases characterized by overactivation of the immune system and subsequent tissue injury .
+The aim of this study was to evaluate the protective effect of tumor-derived exosomes in the mice model of lipopolysaccharide ( LPS)-induced inflammation .
+Tetrazolium ( MTT ) and DNA electrophoresis were used to measure the cytotoxicity of exosomes on lymphocytes .
+Pathologic observation of tissue sections , serologic analysis of aspartate aminotransferase/alanine aminotransferase ( AST/ALT ) , and urinary analysis of protein were used to assess the protection effect of exosomes in LPS-induced multiorgan damage .
+In vitro outcomes of MTT and DNA electrophoresis showed the cytotoxicity of exosomes on lymphocytes .
+Together with the alleviation of organ damages evaluated by urine protein , serum AST/ALT , and pathologic analysis , we confirmed the possibility that pretreatment of mice with exosomes , produced by H22 hepatic tumor cells , resulted in protection against LPS-induced tissue damage , which is caused by overactivation of the immune system and inflammation response .
+This therapeutic strategy will raise an interesting way to search new therapeutics in pairs of diseases with complementarities in etiology and pathology , namely , a strategy of taking advantage of the mutual complementarities between diseases .

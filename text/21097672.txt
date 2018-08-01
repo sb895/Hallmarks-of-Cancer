@@ -1,0 +1,11 @@
+Multiple myeloma is characterized by the clonal expansion of malignant plasma cells ( multiple myeloma cells [ MMCs] ) , in the bone marrow .
+Osteolytic bone lesions are detected in 80% of patients because of increased osteoclastic bone resorption and reduced osteoblastic bone formation .
+MMCs are found closely associated with sites of increased bone resorption .
+Osteoclasts strongly support MMC survival in vitro .
+To further elucidate the mechanisms involved in osteoclast/MMC interaction , we have identified 552 genes overexpressed in osteoclasts compared with other bone marrow cell subpopulations .
+Osteoclasts express specifically genes coding for 4 CCR2-targeting chemokines and genes coding for MMC growth factors .
+An anti-CCR2 monoclonal antibody blocked osteoclast chemoattractant activity for MMC , and CCR2 chemokines are also MMC growth factors , promoting mitogen-activated protein kinase activation in MMC .
+An anti-insulin growth factor-1 receptor monoclonal antibody completely blocked the osteoclast-induced survival of MMC suppressing both osteoclast and MMC survival .
+Specific a proliferation-inducing ligand or IL-6 inhibitors partially blocked osteoclast-induced MMC survival .
+These data may explain why newly diagnosed patients whose MMC express high levels of CCR2 present numerous bone lesions .
+This study displays additional mechanisms involved in osteoclast/MMC interaction and suggests using CCR2 and/or insulin growth factor-1 targeting strategies to block this interaction and prevent drug resistance .

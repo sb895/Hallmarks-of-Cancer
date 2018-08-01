@@ -1,0 +1,9 @@
+Semi-conservative replication of double-stranded DNA in eukaryotic cells is an asymmetric process involving leading and lagging strand synthesis and different DNA polymerases .
+We report a study to analyze the effect of these asymmetries when the replication machinery encounters alkylation-induced DNA adducts .
+The model system is an EBV-derived shuttle vector which replicates in synchrony with the host human cells and carries as marker gene the bacterial gpt gene .
+A preferential distribution of N-methyl-N-nitrosourea ( MNU)-induced mutations in the non transcribed DNA strand of the shuttle vector pF1-EBV was previously reported .
+The hypermutated strand was the leading strand .
+To test whether the different fidelity of DNA polymerases synthesizing the leading and the lagging strands might contribute to MNU-induced mutation distribution the mutagenesis study was repeated on the shuttle vector pTF-EBV which contains the gpt gene in the inverted orientation .
+We show that the base substitution error rates on an alkylated substrate are similar for the replication of the leading and lagging strands .
+Moreover , we present evidence that the fidelity of replication opposite O6-methylguanine adducts of both the leading and lagging strands is not affected by the 3 ' flanking base .
+The preferential targeting of mutations after replication of alkylated DNA is mainly driven by the base at the 5 ' side of the G residues .

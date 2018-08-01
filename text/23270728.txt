@@ -1,0 +1,12 @@
+The evidence that androgen blockade-resistant prostate cancer , termed castration resistant , remains androgen receptor ( AR ) dependent is compelling .
+AR is re-activated through multiple mechanisms including expression of constitutively active splice variants that lack hormone binding domains ( HBDs ) .
+This highlights need to develop therapies that target regions other than the HBD .
+Because the p160 coactivators interact most strongly with the amino-terminus of AR , we examined the consequences of disrupting this interaction .
+We identified two overlapping SRC-1 peptides that interact with AR , but not with progesterone receptor .
+These peptides reduce AR and AR variant AR-V7 dependent induction of an AR responsive reporter .
+Using mammalian two hybrid assays , we found that the peptides interrupt the AR/SRC-1 , AR/SRC-2 and AR N/C interactions , but not SRC-1/CARM-1 interactions .
+Consistent with the SRC-1 dependence of induced , but not repressed genes , in LNCaP cells , the peptides inhibited hormone dependent induction of endogenous target genes including PSA and TMPRSS2 , but did not block AR dependent repression of UGT2B17 or inhibit vitamin D receptor activity .
+Simultaneous detection of SRC-1 peptides and PSA by double immunofluorescence in transfected LNCaP cells clearly demonstrated a strong reduction in PSA levels in cells expressing the peptides .
+The peptides also inhibited the AR dependent expression of PSA in castration resistant C4-2 cells .
+Moreover they inhibited androgen dependent proliferation of LNCaP cells and proliferation of C4-2 cells in androgen depleted medium without affecting AR negative PC-3 cells .
+Thus , the p160 coactivator binding site is a novel potential therapeutic target to inhibit AR activity .

@@ -1,0 +1,7 @@
+To elucidate role of the three enzymes in hepatocarcinogenesis , hMTH1 , hOGG1 and hMYH , mRNA expression were examined by using RT/semi-quantitative real-time PCR and 8-O-HdG levels was studied by HPLC/ECD in HCC and non-tumorous liver tissue of 21 patients with hepatocellular carcinoma ( HCC ) .
+It was found that the 8-OHdG level in non-tumourous liver tissue was significantly higher than in HCC tissue ( P = 0.006 ) , and this was correlated with the degree of inflammation .
+The hMTH1 expression in HCC tissue was significantly higher than in non-tumorous liver tissue ( P = 0.014 ) .
+Inversely , The hMYH alpha expression was significantly increased ( P = 0.039 ) in non-tumorous liver tissue .
+No difference was seen in hOGG1 expression in non-tumorous liver and HCC tissue .
+A significant linear correlation between hMTH1 and hOGG1 expression was found both in HCC tissue ( r = 0.809 , P < 0.001 ) and in non-tumorous liver tissue ( r = 0.883 , P < 0.001 ) .
+Our findings suggested a reactive rather than pathogenic role of the DNA repair enzymes in the hepatocarcinogenesis .

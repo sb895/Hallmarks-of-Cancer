@@ -1,0 +1,7 @@
+In order to elucidate the mechanisms by which tumour-specific CD4+ T-cell responses are impaired during tumour development , an attempt was made to identify factors which impair CD4+ T-cell responses at a late tumour-bearing stage .
+Plasma from mice bearing B16 melanoma for 30 days ( plasma d30 ) showed a more profound immunosuppressive effect on the in vitro proliferation of unrelated antigen-specific CD4+ T cells in the presence of both antigen and antigen-presenting cells ( APC ) than plasma from na�ve mice .
+The level of plasma transforming growth factor ( TGF)- was elevated in mice bearing B16 melanoma for 30 days compared with na�ve mice , and the suppressive effect of plasma d30 was partially diminished by the neutralization of TGF- .
+Interestingly , immunoglobulin ( IgG)-bound TGF- , but not IgG-unbound TGF- , in plasma d30 was suggested to be responsible for the immunosuppressive activity .
+In addition , no suppressive effect of plasma d30 was observed when antigen was added as a class II peptide , thus suggesting that the impaired proliferation of CD4+ T cells in the presence of plasma d30 was due to a dysfunction of antigen uptake/processing by APC .
+Furthermore , dissociation between IgG and TGF- resulted in a loss of the suppressive activity of plasma d30 .
+Taken together , these results suggest that circulating IgG-bound TGF- is , at least in part , responsible for the impaired responses of CD4+ T cells at the late tumour-bearing stage by suppressing antigen uptake/ processing by APC .

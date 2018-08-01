@@ -1,0 +1,9 @@
+BACKGROUND Yes Associated Protein ( YAP ) has been implicated in the control of organ size by regulating cell proliferation and survival .
+YAP is a transcriptional coactivator that controls cellular responses through interaction with TEAD transcription factors in the nucleus , while its transcriptional functions are inhibited by phosphorylation-dependent translocation to the cytosol .
+YAP overexpression has been associated with different types of cancer , such as lung , skin , prostate , ovary and liver cancer .
+Recently , YAP was linked to E-cadherin-dependent regulation of contact inhibition in breast cancer cells .
+RESULTS In this study we examined YAP protein expression and cellular localization in 237 cases of human invasive breast cancer by immunohistochemistry and related its expression to clinicopathological features and E-cadherin expression .
+We observed that invasive lobular carcinoma is characterized by higher expression levels of both nuclear and cytosolic YAP ( p < 0.001 ) .
+Nuclear YAP expression did not associate with other variables such as lymph node involvement , tumor grade , tumor size , mitotic activity or the molecular sub-types of invasive breast cancer .
+We observed that high nuclear and cytosolic YAP expression are associated with the E-cadherin deficient breast cancer subtype ILC ( p < 0.001 ) and cell lines derived from human breast cancers and conditional mouse models of human lobular breast cancer .
+CONCLUSIONS Since our data indicate that nuclear YAP localization is more common in breast cancers lacking functional adherens junctions , it suggests that YAP-mediated transcription may be involved in the development and progression of invasive lobular breast cancer .

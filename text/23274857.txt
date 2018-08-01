@@ -1,0 +1,11 @@
+Breast cancer is the second most common cancer with a high incidence rate worldwide .
+One of the promising therapeutic approaches on breast cancer is to use the drugs that target the estrogen receptor ( ER ) .
+In the present investigation , marmorin , a type I ribosome inactivating protein from the mushroom Hypsizigus marmoreus , inhibited the survival of breast cancer in vitro and in vivo .
+It evinced more potent cytotoxicity toward estrogen receptor ( ER)-positive MCF7 breast cancer cells than ER-negative MDA-MB-231 cells .
+Further study disclosed that marmorin undermined the expression level of estrogen receptor α ( ERα ) and significantly inhibited the proliferation of MCF7 cells induced by 17β-estradiol .
+Knockdown of ERα in MCF7 cells significantly attenuated the inhibitory effect of marmorin on proliferation , suggesting that the ERα-mediated pathway was implicated in the suppressive action of marmorin on ER-positive breast cancer cells .
+Moreover , marmorin induced time-dependent apoptosis in both MCF7 and MDA-MB-231 cells .
+It brought about G2/M-phase arrest , mitochondrial membrane potential depolarization and caspase-9 activation in MCF7 cells , and to a lesser extent in MDA-MB-231 cells .
+Marmorin triggered the death receptor apoptotic pathway ( e.g. caspase-8 activation ) and endoplasmic reticulum stress ( ERS , as evidenced by phosphorylation of PERK and IRE1α , cleavage of caspase-12 , and up-regulation of CHOP expression ) in both MCF7 and MDA-MB-231 cells .
+In summary , marmorin exhibited inhibitory effect on breast cancer partially via diminution of ERα and apoptotic pathways mediated by mitochondrial , death receptor and ERS .
+The results advocate that marmorin is a potential candidate for breast cancer therapy .

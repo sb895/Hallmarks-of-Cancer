@@ -1,0 +1,10 @@
+Evaluation of immune dysfunction during the tumor-bearing state is a critical issue in combating cancer .
+In this study , we initially found that IL-6 , one of the cachectic factors , suppressed CD4(+) T cell-mediated immunity through downregulation of MHC class II by enhanced arginase activity of dendritic cells ( DC ) in tumor-bearing mice .
+We demonstrated that administration of Ab against IL-6R ( anti-IL-6R mAb ) greatly enhanced T cell responses and inhibited the growth of tumor in vivo .
+We also found that IL-6 upregulated the expression of arginase-1 and arginase activity of DC in vitro .
+Tumor-infiltrating CD11c(+) DC exhibited upregulated mRNA expression of arginase-1 but reduced expression of MHC class II in parallel with the increase in serum IL-6 levels at the late stage in tumor-bearing hosts .
+However , the administration of anti-IL-6R mAb into tumor-bearing mice inhibited both the downmodulation of MHC class II and the upregulation of arginase-1 mRNA levels in DC .
+Furthermore , we noted that N(ω)-hydroxy-L-arginine or L-arginine , an arginase-1 inhibitor , blocked the reduction in MHC class II levels on CD11c(+) DC during the tumor-bearing state .
+Finally , we demonstrated that the administration of N(ω)-hydroxy-L-arginine at the peritumor site significantly enhanced CD4(+) T cell responses and inhibited tumor growth .
+Thus , IL-6-mediated arginase activation and the subsequent reduction in MHC class II expression on DC appeared to be critical mechanisms for inducing dysfunction of the immune system in the tumor-bearing state .
+Blockade of the IL-6-arginase cascade is a promising tool to overcome the dysfunction of antitumor immunity in tumor-bearing hosts .

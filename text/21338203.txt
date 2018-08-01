@@ -1,0 +1,9 @@
+BACKGROUND Polymorphisms in DNA repair genes are associated with ability to remove DNA lesions , and therefore may contribute to an individual's susceptibility to different types of cancer .
+Base excision repair ( BER ) , and nucleotide excision repair ( NER ) are the main DNA repair pathways .
+The present study was conducted to determine the frequency distribution of single nucleotide polymorphisms ( SNPs ) selected for genes in these two pathways i.e .
+OGG1 Exon 7 ( C1245G ) , XPC Intron 9 ( PAT ) , and Exon 15 ( A33512C ) in a North Indian population in comparison with global populations .
+METHODS Genotyping was achieved by PCR-based analysis in 224 normal healthy , unrelated individuals of similar ethnicity .
+RESULTS Allelic frequencies in wild type of OGG1 Exon 7 C>G were 73% ( C ) ; XPC PAT D>I 75% ( D ) ; and XPC Exon 15 A>C 60.71.9% A. On the other hand , the variant allele frequency were 27% ( G ) in OGG1 Exon 7 C>G ; 25% ( I ) in XPC PAT ; and 28.1% ( C ) in XPC Exon 15 A>C .
+Major differences from other ethnic populations were observed .
+CONCLUSIONS Our results suggest that frequency distribution in these DNA repair genes exhibited a distinctive pattern in our population which could be attributed to ethnic variation .
+This could assist in high-risk screening of humans exposed to environmental carcinogens and cancer predisposition in different ethnic groups .

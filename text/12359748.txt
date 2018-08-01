@@ -1,0 +1,7 @@
+We used cDNA-based genomic microarrays to examine DNA copy number changes in a panel of prostate tumors and found a previously undescribed amplicon on chromosome 17 containing a novel overexpressed gene that we termed prostate cancer gene 17 ( PRC17 ) .
+When overexpressed in 3T3 mouse fibroblast cells , PRC17 induced growth in low serum , loss of contact inhibition , and tumor formation in nude mice .
+The PRC17 gene product contains a GTPase-activating protein ( GAP ) catalytic core motif found in various Rab/Ypt GAPs , including RN-Tre .
+Similar to RN-Tre , we found that PRC17 protein interacts directly with Rab5 and stimulates its GTP hydrolysis .
+Point mutations that alter conserved amino acid residues within the PRC17 GAP domain abolished its transforming abilities , suggesting that GAP activity is essential for its oncogenic function .
+Whereas PRC17 is amplified in 15% of prostate cancers , it is highly overexpressed in approximately one-half of metastatic prostate tumors .
+The potent oncogenic activity of PRC17 is likely to influence the tumorigenic phenotype of these prostate cancers .

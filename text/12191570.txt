@@ -1,0 +1,3 @@
+When cells were incubated in the presence of both interferon-gamma ( IFN-gamma ) and all-trans retinoic acid ( ATRA ) , the concentration of IFN-gamma required to induce apoptosis of B-cell lymphoma cells was much lower than that required for myeloid or erythroid cell lines .
+The concentration of IFN-gamma that effectively inhibited the proliferation of BALM-3 cells was 1/40 of that required for BALM-1 cells .
+STAT-1 phosphorylation , IRF-1 mRNA and protein expression and RAR-beta expression were enhanced to a greater degree in BALM-3 cells treated with IFN-gamma and ATRA than in BALM-1 cells treated with IFN-gamma and ATRA , suggesting that these IFN-gamma related genes were involved in the induction of apoptosis of BALM-3 cells .

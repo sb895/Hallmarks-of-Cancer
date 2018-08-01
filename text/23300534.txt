@@ -1,0 +1,12 @@
+Ovarian cancer , one of inflammation-associated cancers , is the fifth leading cause of cancer deaths among women .
+Inflammation in the tumor microenvironment is associated with peritoneal tumor dissemination and massive ascites , which contribute to high mortality in ovarian cancer .
+Tumor suppressor p53 is frequently deleted or mutated in aggressive and high-grade ovarian cancer , probably aggravating cancer progression and increasing mortality .
+We therefore investigated the influence of p53 on proinflammatory chemokines in ovarian cancer cells .
+A PCR array of the chemokine network revealed that ovarian cancer cells with low or mutated p53 expression expressed high levels of proinflammatory chemokines such as CXCL1 , 2 , 3 and 8 .
+Transient transfection of p53 into p53-null ovarian cancer cells downregulated proinflammatory chemokines induced by tumor necrosis factor-α ( TNF ) , a proinflammatory cytokine abundantly expressed in ovarian cancer .
+Furthermore , p53 restoration or stabilization blocked TNF-induced NF-κB promoter activity and reduced TNF-activated IκB .
+Restoration of p53 increased ubiquitination of IκB , resulting from concurrently reduced proteasome activity followed by stability of IκB .
+A ubiquitination PCR array on restoration of p53 did not reveal any significant change in expression except for Mdm2 , indicating that the balance between p53 and Mdm2 is more important in regulating NF-κB signaling rather than the direct effect of p53 on ubiquitin-related genes or IκB kinases .
+In addition , nutlin-3 , a specific inducer of p53 stabilization , inhibited proinflammatory chemokines by reducing TNF-activated IκB through p53 stabilization .
+Taken together , these results suggest that p53 inhibits proinflammatory chemokines in ovarian cancer cells by reducing proteasomal degradation of IκB .
+Thus , frequent loss or mutation of p53 may promote tumor progression by enhancing inflammation in the tumor microenvironment .

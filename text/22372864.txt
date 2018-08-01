@@ -1,0 +1,4 @@
+A novel series of N(4)-(3-chlorophenyl)-5-(oxazol-2-yl)pyrimidine-4,6-diamines were synthesized and evaluated as dual inhibitors of HER-1/HER-2 tyrosine kinases .
+In contrast to the currently approved HER-2-targeted agent ( lapatinib , 1 ) , our irreversible HER-1/HER-2 inhibitors have the potential to overcome the clinically relevant and mutation-induced drug resistance .
+The selected compound ( 19a ) showed excellent inhibitory activity toward HER-1/HER-2 tyrosine kinases with selectivity over 20 other kinases and inhibited the proliferation of both cancer cell types : lapatinib-sensitive cell lines ( SK-Br3 , MDA-MB-175 , and N87 ) and lapatinib-resistant cell lines ( MDA-MB-453 , H1781 , and H1975 ) .
+The excellent pharmacokinetic profiles of 19a in mice and rats led us to further investigation of a novel therapeutic agent for HER-2-targeting treatment of solid tumors , especially HER-2-positive breast/gastric cancer and HER-2-mutated lung cancer .

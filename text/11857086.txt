@@ -1,0 +1,13 @@
+Mesotheliomas are malignant tumors of the pleural and peritoneal membranes which are often associated with asbestos exposure and with Simian virus 40 ( SV40 ) infection .
+Telomerase activity is repressed in somatic cells and tissues but is activated in immortal and malignant cells .
+We evaluated telomerase activity in seven primary malignant mesothelioma biopsies and matched lung specimens and 20 mesothelioma cell lines and eight corresponding primary tumor cultures .
+All the tumor biopsies , and nearly all primary cell mesothelioma cultures and cell lines were telomerase positive .
+The findings in cell lines paralleled those observed in primary cultures in cases where paired samples were available .
+Next , we found that SV40 , a DNA tumor virus present in approximately 50% of mesothelioma biopsies in the USA , induced telomerase activity in primary human mesothelial cells , but not in primary fibroblasts .
+Telomerase activity became detectable as early as 72 h following wild-type ( strain 776 ) SV40 infection , and a clear DNA ladder was detectable 1 week after infection .
+The amount of telomerase activity increased during passage in cell culture and appeared to parallel increases in the cellular amounts of the SV40 large T-antigen .
+Thus , SV40 infection leads to telomerase activity before the infected mesothelial cells become transformed and immortalized .
+SV40 infection of human fibroblasts did not cause detectable telomerase activity .
+We also determined that the SV40 small t-antigen ( tag ) plays an important role in inducing telomerase activity because this activity was undetectable or minimal in mesothelial cells infected and/or transformed by SV40 tag mutants .
+Asbestos alone did not induce telomerase activity , and asbestos did not influence telomerase activity in mesothelial cells infected with SV40 .
+Induction of telomerase activity by SV40 may be related to the very high rate of mesothelial cell immortalization that is characteristically associated with SV40 infection of mesothelial cells .

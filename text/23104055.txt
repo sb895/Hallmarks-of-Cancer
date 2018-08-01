@@ -1,0 +1,5 @@
+The topoisomerase II ( topo II ) DNA incision-and-ligation cycle can be poisoned ( for example following treatment with cancer chemotherapeutics ) to generate cytotoxic DNA double-strand breaks ( DSBs ) with topo II covalently conjugated to DNA .
+Tyrosyl-DNA phosphodiesterase 2 ( Tdp2 ) protects genomic integrity by reversing 5'-phosphotyrosyl-linked topo II-DNA adducts .
+Here , X-ray structures of mouse Tdp2-DNA complexes reveal that Tdp2 \u03b2-2-helix-\u03b2 DNA damage-binding ' grasp ' , helical ' cap ' and DNA lesion-binding elements fuse to form an elongated protein-DNA conjugate substrate-interaction groove .
+The Tdp2 DNA-binding surface is highly tailored for engagement of 5'-adducted single-stranded DNA ends and restricts nonspecific endonucleolytic or exonucleolytic processing .
+Structural , mutational and functional analyses support a single-metal ion catalytic mechanism for the exonuclease-endonuclease-phosphatase ( EEP ) nuclease superfamily and establish a molecular framework for targeted small-molecule blockade of Tdp2-mediated resistance to anticancer topoisomerase drugs .

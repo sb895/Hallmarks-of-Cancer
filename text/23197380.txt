@@ -1,0 +1,12 @@
+Prohibiting angiogenesis is an important therapeutic approach for fighting cancer and other angiogenic related diseases .
+Research focused on proteins that regulate abnormal angiogenesis has attracted intense interest in both academia and industry .
+Such proteins are able to target several angiogenic factors concurrently , thereby increasing the possibility of therapeutic success .
+Aquaporin-1 ( AQP1 ) is a water channel membrane protein that promotes tumour angiogenesis by allowing faster endothelial cell migration .
+In this study we test the hypothesis that AQP1 inhibition impairs tumour growth in a mouse model of melanoma .
+After validating the inhibitor efficacy of two different AQP1 specific siRNAs in cell cultures , RNA interference experiments were performed by intratumoural injections of AQP1 siRNAs in mice .
+After 6 days of treatment , AQP1 siRNA treated tumours showed a 75 % reduction in volume when compared to controls .
+AQP1 protein level , in AQP1 knockdown tumours , was around 75 % that of the controls and was associated with a significant 40 % reduced expression of the endothelial marker , Factor VIII .
+Immunofluorescence analysis of AQP1 siRNA treated tumours showed a significantly lower microvessel density .
+Time course experiments demonstrated that repeated injections of AQP1 siRNA over time are effective in sustaining the inhibition of tumour growth .
+Finally , we have confirmed the role of AQP1 in sustaining an active endothelium during angiogenesis and we have shown that AQP1 reduction causes an increase in VEGF levels .
+In conclusion , this study validates AQP1 as a pro-angiogenic protein , relevant for the therapy of cancer and other angiogenic-related diseases such as psoriasis , endometriosis , arthritis and atherosclerosis .

@@ -1,0 +1,12 @@
+OBJECTIVE To study the effect of necrostatin ( Nec-1 ) on apoptosis induced by aluminum ( Al ) , and approach the mechanism .
+METHODS Neural cell death model was made by 4 mmol/L Al treated neuroblastoma cells ( SH-SY5Y ) .
+Cell viabilities were detected at different concentrations of Al and/or Nec-1 .
+Hoechst 33342/PI double staining was used to observe apoptosis and ( or ) necrosis that were quantified by flow cytometry using Annexin V/PI double staining .
+Apoptotic pathway was tested by activities of Caspase-3 , Caspase-8 and Caspase-9 .
+In addition , the expression of NF-kappa B and Cyt-c was measured by immunocytochemistry .
+RESULTS Cell viabilities were significantly decreased with the increasing concentrations of Al ( P < 0.05 ) , which could be significantly upregulated by 60 micromol/L Nec-1 ( P < 0.05 ) and were correlated with the concentrations of Nec-1 ( P < 0.05 , P < 0.01 ) .
+Apoptosis and necrosis were observed under fluorescent microscope and quantified by flow cytometry , which suggested an increasing trend of apoptotic and necrotic rates ( P < 0.05 , P < 0.01 ) .
+Whereas , Nec-1 could not only decrease the necrotic rate but also apoptotic rate as well ( P < 0.05 , P < 0.01 ) .
+Data of Nec-1 on caspases activities showed that Nec-1 could not affect Caspase-9 activity ( P > 0.05 ) and Cty-c protein expression as well ( P > 0.05 ) .
+However , Nec-1 could reduce Caspase-8 activity significantly ( P < 0.05 , P < 0.01 ) and increase NF-kappa B protein expression ( P < 0.05 , P < 0.01 ) and finally decrease Caspase-3 activity ( P < 0.05 ) .
+CONCLUSION Nec-1 could reduce cell apoptosis induced by Al , through Caspase-8 pathway , and up-regulate the expression of NF-kappa B protein .

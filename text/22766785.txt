@@ -1,0 +1,15 @@
+The apoptotic effects of interferon lambdas ( IFNλs ) have been described in several types of cancers .
+However , their effects on human lung cancer cells and the mechanisms are elusive .
+In addition , the interaction between IFNλs and other interferons remains unclear .
+The interplay between IFNα and IFNλ has been reported .
+However , although IFNγ is a well-known regulatory interferon , the mechanisms through which it regulates IFNλs in lung cancer cells are unknown .
+These issues are critical for the application of IFNλs in lung cancer therapy .
+In this study , we used A549 , a cell line derived from a human lung carcinoma , to characterize the antiproliferative and apoptotic effects of IFNλs on lung cancer , and the interplay between IFNγ and IFNλ .
+Because overexpression of full-length ectopic IFNλR1 led to cell death , we generated A549 cells stably expressing a chimeric receptor ( 10R1/λR1 ) , which is composed of the extracellular domain of IL-10 receptor ( IL10R1 ) fused in tandem to the transmembrane and intracellular domains of the IFNλ receptor ( IFNλR1 ) .
+By comparing with A549 cells stably expressing its cognate vector , we demonstrated that IL-10 stimulation triggered the intracellular IFNλ signaling via 10R1/λR1 receptor .
+By using A549 cells expressing 10R1/λR1 , we report that the IFNλR1 chain of IFNλ receptor possesses an intrinsic ability to trigger apoptosis in human lung cancer cells .
+Although it did not suppress cell proliferation , IFNλ signaling via 10R1/λR1 receptor induced cell cycle arrest , externalization of phosphatidylserine , DNA fragmentation , activation of caspase-3 , caspase-8 and caspase-9 .
+However , the caspase inhibitor Z-VAD-FMK did not prevent apoptosis .
+In addition , the extent of induced apoptosis correlate with the expression levels of the IFNλ receptor and the levels of STAT1 activation .
+Lastly , we demonstrated that IFNγ sensitized A549 cells to IFNλ-induced apoptosis , via upregulation of IFNλR1 .
+These data indicate the potential of IFNλ , alone or in combination with IFNγ , in the treatment of human lung carcinoma .

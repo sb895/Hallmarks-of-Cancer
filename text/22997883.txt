@@ -1,0 +1,9 @@
+OBJECTIVE To construct the eukaryotic expression vector for Max interacting protein 1 ( Mxi1 ) .
+METHODS The full length cDNA of Mxi1 gene obtained from fetal lymphocyte and KG1 cells were inserted into plasmid pDs-red2-N1 respectively to generate pDs-red2-N1/Mri1 ( wild/mutation type ) .
+Then the recombinant vector was transfected into Cos-7 cells via liposome. 48 hours post transfection , mRNA of Mri1 gene was detected by RT-PCR and Mxi1 protein expression was detected by flow cytometry and fluorescence microscope in the Cos-7 cells .
+RESULTS The eukaryotic expression vector of Mxi1 was constructed and transfected into eukaryotic cells successfully .
+The expression of red fluorescence protein in the transfected Cos-7 cells was observed under fluorescence microscope which implied the expression of Mxi1 .
+The transfect efficiency of both wild and mutation type were in a high level in 3 days after transfected , which lasted to 6 d .
+RT-PCR amplified the total RNA extracted from the transfected Cos-7 cells could find increased mRNA level of Mxi1 gene .
+CONCLUSION We successfully constructed the eukaryote expression vector for Mri1 gene ; Cos-7 cells transfected with the vector via liposome could express Mxi1 protein .
+These could be useful for the further study of the Myc gene modulation .

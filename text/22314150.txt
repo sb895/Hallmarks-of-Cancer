@@ -1,0 +1,8 @@
+Ninety-three patients with completely resected peripheral non-small cell lung cancer , clinically diagnosed 2 cm or less in diameter , were retrospectively reviewed .
+Their preoperative computed tomography ( CT ) and positron emission tomography ( PET ) findings , carcinoembryonic antigen ( CEA ) values , clinico-pathological features and postoperative outcomes were analysed .
+Ground-glass opacity ( GGO ) ratio( soft tissue density area of the tumor/maximum area of the tumor in diameter ) was measured .
+The overall survival rate at 3 years was 93.3% and the relapse-free survival rate at 3 years was 89.4% with a median follow-up period of 38.5 months .
+Patients with GGO ratio 0.25 or less had no lymph node ( LN ) involvement nor lymph vascular invasion .
+Only 2 of them ( 8% ) had vascular invasion .
+Fisher's exact probability test revealed CEA ≥ 5 ng/ ml as risk factor for LN involvement( p=0.0400 ) .
+Multiple logistic regression analysis showed that solid adenocarcinoma and squamous cell carcinoma recurred more frequently than adenocarcinoma with GGO ( p=0.0619 , odds ratio 4.969 , 95%CI 0.9242

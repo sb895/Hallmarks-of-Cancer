@@ -1,0 +1,13 @@
+OBJECTIVES/HYPOTHESIS Head and neck squamous cell carcinoma ( HNSCC ) is a complex disease process involving interactions with carcinoma-associated fibroblasts and endothelial cells .
+We further investigated these relationships by suppressing stromal cell growth through the inhibition of fibroblast growth factor receptor ( FGFR ) .
+STUDY DESIGN Preclinical investigation .
+METHODS HNSCC cell lines ( FADU , OSC19 , Cal27 , SCC1 , SCC5 , SCC22A ) , fibroblast ( HS27 ) , and endothelial cells ( human umbilical vascular endothelial cell ) were cultured individually or in coculture .
+Proliferation was assessed following treatment with a range of physiologic concentrations of FGFR inhibitor PD173074 .
+Mice bearing established HNSCC xenografts were treated with PD173074 ( 12 mg/kg ) , and tumor histology was analyzed for stromal composition , proliferation ( Ki67 staining ) , and apoptosis ( TUNEL [ terminal deoxynucleotidyl transferase dUTP nick end labeling ] staining ) .
+RESULTS In vitro , inhibition of FGFR with PD173074 dramatically reduced proliferation of fibroblasts and endothelial cells compared to untreated controls .
+However , HNSCC cell proliferation was not affected by inhibition of FGFR .
+When cocultured with fibroblasts , HNSCC cells proliferation increased by 15% to 80% ( P < .01 ) .
+Furthermore , this fibroblast-enhanced tumor cell growth was suppressed by FGFR inhibition .
+Additionally , treatment of mice bearing HNSCC xenografts with PD173074 resulted in significant growth inhibition ( P < .001 ) .
+Additionally , those tumors from mice treated with PD173074 had a smaller stromal component , decreased proliferation , and increased apoptosis .
+CONCLUSIONS Targeting the FGFR pathway in head and neck cancer acts through the stromal components to decrease HNSCC growth in vivo and in vitro .

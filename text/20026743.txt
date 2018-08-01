@@ -1,0 +1,14 @@
+High concentrations of lactic acid ( LA ) are found under various pathophysiological conditions and are accompanied by an acidification of the environment .
+To study the impact of LA on TNF secretion , human LPS-stimulated monocytes were cultured with or without LA or the corresponding pH control .
+TNF secretion was significantly suppressed by low concentrations of LA ( < or = 10 mM ) , whereas only strong acidification had a similar effect .
+This result was confirmed in a coculture model of human monocytes with multicellular tumor spheroids .
+Blocking synthesis of tumor-derived lactate by oxamic acid , an inhibitor of lactate dehydrogenase , reversed the suppression of TNF secretion in this coculture model .
+We then investigated possible mechanisms underlying the suppression .
+Uptake of [ 3-(13)C]lactate by monocytes was shown by hyphenated mass spectrometry .
+As lactate might interfere with glycolysis , the glycolytic flux of monocytes was determined .
+We added [ 1,2-(13)C(2)]glucose to the culture medium and measured glucose uptake and conversion into [ 2,3-(13)C(2)]lactate .
+Activation of monocytes increased the glycolytic flux and the secretion of lactate , whereas oxygen consumption was decreased .
+Addition of unlabeled LA resulted in a highly significant decrease in [ 2,3-(13)C(2)]lactate secretion , whereas a mere corresponding decrease in pH exerted a less pronounced effect .
+Both treatments increased intracellular [ 2,3-(13)C(2)]lactate levels .
+Blocking of glycolysis by 2-deoxyglucose strongly inhibited TNF secretion , whereas suppression of oxidative phosphorylation by rotenone had little effect .
+These results support the hypothesis that TNF secretion by human monocytes depends on glycolysis and suggest that LA and acidification may be involved in the suppression of TNF secretion in the tumor environment .

@@ -1,0 +1,8 @@
+Systemic oxidative stress is associated with a wide range of pathological conditions .
+Oxidative DNA damage is frequently measured in circulating lymphocytes .
+Mitochondrial DNA ( mtDNA ) is known to be more sensitive to oxidative damage than nuclear DNA but is rarely used for direct measurement of DNA damage in clinical studies .
+Based on the supercoiling-sensitive real-time PCR method , we propose a new approach for the noninvasive monitoring of systemic oxidative stress by quantifying the mtDNA structural damage and copy number change in isolated lymphocytes in a single test .
+We show that lymphocytes have significantly less mtDNA content and relatively lower baseline levels of damage than cancer cell lines .
+In an ex vivo challenge experiment , we demonstrate , for the first time , that exogenous H2O2 induces a significant increase in mtDNA damage in lymphocytes from healthy individuals , but no repair activity is observed after 1 h recovery .
+We further demonstrate that whole blood may serve as a convenient alternative to the isolated lymphocytes in mtDNA analysis .
+Thus , the blood analysis with the multiple mtDNA end-points proposed in the current study may provide a simple and sensitive test to interrogate the nature and extent of systemic oxidative stress for a broad spectrum of clinical investigations .

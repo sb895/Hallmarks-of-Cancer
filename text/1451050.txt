@@ -1,0 +1,9 @@
+BACKGROUND Matrix metalloproteinases ( MMP ) are a gene family of zinc enzymes capable of degrading almost all of the extracellular matrix macromolecules in vivo .
+Their enzymic activities are believed to be responsible for tumor invasion and metastasis .
+METHODS In this study , using peroxidase-antiperoxidase method , monospecific antisera against MMP-1 ( tissue collagenase ) , MMP-2 ( type IV collagenase/72-kilodalton [ KD ] gelatinase ) , and MMP-3 ( stromelysin ) were applied to 29 squamous cell carcinomas and normal epithelium of the esophagus to identify cells synthesizing and secreting these enzymes .
+RESULTS Immunoreactivity of MMP-1 , -2 , and -3 was observed in small cancer nests of the deeply invasive or marginal portion of the tumor .
+Among the 29 patients studied , the presence of at least one MMP was observed in 17 ( 58.6% ) .
+All three enzymes were observed in six ( 20.6% ) patients , MMP-2 and -3 in five ( 17.2% ) patients , only MMP-2 in three ( 10.3% ) patients , and MMP-3 alone in three ( 10.3% ) patients .
+There was a good correlation among histologic stage and tumor invasion , lymph node metastasis , and MMP expression .
+In particular , expression of MMP-2 and -3 was closely related to lymph node metastasis and vascular invasion .
+CONCLUSIONS These results suggest that MMP , especially MMP-2 and -3 , play an important role in tumor invasion and metastasis and that analysis of MMP-2 and -3 production is useful for evaluation of malignant potential in esophageal carcinoma .

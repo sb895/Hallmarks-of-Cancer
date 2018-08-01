@@ -1,0 +1,7 @@
+Context:The ubiquitin-proteasome system and macroautophagy are two major pathways for intracellular protein degradation .
+Emerging lines of evidence have shown that blockade of ubiquitin-proteasome system by proteasome inhibitors activates macroautophagy.Objective:The purpose of this study was to determine the involvement of autophagy essential gene Beclin 1 in cytotoxicity of thyroid cancer cells mediated by proteasome inhibitors.Design:Autophagy was measured by acidic-trophic dye staining and EGF-LC3 distribution using fluorescence microscopy , as well as LC3-II transition using Western blot .
+To ascertain the effect of Beclin 1 , cells were transfected with Beclin 1 plasmid or shRNA against Beclin 1 .
+Cell viability and apoptotic cells were measured using MTT assay and flow cytometry , respectively.Results:Proteasome inhibitors decreased Beclin 1 expression .
+In addition , treatment with PI3K inhibitors 3-MA or wortmannin , as well as knockdown of Beclin 1 expression , was unable to affect autophagic responses mediated by proteasome inhibitors .
+Overexpression of Beclin 1 enhanced proteasome inhibitor-mediated cytotoxicity of thyroid cancer cells via suppression of survivin.Conclusions:Proteasome inhibitors cause Beclin 1-independent macroautophagic responses of thyroid cancer cells in a Beclin 1-independent manner .
+Beclin 1 possesses autophagy-independent antitumoral effects upon exposure of thyroid cancer cells to proteasome inhibitors .

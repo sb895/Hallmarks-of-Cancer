@@ -1,0 +1,14 @@
+BACKGROUND Alcohol consumption promotes hepatocellular carcinoma ( HCC ) .
+The responsible mechanisms are not well understood .
+Hepatocarcinogenesis increases with age and is enhanced by factors that impose a demand for liver regeneration .
+Because alcohol is hepatotoxic , habitual alcohol ingestion evokes a recurrent demand for hepatic regeneration .
+The alcohol-preferring ( P ) rat model mimics the level of alcohol consumption by humans who habitually abuse alcohol .
+Previously , we showed that habitual heavy alcohol ingestion amplified age-related hepatocarcinogenesis in P rats , with over 80% of alcohol-consuming P rats developing HCCs after 18months of alcohol exposure , compared with only 5% of water-drinking controls .
+METHODS Herein , we used quantitative real-time PCR and quantitative immunocytochemistry to compare liver tissues from alcohol-consuming P rats and water-fed P rat controls after 6 , 12 , or 18months of drinking .
+We aimed to identify potential mechanisms that might underlie the differences in liver cancer formation and hypothesized that chronic alcohol ingestion would activate Hedgehog ( HH ) , a regenerative signaling pathway that is overactivated in HCC .
+RESULTS Chronic alcohol ingestion amplified age-related degenerative changes in hepatocytes , but did not cause appreciable liver inflammation or fibrosis even after 18months of heavy drinking .
+HH signaling was also enhanced by alcohol exposure , as evidenced by increased levels of mRNAs encoding HH ligands , HH-regulated transcription factors , and HH target genes .
+Immunocytochemistry confirmed increased alcohol-related accumulation of HH ligand-producing cells and HH-responsive target cells .
+HH-related regenerative responses were also induced in alcohol-exposed rats .
+Three of these processes ( i.e. , deregulated progenitor expansion , the reverse Warburg effect , and epithelial-to-mesenchymal transitions ) are known to promote cancer growth in other tissues .
+CONCLUSIONS Alcohol-related changes in Hedgehog signaling and resultant deregulation of liver cell replacement might promote hepatocarcinogenesis .

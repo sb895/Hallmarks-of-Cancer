@@ -1,0 +1,9 @@
+Previous studies have shown that 6-methoxy-8-hydroxylaminoquinoline ( MAQ-NOH ) , an N-hydroxy metabolite of the antimalarial drug , primaquine , is a direct-acting hemolytic agent in rats .
+To investigate the mechanism underlying this hemolytic activity , the effects of hemotoxic concentrations of MAQ-NOH on rat erythrocyte sulfhydryl status , membrane lipids , skeletal proteins , and morphology have been examined .
+Treatment of rat erythrocytes with a TC(50) concentration of MAQ-NOH ( 350 microM ) caused only a modest and transient depletion of reduced glutathione ( GSH ) ( which was matched by modest increases in the levels of glutathione disulfide and glutathione-protein mixed disulfides .
+Lipid peroxidation , as measured by thiobarbituric acid-reactive substances and F(2)-isoprostane formation , was induced in a concentration-dependent manner by MAQ-NOH .
+However , the formation of disulfide-linked hemoglobin adducts on membrane skeletal proteins and changes in erythrocyte morphology were not observed .
+These data suggest that hemolytic activity results from peroxidative damage to the lipid of the red cell membrane and is not dependent on skeletal protein thiol oxidation .
+However , when red cell GSH was depleted ( >90% ) by titration with diethyl maleate , hemolytic activity of MAQ-NOH was markedly enhanced .
+Of interest , exacerbation of hemotoxicity was not matched by increases in lipid peroxidation , but by the appearance of hemoglobin-skeletal protein adducts .
+Collectively , the data are consistent with the concept that MAQ-NOH may operate by more than one mechanism ; one that involves lipid peroxidation in the presence of normal amounts of erythrocytic GSH , and one that involves protein oxidation in red cells with low levels of GSH , such as are seen in individuals with glucose-6-phosphate dehydrogenase deficiency .

@@ -1,0 +1,11 @@
+Whole genome duplications ( WGDs ) are considered to have been a driving force in the generation of evolutionary diversity that is characteristic of higher eukaryotes .
+The ancestor of salmonids underwent two additional WGDs compared to mammals , one ( 3R ) at the base of the teleost radiation and another ( 4R ) in the common ancestor of extant salmonids .
+We have chosen the fatty acid binding protein ( fabp ) gene family as a model to study the fate of duplicated genes in teleosts following WGDs .
+As previously described for zebrafish , we identified two copies ( fabp7a and fabp7b ) of the brain-type fabp gene in several fish including rainbow smelt , but there was only a single transcript in northern pike , the closest relative of the salmonids , and two rather than the expected four fabp7 genes in Atlantic salmon , rainbow trout and grayling .
+A phylogenetic analysis revealed that a loss of the fabp7a gene occurred in the common ancestor of the northern pike and salmonids after it had diverged from the rainbow smelt , and that the 4R WGD then gave rise to the fabp7bI and fabp7bII observed in salmonids .
+This is supported by genetic mapping that placed the Atlantic salmon duplicated fabp7b genes on homeologous chromosomes .
+There was no evidence of neo-functionalization in the salmonid fabp7bI and fabp7bII genes based on dN/dS ratios and an examination of amino acid substitutions .
+Atlantic salmon fabp7bI and fabp7bII genes are both expressed broadly like fabp7b expression in northern pike .
+However , only Atlantic salmon fabp7bII , like its counterpart in northern pike and zebrafish , was expressed in the liver .
+A comparison of upstream of Atlantic salmon fabp7b gene duplicates revealed an insertion of 62bp in fabp7bI relative to fabp7bII .
+The presence of predicted transcription factor binding sites in this insertion sequence may explain the differential expression of the fabp7b gene duplicates in Atlantic salmon liver .

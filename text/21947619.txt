@@ -1,0 +1,7 @@
+Genetic and molecular analyses mainly in Arabidopsis and in some other plants have demonstrated involvement of light signaling in cell cycle regulation .
+In this report , we show light-mediated activation of the promoter of AtPol\u03bb gene , a homolog of mammalian DNA polymerase \u03bb in Arabidopsis thaliana and an important component of DNA damage repair/recombination machinery in plants .
+Analyses of the light-mediated promoter activity using various deletion versions of AtPol\u03bb promoter in transformed Arabidopsis and tobacco ( Nicotiana tabaccum ) plants indicate that a 130-bp promoter region between -536 and -408 of AtPol\u03bb promoter is essential for light-induced regulation of AtPol\u03bb expression .
+DNA-protein interaction studies reveal that an ATCT-motif and AE-box light-responsive elements in the light-regulated promoter region confer light responsiveness of AtPol\u03bb promoter .
+DNA-binding analysis has identified a 63-kDa trans-acting protein factor which showed specific binding to ATCT-motif , while another trans-acting factor of kDa was found to bind specifically to both ATCT and AE-box sequences .
+The 52-kDa protein has been identified as B3-domain transcription factor by MALDI-TOF/MS analysis .
+Overall , our results provide novel information on the role of light signaling in regulation of expression of an important component of DNA repair machinery in plants .

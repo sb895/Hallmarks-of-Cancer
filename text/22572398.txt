@@ -1,0 +1,10 @@
+BACKGROUND Studies comparing similar-sized species with disparate longevity may elucidate novel mechanisms that abrogate aging and prolong good health .
+We focus on the longest living rodent , the naked mole-rat .
+This mouse-sized mammal lives times longer than do mice and , despite high levels of oxidative damage evident at a young age , it is not only very resistant to spontaneous neoplasia but also shows minimal decline in age-associated physiological traits .
+OBJECTIVES We assess the current status of stress resistance and longevity , focusing in particular on the molecular and cellular responses to cytotoxins and other stressors between the short-lived laboratory mouse and the naked mole-rat .
+RESULTS Like other experimental animal models of lifespan extension , naked mole-rat fibroblasts are extremely tolerant of a broad spectrum of cytotoxins including heat , heavy metals , DNA-damaging agents and xenobiotics , showing LD(50) values between 2- and 20-fold greater than those of fibroblasts of shorter-lived mice .
+Our new data reveal that naked mole-rat fibroblasts stop proliferating even at low doses of toxin whereas those mouse fibroblasts that survive treatment rapidly re-enter the cell cycle and may proliferate with DNA damage .
+Naked mole-rat fibroblasts also show significantly higher constitutive levels of both p53 and Nrf2 protein levels and activity , and this increases even further in response to toxins .
+CONCLUSION Enhanced cell signaling via p53 and Nrf2 protects cells against proliferating with damage , augments clearance of damaged proteins and organelles and facilitates the maintenance of both genomic and protein integrity .
+These pathways collectively regulate a myriad of mechanisms which may contribute to the attenuated aging profile and sustained healthspan of the naked mole-rat .
+Understanding how these are regulated may be also integral to sustaining positive human healthspan well into old age and may elucidate novel therapeutics for delaying the onset and progression of physiological declines that characterize the aging process .

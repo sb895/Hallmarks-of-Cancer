@@ -1,0 +1,8 @@
+The prediction of tumor behavior for patients with oral carcinomas remains a challenge for clinicians .
+The presence of lymph node metastasis is the most important prognostic factor but it is limited in predicting local relapse or survival .
+This highlights the need for identifying biomarkers that may effectively contribute to prediction of recurrence and tumor spread .
+In this study , we used one- and two-dimensional gel electrophoresis , mass spectrometry and immunodetection methods to analyze protein expression in oral squamous cell carcinomas .
+Using a refinement for classifying oral carcinomas in regard to prognosis , we analyzed small but lymph node metastasis-positive versus large , lymph node metastasis-negative tumors in order to contribute to the molecular characterization of subgroups with risk of dissemination .
+Specific protein patterns favoring metastasis were observed in the " more-aggressive " group defined by the present study .
+This group displayed upregulation of proteins involved in migration , adhesion , angiogenesis , cell cycle regulation , anti-apoptosis and epithelial to mesenchymal transition , whereas the " less-aggressive " group was engaged in keratinocyte differentiation , epidermis development , inflammation and immune response .
+Besides the identification of several proteins not yet described as deregulated in oral carcinomas , the present study demonstrated for the first time the role of cofilin-1 in modulating cell invasion in oral carcinomas .

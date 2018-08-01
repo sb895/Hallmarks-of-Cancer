@@ -1,0 +1,7 @@
+Human papillomavirus type 16 ( HPV16 ) E6 and E7 are selectively retained and expressed in HPV16-associated human genital tumors .
+E6 is active in several cell culture assays , including transformation of NIH 3T3 cells , trans activation of the adenovirus E2 promoter , and cooperation with E7 to immortalize normal human keratinocytes .
+Biochemically , the HPV16 E6 protein has been shown to bind to tumor suppressor protein p53 in vitro and induce its degradation in a rabbit reticulocyte lysate .
+To examine the relationship between the various biological activities of E6 and inactivation of p53 , we tested the abilities of dominant negative mutants of p53 to substitute functionally for E6 in the three cell culture assays .
+While wild-type p53 inhibited keratinocyte proliferation , both mouse and human mutant p53s , in conjunction with E7 , increased proliferation of the keratinocytes , resulting in generation of immortalized lines .
+However , in contrast to E6 , mutant p53 was unable to induce transformation or trans activate the adenovirus E2 promoter in NIH 3T3 cells .
+These results suggest that inactivation of wild-type p53 is necessary for HPV-induced immortalization of human keratinocytes and that different or additional activities are required for E6-dependent transformation and trans activation of NIH 3T3 cells .

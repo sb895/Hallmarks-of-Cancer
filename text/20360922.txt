@@ -1,0 +1,7 @@
+INTRODUCTION Astrocytic gliomas are the most common intracranial central nervous system neoplasias , accounting for about 60% of all primary central nervous system tumors .
+Despite advances in the treatment of gliomas , no effective therapeutic approach is yet available ; hence , the search for a more realistic model to generate more effective therapies is essential .
+OBJECTIVE To develop an experimental malignant astrocytoma model with the characteristics of the human tumor .
+METHOD Primary cells from subcutaneous xenograft tumors produced with malignant astrocytoma U87MG cells were inoculated intracerebrally by stereotaxis into immunosuppressed ( athymic ) Rowett rats .
+RESULTS All four injected animals developed non-infiltrative tumors , although other glioblastoma characteristics , such as necrosis , pseudopalisading cells and intense mitotic activity , were observed .
+CONCLUSION A malignant astrocytoma intracerebral xenograft model with poorly invasive behavior was achieved in athymic Rowett rats .
+Tumor invasiveness in an experimental animal model may depend on a combination of several factors , including the cell line used to induce tumor formation , the rat strains and the status of the animal's immune system .

@@ -1,0 +1,10 @@
+The anti-breast cancer drug tamoxifen has recently been shown to cause an increase in intracellular free-Ca(2+) concentrations ( [ Ca(2+)](i) ) in renal tubular cells , breast cells and bladder cells .
+Because tamoxifen is known to alter ovary function in human patients and in rats , the present study was aimed at exploring whether tamoxifen could alter Ca(2+) movement in Chinese hamster ovary ( CHO-K1 ) cells .
+Cytosolic free-Ca(2+) levels in populations of cells have been explored by using fura-2 as a fluorescent Ca(2+) indicator .
+Tamoxifen at concentrations above 1 micro M increased [ Ca(2+)](i) in a concentration-dependent manner with an EC(50) value of 8 micro M. The Ca(2+) signal was reduced by removing extracellular Ca(2+) , but was not affected by nifedipine , verapamil , diltiazem or ICI 182,780 ( an estrogen receptor antagonist ) .
+Pretreatment with 1 micro M thapsigargin ( an endoplasmic reticulum Ca(2+) pump inhibitor ) to deplete the endoplasmic reticulum Ca(2+) abolished 10 micro M tamoxifen-induced Ca(2+) release .
+Neither inhibition of phospholipase C with 2 micro M U73122 nor depletion of ryanodine-sensitive Ca(2+) stores with 50 micro M ryanodine affected tamoxifen-induced Ca(2+) release .
+Cell proliferation assays using ELISA revealed that overnight incubation with 5-10 micro M tamoxifen inhibited cell proliferation by 20% , and 20 micro M tamoxifen killed all cells .
+Together , the results suggest that , in CHO-K1 cells , tamoxifen induced a [ Ca(2+)](i) increase by causing store-Ca(2+) release from the endoplasmic reticulum in an phospholipase C-independent manner , and by inducing Ca(2+) influx .
+The action of tamoxifen appears to be dissociated from estrogen receptor activation .
+Longer incubation with tamoxifen ( >5 micro M ) was cytotoxic .

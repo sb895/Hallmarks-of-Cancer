@@ -1,0 +1,10 @@
+Background:Sorafenib is the only drug approved for the treatment of hepatocellular carcinoma ( HCC ) .
+The bioenergetic propensity of cancer cells has been correlated to anticancer drug resistance , but such correlation is unclear in sorafenib resistance of HCC.Methods:Six sorafenib-naive HCC cell lines and one sorafenib-resistant HCC cell line ( Huh-7R ; derived from sorafenib-sensitive Huh-7 ) were used .
+The bioenergetic propensity was calculated by measurement of lactate in the presence or absence of oligomycin .
+Dichloroacetate ( DCA ) , a pyruvate dehydrogenase kinase ( PDK ) inhibitor , and siRNA of hexokinase 2 ( HK2 ) were used to target relevant pathways of cancer metabolism .
+Cell viability , mitochondrial membrane potential , and sub-G1 fraction were measured for in vitro efficacy .
+Reactive oxygen species ( ROS ) , adenosine triphosphate ( ATP ) and glucose uptake were also measured .
+A subcutaneous xenograft mouse model was used for in vivo efficacy.Results:The bioenergetic propensity for using glycolysis correlated with decreased sorafenib sensitivity ( R(2)=0.9067 , among sorafenib-naive cell lines ; P=0.003 , compared between Huh-7 and Huh-7 R ) .
+DCA reduced lactate production and increased ROS and ATP , indicating activation of oxidative phosphorylation ( OXPHOS ) .
+DCA markedly sensitised sorafenib-resistant HCC cells to sorafenib-induced apoptosis ( sub-G1 ( combination vs sorafenib ) : Hep3B , 65.4±8.4% vs 13±2.9% ; Huh-7 R , 25.3± 5.7% vs 4.3±1.5% ; each P<0.0001 ) , whereas siRNA of HK2 did not .
+Sorafenib ( 10 mg kg(-1) per day ) plus DCA ( 100 mg kg(-1) per day ) also resulted in superior tumour regression than sorafenib alone in mice ( tumour size : -87% vs -36% , P<0.001).Conclusion:The bioenergetic propensity is a potentially useful predictive biomarker of sorafenib sensitivity , and activation of OXPHOS by PDK inhibitors may overcome sorafenib resistance of HCC.British Journal of Cancer advance online publication , 20 December 2012 ; doi:10.1038/bjc.2012.559 www.bjcancer.com .

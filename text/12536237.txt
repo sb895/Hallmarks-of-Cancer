@@ -1,0 +1,7 @@
+An efficent antitumor and antiviral cellular immune response requires optimal interferon-gamma ( IFN-gamma ) secretion and perforin expression in CD8(+) T cells .
+The aim of this study was to define whether CD4(+) and CD8(+) T cells from patients with undifferentiated carcinoma of nasopharyngeal type ( UCNT ) , a tumor regularly associated with the Epstein-Barr virus ( EBV ) , have abnormal phenotype profiles , cytokine production , perforin and CD3-zeta expressions .
+Our data showed that CD4 and CD8 subset distribution was not grossly altered in the peripheral blood of UCNT patients , while tumor biopsies contained an increased proportion of CD8(+) T cells .
+The analysis of the CD4(+) subset showed a defect in interleukin-2 ( IL-2 ) production and a moderate increase of IL-10 production , a situation consistent with a Th1/Th2 imbalance .
+We have also demonstrated that CD8(+) lymphocytes from UCNT patients had a marked impairment of IFN-gamma secretion and perforin expression .
+This impairment was not related to the presence of detectable EBV DNA in the plasma .
+In UCNT patients , the blockade of the perforin pathway and of IFN-gamma production may constitute important mechanisms for immune escape by the tumor and for impaired control of EBV replication .

@@ -1,0 +1,8 @@
+We present a new cell line , EJ established from an invasive endometrioid adenocarcinoma of the uterine corpus in a 56-year-old patient .
+The cells show rapid growth in culture with a doubling time of 16 h and high migration activity .
+Monolayer-cultured cells were polygonal in shape showing a tendency to pile up without contact inhibition .
+Subcutaneous transplantation of the EJ cells into nude mice formed solid tumors that were histologically diagnosed as adenocarcinoma , whereas no metastasis was observed .
+Cultured EJ cells produced tissue polypeptide antigen ( IPA ) .
+Genetic and molecular analyses revealed high telomerase activity but not estrogen receptor alpha expression .
+Using the DNA sequencing technique , we have screened EJ cells for p53 mutation in exon 5 to 8 but no mutation of p53 was observed .
+This cell line appears to represent the development of a more malignant clone with divergent receptor function and growth behavior , and provides us with an interesting new tool for the study of tumorigenesis in the human endometrium .

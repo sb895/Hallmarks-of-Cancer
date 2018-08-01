@@ -1,0 +1,10 @@
+Malignant gliomas are the most common primary brain tumors in humans .
+However , poor response to conventional therapeutic approaches , including chemotherapy , leads invariably to disease recurrence and progression .
+The organo-tin derivative triethyltin(IV)lupinylsulfide hydrochloride ( IST-FS 29 ) was identified and developed as potential antiproliferative agent in human cancer cell lines .
+However , for its peculiar chemical structure and good lipophilicity , this compound also appeared an eligible candidate for the treatment of gliobastoma cells .
+The present experiments were designed to explore the in vitro effects of IST-FS 29 on four human glioblastoma cell lines : A-172 , DBTRG.05MG , U-87MG and CAS-1 .
+The average IC50 values were obtained by MTT assay and ranged between 3 and 10 microM .
+Time-course assays with cell recovery after drug withdrawal , demonstrated marked cytotoxicity following exposure to IST-FS 29 for 8 , 24 and 72 h .
+Cultures treated for 8 h were able to partially re-grow by 144 h ; on the contrary , longer times of exposure did not allow surviving cells to recover from the damage and actively proliferate .
+Cell morphology of cultures exposed to IST-FS 29 was assessed by inverted light microscopy after 24 and 72 h and was more consistent with cell death by necrosis which included cell size reduction , vacuolation of cytoplasm , round dying cells .
+The present results and our previous data , in vitro and in vivo , indicate the relevant cytotoxic activity of this organo-tin compound and suggest that IST-FS 29 might be a promising novel agent to be developed for the treatment of malignant brain neoplasms .

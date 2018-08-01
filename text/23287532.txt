@@ -1,0 +1,11 @@
+Recent studies have highlighted an apparently paradoxical link between self-renewal and senescence triggered by DNA damage in certain cell types .
+In addition , the finding that TP53 can suppress senescence has caused a re-evaluation of its functional role in regulating these outcomes .
+To investigate these phenomena and their relationship to pluripotency and senescence , we examined the response of the TP53-competent embryonal carcinoma ( EC ) cell line PA1 to etoposide-induced DNA damage .
+Nuclear POU5F1/OCT4A and p21cip1 were upregulated in the same cells following etoposide-induced G 2M arrest .
+However , while accumulating in the karyosol , the amount of OCT4A was reduced in the chromatin fraction .
+Phosphorylated CHK2 and Rad51/γH2AX-positive nuclear foci , overexpression of Aurora B kinase and moderate macroautophagy were evident .
+Upon release from G 2M arrest , cells with repaired DNA entered mitoses , while the cells with persisting DNA damage remained at this checkpoint or underwent mitotic slippage and gradually senesced .
+Reduction of TP53 using sh- or si-RNA prevented the upregulation of OCT4A and p21cip1 and increased DNA damage .
+Subsequently , mitoses , micronucleation and senescence were all enhanced after TP53 reduction with senescence confirmed by upregulation of CDKN2A/p16ink4a and increased sa-β-galactosidase positivity .
+Those mitoses enhanced by TP53 silencing were shown to be multicentrosomal and multi-polar , containing fragmented and highly deranged chromosomes , indicating a loss of genome integrity .
+Together , these data suggest that TP53-dependent coupling of self-renewal and senescence pathways through the DNA damage checkpoint provides a mechanism for how embryonal stem cell-like EC cells safeguard DNA integrity , genome stability and ultimately the fidelity of self-renewal .

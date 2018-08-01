@@ -1,0 +1,12 @@
+BACKGROUND Folate ( vitamin B9 ) is essential for cellular proliferation as it is involved in the biosynthesis of deoxythymidine monophosphate ( dTMP ) and s-adenosylmethionine ( AdoMet ) .
+The link between folate depletion and the genesis and progression of cancers of epithelial origin is of high clinical relevance , but still unclear .
+We recently demonstrated that sensitivity to low folate availability is affected by the rate of polyamine biosynthesis , which is prominent in prostate cells .
+We , therefore , hypothesized that prostate cells might be highly susceptible to genetic , epigenetic and phenotypic changes consequent to folate restriction .
+RESULTS We studied the consequences of long-term , mild folate depletion in a model comprised of three syngenic cell lines derived from the transgenic adenoma of the mouse prostate ( TRAMP ) model , recapitulating different stages of prostate cancer ; benign , transformed and metastatic .
+High-performance liquid chromatography analysis demonstrated that mild folate depletion ( 100 nM ) sufficed to induce imbalance in both the nucleotide and AdoMet pools in all prostate cell lines .
+Random oligonucleotide-primed synthesis ( ROPS ) revealed a significant increase in uracil misincorporation and DNA single strand breaks , while spectral karyotype analysis ( SKY ) identified five novel chromosomal rearrangements in cells grown with mild folate depletion .
+Using global approaches , we identified an increase in CpG island and histone methylation upon folate depletion despite unchanged levels of total 5-methylcytosine , indicating a broad effect of folate depletion on epigenetic regulation .
+These genomic changes coincided with phenotype changes in the prostate cells including increased anchorage-independent growth and reduced sensitivity to folate depletion .
+CONCLUSIONS This study demonstrates that prostate cells are highly susceptible to genetic and epigenetic changes consequent to mild folate depletion as compared to cells grown with supraphysiological amounts of folate ( 2 microM ) routinely used in tissue culture .
+In addition , we elucidate for the first time the contribution of these aspects to consequent phenotype changes in epithelial cells .
+These results provide a strong rationale for studying the effects of folate manipulation on the prostate in vivo , where cells might be more sensitive to changes in folate status resulting from folate supplementation or antifolate therapeutic approaches .

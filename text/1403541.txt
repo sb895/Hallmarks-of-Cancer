@@ -1,0 +1,16 @@
+This study aims to identify significant predictors of survival in pediatric and adolescent colorectal carcinoma .
+We retrospectively analyzed our experience with 29 histologically verified cases , of which 20 were resected for cure .
+Variables analyzed as predictors of survival included : ( 1 ) resectability , ( 2 ) regional nodal involvement , ( 3 ) depth of invasion , ( 4 ) grade , and ( 5 ) interval from symptom onset to diagnosis .
+Signet ring or anaplastic lesions were considered high grade .
+Survival curves were generated on both the overall group and those resected for cure .
+Multivariate analysis was performed on the overall group .
+The median age at diagnosis was 19 years ( range , 10 to 21 ) .
+Median follow-up in survivors was 4.7 years .
+Signet ring tumors occurred in 45% and another 24% were poorly differentiated .
+Seventy-six percent presented with regional lymph node metastases .
+The median survival for the overall group was 16 months , whereas that for those undergoing complete resection was 33 months .
+In patients undergoing resection for cure , grade ( P = .005 ) , regional nodal involvement ( P = .007 ) , and depth of invasion ( P = .03 ) were significant predictors of outcome in univariate analysis .
+In the overall group these variables as well as resectability and distant metastases were significant in univariate analysis .
+In multivariate analysis high-grade lesions and lymph node involvement were highly correlated , as were resectability and metastases .
+Thus , either variable ( but not both ) of each pair added information to the multivariate model .
+In patients resected for cure , positive nodes or high histological grade became the only significant predictors of survival.(ABSTRACT TRUNCATED AT 250 WORDS )

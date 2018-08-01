@@ -1,0 +1,10 @@
+BACKGROUND Nucleolin is one of the major proteins of the nucleolus , but it is also expressed on the cell surface where is serves as a binding protein for variety of ligands implicated in tumorigenesis and angiogenesis .
+Emerging evidence suggests that the cell-surface expressed nucleolin is a strategic target for an effective and nontoxic cancer therapy .
+METHODOLOGY/PRINCIPAL FINDINGS By monitoring the expression of nucleolin mRNA , and by measuring the level of nucleolin protein recovered from the surface and nucleus of cells , here we show that the presence of nucleolin at the cell surface is dependent on the constant induction of nucleolin mRNA .
+Indeed , inhibitors of RNA transcription or translation block expression of surface nucleolin while no apparent effect is observed on the level of nucleolin in the nucleus .
+The estimated half-life of surface nucleolin is less than one hour , whereas that of nuclear nucleolin is more than 8 hours .
+Nucleolin mRNA induction is reduced markedly in normal fibroblasts that reach confluence , while it occurs continuously even in post-confluent epithelial tumor cells consistent with their capacity to proliferate without contact inhibition .
+Interestingly , cold and heat shock induce nucleolin mRNA concomitantly to enhanced mRNA expression of the heat shock protein 70 , thus suggesting that surface nucleolin induction also occurs in response to an environmental insult .
+At the cell surface , one of the main functions of nucleolin is to shuttle specific extracellular ligands by an active transport mechanism , which we show here to be calcium dependent .
+CONCLUSION/SIGNIFICANCE Our results demonstrate that the expression of surface nucleolin is an early metabolic event coupled with tumor cell proliferation and stress response .
+The fact that surface nucleolin is constantly and abundantly expressed on the surface of tumor cells , makes them a preferential target for the inhibitory action of anticancer agents that target surface nucleolin .

@@ -1,0 +1,8 @@
+Immunosuppressive oligodeoxynucleotides ( SupODNs ) containing repetitive TTAGGG motifs reduce inflammation and , thus , may have an impact on inflammation‑related tumor growth .
+In this study , we found a significant antiproliferative effect of Sup ODNs on the A549 non‑small cell lung cancer ( NSCLC ) cell line compared to those treated with control ODNs ( p<0.05 ) .
+Sup-ODN-mediated G1 phase cell cycle arrest was achieved via inhibition of Akt and extracellular signal-regulated kinase 1/2 phosphorylation and the p15INK4b and p27KIP1/retinoblastoma protein pathway .
+In addition , Sup ODNs induced apoptosis and enhanced apoptosis when combined with vinorelbine .
+In a setting similar to clinical use of multidrug chemotherapy for advanced NSCLC , these effects were investigated by using Sup ODNs in combination with conventional anticancer drugs .
+Sup ODNs had a significant synergistic effect with 5-fluorouracil , vinorelbine , gemcitabine , paclitaxel and irinotecan , with a mean combination index of 0.43-0.78 ( <1.0 indicates synergism ) in the A549 NSCLC cell line .
+In conclusion , our results showed that Sup ODNs have an anticancer effect and increase the sensitivity of NSCLC cells to conventional anticancer drugs by modifying Akt and the extracellular signal-regulated kinase 1/2 pathway .
+Thus , Sup ODNs may serve as a novel therapeutic strategy for NSCLC patients .

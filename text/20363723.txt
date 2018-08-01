@@ -1,0 +1,13 @@
+OBJECTIVE As we previously demonstrated , the inhibitory effect of iodine on thyroid cell growth is mediated by iodolactones , especially 6-iodo-5-hydroxy-eicosatrienoic acid ( delta-iodolactone ) .
+In this communication we compare the effect of iodide , molecular iodine and delta-iodolactone on growth inhibition and apoptosis on three human thyroid carcinoma cell lines ( B-CPAP cells , FTC-133 cells and 8505C cells ) as well as on human breast cancer cells ( MCF 7 ) .
+METHODS Thyroid carcinoma cells were cultured in Dulbecco's modified Eagle's medium ( DMEM ) and MCF 7 cells in Rowswell Park Memorial Institute ( RPMI ) culture medium , both containing 10% ( v/v ) Fetal Calf Serum ( FCS ) , until they were confluent .
+Around 2000 cells were then distributed in 12-well plates and grown for 48 h in either DMEM ( thyroid cancer cells ) or in RPMI medium ( MCF 7 cells ) both containing 5% FCS .
+Thereafter , different concentrations of iodide , iodine or delta-iodolactone were added for 24 h .
+Growth rate was estimated by cell counting in a Coulter Counter adapted for epithelial cells .
+Apoptosis was determined by a mitochondrial potential assay .
+RESULTS The growth rate of B-CPAP cells was unaffected by iodide , but was reduced by high concentreations of molecular iodine ( 100 and 500 microM ) .
+However , delta-iodolactone significantly reduced cell proliferation already with low concentrations ( 5 microM and 10 microM ) and further in a dose-dependent manner up to 82% .
+FTC-133 and 8505C cells were unaffected by iodide , iodine or delta-iodolactone .
+In contrast , in MCF 7 cells , molecular iodine ( 100 microM ) inhibited growth from 100% to 83% but delta-iodolactone ( 1 , 5 and 10 microM ) dose-dependently decreased growth rate from 100% to 82% and 62% , respectively .
+The inhibition of growth was through apoptosis , and not necrosis , as the amount of apoptotic cells corresponded to the growth inhibition .
+CONCLUSION delta-Iotaodolactone seems to be the main iodocompound which can inhibit growth and induce apoptosis in B-CPAP cells as well as in MCF 7 breast cancer cells .

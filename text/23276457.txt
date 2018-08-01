@@ -1,0 +1,13 @@
+Bladder cancer ( BCa ) remained a major health problem .
+Med19 was related to tumor growth of BCa .
+Bone morphogenetic proteins ( BMPs ) were reported to be critical in bone metastasis of cancer .
+We therefore investigated the relations between Med19 and BMPs in BCa and their effect on bone metastasis of BCa .
+Bladder cancer cell lines were cultured and interfered with Med19 shRNA and control .
+Expressions of BMP-1 , BMP-2 , BMP-4 , BMP-5 , BMP-6 , BMP-7 , BMP-9 , and BMP-15 were studied between 2 groups .
+Fifty-two BCa samples were included for immunohistochemical staining of Med19 and BMP-2 .
+Expressions were scored and studied statistically .
+Invasiveness was studied with Transwell assay .
+Silencing or Med19 in BCa cells induced altered expressions of BMPs .
+Increased expressions of BMP-1 , BMP-4 , BMP-6 , BMP-7 , and BMP-15 and decreased expressions of BMP-2 , BMP-5 , and BMP-9 were noticed , but only BMP-2 reached statistical significance .
+Expressions of Med19 and BMP-2 were significantly higher in cases with bone metastasis and were positively correlated in cases with bone metastasis and muscle invasion .
+Med19 is a critical factor involved in the invasiveness and promotion of bone metastasis of BCa , possibly via BMP-2 .

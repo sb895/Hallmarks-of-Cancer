@@ -1,0 +1,10 @@
+Radiation-induced carcinogenesis is a major concern both for astronauts on long-term space missions and for cancer patients being treated with therapeutic radiation .
+Exposure to radiation induces oxidative stress and chronic inflammation , which are critical initiators and promoters of carcinogenesis .
+Many studies have demonstrated that non-steroidal anti-inflammatory drugs and antioxidants can reduce the risk of radiation-induced cancer .
+In this study , we found that a synthetic triterpenoid , CDDO-Me ( bardoxolone methyl ) , was able to protect human colon epithelial cells ( HCECs ) against radiation-induced transformation .
+HCECs that were immortalized by ectopic expression of hTERT and cdk4 and exhibit trisomy for chromosome 7 ( a non-random chromosome change that occurs in 37% of premalignant colon adenomas ) can be transformed experimentally with one combined exposure to 2 Gy of protons at 1 GeV/nucleon followed 24 h later by 50 cGy of ( 56)Fe ions at 1 GeV/nucleon .
+Transformed cells showed an increase in proliferation rate and in both anchorage-dependent and independent colony formation ability .
+A spectrum of chromosome aberrations was observed in transformed cells , with 40% showing loss of 17p ( e.g. loss of one copy of p53 ) .
+Pretreatment of cells with pharmacological doses of CDDO-Me , which has been shown to induce antioxidative as well as anti-inflammatory responses , prevented the heavy-ion-induced increase in proliferation rate and anchorage-dependent and independent colony formation efficiencies .
+Taken together , these results demonstrate that experimentally immortalized human colon epithelial cells with a non-random chromosome 7 trisomy are valuable premalignant cellular reagents that can be used to study radiation-induced colorectal carcinogenesis .
+The utility of premalignant HCECs to test novel compounds such as CDDO-Me that can be used to protect against radiation-induced neoplastic transformation is also demonstrated .

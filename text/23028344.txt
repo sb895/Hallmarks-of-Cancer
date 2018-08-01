@@ -1,0 +1,8 @@
+Metastasis is a complex process utilizing both tumor-cell-autonomous properties and host-derived factors , including cellular immunity .
+We have previously shown that germline polymorphisms can modify tumor cell metastatic capabilities through cell-autonomous mechanisms .
+However , how metastasis susceptibility genes interact with the tumor stroma is incompletely understood .
+Here , we employ a complex genetic screen to identify Cadm1 as a novel modifier of metastasis .
+We demonstrate that Cadm1 can specifically suppress metastasis without affecting primary tumor growth .
+Unexpectedly , Cadm1 did not alter tumor-cell-autonomous properties such as proliferation or invasion , but required the host's adaptive immune system to affect metastasis .
+The metastasis-suppressing effect of Cadm1 was lost in mice lacking T cell-mediated immunity , which was partially phenocopied by depleting CD8(+) T cells in immune-competent mice .
+Our data show a novel function for Cadm1 in suppressing metastasis by sensitizing tumor cells to immune surveillance mechanisms , and this is the first report of a heritable metastasis susceptibility gene engaging tumor non-autonomous factors .

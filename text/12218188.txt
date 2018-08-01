@@ -1,0 +1,7 @@
+PD-1 is a receptor of the Ig superfamily that negatively regulates T cell antigen receptor signaling by interacting with the specific ligands ( PD-L ) and is suggested to play a role in the maintenance of self-tolerance .
+In the present study , we examined possible roles of the PD-1/PD-L system in tumor immunity .
+Transgenic expression of PD-L1 , one of the PD-L , in P815 tumor cells rendered them less susceptible to the specific T cell antigen receptor-mediated lysis by cytotoxic T cells in vitro , and markedly enhanced their tumorigenesis and invasiveness in vivo in the syngeneic hosts as compared with the parental tumor cells that lacked endogenous PD-L .
+Both effects could be reversed by anti-PD-L1 Ab .
+Survey of murine tumor lines revealed that all of the myeloma cell lines examined naturally expressed PD-L1 .
+Growth of the myeloma cells in normal syngeneic mice was inhibited significantly albeit transiently by the administration of anti-PD-L1 Ab in vivo and was suppressed completely in the syngeneic PD-1-deficient mice .
+These results suggest that the expression of PD-L1 can serve as a potent mechanism for potentially immunogenic tumors to escape from host immune responses and that blockade of interaction between PD-1 and PD-L may provide a promising strategy for specific tumor immunotherapy .

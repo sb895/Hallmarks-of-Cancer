@@ -1,0 +1,11 @@
+Epstein-Barr virus ( EBV ) induces an uncoordinated S-phase-like cellular environment coupled with multiple prophase-like events in cells replicating the virus .
+The EBV encoded Ser/Thr kinase BGLF4 has been shown to induce premature chromosome condensation through activation of condensin and topoisomerase II and reorganization of the nuclear lamina to facilitate the nuclear egress of nucleocapsids in a pathway mimicking Cdk1 .
+However , the observation that RB is hyperphosphorylated in the presence of BGLF4 raised the possibility that BGLF4 may have a Cdk2-like activity to promote S-phase progression .
+Here , we investigated the regulatory effects of BGLF4 on cell cycle progression and found that S-phase progression and DNA synthesis were interrupted by BGLF4 in mammalian cells .
+Expression of BGLF4 did not compensate Cdk1 defects for DNA replication in S. cerevisiae .
+Using time-lapse microscopy , we found the fate of individual HeLa cells was determined by the expression level of BGLF4 .
+In addition to slight cell growth retardation , BGLF4 elicits abnormal chromosomal structure and micronucleus formation in 293 and NCP-TW01 cells .
+In Saos-2 cells , BGLF4 induced the hyperphosphorylation of co-transfected RB , while E2F1 was not released from RB-E2F1 complexes .
+The E2F1 regulated activities of the cyclin D1 and ZBRK1 promoters were suppressed by BGLF4 in a dose dependent manner .
+Detection with phosphoamino acid specific antibodies revealed that , in addition to Ser780 , phosphorylation of the DNA damage-responsive Ser612 on RB was enhanced by BGLF4 .
+Taken together , our study indicates that BGLF4 may directly or indirectly induce a DNA damage signal that eventually interferes with host DNA synthesis and delays S-phase progression .

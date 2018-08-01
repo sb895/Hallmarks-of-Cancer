@@ -1,0 +1,10 @@
+The Warburg effect describes a heightened propensity of tumor cells to produce lactic acid in the presence or absence of O(2) .
+A generally held notion is that the Warburg effect is related to energy .
+Using whole-genome , proteomic MALDI-TOF-MS and metabolite analysis , we investigated the Warburg effect in malignant neuroblastoma N2a cells .
+The findings show that the Warburg effect serves a functional role in regulating acidic pericellular pH ( pHe ) , which is mediated by metabolic inversion or a fluctuating dominance between glycolytic-rate substrate level phosphorylation ( SLP ) and mitochondrial ( mt ) oxidative phosphorylation ( OXPHOS ) to control lactic acid production .
+The results also show that an alkaline pHe caused an elevation in SLP/OXPHOS ratio ( approximately 98% SLP/OXPHOS ) ; while the ratio was approximately 56% at neutral pHe and approximately 93% in acidic pHe .
+Acidic pHe paralleled greater expression of mitochondrial biogenesis and OXPHOS genes , such as complex III-V ( Uqcr10 , Atp5 and Cox7c ) , mt Fmc1 , Romo1 , Tmem 173 , Tomm6 , aldehyde dehydrogenase , mt Sod2 mt biogenesis component PPAR-\u03b3 co-activator 1 adjunct to loss of mt fission ( Mff ) .
+Moreover , acidic pHe corresponded to metabolic efficiency evidenced by a rise in mTOR nutrient sensor G\u03b2L , its downstream target ( Eif4ebp1 ) , insulin modulators ( Trib3 and Fetub ) and loss of catabolic ( Hadhb , Bdh1 and Pygl)/glycolytic processes ( aldolase C , pyruvate kinase , Nampt and aldose-reductase ) .
+In contrast , alkaline pHe initiated loss of mitofusin 2 , complex II-IV ( Sdhaf1 , Uqcrq , Cox4i2 and Aldh1l2 ) , aconitase , mitochondrial carrier triple repeat 1 and mt biosynthetic ( Coq2 , Coq5 and Coq9 ) .
+In conclusion , the Warburg effect might serve as a negative feedback loop that regulates the pHe toward a broad acidic range by altering lactic acid production through inversion of metabolic systems .
+These effects were independent of changes in O(2) concentration or glucose supply .

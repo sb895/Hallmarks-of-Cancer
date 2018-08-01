@@ -1,0 +1,9 @@
+The effects of human interferon ( IFN)-alpha , -beta , and -gamma on the immortalization of human and rabbit lymphocytes by human T-lymphotropic virus type-I ( HTLV-I ) have been investigated .
+The immortalization of human peripheral-blood lymphocytes co-cultured with lethally X-ray-irradiated HTLV-I-producer cells , MT-2 , was blocked in the presence of more than 40 u/ml human recombinant IFN-alpha or more than 200 u/ml human natural type IFN-beta .
+However , rhIFN-gamma did not block immortalization by HTLV-I even at higher doses .
+On the other hand , the presence of high doses of hIFN-alpha , -beta , or -gamma did not exhibit any biological effect on the immortalization of rabbit peripheral-blood lymphocytes co-cultured with lethally X-ray-irradiated MT-2 cells .
+Integration of the full length of HTLV-I genome was detected in every transformant by Southern blot analysis .
+All cell lines established were CD4+/CD8 divided by T-lymphocytes , except for one cell line of CD4+/CD8+ .
+Morphologically intact HTLV-I production was observed by electron microscopy in these cells .
+Our results indicate that HTLV-I released under the strongly suppressed condition in the presence of IFNs remains active and able to immortalize T lymphocytes .
+It is also suggested that immortalization of human T lymphocytes by HTLV-I can be inhibited by the antiviral state induced by the treatment with low doses of hIFN-alpha and -beta , whereas immortalization of rabbit T lymphocytes is not inhibited because of the species specificity of hIFNs .

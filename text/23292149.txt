@@ -1,0 +1,14 @@
+Here , we provide the necessary proof of concept , that it is possible to metabolically create a non-permissive or " hostile " stromal microenvironment , which actively prevents tumor engraftment in vivo .
+We developed a novel genetically engineered fibroblast cell line that completely prevents tumor formation in mice , with a 100% protection rate .
+No host side effects were apparent.This could represent a viable cellular strategy for preventing and treating a variety of human cancers .
+More specifically , we examined the autocrine and paracrine effects of the cellular delivery of TNF-alpha on breast cancer tumor growth and cancer metabolism .
+For this purpose , we recombinantly overexpressed TNF-alpha in human breast cancer cells ( MDA-MB-231 ) or human immortalized fibroblasts ( hTERT-BJ1 ) .
+Our results directly show that TNF-alpha functions as a potent tumor suppressor .
+Remarkably , TNF-alpha-expressing breast cancer cells were viable , without any significant increases in their basal apoptotic rate .
+However , after 4 weeks post-implantation , TNF-alpha-expressing breast cancer cells failed to form any tumors in xenografted mice ( 0 tumors/10 injections ) , ultimately conferring 100% protection against tumorigenesis .
+Similarly , TNF-alpha-overexpressing fibroblasts were also viable , without any increases in apoptosis .
+Significantly , complete tumor suppression was obtained by co-injecting TNF-alpha expressing stromal fibroblasts with human breast cancer cells , indicating that paracrine cell-mediated delivery of TNF-alpha can also prevent tumor engraftment and growth ( 0 tumors/10 injections ) .
+Mechanistically , TNF-alpha induced autophagy and mitochondrial dysfunction in both epithelial cancer cells and stromal fibroblasts , preventing energy transfer from the tumor microenvironment , likely " starving " the cancer cells to death .
+In addition , via qRT-PCR analysis of MDA-MB-231 cells , we observed that TNF-alpha mediated the up-regulation of gene transcripts associated with inflammation and senescence [ IL-1-beta , IL-6 , IL-8 , MCP-1 , COX-2 , p21(WAF1/CIP1) ] and downregulated known tumor-promoting genes ( collagen VI and MMP2 ) .
+Recombinant overexpression of TNF-alpha receptor(s) in MDA-MB-231 cells also significantly reduced tumor growth , but was not as effective as the TNF-alpha ligand itself in preventing tumor growth .
+Thus , we propose that stromal cell-mediated delivery of TNF-alpha to human tumors [ using transfected fibroblasts or mesenchymal stem cells ( hMSCs) ] may be a novel and effective strategy for the prevention and treatment of human cancers .

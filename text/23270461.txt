@@ -1,0 +1,11 @@
+ABSTRACT : BACKGROUND : The ubiquitin-proteasome system and macroautophagy ( hereafter referred to autophagy ) are two complementary pathways for protein degradation .
+Emerging evidence suggests that proteasome inhibition might be a promising approach for tumor therapy .
+Accumulating data suggest that autophagy is activated as a compensatory mechanism upon proteasome activity is impaired .
+METHOD : Autophagy activation was measured using acridine orange staining and LC3 transition .
+Cell viability and apoptosis were measured using MTT assay and flow cytometry , respectively .
+Beclin 1 expression vectors or shRNA against Beclin 1 ( shBeclin 1 ) were transfected to investigate the role of Beclin 1 in autophagy activation and cytotoxicity of ovarian cancer cells induced by proteasome inhibitors .
+RESULTS : Proteasome inhibitors suppressed proliferation and induced autophagy in ovarian cancer cells .
+Neither phosphoinositide 3-kinase ( PI3K ) inhibitors nor shRNA against Beclin 1 could abolish the formation of acidic vacuoles and the processing of LC3 induced by proteasome inhibitors .
+Moreover , Beclin 1 overexpression enhanced anti-proliferative effects of proteasome inhibitors in ovarian cancer cells .
+CONCLUSIONS : For the first time , the current study demonstrated that proteasome inhibitors induced PI3K and Beclin 1-independent autophagy in ovarian cancer cells .
+In addition , this study revealed autophagy-independent tumor suppressive effects of Beclin 1 in ovarian cancer cells .

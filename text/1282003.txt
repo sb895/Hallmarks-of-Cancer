@@ -1,0 +1,4 @@
+We have observed previously that treatment of plateau-phase L5178Y murine lymphoblasts in vitro with 2'-deoxycoformycin plus deoxyadenosine ( dCF/dAdo ) can inhibit the repair of X-irradiation-induced DNA single-strand breaks ( SSB ) in these cells and that this effect is associated with synergistic cell kill .
+In this study we examined the effect of a combination treatment of plateau-phase L5178Y cells with bleomycin ( BLM ) plus dCF/dAdo .
+Incubation of BLM-treated cells with dCF/dAdo resulted in significant inhibition of the repair of BLM-induced DNA SSB .
+However , an additive , but not a synergistic , increase in cell kill was observed when cells were treated with a combination of BLM plus dCF/dAdo .

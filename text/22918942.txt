@@ -1,0 +1,8 @@
+FZR1 is an anaphase-promoting complex ( APC ) activator best known for its role in the mitotic cell cycle at M-phase exit , in G1 , and in maintaining genome integrity .
+Previous studies also established that it prevents meiotic resumption , equivalent to the G2/M transition .
+Here we report that mouse oocytes lacking FZR1 undergo passage through meiosis I that is accelerated by h , and this is due to an earlier onset of spindle assembly checkpoint ( SAC ) satisfaction and APC(CDC20) activity .
+However , loss of FZR1 did not compromise SAC functionality ; instead , earlier SAC satisfaction was achieved because the bipolar meiotic spindle was assembled more quickly in the absence of FZR1 .
+This novel regulation of spindle assembly by FZR1 led to premature bivalent attachment to microtubules and loss of kinetochore-bound MAD2 .
+Bivalents , however , were observed to congress poorly , leading to nondisjunction rates of 25% .
+We conclude that in mouse oocytes FZR1 controls the timing of assembly of the bipolar spindle and in so doing the timing of SAC satisfaction and APC(CDC20) activity .
+This study implicates FZR1 as a major regulator of prometaphase whose activity helps to prevent chromosome nondisjunction .

@@ -1,0 +1,15 @@
+The aim of this work was to characterize the antitumoral activity of the plant compound 7-epi-nemorosone in prostate carcinoma cell lines .
+Prostate cancer is the most frequently diagnosed malignancy and the second-leading cause of cancer death in men .
+In spite of the current therapeutic options for this cancer entity , many patients die due to metastases in distant organs and acquired chemotherapy resistance .
+Thus , approaches to provide improvements in outcome and quality of life for such patients are urgently needed .
+Recently , the polyisoprenylated benzophenone 7-epi-nemorosone , originally collected by honeybees from Clusia rosea and Clusia grandiflora ( Clusiaceae ) , has been described to be a potent antitumoral agent .
+Here , its activity in prostate carcinoma is reported. 7-epi-nemorosone was isolated from Caribbean propolis employing RP-HPLC techniques .
+Its cytotoxicity was assessed using the MTT proliferation assay in human androgen-dependent prostate carcinoma LNCaP cells including an MDR1(+) sub-line .
+No cross-resistance was detected .
+FACS-based cell cycle analysis revealed a significant increase in the sub-G0/G1 , G1 , and depletion in the S phase populations .
+A concomitant down-regulation of cyclins D1/D3 and CDK 4/6 in LNCaP cells was detected by Western blot .
+Annexin-V-FITC labeling and caspase-3 cleavage assays showed that 7-epi-nemorosone induced apoptotic events .
+Major signal transduction elements such as p38 MAPK and Akt/PKB as well as androgen receptor AR and PSA production were found to be down-regulated after exposure to the drug .
+ERK1/2 protein levels and phosphorylation status were down-regulated accompanied by up-regulation but inhibition of the activity of their immediate upstream kinases MEK1/2 .
+Additionally , Akt/PKB enzymatic activity was effectively inhibited at a similar concentration as for MEK1/2 .
+Here , we demonstrate for the first time that 7-epi-nemorosone exerts cytotoxicity in an androgen-dependent prostate carcinoma entity by targeting the MEK1/2 signal transducer .

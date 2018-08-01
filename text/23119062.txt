@@ -1,0 +1,9 @@
+Chromosomal instability is the major form of genomic instability in cancer cells .
+Amongst various forms of chromosomal instability , pericentromeric or centromeric instability remains particularly poorly understood .
+In the present study , we found that pericentromeric instability , evidenced by dynamic formation of pericentromeric or centromeric rearrangements , breaks , deletions or iso-chromosomes , was a general phenomenon in human cells immortalized by expression of human papillomavirus type 16 E6 and E7 ( HPV16 E6E7 ) .
+In particular , for the first time , we surprisingly found a dramatic increase in the proportion of pericentromeric chromosomal aberrations relative to total aberrations in HPV16 E6E7-expressing cells 72 h after release from aphidicolin ( APH)-induced replication stress , with pericentromeric chromosomal aberrations becoming the predominant type of structural aberrations ( of total aberrations ) .
+In contrast , pericentromeric aberrations accounted for only about 20% of total aberrations in cells at the end of APH treatment .
+This increase in relative proportion of pericentromeric aberrations after release from APH treatment revealed that pericentromeric breaks induced by replication stress are refractory to prompt repair in HPV16 E6E7-expressing epithelial cells .
+Telomerase-immortalized epithelial cells without HPV16 E6E7 expression did not exhibit such preferential pericentromeric instability after release from APH treatment .
+Cancer development is often associated with replication stress .
+Since HPV16 E6 and E7 inactivate p53 and Rb , and p53 and Rb pathway defects are common in cancer , our finding that pericentromeric regions are refractory to prompt repair after replication stress-induced breakage in HPV16 E6E7-expressing cells may shed light on mechanism of general pericentromeric instability in cancer .

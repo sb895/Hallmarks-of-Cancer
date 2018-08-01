@@ -1,0 +1,11 @@
+BACKGROUND & AIMS Hepatocytes are considered an exception of the paradigmatic inverse correlation between cell proliferation and terminal differentiation .
+In fact , hepatic vital functions are guaranteed by proliferating parenchymal cells during liver regeneration .
+However , a fine molecular characterization of the relationship between proliferation and differentiation in hepatocytes has been hampered by the lack of reliable in vivo or in vitro models .
+METHODS The hepatocyte terminal differentiation program was characterized in the immortalized , untransformed and differentiated hepatocytic cell line MMH , using several techniques .
+Particularly , two-dimensional difference gel electrophoresis combined to tandem mass spectrometry proteomic approach was used .
+Cell cycle and cell adhesion properties of MMH have been altered using either myc-overexpression and MEK1/2 inhibition or a constitutive active beta-catenin mutant , respectively .
+RESULTS The hepatocyte terminal differentiation program is stimulated by the exit from the cell cycle induced by cell-cell contact .
+Comparative proteomic analysis of proliferating versus quiescent hepatocytes validated the importance of contact inhibition , identifying 68 differently expressed gene products , representing 49 unique proteins .
+Notably , enzymes involved in important liver functions such as detoxification processes , lipid metabolism , iron and vitamin A storage and secretion , anti-inflammatory response and exocytosis were found significantly up-regulated in quiescent hepatocytes .
+Finally , we found that : ( i ) cell cycle arrest induced by MEK1/2 inhibition is not sufficient to induce hepatic product expression ; ( ii ) constitutive activation of beta-catenin counteracts the contact inhibition-induced terminal differentiation .
+CONCLUSION The hepatocyte terminal differentiation program requires a quiescent state maintained by cell-cell contact through the E-cadherin/beta-catenin pathway , rather than the inhibition of proliferation .

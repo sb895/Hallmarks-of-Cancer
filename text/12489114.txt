@@ -1,0 +1,8 @@
+The Msh2 DNA mismatch repair gene is one of five genes implicated in the pathogenesis of hereditary nonpolyposis colorectal cancer ( HNPCC ) .
+To address the possible mechanisms of the site-specific occurrence of HNPCC , the effect of Msh2 deficiency on mutations in different parts of the colon was investigated using the BC-1(lacI)/Msh2 double transgenic mouse .
+Compared to the Msh2(+/+) mice , Msh2(-/-) mice had an 8-9-fold increase of mutation frequency ( MF ) in the lacI gene from the cecum and the proximal and distal colon .
+The mutational spectra were also significantly different between Msh2(+/+) and Msh2(-/-) mice , with a significant increase in the frequency of -1 frameshifts and G:C-->A:T base substitutions in the repair-deficient mice .
+However , in spite of the site-specific predisposition of HNPCC in humans , we found no significant difference in the MF or mutation spectrum between the three parts of the colon in Msh2(+/+) , Msh2(+/-) , or Msh2(-/-) mice .
+In addition , 11 independent mutants harboring complex mutations within the lacI gene were recovered in the Msh2(-/-) mice .
+Interestingly , while the Msh2(+/-) mice displayed an overall MF similar to that observed in the wild-type mice , sequencing revealed a significantly different mutational spectrum between Msh2(+/+) and Msh2(+/-) mice , mainly characterized by an increase in -1 frameshifts .
+Due to the prevalence of frameshift mutations in HNPCC patients , this haploinsufficiency effect of the Msh2 gene in safeguarding genomic integrity may have important implications for human carrier status .

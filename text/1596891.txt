@@ -1,0 +1,6 @@
+Findings of increased numbers of epidermal growth factor receptors ( EGF-R ) and increased expression of transforming growth factor alpha ( TGF-alpha ) in surgical specimens of human renal cell carcinoma have led to the proposal that growth of these tumors may be regulated by TGF-alpha in an autocrine manner .
+In the studies presented here , we have examined this hypothesis using two human renal carcinoma cell lines , SKRC-4 and SKRC-29 .
+We demonstrated that both SKRC-4 and SKRC-29 cells were growth stimulated by greater than 35% when cultured in the presence of TGF-alpha or EGF and were inhibited by 29% to 46% if cultured in the presence of anti-EGF-R monoclonal antibody 225 .
+Treatment of cells with TGF-alpha enhanced the levels of expression of EGF-R mRNA and TGF-alpha mRNA .
+In addition , incubation of cells with monoclonal antibody 225 significantly elevated the levels of excreted TGF-alpha species in the culture medium .
+Our findings suggest that proliferation of human renal carcinoma cells may be regulated by endogenously produced TGF-alpha and that this regulatory pathway can be interrupted using antibody to its receptor , EGF-R .

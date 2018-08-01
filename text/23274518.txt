@@ -1,0 +1,9 @@
+Bisphenol A ( BPA ) is one of the most prevalent chemicals in daily-use materials , therefore , human exposure to BPA is ubiquitous .
+We found that low concentrations of BPA stimulate the spermatogonial GC-1 cells proliferation by G protein-coupled receptor 30 ( GPR30)-mediated epidermal growth factor receptor ( EGFR)-extracellular regulated kinase ( ERK)-c-Fos pathway .
+However , through the same pathway GPR30 expression has been shown to be induced by EGF , an EGFR ligand .
+Thus , we want to know if low concentrations of BPA are able to induce the GPR30 expression and the possible mechanism(s) in GC-1 cells .
+By transient transfection with expression plasmids , 10(-9)M BPA significantly transactivates the Gpr30-5'-flanking region through activating the GPR30 , cGMP-dependent protein kinase ( PKG ) , estrogen receptor-α ( ER-α ) , and EFGR-ERK pathways .
+Furthermore , an activator protein-1 ( AP-1 ) site located within this region is found to be responsible for the transactivation of BPA .
+Expectedly , through the same pathways , BPA significantly induces the gene and protein expression of GPR30. c-Fos is further observed to be strongly recruited to the AP-1 site in a chromatin immunoprecipitation assay and its dysfunction on the AP-1 site markedly suppresses the expression of GPR30 , p-ERK1/2 , p-Ser118-ER-α and cell proliferation by BPA .
+Our results demonstrate that a low-concentration BPA induces GPR30 expression through the GPR30-EFGR-ERK-c-Fos , ER-α , and PKG pathways , presumably boosting the cells proliferation via a regulatory loop .
+The present study provides a novel insight into the potential role of GPR30 in the initiation and progression of male germ cell cancer induced by environmentally relevant BPA .

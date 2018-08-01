@@ -1,0 +1,8 @@
+Indoleamine 2,3-dioxygenase ( IDO ) is generally considered to be immunosuppressive but recent findings suggest this characterization oversimplifies its role in disease pathogenesis .
+Recently , we showed that IDO is essential for tumor outgrowth in the classical two-stage model of inflammatory skin carcinogenesis .
+Here , we report that IDO loss did not exacerbate classical inflammatory responses .
+Rather , IDO induction could be elicited by environmental signals and tumor promoters as an integral component of the inflammatory tissue microenvironment even in the absence of cancer .
+IDO loss had limited impact on tumor outgrowth in carcinogenesis models that lacked an explicit inflammatory tumor promoter .
+In the context of inflammatory carcinogenesis where IDO was critical to tumor development , the most important source of IDO was radiation-resistant non-hematopoietic cells , consistent with evidence that loss of the IDO regulatory tumor suppressor gene Bin1 in transformed skin cells facilitates IDO-mediated immune escape by a cell autonomous mechanism .
+Taken together , our results identify IDO as an integral component of ' cancer-associated ' inflammation that tilts the immune system toward tumor support .
+More generally , they promote the concept that mediators of immune escape and cancer-associated inflammation may be genetically synonymous .

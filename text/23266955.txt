@@ -1,0 +1,7 @@
+DNA damage signaling and repair take place in a chromatin context .
+Consequently , chromatin-modifying enzymes , including adenosine triphosphate-dependent chromatin remodeling enzymes , play an important role in the management of DNA double-strand breaks ( DSBs ) .
+Here , we show that the p400 ATPase is required for DNA repair by homologous recombination ( HR ) .
+Indeed , although p400 is not required for DNA damage signaling , DNA DSB repair is defective in the absence of p400 .
+We demonstrate that p400 is important for HR-dependent processes , such as recruitment of Rad51 to DSB ( a key component of HR ) , homology-directed repair , and survival after DNA damage .
+Strikingly , p400 and Rad51 are present in the same complex and both favor chromatin remodeling around DSBs .
+Altogether , our data provide a direct molecular link between Rad51 and a chromatin remodeling enzyme involved in chromatin decompaction around DNA DSBs .

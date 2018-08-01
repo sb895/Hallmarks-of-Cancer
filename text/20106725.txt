@@ -1,0 +1,8 @@
+In eukaryotic cells , multiple DNA repair mechanisms respond to a wide variety of DNA lesions .
+Homologous recombination-dependent repair provides a pathway for dealing with DNA double-strand breaks and replication fork demise .
+A key step in this process is the resolution of recombination intermediates such as Holliday junctions ( HJs ) .
+Recently , nucleases from yeast ( Yen1 ) and human cells ( GEN1 ) were identified that can resolve HJ intermediates , in a manner analogous to the E. coli HJ resolvase RuvC .
+Here , we have analyzed the role of Yen1 in DNA repair in S. cerevisiae , and show that while yen1Delta mutants are repair-proficient , yen1Delta mus81Delta double mutants are exquisitely sensitive to a variety of DNA-damaging agents that disturb replication fork progression .
+This phenotype is dependent upon RAD52 , indicating that toxic recombination intermediates accumulate in the absence of Yen1 and Mus81 .
+After MMS treatment , yen1Delta mus81Delta double mutants arrest with a G2 DNA content and unsegregated chromosomes .
+These findings indicate that Yen1 can act upon recombination/repair intermediates that arise in MUS81-defective cells following replication fork damage .

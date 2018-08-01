@@ -1,0 +1,12 @@
+We had demonstrated that plasminogen kringle 5 ( K5 ) , a potent angiogenic inhibitor , inhibited retinal neovascularization and hepatocellular carcinoma growth by anti-angiogenesis .
+The current study investigated the effects and the underlying mechanisms of K5 on both tumor growth and spontaneous pulmonary metastasis in Lewis lung carcinoma ( LLC ) implanted mouse model .
+Similarly , K5 could decrease expression of VEGF in LLC cells and grafted tissues and suppress tumor angiogenesis and growth .
+K5 had no direct effect on proliferation and apoptosis of LLC .
+However , K5 could significantly inhibit SDF-1α-induced chemotaxis movement of LLC cells and resulted in a great reduction of surface metastatic nodules and micrometastases in the lungs of LLC tumor-bearing mice .
+K5 also decreased expression of chemokine ( C-X-C motif ) receptor 4 ( CXCR4 ) in LLC cells and grafted tissues .
+Furthermore , K5 down-regulated SDF-1α expression in metastatic lung tissues of LLC-bearing mice .
+Therefore , K5 may suppress tumor pulmonary metastasis through inhibiting SDF-1α-CXCR4 chemotaxis movement and down-regulation of VEGF .
+Moreover , the role of hypoxia inducible factor-1α ( HIF-1α ) , a crucial transcriptional factor for both VEGF and CXCR4 expression , was evaluated .
+The siRNA of HIF-1α attenuated expression of VEGF and CXCR4 and inhibited LLC migration .
+K5 decreased HIF-1α protein level and impaired nuclear HIF-1α accumulation .
+These results showed for the first time that K5 inhibits LLC growth and metastasis via the dual effects of anti-angiogenesis and suppression of tumor cell motility by targeting the pivotal molecule , HIF-1α .

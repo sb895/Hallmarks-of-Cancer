@@ -1,0 +1,7 @@
+The phosphoinositide 3-kinase ( PI3K)/AKT and RAF/MEK/ERK signaling pathways are activated in a wide range of human cancers .
+In many cases , concomitant inhibition of both pathways is necessary to block proliferation and induce cell death and tumor shrinkage .
+Several feedback systems have been described in which inhibition of one intracellular pathway leads to activation of a parallel signaling pathway , thereby decreasing the effectiveness of single-agent targeted therapies .
+In this study , we describe a feedback mechanism in which MEK inhibition leads to activation of PI3K/AKT signaling in EGFR and HER2-driven cancers .
+We found that MEK inhibitor-induced activation of PI3K/AKT resulted from hyperactivation of ERBB3 as a result of the loss of an inhibitory threonine phosphorylation in the conserved juxtamembrane domains of EGFR and HER2 .
+Mutation of this amino acid led to increased ERBB receptor activation and upregulation of the ERBB3/PI3K/AKT signaling pathway , which was no longer responsive to MEK inhibition .
+Taken together , these results elucidate an important , dominant feedback network regulating central oncogenic pathways in human cancer .

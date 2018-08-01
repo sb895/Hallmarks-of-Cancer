@@ -1,0 +1,11 @@
+DNA mismatch repair ( MMR ) is the process by which incorrectly paired DNA nucleotides are recognized and repaired .
+A germline mutation in one of the genes involved in the process may be responsible for a dominantly inherited cancer syndrome , hereditary nonpolyposis colon cancer .
+Cancer progression in predisposed individuals results from the somatic inactivation of the normal copy of the MMR gene , leading to a mutator phenotype affecting preferentially repeat sequences ( microsatellite instability , MSI ) .
+Recently , we identified children with a constitutional deficiency of MMR activity attributable to a mutation in the h MLH1 gene .
+These children exhibited a constitutional genetic instability associated with clinical features of de novo neurofibromatosis type 1 ( NF1 ) and early onset of extracolonic cancer .
+Based on these observations , we hypothesized that somatic NF1 gene mutation was a frequent and possibly early event in MMR-deficient cells .
+To test this hypothesis , we screened for NF1 mutations in cancer cells .
+Genetic alterations were identified in five out of ten tumor cell lines with MSI , whereas five MMR-proficient tumor cell lines expressed a wild-type NF1 gene .
+Somatic NF1 mutations were also detected in two primary tumors exhibiting an MSI phenotype .
+Finally , a 35-bp deletion in the murine Nf1 coding region was identified in mlh1-/- mouse embryonic fibroblasts .
+These observations demonstrate that the NF1 gene is a mutational target of MMR deficiency and suggest that its inactivation is an important step of the malignant progression of MMR-deficient cells .

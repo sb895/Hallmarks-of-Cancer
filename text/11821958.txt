@@ -1,0 +1,11 @@
+Oncostatin M ( OSM ) , an interleukin-6 type cytokine , acts via the gp130 signaling receptor to inhibit proliferation and induce differentiation of breast cancer cells .
+EGF , a mitogen for breast cells , signals via EGFR/ErbB tyrosine kinase receptors which are implicated in breast cancer pathogenesis .
+Here we show paradoxically that EGF enhanced the OSM-induced inhibition of proliferation and induction of cellular differentiation in both estrogen receptor positive and negative breast cancer cells .
+This functional synergism was also seen with heregulin but not SCF , PDGF or IGF-1 , indicating that it was specific to EGF-related growth factors .
+Immunoprecipitation experiments revealed that gp130 was constitutively associated with ErbB-2 and ErbB-3 .
+There was a similar association between the OSMRbeta and ErbB-2 .
+Furthermore , EGF unexpectedly induced tyrosine phosphorylation of gp130 .
+We show that OSM induced phosphorylation of STAT3 .
+Both OSM and EGF activated the p42/44 MAP kinases , but while the MEK inhibitor , PD98059 , ablated the OSM-induced inhibition , it only partially ablated the inhibitory effects of OSM plus EGF .
+Thus , we have demonstrated that the receptors and signalling pathways of two apparently unrelated growth factors were intimately linked , resulting in an unexpected biological effect .
+This provides a new mechanism for generating signalling diversity and has potential clinical implications in breast cancer .

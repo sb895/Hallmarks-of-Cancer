@@ -1,0 +1,11 @@
+AIMS Three-month chronic systemic-to-pulmonary shunting in growing piglets has been reported as an early pulmonary arterial hypertension ( PAH ) model with preserved right ventricular ( RV ) function .
+We sought to determine whether prolonged shunting might be associated with more severe PAH and RV failure .
+METHODS AND RESULTS Fourteen growing piglets were randomized to a sham operation or the anastomosis of the left innominate artery to the pulmonary arterial trunk .
+Six months later , the shunt was closed and the animals underwent haemodynamic evaluation followed by tissue sampling for pathobiological assessment .
+Prolonged shunting had resulted in increased mean pulmonary artery pressure ( 22 ± 2 versus 17 ± 1 mmHg ) and pulmonary arteriolar medial thickness , while cardiac output was decreased .
+However , RV-arterial coupling was markedly deteriorated , with a decrease in the ratio of end-systolic to pulmonary arterial elastances ( Ees/Ea ) .
+Lung tissue expressions of endothelin-1 , angiopoietin-1 , and bone morphogenetic protein receptor-2 were similarly altered compared with previously observed after 3-month shunting .
+At the RV tissue level , pro-apoptotic ratio of Bax-to-Bcl-2 expressions and caspase-3 activation were increased , along with an increase in cardiomyocyte size , while expressions in voltage-gated potassium channels ( Kv1.5 and Kv2.1 ) and angiogenic factors ( angiopoietin-2 and vascular endothelial growth factor ) were decreased .
+Right ventricular expressions of pro-inflammatory cytokines [ interleukin ( IL)-1α , IL-1β , tumour necrosis factor-α ( TNF-α) ] and natriuretic peptide precursors ( NPPA and NPPB ) were increased .
+There was an inverse correlation between RV Ees/Ea and pro-apoptotic Bax/Bcl-2 ratios .
+CONCLUSIONS Prolonged left-to-right shunting in piglets does not further aggravate pulmonary vasculopathy , but is a cause of RV failure , which appears related to an activation of apoptosis and inflammation .

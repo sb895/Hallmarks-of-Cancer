@@ -1,0 +1,11 @@
+The effects of deoxycholic acid ( DCA ) and ursodeoxycholic acid ( UDCA ) on 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine ( PhIP)-induced aberrant crypt foci ( ACF ) in the rat colon were examined .
+The effect of these bile acids on DNA adduct formation by PhIP in the colon was then analyzed , since the main action of PhIP is the formation of DNA adducts and subsequent gene mutations .
+For the ACF study , male F344 rats were administered PhIP-HCl ( 75 mg/kg , 10 doses ) by gavage , and a diet containing bile acid ( 0.4% DCA or UDCA ) was provided from 3 days before the first dose of PhIP for 8 weeks .
+The mean number of ACF per colon of DCA , UDCA and controls were 9.9 , 2.4 and 5.5 , respectively .
+The ACF number was significantly increased by DCA and decreased by UDCA ( P<0.001 ) .
+To examine the effect of bile acids on DNA adduct formation , male F344 rats were fed a diet supplemented with bile acids ( 0.1 or 0.4% of DCA and UDCA ) 7 days prior to the PhIP administration .
+All rats were administered a single dose of PhIP-HCl ( 50 mg/kg ) by gavage and sacrificed 48 hours later .
+DNA adduct levels of the 0.1% UDCA , 0.1% DCA and controls were 2.93 ( adducts/10(7) nucleotides ) , 2.65 and 1.10 , respectively .
+Those of 0.4% UDCA , 0.4% DCA and controls were 1.64 , 1.30 and 1.00 , respectively .
+The PhIP-DNA adduct level was significantly increased by administration of 0.1% UDCA , 0.1% DCA ( P<0.05 ) and 0.4% UDCA ( P<0.01 ) .
+The increasing effect of both DCA and UDCA on PhIP-induced DNA adduct formation was unexpected , and was not directly associated with ACF formation .

@@ -1,0 +1,10 @@
+MYC oncogene family members are broadly implicated in human cancers , yet are considered " undruggable " as they encode transcription factors .
+MYC also carries out essential functions in proliferative tissues , suggesting that its inhibition could cause severe side effects .
+We elected to identify synthetic lethal interactions with c-MYC overexpression ( MYC-SL ) in a collection of druggable genes , using high-throughput siRNA screening .
+Of 49 genes selected for follow-up , 48 were confirmed by independent retesting and approximately one-third selectively induced accumulation of DNA damage , consistent with enrichment in DNA-repair genes by functional annotation .
+In addition , genes involved in histone acetylation and transcriptional elongation , such as TRRAP and BRD4 , were identified , indicating that the screen revealed known MYC-associated pathways .
+For in vivo validation we selected CSNK1e , a kinase whose expression correlated with MYCN amplification in neuroblastoma ( an established MYC-driven cancer ) .
+Using RNAi and available small-molecule inhibitors , we confirmed that inhibition of CSNK1e halted growth of MYCN-amplified neuroblastoma xenografts .
+CSNK1e had previously been implicated in the regulation of developmental pathways and circadian rhythms , whereas our data provide a previously unknown link with oncogenic MYC .
+Furthermore , expression of CSNK1e correlated with c-MYC and its transcriptional signature in other human cancers , indicating potential broad therapeutic implications of targeting CSNK1e function .
+In summary , through a functional genomics approach , pathways essential in the context of oncogenic MYC but not to normal cells were identified , thus revealing a rich therapeutic space linked to a previously " undruggable " oncogene .

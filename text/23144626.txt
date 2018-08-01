@@ -1,0 +1,10 @@
+Escherichia coli pol V ( UmuD'(2)C ) , the main translesion DNA polymerase , ensures continued nascent strand extension when the cellular replicase is blocked by unrepaired DNA lesions .
+Pol V is characterized by low sugar selectivity , which can be further reduced by a Y11A " steric-gate " substitution in UmuC that enables pol V to preferentially incorporate rNTPs over dNTPs in vitro .
+Despite efficient error-prone translesion synthesis catalyzed by UmuC_Y11A in vitro , strains expressing umuC_Y11A exhibit low UV mutability and UV resistance .
+Here , we show that these phenotypes result from the concomitant dual actions of Ribonuclease HII ( RNase HII ) initiating removal of rNMPs from the nascent DNA strand and nucleotide excision repair ( NER ) removing UV lesions from the parental strand .
+In the absence of either repair pathway , UV resistance and mutagenesis conferred by umuC_Y11A is significantly enhanced , suggesting that the combined actions of RNase HII and NER lead to double-strand breaks that result in reduced cell viability .
+We present evidence that the Y11A-specific UV phenotype is tempered by pol IV in vivo .
+At physiological ratios of the two polymerases , pol IV inhibits pol V-catalyzed translesion synthesis ( TLS ) past UV lesions and significantly reduces the number of Y11A-incorporated rNTPs by limiting the length of the pol V-dependent TLS tract generated during lesion bypass in vitro .
+In a recA730 lexA(Def) \u0394umuDC \u0394dinB strain , plasmid-encoded wild-type pol V promotes high levels of spontaneous mutagenesis .
+However , umuC_Y11A-dependent spontaneous mutagenesis is only of that observed with wild-type pol V , but increases to of wild-type levels in an isogenic \u0394rnhB strain and of wild-type levels in a \u0394rnhA \u0394rnhB double mutant .
+Our observations suggest that errant ribonucleotides incorporated by pol V can be tolerated in the E. coli genome , but at the cost of higher levels of cellular mutagenesis .

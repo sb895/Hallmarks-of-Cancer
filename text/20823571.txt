@@ -1,0 +1,8 @@
+Application of adenovirus vectors ( Adv ) in metastatic cancer treatment is limited .
+We previously demonstrated that covalent conjugation of polyethleneglycol ( PEG ) to Adv enhances therapeutic effects and decreases toxic side-effects after systemic administration , but the level of immune response to PEGylated Adv ( PEG-Ad ) was not examined .
+Here , we examined the effect of PEGylation of Adv on the production of anti-Adv antibodies and antitumor response .
+We constructed a set of PEG-Ad using 5-kDa PEG , with modification rates of 30% , 45% and 90% .
+After systemic administration of Advs to rats , we examined the level of anti-Adv immunoglobulin ( Ig)G and IgM in serum .
+The levels of anti-Adv IgG and anti-Adv IgM in rats treated with unmodified Adv were higher than those in control group .
+Rats treated with PEG-Ad that had a 90% modification rate showed lower level of anti-Adv IgG and anti-Adv IgM than those treated with unmodified Adv , whereas rats treated with PEG-Ad that had a 30% or 45% modification rate showed a similar level of anti-Adv IgG and IgM to those treated with unmodified Adv. Systemic administration of PEG-Ad that had a 90% modification rate , and expressed tumor necrosis factor-alpha , significantly reduced the number of metastatic colonies in the lung compared to unmodified Adv , with negligible side effects .
+These results suggest that systemic administration of PEG-Ad with an appropriate PEG modification rate has the potential to reduce the production of antibodies against Adv and increase the therapeutic response against metastatic cancer .

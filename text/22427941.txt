@@ -1,0 +1,12 @@
+Keratinocyte growth factor ( KGF , fibroblast growth factor-7 ) is a fibroblast-derived mitogen , which stimulates proliferation of epithelial cells .
+The expression of KGF by dermal fibroblasts is induced following injury and it promotes wound repair .
+However , the role of KGF in cutaneous carcinogenesis and cancer progression is not known .
+We have examined the role of KGF in progression of squamous cell carcinoma ( SCC ) of the skin .
+The expression of KGF receptor ( KGFR ) mRNA was lower in cutaneous SCCs ( n = 6 ) than in normal skin samples ( n = 6 ) .
+Expression of KGFR mRNA was detected in 6 out of 8 cutaneous SCC cell lines and the levels were downregulated by 24-h treatment with KGF .
+KGF did not stimulate SCC cell proliferation , but it reduced invasion of SCC cells through collagen .
+Gene expression profiling of three cutaneous SCC cell lines treated with KGF for 24 h revealed a specific gene expression signature characterized by upregulation of a set of genes specifically downregulated in SCC cells compared to normal epidermal keratinocytes , including genes with tumor suppressing properties ( SPRY4 , DUSP4 , DUSP6 , LRIG1 , PHLDA1 ) .
+KGF also induced downregulation of a set of genes specifically upregulated in SCC cells compared to normal keratinocytes , including genes associated with tumor progression ( MMP13 , MATN2 , CXCL10 , and IGFBP3 ) .
+Downregulation of MMP-13 and KGFR expression in SCC cells and HaCaT cells was mediated via ERK1/2 .
+Activation of ERK1/2 in HaCaT cells and tumorigenic Ha-ras-transformed HaCaT cells resulted in downregulation of MMP-13 and KGFR expression .
+These results provide evidence , that KGF does not promote progression of cutaneous SCC , but rather suppresses the malignant phenotype of cutaneous SCC cells by regulating the expression of several genes differentially expressed in SCC cells , as compared to normal keratinocytes .

@@ -1,0 +1,12 @@
+Osteopontin ( OPN ) , which is highly expressed in malignant glioblastoma ( GBM ) , possesses inflammatory activity that is modulated by proteolytic cleavage by thrombin and plasma carboxypeptidase B2 ( CPB2 ) at a highly conserved cleavage site .
+Full length OPN ( OPN-FL ) was elevated in cerebrospinal fluid ( CSF ) samples from all cancer patients compared to non-cancer patients .
+However thrombin-cleaved OPN ( OPN-R ) and thrombin/CPB2-double cleaved OPN ( OPN-L ) levels were markedly increased in GBM and non-GBM gliomas compared to systemic cancer and non-cancer patients .
+Cleaved OPN constituted and of the total OPN in the GBM and non-GBM CSF samples respectively .
+OPN-R was also elevated in GBM tissues .
+Thrombin-antithrombin levels were highly correlated with cleaved OPN , but not OPN-FL , suggesting that the cleaved OPN fragments resulted from increased thrombin and CPB2 in this extracellular compartment .
+Levels of VEGF and CCL4 were increased in CSF of GBM and significantly correlated with the levels of cleaved OPN .
+GBM cell lines were significantly more adherent to OPN-R and OPN-L than OPN-FL .
+Adhesion to OPN altered gene expression , in particular genes involved with cellular processes , cell cycle regulation , death and inflammation .
+OPN promoted motility of U-87 MG cells and conferred resistance to apoptosis .
+While functional mutation of the RGD motif in OPN largely abolished these functions , OPN(RAA)-R regained significant cell binding and signaling function , suggesting that the SVVYGLR motif in OPN-R may substitute for the RGD-motif if the latter becomes inaccessible .
+OPN cleavage contributes to GBM development by allowing more cells to bind in niches in which they acquire anti-apoptotic properties .

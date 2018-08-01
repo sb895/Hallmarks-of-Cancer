@@ -1,0 +1,13 @@
+It has been well known for ages that in living organisms the rhythmicity of biological processes is linked to the 24-hour light-dark cycle .
+However , the exact function of the circadian clock system has been explored only in the past decades .
+It came to light that the photosensitive primary " master clock " is situated in the suprachiasmatic photosensitive nuclei of the special hypothalamic region , and that it is working according to changes of light and darkness .
+The master clock sends its messages to the peripheral " slave clocks " .
+In many organs , like pancreatic β-cells , the slave clocks have autonomic functions as well .
+Two essential components of the clock system are proteins encoded by the CLOCK and BMAL1 genes .
+CLOCK genes are in interaction with endonuclear receptors such as peroxisoma-proliferator activated receptors and Rev-erb-α , as well as with the hypothalamic-pituitary-adrenal axis , regulating the adaptation to stressors , energy supply , metabolic processes and cardiovascular system .
+Melatonin , the product of corpus pineale has a significant role in the functions of the clock system .
+The detailed discovery of the clock system has changed our previous knowledge about the development of many diseases .
+The most explored fields are hypertension , cardiovascular diseases , metabolic processes , mental disorders , cancers , sleep apnoe and joint disorders .
+CLOCK genes influence ageing as well .
+The recognition of the periodicity of biological processes makes the optimal dosing of certain drugs feasible .
+The more detailed discovery of the interaction of the clock system might further improve treatment and prevention of many disorders .

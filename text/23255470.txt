@@ -1,0 +1,9 @@
+Environmental or occupational exposure to low doses of arsenic induces a series of health problems including cancer .
+The molecular events in arsenic-induced carcinogenicity remain to be defined .
+In the NuLi-1 immortalized human lung epithelial cell line with p53 and pRb deficiency , exposure to low doses of arsenic trioxide for 72 h promoted cell proliferation and upregulated the gene transcription levels of FOXM1 , CDC6 , CDC25A , and cyclin D1 , which are both critical cell cycle regulatory genes and proto-oncogenes .
+Continuous in vitro exposure to 1 �M arsenic trioxide for 34 wks induced malignant cell transformation , as evidenced by enhanced anchorage-independent cell growth .
+The expression of FOXM1 , CDC6 , CDC25A , and Cyclin D1 was dynamically elevated at the gene transcription and protein levels in the process of cell transformation .
+The carcinogenic ability of transformed cell colonies coincides with the expression levels of FOXM1 in in vitro anchorage-independent growth assays and in vivo tumor xenograft formation assays .
+In reverse , the knockdown of FOXM1 in lung adenocarcinoma A549 cells or arsenic-transformed NuLi-1 cells significantly decreased anchorage-independent cell growth and tumor xenograft formation .
+The transformed NuLi-1 cells showed genomic instability in the form of copy number variation ( CNV ) at chromosome 1 , 5 , 6 , 18 , and 20 , but not loss of heterozygosity ( LOH ) .
+These results showed for the first time that chronic exposure to low doses of arsenic trioxide promoted lung carcinogenicity , in part by aberrantly upregulating FOXM1 and its associated oncogenes , when the tumor suppressor genes p53 and pRb were inactivated. � 2012 Wiley Periodicals , Inc .

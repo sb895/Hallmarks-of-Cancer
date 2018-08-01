@@ -1,0 +1,9 @@
+The aryl hydrocarbon receptor ( AHR ) is a ligand-activated transcription factor that mediates the effects of the environmental contaminant 2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD ) .
+Recently , AHR has emerged as a potential therapeutic target for breast cancer by virtue of its ability to modulate estrogen receptor-α ( ERα ) signalling and/or its ability to block cell proliferation .
+Our previous studies identified cyclin G2 ( CCNG2 ) , an inhibitor of cell-cycle progression , as an AHR target gene ; however , the mechanism of this regulation is unknown .
+Chromatin immunoprecipitation assays in T-47D human breast cancer cells revealed a TCDD-dependent recruitment of AHR , nuclear co-activator 3 ( NCoA3 ) and the transcription factor forkhead box A1 ( FOXA1 ) , a key regulator of breast cancer cell signaling , to CCNG2 resulting in increases in CCNG2 mRNA and protein levels .
+Mutation of the AHR response element ( AHRE ) and forkhead-binding sites abolished TCDD-induced CCNG2-regulated reporter gene activity .
+RNA interference-mediated knockdown of FOXA1 prevented the TCDD-dependent recruitment of AHR and NCoA3 to CCNG2 and reduced CCNG2 mRNA levels .
+Interestingly , knockdown of FOXA1 also caused a marked decrease in ERα , but not AHR protein levels .
+However , RNA interference-mediated knockdown of ERα , a negative regulator of CCNG2 , had no effect on TCDD-dependent AHR or NCoA3 recruitment to or expression of CCNG2 .
+These findings show that FOXA1 , but not ERα , is essential for AHR-dependent regulation of CCNG2 , assigning a role for FOXA1 in AHR action .

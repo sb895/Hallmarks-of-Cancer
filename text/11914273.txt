@@ -1,0 +1,8 @@
+Senescence limits the proliferative capacity of primary cells in culture .
+We describe here a genetic screen to identify genes that allow bypass of this checkpoint .
+Using retroviral cDNA expression libraries , we identify BCL6 as a potent inhibitor of senescence .
+BCL6 is frequently activated in non-Hodgkin's lymphoma , but its mechanism of action has remained unclear .
+BCL6 efficiently immortalizes primary mouse embryonic fibroblasts and cooperates with RAS in oncogenic transformation .
+BCL6 overrides the senescence response downstream of p53 through a process that requires induction of cyclin D1 expression , as cyclin D1 knockout fibroblasts are specifically resistant to BCL6 immortalization .
+We show that BCL6 expression also dramatically extends the replicative lifespan of primary human B cells in culture and induces cyclin D1 expression , indicating that BCL6 has a similar activity in lymphoid cells .
+Our results suggest that BCL6 contributes to oncogenesis by rendering cells unresponsive to antiproliferative signals from the p19(ARF)-p53 pathway .

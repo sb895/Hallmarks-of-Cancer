@@ -1,0 +1,9 @@
+Ataxia telangiectasia ( AT ) cells , with their defective double-strand break ( DSB ) repair processes , exhibit high sensitivity to low-LET radiation such as X-rays irradiation and gamma beams .
+Since heavy ion beam treatment for cancer is becoming increasingly common in Japan and elsewhere , it is important to also determine their sensitivity to high-LET radiation .
+For this purpose we irradiated AT and normal human cells immortalized with the human telomerase gene using high- ( 24-60 keV/microm carbon and 200 keV/microm iron ions ) or low-LET ( X-rays ) radiation in non-proliferative conditions .
+In normal cells the RBE ( relative biological effectiveness ) of carbon and iron ions increased from 1.19 to 1.81 in proportion to LET .
+In contrast , their RBE in AT cells increased from 1.32 at 24 keV/microm to 1.59 at 40 keV/microm , and exhibited a plateau at over 40 keV/microm .
+In normal cells most gamma-H2AX foci induced by both carbon- and iron-ion beams had disappeared at 40 h .
+In AT cells , however , a significant number of gamma-H2AX foci were still observed at 40 h .
+The RBEs found in the AT cells after heavy-ion irradiation were consistent with the effects predicted from the presence of non-homologous end joining defects .
+The DSBs remaining after heavy-ion irradiation suggested defects in the AT cells ' DSB repair ability .

@@ -1,0 +1,7 @@
+Heparanase is a mammalian endoglycosidase that degrades heparan sulfate at the cell surface and in the extracellular matrix .
+The expression of heparanase was detected in a wide variety of human malignant tumors and closely associated with tumor invasion , metastasis , and angiogenesis .
+However , the specific roles of heparanase and its mechanisms of regulating the malignant potential of non-small cell lung cancer ( NSCLC ) cells still remain unclear .
+In the present study , the expression of heparanase was down-regulated in NSCLC cell line by antisense oligodeoxynucleotide .
+Results showed that down-regulation of heparanase led to significant inhibition of invasive and proliferative potentials of A549 cells in vitro and in vivo .
+Further research demonstrated that down-regulation of heparanase significantly inhibited the angiogenic potential of A549 cells , which might be the mechanism responsible for the inhibition of A549 cell proliferation in BALB/c nude mice in vivo .
+These findings demonstrate that heparanase plays essential roles in regulating the invasion , proliferation , and angiogenesis of A549 cells .

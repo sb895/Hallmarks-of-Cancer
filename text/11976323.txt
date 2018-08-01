@@ -1,0 +1,11 @@
+UVB from solar radiation is both an initiating and promoting agent for skin cancer .
+We have found that primary human keratinocytes undergo an apoptotic response to UVB .
+To determine whether these responses are altered during the course of immortalization , we examined markers of apoptosis in primary human foreskin keratinocytes ( HFK ) transduced with either a retroviral vector expressing the E6 and E7 genes of HPV-16 or with empty vector alone ( LXSN-HFK ) .
+Whereas LXSN-HFK as well as early passage keratinocytes expressing HPV-16 E6 and E7 ( p7 E6/7-HFK ) were both moderately responsive to UVB irradiation , late passage-immortalized keratinocytes ( p27 E6/7-HFK ) were exquisitely sensitive to UVB-induced apoptosis .
+After exposure to UVB , enhanced annexin V-positivity and internucleosomal DNA fragmentation were observed in p27 E6/7-HFK compared with either LXSN- or p7 E6/7-HFK .
+Caspase-3 fluorometric activity assays as well as immunoblot analysis with antibodies to caspase-3 and poly(ADP-ribose) polymerase revealed elevated caspase-3 activity and processing at lower UVB doses in p27 E6/7-HFK compared with LXSN- or p7 E6/7-HFK .
+In addition , the caspase inhibitor DEVD-CHO reduced the apoptotic response and increased survival of all three HFK types .
+Immunoblot analysis revealed that caspase-8 was activated in all three cell types , but caspase-9 was only activated in p27 E6/7-HFK .
+Cell cycle analysis further showed that only p27 E6/7-HFK exhibit G(2)/M accumulation that is enhanced by UVB treatment .
+This accumulation was associated with a rapid down-regulation of Bcl-2 in these cells .
+The immortalization process subsequent to the expression of HPV E6 and E7 may therefore determine UVB sensitivity by switching the mode of apoptosis from a caspase-8 to a Bcl-2-caspase-9-mediated pathway of apoptosis .

@@ -1,0 +1,14 @@
+BACKGROUND Death receptors ( DR ) of the TNF family function as anti-tumor immune effector molecules .
+Tumor cells , however , often exhibit DR-signaling resistance .
+Previous studies indicate that radiation can modify gene expression within tumor cells and increase tumor cell sensitivity to immune attack .
+The aim of this study is to investigate the synergistic effect of sub-lethal doses of ionizing radiation in sensitizing colorectal carcinoma cells to death receptor-mediated apoptosis .
+METHODOLOGY/PRINCIPAL FINDINGS The ability of radiation to modulate the expression of multiple death receptors ( Fas/CD95 , TRAILR1/DR4 , TRAILR2/DR5 , TNF-R1 and LTβR ) was examined in colorectal tumor cells .
+The functional significance of sub-lethal doses of radiation in enhancing tumor cell susceptibility to DR-induced apoptosis was determined by in vitro functional sensitivity assays .
+The longevity of these changes and the underlying molecular mechanism of irradiation in sensitizing diverse colorectal carcinoma cells to death receptor-mediated apoptosis were also examined .
+We found that radiation increased surface expression of Fas , DR4 and DR5 but not LTβR or TNF-R1 in these cells .
+Increased expression of DRs was observed 2 days post-irradiation and remained elevated 7-days post irradiation .
+Sub-lethal tumor cell irradiation alone exhibited minimal cell death , but effectively sensitized three of three colorectal carcinoma cells to both TRAIL and Fas-induced apoptosis , but not LTβR-induced death .
+Furthermore , radiation-enhanced Fas and TRAIL-induced cell death lasted as long as 5-days post-irradiation .
+Specific analysis of intracellular sensitizers to apoptosis indicated that while radiation did reduce Bcl-X(L) and c-FLIP protein expression , this reduction did not correlate with the radiation-enhanced sensitivity to Fas and/or TRAIL mediated apoptosis among the three cell types .
+CONCLUSIONS/SIGNIFICANCE Irradiation of tumor cells can overcome Fas and TRAIL resistance that is long lasting .
+Overall , results of these investigations suggest that non-lethal doses of radiation can be used to make human tumors more amenable to attack by anti-tumor effector molecules and cells .

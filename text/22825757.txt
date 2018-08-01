@@ -1,0 +1,9 @@
+Although interleukin-28A ( IL-28A ) is believed to have an antiviral effect , its role in tumor migration requires further examination .
+The present study was intended to verify the effect of IL-28A on the migration of UMUC-3 bladder cancer cells .
+IL-28A and its receptor IL-28AR1 mRNA were detected in UMUC-3 cells .
+Although exogenous IL-28A showed no effect on cell proliferation , a wound-healing migration assay showed that the migration of UMUC-3 cells was induced by IL-28A .
+Furthermore , treatment of the cells with IL-28A significantly promoted MMP-9 expression via binding activities of NF-κB and AP-1 .
+IL-28A also induced the activation of p38MAPK and Jak2-Stat2 signaling .
+Using the p38MAPK inhibitor SB203580 and the dominant-negative plasmid DN-p38 , we found evidence that the inhibition of p38MAPK signaling suppressed the effects of IL-28A including wound-healing migration and MMP-9 expression by activation of NF-κB and AP-1 binding in UMUC-3 cells .
+However , Jak-2 inhibition by AG490 did not affect IL-28A-induced migration of UMUC-3 cells .
+Collectively , we suggest for the first time that the p38MAPK pathway mediates IL-28A-induced cell migration through MMP-9 expression by activating NF-κB and AP-1 binding motifs .

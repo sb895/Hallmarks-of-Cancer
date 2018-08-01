@@ -1,0 +1,5 @@
+A tumor growth-dependent elevation in the hepatic levels of Zn and metallothionein ( MT ) , without a change in the level of Cu , was found in mice and rats bearing solid tumors in the inguinal region .
+The levels of Zn and MT thus elevated gave a significant correlation ( r = 0.95 ) between them .
+Nevertheless , when tumor-bearing mice and rats were fed a Zn-deficient diet , the hepatic levels of Zn and MT did not increase .
+In mice in which inflammation was induced at the same region , on the other hand , hepatic levels of Zn and MT increased transiently after the injection of turpentine or carrageenan even when they were fed the Zn-deficient diet .
+These results suggest that the elevation of MT and Zn levels can be a helpful marker for detecting malignancy .

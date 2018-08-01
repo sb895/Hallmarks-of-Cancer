@@ -1,0 +1,7 @@
+In the present study , post-treatment effects of dietary turmeric on markers related to apoptosis , cell proliferation , and inflammation in 7,12-dimethylbenz(a)anthracene ( DMBA)-induced hamster buccal pouch ( HBP ) tumors were investigated .
+Tumors were induced by applying 0.5% DMBA topically to the HBP three times per week for 12 weeks .
+After tumor development , half of the animals continued on the control diet and the other half were shifted to a 1% turmeric diet for 4 weeks .
+To rule out DMBA discontinuation as a cause of inhibition in tumor growth , DMBA treatment was continued during dietary exposure of turmeric in another set of animals until the end of the experiment .
+The turmeric diet inhibited tumor growth in animals with or without DMBA carcinogen treatment compared to the animals on the control diet .
+When compared to hamsters bearing tumors that remained on the control diet , the buccal pouches of hamsters bearing tumors receiving turmeric showed the following results : ( 1 ) decreased cell proliferation ( diminished PCNA , cyclin D1 , and Bcl-2 ) and PCNA labelling index , ( 2 ) enhanced apoptosis ( increased Bax , caspase-3 , caspase-9 , and cytochrome c , and decreased survivin ) and apoptotic index , ( 3 ) decreased inflammation ( decreased Cox-2 ) , and ( 4 ) decreased MAPK activation ( p-ERK and p-p38 ) .
+These data indicate that tumor growth decreased due to the modulation of cellular pathways associated with cell proliferation and apoptosis .

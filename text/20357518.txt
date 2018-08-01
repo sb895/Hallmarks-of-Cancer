@@ -1,0 +1,12 @@
+Treatment for glioblastoma multiforme includes the alkylating agent temozolomide combined with ionizing radiation .
+Persistent O6-guanine methylation by temozolomide in O6-methylguanine methyl transferase negative tumors causes cytotoxic lesions recognized by DNA mismatch repair , triggering apoptosis .
+Resistance ( intrinsic or acquired ) presents obstacles to successful temozolomide treatment , limiting drug efficacy and life expectancy .
+Two glioma cell lines , SNB19 and U373 , sensitive to temozolomide ( GI(50) values 36 and 68 microM , respectively ) were exposed to increasing temozolomide concentrations ( 1-100 microM ) .
+Variant cell lines ( SNB19VR , U373VR ) were generated that displayed acquired temozolomide resistance ( GI(50) values 280 and 289 microM , respectively ) .
+Cross-resistance to mitozolomide was observed in U373VR cells only .
+In clonogenic and MTT assays , methylguanine methyltransferase ( MGMT ) depletion using O6-benzylguanine sensitized U373VR cells to temozolomide , indicating the resistance mechanism involves MGMT re-expression .
+Indeed , Western blot analyses revealed MGMT protein in cell lysates .
+In SNB19VR cells , down-regulation of MSH6 message and protein expression may confer temozolomide tolerance .
+Inhibition of poly(ADP-ribose) polymerase-1 ( a key base excision repair ( BER ) enzyme ) partially restored sensitivity , and DNA repair gene arrays demonstrated up-regulation ( >5-fold ) of BER gene NTL1 in SNB19VR cells .
+In conclusion , we have developed two glioma cell lines whose distinct mechanisms of acquired resistance to temozolomide , involving expression of MGMT , or inactivation of DNA mismatch repair and recruitment of BER enzymes , are consistent with clinical observations .
+These cell lines provide valuable models for the development of strategies to combat temozolomide resistance .

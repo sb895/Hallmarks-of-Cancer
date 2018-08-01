@@ -1,0 +1,15 @@
+BACKGROUND Adenoid cystic carcinoma ( ACC ) of the Breast is a rare tumour ( less than 1 % of all breast carcinomas ) .
+The aim of this study was to determine the clinical , histological and immunohistochemical characteristics of these tumours .
+METHODS From the database of the Bergonié Institute of Bordeaux , 30 cases of ACC were identified .
+The clinical and histological features of these carcinomas were characterized .
+An immunohistochemical study was performed with the following antibodies : ER , PR , HER-2-neu , Vimentin , EGFR , P63 , SMA , CK5/6 , CK8/18 , CK14 , cKIT , MIB1 , CD44 and CD24 .
+RESULTS Thirty patients were included ( median age 60.7 years ) .
+The 10 axillary lymph node dissections and two sentinel lymph procedures were negative .
+The architecture was frequently of a mixed type ( 26/30 ) and less often solid ( 4/30 ) .
+Among the 23 patients for whom follow up was available ( median follow-up : 84 months [ 2-288] ) , there were three local recurrences and three metastatic events .
+The tumors with recurrence and metastasis showed more necrosis , a mitotic count greater than 4/10hpf , and in one case perineural infiltration .
+All the tumours were ER , PR and Her-2-neu negative .
+Morphological and immunophenotypical analysis disclosed in each tumor , a basaloid and a luminal cell population with divergent immunophenotypical patterns .
+CONCLUSIONS The mammary ACC is made of two cell types and is of good prognosis despite its triple negative phenotype , similar to the basal-like infiltrating carcinoma NOS .
+Axillary lymph node dissection is not recommended .
+Good local control by at least large lumpectomy with long-term follow-up is necessary .

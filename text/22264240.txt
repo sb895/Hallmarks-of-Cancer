@@ -1,0 +1,9 @@
+The aim of the present study was to investigate whether CBSCs [ (umbilical) cord blood stem cells ] can be a new source of DCs ( dendritic cells ) , which can generate more potent antigen-specific immune responses and anti-tumour effects .
+CBSCs and PBMCs ( peripheral blood mononuclear cells ) were collected , cultured and differentiated into DCs .
+Surface markers , secreting cytokines , antigen-presentation activity , antigen-specific cell-mediated immunity and cytotoxic killing effects induced by these two DC origins were evaluated and compared .
+CBSCs were expanded by ex vivo culture .
+The expression of surface markers in CBSC-derived DCs were higher than those in PBMC-derived DCs treated with LPS ( lipopolysaccharide ) .
+The CBSC-derived DCs mainly secreted IL ( interleukin)-6 , IL-10 and TNF ( tumour necrosis factor)-α , whereas PBMC-derived DCs mainly secreted IL-5 and IFN ( interferon)-γ .
+The CBSC-derived DCs had better antigen-presentation abilities when stimulated with LPS or TNF-α , induced higher numbers of IFN-γ-secreting antigen-specific CD8+ T-cells , as assessed using an ELISpot ( enzyme-linked immunosorbent spot ) assay , and stimulated more potent antigen-specific CTL ( cytotoxic T-cell ) activities ( P<0.01 , one-way ANOVA ) .
+CBSC-derived DCs had quicker and greater ERK ( extracellular-signal-regulated kinase ) and Akt phosphorylation , and weaker p38 phosphorylation , than PBMC-derived DCs when stimulated with LPS .
+In conclusion , CBSC-derived DCs have the ability to induce stronger antigen-specific immunity and more potent anti-tumour effects and therefore could be a good source of DCs for use in DC-based cancer vaccines and immunotherapy .

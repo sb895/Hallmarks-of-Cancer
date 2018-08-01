@@ -1,0 +1,9 @@
+Cancer cells upregulate glycolysis , increasing glucose uptake to meet energy needs .
+A small fraction of a cell's glucose enters the hexosamine biosynthetic pathway ( HBP ) , which regulates levels of O-linked beta-N-acetylglucosamine ( O-GlcNAc ) , a carbohydrate posttranslational modification of diverse nuclear and cytosolic proteins .
+We discovered that breast cancer cells upregulate the HBP , including increased O-GlcNAcation and elevated expression of O-GlcNAc transferase ( OGT ) , which is the enzyme catalyzing the addition of O-GlcNAc to proteins .
+Reduction of O-GlcNAcation through RNA interference of OGT in breast cancer cells leads to inhibition of tumor growth both in vitro and in vivo and is associated with decreased cell-cycle progression and increased expression of the cell-cycle inhibitor p27(Kip1) .
+Elevation of p27(Kip1) was associated with decreased expression and activity of the oncogenic transcription factor FoxM1 , a known regulator of p27(Kip1) stability through transcriptional control of Skp2 .
+Reducing O-GlcNAc levels in breast cancer cells decreased levels of FoxM1 protein and caused a decrease in multiple FoxM1-specific targets , including Skp2 .
+Moreover , reducing O-GlcNAcation decreased cancer cell invasion and was associated with the downregulation of matrix metalloproteinase-2 , a known FoxM1 target .
+Finally , pharmacological inhibition of OGT in breast cancer cells had similar anti-growth and anti-invasion effects .
+These findings identify O-GlcNAc as a novel mechanism through which alterations in glucose metabolism regulate cancer growth and invasion and suggest that OGT may represent novel therapeutic targets for breast cancer .

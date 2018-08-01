@@ -1,0 +1,12 @@
+BACKGROUND Angiogenic factors following oncological surgery is important in tumor recurrence .
+Vascular endothelial growth factor ( VEGF ) , angiopoietin 1 ( Ang-1 ) , Ang-2 , soluble VEGF-receptor 1 ( sVEGFR1 ) and sVEGFR2 may influence angiogenesis .
+This prospective study examined the influence of open and video-assisted thoracic surgery ( VATS ) lung resections for early stage non-small cell lung cancer ( NSCLC ) on postoperative circulating angiogenic factors .
+METHODS Forty-three consecutive patients underwent major lung resection through either VATS ( n = 23 ) or Open thoracotomy ( n = 20 ) over an 8-month period .
+Blood samples were collected preoperatively and postoperatively on days ( POD ) 1 and 3 for enzyme linked immunosorbent assay determination of angiogenic factors .
+RESULTS Patient demographics were comparable .
+For all patients undergoing major lung resection , postoperative Ang-1 and sVEGFR2 levels were significantly decreased , while Ang-2 and sVEGFR1 levels markedly increased .
+No significant peri-operative changes in VEGF levels were observed .
+Compared with open group , VATS had significantly lower plasma levels of VEGF ( VATS 170 ± 93 pg/mL ; Open 486 ± 641 pg/mL ; P = 0.04 ) and Ang-2 ( VATS 2484 ± 1119 pg/mL ; Open 3379 ± 1287 pg/mL ; P = 0.026 ) on POD3 .
+CONCLUSIONS Major lung resection for early stage NSCLC leads to a pro-angiogenic status , with increased Ang-2 and decreased Ang-1 productions .
+VATS is associated with an attenuated angiogenic response with lower circulating VEGF and Ang-2 levels compared with open .
+Such differences in angiogenic factors may be important in lung cancer biology and recurrence following surgery .

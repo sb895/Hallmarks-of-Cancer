@@ -1,0 +1,5 @@
+BACKGROUND : The issue remains unresolved as to whether low frequency magnetic fields can affect cell behaviour , with the possibility that they may be in part responsible for the increased incidence of leukaemia in parts of the population exposed to them .
+METHODS : Combined treatment of HeLa cells with gamma-irradiation ( 1 , 3 and 5 Grays ) and extra low frequency magnetic fields of Hz was carried out under rigorously controlled conditions .
+RESULTS : Synchronised cells progressing from S-phase arrived at mitosis on average marginally ahead of irradiation controls not exposed to ELF .
+In no instance out of a total of twenty separate experiments did this " double-insult " further delay entry of cells into mitosis , as had been anticipated .
+CONCLUSION : This apparently " non-genotoxic " agent ( ELF ) appears to be capable of affecting cells that would normally arrest for longer in G2 , suggesting a weakening of the stringency of the late cycle ( G2 ) checkpoint .

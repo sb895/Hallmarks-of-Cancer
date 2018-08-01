@@ -1,0 +1,8 @@
+The glycolytic phenotype is a widespread phenomenon in solid cancer forms , including breast cancer .
+Dichloroacetate ( DCA ) has recently been proposed as a novel and relatively non-toxic anti-cancer agent that can reverse the glycolytic phenotype in cancer cells through the inhibition of pyruvate dehydrogenase kinase .
+We have examined the effect of DCA against breast cancer cells , including in a highly metastatic in vivo model .
+The growth of several breast cancer cell lines was found to be inhibited by DCA in vitro .
+Further examination of 13762 MAT rat mammary adenocarcinoma cells found that reversal of the glycolytic phenotype by DCA correlated with the inhibition of proliferation without any increase in cell death .
+This was despite a small but significant increase in caspase 3/7 activity , which may sensitize cancer cells to other apoptotic triggers .
+In vivo , DCA caused a 58% reduction in the number of lung metastases observed macroscopically after injection of 13762 MAT cells into the tail vein of rats ( P = 0.0001 , n > or = 9 per group ) .
+These results demonstrate that DCA has anti-proliferative properties in addition to pro-apoptotic properties , and can be effective against highly metastatic disease in vivo , highlighting its potential for clinical use .

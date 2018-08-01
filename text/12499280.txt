@@ -1,0 +1,8 @@
+Neuroblastoma ( NB ) , a common pediatric neoplasm , consists of two main cell populations : neuroblastic/ganglionic cells and Schwann cells .
+NB tumors with abundant Schwannian stroma display a more benign clinical behavior than stroma-poor tumors .
+Recent studies suggest that Schwann cells influence NB tumor growth via secreted factors that induce differentiation , suppress proliferation , and inhibit angiogenesis .
+Two angiogenesis inhibitors , pigment epithelium-derived factor and tissue inhibitor of metalloproteinase-2 , have been detected in Schwann cell secretions .
+Here , we isolated another Schwann cell-derived secreted inhibitor of angiogenesis , a 43-kDa protein identified as SPARC ( secreted protein acidic and rich in cysteine ) , an extracellular matrix protein .
+We found SPARC to be critical for the antiangiogenic phenotype of cultured Schwann cells .
+We also show that purified SPARC potently inhibits angiogenesis and significantly impairs NB tumor growth in vivo .
+SPARC may be an effective candidate for the treatment of children with clinically aggressive , Schwannian stroma-poor NB tumors .

@@ -1,0 +1,8 @@
+The metastatic spread of malignant neoplasms is associated with active migration of cancer cells .
+The migration of neoplastic cells during the metastatic process may be affected by various extracellular factors , including chemoattractants , haptotactic signals , electric fields , substrate anisotropy , and cell-to-cell contacts .
+We examined the effect of homotypic collisions and heterotypic interactions with normal human skin fibroblasts on the motile activity of Walker carcinosarcoma cells .
+It was found that Walker carcinosarcoma cells moving in a dense population neither show contact inhibition of movement when colliding with one another nor increase their motile activity as a result of contact stimulation of motility .
+On the other hand , when plated onto the surface of aligned fibroblasts , Walker carcinosarcoma cells migrated mainly along the long axes of underlying fibroblasts as a result of contact guidance .
+The directional character of movement ( but not the speed of migration ) of Walker carcinosarcoma cells on the surface of aligned fibroblasts was completely effaced by RGD-containing synthetic peptide at a concentration of 1 mg/ml but not by 5 microM verapamil ( selective voltage-gated calcium channel inhibitor ) or 10 microM gadolinium chloride ( non-specific blocker of mechanosensitive ion channels ) .
+The suppression of directional character of migration of tumour cells by RGD-containing peptide was associated with the decrease in the amount of fibronectin macromolecules attached to fibroblasts .
+This suggests that alignment and anisotropic distribution of fibronectin macromolecules may be responsible for contact guidance of tumour cells moving on the surface of fibroblasts .

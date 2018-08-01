@@ -1,0 +1,12 @@
+BACKGROUND DNA-damaging compounds ( e.g. , alkylating agents , cytotoxic antibiotics and DNA topoisomerase poisons ) are the most widely used anticancer drugs .
+The inability of tumor cells to properly repair some types of DNA damage may explain why specific DNA-damaging drugs can selectively kill tumor cells .
+Phenylglyoxal is a dicarbonyl compound known to react with guanidine groups such as that of the DNA base guanine , therefore suggesting that phenylglyoxal could induce DNA damage and have anticancer activity .
+METHODS Cellular DNA damage was measured by the alkaline comet assay and the \u03b3H2AX focus assay .
+Formation of topoisomerase I- and topoisomerase II-DNA complexes was assessed by the TARDIS assay , an immunofluorescence technique that employs specific antibodies to DNA topo I or topo II to detect the protein covalently bound to the DNA in individual cells .
+Cell growth inhibition and cytotoxicity were determined by XTT , MTT and clonogenic assays .
+Apoptosis was assessed by the Annexin V flow cytometry assay .
+RESULTS Phenylglyoxal induced cellular DNA damage and formation of high levels of topoisomerase I- and topoisomerase II-DNA complexes in cells .
+These topoisomerase-DNA complexes were abolished by catalase pretreatment and correlated well with the induction of apoptosis .
+Phenylglyoxal-induced cell death was partially prevented by catalase pretreatment and was higher in lung cancer cells ( A549 ) than in normal lung fibroblasts ( MRC5 ) .
+Mammalian cell lines defective in nucleotide excision repair ( NER ) , homologous recombination ( HR ) and non-homologous end joining ( NHEJ ) were more sensitive to phenylglyoxal than parental cells ; this suggests that phenylglyoxal may induce bulky distortions in the shape of the DNA double helix ( which are repaired by the NER pathway ) and DNA double-strand breaks ( which are repaired by HR and NHEJ ) .
+CONCLUSION This report shows that phenylglyoxal is a new DNA-damaging agent with anticancer activity , and suggests that tumor cells with defects in NER , HR and NHEJ may be hypersensitive to the cytotoxic activity of phenylglyoxal .

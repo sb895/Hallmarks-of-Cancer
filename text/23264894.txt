@@ -1,0 +1,7 @@
+In spite of the fact that they occur at high rates , the clinical responses of BRAF(V600) mutant metastatic melanoma to BRAF inhibitors are usually short-lasting , with most cases progressing within less than 8 mo .
+Immunomodulatory strategies initiated after progression have recently been reported to be poorly efficient .
+By characterizing the immunological interactions between T cells and cancer cells in clinical material as well as the influence of the FDA-approved BRAF inhibitor vemurafenib on the immune system , we aimed at unraveling new strategies to expand the efficacy of adoptive T-cell transfer , which represents one of the most promising approaches currently in clinical development for the treatment of metastatic melanoma .
+Here we show that blocking the BRAF-MAPK pathway in BRAF signaling-addicted melanoma cells significantly increases the ability of T cells contained in clinical grade tumor-infiltrating lymphocytes to recognize autologous BRAF(V600) mutant melanoma cell lines in vitro .
+Antitumor reactivity was improved regardless of the class of antigen recognized by tumor-specific CD8(+) T cells .
+Microarray data suggests that improved tumor recognition is associated with modified expression of MHC Class I-associated proteins as well as of heat-shock proteins .
+In conclusion , our preclinical data suggest that an appropriately timed sequential treatment of BRAF(V600) mutant melanoma with vemurafenib and adoptive T-cell transfer might result in synergistic antineoplastic effects owing to an increased immunogenicity of cancer cells .

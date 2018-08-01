@@ -1,0 +1,9 @@
+Photodynamic therapy ( PDT ) may trigger apoptosis or necrosis in cancer cells .
+Several steps in the induction and execution of apoptosis require high amounts of adenosine-5'-triphosphate ( ATP ) .
+Because the mitochondrial membrane potential ( delta psi ) decreases early in apoptosis , we raised the question about the mechanisms of maintaining a sufficiently high ATP level .
+We therefore monitored delta psi and the intracellular ATP level of apoptotic human epidermoid carcinoma cells ( A431 ) after photodynamic treatment with aluminum ( III ) phthalocyanine tetrasulfonate .
+A maximum of caspase-3-like activity and nuclear fragmentation was found at fluences of about 4 J cm(-2) .
+Under these conditions apoptotic cells reduced delta psi rapidly , while the ATP level remained high for 4-6 h after treatment for cells supplied with glucose .
+To analyze the contribution of glycolysis to the energy supply during apoptosis , experiments were carried out with cells deprived of glucose .
+These cells showed a rapid drop of ATP content and neither caspase activation nor nuclear fragmentation could be detected .
+We conclude that the use of glucose as a source of ATP is obligatory for the execution of PDT-induced apoptosis .

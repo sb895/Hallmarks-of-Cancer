@@ -1,0 +1,11 @@
+It is known that sperm samples from recurrent pregnancy loss ( RPL ) couples have an increase in their sperm DNA fragmentation ( SDF ) , but no studies have been performed in order to identify differences between single stranded SDF ( ssSDF ) and double stranded SDF ( dsSDF ) in these patients .
+This could be relevant because the type of DNA damage could have different effects .
+Semen samples were classified attending their clinical status : 25 fertile donors and 20 RPL patients with at least two unexplained first trimester miscarriages .
+SDF was analysed using alkaline and neutral Comet assay , SCD test and pulsed-field gel electrophoresis ( PFGE ) , and ROC analysis including data from 105 more infertile patients ( n\u200a=\u200a150 ) was performed to establish predictive threshold values .
+SDF for alkaline and neutral Comet , and the SCD test was analysed in these categories of individuals .
+Data revealed the presence of two subgroups within fertile donors .
+The values obtained were 21.10±9.13 , 23.35±10.45 and 12.31±4.31 , respectively , for fertile donors with low values for both ssSDF and dsSDF ; 27.86±12.64 , 80.69±12.67 and 12.43±5.22 , for fertile donors with low ssSDF and high dsSDF ; and 33.61±15.50 , 84.64±11.28 and 19.28±6.05 , for unexplained RPL patients , also showing a low ssSDF and high dsSDF profile .
+This latter profile was seen in 85% of unexplained RPL and 33% of fertile donors , suggesting that it may be associated to a male risk factor for undergoing RPL .
+ROC analysis regarding recurrent miscarriage set the cut-off value at 77.50% of dsDNA SDF .
+PFGE for low ssSDF and high dsSDF profile samples and positive controls treated with DNase , to induce dsDNA breaks , showed a more intense band of about 48 kb , which fits the toroid model of DNA compaction in sperm , pointing out that some nuclease activity may be affecting their sperm DNA in RPL patients .
+This work identifies a very specific SDF profile related to the paternal risk of having RPL .

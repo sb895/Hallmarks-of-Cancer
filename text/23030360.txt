@@ -1,0 +1,14 @@
+The SR/CR mouse phenotype , first described in 1999 in BALB/c and later bred into C57BL/6 mice , is resistant to cancer formation following high doses of cancer cells administered intraperitoneally .
+The tumor cell targeting and destruction mechanisms have not been identified .
+By fluorescence-activated cell sorting analysis , the immune response of SR/CR mice after intraperitoneal injection of cancer cells was investigated and compared with parent strain mice .
+A massive influx of leukocytes into the peritoneal cavity was found .
+A large fraction of these leukocytes were polymorphonuclear granulocytes , macrophages and natural killer cells .
+A relative decrease in influx of B-cells compared with controls was demonstrated .
+Increased proportions of leukocytes belonging to the innate immune system were also demonstrated in splenocytes of SR/CR mice .
+Cytospins of peritoneal fluid from SR/CR mice after cancer cell injection showed formations of immune cells morphologically resembling polymorphonuclear granulocytes and macrophages adjoining the cancer cells .
+The results point to the potential involvement of innate immune cells in cancer immunology .
+Our data support migration of polymorphonuclear granulocytes , macrophages and NK cells into the peritoneum of the SR/CR mouse in response to intraperitoneal injection of S180 cancer cells .
+The cell composition of spleens of SR/CR mice reflected the differential regulation of the innate immune cells in peritoneal exudates .
+Both peritoneal exudates and the spleens of SR/CR mice contained decreased proportions of B-cells compared with BALB/c and C57BL/6 mice .
+We reproduce important aspects of previous published data and further extend them by showing differentially regulated populations of splenocytes including B-lymphocytes in SR/CR mice compared with parent strain controls .
+Importantly , this differentially regulated immune response of SR/CR mice could not be found in response to challenge with the lymphoma cell line EL-4 .

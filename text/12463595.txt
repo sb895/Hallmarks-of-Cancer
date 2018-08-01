@@ -1,0 +1,8 @@
+The capacity to repair DNA damage is an important factor that affects the therapeutic outcome in cancer treatment .
+To clarify the cellular repair response , we investigated the kinetics of DNA excision repair initiated by 1,3-bis(2-chloroethyl)-1-nitrosourea ( BCNU ) in human leukemia CCRF-CEM cells at an exponential growth phase in vitro .
+Using the alkaline single-cell gel electrophoresis ( comet ) assay , we quantitated the repair kinetics as the amount of DNA single-strand breaks that were generated from the incision and were diminished by the rejoining in the repair process .
+CEM cells could initiate DNA excision repair in response to BCNU by starting an incision reaction .
+However , the incision capacity came to a plateau at a concentration of 80 to 100 microM or after an incubation time of 90 to 120 minutes .
+When the cells were pulsed with 40 microM BCNU , the maximal incision occurred at the end of the incubation period , and the repair process was completed within 4 hours When cells were treated with 100 microM BCNU , the incised DNA was not rejoined at 4 hours , suggesting that the repair was not completed .
+Higher concentrations might surpass the cellular capacity for repair and would be associated with increased cell death .
+Evaluation of the repair process may provide a clue for therapeutic strategies to improve clinical efficacy if accelerated DNA repair is responsible for the drug resistance .

@@ -1,0 +1,14 @@
+BACKGROUND IL-6 is a pro-inflammatory cytokine that signals via binding to a soluble or membrane bound receptor , while nitric oxide ( NO ) , an oxidative stress molecule , diffuses through the cell membrane without a receptor .
+Both mediators signal through different mechanisms , yet they are dependent on NFκB .
+We proposed that both mediators are co-induced and co-regulated in inflamed mammary epithelial cells .
+METHODS SCp2 mammary epithelial cells were treated with bacterial endotoxin ( ET ) for different time periods and analyzed for induction of IL-6 secretion and NO production by ELISA and Griess reaction , respectively .
+The expression of IL-6 and induced NO synthase ( iNOS ) was assayed by real time PCR and/or western immunoblots , and the activation of NFκB was assayed by immunobinding assay .
+To investigate the role of mammary cell microenvironment ( cell-substratum or interaction of mammary epithelial cell types ; critical to mammary development , function , and disease ) in modulation of the inflammatory response , SCp2 cells were cultured with or without extracellular matrix ( EHS ) or in coculture with their myoepithelial counterpart ( SCg6 ) , and assayed for ET-induced IL-6 and NO .
+RESULTS Endotoxin induced NFκB activation at 1 h after ET application .
+IL-6 secretion and NO production were induced , but with unexpected delay in expression of mRNA for iNOS compared to IL-6 .
+NFκB/p65 activation was transient but NFκB/p50 activation persisted longer .
+Selective inhibition of NFκB activation by Wedelolactone reduced ET-induced expression of IL-6 mRNA and protein but not iNOS mRNA or NO production , suggesting differences in IL-6 and iNOS regulation via NFκB .
+SCp2 cells in coculture with SCg6 but not in presence of EHS dramatically induced IL-6 secretion even in the absence of ET .
+ET-induced NO production was blunted in SCp2/SCg6 cocultures compared to that in SCp2 alone .
+CONCLUSIONS The differential regulation of IL-6 and iNOS together with the differential activation of different NFκB dimers suggest that IL-6 and iNOS are regulated by different NFκB dimers , and differentially regulated by the microenvironment of epithelial cells .
+The understanding of innate immune responses and inflammation in epithelia and linkage thereof is crucial for understanding the link between chronic inflammation and cancer in epithelial tissues such as the mammary gland .

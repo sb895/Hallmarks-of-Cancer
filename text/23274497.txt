@@ -1,0 +1,8 @@
+In human epithelial cancers , the microRNA ( miRNA ) mir-30d is amplified with high frequency and serves as a critical oncomir by regulating metastasis , apoptosis , proliferation , and differentiation .
+Autophagy , a degradation pathway for long-lived protein and organelles , regulates the survival and death of many cell types .
+Increasing evidence suggests that autophagy plays an important function in epithelial tumor initiation and progression .
+Using a combined bioinformatics approach , gene set enrichment analysis and miRNA target prediction , we found that mir-30d might regulate multiple genes in the autophagy pathway including BECN1 , BNIP3L , ATG12 , ATG5 , ATG2 .
+Our further functional experiments demonstrated that the expression of these core proteins in the autophagy pathway was directly suppressed by mir-30d in cancer cells .
+Finally , we showed that mir-30d regulated the autophagy process by inhibiting autophagosome formation and LC3B-I conversion to LC3B-II .
+Taken together , our results provide evidence that the oncomir mir-30d impairs the autophagy process by targeting multiple genes in the autophagy pathway .
+This result will contribute to understanding the molecular mechanism of mir-30d in tumorigenesis and developing novel cancer therapy strategy .

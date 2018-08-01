@@ -1,0 +1,9 @@
+Malaria parasites export ' a secretome ' of hundreds of proteins , including major virulence determinants , from their endoplasmic reticulum ( ER ) , past the parasite plasma and vacuolar membranes to the host erythrocyte .
+The export mechanism is high affinity ( nanomolar ) binding of a host ( cell ) targeting ( HT ) motif RxLxE/D/Q to the lipid phosphatidylinositol 3-phosphate ( PI(3)P ) in the ER .
+Cleavage of the HT motif releases the secretory protein from the ER membrane .
+The HT motif is thought to be the only export signal resident in an N-terminal vacuolar translocation sequence ( VTS ) that quantitatively targets green fluorescent protein to the erythrocyte .
+We have previously shown that the R to A mutation in the HT motif , abrogates VTS binding to PI(3)P ( K(d)>5 \u03bcM ) .
+We now show that remarkably , the R to A mutant is exported to the host erythrocyte , for both membrane and soluble reporters , although the efficiency of export is reduced to of that seen with a complete VTS .
+Mass spectrometry indicates that the R to A mutant is cleaved at sites upstream of the HT motif .
+Antibodies to upstream sequences confirm that aberrantly cleaved R to A protein mutant is exported to the erythrocyte .
+These data suggest that export mechanisms , independent of PI(3)P as well as those dependent on PI(3)P , function together in a VTS to target parasite proteins to the host erythrocyte .

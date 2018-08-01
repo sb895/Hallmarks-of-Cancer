@@ -1,0 +1,7 @@
+CEACAM1 , CEA/CEACAM5 , and CEACAM6 are cell adhesion molecules ( CAMs ) of the carcinoembryonic antigen ( CEA ) family that have been shown to be deregulated in lung cancer and in up to 50% of all human cancers .
+However , little is known about the functional impact of these molecules on undifferentiated cell growth and tumor progression .
+Here we demonstrate that cell surface expression of CEACAM1 on confluent A549 human lung adenocarcinoma cells plays a critical role in differentiated , contact-inhibited cell growth .
+Interestingly , CEACAM1-L , but not CEACAM1-S , negatively regulates proliferation via its ITIM domain , while in proliferating cells no CEACAM expression is detectable .
+Furthermore , we show for the first time that CEACAM6 acts as an inducer of cellular proliferation in A549 cells , likely by interfering with the contact-inhibiting signal triggered by CEACAM1-4L , leading to undifferentiated anchorage-independent cell growth .
+We also found that A549 cells expressed significant amounts of non-membrane anchored variants of CEACAM5 and CEACAM6 , representing a putative source for the increased CEACAM5/6 serum levels frequently found in lung cancer patients .
+Taken together , our data suggest that post-confluent contact inhibition is established and maintained by CEACAM1-4L , but disturbances of CEACAM1 signalling by CEACAM1-4S and other CEACAMs lead to undifferentiated cell growth and malignant transformation .

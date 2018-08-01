@@ -1,0 +1,11 @@
+It is well established that hyperplasia and decreased apoptosis of airway smooth muscle cells ( ASMCs ) play an important role in the asthmatic airway remodeling .
+Tumor suppressor PTEN gene with phosphatase activity plays an important regulatory role in embryonic development , cell proliferation , and apoptosis , cell cycle regulation , migration ( invasion ) of the cytoskeleton .
+We hypotheses that PTEN gene could affect the growth and viability of ASMCs through the regulation of PI3K/Akt , MAPK , and cell cycle-related gene expression .
+We constructed a recombinant adenovirus to transfect ASMCs .
+Cells were divided into the overexpression of PTEN gene group ( Ad-PTEN-GFP ) , negative control group ( Ad-GFP ) , and blank control group ( DMEM ) .
+The cell apoptosis of ASMCs were evaluated by Hoechst-33342 staining and PE-7AAD double-labeled flow cytometry .
+The cell cycle distribution was observed by flow cytometry with PI staining .
+The expression of PTEN , p-Akt , total-Akt , p-ERK1/2 , total-ERK1/2 , cleaved-Caspases-3 , Caspases-9 , p21 , and Cyclin D1 were tested by the Western blotting .
+Our study revealed that overexpression of PTEN gene did not induce apoptosis of human ASMCs cultured in vitro .
+However , overexpression of PTEN inhibited proliferation of human ASMCs cultured in vitro and was associated with downregulation of Akt phosphorylation levels , while did not affect ERK1/2 phosphorylation levels .
+Moreover , overexpression of PTEN could induce ASMCs arrested in the G0/G1 phase through the downregulation of Cyclin D1 and upregulation of p21 expressions .

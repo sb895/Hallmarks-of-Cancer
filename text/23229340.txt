@@ -1,0 +1,12 @@
+Autophagy is an evolutionarily conserved , multi-step lysosomal degradation process in which a cell degrades its own long-lived proteins and damaged organelles .
+Ataxia telangiectasia mutated ( ATM ) has recently been shown to upregulate the process of autophagy .
+Previous studies showed that certain microRNAs , including miR-18a , potentially regulate ATM in cancer cells .
+However , the mechanisms behind the modulation of ATM by miR-18a remain to be elucidated in colon cancer cells .
+In the present study , we explored the impact of miR-18a on the autophagy process and ATM expression in HCT116 colon cancer cells .
+To determine whether a preliminary link exists between autophagy and miR-18a , HCT116 cells were irradiated and quantitative ( q ) PCR was performed to measure miR-18a expression .
+HCT116 cells were transfected with an miR-18a mimic to study its impact on indicators of autophagy .
+Western blotting and luciferase assays were implemented to explore the impact of miR-18a on ATM gene expression in HCT116 cells .
+The results showed that miR-18a expression was strongly stimulated by radiation .
+Ectopic overexpression of miR-18a in HCT116 cell lines potently enhanced autophagy and ionizing radiation-induced autophagy .
+Moreover , miR-18a overexpression led to the upregulation of ATM expression and suppression of mTORC1 activity .
+Results of the present study pertaining to the role of miR-18a in regulating autophagy and ATM gene expression in colon cancer cells revealed a novel function for miR-18a in a critical cellular event and on a crucial gene with significant impacts in cancer development , progression , treatment and in other diseases .

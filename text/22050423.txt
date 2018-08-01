@@ -1,0 +1,7 @@
+Nowadays , tobacco smoking is the cause of million deaths per year , counting 31% and 6% of all cancer deaths ( affecting 18 different organs ) in middle-aged men and women , respectively .
+Nicotine is the addictive component of tobacco acting on neuronal nicotinic receptors ( nAChR ) .
+Functional nAChR , are also present on endothelial , haematological and epithelial cells .
+Although nicotine itself is regularly not referred to as a carcinogen , there is an ongoing debate whether nicotine functions as a ' tumour promoter ' .
+Nicotine , with its specific binding to nAChR , deregulates essential biological processes like regulation of cell proliferation , apoptosis , migration , invasion , angiogenesis , inflammation and cell-mediated immunity in a wide variety of cells including foetal ( regulation of development ) , embryonic and adult stem cells , adult tissues as well as cancer cells .
+Nicotine seems involved in fundamental aspects of the biology of malignant diseases , as well as of neurodegeneration .
+Investigating the biological effects of nicotine may provide new tools for therapeutic interventions and for the understanding of neurodegenerative diseases and tumour biology .

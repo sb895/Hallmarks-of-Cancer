@@ -1,0 +1,13 @@
+The spatial chromatin organisation and molecular interactions within and between chromatin domains and chromosome territories ( CTs ) are essential for fundamental processes such as replication , transcription and DNA repair via homologous recombination .
+To analyse the distribution and interaction of whole CTs , centromeres , ( sub)telomeres and interstitial chromatin segments in endopolyploid nuclei , specific FISH probes from Arabidopsis thaliana were applied to 2-64C differentiated leaf nuclei .
+Whereas CTs occupy a distinct and defined volume of the nucleus and do not obviously intermingle with each other in 2-64C nuclei , sister chromatin segments within these CTs become more non-cohesive with increasing endopolyploidy .
+Centromeres , preferentially located at the nuclear periphery , may show ring- or half-moon like shapes in 2C and 4C nuclei .
+Sister centromeres tend to associate up to the 8C level .
+From 16C nuclei on , they become progressively separated .
+The higher the polyploidy level gets , the more separate chromatids are present .
+Due to sister chromatid separation in highly endopolyploid nuclei , the centromeric histone variant CENH3 , the 180-bp centromeric repeats and pericentromeric heterochromatin form distinct subdomains at adjacent but not intermingling positions .
+The ( sub)telomeres are frequently associated with each other and with the nucleolus and less often with centromeres .
+The extent of chromatid separation and of chromatin decondensation at subtelomeric chromatin segments varies between chromosome arms .
+A mainly random distribution and similar shapes of CTs even at higher ploidy levels indicate that in general no substantial CT reorganisation occurs during endopolyploidisation .
+Non-cohesive sister chromatid regions at chromosome arms and at the ( peri)centromere are accompanied by a less dense chromatin conformation in highly endopolyploid nuclei .
+We discuss the possible function of this conformation in comparison to transcriptionally active regions at insect polytene chromosomes .

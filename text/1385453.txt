@@ -1,0 +1,11 @@
+The influence of cell shape on the expression of proto-oncogenes was examined in normal and malignant human cells that varied in their sensitivities to contact-inhibition of proliferation .
+Cells were constrained into varying degrees of roundness by plating onto culture surfaces coated with different concentrations of poly(2-hydroxyethyl methacrylate ) ( poly[HEMA] ) and assayed for proliferation capacity and levels of c-myc , c-ras , c-fos , and c-fes mRNAs .
+Proliferation of contact-inhibited normal CUA-1 fibroblasts and the variant HT-IFNr cells was highly coupled to cell shape .
+As these cells became more rounded , a critical degree of roundness was reached at which proliferation ceased .
+In contrast , proliferation of non-contact-inhibited malignant HT-1080 cells was independent of cell shape .
+Northern analysis revealed that expression of c-myc and c-ras was highly sensitive to cell shape in the normal CUA-1 cells but not in the malignant HT-1080 or variant HT-IFNr cells .
+Levels of c-myc and c-ras mRNAs declined to nearly undetectable levels in CUA-1 cells at degrees of roundness that correlated with loss of proliferative ability .
+Expression of c-fos and c-fes oncogenes were independent of cell shape in all cells tested .
+Quantification of transcription rates by the nuclear run-off assay showed that shape modulation of c-myc and c-ras oncogene expression occurred at the transcriptional level .
+These data suggest that changes in cell shape can modulate expression of certain oncogenes and that these changes correlate with the cell's ability to proliferate .
+Moreover , inability to regulate c-myc and c-ras oncogene expression is associated with loss of shape-dependent growth controls and contact inhibition but that loss of this regulation alone is not sufficient to release cells from contact-inhibited controls .

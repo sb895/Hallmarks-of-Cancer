@@ -1,0 +1,8 @@
+The purpose of this investigation was to study the variation of p73 gene expression in the apoptotic process of acute myeloid leukemia ( AML ) cell line U937 induced by methotrexate ( MTX ) .
+Morphological changes of apoptotic cells were observed with microscopy and Wright's + Giemsa staining .
+DNA ladder and cell cycle were examined by agarose gel electrophoresis and flow cytometry respectively .
+Using semi-quantitive reverse transcription-polymerase chain reaction ( RT-PCR ) , the expression of p73 mRNA was examined .
+Results showed that MTX could induce U937 cell apoptosis effectively .
+Condensed nuclei , fragmentation of chromosome and DNA ladder were seen after 6 hour following treatment of MTX 5 micro mol/L .
+Sub-G(1) peak and S + G(2)/M arrest were also determined by FCM , but the quantity of p73 expression was generally constant .
+In conclusion , U937 cell apoptosis induced by MTX did not change p73 mRNA level .

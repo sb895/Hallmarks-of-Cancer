@@ -1,0 +1,7 @@
+Binding within or nearby target genes involved in cell proliferation and survival enables the p53 tumor suppressor gene to regulate their transcription and cell-cycle progression .
+Using genome-wide chromatin-binding profiles , we describe binding of p53 also to regions located distantly from any known p53 target gene .
+Interestingly , many of these regions possess conserved p53-binding sites and all known hallmarks of enhancer regions .
+We demonstrate that these p53-bound enhancer regions ( p53BERs ) indeed contain enhancer activity and interact intrachromosomally with multiple neighboring genes to convey long-distance p53-dependent transcription regulation .
+Furthermore , p53BERs produce , ina p53-dependent manner , enhancer RNAs ( eRNAs ) that are required for efficient transcriptional enhancement of interacting target genes and induction of a p53-dependent cell-cycle arrest .
+Thus , our results ascribe transcription enhancement activity to p53 with the capacity to regulate multiple genes from a single genomic binding site .
+Moreover , eRNA production from p53BERs is required for efficient p53 transcription enhancement .

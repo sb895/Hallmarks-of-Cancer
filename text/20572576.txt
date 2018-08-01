@@ -1,0 +1,14 @@
+AIMS AND BACKGROUND To investigate a six-drug combination in patients with nonmetastatic Ewing sarcoma , focusing on chemotherapy-induced necrosis and chemotherapy toxicity in adult and pediatric patients .
+METHODS AND STUDY DESIGN Alternating cycles of vincristine ( 1.5 mg/m2 ) , doxorubicin ( 80 mg/m2 ) and cyclophosfamide ( 1200 mg/m2 ) ( weeks 0 , 6 , 13 , 22 and 31 ) , ifosfamide ( 9 g/m2 ) , vincristine ( 1.5 mg/m2 ) , and actinomycin D ( 1.5 mg/m2 ) ( weeks 3 , 16 , 25 and 34 ) , and ifosfamide ( 9 g/m2 ) and etoposide ( 450 mg/m2 ) ( weeks 9 , 19 , 28 and 37 ) were administered .
+Primary chemotherapy-induced necrosis was graded : G3 ( complete necrosis ) , G2 ( microfoci of tumor cells ) and G1 ( macrofoci of tumor cells ) .
+RESULTS From 1996 to 1999 , 50 patients with Ewing sarcoma were enrolled .
+The median age was 23.5 years ( range , 4-56 ) .
+Chemotherapy-induced necrosis ( in 28 patients ) was G3 in 36% , G2 in 21% and G1 in 43% .
+At a median follow-up of 110 months ( range , 36-129 ) , 5-year overall survival and event-free survival were 72% and 66% , respectively .
+According to histologic response , 5-year event-free survival was 90% in G3 , 83% in G2 , and 42% in G1 ( P = 0.02 ) .
+In adult and pediatric ( <18 years ) patients , the incidence of G4 leukopenia was 62% and 74% , respectively , with febrile neutropenia in 13% and 21% , respectively .
+G4 thrombocytopenia occurred in 3% of cycles in adults and in 7% in pediatric patients .
+Platelet and red blood cell transfusions were required respectively in 1% and 11% of cycles in adults and in 6% and 24% of cycles in pediatric patients .
+CONCLUSIONS The six-drug combination can be administered safely in adult and pediatric populations .
+About 40% of patients have a poor chemotherapy-induced tumor necrosis , leading to poor probability of survival .
+New strategies are recommended to improve survival of poor responders to the six-drug combination .

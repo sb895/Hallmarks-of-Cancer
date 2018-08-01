@@ -1,0 +1,14 @@
+Emergence of vancomycin-intermediate Staphylococcus aureus ( VISA ) and vancomycin-resistant S. aureus ( VRSA ) strains has led to global concerns about treatments for staphylococcal infections .
+These strains are currently rare even though there is an upward trend in their reported incidence .
+Therefore , appropriate screening and epidemiological evaluation of VRSA strains can affect future global health care policies .
+Isolates of Staphylococcus aureus were obtained from various clinical samples and were then evaluated with agar screening , disk diffusion , and MIC methods to determine resistance to vancomycin and methicillin .
+After confirmation of the isolated VRSA strain , genetic analysis was performed by evaluating mecA and vanA gene presence , SCCmec , agr , and spa types , and toxin profiles .
+Multilocus sequence typing ( MLST ) and plasmid analysis were also performed .
+The VRSA strain was resistant to oxacillin ( MIC of 128 \u03bcg/ml ) and vancomycin ( MIC of 512 \u03bcg/ml ) .
+Disk diffusion antimicrobial susceptibility tests showed resistance to oxacillin , vancomycin , levofloxacin , ciprofloxacin , trimethoprim-sulfamethoxazole , clindamycin , rifampin , and tetracycline .
+The isolate was susceptible to minocycline and gentamicin .
+PCRs were positive for the mecA and vanA genes .
+Other genetic characteristics include SCCmec type III , agr I , spa type t037 , and sequence type ( ST ) 1283 .
+The plasmid profile shows five plasmids with a size of kb to >10 kb .
+The isolated VRSA strain was obtained from a critically ill hospitalized patient .
+Genetic analysis of this strain suggested that the strain was a methicillin-resistant S. aureus ( MRSA ) clone endemic in Asia that underwent some genetic changes , such as mutation in the gmk gene and acquisition of the vanA gene .

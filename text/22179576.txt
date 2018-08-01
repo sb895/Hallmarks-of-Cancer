@@ -1,0 +1,9 @@
+Heat shock protein 27 ( Hsp27 ) is emerging as a promising therapeutic target for treatment of various cancers .
+Although the role of Hsp27 in protection from stress-induced intrinsic cell death has been relatively well studied , its role in Fas ( death domain containing member of the tumor necrosis factor receptor superfamily)-induced apoptosis and cell proliferation remains underappreciated .
+Here , we show that Hsp27 silencing induces dual coordinated effects , resulting in inhibition of cell proliferation and sensitization of cells to Fas-induced apoptosis through regulation of PEA-15 ( 15-kDa phospho-enriched protein in astrocytes ) .
+We demonstrate that Hsp27 silencing suppresses proliferation by causing PEA-15 to bind and sequester extracellular signal-regulated kinase ( ERK ) , resulting in reduced translocation of ERK to the nucleus .
+Concurrently , Hsp27 silencing promotes Fas-induced apoptosis by inducing PEA-15 to release Fas-associating protein with a novel death domain ( FADD ) , thus allowing FADD to participate in death receptor signaling .
+Conversely , Hsp27 overexpression promotes cell proliferation and suppresses Fas-induced apoptosis .
+Furthermore , we show that Hsp27 regulation of PEA-15 activity occurs in an Akt-dependent manner .
+Significantly , Hsp27 silencing in a panel of phosphatase and tensin homolog on chromosome 10 ( PTEN ) wild-type or null cell lines , and in LNCaP cells that inducibly express PTEN , resulted in selective growth inhibition of PTEN-deficient cancer cells .
+These data identify a dual coordinated role of Hsp27 in cell proliferation and Fas-induced apoptosis via Akt and PEA-15 , and indicate that improved clinical responses to Hsp27-targeted therapy may be achieved by stratifying patient populations based on tumor PTEN expression .

@@ -1,0 +1,9 @@
+A key requirement for the development of cancer immunotherapy is the identification of tumour-associated antigens that are differentially or exclusively expressed on the tumour and recognized by the host immune system .
+However , immune responses to such antigens are often muted or lacking due to the antigens being recognized as " self " , and further complicated by the tumour environment and regulation of immune cells within .
+In an effort to circumvent the lack of immune responses to tumour antigens , we have devised a strategy to develop potential synthetic immunogens .
+The strategy , termed mirror image phage display , is based on the concept of molecular mimicry as demonstrated by the idiotype/anti-idiotype paradigm in the immune system .
+Here as ' proof of principle ' we have selected molecular mimics of the well-characterised tumour associated antigen , the human mucin1 protein ( MUC1 ) from two different peptide phage display libraries .
+The putative mimics were compared in structure and function to that of the native antigen .
+Our results demonstrate that several of the mimic peptides display T-cell stimulation activity in vitro when presented by matured dendritic cells .
+The mimic peptides and the native MUC1 antigenic epitopes can cross-stimulate T-cells .
+The data also indicate that sequence homology and/or chemical properties to the original epitope are not the sole determining factors for the observed immunostimulatory activity of the mimic peptides .

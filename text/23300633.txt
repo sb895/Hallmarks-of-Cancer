@@ -1,0 +1,12 @@
+Angiogenesis , the formation of new blood vessels from pre-existing vascular beds , is essential for tumor growth , invasion , and metastasis .
+Luteolin is a common dietary flavonoid found in fruits and vegetables .
+We studied the antiangiogenic activity of luteolin using in vitro , ex vivo , and in vivo models .
+In vitro studies using rat aortic ring assay showed that luteolin at non-toxic concentrations significantly inhibited microvessel sprouting and proliferation , migration , invasion and tube formation of endothelial cells , which are key events in the process of angiogenesis .
+Luteolin also inhibited ex vivo angiogenesis as revealed by chicken egg chorioallantoic membrane assay ( CAM ) and matrigel plug assay .
+Gelatin zymographic analysis demonstrated the inhibitory effect of luteolin on the activation of matrix metalloproteinases MMP-2 and MMP-9 .
+Western blot analysis showed that luteolin suppressed VEGF induced phosphorylation of VEGF receptor 2 and their downstream protein kinases AKT , ERK , mTOR , P70S6K , MMP-2 , and MMP-9 in HUVECs .
+Proinflammatory cytokines such as IL-1β , IL-6 , IL-8 , and TNF-α level were significantly reduced by the treatment of luteolin in PC-3 cells .
+Luteolin ( 10 mg/kg/d ) significantly reduced the volume and the weight of solid tumors in prostate xenograft mouse model , indicating that luteolin inhibited tumorigenesis by targeting angiogenesis .
+CD31 and CD34 immunohistochemical staining further revealed that the microvessel density could be remarkably suppressed by luteolin .
+Moreover , luteolin reduced cell viability and induced apoptosis in prostate cancer cells , which were correlated with the downregulation of AKT , ERK , mTOR , P70S6K , MMP-2 , and MMP-9 expressions .
+Taken together , our findings demonstrate that luteolin inhibits human prostate tumor growth by suppressing vascular endothelial growth factor receptor 2-mediated angiogenesis .

@@ -1,0 +1,9 @@
+The cytotoxic activity of cyclosporin A ( CsA ) and the three non-immuno-suppressive CsA analogues B3-243 , WO-039 and B3-665 were studied in tumor cell lines representing both classical and atypical forms of multidrug resistance ( MDR ) : T-ALL GM3639 L100 cells selected for vincristine ( vcr ) resistance and displaying characteristics of classical MDR , including P-glycoprotein ( pgp ) expression and increased drug efflux which can be inhibited by pgp blockers ( e.g. verapamil ) , and U-1285/ADR , a small cell lung cancer ( SCLC ) cell line selected for doxorubicin resistance which lacks pgp , is insensitive to pgp-blockers and shows cross resistance to cis-platinum .
+At 1 micrograms/ml CsA was the most active agent in reversing Vcr resistance in L100 cells followed by B3-243 and WO-039 , with no effect of B3-665 .
+Parental LO cells were only marginally sensitized to Vcr by these agents .
+No reversing effect of any cyclosporin was observed in the U-1285/ADR or its parental cell line .
+Compared to LO cells , L100 cells showed a marked hypersensitivity to CsA > B3-243 > WO-039 with B3-665 being inactive .
+No collateral sensitivity was observed for cyclosporins in U-1285/ADR cells .
+Although of different magnitude , the pattern of cytotoxic activity for the different cyclosporins alone closely parallelled that of L100 cells for U-1285 , U1285/ADR and LO cells .
+The results indicate that not only the collateral sensitivity in classical MDR but also the cytotoxic actions of cyclosporins per se on tumor cells alone are independent of immunosuppressive activity .
+The results also suggest a structure-activity relationship for cyclosporin-induced cytotoxicity similar to , but independent of , MDR reversing activity .

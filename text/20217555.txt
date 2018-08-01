@@ -1,0 +1,5 @@
+Tumor invasion and metastasis are the primary causes of cancer patient mortality , underscoring the need for identification of novel genes and signaling pathways that mediate these prognosis-determining phenomena .
+To identify and characterize novel lung adenocarcinoma genes associated with lung cancer progression , we created a bioinformatics-based approach that focuses on human cell-cycle-regulated genes that have evolved only in higher organisms but not in lower eukaryotic cells .
+In siRNA experiments in lung cancer cells , FLJ10540 was identified as one of several novel targets involved in cell migration and invasion .
+Here , we demonstrate that PI3K inhibition affects FLJ10540-mediated cell migration and invasion and further , that FLJ10540 knockdown ablates AKT-Ser(473) phosphorylation .
+Taken together , these findings indicate that the FLJ10540/PI3K/AKT pathway may harbor new therapeutic targets for treating invasive lung adenocarcinoma .

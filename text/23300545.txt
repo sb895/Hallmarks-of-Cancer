@@ -1,0 +1,8 @@
+Approximately half of all HER2/neu-overexpressing breast cancer patients do not respond to trastuzumab-containing therapy .
+Therefore , there remains an urgent and unmet clinical need for the development of predictive biomarkers for trastuzumab response .
+Recently , several lines of evidence have demonstrated that the inflammatory tumor microenvironment is a major contributor to therapy resistance in breast cancer .
+In order to explore the predictive value of inflammation in breast cancer patients , we measured the inflammatory biomarkers serum ferritin and C-reactive protein ( CRP ) in 66 patients immediately before undergoing trastuzumab-containing therapy and evaluated their progression-free and overall survival .
+The elevation in pre-treatment serum ferritin ( >250 ng/ml ) or CRP ( >7.25 mg/l ) was a significant predictor of reduced progression-free survival and shorter overall survival .
+When patients were stratified based on their serum ferritin and CRP levels , patients with elevation in both inflammatory biomarkers had a markedly poorer response to trastuzumab-containing therapy .
+Therefore , the elevation in inflammatory serum biomarkers may reflect a pathological state that decreases the clinical efficacy of this therapy .
+Anti-inflammatory drugs and life-style changes to decrease inflammation in cancer patients should be explored as possible strategies to sensitize patients to anti-cancer therapeutics .

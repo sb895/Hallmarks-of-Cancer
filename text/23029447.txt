@@ -1,0 +1,11 @@
+Complex interactions between effector T cells and Foxp3(+) regulatory T cells ( Treg ) contribute to clinical outcomes in cancer , and autoimmune and infectious diseases .
+Previous work showed that IL-12 reversed Treg-mediated suppression of CD4(+)Foxp3(-) T cell ( Tconv ) proliferation .
+We and others have also shown that Tregs express T-bet and IFN-γ at sites of Th1 inflammation and that IL-12 induces IFN-γ production by Tregs in vitro .
+To investigate whether loss of immunosuppression occurs when IFN-γ is expressed by Tregs we treated mouse lymphocyte cultures with IL-12 .
+IFN-γ expression did not decrease the ability of Tregs to suppress Tconv proliferation .
+Rather , IL-12 treatment decreased Treg frequency and Foxp3 levels in Tregs .
+We further showed that IL-12 increased IL-2R expression on Tconv and CD8 T cells , diminished its expression on Tregs and decreased IL-2 production by Tconv and CD8 T cells .
+Together , these IL-12 mediated changes favored the outgrowth of non-Tregs .
+Additionally , we showed that treatment with a second cytokine , IL-27 , decreased IL-2 expression without augmenting Tconv and CD8 T cell proliferation .
+Notably , IL-27 only slightly modified levels of IL-2R on non-Treg T cells .
+Together , these results show that IL-12 has multiple effects that modify the balance between Tregs and non-Tregs and support an important role for relative levels of IL-2R but not for IFN-γ expression in IL-12-mediated reversal of Treg immunosuppression .

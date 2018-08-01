@@ -1,0 +1,10 @@
+We have previously demonstrated the antiproliferative effect of two flavonoids-2,2'-dihydroxychalcone ( DHC ) , a novel synthetic flavonoid , and fisetin , a naturally occurring flavonol-in prostate cancer cells .
+In this study , we further examine the mechanisms of these compounds on survival and proliferation pathways .
+DHC and fisetin ( 1-50 microM ) caused a dose-dependent reduction in viability , a concomitant increase in apoptosis in PC3 cells at 72 h , and a decrease in clonogenic survival at 24 h treatment .
+DHC was considerably more potent than fisetin in these cytotoxicity assays .
+The mechanism of accelerated cellular senescence was not activated by either compound in PC3 or lymph node carcinoma of the prostate ( LNCaP ) cells .
+Gene expression alterations in PC3 and LNCaP cells treated with 15 muM DHC and 25 microM fisetin for 6 to 24 h were determined by oligonucleotide array .
+Amongst the most highly represented functional categories of genes altered by both compounds was the cell cycle category .
+In total , 100 cell cycle genes were altered by DHC and fisetin including 27 genes with key functions in G2/M phase that were downregulated by both compounds .
+Other functional categories altered included chromosome organization , apoptosis , and stress response .
+These results demonstrate the multiple mechanisms of antitumor activity of DHC and fisetin in prostate cancer cells in vitro .

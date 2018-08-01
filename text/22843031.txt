@@ -1,0 +1,8 @@
+Metformin , one of the most widely used antidiabetic drugs , has recently been associated with potential antitumorigenic effects .
+In this study , we evaluated the possible cytotoxic impact of combined low doses of metformin and ionizing radiation ( IR ) on 2human hepatoma cell lines .
+The cytotoxic effect of metformin combined with IR was subsequently determined by clonogenic survival and cell cycle assays , assessment of mitochondrial complexI and lactate dehydrogenase ( LDH ) activity , measurement of cellular adenosine triphosphate ( ATP ) levels , comet assay and analyses of the formation and disappearance of phosphorylated histone H2AX ( γ-H2AX ) protein .
+The combination of metformin and IR caused a much stronger cytotoxicity than the treatment with metformin or IR alone , leading to an decrease in cell viability and increase in the accumulation of cells in the G2/M phase of the cell cycle in the 2hepatoma cell lines .
+In addition , a reduction in mitochondrial complexI activity ( and a significant increase in LDH activity , as well as lactate production were observed in the cells exposed to metformin .
+Interestingly , a severe depletion in ATP , increased olive tail moment and the delayed disappearance of γ-H2AX expression were detected in the hepatoma cells treated by metformin plus IR .
+These findings show that the combination of a low concentration of metformin and IR results in the considerable enhancement of cytotoxic effects in human hepatoma cell lines , leading to decreased DNA repair by reducing ATP production .
+The data provided in this study may elucidate the remarkable efficiency of this combination treatment and suggest that metformin may be used as a potential adjunct to the radiotherapy of hepatocellular carcinoma .

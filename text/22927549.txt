@@ -1,0 +1,7 @@
+Cancer immunoediting is the process whereby immune cells protect against cancer formation by sculpting the immunogenicity of developing tumors .
+Although the full process depends on innate and adaptive immunity , it remains unclear whether innate immunity alone is capable of immunoediting .
+To determine whether the innate immune system can edit tumor cells in the absence of adaptive immunity , we compared the incidence and immunogenicity of 3'methylcholanthrene-induced sarcomas in syngeneic wild-type , RAG2(-/-) , and RAG2(-/-)x γc(-/-) mice .
+We found that innate immune cells could manifest cancer immunoediting activity in the absence of adaptive immunity .
+This activity required natural killer ( NK ) cells and interferon γ ( IFN-γ ) , which mediated the induction of M1 macrophages .
+M1 macrophages could be elicited by administration of CD40 agonists , thereby restoring editing activity in RAG2(-/-)x γc(-/-) mice .
+Our results suggest that in the absence of adaptive immunity , NK cell production of IFN-γ induces M1 macrophages , which act as important effectors during cancer immunoediting .

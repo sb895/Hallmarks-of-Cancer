@@ -1,0 +1,10 @@
+Repetitive DNA sequences with the potential to form alternative DNA conformations , such as slipped structures and cruciforms , can induce genetic instability by promoting replication errors and by serving as a substrate for DNA repair proteins , which may lead to DNA double-strand breaks ( DSBs ) .
+However , the contribution of each of the DSB repair pathways , homologous recombination ( HR ) , non-homologous end-joining ( NHEJ ) and single-strand annealing ( SSA ) , to this sort of genetic instability is not fully understood .
+Herein , we assessed the genome-wide distribution of repetitive DNA sequences in the Mycobacterium smegmatis , Mycobacterium tuberculosis and Escherichia coli genomes , and determined the types and frequencies of genetic instability induced by direct and inverted repeats , both in the presence and in the absence of HR , NHEJ , and SSA .
+All three genomes are strongly enriched in direct repeats and modestly enriched in inverted repeats .
+When using chromosomally integrated constructs in M. smegmatis , direct repeats induced the perfect deletion of their intervening sequences above background .
+Absence of HR further enhanced these perfect deletions , whereas absence of NHEJ or SSA had no influence , suggesting compromised replication fidelity .
+In contrast , inverted repeats induced perfect deletions only in the absence of SSA .
+Both direct and inverted repeats stimulated excision of the constructs from the attB integration sites independently of HR , NHEJ , or SSA .
+With episomal constructs , direct and inverted repeats triggered DNA instability by activating nucleolytic activity , and absence of the DSB repair pathways ( in the order NHEJ>HR>SSA ) exacerbated this instability .
+Thus , direct and inverted repeats may elicit genetic instability in mycobacteria by 1 ) directly interfering with replication fidelity , 2 ) stimulating the three main DSB repair pathways , and 3 ) enticing L5 site-specific recombination .

@@ -1,0 +1,10 @@
+SWAP-70 , a phosphatidylinositol trisphosphate ( PtdIns(3,4,5)P(3) ) binding protein , has been suggested to be involved in transformation of mouse embryo fibroblasts ( MEFs ) as well as membrane ruffling after growth factor stimulation of the cells .
+A mutant , SWAP-70-374 , was found to be able to bind to F-actin in vitro , whereas wild-type SWAP-70 failed to do so .
+This mutant was present at the plasma membrane without any stimulation while the wild-type protein was present only in the cytosol unless cells were stimulated with EGF .
+Expression of this mutant in MEFs resulted in morphologic transformation , fast growth , and loss of contact inhibition , suggesting that SWAP-70 with this mutation can transform the cells .
+ERK1/2 was activated in SWAP-70-374-transformed cells .
+Use of MEK inhibitors revealed that the ERK1/2 pathway does not affect the cell growth of MEFs but is responsible for loss of contact inhibition .
+To investigate the function of SWAP-70 further , drugs that can inhibit SWAP-70-dependent cell responses were screened .
+Among various drugs , sanguinarine was found to inhibit transformation of MEFs by SWAP-70-374 .
+This drug was able to inhibit SWAP-70-mediated membrane ruffling as well , suggesting that its effect was closely related to the SWAP-70 signaling pathway .
+These results suggest that SWAP-70-374 can activate some signaling pathways , including the ERK1/2 pathway , to transform MEFs .

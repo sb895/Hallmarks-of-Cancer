@@ -1,0 +1,13 @@
+The effects of dose per fraction on the ability of amifostine exposure to elevate angiostatin levels in the serum of mice and to inhibit spontaneous metastases formation using the well-characterized murine Sa-NH sarcoma were investigated .
+Amifostine was administered intraperitoneally at doses of 50 , 100 , or 200 mg/kg every other day for 6 days to C3Hf/Kam mice until tumors reached an average size of 8 mm in diameter .
+Amifostine was again administered immediately following surgical removal of the tumor-bearing limbs by amputation , and then once more 2 days later .
+Nontumor-bearing control animals were treated using the same dosing and surgery schedules .
+The average number of pulmonary metastases per animal was determined for each experimental group .
+A significant reduction ( P <.05 ) in the average number of pulmonary metastases was observed only in the group of animals exposed to a dose per fraction of 50 mg/kg .
+A dose of 100 mg/kg was less effective while 200 mg/kg had no effect on metastases formation in this study .
+The effects of amifostine exposure on serum levels of the angiogenesis inhibitor angiostatin were also determined using Western analysis .
+Correlating with the antimetastatic effect measured , exposure of animals to 50 mg/kg of amifostine resulted in a four-fold enhanced serum level of angiostatin above control levels .
+This phenomenon occurred in both tumor-bearing as well as nontumor-bearing animals .
+In contrast , a dose of 200-mg/kg amifostine administered intraperitoneally under these conditions had no measurable effect on angiostatin serum levels in this animal system .
+The enhanced ability of relatively low doses of amifostine to inhibit spontaneous metastases formation suggests that effective antimetastatic therapies with amifostine can be designed with minimal toxic side effects .
+While the dose responses for angiostatin production and metastases inhibition by amifostine are well correlated , the precise mechanism of action underlying these phenomena is unclear but is suggestive of a redox driven process(es) .

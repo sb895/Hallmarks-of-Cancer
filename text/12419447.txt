@@ -1,0 +1,15 @@
+PURPOSE To investigate treatment of human pancreatic cancer cell lines and xenografts with combinations of Erbitux ( IMC-C225 ) anti-epidermal growth factor receptor ( EGFR ) antibody , gemcitabine , and radiation .
+METHODS AND MATERIALS BxPC-3 and MiaPaCa-2 human pancreatic carcinoma cells were treated in vitro for 24 h with IMC-C225 ( 5 microg/mL ) , then exposed to epidermal growth factor ( EGF ) ( 10 mM ) for 5 min .
+Immunoblots were screened for EGFR expression and the ability of IMC-C225 to block EGF-induced tyrosine phosphorylation of EGFR .
+Cells were treated with IMC-C225 ( 5 microg/mL ) on Day 0 , the IC(50) dose of gemcitabine on Day 1 for 24 h , followed by 3 Gy 60Co irradiation on Day 2 , or the combination of each agent .
+For cell proliferation , cells were counted on Day 4 , and for apoptosis , cells were stained with annexin V-FITC and propidium iodide , then analyzed by FACS .
+Cells were treated with the same single or multiple treatments and analyzed in a clonogenic cell survival assay .
+The effect of IMC-C225 , gemcitabine , and radiation on the growth of BxPC-3 and MiaPaCa-2 tumor xenografts was determined .
+Athymic nude mice bearing established s.c. tumor xenografts of 6-8 mm diameter received 6 weeks of treatment with IMC-C225 ( 1 mg every 3 days x 6 ) alone or in combination with gemcitabine ( 120 mg/kg i.v. every 6 days x 6 ) , and 6 weekly fractions of 3 Gy radiation on the days after gemcitabine administration .
+Tumor growth was measured with Vernier calipers .
+RESULTS BxPC-3 and MiaPaCa-2 cell lines expressed low levels of EGFR .
+IMC-C225 inhibited EGF-induced tyrosine phosphorylation of the EGF receptor on both cell lines .
+Treatment of cells with a combination of IMC-C225 + gemcitabine + radiation produced the highest induction of apoptosis and inhibition of proliferation in vitro .
+Combination treatment with IMC-C225 , gemcitabine , and radiation produced 100% complete regression of MiaPaCa-2 tumors for more than 250 days , and the greatest growth inhibition of BxPC-3 tumors compared to any single or dual treatments .
+CONCLUSIONS The IMC-C225 therapy in combination with gemcitabine chemotherapy and radiation therapy demonstrated statistically significantly greater efficacy over the single and double combination therapies .
+This form of multimodality treatment shows potential clinical application in the treatment of pancreatic cancer in humans .

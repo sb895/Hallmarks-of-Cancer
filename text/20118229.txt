@@ -1,0 +1,8 @@
+In response to DNA double strand breaks , the histone variant H2AX at the break site is phosphorylated at serine 139 by DNA damage sensor kinases such as ataxia telangiectasia-mutated , forming gamma-H2AX .
+This phosphorylation event is critical for sustained recruitment of other proteins to repair the break .
+After repair , restoration of the cell to a prestress state is associated with gamma-H2AX dephosphorylation and dissolution of gamma-H2AX-associated damage foci .
+The phosphatases PP2A and PP4 have previously been shown to dephosphorylate gamma-H2AX .
+Here , we demonstrate that the wild-type p53-induced phosphatase 1 ( WIP1 ) also dephosphorylates gamma-H2AX at serine 139 in vitro and in vivo .
+Overexpression of WIP1 reduces formation of gamma-H2AX foci in response to ionizing and ultraviolet radiation and blocks recruitment of MDC1 ( mediator of DNA damage checkpoint 1 ) and 53BP1 ( p53 binding protein 1 ) to DNA damage foci .
+Finally , these inhibitory effects of WIP1 on gamma-H2AX are accompanied by WIP1 suppression of DNA double strand break repair .
+Thus , WIP1 has a homeostatic role in reversing the effects of ataxia telangiectasia-mutated phosphorylation of H2AX .

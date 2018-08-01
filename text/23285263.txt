@@ -1,0 +1,12 @@
+Lung cancers express the cholinergic autocrine loop , which facilitates the progression of cancer cells .
+The antagonists of mAChRs have been demonstrated to depress the growth of small cell lung cancers ( SCLCs ) .
+In this study we intended to investigate the growth inhibitory effect of R2HBJJ , a novel muscarinic antagonist , on non-small cell lung cancer ( NSCLC ) cells and the possible mechanisms .
+The competitive binding assay revealed that R2HBJJ had a high affinity to M3 and M1 AChRs .
+R2HBJJ presented a strong anticholinergic activity on carbachol-induced contraction of guinea-pig trachea .
+R2HBJJ markedly suppressed the growth of NSCLC cells , such as H1299 , H460 and H157 .
+In H1299 cells , both R2HBJJ and its leading compound R2-PHC displayed significant anti-proliferative activity as M3 receptor antagonist darifenacin .
+Exogenous replenish of ACh could attenuate R2HBJJ-induced growth inhibition .
+Silencing M3 receptor or ChAT by specific-siRNAs resulted in a growth inhibition of 55.5% and 37.9% on H1299 cells 96 h post transfection , respectively .
+Further studies revealed that treatment with R2HBJJ arrested the cell cycle in G0/G1 by down-regulation of cyclin D1-CDK4/6-Rb .
+Therefore , the current study reveals that NSCLC cells express an autocrine and paracrine cholinergic system which stimulates the growth of NSCLC cells .
+R2HBJJ , as a novel mAChRs antagonist , can block the local cholinergic loop by antagonizing predominantly M3 receptors and inhibit NSCLC cell growth , which suggest that M3 receptor antagonist might be a potential chemotherapeutic regimen for NSCLC .

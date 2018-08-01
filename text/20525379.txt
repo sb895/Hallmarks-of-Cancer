@@ -1,0 +1,18 @@
+INTRODUCTION Anterior-gradient 2 ( AGR2 ) is an estrogen-responsive secreted protein .
+Its upregulation has been well documented in a number of cancers , particularly breast cancer , for which mixed data exist on the prognostic implications of AGR2 expression .
+Although emerging evidence indicates that AGR2 is associated with poor prognosis , its function and impact on cancer-relevant pathways have not been elucidated in breast cancer .
+METHODS To investigate the biologic role of AGR2 in breast cancer , AGR2 was transiently knocked down , by using siRNA , in T47 D and ZR-75-1 ( estrogen receptor-alpha ( ER)-positive ) and MDA-MB-231 and SK-BR-3 ( ER-negative ) human breast cancer cell lines .
+The impact of silencing AGR2 was evaluated in both anchorage-dependent and anchorage-independent growth ( soft agar , spheroid ) assays .
+Cell-cycle profiles in ER-positive cell lines were determined with BrdU incorporation , and cell death was measured with Annexin V , JC-1 , and F7-26 staining .
+After transiently silencing AGR2 or stimulating with recombinant AGR2 , modulation of key regulators of growth and survival pathways was assessed with Western blot .
+Combination studies of AGR2 knockdown with the antiestrogens tamoxifen and fulvestrant were carried out and assessed at the level of anchorage-dependent growth inhibition and target modulation ( cyclin D1 , ER ) .
+RESULTS AGR2 knockdown inhibited growth in anchorage-dependent and anchorage-independent assays , with a more-pronounced effect in ER-positive cell lines .
+Cyclin D1 levels and BrdU incorporation were reduced with AGR2 knockdown .
+Conversely , cyclin D1 was induced with recombinant AGR2 .
+AGR2 knockdown induced cell death in ZR-75-1 and T47 D cells , and also downregulated survivin and c-Myc .
+Evidence of AGR2-ER crosstalk was demonstrated by a reduction of ER at the protein level after transiently silencing AGR2 .
+AGR2 knockdown in combination with fulvestrant or tamoxifen did not preclude the efficacy of the antiestrogens , but enhanced it .
+In addition , p-Src , implicated in tamoxifen resistance , was downregulated with AGR2 knockdown .
+CONCLUSIONS Transiently silencing AGR2 in ER-positive breast cancer cell lines inhibited cell growth and cell-cycle progression and induced cell death .
+Breast cancer drivers ( ER and cyclin D1 ) as well as cancer-signaling nodes ( pSrc , c-Myc , and survivin ) were demonstrated to be downstream of AGR2 .
+Collectively , the data presented support the utility of anti-AGR2 therapy in ER-positive breast cancers because of its impact on cancer-relevant pathways .

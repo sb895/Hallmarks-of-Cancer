@@ -1,0 +1,9 @@
+Binding of erythropoietin ( EPO ) to its receptor ( EPOR ) on erythroid cells induces the activation of numerous signal transduction pathways , including the mitogen-activated protein kinase Jun-N-terminal kinase ( JNK ) .
+In an effort to understand the regulation of EPO-induced proliferation and JNK activation , we have examined the role of potential autocrine factors in the proliferation of the murine erythroleukemia cell line HCD57 .
+We report here that treatment of these cells with EPO induced the expression and secretion of tumor necrosis factor alpha ( TNF-alpha ) .
+EPO-dependent proliferation was reduced by the addition of neutralizing antibodies to TNF-alpha , and exogenously added TNF-alpha induced proliferation of HCD57 cells .
+EPO also could induce TNF-alpha expression in BAF3 and DA3 myeloid cells ectopically expressing EPOR .
+Addition of TNF-alpha activated JNK in HCD57 cells , and the activity of JNK was partially inhibited by addition of a TNF-alpha neutralizing antibody .
+Primary human and murine erythroid progenitors expressed TNF-alpha in either an EPO-dependent or constitutive manner .
+However , TNF-alpha had an inhibitory effect on both immature primary human and murine cells , suggestive that the proliferative effects of TNF-alpha may be limited to erythroleukemic cells .
+This study suggests a novel role for autocrine TNF-alpha expression in the proliferation of erythroleukemia cells that is distinct from the effect of TNF-alpha in normal erythropoiesis .

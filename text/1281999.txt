@@ -1,0 +1,6 @@
+Vascular endothelial growth factor ( VEGF ) , also known as vascular permeability factor or vasculotropin , is a recently characterized endothelial-specific mitogen which is angiogenic in vivo .
+Here we demonstrate that VEGF is angiogenic in vitro : when added to microvascular endothelial cells grown on the surface of three-dimensional collagen gels , VEGF induces the cells to invade the underlying matrix and to form capillary-like tubules , with an optimal effect at approximately 2.2nM ( 100ng/ml ) .
+When compared to basic fibroblast growth factor ( bFGF ) at equimolar ( 0.5nM ) concentrations , VEGF was about half as potent .
+The most striking effect was seen in combination with bFGF : when added simultaneously , VEGF and bFGF induced an in vitro angiogenic response which was far greater than additive , and which occurred with greater rapidity than the response to either cytokine alone .
+These results demonstrate that like bFGF , VEGF induces an angiogenic response via a direct effect on endothelial cells , and that by acting in concert , these two cytokines have a potent synergistic effect on the induction of angiogenesis in vitro .
+We suggest that the synergism between VEGF and bFGF plays an important role in the control of angiogenesis in vivo .

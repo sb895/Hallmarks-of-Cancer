@@ -1,0 +1,11 @@
+AIMS Cisplatin-induced nephrotoxicity is associated with increased oxidative stress and inflammatory cytokines in the kidney .
+Epigallocatechin-3-gallate ( EGCG ) has anti-oxidant , anti-inflammatory , and anti-tumorigenic properties .
+In this study , we investigated the effects of EGCG on cisplatin-induced nephrotoxicity and potential mechanisms by which it enhances antioxidant activities and resolves inflammation after EGCG treatment during cisplatin-induced nephrotoxicity .
+MAIN METHODS Twenty-eight rats were divided into four groups as control ( group 1 ; no treatment ; n=7 ) , EGCG ( group 2 ; n=7 ) , cisplatin ( group 3 ; n=7 ) or cisplatin and EGCG ( group 4 ; n=7 ) .
+After 2 days of EGCG treatment at a dose of l00 mg/kg BW , rats were treated with a single i.p. injection of cisplatin ( 7 mg/kg BW ) .
+On day 12 ( 10days after the cisplatin treatment ) , all rats were sacrificed by cervical dislocation .
+The level of protein was examined by Western blotting .
+KEY FINDINGS Cisplatin caused a significant decrease in the expression nuclear levels of NF-E2-related factor-2 ( Nrf2 ) , heme oxygenase-1(HO-1) , and an increase in the levels of nuclear factor-kappa B ( NF-kappaB p65 ) and 4-hydroxynonenal ( HNE ) an oxidative stress marker .
+EGCG supplementation significantly improved the changes associated with cisplatin nephrotoxicity by increasing levels of Nrf-2 and HO-1 , and decreasing levels of NF-kappaB and HNE .
+Renal activities of antioxidant enzymes ( catalase , superoxide dismutase , glutathione peroxidase ) and glutathione were significantly lower in cisplatin-treated rats compared with control rats , and EGCG treatment significantly increased the activities of antioxidant enzymes and glutathione ( P<0.001 ) .
+SIGNIFICANCE The results suggest that Nrf2/HO-1 signaling pathway may be the primary target for prevention of cisplatin-induced nephrotoxicity by EGCG , and that reduces it inflammation by inhibiting NF-kappaB .

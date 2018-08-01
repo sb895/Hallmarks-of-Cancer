@@ -1,0 +1,8 @@
+Previous experiments have shown that emodin is highly active in suppressing the proliferation of several tumor cell lines .
+However , it is not clear that emodin can induce growth inhibition of hepatoma cells .
+We have found that emodin induces apoptotic responses in the human hepatocellular carcinoma cell lines ( HCC ) Mahlavu , PLC/PRF/5 and HepG2 .
+The addition of emodin to these three cell lines led to inhibition of growth in a time- and dose-dependent manner .
+Emodin generated reactive oxygen species ( ROS ) in these cells which brought about a reduction of the intracellular mitochondrial transmembrane potential ( DeltaPsim ) , followed by the activation of caspase-9 and caspase-3 , leading to DNA fragmentation and apoptosis .
+Our findings demonstrate that ROS and the resulting oxidative stress play a pivotal role in apoptosis .
+Preincubation of hepatoma cell lines with the hydrogen peroxide-scavenging enzyme , catalase ( CAT ) and cyclosporin A ( CsA ) , partially inhibited apoptosis .
+These results demonstrate that enhancement of generation of ROS , DeltaPsim disruption and caspase activation may be involved in the apoptotic pathway induced by emodin .

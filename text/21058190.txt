@@ -1,0 +1,9 @@
+Quercetin is a flavonoid with anticancer properties .
+In this study , we examined the effects of quercetin on cell cycle , viability , and proliferation of cancer cells , either singly or in combination with the microtubule-targeting drugs taxol and nocodazole .
+Although quercetin induced cell death in a dose-dependent manner , 12.5-50 μM quercetin inhibited the activity of both taxol and nocodazole to induce G2/M arrest in various cell lines .
+Quercetin also partially restored drug-induced loss in viability of treated cells for up to 72 h .
+This antagonism of microtubule-targeting drugs was accompanied by a delay in cell cycle progression and inhibition of the buildup of cyclin-B1 at the microtubule organizing center of treated cells .
+However , quercetin did not inhibit the microtubule targeting of taxol or nocodazole .
+Despite the short-term protection of cells by quercetin , colony formation and clonogenicity of HCT116 cells were still suppressed by quercetin or quercetin-taxol combination .
+The status of cell adherence to growth matrix was critical in determining the sensitivity of HCT116 cells to quercetin .
+We conclude that although long-term exposure of cancer cells to quercetin may prevent cell proliferation and survival , the interference of quercetin with cell cycle progression diminishes the efficacy of microtubule-targeting drugs to arrest cells at G2/M .

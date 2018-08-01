@@ -1,0 +1,14 @@
+Genotoxic stress induces cell cycle arrest and DNA repair which may enable tumor cells to survive radiation therapy .
+Here , we defined the role of Ca(2+) signaling in the cell cycle control and survival of chronic myeloid leukemia ( CML ) cells subjected to ionizing radiation ( IR ) .
+To this end , K562 erythroid leukemia cells were irradiated ( 0-10 Gy ) .
+Tumor survival was analyzed by clonogenic survival assay and cell cycle progression via flow cytometry .
+Plasma membrane cation conductance was assessed by patch-clamp whole-cell recording and the cytosolic free Ca(2+) concentration ( [ Ca(2+)](i) ) was measured by fura-2 Ca(2+) imaging .
+Nuclear activity of Ca(2+)/calmodulin-dependent kinase II ( CaMKII ) was defined by Western blotting .
+In addition , the effect of IR ( 5 Gy ) on the cation conductance of primary CML cells was determined .
+The results indicated that IR ( 10 Gy ) induced a G(2)/M cell cycle arrest of K562 cells within 24 h post-irradiation ( p.i. ) and decreased the clonogenic survival to 0.5 % of that of the control cells .
+In K562 cells , G(2)/M cell cycle arrest was preceded by activation of TRPV5/6-like nonselective cation channels in the plasma membrane 1-5 h p.i. , resulting in an elevated Ca(2+) entry as evident from fura-2 Ca(2+) imaging .
+Similarly , IR stimulated a Ca(2+)-permeable nonselective cation conductance in primary CML cells within 2-4 h p.i. .
+Ca(2+) entry , into K562 cells was paralleled by an IR-induced activation of nuclear CaMKII .
+The IR-stimulated accumulation in G(2) phase was delayed upon buffering [ Ca(2+)](i) with the Ca(2+) chelator BAPTA-AM or inhibiting CaMKII with KN93 ( 1 nM ) .
+In addition , KN93 decreased the clonogenic survival of irradiated cells but not of control cells .
+In conclusion , the data suggest that IR-stimulated cation channel activation , Ca(2+) entry and CaMKII activity participate in control of cell cycle progression and survival of irradiated CML cells .

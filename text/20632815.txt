@@ -1,0 +1,14 @@
+AIMS Currently , testing for mismatch repair deficiency in colorectal cancers is initiated by performing immunohistochemistry with four antibodies ( MLH1 , PMS2 , MSH2 and MSH6 ) .
+If any one of these stains is negative the tumour is considered microsatellite unstable and , if clinical circumstances warrant it , the patient is offered genetic testing for Lynch's syndrome .
+Due to the binding properties of the mismatch repair heterodimer complexes , gene mutation and loss of MLH1 and MSH2 invariably result in the degradation of PMS2 and MSH6 , respectively , but the converse is not true .
+We propose that staining for PMS2 and MSH6 alone will be sufficient to detect all cases of mismatch repair deficiency and should replace routine screening with all four antibodies .
+METHODS The electronic database of the department of Anatomical Pathology , Royal North Shore Hospital , Sydney , Australia , was searched for all colorectal carcinomas on which a four panel immunohistochemical microsatellite instability screen was performed .
+An audit of the slides for concordant loss of MLH1-PMS2 and MSH2-MSH6 was then undertaken .
+Unusual or discordant cases were reviewed and , in some cases , re-stained to confirm the staining pattern .
+RESULTS Of 344 cases of colorectal cancer which underwent four antibody immunohistochemistry , 104 displayed loss of at least one mismatch repair protein .
+Of these , 100 showed concordant mismatch repair loss ( i.e. , loss of MLH1 and PMS2 or loss of MSH2 and MSH6 ) .
+The four discordant cases comprised two single negative cases ( 1 MSH6 negative/MSH2 positive case , 1 PMS2 negative/MLH1 positive ) and two triple negative ( both MLH1/PMS2/MSH6 negative ) .
+The microsatellite instability ( MSI ) group showed a relatively high median age ( 69.3 years ) due to the departmental policy of testing all cases with possible MSI morphology regardless of age .
+CONCLUSIONS The sensitivity and specificity of a two panel test comprised of PMS2 and MSH6 , compared to a four panel test , is 100% .
+No false negatives or positives were identified .
+We conclude that the two panel test should replace a four panel protocol for immunohistochemical screening for mismatch repair deficiency .

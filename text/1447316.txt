@@ -1,0 +1,7 @@
+Gamma-radiation , tetrandrine , bistratene A , and cisplatin were all found to induce pronounced morphological changes characteristic of apoptosis and extensive DNA fragmentation in the human BM13674 cell line 8 h after treatment .
+Apoptosis induced in BM13674 cells by these diverse agents was markedly inhibited by 1 microM okadaic acid , a tumour promoter that inhibits protein phosphatases 1 and 2A .
+This compound also inhibited the appearance of apoptosis in fresh human leukaemia cells that had been exposed to gamma-radiation .
+The inhibition of apoptosis was confirmed using fluorescence microscopy and DNA gel electrophoresis .
+Dephosphorylation of a limited number of proteins was shown to be associated with apoptosis and okadaic acid prevented these dephosphorylations .
+Previous studies on the BM13674 cell line showed that an inhibitor of protein synthesis failed to prevent apoptosis in these cells .
+The present data provides further support that posttranslational modification of proteins , in particular , phosphorylation/dephosphorylation status , plays an important role in inhibition/activation of programmed cell death in different human cells after exposure to several cytotoxic agents .

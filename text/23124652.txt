@@ -1,0 +1,11 @@
+Hepatocellular carcinoma ( HCC ) is one of the most common malignancies worldwide ; however , the prognosis of HCC patients remains poor .
+This poor prognosis is mainly attributed to the high rate of intrahepatic and distant metastasis .
+HCC often occurs in a hypoxic environment and hypoxia can activate metastatic programs , ultimately leading to tumor recurrence or metastasis .
+Thus , the discovery and subsequent development of novel agents to block HCC invasion and migration are the primary objectives of hepatic cancer research .
+The Notch1 signaling pathway might be involved in hypoxia-induced carcinoma metastasis .
+However , the mechanisms by which Notch1 mediates cell metastasis , particularly in hepatocellular carcinoma , are not yet entirely clear .
+The results of the present study show that hypoxia increases the invasion and migration capacities of different HCC cells .
+Activation of the Notch1 signaling pathway contributes to hypoxia-induced invasion and migration in HCC cells .
+The activated Notch1 signaling pathway can regulate Snail/E-cadherin through cyclooxygenase-2 ( COX-2 ) under hypoxic conditions .
+The above results suggest that the Notch1/COX-2/Snail/E-cadherin pathway is possibly associated with hypoxia-induced invasion and migration in HCC cells .
+Thus , targeting Notch1 may be useful for devising novel preventive and therapeutic strategies for HCC .

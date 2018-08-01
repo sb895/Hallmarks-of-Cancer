@@ -1,0 +1,11 @@
+BACKGROUND Coronins are a family of highly evolutionary conserved proteins reportedly involved in the regulation of actin cytoskeletal dynamics , although only coronin 3 has been shown to be related to cancer cell migration .
+In glioblastoma cells , the knockdown of coronin 3 inhibits cell proliferation and invasion .
+Coronin 3 is also associated with the aggression and metastasis of hepatocellular carcinoma .
+In this paper , we analyze the migration , invasion and metastasis abilities of gastric cancer cells after up- or down-regulation of coronin 3 , and explore the mechanism of coronin 3 in the process of gastric cancer metastasis .
+RESULTS The expression of coronin 3 was higher in the highly metastatic sub-cell line MKN28-M , which we established in our laboratory .
+We also demonstrated that the expression of coronin 3 was remarkably higher in lymph lode metastases than in primary gastric cancer tissues , and over-expression of coronin 3 was correlated with the increased clinical stage and lymph lode metastasis .
+Recombinant lentiviral vectors encoding shRNAs were designed to down-regulate coronin 3 expression in gastric cancer cell lines .
+Stable knockdown of coronin 3 by this lentiviral vector could efficiently inhibit the migration and invasion of MKN45 gastric cancer cells .
+In contrast , up-regulation of coronin 3 significantly enhanced migration and invasion of MKN28-NM cells .
+In addition , knockdown of coronin 3 significantly reduced liver metastasis in mice after tail vein injection of gastric cancer cells .
+The Human Tumor Metastasis PCR Array was used to screen the metastasis-associated genes identified by the down-regulation of coronin 3 , and the results suggested that , following the knockdown of coronin 3 , the tumor cell migration and invasion were inhibited by the reduced expression of MMP-9 and cathepsin K. CONCLUSION Coronin 3 is highly expressed in gastric cancer metastases and can promote the metastatic behaviors of gastric cancer cells , including their migration and invasion .

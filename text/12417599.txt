@@ -1,0 +1,14 @@
+BACKGROUND A retrospective study was performed to determine the indications for positron emission tomography ( PET ) using [ (18)F]fluorodeoxyglucose ( FDG ) in patients with esophageal cancer , including those with early cancer , and to investigate whether the tumor-to-normal ratio ( T/N ratio ) could be used as a substitute for the standardized uptake value ( SUV ) .
+METHODS Thirty-six patients were included in the study .
+Thirty-one patients who had 36 biopsy-proven lesions ( 35 squamous cell carcinomas and one small cell carcinoma ) underwent PET study prior to treatment .
+PET images were evaluated visually and the relationship between the depth of invasion and the PET findings were examined in 22 lesions of 19 patients from whom specimens were obtained from the primary tumor by surgery or endoscopic mucosal resection .
+PET results were also compared with computed tomography ( CT ) and endoscopic ultrasonography ( EUS ) for detection of regional lymph node metastases in 18 patients who underwent extended lymph node dissection .
+Five patients underwent PET studies for the detection of recurrence and the PET findings were compared with their CT findings .
+The T/N ratio and the SUV were calculated for 20 primary tumors .
+RESULTS Among the 15 tumors that were pT1b or greater , all 15 were positive on PET and all seven of the lesions confined to the mucosa ( Tis or T1a ) were negative .
+The sensitivity , specificity and accuracy of detecting nodal involvement were , respectively , 37.5 , 96.1 and 88.3% by CT , 30.8 , 88.5 and 81.0% by EUS and 41.7 , 100 and 92.2% by PET .
+More sites of recurrence were detected by PET than by CT .
+There was no statistically significant correlation between the SUV and the T/N ratio .
+CONCLUSIONS PET imaging can detect primary esophageal cancer with a depth of invasion of T1b or greater , but Tis and T1a tumors are undetectable .
+PET seems to be more accurate than CT or EUS for diagnosing lymph node metastasis .
+The T/N ratio cannot be used as a substitute for the SUV .

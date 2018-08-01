@@ -1,0 +1,8 @@
+A growing number of studies have demonstrated an association between serum levels of insulin-like growth factors ( IGFs ) and IGF binding protein-3 ( IGFBP-3 ) and increased risk for various cancers .
+The aim of this study was to evaluate the relationship between levels of IGF-II or IGFBP-3 in cervical scrapes with cervical cancer and precancerous lesions : low-grade squamous intraepithelial lesion ( LSIL ) and high-grade squamous intraepithelial lesion ( HSIL). 4 groups of cases were examined : LSIL ( n=20 ) , HSIL ( n=28 ) , cervical cancer ( n=45 ) , and controls ( n=51 ) .
+Control subjects were women with normal , HPV DNA-negative Papanicolau ( Pap ) test .
+IGF-II and IGFBP-3 levels in cervical scrapes were measured by ELISA .
+Results show that median protein levels of IGF-II were significantly lower in cervical cancer cases vs. controls ( 446.5 ng/mg vs. 1,168.6 ng/mg , p<0.001 ) .
+Significantly higher values of IGFBP-3 were found in HSIL vs. controls ( median : 549.5 ng/mg vs. 216 ng/mg ; p=0.018 ) , and were not affected by HR HPV infection , meanwhile no significant differences were observed in IGFBP-3 levels between LSIL or cervical cancer as compared to controls .
+These data suggests that the progression to cervical cancer is associated with alterations in the IGF system and not affected by HR HPV infection .
+More studies are needed to understand the possible role of IGFBP-3 in cervical carcinogenesis .

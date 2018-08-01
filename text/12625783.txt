@@ -1,0 +1,8 @@
+The purpose of this study was to use the proteomics approach , which is based on high resolution two-dimensional electrophoresis coupled with multivariate correspondence analysis and mass spectrometry , to classify objectively the biochemical basis of the anti-cancer activity of the synthetic cyclin-dependent kinase inhibitor , bohemine ( BOH ) .
+The changes in the cell cycle and corresponding protein composition of the A549 human lung adenocarcinoma cell line after treatment with BOH were evaluated and proteins differentially expressed in the BOH treated A549 cells , compared to the untreated A549 counterparts , were selected .
+Thirteen of these candidate proteins associated with the drug effects in vitro were identified by mass spectrometry .
+Many of these proteins fall into one of three functional categories : i ) metabolic pathways ( glycolysis , nucleic acid synthesis and NADPH production ) , ii ) stress response and protein folding , and iii ) cytoskeleton and exocytosis .
+Changes in protein expression patterns corresponded to a higher resistance of A549 lung carcinoma cells to BOH when compared to the CEM leukaemia cell line .
+These protein changes reflect a fine balance of the resistant versus the susceptible phenotype in response to the drug .
+Since BOH is a selective cyclin-dependent kinase inhibitor , changes in the protein expression pattern can be more generally associated with cell cycle regulation as evidenced by inhibition of cell cycling in A549 cells .
+Our conclusions further underline the importance of cell cycle control in both the cellular signalling and metabolic pathways .

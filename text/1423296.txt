@@ -1,0 +1,9 @@
+To elucidate the mechanism of the synergistic cytotoxicity of 5-fluorouracil ( 5-FU ) and cis-diamminedichloroplatinum(II) ( CDDP ) , we studied the interaction of these agents using a human squamous carcinoma cell line ( HST-1 ) .
+Exposure to 5-FU for 24 h and to CDDP for 1 h produced a 50% inhibitory concentration of 1.0 micrograms/ml ( 7.7 microM ) and 2.5 micrograms/ml ( 8.3 microM ) , respectively .
+The cytotoxic action of CDDP was augmented , and a greater than additive effect was observed when the cells were exposed to 5-FU ( 1.0 micrograms/ml ; 7.7 microM ) for 24 h before the CDDP treatment .
+This synergistic activity was maximal when the interval between 5-FU and CDDP exceeded 24 h .
+In contrast , the cytotoxicity of CDDP was attenuated when it preceded the exposure to 5-FU .
+Thymidine did not alter the 5-FU-CDDP interaction .
+Evaluation of the kinetics of the removal of DNA interstrand cross-links , measured by alkaline elution , showed a significant reduction of this removal in the cells exposed to 5-FU followed by CDDP with a drug-free interval of 48 h , as compared with cells exposed to CDDP alone , or to 5-FU immediately followed by CDDP , although no differences were found in the formation of DNA interstrand cross-links by CDDP among these cells .
+No significant differences in the accumulation of intracellular platinum were detected by atomic absorption spectrophotometry .
+These findings suggest that 5-FU modulates the repair of platinum-DNA adducts , thereby potentiating the antitumor activity of CDDP .

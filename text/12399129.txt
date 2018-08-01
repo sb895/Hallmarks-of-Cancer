@@ -1,0 +1,9 @@
+Prognosis of patients with non small cell lung cancer ( NSCLC ) remains difficult to assess , even after adjustment for pathological stage .
+Prognostic value of numerous biological markers has been evaluated , with conflicting results .
+Data of 86 patients with NSCLC treated by surgery were collected with clinical characteristics , histopathological data including tumor differentiation and status of blood and lymphatic vessel invasion and evaluation by immunohistochemistry of Rb , Bcl-2 and Ki-67 expression .
+Prognostic values for overall survival ( OS ) and event-free survival ( EFS ) were analyzed by the log tank test and the multivariable Cox model .
+Using univariable analyses , pT , pN , poor differentiation or large cell subtype were associated with a poor OS , while lymphatic and/or blood vessel invasion were associated with a short EFS .
+None of the molecular markers had a significant prognostic value for either outcome .
+In multivariable analyses , only stage remained of prognostic value for OS .
+Interestingly , the presence of blood vascular invasion in the tumor was significantly predictive for subsequent metastatic occurrence in stages I and II .
+This feature might , therefore , be relevant for administration of adjuvant therapy in completely resected NSCLC .

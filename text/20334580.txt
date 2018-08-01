@@ -1,0 +1,8 @@
+Palmitoylation is required for the activities of several cancer-associated proteins , making the palmitoyl acyltransferase ( PAT ) enzymes that catalyze these reactions potential targets for anticancer therapeutics .
+In this study , we sought to identify and characterize a human PAT with activity toward N-terminally myristoylated and palmitoylated proteins .
+NIH/3t3 cells were stably transfected with vectors containing no insert , wild type human DHHC20 , or a serine-substituted DHHS20 mutant .
+Compared with control cells , cells overexpressing wild-type DHHC20 displayed an increase in palmitoylation activity toward a peptide that mimics the N-terminus of myristoylated and palmitoylated proteins , but had no change in activity toward a peptide that mimics the C-terminus of farnesylated and palmitoylated proteins .
+Cells expressing DHHS20 had no significant change in activity toward either peptide .
+Overexpression of DHHC20 also caused phenotypic changes consistent with cellular transformation , including colony formation in soft agar , decreased contact inhibition of growth , and increased proliferation under low-serum conditions .
+Quantitative polymerase chain reaction analyses of human tissues demonstrated that DHHC20 is expressed in a tissue-specific manner , and is overexpressed in several types of human tumors , including ovarian , breast and prostate .
+Overall , these results demonstrate that DHHC20 is a human N-terminal-myristoyl-directed PAT involved in cellular transformation , that may play a role in cancer .

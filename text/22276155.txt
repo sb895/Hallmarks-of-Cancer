@@ -1,0 +1,10 @@
+It is prevailingly thought that the antiestrogens tamoxifen and ICI 182 , 780 are competitive antagonists of the estrogen-binding site of the estrogen receptor-alpha ( ER-α ) .
+However , a plethora of evidence demonstrated both antiestrogens exhibit agonist activities in different systems such as activation of the membrane-initiated signaling pathways .
+The mechanisms by which antiestrogens mediate estrogen-like activities have not been fully established .
+Previously , a variant of ER-α , EP-α36 , has been cloned and showed to mediate membrane-initiated estrogen and antiestrogen signaling in cells only expressing ER-α36 .
+Here , we investigated the molecular mechanisms underlying the antiestrogen signaling in ER-negative breast cancer MDA-MB-231 and MDA-MB-436 cells that express high levels of endogenous ER-α36 .
+We found that the effects of both 4-hydoxytamoxifen ( 4-OHT ) and ICI 182 , 780 ( ICI ) exhibited a non-monotonic , or biphasic dose response curve ; antiestrogens at low concentrations , elicited a mitogenic signaling pathway to stimulate cell proliferation while at high concentrations , antiestrogens inhibited cell growth .
+Antiestrogens at l nM induced the phosphorylation of the Src-Y416 residue , an event to activate Src , while at 5 �M induced Src-Y527 phosphorylation that inactivates Src .
+Antiestrogens at 1 nM also induced phosphorylation of the MAPK/ERK and activated the Cyclin D1 promoter activity through the Src/EGFR/STAT5 pathways but not at 5 �M .
+Knock-down of ER-α36 abrogated the biphasic antiestrogen signaling in these cells .
+Our results thus indicated that ER-α36 mediates biphasic antiestrogen signaling in the ER-negative breast cancer cells and Src functions as a switch of antiestrogen signaling dependent on concentrations of antiestrogens through the EGFR/STAT5 pathway .

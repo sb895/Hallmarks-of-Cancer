@@ -1,0 +1,7 @@
+P53 activity plays a key role in mammalian cells when they undergo replicative senescence at their Hayflick limit .
+To determine whether p63 proteins , members of the family of p53-related genes , are also involved in this process , we examined their expression in serially passaged rat embryo fibroblasts .
+Upon senescence , two truncated DeltaNp63 proteins decreased in abundance whereas two TAp63 isoforms accumulated. 2-D gel analysis showed that the DeltaNp63 proteins underwent post-translational modifications in both proliferating and senescent cells .
+Direct binding of DeltaNp63 proteins to a p53 consensus motif was greater in proliferating cells than senescent cells .
+In contrast p63alpha isoforms bound to DNA in a p53 dependent manner and this was higher in senescent cells than proliferating cells .
+An interaction of p63alpha proteins with SV40 large tumour antigen was also detected and ectopic expression of DeltaNp63alpha can extend the lifespan of rat embryo fibroblasts .
+Taken together the results indicate that p63 proteins may play a role in replicative senescence either by competition for p53 DNA binding sites or by direct interaction with p53 protein bound to DNA .

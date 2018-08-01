@@ -1,0 +1,11 @@
+We previously found that cancer metastasis is accelerated by immunosuppression during Snail-induced epithelial-to-mesenchymal transition ( EMT ) .
+However , the molecular mechanism still remained unclear .
+Here , we demonstrate that CCL2 is a critical determinant for both tumor metastasis and immunosuppression induced by Snail(+) tumor cells .
+CCL2 is significantly upregulated in various human tumor cells accompanied by Snail expression induced by snail transduction or TGFβ treatment .
+The Snail(+) tumor-derived CCL2 amplifies EMT events in other cells including Snail(-) tumor cells and epithelial cells within tumor microenvironment .
+CCL2 secondarily induces Lipocalin 2 ( LCN2 ) in the Snail(+) tumor cells in an autocrine manner .
+CCL2 and LCN2 cooperatively generate immunoregulatory dendritic cells ( DCreg ) having suppressive activity accompanied by lowered expression of costimulatory molecules such as HLA-DR but increased expression of immunosuppressive molecules such as PD-L1 in human PBMCs .
+The CCL2/LCN2-induced DCreg cells subsequently induce immunosuppressive CD4(+)FOXP3(+) Treg cells , and finally impair tumor-specific CTL induction .
+In murine established tumor model , however , CCL2 blockade utilizing the specific siRNA or neutralizing mAb significantly inhibits Snail(+) tumor growth and metastasis following systemic induction of anti-tumor immune responses in host .
+These results suggest that CCL2 is more than a chemoattractant factor that is the significant effector molecule responsible for immune evasion of Snail(+) tumor cells .
+CCL2 would be an attractive target for treatment to eliminate cancer cells via amelioration of tumor metastasis and immunosuppression .

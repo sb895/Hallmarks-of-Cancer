@@ -1,0 +1,7 @@
+Widespread changes in gene expression drive tumorigenesis , yet our knowledge of how aberrant epigenomic and transcriptome profiles arise in cancer cells is poorly understood .
+Here , we demonstrate that metabolic transformation plays an important role .
+Butyrate is the primary energy source of normal colonocytes and is metabolized to acetyl-CoA , which was shown to be important not only for energetics but also for HAT activity .
+Due to the Warburg effect , cancerous colonocytes rely on glucose as their primary energy source , so butyrate accumulated and functioned as an HDAC inhibitor .
+Although both mechanisms increased histone acetylation , different target genes were upregulated .
+Consequently , butyrate stimulated the proliferation of normal colonocytes and cancerous colonocytes when the Warburg effect was prevented from occurring , whereas it inhibited the proliferation of cancerous colonocytes undergoing the Warburg effect .
+These findings link a common metabolite to epigenetic mechanisms that are differentially utilized by normal and cancerous cells because of their inherent metabolic differences .

@@ -1,0 +1,15 @@
+Sustained release of copper ( Cu ) ions from Cu-containing intrauterine devices ( CuIUD ) is quite efficient for contraception .
+However , the tissue surrounding the CuIUD is exposed to toxic Cu ion levels .
+The objective for this study was to quantify the concentration dependent cytotoxic effects of Cu ions and correlate the toxicity due to Cu ion burst release for two popular T-shaped IUDs - TCu380A and TCu220C on L929 mouse fibroblasts .
+Fibroblasts were cultured in 98 well tissue culture plates and 3-(4,5-dimethylthiazol- 2-yl)-2,5-diphehyltetrazolium bromide ( MTT ) assay was used to determine their viability and proliferation as a function of time .
+For cell seeding numbers ranging from 10,000 to 100,000 , a maximum culture time of 48 h was identified for fibroblasts without significant reduction in cell proliferation due to contact inhibition .
+Thus , for Cu cytotoxicity assays , a cell seeding density of 50,000 and a maximum culture time of 48 h in 96 well plates were used. 24 h after cell seeding , culture media were replaced with Cu ion containing media solutions of different concentrations , including 24 and 72 h extracts from TCuIUDs and incubated for a further 24 h .
+Cell viability decreased with increasing Cu ion concentration , with 30 % and 100 % reduction for 40 \u03bcg/ml and 100 \u03bcg/ml respectively at 24 h .
+The cytotoxic effects were further evaluated using light microscopy , apoptosis and cell cycle analysis assays .
+Fibroblasts became rounded and eventually detached from TCP surface due to Cu ion toxicity .
+A linear increase in apoptotic cell population with increasing Cu ion concentration was observed in the tested range of 0 to 50 \u03bcg/ml .
+Cell cycle analysis indicated the arrest of cell division for the tested 25 to 50 \u03bcg/ml Cu ion treatments .
+Among the TCuIUDs , TCu220C having 265 mm(2) Cu surface area released 9.08 ± 0.16 and 26.02 ± 0.25 \u03bcg/ml , while TCu380A having 400 mm(2) released 96.7 ± 0.11 and 159.3 ± 0.15 \u03bcg/ml respectively following 24 and 72 h extractions .
+The effects of TCuIUD extracts on viability , morphology , apoptosis and cell cycle assay on L929 mouse fibroblasts cells , were appropriate for their respective Cu ion concentrations .
+Thus , a concentration of about 46 \u03bcg/ml ( \u03bcM ) was identified as the LD50 dose for L929 mouse fibroblasts when exposed for 24 h based on our MTT cell viability assay .
+The burst release of lethal concentration of Cu ions from TCu380A , especially at the implant site , is a cause of concern , and it is advisable to use TCuIUD designs that release Cu ions within cytotoxic limits yet therapeutic , similar to TCu220C .

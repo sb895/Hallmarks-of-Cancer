@@ -1,0 +1,9 @@
+Acute endothelial cell apoptosis and microvascular compromise couple gastrointestinal tract irradiation to reproductive death of intestinal crypt stem cell clonogens ( SCCs ) following high-dose radiation .
+Genetic or pharmacologic inhibition of endothelial apoptosis prevents intestinal damage , but as the radiation dose is escalated , SCCs become directly susceptible to an alternate cell death mechanism , mediated via ceramide synthase ( CS)-stimulated de novo synthesis of the proapoptotic sphingolipid ceramide , and p53-independent apoptosis of crypt SCCs .
+We previously reported that ataxia-telangiectasia mutated deficiency resets the primary radiation lethal pathway , allowing CS-mediated apoptosis at the low-dose range of radiation .
+The mechanism for this event , termed target reordering , remains unknown .
+Here , we show that inactivation of DNA damage repair pathways signals CS-mediated apoptosis in crypt SCCs , presumably via persistent unrepaired DNA double-strand breaks ( DSBs ) .
+Genetic loss of function of sensors and transducers of DNA DSB repair confers the CS-mediated lethal pathway in intestines of sv129/B6Mre11(ATLD1/ATLD1) and C57BL/6(Prkdc/SCID) ( severe combined immunodeficient ) mice exposed to low-dose radiation .
+In contrast , CS-mediated SCC lethality was mitigated in irradiated gain-of-function Rad50(s/s) mice , and epistasis studies order Rad50 upstream of Mre11 .
+These studies suggest unrepaired DNA DSBs as causative in target reordering in intestinal SCCs .
+As such , we provide an in vivo model of DNA damage repair that is standardized , can be exploited to understand allele-specific regulation in intact tissue , and is pharmacologically tractable .

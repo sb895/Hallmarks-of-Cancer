@@ -1,0 +1,7 @@
+Overexpression of the melanoma differentiation associated gene-7 ( MDA-7)/IL-24 in vitro generally results in the growth suppression and induction of apoptosis of diverse human tumor cells .
+In this study , we investigated the effects of overexpression of the MDA-7/IL-24 gene in human hepatocellular carcinoma ( HCC ) cells in vitro and in vivo .
+Adenovirus-mediated overexpression of MDA-7 facilitated the MDA-7/IL-24-induced apoptosis and G2/M arrest in HCC cells , but not in the normal liver cell line L02 , and the effect was independent of the p53 status .
+Inhibition of metastasis and angiogenesis was correlated with decreasing expression of STAT3 , P-STAT3 , MMP-2 , VEGF , and TGF-beta genes , regulated by STAT3 in MHCCLM6 cells .
+We also showed that Ad.mda-7 combined with doxorubicin ( ADM ) had significantly enhanced antitumor and antimetastatic effects in vivo , accompanied by the downregulation of VEGF , MMP-2 , and TGF-beta genes and the upregulation of E-cadherin genes .
+These data suggested that MDA-7/IL-24 induces its selective antitumor properties in HCC cells by promoting apoptosis independent of p53 status , inhibiting subcutaneous tumor growth and metastasis , and increasing the effect of chemotherapeutic agents .
+MDA-7/IL-24 represents a new class of cancer suppressor genes that may be useful in the targeted therapy of HCC .

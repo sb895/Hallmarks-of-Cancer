@@ -1,0 +1,7 @@
+The radioprotective effects of dimethyl sulfoxide ( DMSO ) have been known for many years , and the suppression of hydroxyl ( OH ) radicals induced by ionizing radiation has been thought to be the main cause of this effect .
+However , the DMSO concentration used was very high , and might be toxic , in earlier studies .
+In the present study , we administered a lower , non-toxic concentration ( 0.5% , i.e. , 64 mM ) of DMSO before irradiation and examined its radioprotective effects .
+Colony formation assay and micronucleus assay showed significant radioprotective effects in CHO , but not in xrs5 , which is defective in the repair function of DNA double-strand breaks .
+The levels of phosphorylated H2AX and the formation of 53BP1 foci 15 minutes after irradiation , which might reflect initial DNA double-strand breaks , in DMSO-treated CHO cells were similar to those in non-treated cells , suggesting that the radioprotective effects were not attributable to the suppression of general indirect action in the lower concentration of DMSO .
+On the other hand , 2 hours after irradiation , the average number of 53BP1 foci , which might reflect residual DNA double-strand breaks , was significantly decreased in DMSO-treated CHO cells compared to non-treated cells .
+The results indicated that low concentration of DMSO exerts radioprotective effects through the facilitation of DNA double-strand break repair rather than through the suppression of indirect action .

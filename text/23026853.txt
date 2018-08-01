@@ -1,0 +1,8 @@
+Tumor cells trigger angiogenesis through overexpression of various angiogenic factors including vascular endothelial growth factor ( VEGF ) and angiopoietin 1 ( Ang1 ) .
+Therefore , inhibition of the expression of both VEGF and Ang1 , the initial step of tumor angiogenesis , is a promising strategy for cancer chemoprevention and therapy .
+Grape seed proanthocyanidins ( GSPs ) are widely consumed dietary supplements that have antitumor activity .
+Due to their polymeric structure , GSPs are poorly absorbed along the gastrointestinal tract and can reach the colon at high concentrations , allowing these chemicals to act as chemopreventive agents for colon cancer .
+In the present study , we found that GSPs inhibited colon tumor-induced angiogenesis and , thus , the growth of colon tumor xenografts on the chick chorioallantoic membranes .
+The mechanisms of their action were related to inhibiting the expression of both VEGF and Ang1 through scavenging reactive oxygen species .
+Previous studies have demonstrated that the chemopreventive effects of GSPs on colon cancer are associated with their growth inhibitory and apoptosis-inducing effects .
+Our results demonstrate another mechanism by which GSPs inhibit colon tumor growth , which will be helpful for developing GSPs as a pharmacologically safe angiopreventive agent against colorectal cancer .

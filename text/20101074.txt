@@ -1,0 +1,8 @@
+Recently , the use of gold nanoparticles as potential tumor selective radiosensitizers has been proposed as a breakthrough in radiotherapy .
+Experiments in living cells and in vivo have demonstrated the efficiency of the metal nanoparticles when combined with low energy x-ray radiations ( below conventional 1 MeV Linac radiation ) .
+Further studies on DNA have been performed in order to better understand the fundamental processes of sensitization and to further improve the method .
+In this work , we propose a new strategy based on the combination of platinum nanoparticles with irradiation by fast ions effectively used in hadron therapy .
+It is observed in particular that nanoparticles enhance strongly lethal damage in DNA , with an efficiency factor close to 2 for double strand breaks .
+In order to disentangle the effect of the nano-design architecture , a comparison with the effects of dispersed metal atoms at the same concentration has been performed .
+It is thus shown that the sensitization in nanoparticles is enhanced due to auto-amplified electronic cascades inside the nanoparticles , which reinforces the energy deposition in the close vicinity of the metal .
+Finally , the combination of fast ion radiation ( hadron therapy ) with platinum nanoparticles should strongly improve cancer therapy protocols .

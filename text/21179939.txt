@@ -1,0 +1,8 @@
+Carbon nanotubes have a wide range of applications in various industries and their use is likely to rise in the future .
+Currently , a major concern is that with the increasing use and production of these materials , there may be increased health risks to exposed workers .
+Long ( > 15 microm ) straight nanotubes may undergo frustrated phagocytosis which is likely to result in reduced clearance .
+We examine here the effects of multiwalled carbon nanotubes of different sizes on monocytic THP-1 cells , with regard to their ability to stimulate increased expression of the HO-1 and GST genes and their ability to produce nuclear translocation of the transcription factor , Nrf2 , as well as the release of several pro-inflammatory cytokines and mediators of inflammation .
+Our results suggest that long ( 50 microm ) carbon nanotubes ( 62.5 microg/ml for 4 hours ) produce increased nuclear translocation of Nrf2 and increased HO-1 gene expression compared with shorter entangled nanotubes .
+There was no increased gene expression for GST .
+The long nanotubes ( NT1 ) caused increased release of the proinflammatory cytokine IL-1beta , an effect which was diminished by the antioxidant trolox , suggesting a role of oxidative stress in the upregulation of this cytokine .
+Tentatively , our study suggests that long carbon nanotubes may exert their effect in THP-1 cells in part via an oxidative stress mechanism .

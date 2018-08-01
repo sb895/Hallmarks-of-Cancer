@@ -1,0 +1,6 @@
+Dendritic cells ( DCs ) are key regulators of innate and acquired immunity .
+The maturation of DCs is directed by signal transduction events downstream of toll-like receptors ( TLRs ) and other pattern recognition receptors .
+Here , we demonstrate that , in mouse DCs , TLR agonists stimulate a profound metabolic transition to aerobic glycolysis , similar to the Warburg metabolism displayed by cancer cells .
+This metabolic switch depends on the phosphatidyl inositol 3'-kinase/Akt pathway , is antagonized by the adenosine monophosphate ( AMP)-activated protein kinase ( AMPK ) , and is required for DC maturation .
+The metabolic switch induced by DC activation is antagonized by the antiinflammatory cytokine interleukin-10 .
+Our data pinpoint TLR-mediated metabolic conversion as essential for DC maturation and function and reveal it as a potential target for intervention in the control of excessive inflammation and inappropriately regulated immune responses .

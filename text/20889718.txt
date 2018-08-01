@@ -1,0 +1,7 @@
+Estrogen receptor α ( ERα ) expression in breast cancer is predictive of response to endocrine therapy ; however , resistance is common in ERα-positive tumors that overexpress the growth factor receptor ERBB2 .
+Even in the absence of estrogen , ERα can be activated by growth factors , including the epidermal growth factor ( EGF ) .
+EGF induces a transcriptional program distinct from estrogen ; however , the mechanism of the stimulus-specific response is unknown .
+Here we show that the EGF-induced ERα genomic targets , its cistromes , are distinct from those induced by estrogen in a process dependent on the transcription factor AP-1 .
+The EGF-induced ERα cistrome specifically regulates genes found overexpressed in ERBB2-positive human breast cancers .
+This provides a potential molecular explanation for the endocrine therapy resistance seen in ERα-positive breast cancers that overexpress ERBB2 .
+These results suggest a central role for ERα in hormone-refractory breast tumors dependent on growth factor pathway activation and favors the development of therapeutic strategies completely antagonizing ERα , as opposed to blocking its estrogen responsiveness alone .

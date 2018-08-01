@@ -1,0 +1,16 @@
+PURPOSE We recently reported that overexpression of epidermal growth factor receptor ( EGFR ) positively correlated with radioresistance of murine carcinomas .
+Because cyclin D1 is a downstream sensor of EGFR activation , the present study investigated whether a relationship exists between the extent of cyclin D1 expression and in vivo radiocurability of murine tumors .
+We further investigated the influence of radiation on cyclin D1 expression and the expression of p27 , an inhibitor of the cyclin D1 downstream pathway , as well as the relationship of these molecular determinants to cell proliferation and induced apoptosis in tumors exposed to radiation .
+METHODS AND MATERIALS Cyclin D1 expression was assayed in nine carcinomas syngeneic to C3Hf/Kam mice using Western blot analysis .
+These tumors greatly differed in their radioresponse as assessed by TCD(50) .
+The expression of cyclin D1 and p27 proteins was determined by Western blotting .
+Cell proliferative activity in tumors was determined by proliferating cell nuclear antigen ( PCNA ) immunochemistry .
+The effect of irradiation on the expression of cyclin D1 or p27 proteins and on PCNA positivity was determined in the radiosensitive OCa-I and in the radioresistant SCC-VII tumors .
+RESULTS Cyclin D1 expression varied among tumors by 40-fold , and its magnitude positively correlated with poorer tumor radioresponse ( higher TCD(50) values ) .
+The level of cyclin D1 expression paralleled that of EGFR .
+A 15-Gy dose reduced constitutive expression of cyclin D1 in the radiosensitive OCa-I tumors , but had no influence on expression of cyclin D1 in the radioresistant SCC-VII tumors .
+In contrast , 15 Gy increased the expression of p27 in radiosensitive tumors and reduced it in radioresistant tumors .
+Radiation induced no significant apoptosis or change in the percentage of PCNA-positive ( proliferating ) cells in SCC-VII tumors with high cyclin D1 levels , but it induced significant apoptosis and a decrease in the percentage of proliferating cells in OCa-I tumors with low cyclin D1 expression .
+CONCLUSION Our findings show a positive correlation between cyclin D1 expression and tumor radioresistance .
+The expression of cyclin D1 and p27 was modified by radiation and was associated with cellular response to radiation , but this depended on the pretreatment level of cyclin D1 expression .
+These findings may have important clinical implications : The pretreatment assessment of cyclin D1 expression could serve as a useful predictor of radiotherapy outcome and assist in selecting an effective treatment modality .

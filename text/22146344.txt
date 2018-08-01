@@ -1,0 +1,5 @@
+Previous studies have demonstrated that mesenchymal stromal cells ( MSCs ) enhance cell survival through upregulation and secretion of stanniocalcin-1 ( STC1 ) .
+This study shows that MSC-derived STC1 promotes survival of lung cancer cells by uncoupling oxidative phosphorylation , reducing intracellular reactive oxygen species ( ROS ) , and shifting metabolism towards a more glycolytic metabolic profile .
+MSC-derived STC1 upregulated uncoupling protein 2 ( UCP2 ) in injured A549 cells in an STC1-dependent manner .
+Knockdown of UCP2 reduced the ability of MSCs and recombinant STC1 ( rSTC1 ) to reduce cell death in the A549 population. rSTC1-treated A549 cells displayed decreased levels of ROS , mitochondrial membrane potential ( MMP ) , and increased lactate production , all of which were dependent on the upregulation of UCP2 .
+Our data suggest that MSCs can promote cell survival by regulating mitochondrial respiration via STC1 .

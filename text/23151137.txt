@@ -1,0 +1,10 @@
+The ubiquitin-proteasome system ( UPS ) promotes the timely degradation of short-lived proteins with key regulatory roles in a vast array of biological processes , such as cell cycle progression , oncogenesis and genome integrity .
+Thus , abnormal regulation of UPS disrupts the protein homeostasis and causes many human diseases , particularly cancer .
+Indeed , the FDA approval of bortezomib , the first class of general proteasome inhibitor , for the treatment of multiple myeloma , demonstrated that the UPS can be an attractive anti-cancer target .
+However , normal cell toxicity associated with bortezomib , resulting from global inhibition of protein degradation , promotes the focus of drug discovery efforts on targeting enzymes upstream of the proteasome for better specificity .
+E3 ubiquitin ligases , particularly those known to be activated in human cancer , become an attractive choice .
+Cullin-RING Ligases ( CRLs ) with multiple components are the largest family of E3 ubiquitin ligases and are responsible for ubiquitination of of cellular proteins degraded through UPS .
+Activity of CRLs is dynamically regulated and requires the RING component and cullin neddylation .
+In this review , we will introduce the UPS and CRL E3s and discuss the biological processes regulated by each of eight CRLs through substrate degradation .
+We will further discuss how cullin neddylation controls CRL activity , and how CRLs are being validated as the attractive cancer targets by abrogating the RING component through genetic means and by inhibiting cullin neddylation via MLN4924 , a small molecule indirect inhibitor of CRLs , currently in several Phase I clinical trials .
+Finally , we will discuss current efforts and future perspectives on the development of additional inhibitors of CRLs by targeting E2 and/or E3 of cullin neddylation and CRL-mediated ubiquitination as potential anti-cancer agents .

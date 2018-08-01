@@ -1,0 +1,10 @@
+BACKGROUND Barrett's esophagus ( BE ) is caused by gastroesophageal reflux with consecutive mucosal inflammation , predisposing patients to the development of esophageal adenocarcinoma ( EAC ) .
+We investigated changes in T cell-related mucosal combinatorial molecular protein patterns in both diseases using the novel Multi-Epitope-Ligand-Cartography , a unique robotic whole-cell imaging technology that simultaneously visualizes dozens of proteins in structurally intact tissues and correlates cellular localization of proteins with function .
+RESULTS Biopsies were taken during endoscopy from BE , EAC , and normal control tissue , and proteomic microscopy was performed on 32 different epitopes .
+When the significance level was set to p < 0.0005 and the search depth to five antibody combinations , controls and BE can be differentiated by 63 , controls and EAC by 3222 , and BE from EAC by 1521 distinct protein combinations.For example , the number of activated apoptotic naïve and memory T cells was significantly increased only in BE , whereas the number of activated apoptotic helper and regulatory T cells was significantly elevated in BE and EAC .
+In contrast , the number of activated apoptotic cytotoxic T cells was significantly elevated only in EAC .
+Confirming different pathways in BE and EAC , the number of T lymphocytes with p53 expression and downregulation of bcl2 expression ( CD3+p53+Bcl2-NfkB- ) was significantly increased in EAC compared to BE and controls .
+Interestingly , the number of precursor T cells ( CD7+ ) was significantly elevated only in EAC .
+These cells lack Bax and caspase-8 , suggesting impaired apoptosis in the early stages of T cell differentiation .
+CONCLUSION Proteomic analysis showed for the first time that proteins , which are critically involved in the mucosal immune system of the esophagus , are distinctly expressed in BE and EAC , whereas others are comparably altered in both diseases , suggesting that many pathogenic events might be shared by both diseases .
+Topological proteomic analysis , therefore , helps us to understand the different pathogenic events in the underlying disease pathways .

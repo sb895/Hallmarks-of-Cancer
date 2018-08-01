@@ -1,0 +1,9 @@
+Pseudolaric acid B ( PLAB ) is one of the major bioactive components of Pseudolarix kaempferi .
+It has been reported to exhibit inhibitory effect on cell proliferation in several types of cancer cells .
+However , there is no report elucidating its effect on glioma cells and organ toxicity in vivo .
+In the present study , we found that PLAB inhibited growth of U87 glioblastoma cells in a dose-dependent manner with IC(50) Flow cytometry analysis showed that apoptotic cell death mediated by PLAB was accompanied with cell cycle arrest at G2/M phase .
+Using Western blot , we found that PLAB induced G2/M phase arrest by inhibiting tubulin polymerization in U87 cells .
+Apoptotic cell death was only partially inhibited by pancaspase inhibitor , z-VAD-fmk , which suggested that PLAB-induced apoptosis in U87 cells is partially caspase-independent .
+Further mechanistic study demonstrated that PLAB induced caspase-dependent apoptosis via upregulation of p53 , increased level of proapoptotic protein Bax , decreased level of antiapoptotic protein Bcl-2 , release of cytochrome c from mitochondria , activation of caspase-3 and proteolytic cleavage of poly ( ADP-ribose ) polymerase ( PARP ) and caspase-independent apoptosis through apoptosis inducing factor ( AIF ) .
+Furthermore , in vivo toxicity study demonstrated that PLAB did not induce significant structural and biochemical changes in mouse liver and kidneys at a dose of 25 mg/kg .
+Therefore , PLAB may become a potential lead compound for future development of antiglioma therapy .

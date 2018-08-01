@@ -1,0 +1,7 @@
+MDSCs and Tregs play an essential role in the immunosuppressive networks that contribute to tumor-immune evasion .
+The mechanisms by which tumors promote the expansion and/or function of these suppressive cells and the cross-talk between MDSC and Treg remain incompletely defined .
+Previous reports have suggested that MDSC may contribute to Treg induction in cancer .
+Herein , we provide evidence that tumor-induced gr-MDSCs , endowed with the potential of suppressing conventional T Lc , surprisingly impair TGF-β1-mediated generation of CD4(+)CD25(+)FoxP3(+) iTregs .
+Furthermore , gr-MDSCs impede the proliferation of nTregs without , however , affecting FoxP3 expression .
+Suppression of iTreg differentiation from na�ve CD4(+) cells by gr-MDSC occurs early in the polarization process , requires inhibition of early T cell activation , and depends on ROS and IDO but does not require arginase 1 , iNOS , NO , cystine/cysteine depletion , PD-1 and PD-L1 signaling , or COX-2 .
+These findings thus indicate that gr-MDSCs from TB hosts have the unanticipated ability to restrict immunosuppressive Tregs .

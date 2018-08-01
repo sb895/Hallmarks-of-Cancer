@@ -1,0 +1,13 @@
+BACKGROUND The cis-acting promoter element responsible for epigenetic silencing of retinoic acid receptor responder 1 ( RARRES1 ) by methylation is unclear .
+Likewise , how aberrant methylation interplays effectors and thus affects breast neoplastic features remains largely unknown .
+METHODOLOGY/PRINCIPAL FINDINGS We first compared methylation occurring at the sequences ( -664 flanking the RARRES1 promoter in primary breast carcinomas to that in adjacent benign tissues .
+Surprisingly , tumor cores displayed significantly elevated methylation occurring solely at the upstream region ( -664 while the downstream element ( -85 proximal to the transcriptional start site ( +1 ) remained largely unchanged .
+Yet , hypermethylation at the former did not result in appreciable silencing effect .
+In contrast , the proximal sequence displayed full promoter activity and methylation of which remarkably silenced RARRES1 transcription .
+This phenomenon was recapitulated in breast cancer cell lines , in which methylation at the proximal region strikingly coincided with downregulation .
+We also discovered that CTCF occupancy was enriched at the unmethylayed promoter bound with transcription-active histone markings .
+Furthermore , knocking-down CTCF expression hampered RARRES1 expression , suggesting CTCF positively regulated RARRES1 transcription presumably by binding to unmethylated promoter poised at transcription-ready state .
+Moreover , RARRES1 restoration not only impeded cell invasion but also promoted death induced by chemotherapeutic agents , denoting its tumor suppressive effect .
+Its role of attenuating invasion agreed with data generated from clinical specimens revealing that RARRES1 was generally downregulated in metastatic lymph nodes compared to the tumor cores .
+CONCLUSION/SIGNIFICANCE This report delineated silencing of RARRES1 by hypermethylation is occurring at a proximal promoter element and is associated with a loss of binding to CTCF , an activator for RARRES1 expression .
+We also revealed the tumor suppressive roles exerted by RARRES1 in part by promoting breast epithelial cell death and by impeding cell invasion that is an important property for metastatic spread .

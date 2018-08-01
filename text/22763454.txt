@@ -1,0 +1,7 @@
+Circulating tumour cells ( CTCs ) shed into blood from primary cancers include putative precursors that initiate distal metastases .
+Although these cells are extraordinarily rare , they may identify cellular pathways contributing to the blood-borne dissemination of cancer .
+Here , we adapted a microfluidic device for efficient capture of CTCs from an endogenous mouse pancreatic cancer model and subjected CTCs to single-molecule RNA sequencing , identifying Wnt2 as a candidate gene enriched in CTCs .
+Expression of WNT2 in pancreatic cancer cells suppresses anoikis , enhances anchorage-independent sphere formation , and increases metastatic propensity in vivo .
+This effect is correlated with fibronectin upregulation and suppressed by inhibition of MAP3K7 ( also known as TAK1 ) kinase .
+In humans , formation of non-adherent tumour spheres by pancreatic cancer cells is associated with upregulation of multiple WNT genes , and pancreatic CTCs revealed enrichment for WNT signalling in 5 out of 11 cases .
+Thus , molecular analysis of CTCs may identify candidate therapeutic targets to prevent the distal spread of cancer .

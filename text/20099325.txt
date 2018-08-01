@@ -1,0 +1,7 @@
+The purpose of this study was to combine a three-dimensional NMR-compatible bioreactor with hyperpolarized ( 13)C NMR spectroscopy in order to probe cellular metabolism in real time .
+JM1 ( immortalized rat hepatoma ) cells were cultured in a three-dimensional NMR-compatible fluidized bioreactor .
+( 31)P spectra were acquired before and after each injection of hyperpolarized [ 1-(13)C ] pyruvate and subsequent ( 13)C spectroscopy at 11.7 T .
+( 1)H and two-dimensional ( 1)H-(1)H-total correlation spectroscopy spectra were acquired from extracts of cells grown in uniformly labeled ( 13)C-glucose , on a 16.4 T , to determine ( 13)C fractional enrichment and distribution of ( 13)C label .
+JM1 cells were found to have a high rate of aerobic glycolysis in both two-dimensional culture and in the bioreactor , with 85% of the ( 13)C label from uniformly labeled ( 13)C-glucose being present as either lactate or alanine after 23 h .
+Flux measurements of pyruvate through lactate dehydrogenase and alanine aminotransferase in the bioreactor system were 12.18 +/- 0.49 nmols/sec/10(8) cells and 2.39 +/- 0.30 nmols/sec/10(8) cells , respectively , were reproducible in the same bioreactor , and were not significantly different over the course of 2 days .
+Although this preliminary study involved immortalized cells , this combination of technologies can be extended to the real-time metabolic exploration of primary benign and cancerous cells and tissues prior to and after therapy .

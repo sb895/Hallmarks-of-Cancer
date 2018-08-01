@@ -1,0 +1,8 @@
+We have already shown that IL-10 plays an important role in immunosuppression and metastatic dissemination in the rat B-cell lymphoma L-TACB model .
+It was suggested that the up-regulation of IL-10 production and IL-10 receptor ( IL-10R ) expression would be part of the transition from primary tumor to metastatic phenotype and that IL-10 , besides its immunosuppressive activity , may act as a growth factor for metastatic L-TACB cells .
+The treatment of L-TACB-bearing rats with a single low-dose cyclophosphamide decreased IL-10 production , reverted immunosuppression and induced the immunologic rejection of tumor metastasis without any effect on primary tumor growth .
+Our current aim was to investigate the effects of cyclophosphamide on the expression of IL-10 and IL-10R on primary and metastatic L-TACB cells .
+Considering that cyclophosphamide is a prodrug , we used mafosfamide , a compound that yields in vitro the same active metabolites as cyclophosphamide does in vivo .
+Mafosfamide induced down-regulation of IL-10 production and IL-10R expression on metastatic cells and , concomitantly , inhibited metastatic cell proliferation .
+We suggest that mafosfamide would inhibit the regulatory loop mediated by the IL-10/IL-10R system and , as a consequence , metastatic cell proliferation .
+These results may have a considerable impact on the design of new therapies for metastatic lymphomas .

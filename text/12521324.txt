@@ -1,0 +1,13 @@
+Adenoid cystic carcinoma ( ACC ) of the salivary glands is a highly infiltrative malignant tumour with a tendency for lung metastasis .
+Gene therapy could be a potentially effective therapy for ACC and its metastasis .
+The aims of the study were : To transduce interleukin-2 ( IL-2 ) gene into an ACC cell line with predisposition for lung metastasis ( ACC-M ) ; to compare the bioactivity of the gene-transduced cells and the parent cell line in vitro and in vivo .
+The IL-2 gene was transduced via a bicistronic retroviral vector into the ACC-M cells .
+The growth rate and DNA cell cycles of the parent ACC-M , the control viral vector AmGCEN , and the gene transduced AmIL-2 cell cultures were compared quantitatively and by flow cytometry , respectively .
+The tumourigenic ability of the three cell lines was verified by inoculation in athymic nude mice .
+The tumours developed were extracted and compared quantitatively and histologically .
+There was no difference in the growth rate and the DNA count between the ACC-M , AmGCEN , and AmIL-2 cell cultures .
+In the animal experiment , both the ACC-M and AmGCEN cells stimulated lung metastasis in all the mice , whereas there was no tumour found in the 1 x 10(6) AmIL-2 cells inoculation .
+On 3 x 10(6) AmIL-2 cells stimulation , three out of six mice developed tumours but the mass and volume of the tumours were smaller than the other two groups .
+Under light microscopy , the ACC-M tumours were mainly poorly differentiated with minimal cellular matrix , whereas the AmIL-2 tumours were well differentiated with ample matrix .
+The transduction of IL-2 gene can reduce the tumourigenicity of ACC-M cells and induces tumour cell differentiation in mice .
+The IL-2 gene can be a potential effective gene for the treatment of adenoid cystic carcinoma of salivary glands and its lung metastasis .

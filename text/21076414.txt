@@ -1,0 +1,8 @@
+Metastatic cancer cells typically fail to halt migration on contact with non-cancer cells .
+This invasiveness is in contrast to normal mesenchymal cells that retract on contact with another cell .
+Why cancer cells are defective in contact inhibition of locomotion is not understood .
+Here , we analyse the dynamics of prostate cancer cell lines co-cultured with fibroblasts , and demonstrate that a combinatorial code of Eph receptor activation dictates whether cell migration will be contact inhibited .
+The unimpeded migration of metastatic PC-3 cells towards fibroblasts is dependent on activation of EphB3 and EphB4 by ephrin-B2 , which we show activates Cdc42 and cell migration .
+Knockdown of EphB3 and EphB4 restores contact inhibition of locomotion to PC-3 cells .
+Conversely , homotypic collisions between two cancer cells results in contact inhibition of locomotion , mediated by EphA-Rho-Rho kinase ( ROCK ) signalling .
+Thus , the migration of cancer cells can switch from restrained to invasive , depending on the Eph-receptor profile of the cancer cell and the reciprocal ephrin ligands expressed by neighbouring cells .

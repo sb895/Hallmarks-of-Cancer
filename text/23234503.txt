@@ -1,0 +1,10 @@
+ABSTRACT : Cell size homeostasis is a conserved attribute in many eukaryotic species involving a tight regulation between the processes of growth and proliferation .
+In budding yeast S. cerevisiae , growth to a " critical cell size " must be achieved before a cell can progress past START and commit to cell division .
+Numerous studies have shown that progression past START is actively regulated by cell size control genes , many of which have implications in cell cycle control and cancer .
+Two initial screens identified genes that strongly modulate cell size in yeast .
+Since a second generation yeast gene knockout collection has been generated , we screened an additional 779 yeast knockouts containing 435 new ORFs ( of the yeast genome ) to supplement previous cell size screens .
+Upon completion , 10 new strong size mutants were identified : nine in log-phase cells and one in saturation-phase cells , and 97% of the yeast genome has now been screened for cell size mutations .
+The majority of the logarithmic phase size mutants have functions associated with translation further implicating the central role of growth control in the cell division process .
+Genetic analyses suggest ECM9 is directly associated with the START transition .
+Further , the small ( whi ) mutants mrpl49Δ and cbs1Δ are dependent on CLN3 for cell size effects .
+In depth analyses of new size mutants may facilitate a better understanding of the processes that govern cell size homeostasis .

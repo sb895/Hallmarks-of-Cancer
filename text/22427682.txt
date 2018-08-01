@@ -1,0 +1,12 @@
+Cigarette smoking is implicated in numerous diseases , including emphysema and lung cancer .
+The clinical expression of lung disease in smokers is not well explained by currently defined variations in gene expression or simple differences in smoking exposure .
+Alveolar macrophages play a critical role in the inflammation and remodeling of the lung parenchyma in smoking-related lung disease .
+Significant gene expression changes in alveolar macrophages from smokers have been identified .
+However , the mechanism for these changes remains unknown .
+One potential mechanism for smoking-altered gene expression is via changes in cytosine methylation in DNA regions proximal to gene-coding sequences .
+In this study , alveolar macrophage DNA from heavy smokers and never smokers was isolated and methylation status at 25,000 loci determined .
+We found differential methylation in genes from immune-system and inflammatory pathways .
+Analysis of matching gene expression data demonstrated a parallel enrichment for changes in immune-system and inflammatory pathways .
+A significant number of genes with smoking-altered mRNA expression had inverse changes in methylation status .
+One gene highlighted by this data was the FLT1 , and further studies found particular up-regulation of a splice variant encoding a soluble inhibitory form of the receptor .
+In conclusion , chronic cigarette smoke exposure altered DNA methylation in specific gene promoter regions in human alveolar macrophages .

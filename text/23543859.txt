@@ -1,0 +1,11 @@
+Chronic alcohol ingestion increases hepatic cytochrome P450 2E1 ( CYP2E1 ) , which is associated with hepatocarcinogenesis .
+We investigated whether treatment with chlormethiazole ( CMZ ) , a CYP2E1 inhibitor , protects against alcohol-associated hepatic carcinogenesis in rats .
+Rats were fed either an ethanol liquid diet or a non-ethanol liquid diet , with or without CMZ for one and ten months .
+A single intraperitoneal injection of diethylnitrosamine ( DEN , 20 mg/kg ) was given to initiate hepatic carcinogenesis .
+CYP2E1 expression , inflammatory proteins , cell proliferation , protein-bound 4-HNE , etheno-DNA adducts , 8-hydroxy-2'-deoxyguanosine ( 8-OHdG ) , retinoid concentrations , and hepatic carcinogenesis were examined .
+Ethanol feeding for 1 month with DEN resulted in significantly increased hepatic CYP2E1 levels and increased nuclear accumulation of NF-\u03baB protein and TNF-\u03b1 expression , which were associated with increased cyclin D1 expression and p-GST positive altered hepatic foci .
+All of these changes induced by ethanol feeding were significantly inhibited by the one month CMZ treatment .
+At 10-months of treatment , hepatocellular adenomas were detected in ethanol-fed rats only , but neither in control rats nor in animals receiving ethanol and CMZ .
+The 8-OHdG formation was found to be significantly increased in ethanol fed animals and normalized with CMZ treatment .
+In addition , alcohol-reduced hepatic retinol and retinoic acid concentrations were restored by CMZ treatment to normal levels in the rats at 10 months of treatment .
+These data demonstrate that the inhibition of ethanol-induced CYP2E1 as a key pathogenic factor can counteract the tumor-promoting action of ethanol by decreasing TNF-\u03b1 expression , NF-\u03baB activation , and oxidative DNA damage as well as restoring normal hepatic levels of retinoic acid in DEN-treated rats .

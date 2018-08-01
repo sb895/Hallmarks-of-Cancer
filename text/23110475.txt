@@ -1,0 +1,11 @@
+Melittin ( 1 ) is a major polypeptide in honey bee venom that has been used traditionally against chronic inflammation and cancer .
+However , its molecular mechanism has not been determined .
+In this study , the antitumor effect of 1 was compared with that of NS398 , a cyclooxygenase-2 ( COX-2 ) inhibitor , in vivo and in vitro .
+Subcutaneous injection of 1 at 0.5 and 5 mg/kg suppressed significantly vascular endothelial growth factor ( VEGF)-A-transfected highly metastatic Lewis lung cancer ( VEGF-A-hm LLC ) tumor growth by 25% and 57% , respectively .
+Also , 1 inhibited significantly the number of vessels around VEGF-A-hm LLC cells .
+The results were superior to those obtained in the mice treated with NS398 .
+Compound 1 dose-dependently inhibited proliferation and tube formation in human umbilical vein endothelial cells ( VEGF-A-HUVECs ) , without affecting cell viability in native HUVECs .
+In addition , 1 decreased the expression of VEGF receptor-2 ( VEGFR-2 ) , COX-2 , and prostaglandin E(2) ( PGE(2) ) in VEGF-A-transfected HUVECs .
+These effects were accompanied by a reduction of the phosphorylation of extracellular signal-regulated kinase 1/2 and c-jun N-terminal kinase , whereas it increased the phosphorylation of p38 mitogen-activated protein kinase ( MAPK ) .
+SB203580 abolished the downregulation of COX-2 and VEGFR-2 and the inhibition of cell proliferation by 1 .
+The antitumor activity of 1 may be associated with antiangiogenic actions via inhibiting VEGFR-2 and inflammatory mediators involved in the MAPK signaling pathway .

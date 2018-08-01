@@ -1,0 +1,9 @@
+We examined the influence of the level of dietary protein or vitamin E ( VE ) on oxidative damage to DNA , lipids , and protein in the liver after total body irradiation ( TBI ) with X-rays at 1 or 4 Gy .
+Levels of 8-hydroxydeoxyguanosine , thiobarbituric acid-reactive substances , and protein carbonyls in the liver did not differ among the groups that did not receive TBI .
+However , oxidative damage to lipids and protein was increased by TBI only in the 1% protein group .
+DNA damage , lipid peroxidation , or protein oxidation in the liver was increased by TBI in a dose-dependent manner , and the damage was consistently higher in the 1% than in the 20% protein group .
+In the 1% protein group , a greater decrease in relative spleen weight by TBI was also observed .
+Concentrations of antioxidants ( vitamins C and E and glutathione ) in the liver were lower and the concentration of nonheme iron in the liver was higher in the 1% than in the 20% protein group .
+Mice fed a 1% protein diet became susceptible to TBI-induced oxidative damage , and decreases in antioxidant levels and an increase in iron level were involved in the mechanism of this susceptibility .
+These results suggest that dietary VE and protein can prevent oxidative damage to DNA , lipid , and protein in mice subjected to TBI .
+Consumption of a VE-free diet significantly increased 8-hydroxydeoxyguanosine levels in DNA from mice fed the 1% protein diet with TBI , but such changes were not detected in DNA from mice fed the 20% protein diet .

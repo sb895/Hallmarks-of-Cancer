@@ -1,0 +1,7 @@
+PURPOSE This study investigated the impact of specific mutations in codon 12 of the Kirsten-ras ( KRAS ) gene on treatment efficacy in patients with metastatic colorectal cancer ( mCRC ) .
+PATIENTS Overall , 119 patients bearing a KRAS mutation in codon 12 were evaluated .
+All patients received cetuximab-based first-line chemotherapy within the Central European Cooperative Oncology Group ( CECOG ) , AIO KRK-0104 or AIO KRK-0306 trials .
+RESULTS Patients with KRAS codon 12 mutant mCRC showed a broad range of outcome when treated with cetuximab-based first-line regimens .
+Patients with tumors bearing a KRAS p.G12D mutation showed a strong trend to a more favorable outcome compared to other mutations ( overall survival 23.3 vs. 14-18 months ; hazard ratio 0.66 , range 0.43-1.03 ) .
+An interaction model illustrated that KRAS p.G12C was associated with unfavorable outcome when treated with oxaliplatin plus cetuximab .
+CONCLUSION The present analysis suggests that KRAS codon 12 mutation may not represent a homogeneous entity in mCRC when treated with cetuximab-based first-line therapy .

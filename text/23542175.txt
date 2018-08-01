@@ -1,0 +1,9 @@
+Within the family of protein kinase C ( PKC ) molecules , the novel isoform PRKCE ( PKCɛ ) acts as a bona fide oncogene in in vitro and in vivo models of tumorigenesis .
+Previous studies have reported expression of PKCɛ in breast , prostate and lung tumors above that of normal adjacent tissue .
+Data from the cancer genome atlas suggest increased copy number of PRKCE in triple negative breast cancer ( TNBC ) .
+We find that overexpression of PKCɛ in a non-tumorigenic breast epithelial cell line is sufficient to overcome contact inhibition and results in the formation of cellular foci .
+Correspondingly , inhibition of PKCɛ in a TNBC cell model results in growth defects in two-dimensional ( 2D ) and three-dimensional ( 3D ) culture conditions and orthotopic xenografts .
+Using stable isotope labeling of amino acids in a cell culture phosphoproteomic approach , we find that CTNND1/p120ctn phosphorylation at serine 268 ( P-S268 ) occurs in a strictly PKCɛ-dependent manner , and that loss of PKCɛ signaling in TNBC cells leads to reversal of mesenchymal morphology and signaling .
+In a model of Ras activation , inhibition of PKCɛ is sufficient to block mesenchymal cell morphology .
+Finally , treatment with a PKCɛ ATP mimetic inhibitor , PF-5263555 , recapitulates genetic loss of function experiments impairing p120ctn phosphorylation as well as compromising TNBC cell growth in vitro and in vivo .
+We demonstrate PKCɛ as a tractable therapeutic target for TNBC , where p120ctn phosphorylation may serve as a readout for monitoring patient response.Oncogene advance online publication , 1 April 2013 ; doi:10.1038/onc.2013.91 .

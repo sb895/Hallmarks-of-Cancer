@@ -1,0 +1,11 @@
+The submandibular gland-derived tumor cell line SCA-9 is considered a useful tool to study the signaling pathways involved in proliferation , and their regulation , triggered by different stimuli .
+It is proposed that the non neuronal cholinergic system : acethylcholine , the enzymes that synthesize and degrade it , and the nicotinic and muscarinic receptors , play a key role in tumorigenesis .
+Here , we investigate the role of muscarinic receptors in SCA-9 cell proliferation , and the modulation of cholinergic signaling pathways exerted by the nuclear transcription factor κB ( NF-κB ) .
+The activation of cholinergic receptors by carbachol ( 10⁻⁹M ) increased cell proliferation ( P<0.001 ) .
+This was prevented by preincubating cells with the muscarinic antagonist atropine but not by mecamylamine , a nicotinic receptor blocker .
+Phospholipase C ( PLC)/nitric oxide synthase ( NOS)/arginase pathway is involved in this effect , since carbachol stimulated nitric oxide production , increased NOS2 and NOS3 expressions , urea production , and arginase II expression ( P<0.001 ) .
+Also , phospholipase A₂ ( PLA₂)/cyclooxygenase ( COX ) pathway is up-regulated in carbachol-induced SCA-9 cell proliferation , because prostaglandin E₂ liberation ( P<0.001 ) is increased and COX-1 expression is turned up ( P<0.001 ) .
+Interactions between PLC/NOS/arginases and PLA₂/COX pathways via its metabolites were detected .
+SCA-9 cells exhibit a constitutive activation of NF-κB , which regulates carbachol-induced NOS2 and 3 , arginase II and COX-1 expressions .
+In addition , protein kinase C is involved in the up-regulation of NOS2 and arginase II enzymes induced by carbachol via NF-κB .
+In conclusion , the activation of cholinergic receptors in SCA-9 tumor cells promotes proliferation via muscarinic effector enzymes , and reveals the participation of NF-κB at this step of tumorigenesis .

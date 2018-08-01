@@ -1,0 +1,10 @@
+An accidental exposure of six workers to ethylene oxide ( EO ) provided the rationale for a biomonitoring and follow-up study , whose aim was to analyse protein adduct kinetics and examine the differentiation between accidental and environmental exposure , e.g. , from tobacco smoke .
+For this purpose , the decrease in the concentration of the haemoglobin adduct N-2-hydroxyethylvaline ( HEV ) was followed during a five-month period after the accident , together with N-2-cyanoethylvaline ( CEV ) and urinary cotinine , two well-established biomarkers for smoking .
+The follow-up study showed that EO adduct concentrations significantly increased after a short but presumably high exposure .
+Initial biomonitoring revealed HEV levels above 500 pmol g(-1) globin in all cases , with a maximum of about 2,400 pmol g(-1) globin .
+This compares to a German EKA value ( exposure equivalent for carcinogenic substances ) for a daily 8-h-exposure to 1 ppm EO of 90 \u03bcg L(-1) blood ( pmol g(-1) globin ) .
+The adduct levels dropped in accordance with the expected zero-order kinetics for a single exposure .
+After the five-month observation interval , the HEV concentrations in blood reflected the individual background from tobacco smoking .
+The results of this study show that even a short exposure to ethylene oxide may result in a significant rise in haemoglobin adduct levels .
+Although protein adducts and their occupational-medical assessment values are considered for long-term exposure surveillance , they can also be used for monitoring accidental exposures .
+In these cases , the calculation of daily ' ppm-equivalents ' may provide a means for a comparison with the existing assessment values .

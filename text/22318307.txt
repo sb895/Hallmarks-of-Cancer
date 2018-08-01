@@ -1,0 +1,9 @@
+D-Limonene , a common monoterepene has been shown to have antiproliferative , apoptosis-inducing and chemopreventive effects .
+In the present study , we have investigated the effects of D-limonene on the growth of 7,12-dimethylbenz[a]anthracene ( DMBA)-initiated and 12-O-tetradecanoylphorbol-13-acetate ( TPA)-promoted skin tumor development .
+We found that D-limonene ( 50 and 100 mg/kg body weight ) treatments to the mouse skin significantly reduced the TPA-induced ( a ) edema and hyperplasia ( p < 0.001 ) ; ( b ) expression of cyclooxygenase-2 ; ( c ) ornithine decarboxylase activity ( p < 0.001 ) ; and ( d ) [ (3)H ] thymidine incorporation into DNA ( p < 0.001 ) .
+In addition , treatment of D-limonene effectively restored the level of reduced glutathione , glutathione peroxidase , glutathione reductase , glutathione S-transferase , catalase and malondialdehyde production in TPA-treated mouse skin .
+In a two-stage skin tumorigenesis study , D-limonene significantly reduced the tumor burden ( p < 0.005 ) and tumor incidence as compared to DMBA/TPA-treated mice .
+D-Limonene treatment also extended the latency period of tumor development from 4 to 9 weeks .
+D-Limonene treatment decreased the expression level of Ras , Raf and phosphorylation of extracellular signal-regulated protein kinase 1/2 in DMBA/TPA-induced tumors .
+A decrease in the expression of Bcl-2 and an increase in Bax expression were also observed in tumor tissues of mice treated with D-limonene .
+Taken together , our findings suggest that D-limonene may exert its chemopreventive activity through the inhibition of inflammation , oxidative stress and Ras-signaling as well as the induction of pro-apoptotic state during TPA-mediated promotion of DMBA-induced skin cancer in mouse model .

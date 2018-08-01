@@ -1,0 +1,12 @@
+Lewis y ( LeY ) antigen is a difucosylated oligosaccharide carried by glycoconjugates on the cell surface .
+Overexpression of LeY is frequently observed in epithelial-derived cancers and has been correlated to the pathological staging and prognosis .
+However , the effects of LeY on ovarian cancer are not yet clear .
+Previously , we transfected the ovarian cancer cell line RMG-I with the α1,2-fucosyltransferase gene to obtain stable transfectants , RMG-I-H , that highly express LeY .
+In the present study , we examined the proliferation , tumorigenesis , adhesion and invasion of the cell lines with treatment of LeY monoclonal antibody ( mAb ) .
+Additionally , we examined the expression of TGF-β1 , VEGF and b-FGF in xenograft tumors .
+The results showed that the proliferation and adhesion in vitro were significantly inhibited by treatment of RMG-I-H cells with LeY mAb .
+When subcutaneously inoculated in nude mice , RMG-I-H cells produced large tumors , while mock-transfected cells RMG-I-C and the parental cells RMG-I produced small tumors .
+Moreover , the tumor formation by RMG-I-H cells was inhibited by preincubating the cells with LeY mAb .
+Notably , the expression of TGF-β1 , VEGF and b-FGF all increased in RMG-I-H cells .
+In conclusion , LeY plays an important role in promoting cell proliferation , tumorigenecity and adhesion , and these effects may be related to increased levels of growth factors .
+The LeY antibody shows potential application in the treatment of LeY-positive tumors .

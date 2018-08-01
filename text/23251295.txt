@@ -1,0 +1,11 @@
+The aim of this study was to evaluate the effects and molecular mechanisms of everolimus on Panc-1 human pancreatic cancer cells .
+Panc-1 human pancreatic cancer cells were treated with everolimus ( 10 μg/ml ) at selected time points ( 6 , 12 and 24 h ) .
+Cell proliferation and apoptosis were evaluated by MTT and flow cytometric analyses .
+The glycolytic activity was determined by measuring the activity of the key enzyme lactate dehydrogenase ( LDH ) and lactate production .
+The activity of mammalian target of rapamycin ( mTOR ) signaling was measured by western blotting .
+The expression of genes , including hexokinase 2 ( HK2 ) and microRNA-143 ( miR-143 ) , was evaluated by real-time polymerase chain reaction ( PCR ) .
+The administration of everolimus time-dependently inhibited proliferation and glycolysis and induced apoptosis in the Panc-1 human pancreatic cancer cells .
+As the time of treatment with everolimus increased , the mTOR signaling activity decreased , indicated by lower phosphorylation levels of S6 kinase ; however , the phosphorylation levels of mTOR barely changed .
+Moreover , our data showed an everolimus-induced increase in miR-143 and decrease in HK2 in Panc-1 cells in a time-dependent manner .
+In conclusion , the current study indicates a novel role of everolimus in its antitumor effect as an inhibitor of glycolysis in Panc-1 human pancreatic cancer cells .
+Furthermore , our data highlights the significance of exploring the mechanisms of everolimus and miR-143 in malignant tumors .

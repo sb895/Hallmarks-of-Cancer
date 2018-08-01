@@ -1,0 +1,10 @@
+Targeting cancer cell metabolism is a new promising strategy to fight cancer .
+Metformin , a widely used antidiabetic agent , exerts antitumoral and antiproliferative action .
+In this study , the addition of metformin to 2-deoxyglucose ( 2DG ) inhibited mitochondrial respiration and glycolysis in prostate cancer cells leading to a severe depletion in ATP .
+The combination of the two drugs was much more harmful for cancer cells than the treatment with metformin or 2DG alone , leading to 96% inhibition of cell viability in LNCaP prostate cancer cells .
+In contrast , a moderate effect on cell viability was observed in normal prostate epithelial cells .
+At the cellular level , the combination of metformin and 2DG induced p53-dependent apoptosis via the energy sensor pathway AMP kinase , and the reexpression of a functional p53 in p53-deficient prostate cancer cells restored caspase-3 activity .
+In addition to apoptosis , the combination of metformin and 2DG arrested prostate cancer cells in G(2)-M .
+This G(2)-M arrest was independent of p53 and correlated with a stronger decrease in cell viability than obtained with either drug .
+Finally , metformin inhibited 2DG-induced autophagy , decreased beclin 1 expression , and triggered a switch from a survival process to cell death .
+Our study reinforces the growing interest of metabolic perturbators in cancer therapy and highlights the potential use of the combination of metformin and 2DG as an anticancerous treatment .

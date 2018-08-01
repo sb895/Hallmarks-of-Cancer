@@ -1,0 +1,10 @@
+BACKGROUND Inorganic arsenic is a ubiquitous environmental carcinogen affecting millions of people worldwide .
+Evolving theory predicts that normal stem cells ( NSCs ) are transformed into cancer stem cells ( CSCs ) that then drive oncogenesis .
+In humans , arsenic is carcinogenic in the urogenital system ( UGS ) , including the bladder and potentially the prostate , whereas in mice arsenic induces multi-organ UGS cancers , indicating that UGS NSCs may represent targets for carcino-genic initiation .
+However , proof of emergence of CSCs induced by arsenic in a stem cell population is not available .
+METHODS We continuously exposed the human prostate epithelial stem/progenitor cell line WPE-stem to an environmentally relevant level of arsenic ( 5 microM ) in vitro and determined the acquired cancer phenotype .
+RESULTS WPE-stem cells rapidly acquired a malignant CSC-like phenotype by 18 weeks of exposure , becoming highly invasive , losing contact inhibition , and hyper-secreting matrix metalloproteinase-9 .
+When hetero-transplanted , these cells ( designated As-CSC ) formed highly pleomorphic , aggressive tumors with immature epithelial- and mesenchymal-like cells , suggesting a highly pluripotent cell of origin .
+Consistent with tumor-derived CSCs , As-CSCs formed abundant free-floating spheres enriched in CSC-like cells , as confirmed by molecular analysis and the fact that only these floating cells formed xeno-graft tumors .
+An early loss of NSC self-renewal gene expression ( p63 , ABCG2 , BMI-1 , SHH , OCT-4 , NOTCH-1 ) during arsenite exposure was sub-sequently reversed as the tumor suppressor gene PTEN was progressively suppressed and the CSC-like phenotype acquired .
+CONCLUSIONS Arsenite transforms prostate epithelial stem/progenitor cells into CSC-like cells , indicating that it can produce CSCs from a model NSC population .

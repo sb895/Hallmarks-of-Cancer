@@ -1,0 +1,7 @@
+BACKGROUND/AIMS The use of chemotherapy in hepatocellular carcinoma is still controversial .
+The aim of this study was to investigate whether the combined use of epirubicin and progesterone has a synergistic effect on cell proliferation and apoptosis in HepG2 cells .
+METHODOLOGY Different concentrations of epirubicin ( 0.1 microg/ml , 0.25 microg/ml and 0.5microg/ml ) or progesterone ( 12.5 microM , 25 microM and 50 microM ) were added to HepG2 cells either alone or in combinations consisting of different concentrations of the two .
+Their effects on HepG2 cells were studied by ( 1 ) XTT assay for analysis of cell proliferation , ( 2 ) 3H-Thymidine incorporation for DNA synthesis , ( 3 ) annexin V-FITC/ propidium iodide ( PI ) flowcytometery for cell apoptosis , ( 4 ) flowcytometry for cell cycle distributions , and ( 5 ) reverse transcription-polymerase chain reaction for expression of cell cycle modulator , cyclin D1 .
+RESULTS 50 microM progesterone increased both the cytotoxic and apoptotic effects of 0.1 microg/ml epirubicin on HepG2 cells at 48 hr culture due to 50 microM progesterone accumulated cells in S phase of the cell cycle and subsequently reduced cyclin D1 expression .
+These effects on HepG2 cells induced by this combination were comparable to those induced by 0.5 microg/ml epirubicin alone .
+CONCLUSIONS In vitro , progesterone can increase the cytotoxicity and apoptosis induced by epirubicin on HepG2 cells .

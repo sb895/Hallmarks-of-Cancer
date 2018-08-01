@@ -1,0 +1,7 @@
+Eukaryotic High-Mobility Group B ( HMGB ) proteins alter DNA elasticity while facilitating transcription , replication and DNA repair .
+We developed a new single-molecule method to probe non-specific DNA interactions for two HMGB homologs : the human HMGB2 box A domain and yeast Nhp6Ap , along with chimeric mutants replacing neutral N-terminal residues of the HMGB2 protein with cationic sequences from Nhp6Ap .
+Surprisingly , HMGB proteins constrain DNA winding , and this torsional constraint is released over short timescales .
+These measurements reveal the microscopic dissociation rates of HMGB from DNA .
+Separate microscopic and macroscopic ( or local and non-local ) unbinding rates have been previously proposed , but never independently observed .
+Microscopic dissociation rates for the chimeric mutants ( s(-1) ) are higher than those observed for wild-type proteins ( s(-1) ) , reflecting their reduced ability to bend DNA through short-range interactions , despite their increased DNA-binding affinity .
+Therefore , transient local HMGB-DNA contacts dominate the DNA-bending mechanism used by these important architectural proteins to increase DNA flexibility .

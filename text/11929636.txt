@@ -1,0 +1,9 @@
+Inflammatory events have been associated with senile plaques , one of the pathological hallmarks of Alzheimer's disease ( AD ) .
+It is believed that aggregated beta-amyloid ( betaA ) proteins , which form the core of these plaques , may be responsible for triggering the inflammatory reaction .
+In the present study , the ability of aluminum ( Al ) to initiate similar inflammatory events was investigated in a human glioblastoma cell line .
+A 6-day exposure to either lipopolysaccharide ( LPS ) or aluminum sulfate caused a significant increase in the rate of proliferation of the glioblastoma cells .
+Both treatments also caused activation of the immune-responsive transcription factor NF-kappaB although there were time-related differences .
+The levels of secreted cytokines , interleukin-6 ( IL-6 ) and tumor necrosis factor alpha ( TNF-alpha ) were both increased by the LPS treatment although exposure to Al decreased the secretion of the former while elevating the levels of the latter .
+These events may be due to the activation of glial cells and subsequent stress response to either Al complexes or LPS .
+Although exposure to either stress factor caused a stimulation of inflammatory markers , there were time-dependent differences in the response .
+This may reflect the ability of the cells to discern different stress factors and thus orchestrate an innate immune response profile distinct to each immunogen .

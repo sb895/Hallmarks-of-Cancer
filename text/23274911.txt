@@ -1,0 +1,7 @@
+N-Ras is one member of a family of oncoproteins that are commonly mutated in cancer .
+Activating mutations in N-Ras occur in a subset of colorectal cancers , but little in known about how the mutant protein contributes to onset and progression of the disease .
+Using genetically engineered mice , we find that mutant N-Ras strongly promotes tumorigenesis in the context of inflammation .
+The pro-tumorigenic nature of mutant N-Ras is related to its anti-apoptotic function , which is mediated by activation of a non-canonical MAPK pathway that signals through Stat3 .
+As a result , inhibition of MEK selectively induces apoptosis in autochthonous colonic tumors expressing mutant N-Ras .
+The translational significance of this finding is highlighted by our observation that NRAS mutation correlates with a less favorable clinical outcome for colorectal cancer patients .
+These data demonstrate for the first time the important role that N-Ras plays in colorectal cancer .

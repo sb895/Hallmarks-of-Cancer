@@ -1,0 +1,12 @@
+A common metabolic change in cancer is the acquisition of glycolytic phenotypes .
+Increased expression of glycolytic enzymes is considered as one contributing factor .
+The role of mitochondrial defects in acquisition of glycolytic phenotypes has been postulated but remains controversial .
+Here we show that functional defects in mitochondrial respiration could be induced by oncogenic H-Ras(Q61L) transformation , even though the mitochondrial contents or mass was not reduced in the transformed cells .
+First , mitochondrial respiration , as measured by mitochondrial oxygen consumption , was suppressed in NIH-3T3 cells transformed with H-Ras(Q61L) .
+Second , oligomycin or rotenone did not reduce the cellular ATP levels in the H-Ras(Q61L) transformed cells , suggesting a diminished role of mitochondrial respiration in the cellular energy metabolism .
+Third , inhibition of glycolysis with iodoacetic acid reduced ATP levels at a much faster rate in H-Ras(Q61L) transformed cells than in the vector control cells .
+The reduction of cellular ATP levels was reversed by exogenously added pyruvate in the vector control cells but not in H-Ras(Q61L) transformed cells .
+Finally when compared to the HRas(Q61L) transformed cells , the vector control cells had increased resistance toward glucose deprivation .
+The increased resistance was dependent on mitochondrial oxidative phosphorylation since rotenone or oligomycin abolished the increased survival of the vector control cells under glucose deprivation .
+The results also suggest an inability of the H-Ras(Q61L) transformed cells to reactivate mitochondrial respiration under glucose deprivation .
+Taken together , the data suggest that mitochondrial respiration can be impaired during transformation of NIH-3T3 cells by oncogeneic H-Ras(Q61L) .

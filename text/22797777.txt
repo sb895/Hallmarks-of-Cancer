@@ -1,0 +1,8 @@
+MicroRNAs ( miRs ) are small non-coding RNAs that recently emerged as potent regulators of gene expression .
+The members of the miR-17-92 cluster have been shown to control endothelial cell functions and neovascularization ; however , the regulation and function of the cluster in endothelial cell lineage commitment has not been explored .
+This project aimed to test the role of the miR-17-92 cluster during endothelial differentiation .
+We demonstrate that miR-17 , miR-18 , miR-19 and miR-20 are increased upon the induction of endothelial cell differentiation of murine embryonic stem cells or induced pluripotent stem cells .
+In contrast , miR-92a and the primary miR-17-92 transcript were downregulated .
+The inhibition of each individual miR of the cluster by cholesterol-modified antagomirs did not affect endothelial marker gene expression .
+Moreover , the combination of all antagomirs had no effect .
+These findings illustrate that although the miR-17-92 cluster regulates vascular integrity and angiogenesis , none of the members has a significant impact on the endothelial differentiation of pluripotent stem cells .

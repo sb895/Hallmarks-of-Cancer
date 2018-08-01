@@ -1,0 +1,9 @@
+SCOPE Glyceollins are a novel class of soybean phytoalexins with potential cancer-preventive and antiestrogenic effects .
+The angiogenic cascade during tumor development consists of the release of angiogenic factors and binding of angiogenic factors to receptors on endothelial cells to activate downstream signaling pathways .
+However , the potential medicinal value of glyceollins , especially in antiangiogenesis , remains unexplored .
+METHODS AND RESULTS Here , we investigated the antiangiogenic activity of glyceollins and their underlying mechanisms .
+Glyceollins inhibited vascular endothelial growth factor ( VEGF ) or basic fibroblast growth factor ( bFGF ) induced in vitro angiogenic activity .
+Glyceollins inhibited VEGF receptor-2 or FGF receptor-1 activity and their downstream signaling pathways such as extracellular regulated kinase 1/2 , c-Jun N-terminal kinase , as well as p38 mitogen-activated protein kinase and focal adhesion kinase induced by VEGF or bFGF .
+Glyceollins significantly suppressed VEGF receptor-2 kinase activity assayed by the ELISA .
+Glyceollins significantly attenuated in vivo and ex vivo microvessel development in a dose-dependent manner and tumor growth by suppressing microvessel density in Lewis lung carcinoma ( LLC ) mouse xenograft .
+CONCLUSION Thus , glyceollins , elicited ingredients of soy source , target the signaling pathways mediated by VEGF or bFGF , providing new perspectives into potential therapeutics for preventing and treating hypervascularized diseases including cancer .

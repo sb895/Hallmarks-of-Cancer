@@ -1,0 +1,11 @@
+There are contradictory observations about the different radiosensitivities of cancer stem cells and cancer non-stem cells .
+To resolve these contradictory observations , we studied radiosensitivities by employing breast cancer stem cell ( CSC)-like MDA-MB231 and MDA-MB453 cells as well as their corresponding non-stem cells .
+CSC-like cells proliferate without differentiating and have characteristics of tumor-initiating cells [ 1 ] .
+These cells were exposed to \u03b3-rays ( 1.25-8.75 Gy ) and survival curves were determined by colony formation .
+A final slope , D(0) , of the survival curve for each cell line was determined to measure radiosensitivity .
+The D(0) of CSC-like and non-stem MDA-MB-453 cells were 1.16 Gy and 1.55 Gy , respectively .
+Similar results were observed in MDA-MB-231 cells ( 0.94 Gy vs. 1.56 Gy ) .
+After determination of radiosensitivity , we investigated intrinsic cellular determinants which influence radiosensitivity including cell cycle distribution , free-radical scavengers and DNA repair .
+We observed that even though cell cycle status and antioxidant content may contribute to differential radiosensitivity , differential DNA repair capacity may be a greater determinant of radiosensitivity .
+Unlike non-stem cells , CSC-like cells have little/no sublethal damage repair , a low intracellular level of ataxia telangiectasia mutated ( ATM ) and delay of \u03b3-H2AX foci removal ( DNA strand break repair ) .
+These results suggest that low DNA repair capacity is responsible for the high radiosensitivity of these CSC-like cells .

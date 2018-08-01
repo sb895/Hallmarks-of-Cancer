@@ -1,0 +1,9 @@
+Focal adhesion kinase ( FAK ) is an important mediator of extracellular matrix integrin signaling , cell motility , cell proliferation and cell survival .
+Increased FAK expression is observed in a variety of solid human tumors and increased FAK expression and activity frequently correlate with metastatic disease and poor prognosis .
+Herein we identify miR-7 as a direct regulator of FAK expression. miR-7 expression is decreased in malignant versus normal breast tissue and its expression correlates inversely with metastasis in human breast cancer patients .
+Forced expression of miR-7 produced increased E-CADHERIN and decreased FIBRONECTIN and VIMENTIN expression in breast cancer cells .
+The levels of miR-7 expression was positively correlated with E-CADHERIN mRNA and negatively correlated with VIMENTIN mRNA levels in breast cancer samples .
+Forced expression of miR-7 in aggressive breast cancer cell lines suppressed tumor cell monolayer proliferation , anchorage independent growth , three-dimensional growth in Matrigel , migration and invasion .
+Conversely , inhibition of miR-7 in the HBL-100 mammary epithelial cell line promoted cell proliferation and anchorage independent growth .
+Rescue of FAK expression reversed miR-7 suppression of migration and invasion. miR-7 also inhibited primary breast tumor development , local invasion and metastatic colonization of breast cancer xenografts .
+Thus , miR-7 expression is decreased in metastatic breast cancer , correlates with the level of epithelial differentiation of the tumor and inhibits metastatic progression .

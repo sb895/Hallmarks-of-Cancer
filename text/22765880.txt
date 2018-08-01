@@ -1,0 +1,8 @@
+Previously , stereoselective hydroxylation of \u03b1-ionone by Cytochrome P450 BM3 mutants M01 A82W and M11 L437N was observed .
+While both mutants hydroxylate \u03b1-ionone in a regioselective manner at the C3 position , M01 A82W catalyzes formation of trans-3-OH-\u03b1-ionone products whereas M11 L437N exhibits opposite stereoselectivity , producing trans-(3S,6S)-OH-\u03b1-ionone and cis-(3S,6R)-OH-\u03b1-ionone .
+Here , we explore the stereoselective C3 hydroxylation of \u03b1-ionone by Cytochrome P450 BM3 mutants M01 A82W and M11 L437N using molecular dynamics-based free energy calculations to study the interaction between the enzyme and both the substrates and the products .
+The one-step perturbation approach is applied using an optimized reference state for substrates and products .
+While the free energy differences between the substrates free in solution amount to kJ mol(-1) , the differences in mutant M01 A82W agree with the experimentally obtained dissociation constants K(d) .
+Moreover , a correlation with experimentally observed trends in product formation is found in both mutants .
+The trans isomers show the most favorable relative binding free energy in the range of all four possible hydroxylated diastereomers for mutant M01 A82W , while the trans product from ( 6S)-\u03b1-ionone and the cis product from ( 6R)-\u03b1-ionone show highest affinity for mutant M11 L437N .
+Marcus theory is subsequently used to relate the thermodynamic stability to transition state energies and rates of formation .

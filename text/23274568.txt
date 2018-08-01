@@ -1,0 +1,13 @@
+Nitric oxide ( NO)-releasing non-steroidal anti-inflammatory drugs ( NO-NSAIDs ) which have been synthesized to reduce gastro-intestinal and cardiovascular toxicities of NSAIDs , possess anti-proliferative , pro-apoptotic and anti-cancer activities .
+Here , we show that NO-sulindac inhibited UVB-induced skin tumorigenesis in SKH-1 hairless mice .
+Topical application of NO-sulindac reduced tumor incidence , number ( p<0.05 ) and volume ( p<0.005 ) as compared to UVB ( alone)-irradiated vehicle-treated mice .
+An increase in TUNEL-positive cells in skin lesions was accompanied by the enhanced Bax:Bcl-2 ratio .
+The expression of pro-apoptotic Bax was increased whereas anti-apoptotic Bcl-2 reduced .
+However , proliferation was identified as the major target of NO-sulindac in this study .
+A reduced expression of PCNA and cyclin D1 associated with the dampening of cell cycle progression was observed .
+The mechanism of this inhibition was related to the reduction in UVB-induced Notch signaling pathway .
+UVB-induced inflammatory responses were diminished by NO-sulindac as observed by a remarkable reduction in the levels of phosphorylated MAP Kinases Erk1/2 , p38 and JNK1/2 .
+In this regard , NO-sulindac also inhibited NFκB by enhancing IκBα as evidenced by the reduced expression of iNOS and COX-2 , the direct NFκB transcription target proteins .
+NO-sulindac significantly diminished the progression of benign lesions to invasive carcinomas by suppressing the tumor aggressiveness and retarding epithelial-mesenchymal transition .
+A marked decrease in the expression of mesenchymal markers such as Fibronectin , N-cadherin , SNAI , Slug and Twist and an increase in epithelial cell polarity marker E-cadherin were noted in NO-sulindac-treated tumors .
+Our data suggest that NO-sulindac is a potent inhibitor of UVB-induced skin carcinogenesis and acts by targeting proliferation-regulatory pathways .

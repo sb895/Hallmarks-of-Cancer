@@ -1,0 +1,4 @@
+Mas oncogene has been shown to have focus-inducing ability in NIH 3T3 cells which are tumorigenic in vivo in nude mice .
+Its stable expression in a variety of cell lines conferred some angiotensin responsiveness .
+To understand why mas-transfected cells exhibit a transformed phenotype and if angiotensin responsiveness plays any role in this process , we studied the growth characteristics of mas-transfected 3T3 cells and demonstrated that they lose contact inhibition , exhibit foci formation , and increased DNA synthesis even in absence of serum .
+Our results suggest that the transformed phenotype is due to the production of a mas receptor ligand distinct from angiotensin .
