@@ -1,5 +1,10 @@
 # Hallmarks-of-Cancer
-Expert annotated Hallmarks of Cancer Corpus
+The Hallmarks of Cancer Corpus for text classification
+
+The Hallmarks of Cancer (HOC) Corpus consists of 1852 PubMed publication abstracts manually annotated by experts according to a taxonomy (shown below). The taxonomy consists of 37 classes in a hierarchy. Zero or more class labels are assigned to each sentence in the corpus. The labels are found under the "labels" directory, while the tokenized text can be found under "text" directory. The filenames are the corresponding PubMed IDs (PMID).
+
+[[https://github.com/sb895/Hallmarks-of-Cancer/raw/master/hoc.svg]]
+
 
 
 ## Please cite the following publications
